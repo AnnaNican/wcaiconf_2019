@@ -1,0 +1,4732 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Omaggio a Lucio Fontana"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/omaggio00font">Omaggio a Lucio Fontana</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/omaggio00font">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+ucio Fontana 
+
+
+
+
+
+
+ucio Fontana 
+
+
+
+OMAGGIO A HOMAGE TO 
+
+LUCIO FONTANA LUCIO FONTANA 
+
+
+
+In copertina/Cover 
+
+Lucio Fontana 
+
+Spatial Concept, Expectations, 1965 
+
+Concetto spaziale. Attese, 1965 
+
+Peggy Guggenheim Collection, Venice 
+
+(The Solomon R. Guggenheim Foundation), 
+
+Gift of the Fondazione Lucio Fontana, 1987 
+
+
+
+Omaggio a Homage to 
+
+Lucio Fontana Lucio Fontana 
+
+
+
+A cura di Fred Lichl Curatoci by Fred Licht 
+
+
+
+Cataloghi Marsilio The Solomon R. Guggenheim Foundation 
+
+
+
+Collezione Peggy Guggenheim, 
+
+Venezia. 4 novembre 1988 - 5 marzo 1989 
+
+The Murray and Isabella Ravburn Foundation 
+New York," 12 Aprii - 16 [une 1989 
+
+
+
+La Fondazione Solomon R. Guggenheim è grata alla 
+Fondazione Lucio Fontana e alla Fondazione Murray e 
+Isabella Ravburn per la loro collaborazione che ha reso 
+possibile l'«Omaggio a Lucio Fontana» 
+
+The «Homage to Lucio Fontana» has been made possible 
+by generous grants from the Fondazione Lucio Fontana 
+and The Murray and Isabella Ravburn Foundation 
+
+
+
+ISHN 88-769 &gt;-04 1-8 
+
+
+
+SOMMARIO 
+
+
+
+CONTENTS 
+
+
+
+Thomas Krens Prefazione e ringraziamenti 
+
+Biografia 
+Fred Licht Omaggio a Lucio Fontana 
+
+
+
+Preface and acknowledgment: 
+Biography 
+
+Homage to Lucio Fontana 
+
+
+
+17 
+
+
+
+Catalogo 
+
+
+
+Catalogue 
+
+
+
+49 
+
+
+
+// taglio compiuto da Lucio lontana sulla 
+superficie della tela, fu un gesto di tale audacia 
+da decretare uno dei movimenti emblematici 
+dell'arte italiana del dopoguerra. Lo Spaziali- 
+smo. fondato nel 1947. di cui Fontana fu crea- 
+tore e protagonista, raccolse attorno a sé un 
+gruppo di giovani artisti a Milano e a Venezia, 
+tesi, in un'Italia uscita dalla parentesi fascista, 
+al recupero dell'astrazione, usando la caratte- 
+ristica arma italiana del manifesto. In questo 
+senso Fontana fu uomo del suo tempo, una 
+forza catalizzatrice in un determinato momen- 
+to storico. Perciò la donazione della Fondazio- 
+ne Lucio Fontana alla Collezione Peggy Gug- 
+genheim di Concetto spaziale. Attese. 1965. 
+con cinque tagli architettonicamente orche- 
+strati rientra perfettamente nello spirito della 
+collezione che Pegg}'. fin dall'inizio, volle fosse 
+intesa come storicamente rappresentativa. 
+
+Tuttavia l'arte di Fontana trascese la vicenda 
+dello Spazialismo e continuò ad esercitare una 
+forza duratura e postuma. Per esempio nel 
+1 949 alla Galleria del Naviglio di Milano. Fon- 
+tana creò e allestì il suo primo Ambiente spa- 
+ziale, premessa che avrebbe raggiunto piena 
+definizione negli anni '60. dopo la dispersione 
+dello Spazialismo. La penetrazione della tela 
+compiuta dall'artista dapprima, nel 1948. con 
+fori fBuchU e poi, dal 1958. con aperture (Ta- 
+glia rivela una stratificazione di nessi metafori- 
+ci e una originalità tecnica che sembra annun- 
+ciare il carattere espressivo di molta arte recen- 
+te. Lo spazio che Lontana apri oltre la tela fu 
+contemporaneamente banale e sublime - sve- 
+lando la povertà dei materiali dell'artista ma 
+dando ad essi un significato ricco e contempo- 
+raneo. Come un simbolo senza tempo che con- 
+tiene molti possibili significati nessuno dei 
+quali predominante sugli altri. Lo squarcio del- 
+la tela, teatro di tutte le precedenti illusioni 
+pittoriche e base in passato di certezze scientifi- 
+che come la prospettiva, evoca la scomposizio- 
+ne dell'atomo oppure la rivoluzione di Einstein 
+
+
+
+Lucio Lontana's incision of the stretched can- 
+vas was a gesture of such audacity that it crys- 
+tallized one of the emblematic movements of 
+postwar Italian art. Spazialismo. a group 
+founded in 1947. of which Lontana was both 
+originator and protagonist, drew around it a 
+number of young talents in Milan and Venice 
+who were intent on the recupero of abstraction 
+in post-Mussolini Italy and used the character- 
+istically Italian weapon of the manifesto to this 
+end. And so Fontana was a man of his time, a 
+galvanizing force in a historical moment. 
+Therefore, the gift from the fondazione Lucio 
+Lontana to the Peggy Guggenheim Collection 
+o/Concetto spaziale. Attese. 1965. with its five 
+architectonically orchestrated slashes, is per- 
+fectly in the spirit of the collection which Peggy 
+from the first intended should be historically 
+representative. 
+
+However, lontana's art continues to trans- 
+cend the Spazialismo episode and exercise an 
+enduring and posthumous force. Lor example, 
+in 1949. at the Galleria del Naviglio, Milan, he 
+created his first exhibited environment, the 
+Ambiente spaziale, an approach that was to 
+come into its own in the 1 960s. after the disper- 
+sal of Spazialismo. The penetration of the can- 
+vas by Fontana, at first with punctures in 1948 
+and then with arcs from 1958. reveals a multi- 
+plicity of metaphorical associations and a tech- 
+nical originality that is prophetic of the express- 
+ive character of much more recent art. The 
+space he opened behind the canvas was both 
+banal and sublime, revealing the poverty ol the 
+artist's materials but drawing to it rich ami 
+contemporary meaning. Fife a timeless sym- 
+bol, it contains many possible meanings, none 
+of which predominates. 1 he rupture of the can- 
+vas, ground of all previous pictorial illusion 
+and basis in the past for scientific certainties 
+such as perspective, evokes the splitting of the 
+atom. Or the upsetting of Newtonian concepts 
+of space and time by Einstein. Both macrocos 
+
+
+
+PREFAZIONE E RINGRAZIAMENTI 
+
+
+
+operata sui concetti newtoniani di spazio e 
+tempo. Macrocosmo e microcosmo, entrambe 
+le dimensioni spaziali, furono abbracciate da- 
+gli Spazialisti che non si limitarono solo a con- 
+siderazioni di ordine pittorico. Ma anche nel- 
+l'ambito dialettico di queste, la violazione di 
+Fontana di una tela integra, appare a posteriori 
+una rottura altrettanto profonda di quella at- 
+tuata nello stesso periodo da Jackson Pollock. 
+Nel 1946-47, Pollock libera il colore e il gesto 
+pittorico dall'obbligo di definire un'immagine, 
+sia figurativa che astratta. Fontana con i Buchi, 
+del 1 948, libera l'artista e il critico dalla distin- 
+zione tradizionale tra un genere e l'altro, gio- 
+cando nell'equivoco tra oggetto, rilievo, illusio- 
+ne, realtà, pittura e scultura. E proprio sull'ef- 
+fetto scultoreo delle opere di Fontana che il 
+curatore, Fred Licht, ha voluto incentrare que- 
+sto Omaggio. 
+
+L'Omaggio a Lucio Fontana esprime l'impor- 
+tanza che la Collezione Peggy Guggenheim at- 
+tribuisce all'acquisizione dell'opera di Fontana 
+Concetto spaziale, Attese. / miei ringraziamen- 
+ti vanno in primo luogo a Teresita Fontana e ai 
+Garanti della Fondazione Lucio Fontana per la 
+donazione, che può anche intendersi come un 
+tributo alla carriera e all'amicizia di Thomas 
+Messer, mio predecessore. La Fondazione Fon- 
+tana ha generosamente contribuito all'allesti- 
+mento della rassegna. Sono ugualmente grato, 
+per il contributo economico, a The Murray and 
+Isabella Rayburn Foundation e a Isabella del 
+Irate Rayburn in persona. Le opere esposte a 
+Venezia verranno poi presentate alla Rayburn 
+Foundation Gallery a New York nell'aprile 
+1 989. Ringrazio qui inoltre la Fondazione Fon- 
+tana per aver concesso il prestito di una serie di 
+opere provenienti dalle sue collezioni. Un rico- 
+noscimento particolare va a Valeria Emesti, 
+della Fondazione Fontana, per aver generosa- 
+mente messo a disposizione il suo tempo e la 
+sua conoscenza per la realizzazione di questo 
+progetto, lìti apprezzamento anche a Carla Pa- 
+
+
+
+mic and microcosmic space were embraced by 
+the Spazialisti, who by no means limited them- 
+selves to pictorial considerations. But even 
+within the discursive realm of the latter, Fonta- 
+na 's violation of the seamless canvas seems in 
+retrospect as bold a breakthrough as Jackson 
+Pollock's in the same period. In 1946-47 Pol- 
+lock liberated pigment and pictorial gesture 
+from the obligation to circumscribe an image, 
+whether figurative or abstract. Fontana, with 
+the Buchi of 1948, liberated the artist and the 
+critic from the traditional distinction between 
+one genre or another, equivocating between 
+object, relief, illusion, reality, painting and 
+sculpture. It is upon the sculptural effect of 
+Fontana's works that curator Fred Licht has 
+chosen to focus this Homage. 
+
+The Homage to Lucio Fontana expresses the 
+importance that the Peggy Guggenheim Collec- 
+tion attaches to the accession of Fontana's 
+Concetto spaziale, Attese. My thanks therefore 
+go first to Teresita Fontana and to the Trustees 
+of the Fondazione Lucio Fontana for this gift, 
+which may also be seen as a tribute to the 
+career and friendship of Thomas M. Messer, my 
+predecessor. The Fondazione Fontana has 
+generously contributed to the costs of mounting 
+this show. I am correspondingly grateful to The 
+Murray and Isabella Rayburn Foundation, and 
+to Isabella del Frate Rayburn personally, for 
+matching funds. The Homage will travel to the 
+Rayburn Foundation gallery in New York in 
+April 1 989. The loan of several works from the 
+holdings of the Fondazione Fontana is here- 
+with acknowledged. This is also the place to 
+thank Valeria Ernesti, of the Fondazione Fon- 
+tana, who has given munificently of her time 
+and her knowledge in helping to bring about 
+this enterprise. Other lenders who have gener- 
+ously made available their paintings by Fonta- 
+na include Carla Funiculi and others private 
+collectors to whom we are most grateful. 
+
+The exhibition is mounted in the context of 
+
+
+
+PREFACE AND ACKNOW I I IK. Ml \ I S 
+
+
+
+nicali e agli altri prestatori privati delle opere di 
+fontana. 
+
+La rassegna viene presentata nel contesto del 
+prolungamento della stagione d'apertura della 
+Collezione Peggy Guggenheim, ed è eon grande 
+piacere e sincera gratitudine ehe per la prima 
+volta come direttore posso ringraziare pubbli- 
+camente l'United Teehnologies Corporation, 
+ehe sostiene e in realtà rende possibile una 
+programmazione per l'arco di tutto l'anno. 
+
+THOMAS KRENS 
+
+
+
+the extended season of the Peggy Guggenheim 
+Collection, and it is with great pleasure and 
+deeply felt gratitude that I am able for the first 
+lime in my Directorship to acknowledge pub- 
+licly the United Teehnologies Corporation. 
+which annually supports, indeed makes possi- 
+ble, our programming on a year-round basis. 
+
+tuoni \s KR] \s 
+
+Directoi 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+Direttore 
+Fondazione Solomon R. Guggenheim 
+
+
+
+BIOGRAFIA 
+
+
+
+BIOGRAPHY 
+
+
+
+1 899 
+
+Nasco il 19 febbraio a Rosario de Santa Fé. in Ar- 
+gentina; tiglio di Luigi Fontana, scultore milanese, e 
+di madre argentina. 
+
+1905 
+
+Arriva a Milano con il padre, frequenta le scuole 
+elementari e più tardi compie l'apprendistato presso 
+un artista. 
+
+1917-18 
+
+Partecipa alla prima guerra mondiale, durante la 
+
+quale viene ferito. 
+
+1922 
+
+Ritorna a Rosario de Santa Fé dove lavora come 
+
+scultore nello studio del padre. 
+
+1924 
+
+Apre un proprio studio, lavorando occasionalmente 
+
+con il padre. 
+
+1926 
+
+Ha luogo la prima mostra collettiva al Salon Nexus a 
+
+Rosario de Santa Fé. 
+
+1928 
+
+Ritornato a Milano si iscrive all'Accademia di Brera, 
+
+dove studia con lo scultore simbolista Adolfo Wildt. 
+
+1930 
+
+Prima personale alla Galleria del Milione di Milano. 
+Due sculture vengono esposte alla Biennale di Vene- 
+zia. L'opera Uomo Nero, presentata alla / Mostra 
+Interregionale di Firenze, segna l'inizio del suo stile 
+personale in scultura. 
+Incontra Teresita Rasini. sua futura moglie. 
+
+1951 
+
+Oltre ad eseguire numerosi bassorilievi in terracotta 
+con figure umane smaterializzate, incide su tavole di 
+cemento con uno stile libero e astratto. 
+
+1935 
+
+Con Fausto Melotti ed altri artisti, a Parigi, entra a 
+
+far parte del gruppo Abstraction-Creation. 
+
+
+
+I 899 
+
+Born February 19 in Rosario de Santa Fé, argenti- 
+na, to Luigi lontana, a Milanese sculptor, and \i 
+gentinian mother. 
+
+1905 
+
+Moves to Milan with lather: enters elemental) 
+
+school, later is apprenticed to an aitisi. 
+
+1917-18 
+
+World War I militai) service, during which he is 
+
+wounded. 
+
+1922 
+
+Returns to Rosario de Santa Fé, where he works as 
+
+sculptor in father's commercial studio. 
+
+1924 
+
+Fstablishes his own studio; intermittenti) works 
+
+with father. 
+
+1926 
+
+first exhibition, group show at Salon Nexus, Rosa- 
+rio de Santa Fé. - 
+
+1928 
+
+To Milan again; enrolls at Accademia di Brera, stu- 
+dies there with Symbolist sculptor Adolfo Wildt. 
+
+1950 
+
+First one man show. Galleria del Milione. Milan. 
+Two sculptures exhibited at Venice Biennale. Black 
+Man (Uomo Nero), shown at / Mostra Interre- 
+gionale. Florence, marks beginning of his personal 
+sculptural style. 
+Meets Teresita Rasini. his future wife. 
+
+1931 
+
+In addition to executing numerous terracotta re 
+liels of dematerialized human silhouettes, incises 
+
+cement tablets in free and abstract manner. 
+
+1935 
+
+With fausto Melotti and Others loins \hstraction 
+
+C 'realion group in Paris. 
+
+
+
+1 1 
+
+
+
+BIOGRAFIA 
+
+
+
+1936 
+
+Lavora come ceramista presso lo studio di Tullio 
+
+Mazotti, Tullio d'Albisola ad Albisola. 
+
+
+
+1936 
+
+Works as ceramicist at Tullio Mazotti's Tullio d'Al- 
+bisola ceramic works, Albisola. 
+
+
+
+1937 
+
+Esegue una serie di ceramiche per la fabbrica di 
+
+Sèvres a Parigi. La sua prima personale a Parigi di 
+
+ceramiche viene allestita alla Galerie Jeanne Bu- 
+
+cher-Myrbor. A Parigi conosce Mirò, Tzara, Bran- 
+
+cusi. 
+
+1939 
+
+Ritorna in Argentina alla fine dell'anno. 
+
+1940 
+
+Lavora soprattutto a Buenos Aires, ma anche a Ro- 
+sario de Santa Fé, La Piata, Cordoba, Mar del Piata, 
+Pergamino. Dal 1940-46 la sua scultura è principal- 
+mente figurativa ma vi appaiono con sempre mag- 
+giore frequenza elementi espressionisti. 
+
+1946 
+
+Fonda con (orge Romero Brest una scuola d'arte a 
+Buenos Aires: l'Accademia d'Altamira. Viene pub- 
+blicato il Manifiesto Bianco, ideato da un gruppo 
+dei suoi studenti e da giovani artisti. Malgrado Fon- 
+tana abbia fortemente influenzato la nascita del 
+gruppo non firma il Manifiesto. 
+
+1947 
+
+Ritorna ad aprile in Italia. Si stabilisce a Milano e 
+frequenta un gruppo di giovani artisti. Vivaci dibat- 
+titi conducono alla pubblicazione, a maggio, del / 
+Manifesto Spaziale firmato da Fontana con altri 
+artisti. 
+
+1948 
+
+L'artista firma il // Manifesto Spaziale. 
+
+1949 
+
+Realizza le prime opere della serie Buchi, tele perfo- 
+rate. Disegna un ambiente spaziale alla Galleria del 
+Naviglio di Milano. Il 1 febbraio viene dedicato un 
+dibattilo a questo argomento durante l'incontro set- 
+timanale del Circolo feudi di Germana Maru celli. 
+Partecipa alla mostra Twentieth ( 'entury Italian Art 
+al Museum of Modem Art di New York. 
+
+
+
+1937 
+
+Makes series of open-fire ceramics at Sevres factory, 
+Paris. First one-man exhibition in Paris, ceramics 
+show at Galerie Jeanne Bucher-Myrbor. Meets 
+Mirò, Tzara, Brancusi in Paris. 
+
+1939 
+
+Resettles in Argentina at end of year. 
+
+1940 
+
+Works mainly in Buenos Aires, but also at Rosario 
+de Santa Fé, La Plata, Cordoba, Mar del Plata, Per- 
+gamino. From 1940-46 his sculpture is primarily 
+figurative, but expressionist elements appear with 
+increasing frequency. 
+
+1946 
+
+Establishes Academia d'Altamira art school in 
+Buenos Aires with Jorge Romero Brest. Publication 
+of Manifiesto Blanco, conceived by a group of his 
+students and young artists. Although he strongly 
+influenced conception of Manifiesto, Fontana did 
+not sign it. 
+
+1947 
+
+Returns to Italy in April. Settles in Milan, estab- 
+lishes contact with group of young artists. Frequent 
+discussions lead to publication of / Manifesto Spa- 
+ziale, May, signed by Fontana and others. 
+
+1948 
+
+Signs // Manifesto Spaziale with others. 
+
+1949 
+
+First Buchi (Holes), punctured canvases. Designs 
+spatial environment at Galleria del Naviglio, Milan. 
+February 10, symposium on this environment held 
+at a weekly meeting of Germana Marucelli's letali 
+circle. Participates in Twentieth-Century Italian 
+Art, The Museum o\' Modern Art, New York. 
+
+
+
+12 
+
+
+
+BKKJRAIMIY 
+
+
+
+1950 
+
+Sempre più interessato dall'idea di spazio in pittura 
+e in seguito agli esperimenti condotti con la serie dei 
+Buchi, squarcia carta e tele per farne schermi spa- 
+ziali. Viene pubblicato il /// Manifesto Spaziale. 
+
+1951 
+
+Inizia la serie Pietre, nelle quali l'artista inserisce 
+nelle tele come «pietre» frammenti di vetro di Mura- 
+no. Partecipa al concorso per la realizzazione del 
+quinto portale del Duomo di Milano. I progetti ven- 
+gono esposti alla IX edizione della Triennale di 
+Milano, anche se i progetti non vennero mai esegui- 
+ti. Sempre alla Triennale. Fontana installa un am- 
+biente con tubi al neon sul soffitto con illuminazio- 
+ne indiretta; presenta il suo Manifesto Tecnico. 
+
+1952 
+
+Riceve il premio ex aequo con Luciano Minguzzi 
+per il portale del Duomo di Milano. Viene pubblica- 
+to il Manifesto del movimento spaziale per la televi- 
+sione. 
+
+1954 
+
+Realizza i suoi primi Gessi praticando dei fori nella 
+
+materia, a volte adopera il collage su tela. 
+
+1956 
+
+Inizia la serie Inchiostri usando l'anilina e a volte il 
+
+collage e/o gli squarci. 
+
+1958 
+
+Primi Tagli che intitola Attese. Mostra personale 
+
+alla XXIX edizione della Biennale di Venezia. 
+
+1959 
+
+Serie Quanta, tele ovali o poligonali usate in gruppi 
+in libera disposizione. Durante l'estate ad Albisola 
+inizia le terracotte Sature. Partecipa a Documenta 
+Il di Kassel e alla V Scio Paolo liienal. 
+
+1960-61 
+
+Fra il 1960-61 inizia a realizzare la serie degli Olii. 
+Le opere ad olio di grande formato, dedicate a Vene- 
+zia, vengono presentate nel 1961 alla mostra Arte e 
+Contemplazione allestita a Palazzo Grassi a Venezia 
+e alla Martha Jackson Gallery di New York. Durante 
+
+
+
+1950 
+
+Increasingly concerned with ideas of space in paint- 
+ing and experiments with Buchi, piercing paper and 
+canvas to make spatial screens. /// Manifesto Spa- 
+ziale, signed by Fontana and others, published. 
+
+1951 
+
+Begins Pietre (Stones) series in which he incorpo- 
+rates «stones», which are fragments o\ Murano 
+glass, into his canvases. Participates in competition 
+for commission for fifth portal oi Milan Cathedral. 
+Entries exhibited at IX Milan Triennale, although 
+doors were never executed. Also installs cm iron 
+ment of neon tubing in ceiling with indirect lighting 
+at Triennale; presents his Manifesto Tecnico there. 
+
+1952 
+
+Receives first prize «ex aequo» with Luciano .Min- 
+guzzi for Milan Cathedral door. Manifesti) del 
+movimento spaziale per la televisione published. 
+
+1954 
+
+First Gessi (Chalks) with holes, sometimes with 
+
+collage, on canvas. 
+
+1956 
+
+Begins Inchiostri (Inks) made of aniline, sometimes 
+
+with collage and/or holes. 
+
+1958 
+
+First Tagli (Cuts), which he calls Attese (expecta- 
+tions). One man exhibition. \\l\ Venice Biennale. 
+
+
+
+1959 
+
+First Quanta, oval or polygonal canvases used in 
+freely arranged groups. During summer al Mbisola 
+begins Nature terra-cottas. Participates in Docu- 
+menta II. Kassel; \ Sao Paolo Bienal. 
+
+1960-61 
+
+Between 1960-61 begins series of Olii (Oils) I 
+scale oils dedicated to Venice; these shown in I 96 I 
+al irte e Contemplazione. Palazzo Grassi, Venice, 
+then in \ew York al Martha fackson Gallery. Dur- 
+ing V isit to New York on occasion oi thi*- exhibition 
+conceives cycle devoted to the \merican metropo 
+
+
+
+13 
+
+
+
+BIOGRAFIA 
+
+
+
+la visita a New York, in occasione di questa mostra, 
+l'artista progetta un ciclo di opere dedicato alla 
+metropoli americana, prima in forma di dipinti, poi 
+dopo il suo ritorno a Milano come Metalli, fogli di 
+metallo incisi, tagliati e perforati. 
+
+1964-66 
+
+Teatrini, serie di opere perforate con sovraimposti 
+
+elementi di legno. 
+
+1966 
+
+Disegna un ambiente spaziale per la retrospettiva al 
+Walker Art Center di Minneapolis. Costumi e scene 
+per l'opera di Petrassi Ritratto di Don Chisciotte alla 
+Scala di Milano. 
+
+1967 
+
+Progetta tre spazi ambientali per lo Stedelijk Mu- 
+seum di Amsterdam; per la mostra Lo Spazio del- 
+l'Immagine di Foligno; per la Galleria del Deposito 
+di Genova. 
+
+1968 
+
+Tornato a Comabbio fa restaurare la casa di famiglia 
+e vi costruisce un suo nuovo studio. Muore a Co- 
+mabbio il 7 settembre. 
+
+
+
+lis, first as paintings, then after his return to Milan in 
+Metalli, incised, cut and perforated sheet metal. 
+
+1964-66 
+
+Teatrini (Small Theaters) series of pierced canvases 
+
+with superimposed wooden elements. 
+
+1966 
+
+Designs spatial environment for retrospective at 
+Walker Art Center, Minneapolis. Costumes and sets 
+for Petrassi 's opera Ritratto di Don Chisciotte, La 
+Scala, Milan. 
+
+1967 
+
+Conceives three space environments: Stedelijk 
+Museum, Amsterdam; exhibition Lo Spazio del- 
+l'Immagine, Foligno; Galleria del Deposito, Genoa. 
+
+1968 
+
+Moves to Comabbio where he restores his family 
+house, in which he builds new studio. September 7 
+dies at Comabbio. 
+
+
+
+•oto dell'artista 
+
+di Ugo Mulas 
+
+
+
+Photograph of the artist 
+by Ugo Mu his 
+
+
+
+'4 
+
+
+
+vf -'«Si" TCI 
+
+
+
+:* 
+
+
+
+■ 
+
+
+
+■" 
+
+
+
+He8 
+
+
+
+m 
+
+
+
+=yf5. 
+
+
+
+
+:*# 
+
+
+
+X 
+
+
+
+■ 
+
+
+
+fc 
+
+
+
+■ 
+
+
+
+
+
+
+OMAGGIO A 
+LUCIO FONTANA 
+
+
+
+HOMAGE IO 
+
+LUCIO LONTANA 
+
+
+
+Nemmeno i crìtici più smaliziati possono es- 
+sere sicuri che l'opera di un artista resterà vali- 
+da nel tempo. Ciò non dipende da quanto il 
+critico rimanga impressionato, o da quanto sia 
+sinceramente convinto del buon livello di un 
+artista, ma è possibile che le spinte e le esigenze 
+di un dato momento storico ne condizionino il 
+giudizio critico, che può quindi risultare inesat- 
+to o transitorio. Altrettanto si può dire ovvia- 
+mente dei giudizi negativi dei critici. E spesso 
+impossibile distinguere un vero miracolo da un 
+trucco di magia ben l'atto nel momento stesso 
+in cui questo avviene. 
+
+Artisti come Fontana son soggetti più di tanti 
+altri ai giudizi mutevoli e spesso ingiusti dei 
+critici e della pubblica opinione. La loro sma- 
+gliante versatilità e infinita creatività porta ine- 
+vitabilmente alla nascita di schiere di antagoni- 
+sti grandi quanto quelle dei proseliti. E poi c'è 
+anche il sempiterno «antagonismo generazio- 
+nale» per cui si crea il rifiuto assiomatico dei 
+valori della generazione precedente per ritor- 
+nare sotto diverse forme ai valori della genera- 
+zione avita. 
+
+Per Fontana è finalmente trascorso il tempo 
+necessario per riuscire a guardare l'opera del- 
+l'artista da una giusta prospettiva. Possiamo 
+ora comprendere il coraggio pionieristico della 
+sua opera. Chi tacciava Fontana di non voler 
+fare altro che destare scalpore ha dovuto ricre- 
+dersi. Altri, che a posteriori denigravano l'ope- 
+ra di Fontana come «ovvia» sono ora smasche- 
+rati per la loro faciloneria. Dire che prima o poi 
+un artista avrebbe tagliato le sue tele è come 
+dire che prima o poi un uomo sarebbe arrivalo 
+a mettere piede sulla luna. 
+
+Ora. vent'anni dopo la morte di Fontana, pos- 
+siamo cominciare a sperare che le sue conqui- 
+ste siano meglio comprese. Recentemente sono 
+state organizzate due importanti retrospettive 
+che hanno trovato una risposta entusiasta di- 
+mostrando che è passato ormai abbastanza 
+tempo per superare esitazioni e perplessità. 
+
+
+
+Even the most astute critics can never be cer- 
+tain of the enduring value of an artist's work. 
+No matter how deeplj the critic is affected, no 
+matter how sincerely he is convinced v\ the 
+artist's high quality, it is still possible that the 
+critic's judgement may be conditioned by the 
+impulse and needs of a given historical mo- 
+ment, and may reveal itself in time as futile or 
+ephemeral. The same, of course, is true of the 
+negative judgement of critics. At the moment 
+of its occurrence, it is frequently impossible to 
+distinguish a true miracle from a successful 
+trick of professional magic. 
+
+Artists such as Fontana are bound to suffer 
+greater fluctuations and injustices at the hands 
+of criticism and public opinion than most. 
+Their dazzling variety and unending fertility is 
+bound to breed as many skeptics as disciples. 
+Then, too. there is the inevitable, perpetually 
+repeated «antagonism of the second genera- 
+tion» which axiomatically rejects the values ol 
+the parent generation and reverts in mam w av s 
+to the values oi' the grandparent generation. 
+
+The time neeessarv to establish proper per- 
+spective towards an artist's work has finali) 
+passed for Fontana. We can now understand 
+the pioneering courage o\ the artist. Doubts 
+raised by critics who saw also lust for no\ eltv in 
+his art have been effectivel) silenced. Other 
+voices which with the wisdom o( hindsight 
+opined that Fontana's work was «obvious» 
+have fallen bv the wayside. It is as casv to ^,iv 
+that sooner or later an artist would slash his 
+canvases, as it is to saj that sooner or later man 
+was bound to set loot on the moon. 
+
+Now. twentv years alter Fontana's death, we 
+can begin to hope fora moie valid understand- 
+ing of his vast achievement. Two major 
+retrospectives have been organized and die 
+enthusiastic response to both oi them i*- prool 
+enough that the period ot hesikinev and doubt 
+
+has been overcome. 
+The present exhibition does not in an) wa) 
+
+
+
+'7 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+Questo omaggio non è stato ideato in contrap- 
+posizione alle imponenti mostre allestite a Mo- 
+naco e Parigi (sorprendentemente così diverse 
+l'una dall'altra malgrado lo stesso carattere an- 
+tologico). Le grandi retrospettive hanno il me- 
+rito di presentare tutta la gamma, la varietà e la 
+continuità dell'opera di Fontana e costituisco- 
+no la base di tutti gli studi futuri. Esse rappre- 
+sentano un segnale che è giunto ormai il mo- 
+mento per la realizzazione di mostre e studi più 
+specifici. Solo ora è possibile assumersi l'onere 
+di definire e interpretare i molteplici aspetti 
+dell'opera di Fontana. 
+
+Ancora sotto l'impressione delle due grandi 
+retrospettive, ci è sembrato che fosse possibile 
+tentare un approccio, anche se limitato, ma più 
+preciso della soluzione data da Fontana alla 
+contrapposizione esistente fra rappresentazio- 
+ne bi- e tri-dimensionale. Abbiamo inizialmen- 
+te sperato di affrontare il problema raccoglien- 
+do le opere che sono sempre state catalogate 
+come sculture, ma subito, considerando gli 
+spazi ridotti di cui dispone il museo, è risultato 
+evidente che non era possibile realizzare una 
+simile impresa. Tuttavia l'esame della pittura di 
+Fontana in rapporto ai principi tradizionali e 
+avanguardistici della scultura è risultato anco- 
+ra più stimolante del processo iniziale dello 
+studio delle ceramiche e dei bronzi di Fontana. 
+Allo stesso tempo siamo consapevoli che que- 
+sto omaggio ed i suoi scopi risultano frammen- 
+tari sotto molti aspetti. Speriamo solo che tale 
+frammentarietà possa essere compresa per 
+quello che e, e cioè una sfida per le ricerche 
+future ed un piccolo contributo nell'approfon- 
+dimento della conoscenza dell'opera di Fonta- 
+na, opera esasperante quanto appagante. 
+
+
+
+claim to rival the monumental exhibitions (so 
+surprisingly different in spite of their antholo- 
+gical character) mounted in Munich and Paris. 
+The great retrospectives had the merit of ex- 
+hibiting the range, the variety and the continui- 
+ty of Fontana's work. They are the foundation 
+on which all future studies must rest. They also 
+signal the fact that the time has now come for 
+more focused exhibitions and studies. Only 
+now is it possible to confront the task of char- 
+acterizing and interpreting the many differing 
+aspects of Fontana's work. 
+
+Under the impact of the past two great re- 
+trospective exhibitions, it seemed to us that it 
+might be possible to take one small step for- 
+ward in a modest but more defined considera- 
+tion of Fontana's resolution of the antagonistic 
+tension between two-dimensional and three- 
+dimensional imagery. Our first hope was to 
+attack the problem by assembling the works 
+that have always been categorized as sculpture. 
+The impossibility of such an undertaking by a 
+museum that disposes of relatively small spaces 
+became immediately evident. However, ex- 
+amining Fontana's paintings in relation to tra- 
+ditional and avant-garde principles of sculp- 
+ture proved almost more stimulating than the 
+earlier course of studying Fontana's ceramics 
+and bronzes. At the same time, we are fully 
+aware that the exhibition and its goal are frag- 
+mentary in many ways. We can only hope that 
+this fragmentary nature will be understood for 
+what it is: a challenge to future examinations 
+and a small contribution to our deepening 
+knowledge of Fontana's maddeningly enigma- 
+tic and yet satisfying work. 
+
+
+
+Verso i «Tagli» 
+
+Se si dovessero scegliere i due avvenimenti 
+più significativi nella storia della scultura italia- 
+
+
+
+Towarcls the «Slashes» 
+
+If one were to choose the two most indicative 
+events in the history of Italian post-war sculp- 
+ture, one would surely name Arturo Martini's 
+
+
+
+18 
+
+
+
+HOMAGK TO LUCIO I ONTANA 
+
+
+
+na del dopoguerra, si dovrebbe senz'altro far 
+cenno al grande saggio di Arturo Martini Scul- 
+tura, lingua morta 2 e ai bozzetti di Fontana per 
+le porte del Duomo di Milano (111. 1 ). 
+
+Il primo segna la fine di una evoluzione glorio- 
+sa della scultura italiana come mezzo di comu- 
+nicazione pubblica che ci porta da Grandi a 
+Boccioni e Balla, da Wildt a Martini e Marini. 
+Per certi versi la sopravvivenza nelle opere di 
+Manzù e Greco di questa tradizione è una so- 
+pravvivenza in margine alla cultura del dopo- 
+guerra e non contraddice il giudizio di Arturo 
+Martini. 
+
+I bozzetti di Fontana per il Duomo sono, d'al- 
+tra parte, l'interpretazione ottimistica e assolu- 
+tamente nuova della scultura degli inizi del ven- 
+tesimo secolo, definita da Martini lingua mor- 
+ta. Fontana è esploso in una direzione tutta sua 
+senza rinunciare al rapporto diretto con la 
+grande massa di un pubblico che è interessato a 
+visitare il Duomo di Milano ma non conosce 
+necessariamente alcun elemento dell'arte del- 
+l'avanguardia. Malgrado tutta la tragedia che 
+aleggia intorno a questi bozzetti destinati a ri- 
+manere tali, c'è una energia persuasiva che pro- 
+viene dalla nuova definizione di scultura data 
+da Fontana. 
+
+Tutta la scultura, specialmente tutta la scultu- 
+ra monumentale è sempre stata concepita come 
+punto focale. Fungeva come centro visivo capa- 
+ce di captare l'attenzione sia di una massa sia 
+del singolo spettatore. Questa capacità di atti- 
+rare e mantenere l'attenzione visiva procede di 
+pari passo con un'altra caratteristica: indipen- 
+dentemente da quanto fosse movimentata la 
+scultura anteriore a Fontana (basti pensare a 
+Bernini o Boccioni o anche a un Calder agitato 
+da un soffio d'aria), essa ha rappresentato un 
+punto fisso nello spazio su cui convergono tutte 
+le linee di fuga, tutte le ortogonali possibili. 
+
+Fontana concepì le porte del Duomo di Mila- 
+no in modo decisamente diverso: le sue scultu- 
+re sembravano costituire un diaframma fra lo 
+
+
+
+great essa) Scultura, lingua morta and Fonta- 
+na's bozzetti for the doors oì Milan cathedral 
+(Illustration 1 ). The former marks the end of a 
+glorious development of Italian sculpture as a 
+means of public expression that leads us from 
+Grandi to Boccioni and Balla, from Wildt to 
+Martini and Marini. In some respects (as in the 
+work oì' Manzù and Greco) this tradition con- 
+tinues into our own epoch. But Martini's recog- 
+nition that the tradition to which he had been 
+loyal was fatally compromised is not negated 
+by the survival of its principles in the work of 
+these later sculptors, precisely because it i^ a 
+matter ol marginal survival and not of vital new 
+energy. 
+
+Fontana's bozzetti for the Duomo, on the 
+other hand, are the optimistic and radically 
+new interpretation ol sculpture as a public art. 
+The sculptural tradition of the earlier twentieth 
+century which Martini had recognized as a 
+«lingua morta» is overcome. Fontana struck 
+out in a direction of his own without sacrificing 
+direct communication with the vast mass of a 
+public which is interested in visiting Milan 
+cathedral but doesn't necessarily know the first 
+thing about the significance of avant-garde art. 
+For all the tragedy surrounding these much- 
+altered versions in a rarely visited museum, 
+there is a new and convincing energ) that radi- 
+ates from Fontana's redefinition o\' sculpture. 
+
+All sculpture of an early date, especially all 
+public sculpture, was conceived o\' as a cyno- 
+sure. They were visual centers on which the 
+eves of a multitude or of a single viewer were 
+meant to be fixed. This power of attracting and 
+holding visual attention goes hand in hand with 
+another characteristic: no matter how agitated 
+some ol these earlier sculptures are (think ot 
+Bernini or Boccioni or even a wind-blown Cal- 
+der) they presented a fixed point in space at 
+which all lines of flight, all possible orthogon- 
+als came to rest. 
+
+I ontana's conception of the Milan doors was 
+
+
+
+19 
+
+
+
+
+
+
+
+
+
+
+
+
+
+r - 
+
+
+
+
+
+
+
+
+
+-^ 
+
+
+
+.K^* * 
+
+
+
+
+i|££ 
+
+
+
+M 
+
+
+
+v * ft tìM 
+
+
+
+
+&lt;L*. 
+
+
+
+
+v= 
+
+
+
+I 
+
+
+
+
+-k 
+
+
+
+^:~ 
+
+
+
+«a 
+
+
+
+
+
+
+v 
+i 
+
+3 
+
+
+
+
+VS^ 
+
+
+
+
+vT * 
+
+
+
+- 
+
+
+
+4 
+
+
+
+
+
+
+
+\ 
+
+
+
+' *7 
+
+
+
+XT'' 
+
+
+
+HOMAGE TO LUCIO FONTANA 
+
+
+
+
+l. Lucio Fontana 
+
+Bozzetto per portale 
+Milano. 
+'-'on dazione Lucio Fontana 
+
+
+
+1 . Lucio Fontana 
+
+Sketch for portal 
+
+Milan. 
+
+I ondazione Lucio Fontana 
+
+
+
+2. Antonio Cano&gt; a 
+
+I omha ili 
+
+Marini Cristina 
+
+il \shurgo 
+
+\ ienna, Vugustinerkirche 
+
+
+
+2. Antonio C .mova 
+
+lomh OJ 
+
+Maria Christina 
+
+fi Hapsburg 
+
+\ ienna, Vugustinerkirche 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+spazio dell'osservatore e il sacro luogo mistico 
+del Duomo. 
+
+Le sculture erano parte attiva nel disequili- 
+brio fra il noto e l'ignoto, la luce e l'ombra, lo 
+spazio conosciuto in cui viviamo e la vastità 
+infinita e incomprensibile dello spazio che è al 
+di là della nostra percezione visiva, al di là della 
+ingenuità dei nostri strumenti e al di là della più 
+fertile immaginazione. 
+
+Dal punto di vista storico, con l'avvento del- 
+l'era moderna inizia la ricerca di una scultura 
+che ci porti a raggiungere mete oltre alla scultu- 
+ra stessa. Nella concezione della tomba di Ma- 
+ria Cristina d'Asburgo (111. 2), Canova inventò 
+una composizione che non è più rivolta all'os- 
+servatore (come accadeva in tutti i monumenti 
+prima di questo), ma induce a volgere lo sguar- 
+do e il pensiero oltre alla massa materiale della 
+scultura stessa per guardare nella spaventosa 
+oscurità di una distanza inscrutabile. Vale a 
+dire che le linee visive non si muovono verso la 
+scultura, ma superano i volumi marmorei visi- 
+bili per raggiungere uno spazio lasciato indefi- 
+nito e impreciso. Simili tentativi di collegare 
+forme scultoree agli spazi esistenti oltre il no- 
+stro campo visivo sono presenti qui e là nelle 
+opere più audaci degli scultori francesi del di- 
+ciannovesimo secolo, che non sono giunti però 
+a soluzioni più avanzate o più significative di 
+quelle del Canova. Per un certo verso si può 
+dire che questo tema è ripreso da Rodin nei 
+pannelli centrali della sua Porte d'enfer(Vl. 3). 
+Poiché le figure emergono e scompaiono in 
+spazi privi di coordinate, né l'occhio né la men- 
+te analitica può distinguere l'alto dal basso, ciò 
+che è vicino da ciò che è lontano. Non riuscia- 
+mo a renderci conto se le figure da noi osserva- 
+te giungano a noi provenienti da un punto più 
+basso del nostro campo visivo o da un punto 
+lontano dell'orizzonte. Lo spazio in cui si muo- 
+vono le sculture di Rodin è incompatibile con il 
+nostro spazio. Si crea così l'impressione che la 
+scultura stessa non si trovi al centro quale pun- 
+
+
+
+decidedly different: his sculptures acted as a 
+diaphragm between the viewer's space and the 
+mystic, sacred space of the cathedral. His 
+sculptures were active participants in the dise- 
+quilibrium between the known and unknown, 
+the light and the dark, the apprehended space 
+in which we live and the incomprehensible, 
+endless vastness of the space which lies beyond 
+the power of our eyes, beyond the ingenuity of 
+our instruments and beyond the grasp of even 
+the most fertile imagination. 
+
+Historically, the search for a sculpture which 
+guides us towards goals beyond the sculpture 
+itself begins with the very advent of the modern 
+epoch. Canova, in his tomb for Maria Christina 
+of Hapsburg (Illustration 2), invented a com- 
+position which no longer addresses the viewer 
+(as all earlier monuments had done) but leads 
+his gaze and his thoughts beyond the physical 
+presence of the sculpture itself into the awe- 
+some blackness of an inscrutable distance. 
+That is to say, the lines of view don't move 
+towards the sculpture but go beyond the visible 
+marble volumes into a space that is left unde- 
+fined and undescribed. Similar attempts at re- 
+lating sculptural forms to spaces beyond our 
+field of vision occur sporadically in the most 
+daring works of French sculptors of the 19th 
+century, without discovering solutions more 
+daring or more meaningful than Canova's. The 
+theme is taken up to some degree by Rodin in 
+the central panels of his Gates of Hell (Illustra- 
+tion 3). Since the figures emerge and recede 
+into spaces devoid of coordinates, neither the 
+eye nor the analytical mind can distinguish up 
+from down, far from near. We do not know 
+whether we are looking at figures rising to- 
+wards us from beneath our eyelevel or from a 
+point at the distant horizon. The space in which 
+Rodin's figures exist is incompatible with our 
+space so that the sculpture itself does not act as 
+a focal point that collects and steadies space 
+but gives us instead the sensation of looking 
+
+
+
+22 
+
+
+
+"5. Auguste Rodin 
+
+Porte d'enfer 
+
+Zurigo, Kunsthaus 
+
+
+
+3, Auguste Rodin 
+Gates of Hell 
+Zurich, Kunsthaus 
+
+
+
+
+to focale che riunisce ed equilibra lo spazio, ma 
+piuttosto ci dà la sensazione di guardare in un 
+mondo in cui lo spazio può essere esteso all'in- 
+finito in tutte le direzioni contemporanea- 
+mente. 
+
+Generalmente questo aspetto della sperimen- 
+tazione di Rodin ha trovato scarsa eco in Euro- 
+pa. Solo nella scultura italiana, e specialmente 
+nella storia della scultura milanese, questa sua 
+ricerca di ciò che sta oltre la scultura è perse- 
+guita con più vigore. Mcdardo Rosso è stato il 
+pioniere più illustre di questa linea di sviluppo 
+(111. 4). Creando una scultura basata su super/fi- 
+ci illuminate e circondate dal buio, introduceva 
+le sue sculture in un ambiente incommensura- 
+bile. 
+
+Gli seguì Adolfo Wildt. Con il suo Crocialo 
+(111. 5), cerca di portare una simile indagine sul 
+
+
+
+into a world in which space is infinitely extensi- 
+ble in all directions at once. 
+
+In Europe generally, this aspect of Rodins 
+experiment found little if any direct develop- 
+ment. It is in Italian sculpture that the hunt for 
+what lies beyond the sculpture is pursued more 
+forcefully, especially in the history of Milanese 
+sculpture. Medardo Rosso, by creating a sculp- 
+ture based on carefully lighted .surfaces which 
+put us into a dark, immeasurable environment 
+while the sculpture itself lives in an cqualh 
+indefinable but radianti) lighted sphere was ;i 
+pioneer in this line of development (Illustration 
+4). 
+
+Adolfo Wildt continued to work in the same 
+direction. Mis Crusader (Illustration 5) 
+attempts a similar investigation o\ the myste- 
+rious world which lies beyond the surface-mass 
+
+
+
+23 
+
+
+
+4. M edardo Rosso 
+
+Conversazione in giardino 
+
+Roma, Galleria Nazionale d'Arte Moderna 
+
+
+
+4. Medardo Rosso 
+
+Conversation in the Garden 
+
+Rome. National Gallery of Modem Art 
+
+
+
+
+
+
+
+
+
+
+mondo misterioso che si trova oltre alla super- 
+ficie-massa della scultura invitandoci a medita- 
+re sul vuoto al centro del bronzo. Con Wildt 
+entriamo nella cronologia immediata di Fonta- 
+na e nell'area di ricerca scultorea che predomi- 
+nava negli studi dell'accademia di Brera duran- 
+te gli anni di formazione di Fontana. 
+
+La percezione che Arturo Martini dimostra di 
+avere della molteplicità dinamica di tutti gli 
+spazi, siano essi reali o immaginari, si può facil- 
+mente rilevare nella sua Donna che nuota sot- 
+t'acqua (III. 6) che non ha più un punto di 
+osservazione fisso né per chi guarda né per 
+l'oggetto guardato. Sotto questo aspetto, la 
+scultura è vicina al concetto di spazio di Rodili 
+nella Porle d'enfer. La differenza sostanziale 
+
+
+
+of the sculpture by inviting us to meditate on its 
+hollow center. With Wildt we step into the 
+immediate chronology of Fontana and into the 
+area of sculptural speculation that was domi- 
+nant in the ateliers of the Brera academy during 
+Fontana's formative years. 
+Arturo Martini's feeling for the dynamic mul- 
+tiplicity of all spaces, real or imagined, can best 
+be demonstrated by his Woman Swimming 
+Underwater (Illustration 6), which does away 
+with a stable point of view for both the viewer 
+and the object viewed. In this respect, the 
+sculpture is close to Rodin's conception of 
+space in the Gates of Hell. The great and daring 
+difference lies in the fact that Martini has gone 
+from relief representation (in which lack of 
+
+
+
+^4 
+
+
+
+
+5. Adolfo Wild! 
+
+// crociato 
+
+ubicazione ignota 
+
+
+
+5. Adolfo Wildl 
+///&lt;■ ( 'rusader 
+location imkiiow n 
+
+
+
+
+
+
+
+
+
+
+b. Ailuru Martini 
+
+Donna che nuota sott'acqua 
+
+collezione pi'iv;it;i 
+
+
+
+b. Arturo Martini 
+
+Woman Swimming Underwater 
+
+privale collection 
+
+
+
+
+7. Arturo Martini 
+
+La veglia 
+
+collezione privata 
+
+
+
+Vrturo Martini 
+
+\l liking 
+
+private collection 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+sta nel fatto che Martini è passato da una raffi- 
+gurazione in rilievo (in cui si accetta o per lo 
+meno non si rileva la mancanza di definizione 
+dello spazio) ad una figura a tutto tondo e le 
+figure a se stanti, anche se risultano pericolosa- 
+mente inclinate come nel Beccaria di Grandi o 
+nel Balzac di Rodin, tuttavia ci fronteggiano 
+direttamente e sono circondate da uno spazio 
+che è esattamente come il nostro spazio. Noi 
+comprendiamo la loro azione e sappiamo in che 
+direzione si muovono. Nella scultura di Martini 
+tutto questo non ci è chiaro. La figura sta tuf- 
+fandosi? o nuota allontanandosi da noi? la 
+guardiamo forse dal bordo di una piscina? o 
+nuota al nostro fianco? Ognuna di queste posi- 
+zioni, che esclude le altre, è possibile. 
+
+Ancora più vicina al pensiero di Fontana, e 
+che probabilmente ha influito sui suoi primi 
+esperimenti, è un'altra opera di Arturo Martini 
+che rappresenta una specie di continuazione 
+della forza esercitata da Canova. Nell'opera di 
+Martini La Veglia, 1941 (IH. 7), la scultura 
+diventa un punto a metà strada fra noi ed uno 
+spazio indeterminato carico di emozioni che si 
+trova oltre la scultura e su cui è fissato lo sguar- 
+do della donna. Stando di fronte alla scultura di 
+Martini noi percepiamo la figura di una donna 
+vista da dietro. La percezione definita e limitata 
+che noi abbiamo della donna è a sua volta tra- 
+sportata oltre dalla sua percezione, anche se 
+non potremo mai conoscere la distanza e la 
+natura dello spazio che essa osserva"'. Nel suo 
+insieme quindi, la scultura attira il nostro 
+sguardo che viene poi rilanciato verso una di- 
+stanza misteriosa, evocatrice. La sua dinamica 
+non è diretta unicamente verso di noi, ma è 
+altrettanto potente nella continuazione diretta 
+del nostro sguardo in uno spazio dietro la scul- 
+tura. 
+
+Molte fra le prime sculture eseguite da Fonta- 
+na dimostrano il suo profondo impegno nell'e- 
+splorazione delle dimensioni di uno spazio che 
+è diverso dallo spazio fisico conosciuto dalle 
+
+
+
+spatial definition is relatively tolerable, or can 
+at least be overlooked) to a free-standing fi- 
+gure, and free-standing figures even when they 
+were dangerously tilted, as in Grandi's Becca- 
+ria or Rodin's Balzac, nevertheless faced us 
+directly and were surrounded by a space that 
+was exactly like our own space. We understand 
+their action and know in which direction they 
+are about to move. All of this is withheld from 
+us in Martini's sculpture. Is the figure plunging 
+downwards? Or is she swimming away from 
+us? Are we standing on dry land (the edge of a 
+swimming pool for instance) or are we swim- 
+ming alongside? Any of these mutually exclu- 
+sive positions are possible. 
+
+Even closer to Fontana's thought and prob- 
+ably more influential in his early experiments is 
+another work by Arturo Martini which pre- 
+sents a kind of continuation of Canova's break- 
+through. In Martini's monumental Waking of 
+1941 (Illustration 7) the sculpture becomes a 
+half-way mark between us and an indetermin- 
+ate, emotionally charged space beyond the 
+sculpture on which the woman's gaze is fas- 
+tened. We, standing before Martini's sculpture 
+perceive the figure of a woman seen from be- 
+hind. Our measurable and limited perception 
+of her is in turn relayed forward by her, 
+although the distance and the nature of the 
+space she observes can never be known to us 5 . 
+The sculpture as a whole, therefore, attracts 
+our vision and then speeds our gaze on into a 
+mysterious, evocative distance. Its dynamic is 
+not exclusively directed towards us but is 
+equally forceful along the axial continuation of 
+our gaze to a space behind the sculpture. 
+
+Many of Fontana's early sculptures indicate 
+his deep commitment to exploring the dimen- 
+sions of a space that is different from the space 
+experienced by our muscular and visual 
+reactions'. Most of his polychrome sculptures 
+such as Black Figures (Illustration 8) arc not 
+only ingenious solutions to the century old «Pa- 
+
+
+
+28 
+
+
+
+HOM AGI- IO LUCIO FONTANA 
+
+
+
+
+8. Lucio Fontana s. Lucio Fontana 
+Figure nere HLnk Figures 
+Catalogo Fondazione Fontana "&gt;l SC 7. Milano Fontana Collection catalogue "il S&lt; 7, Milan 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+nostre reazioni visive 4 . La maggior parte delle 
+sue sculture policrome, quali ad esempio le 
+Figure nere (111. 8) non sono solo delle soluzioni 
+ingegnose all'ormai secolare «Paragone», ma 
+usano la massa scultorea concreta e la superfi- 
+cie per creare un'esperienza che ci costringe ad 
+esaminare tutte le nostre percezioni. Ci sfuggo- 
+no le distanze fra le forme e non sappiamo 
+stabilire il rapporto spaziale fra noi e le figure. 
+Questo senso di esitazione, di meraviglia ci fa 
+uscire dalla certezza rassicurante delle nostre 
+nozioni fisiche per proiettarci alla ricerca di un 
+mondo i cui principi sono nuovi e diversi, un 
+mondo in cui dobbiamo orientarci non alla luce 
+della nostra passata esperienza, ma abbando- 
+nando tutte le nostre abitudini in modo che 
+questo mondo nuovo e diverso possa insegnar- 
+ci nuovi metodi di conoscenza. 
+
+Ancora più impressionante è la Scultura 
+astratta del 1934 (111.9). Se la si guarda frontal- 
+mente (come viene esclusivamente fotografa- 
+ta), oltre che descrivere le diverse qualità dello 
+spazio chiuso e aperto, la scultura accenna an- 
+che ad un segnale espressivo di cui non riuscia- 
+mo a captare il messaggio o che non sappiamo 
+tradurre in parole. Ancora più importante è la 
+sua affermazione di immaterialità. La natura 
+calligrafica della scultura è così forte che sem- 
+bra quasi un segno dipinto sulla parete dietro 
+di essa piuttosto che un oggetto indipendente, 
+tridimensionale, collocato davanti alla parete. 
+Questa impressione è ancora più forte se si 
+guarda questa scultura eccezionale lateralmen- 
+te. Qui l'idea che ci eravamo fatti inizialmente 
+della scultura viene completamente sovvertita 
+e capovolta. Infatti con questa scultura Fonta- 
+na raggiunge risultati che di solito vengono 
+attribuiti alle sculture di David Smith. 
+
+SI ortunamente per i critici, e ancor più malau- 
+guratamente per il pubblico frettoloso e impa- 
+ziente, l'arte di Fontana non ha uno sviluppo 
+lineare. Talvolta le sue sculture accademiche 
+sono create nello stesso periodo in cui inventa 
+
+
+
+ragone» but use concrete sculptural mass and 
+sculptural surface to create an experience of 
+suspenseful hesitation in our perceptions. We 
+cannot adequately calculate the distances be- 
+tween the forms nor can we determine the spa- 
+tial relationship between us and the figures. 
+This sense of hesitation, of bewilderment, takes 
+us out of the comfortable certainty of physical 
+apprehensions and projects us into the experi- 
+ence of a world whose principles are new and 
+different, a world in which we must orient 
+ourselves not by the light of our own past ex- 
+perience but by means of suspending all habits 
+so that this new and different world can teach 
+us new methods of knowledge. 
+
+Still more startling is the Abstract Sculpture of 
+1934 (Illustration 9). When seen in full frontal 
+view (as it is unfortunately always photo- 
+graphed) the sculpture, besides describing the 
+different qualities of enclosed and open space, 
+also looms as an expressive signal the meaning 
+of which we cannot capture or translate into so 
+many words. Even more important is its in- 
+timation of insubstantiality. The calligraphic 
+nature of the sculpture is so strong that it 
+appears almost like a sign painted on the wall 
+behind it rather than an independent three- 
+dimensional object standing in front of the 
+wall. Such an impression is naturally streng- 
+thened when one looks at this extraordinary 
+sculpture from its narrow edge at which point 
+our original understanding of the piece is total- 
+ly subverted and contradicted. In fact, Fontana 
+here achieves something which is generally 
+considered to have originated in David Smith's 
+early sculptures. 
+
+Unfortunately for the critic and even more 
+unfortunately for the hasty or impatient public, 
+Fontana's art does not follow any linear de- 
+velopment. His academic sculptures are some- 
+times created within the same weeks or months 
+as his most capriciously innovative work. It is 
+impossible to chart a logical chronology for 
+
+
+
+3o 
+
+
+
+
+9. I ucio I ontana 
+
+Scultura astraila 
+
+Torino, Civica galleria d'arte 
+
+
+
+9 I UCÌO I unl.m. i 
+\bstmci Sculpture 
+
+I unii. Ci\k \n Gallen 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+l'opera più innovativa. È tuttora impossibile 
+riportare una cronologia logica dell'opera di 
+Fontana. Non possiamo indicare un'opera di- 
+cendo che questa emana stimoli che induceva- 
+no l'artista a trovare soluzioni visibili in opere 
+successive. E come se tutte le diverse forme, 
+relazioni e idee fossero presenti in Fontana fin 
+dall'inizio e venissero alla superficie senza al- 
+cuna sequenza logica, ma succedendosi l'una 
+all'altra irregolarmente, quasi come in una pen- 
+tola in ebollizione affiorano prima le carote, 
+poi i pezzetti di patata, poi le cipolle e i granelli 
+di pepe. In ogni momento sembra agitarsi in lui 
+un complesso di idee e di intuizioni estrema- 
+mente vario. 
+
+Per questa sua abitudine di non seguire un 
+ordine cronologico diventa pericoloso pensare 
+che qualcuna delle sue opere sia marginale o 
+atipica, come spesso è stato detto dei suoi boz- 
+zetti per la quinta porta del Duomo di Milano. 
+Si accenna al laicismo di Fontana come ad uno 
+dei motivi per stroncare queste opere «liturgi- 
+che» o per ignorarle del tutto. Se è vero che 
+quest'opera è atipica, lo è perché Fontana sem- 
+bra attribuire più importanza alla quinta porta 
+che a qualsiasi altra della stessa data (111. 1 ). La 
+contraddizione di un ateo che abbia l'incarico 
+di realizzare un'opera religiosa non deve sgo- 
+mentarci o confonderci. Essere atei non signifi- 
+ca necessariamente disprezzare le credenze re- 
+ligiose. La disponibilità di Fontana a lavorare 
+su temi cattolici non è più sorprendente per 
+esempio della scelta del buddismo da parte di 
+Hermann Hesse nella sua narrativa (non buddi- 
+sta) o del massone Mozart nella superba com- 
+posizione delle sue Messe. 
+
+Ma quello che è più importante qui è il carat- 
+tere del Duomo di Milano sia come edificio 
+civico che religioso. Questo è un concetto diffi- 
+cile da capire per chi non è milanese. Si dice per 
+scherzo che persino un ebreo ortodosso mila- 
+nese giurerebbe sulla Madonnina, la statua d'o- 
+ro che veglia sul Duomo. Gli estranei conside- 
+
+
+
+Fontana's oeuvre. We cannot point to one work 
+and say that the challenges and suggestions 
+emanating from it led the artist towards a re- 
+solution which can be found in chronologically 
+subsequent work. It is as if all the various 
+forms, relationships and ideas were present in 
+Fontana from the beginning and that these rise 
+to the surface without any predetermined sequ- 
+ence but irregularly, such as a boiling pot will 
+heave first carrots, then potato-slices, then on- 
+ions and peppercorns towards the top. An asto- 
+nishingly varied complex of ideas and intui- 
+tions seems to be at work in him at all times. 
+
+This state of affairs makes it dangerous to 
+think of some of his works as being marginal or 
+atypical, as has often been said of his bozzetti 
+for the fifth door of Milan cathedral. Fontana's 
+laicism is often cited as grounds for paying 
+scarce attention to these «liturgical» works, or 
+for ignoring them altogether. If there is any- 
+thing atypical about them, it is that they seemed 
+to mean more to Fontana than any of the other 
+work he then had in hand (Illustration 1). Nor 
+need the contradiction of an agnostic working 
+on a religious commission dismay or confuse 
+us. For one thing agnosticism does not neces- 
+sarily entail contempt for religious attitudes. 
+Fontana's willingness to work on Catholic 
+themes is no more surprising than, for instance, 
+Hermann Hesse's choice of Buddhist princi- 
+ples in his (non-Buddhist) fiction, or for the 
+Freemason Mozart to compose superb Masses. 
+
+What is even more important here is the char- 
+acter of Milan cathedral as a civic as well as a 
+religious building. This is a phenomenon hard 
+to grasp for the non-Milanese. It is jokingly said 
+that even Orthodox Milanese Jews often swear 
+by the Madonnina, the golden image which 
+presides over the cathedral. Most outsiders will 
+register such a statement as the amusing fiction 
+it may very well be. But certainly the amusing 
+fiction contains an instructive kernel of truth. 
+To test its validity, one need only think of a 
+
+
+
+32 
+
+
+
+HOMAGE TO LUCIO FONTANA 
+
+
+
+reranno questa affermazione una invenzione 
+divertente, come può in effetti essere. Ma certa- 
+mente questa invenzione divertente ha un suo 
+fondamento di verità. Per vedere se questa af- 
+fermazione è valida, basta solo pensare a un 
+ebreo di Roma che giura su San Pietro o un 
+ebreo fiorentino che giura sul Bel San Giovan- 
+ni. La versione milanese è accettabile anche se 
+solo per scherzo, mentre le altre varianti sono 
+assolutamente improponibili. 11 ruolo del Duo- 
+mo di Milano nello spirito milanese è essenzial- 
+mente diverso e coinvolge tutti i milanesi indi- 
+pendentemente dal loro credo religioso o poli- 
+tico. 
+
+Anche senza prendere in considerazione il 
+ruolo che Milano rivestiva per Fontana, l'inca- 
+rico della porta del Duomo deve essere stato 
+per lui più importante di quanto si suole pensa- 
+re. Era la prima occasione che aveva di presen- 
+tarsi ad un vasto pubblico invece di apparire 
+nei circoli ristretti di artisti e critici. Nemmeno i 
+lavori per la Triennale potevano contare su un 
+pubblico così vasto. Un'altra ragione impor- 
+tante per considerare questo incarico più seria- 
+mente di una semplice fonte di pubblicità e di 
+denaro risiede nel fatto che con queste porte 
+l'artista si sarebbe collocato in un contesto con 
+una tradizione altamente rispettata e rispetta- 
+bile. Non sarebbe più stato considerato una 
+figura legata alla bohème più o meno margina- 
+le, ma sarebbe stato visto in relazione a tutti i 
+grandi creatori di portali da Bonanno di Pisa 
+fino al Poliaghi. 
+
+Per un artista così attento alle tradizioni cul- 
+turali come Fontana, un altro aspetto insito 
+nell'incarico conferitogli deve avere avuto un 
+peso ben maggiore, e cioè le porte del Duomo 
+gli avrebbero dato la possibilità di applicare i 
+principi della sua arte altamente rivoluzionaria 
+per esprimere non solo il tipo di idee astratte e 
+di ideali comprensibili a una cerchia altamente 
+sofisticata, ma anche di esporre temi e narra- 
+zioni comprensibili a tutta la popolazione mila- 
+
+
+
+Roman lew swearing by St. Peter or a 
+Florentine lew by the «Bel San Giovanni». The 
+
+Milanese version is acceptable even if only as a 
+joke. The other variants are totally inconceiv- 
+able. The role of Milan cathedral in the 
+Milanese consciousness is essentially different 
+and involves all the Milanese regardless of their 
+religious or political convictions. 
+
+Even without considering the importance oi' 
+Milan to Fontana, the cathedral-door commis- 
+sion must have been more important to him 
+than is generally believed. It was his first 
+chance to present himself to a vast public in- 
+stead of confronting a relatively small circle of 
+artists and critics. Even the work he was to do 
+later for the Triennale could never have had as 
+vast a public or as varied a response. Another 
+important reason for taking the commission 
+more seriously than as just a source of publicity 
+and money is the fact that with his doors the 
+artist placed himself in the context of a highly 
+respected and respectable tradition. He would 
+appear no longer as a figure bound to a more or 
+less marginal Bohème but would be seen in 
+relation to all the great portal sculptors from 
+Bonanno da Pisa right down to Poliaghi 's. 
+
+For an artist as intelligently aware of cultural 
+traditions as was Fontana, another aspect o\ 
+the commission must have weighed even more 
+heavily. The cathedral doors gave him the 
+chance to use the principles oi' his highly re- 
+volutionary art to express not only the kind of 
+abstract ideas and ideals accessible to a highly 
+sophisticated coterie but themes and narratives 
+comprehensible to the entire Milanese popula- 
+tion. It would be a way of proving that his ideas 
+were neither eccentric experiments nor herme- 
+tic formulations but valid in the manner o\ 
+traditional sculpture, as a rallying point, as a 
+ground for common consensus. The doors 
+would have been proof that Martini's manife- 
+sto o\ Scultura. Uligini morta had been oxer- 
+come bv a new conception ol sculpture which 
+
+
+
+S3 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+nese. Sarebbe stato un modo di dimostrare che 
+le sue idee non erano né sperimentazioni eccen- 
+triche né formule ermetiche, ma espressioni 
+valide nella scultura tradizionale, come punto 
+di incontro, come base di comune consenso. 
+
+Le porte sarebbero state la dimostrazione che 
+il manifesto di Martini della Scultura, lingua 
+morta era stato superato da una nuova conce- 
+zione della scultura che era contemporanea- 
+mente adeguata alle esigenze del momento e 
+anche in grado di trasmettere il tipo di fiducia 
+intrinseca nella scultura prebellica prima delle 
+disillusioni della guerra. 
+
+L'esame dei bozzetti per la quinta porta del 
+Duomo di Milano esula dallo scopo di questa 
+introduzione. Ma una descrizione generale del- 
+la loro ricerca visiva può servire a chiarire alcu- 
+ni aspetti dell'opera culminante di Fontana: i 
+Tagli. Le porte, così come possiamo ricostruir- 
+le mentalmente dai disegni di Fontana e dai 
+suoi bozzetti in creta e gesso, rappresentano un 
+punto di partenza assolutamente nuovo nella 
+storia dei portali, uno degli episodi più brillanti 
+nella storia millenaria della scultura italiana. 
+
+Fino ai tempi dei bozzetti di Fontana, tutti i 
+portali erano concepiti come oggetti amorfi de- 
+corati con rilievi narrativi da presentare al 
+mondo profano. Dal tempo delle porte lignee di 
+Santa Sabina fino al ventesimo secolo, questo 
+concetto di base non è cambiato 5 . Le porte 
+erano quindi schermi opachi che trasmetteva- 
+no il loro messaggio sacro solo in una direzio- 
+ne: verso lo spettatore. Disponendo le sue figu- 
+re discontinue contro un fondo forato. Fontana 
+permette a noi che stiamo al di fuori della chie- 
+sa di avere un'impressione dello spazio buio, 
+solenne e misterioso che è all'interno del Duo- 
+mo. Le porte ora da oggetti passivi diventano 
+qualcosa che ci coinvolge direttamente permet- 
+tendoci di catturare degli squarci eloquenti del 
+mondo oltre di esse. Le porte stesse, e non solo 
+la decorazione narrativa applicata su di esse, 
+diventano un veicolo per l'interpretazione della 
+
+
+
+was at once adequate to the exigencies of the 
+moment as well as capable of transmitting the 
+kind of confidence that had been inherent in 
+public sculpture before the disenchantments of 
+the war. 
+
+It would be beyond the scope of this introduc- 
+tion to deal with the bozzetti for the fifth door 
+of Milan cathedral. But a general description of 
+their visual means might clarify some aspects of 
+Fontana's crowning achievement: the Slashes. 
+The doors, as we can mentally construct them 
+from Fontana's drawings and from his bozzetti 
+in clay and in plaster, are a radically new depar- 
+ture in the history of sculptural doors, one of 
+the most brilliant episodes in the millenial his- 
+tory of Italian sculpture. 
+
+Up to the time of Fontana's sketches, all 
+sculptural doors were conceived as opaque ob- 
+jects decorated with narrative reliefs facing the 
+profane world. From the time of the wooden 
+doors of Santa Sabina to the twentieth century, 
+this basic appearance had not changed 5 . The 
+doors therefore were opaque screens which 
+radiated their sacred message in a forward 
+direction exclusively. Fontana, by placing his 
+discontinuous figures against a pierced ground 
+allows us who stand outside the church to gain 
+an impression of the dark, solemn and myste- 
+rious space which lies within the cathedral. 
+From being passive, the doors now become 
+actively involved, enabling us to catch eloquent 
+glimpses of a world beyond. The doors them- 
+selves, not just the narrative decoration applied 
+to them, become vehicles that interpret the 
+«otherness» of the religious world which lies 
+behind them. The fissures between the figures 
+are just big enough to let us perceive the 
+cathedral's solemn interior so that we are 
+drawn forward into a more exalted space. 
+
+
+
+54 
+
+
+
+HOMAGE-: TO LUCIO I ONTANA 
+
+
+
+«diversità» del mondo religioso ehe si eela die- 
+tro di loro. I brevi spazi fra le figure sono suffi- 
+cientemente larghi per permetterei di captare 
+l'interno solenne del Duomo in modo tale da 
+condurci in uno spazio più elevato. 
+
+
+
+/ «Tagli» 
+
+Quando si nomina Fontana, immediatamente 
+ed automatieamente viene alla mente la serie 
+dei Tagli, malgrado la grande varietà di soluzio- 
+ni espressive e di formule innovative da lui 
+ereate. Le serie dei cosiddetti Buchi, Inchiostri 
+(Cat. n. 2), Olii (Cat. n. 6) o Pietre (Cat. n. 1 ) e 
+Teatrini (Cat. n. 1 1 ) sono altrettanto pregevoli 
+dal punto di vista estetico e importanti dal pun- 
+to di vista storico quanto i Tagli, eppure si 
+ritiene quasi ovunque che i Tagli siano la con- 
+quista suprema e più audace di Fontana. 
+
+Il motivo di questa convinzione è connesso 
+con quanto Fontana ha cercato di fare con la 
+quinta porta del Duomo di Milano: i Tagli, 
+come le porte, sono opere assolutamente desti- 
+nate al pubblico. Diversamente da molte sue 
+opere, queste sono intese per una vasta platea e 
+convogliano una carica elettrica a cui nessuno 
+può sfuggire. Le altre opere, anche se egual- 
+mente grandi e talvolta anche più grandi dei 
+Tagli, non producono questo effetto, ma sono 
+riservate ad un pubblico più ristretto, più pa- 
+ziente e forse più sofisticato. 
+
+Generalmente i Buchi sono considerati il pri- 
+mo passo verso i tagli. Se si pensa a queste due 
+serie, la conclusione può anche convincere, ma 
+se si guardano le due serie, la connessione fra le 
+due risulta molto più ambigua. Diventa chiaro 
+che le differenze fra le due sono molto più 
+consistenti delle somiglianze. 
+
+Il titolo di Buchi dato da Fontana a questa 
+serie non è appropriato in assoluto e io ho il 
+sospetto che Fontana abbia volutamente inteso 
+dare un tono di sarcasmo usando un titolo ger- 
+
+
+
+The «Slashes» 
+
+In spite oi' Fontana's wide variety oi express- 
+ive discoveries and innovative formulations, it 
+is the series of Slashes that immediately anil 
+automatically comes to mind when the name 
+Fontana is mentioned. The series he called 
+Holes (Buchi), Inks (Inchiostri) (Cat. No. 2), 
+Oils (Olii) (Cat. No. b) or Stones (Pietre) (Cat. 
+No. 1) and Puppet Theatres (Teatrini) (Cat. 
+No. 1 1 ) are aesthetically equally satisfying and 
+historically as important as the Slashes, yet the 
+Tagli are almost universally thought of as Fon- 
+tana's most daring, his supreme achievement. 
+
+The reason is related to what Fontana had 
+attempted with the Fifth Doors of Milan 
+cathedral: the Slashes like the doors, are su- 
+premely public works. Unlike much of his 
+oeuvre they are addressed to a vast multitude 
+and carry an almost electric charge which none 
+can escape. The other works, though equally 
+great and sometimes even greater than the 
+Slashes lack this dimension. They are for a 
+more restricted, a more patient, perhaps for a 
+more sophisticated audience. 
+The Holes are usually taken as a necessary, 
+preliminary step for the slashes. When one 
+thinks about the two series, this conclusion 
+may hold true. When one looks at the two 
+series, the relationship between the two be- 
+comes far more ambiguous. It becomes clear 
+that the difference between the two is more 
+important than the similarity. 
+
+The title Holes given to the series b\ lontana 
+is not altogether accurate and I suspect that the 
+deliberately denigrating vernacular title was in- 
+tended b\ lontana to be sarcastic. Mis title 
+describes what the inimical, uninstructed, 
+obtuse critic of thai time would have seen. It is 
+obvious that Fontana's intention went far 
+beyond the philistine perception ol a canvas 
+with a couple oi holes punched in it. Perfora 
+tious would perhaps be a more acculate title. 
+
+
+
+J5 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+K «KK« ir k k a k fc * tr r ■» * * 
+
+«"■k»»i * 
+
+" ■■ k 
+
+« ♦ 
+
+k .« . „ " " 
+
+* k 
+
+* * .-':*:■• « - . 
+
+t ... . ■ • » 
+
+k * ♦ - • ■ , v « 
+
+♦ « « 
+
+* k 
+
+k ■ *• ' » * 
+
+
+
+4- 
+
+
+
+» 
+
+
+
+k « 
+
+
+
+k » 
+
+
+
+* » * k « 
+
+* ^ 
+
+♦ „ k ■ ■ » » v * 
+
+" ■ T» 
+
+♦ ' .**'■""*•«.,, 
+
+♦ ■-.-"■■ 
+
+k 
+♦ 
+
+• k * * * *****„*» 
+
+
+
+* 
+
+
+
+10. Lucio Fontana 10. Lucio Fontana 
+Buchi Holes 
+Catalogo Fondazione Fontana 50 B 3, Milano Fontana Collection catalogue 50 lì 3, Milan 
+
+
+
+HOMAGE TO LUCIO FONTANA 
+
+
+
+
+I I . Lucio I ontana I I. I ucio I ontana 
+Olio Oil 
+Catalogo Fondazione Fontana 60 O I, Milano Fontana Collection catalogue 60 O I, Milan 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+gale che ne sminuisce l'importanza. Il suo titolo 
+descrive ciò che avrebbero visto i critici ottusi, 
+incolti e ostili di quel tempo. È chiaro che l'in- 
+tenzione di Fontana andava ben oltre alla per- 
+cezione filistea di una tela bucata. Fori sarebbe 
+forse stato un titolo più appropriato. I fori non 
+implicano la distruzione della superficie su cui 
+appaiono, anzi al contrario, come nel caso dei 
+fogli di francobolli dove mettono in risalto la 
+superficie. I fori sono anche diversi in generale 
+dal buco di una camera oscura o da uno spira- 
+glio. Il buco singolo, sia esso largo o piccolo, 
+costringe l'occhio (o nel caso della camera 
+oscura l'immagine luminosa) a penetrare la su- 
+perficie. I fori di Fontana, per quanto sparsi, 
+sono sempre raggruppati secondo uno schema 
+o perlomeno l'occhio li percepisce così. La fun- 
+zione di creare uno schema di fori è più accen- 
+tuata nelle serie dei primi anni con una forma- 
+zione che ricorda le costellazioni (111. 10; 50 B 
+39). Successivamente macchie di colore sono 
+presenti insieme ai fori (111. 11; 60 O 1). E 
+infine (Cat. n. 2) i fori sono collegati secondo 
+un certo ritmo alle forme e alle configurazioni 
+dipinte sulla superficie della pittura e ancora 
+una volta ricadono in uno schema integrato 
+nella superficie. Quello che esiste oltre ai fori è 
+solo un elemento secondario, se lo si può addi- 
+rittura considerare un elemento. 
+
+Le serie dei Buchi sono immagini che devono 
+essere considerate come si considera la mag- 
+gior parte delle immagini in una galleria dove 
+gli occhi e le menti osservano oggetti ben defi- 
+niti esposti su di una parete di fronte a noi. 
+
+Più o meno si può dire lo stesso per le serie, 
+più complicate, degli Olii e delle Pietre. I buchi 
+che appaiono negli Olii (Cat. nn. 6-7) hanno 
+l'effetto di piccole esplosioni prorompenti, co- 
+me le esplosioni dei semi che si aprono sotto la 
+pressione di una pianta che sta germinando. 
+Infatti molti degli Olii rievocano proprio un 
+tale processo di germinazione entro una massa 
+vagamente simile a un frutto circoscritta dal 
+
+
+
+Perforations do not imply the destruction of the 
+surface on which they appear. Quite the con- 
+trary, in the case of a sheet of postage stamps, 
+for instance, they accentuate the surface. Per- 
+forations are also generically different from the 
+hole of a camera oscura or from a peep hole. 
+The single hole, whether large or small, forces 
+the eye (or in the case of the camera oscura, the 
+light image) to penetrate the surface. Perfora- 
+tions, no matter how random, always cluster 
+into a pattern or at least are perceived by the 
+eye as such. The pattern-making function of the 
+holes is accentuated during the early years of 
+the series by a constellation-like configuration 
+(Illustration 10; 50 B 3). Later on, color dots 
+accompany the perforations (Illustration 11; 
+60 O 1). Finally (Cat. No. 2) the perforations 
+are rhythmically related to forms and con- 
+figurations painted onto the surface of the pic- 
+ture and once again fall into a pattern that is 
+integrated with the picture surface. By that 
+token, the perforations become functions of 
+the surface. What goes on beyond the perfora- 
+tions is only a secondary issue, if indeed it is an 
+issue at all. The Holes series are images to be 
+regarded as one regards most images in a gal- 
+lery. Our eyes and our mind deal with finite 
+objects displayed on a wall in front of us. 
+
+Much the same can be said of the more com- 
+plicated Oils and Stones. The holes that appear 
+in the Oils (Cat. No. 6-7) have the effect of 
+miniature forward explosions, like the explo- 
+sions that occur when the husk of a seed breaks 
+open under the pressure of a germinating plant. 
+Indeed, many of the Oils suggest just such a 
+process of germination within a vaguely fruit- 
+like mass circumscribed by the thin line of oil 
+paint. Again, what lies behind the hole is of 
+little or no interest. The space that is activated 
+by the «explosion» lies in front of the painting. 
+
+This same principle is even clearer in the 
+Stones (Cat. No. 1 ). The gleaming surfaces of 
+the glass fragments all act in the forward 
+
+
+
+38 
+
+
+
+IIOMUil TO LI UO K)\l \\\ 
+
+
+
+leggero strato di pittura a olio. E ancora, ciò ehe 
+sta dietro al bueo ha relativamente poeo inte- 
+resse. Lo spazio ehe è eoinvolto dall'«esplosio- 
+ne» si trova davanti al dipinto. 
+
+Questo prineipio è ancora più evidente nelle 
+Pietre (Cat. n. 1). Le superfici brillanti dei 
+frammenti di vetro agiscono tutte nella dimen- 
+sione anteriore. Anche quando le Pietre sono 
+unite ai buchi, i buchi sono sempre presentati 
+come accentuazioni negative delle pietre e non 
+come azioni indipendenti che ci guidano lonta- 
+no dall'immagine per condurci in un mondo 
+misterioso che si allontana dalla nostra vista. I 
+Tagli, d'altra parte, appartengono ad una con- 
+cezione molto diversa che è più vicina a quella 
+delle porte del Duomo piuttosto che a quella 
+immediatamente precedente delle Pietre. I Ta- 
+gli costringono gli occhi e la mente a meditare 
+su ciò che è oltre e dietro la superficie della tela. 
+
+È utile a questo punto esaminare più da vicino 
+i Tagli. Tralasciando gli esperimenti iniziali, 
+incerti ed esitanti, della serie, l'opera matura in 
+questo genere (Cat. n. 5) presenta una tela 
+dipinta con un singolo colore. Questo colore è 
+applicato con una densità perfettamente uni- 
+forme sull'intera superficie. In qualche parte 
+all'interno di questa superficie pitturata, la tela 
+viene poi lacerata con un singolo taglio sottilis- 
+simo alle estremità che gradualmente si allarga 
+verso il centro dove la tela è meno tesa e si piega 
+leggermente verso l'interno. 
+
+Si è detto molto sul fatto che Fontana con i 
+suoi Tagli abbia distrutto la pittura di cavallet- 
+to. Infatti, i critici sembrano essere unanimi a 
+tale proposito. Certamente, nel periodo in cui 
+queste opere vennero inizialmente presentate, 
+l'audacia dell'azione di Fontana giustifico tale 
+idea. Ora che quel momento di sorprendente 
+novità è passato da tempo, trovo che sia molto 
+difficile scorgere qualche intento distruttivo 
+nell'aspetto di queste pitture. Non c'è alcun 
+segno di rabbia, forza bruta o desiderio di porre 
+fine ad un dato oggetto o a una data condizione. 
+
+
+
+dimension. Even when the Stones are com- 
+bined with holes, the holes are always pre- 
+sented as negative accentuations of the stones 
+and not as independent actions leading awav 
+from the image towards a mysterious realm 
+that recedes from our vision. The Slashes, on 
+the other hand, belong to a very different con- 
+cept more closely related to the cathedral doors 
+than to the immediately preceding Stones. The 
+Slashes do force our eye and our mind to medi- 
+tate on what lies beyond and behind the 
+canvas-surface. 
+
+It is useful, at this point, to look more closely 
+at the Slashes. Leaving aside the uncertain, 
+hesitant early experiments of the series, the 
+mature work in this genre (Cat. No. 5) repre- 
+sents a stretched canvas, grounded and painted 
+a single color. This color is applied with abso- 
+lutely even density across the entire surface. 
+Somewhere within this painted surface, the 
+fabric is then slashed in a single tear which is 
+exquisitely fine at the extremities and gradually 
+broadens towards the center where the tight 
+canvas, reacting to the pressure of the razorb- 
+lade, curls slightly inward. 
+
+Much has been said about Fontana's having 
+destroyed the easel picture with his Slashes. In 
+fact, the critics seem to be unanimous about 
+this. Certainly, at the time these works were 
+first presented, the audacity of Fontana's ac- 
+tion justified such an idea. Now that moment of 
+startling novelty is long past. I find it ver) diffi- 
+cult to discern any destructive intention in the 
+appearance of these paintings. There is no e\ i- 
+dence of rage, brute force or desire to put an 
+end to a given object or condition. The fact 
+becomes obvious when we compare one ol 
+Fontana's Slashes with a cam as that was dam- 
+aged with destructive intent (Illustration 12). 
+Fontana's work emerges as a manifestation ol 
+sublime serenity, uttcrlv antagonistic in 
+appearance and emotional appeal to the «des- 
+troyed» canvas, lontana, far from destroying 
+
+
+
+J9 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+Ciò diventa ovvio quando paragoniamo uno dei 
+Tagli di Fontana ad una tela che sia stata dan- 
+neggiata intenzionalmente con la volontà di 
+distruggerla (111. 12). L'opera di Fontana si pre- 
+senta come una manifestazione di sublime sere- 
+nità, del tutto contraria nell'aspetto e nell'at- 
+trattiva emotiva alla tela «distrutta». Fontana, 
+lungi dal distruggere la tela, la trasforma dan- 
+dole una più alta, e finora insospettata, capaci- 
+tà espressiva. Come le porte del Duomo, i Tagli 
+ci introducono in un mondo che è intravisto 
+appena per permetterci di intuire un regno che 
+esiste non come estensione del nostro spazio, 
+ma come una immensità più potente che ci 
+sovrasta. 
+
+Se osserviamo le foto dell'artista nell'atto di 
+tagliare le sue tele (111. 13), diventa palese 
+quanto sia in realtà fuorviante il verbo «taglia- 
+re». C'è un effetto spontaneo ritualistico nel- 
+l'atto di Fontana che non ha niente a che fare 
+con la distruzione e che invece rivela l'intenzio- 
+ne di ogni atto rituale: spiegare ciò che è invisi- 
+bile. Inoltre, come tutti i riti, il concreto e l'in- 
+corporeo si urtano in maniera che ciò che è 
+concreto perde il suo significato di realtà e ciò 
+che è incorporeo si manifesta più potentemente 
+reale di qualsiasi cosa possiamo afferrare con i 
+cinque sensi. Così la tela (che è l'essenza reale 
+di tutta la pittura) coperta com'è con uno strato 
+di colore privo di forma (un'altra realtà sine- 
+qua-non della pittura), si trasforma in un inde- 
+terminato ed incorporeo elemento privato di 
+spessore ed estensione misurabile. Tuttavia lo 
+spazio incorporeo intuito oltre la tela diventa 
+una presenza possente, che è molto più reale 
+fisicamente della tela stessa. Si potrebbe anzi 
+dire che la tela esiste solo in funzione del taglio. 
+
+Recentemente è stato compiuto il tentativo di 
+presentare un gruppo di pitture di Rothko a 
+guisa di pala d'altare astratta. Il tentativo è 
+certamente valido anche se ogni individuo deve 
+decidere da solo se i dipinti diano realmente un 
+vero effetto ritualistico. Se inspirano reverenza 
+
+
+
+the canvas, transformed it, gave it a higher and 
+hitherto unsuspected expressive possibility. 
+Like the cathedral doors, the Slashes introduce 
+us into a distance that is glimpsed just suffi- 
+ciently to allow us to intuit a realm that exists 
+not as an extension of our space but as a might- 
+ier, possibly overwhelming immensity. 
+
+If we turn to photographs of the artist in the 
+act of slashing his canvas (Illustration 13) it 
+becomes quite clear how misleading the verb 
+«to slash» really is, even the less emotional verb 
+«to cut» sounds a false note. There is a spon- 
+taneous effect of ritual in Fontana's action that 
+has nothing at all to do with destruction but 
+everything to do with the intention of all ritual 
+action: to clarify what is invisible. Also, like all 
+rituals, the concrete and the insubstantial col- 
+lide in such a fashion that what is concrete loses 
+its significance as reality and what is insubstan- 
+tial manifests itself as more cogently real than 
+anything we can grasp with our five physical 
+senses. Thus the canvas (which is a quintessen- 
+tial reality of all painting) covered as it is with 
+an even, dimensionless layer of color (another 
+of painting's sine qua non realities) turns into 
+an indeterminate insubstantial element bereft 
+of measurable thickness or extent. The insub- 
+stantial, intuited space beyond the canvas, 
+however, turns into a powerful presence that is 
+far more physically real than the canvas. 
+
+An attempt has recently been made to present 
+a group of paintings by Rothko in the guise of 
+abstract altar-pieces. The attempt is certainly 
+valid even though each individual must decide 
+for himself whether the paintings actually have 
+a properly ritual effect. If they inspire awe, it is 
+by eliminating all sense of corporeality. Roth- 
+ko's pictures, in fact, suggest a hovering, inde- 
+terminate and indescribable atmosphere which 
+Robert Rosenblum has traced to its beginnings 
+in Caspar David Friedrich and in early northern 
+Romantic theory. Fontana's Slashes belong 
+wholeheartedly to the Mediterranean tradition. 
+
+
+
+
+
+
+40 
+
+
+
+HOMAGE TO LUCIO FONTANA 
+
+
+
+iMM , 5^-r-v 
+
+
+
+
+
+
+
+■*». "^ 
+
+
+
+1 2. I lonoré Daumier 
+
+Ingrate l'ulne' In n'auras pas /non oeuvre 
+
+
+
+1 2 I lonoré I &gt;aumier 
+
+Ingrate Patrie! In n'quras pas mon oeuvre 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+è grazie alla eliminazione di qualsiasi senso di 
+corporalità. 1 dipinti di Rothko, infatti, suggeri- 
+scono un'atmosfera fluttuante, indeterminata 
+ed indescrivibile le cui origini vengono fatte 
+risalire da Robert Rosenblum a Caspar David 
+Friedrich e alla iniziale teoria nordica romanti- 
+ca. I Tagli di Fontana appartengono fino in 
+fondo alla tradizione mediterranea. In questa 
+tradizione il magnum tremendum, benché ap- 
+partenente ad una sfera oltre i nostri sensi, si 
+manifesta in oggetti fisicamente presenti. La 
+garanzia di eternità, salvezza o semplicemente 
+(come nel caso di Fontana) la presenza di una 
+sfera di esistenza completamente differente 
+dalla nostra, è ottenuta mediante un'accresciu- 
+ta contemplazione delle realtà familiari e non 
+grazie ad un ambizioso volteggio che annienti 
+l'esistenza del nostro mondo. 
+
+Nell'ultima stanza di questa mostra, sono sta- 
+te installate due delle pitture di Fontana in 
+condizioni simili alla cappella di Rothko a Hou- 
+ston. Comunque la Collezione Peggy Guggen- 
+heim non vuole in alcun modo persuadere i 
+suoi visitatori che questa nota quasi religiosa 
+sia quella autentica per l'interpretazione dell'o- 
+pera di Fontana. Ognuno può rifiutare o accet- 
+tare i risultati dell'esperimento. Ci siamo così 
+abituati ad opere d'arte senza titolo o a opere 
+che portano titoli deliberatamente fuorvianti o 
+insignificanti, che siamo portati a ignorarne 
+l'importanza anche nei casi in cui i titoli siano 
+stati scelti con decisione meditata. Fontana 
+chiamò tali opere Attese. Ciò che è atteso qui 
+sarà probabilmente il passaggio tra il mondo 
+che conosciamo già e un mondo che esiste al di 
+là delle nostre capacità sensoriali. Ma natural- 
+mente il nostro mondo, che pensiamo di cono- 
+scere già, sarà trasformato da ciò che provere- 
+mo nel momento in cui lo lasciamo alle spalle 
+per seguire il richiamo di ciò che è ancora sco- 
+nosciuto. 
+
+Sia che si accetti una certa tendenza religiosa 
+latente nell'opera di Fontana (e molti critici 
+
+
+
+In this the magnum tremendum, though it is 
+not itself of the order of physically experienced 
+reality, nevertheless manifests itself within an 
+ascertainable, physically present reality. The 
+guarantee of eternity, salvation or simply (as in 
+the case of Fontana) the existence of a sphere of 
+existence utterly different from ours, is 
+attained by the heightened contemplation of 
+familiar realities and not by a vaulting leap that 
+annihilates the existence of our world. 
+
+In the last room of the present exhibition two 
+of Fontana's paintings have been installed 
+under conditions similar to the Rothko chapel 
+in Houston. In no way does the Peggy Gug- 
+genheim Collection wish to persuade its visi- 
+tors that such a quasi-religious note is the au- 
+thentic one for understanding Fontana's work. 
+Each individual may reject or accept the results 
+of the experiment. We have become so used to 
+untitled works of art or to works which bear 
+deliberately misleading or meaningless titles, 
+that we are apt to overlook their importance 
+even in cases where the titles were chosen with 
+careful deliberation. Fontana called these 
+works Attese i.e. Expectations and what is ex- 
+pected here can only be the final revelation of 
+what is so enticingly intimated by the painting's 
+function as a passage between the world we 
+already know and a world which we know to 
+exist beyond our grasp. But of course, our 
+world which we think we already know will be 
+transformed by what we will experience when 
+we leave it behind to follow the summons of the 
+yet unknown. 
+
+Whether one accepts a certain religious 
+undercurrent in Fontana's work (and many cri- 
+tics have hinted at his deep interest in Oriental 
+principles of religion) or whether one suppres- 
+ses such a possibility, the fact remains that the 
+Slashes, like the projects for Milan cathedral, 
+convey a significant element of communion 
+and communality. It is not happenstance that 
+they have become his most popular work, the 
+
+
+
+4 2 
+
+
+
+HOMAGK TO LUCIO I ON I \\ \ 
+
+
+
+hanno accennato al suo profondo interesse per 
+i principi religiosi orientali) o che si escluda tale 
+possibilità, resta comunque valido il fatto che i 
+Tagli, come i progetti per il Duomo di Milano, 
+abbiano un significativo elemento di comunio- 
+ne e di comunità. Non è un caso che siano 
+diventati le sue opere più famose, le opere con 
+cui è ora identificato da critici, dilettanti e arti- 
+sti. Questo non vuol dire che rappresentino la 
+sua produzione migliore o persino più interes- 
+sante. Ma sono le opere che più soddisfecero il 
+suo bisogno di parlare a un vasto pubblico 
+senza compromettere l'idioma così rigorosa- 
+mente contemporaneo della sua arte. La sua 
+disponibilità a creare allestimenti per vetrine a 
+Milano e Buenos Aires, le sue magnifiche in- 
+venzioni in luci al neon per la Triennale e per il 
+padiglione Sidercomit alla Fiera di Milano del 
+1953 sono parte del bisogno di Fontana di an- 
+dare al di là dello studio, del museo o della 
+galleria per giungere a un pubblico sempre più 
+esteso. I Tagli sono le realizzazioni più duratu- 
+re e di più alto livello estetico di questo stesso 
+aspetto peculiare della natura di Fontana. 
+
+Certamente i suoi lavori più tardi. Teatrini o 
+Fine di Dio, sono più oscuri e complicati. Ad 
+esempio, la parola «fine» in italiano non signifi- 
+ca necessariamente «termine». Sospetto forte- 
+mente che Fontana non intendesse affatto quel 
+significato. Nel caso contrario, avrebbe proba- 
+bilmente utilizzato la definizione di Nietzsche 
+«La morte di Dio». «Fine» può anche voler dire 
+«intenzione» o «meta». Da quello che sappia- 
+mo del carattere di Fontana, tali giochi di paro- 
+le non possono non essere tenuti in conto. I 
+Teatrini richiedono similarmente un esame più 
+attento. Anche in questo caso un doppio signi- 
+ficato conscio o inconscio può aver influito. La 
+parola «teatrino» oltre a designare il teatrino 
+delle marionette, indica nella storia della scul- 
+tura italiana profonde nicchie con un piano 
+fortemente inclinato su cui sono poste le minu- 
+scole figurine, di solito tratte da storie sacre. La 
+
+
+
+work with which he is now identified in the 
+minds of critics, laymen and artists. This is not 
+to say that they represent his best or even his 
+most interesting oeuvre. Hut the) are the works 
+which most satisfy Fontana*s urge to speak to a 
+vast audience without compromising the rigor- 
+ously contemporary idiom of his art. His wil- 
+lingness to design show windows for shops in 
+Milan and Buenos Aires, his magnificent inven- 
+tions for the Triennale in neon-tubing and for 
+the Sidercomit pavilion at the 1 955 Milan 
+Trade Fair are part of Fontana's urgency to go 
+beyond the studio, beyond the museum or the 
+gallery. The Slashes arc only the most en- 
+duringly successful realizations of this particu- 
+lar aspect of Fontana's nature. 
+
+Certainly his later works, the Puppet Theatres 
+or the Fine di Dio paintings, are more recon- 
+dite, more complicated. For example, the word 
+«fine» in Italian need not mean «end». 
+
+I strongly suspect that Fontana did not intend 
+this meaning at all. It he had, he would prob- 
+ably have employed Nietzsche's formulation oi 
+«La morte di Dio». «Fine» can also mean «in- 
+tention» or «goal». From all we know of Fonta- 
+na's character, such puns cannot be dis- 
+counted. 
+
+The Teatrini are similarly in need of more ex- 
+tensive investigation. In this instance, too. a 
+conscious or subconscious double meaning 
+may have played a part. In the history of Italian 
+sculpture, the word «teatrino» denotes deep 
+niches with a steeply rising floor on which are 
+placed tiny figures, usually of sacred narratives. 
+The peculiarity o\ Fontana's Teatrini is the ex- 
+pert equilibrium he maintains between the 
+space that is the equivalent of the audience 
+realm, the space of the puppet stage on which 
+the action takes place and a more mysterious 
+space which lies beyond the puppet stage but 
+which subsumes both the audience's space as 
+well as the space of the actors. Onl\ now that 
+we have a published body of Fontana's oeuvre, 
+
+
+
+41 
+
+
+
+OMAGGIO A LUCIO FONTANA 
+
+
+
+peculiarità dei Teatrini di Fontana consiste nel- 
+l'esperto equilibrio che egli riesce a mantenere 
+tra lo spazio, che è l'equivalente del mondo del 
+pubblico, lo spazio del palcoscenico su cui ha 
+luogo l'azione e uno spazio più misterioso che 
+si estende oltre il teatrino ma che comprende 
+tanto lo spazio del pubblico che quello degli 
+attori. Solo ora che abbiamo un catalogo gene- 
+rale di tutta l'opera di Fontana, queste doman- 
+de potranno essere studiate e forse risolte. 
+
+Considerando il crescente interesse per l'ope- 
+ra di Fontana, è facile predire che queste opere 
+affascinanti e relativamente inesplorate diven- 
+teranno così popolari, così vastamente cono- 
+sciute per la loro importanza sia storica che 
+artistica, come i Tagli. Sembra che Fontana 
+non abbia mai significato così tanto per così 
+tante persone. Che mai il suo mondo abbia 
+avuto maggior peso. 
+
+FRED LICHT 
+
+
+
+1 Lucio Fontana, esposizione a Monaco e Darmstadt, 
+1 984, catalogo Prestel Verlag, Monaco, 1 983; Lucio Fon- 
+tana, esposizione a Parigi, Centre Georges Pompidou, 
+1988, catalogo Edition du Centre Georges Pompidou, 
+1987. 
+
+' Arturo Martini, Scultura Lingua Morta, Milano, Jaca 
+Book, 1983. 
+
+' Si potrebbe obiettare che altre figure in sculture proce- 
+denti scrutino le distanze che ci sono sconosciute. Ma ci 
+sarebbero due errori in tale obiezione. 1. Nei casi prece- 
+denti di figure che guardano verso distanze indeterminate 
+( specialmente nelle allegorie barocche o nelle effigi sepol- 
+crali) lo sguardo delle sculture non continua mai nella 
+dire/ione del nostro stesso sguardo. Al contrario, general- 
+mente volgono lo sguardo verso una direzione che e dia- 
+metralmente opposta alla direzione dei nostri assi visivi. 
+2. Non e nemmeno del tutto vero che tali figure guardino 
+verso spazi e disianze a noi sconosciute. Mirano invaria- 
+bilmente verso Dio o verso qualche manifesta/ione della 
+sua volontà. C'è una immensa differenza Ira il significalo 
+di infinito in un testo teologico e la stessa parola usata 
+
+
+
+can such questions be studied and, perhaps, 
+resolved. 
+
+Given the increasing interest in Fontana's 
+work, it is safe to prophesy that these fascinat- 
+ing and relatively unexplored works will be- 
+come as current, as widely recognized for their 
+historical as well as for their artistic importance 
+as the Slashes. Never, it would seem, has Fonta- 
+na meant so much to so many. Never has his 
+word had greater weight. 
+
+FRED LICHT 
+
+
+
+' Lucio Fontana, exhibition in Munich and Darmstadt 
+1984, Catalogue Prestel Verlag, Munich, 1983; Lucio 
+Fontana, exhibition in Paris, 1988, Catalogue Edition du 
+Centre Georges Pompidou 1987. 
+
+2 Arturo Martini, Scultura Lingua Morta, Milan, Jaca 
+Book, 1983. 
+
+' It may be objected that other figures in earlier sculp- 
+tures gaze at the distance that is not known to us. But 
+there are two fallacies involved in such an objection. 1 . In 
+earlier cases of figures looking into indeterminate dis- 
+tances (especially in Baroque allegories or tomb effigies) 
+the gaze of the sculptural figure never continues the direc- 
+tion of our own gaze. Instead, they generally look off in a 
+direction that is diametrically opposed to the direction of 
+our own visual axis. 2. Nor is it quite true that these earlier 
+figures look into spaces and distances unknown to us. 
+They are invariably looking either at God or at some 
+manifestion of His will. There is an immense difference 
+between the meaning of infinity in a theological text and 
+the same word used in the writings of Einstein. Another 
+sculpture which might be cited as contradicting our asser- 
+tion is Duchamp's The Bride Stripped Hare by her Bache- 
+lors, Even. It is true that its composition automatically 
+incorporates everything that exists behind it into the web 
+of its composition. But our eye does not pass through the 
+Bride into a space that is different from ours. Quite the 
+contrary, the Bride denies any space surrounding it on 
+either side of its surface. It does so by absorbing into its 
+surface everything that is in front of the glass by means of 
+reflection. Everything that is behind is caught in the 
+meshes of lines and forms that appear on the surface oi 
+the glass. 
+
+
+
+44 
+
+
+
+HOMU.I IO I I III) I l)\l \\\ 
+
+
+
+negli scritti di Einstein. Un'altra scultura che potrebbe 
+venire citata per contraddire la nostra affermazione e 
+quella di Duchamp La murice mise à nu pur ces d'Ubami- 
+KS, memo... È Nero clic la sua composi/ione incorpora 
+automaticamente tutto ciò che esiste dietro, nella rete 
+della sua composi/ione. Ma i nostri occhi non passano 
+attraverso la sposa in uno spazio che sia diverso dal 
+nostro. Piuttosto è il contrario, la sposa nega qualsiasi 
+spazio che la circonda da entrambe le parti della sua 
+superficie. Riesce in ciò assorbendo nella sua superficie 
+tutto quello che è di fronte al vetro per mezzo del suo 
+riflesso. Tutto ciò che è dietro è catturato nelle maglie di 
+una rete di linee e forme che appaiono nella superficie del 
+vetro. 
+
+' Vedi le seguenti illustrazioni nel catalogo di Parigi: p. 
+145. p. 1 65. p. 165. Anche quei lavori così umoristici 
+come quelli a p. 149 appartengono a questa categoria, 
+li significativo a questo proposito notare che le porte 
+centrali di Poliaghi per la cattedrale di Milano sono già un 
+tentativo di rottura con la forte tradizione precedente. La 
+sua introduzione sottile e tuttavia drammatica di uno 
+spazio misurabile e reale visto attraverso una rete calligra- 
+fica di viticci e di ornamenti a guisa di tela di ragno 
+ricordano la composizione a juur di Fontana e la perfora- 
+zione sgraziata ed inutile del piano di base che fu decisa in 
+ultimo quando l'incarico venne tolto a Fontana. 
+
+
+
+See the following illustrations in the Paris catalogue 
+Page 145. Page 163, Page 165. 1 vensuchearl) humorous 
+
+works as Page I4 L ) belong to this category. 
+
+It is significant in this regard to notice thai Poliaghi 's 
+central doors for Milan cathedral alread\ attempt to break 
+with the powerful earlier tradition. Poliaghi 's subtle and 
+yel dramatic introduction of measurable, real space seen 
+through a calligraphic network of tendrils and spider} 
+ornament points to Fontana's a jour composition and to 
+the clumsil) ineffective piercing of the ground plane that 
+was ultimately decided on when the commission was 
+taken awa\ from Fontana. 
+
+
+
+45 
+
+
+
+13. Fotografia dell'artista mentre taglia una tela 13. Photograph of the artist while slashing a canvas 
+
+di Ugo Mulas by Ugo Mulas 
+
+
+
+46 
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+a. 
+
+
+1 * ? *' 
+
+
+Il 
+
+
+
+
+
+OMAGGIO A HOMAGE TO 
+
+LUCIO FONTANA LUCIO FONTANA 
+
+
+
+Certi quadri degli anni cinquanta evidenziano l'inte- 
+resse di Fontana per l'effetto visivo dei testi. Un tale 
+interesse si addice perfettamente a un artista pro- 
+fondamente coinvolto nell'indagare sulle funzioni 
+di segni e segnali. Titoli come Le tavole della Legge 
+rendono ancora più plausibile il suo ricorso alla 
+scrittura primordiale. 
+
+In questo quadro l'aspetto di una tavola contenente 
+delle lettere è suggerito dalla «cornice» incisa sulla 
+superficie del quadro stesso. Anche la sistemazione 
+volutamente verticale di segni regolari (i buchi e il 
+vetro) rammenta forme di scrittura, come quella 
+cuneiforme, caratterizzata da elementi regolari con 
+piccolissime variazioni. Simultaneamente Fontana 
+continua la sua indagine sul tema della tela quale 
+campo da misurare con metodi intellettuali quanto 
+intuitivi. La cornice interna differenzia fra un cam- 
+po interno che si presenta come spazio e un margine 
+che viene percepito come piano. La profondità del- 
+l'incisione stessa ci dà la misura dello spessore della 
+materia pittorica. I buchi trasformano la superficie 
+in una rete permeabile, mentre i frammenti di vetro 
+danno un senso diametralmente opposto: quello di 
+una base solida sulla quale si possono poggiare degli 
+oggetti (come lo sono i frammenti di vetro). In 
+qualsiasi modo il quadro venga illuminato, le luci e 
+le ombre dei buchi saranno sempre in opposizione 
+alle luci e alle ombre dei vetri. Un gran numero di 
+contraddizioni viene equilibrato dalla superficie im- 
+mobile... però la superficie stessa esiste solo come 
+sfumatura di colore senza corpo né dimensione. 
+
+
+
+Certain paintings of the 1950s seem to indicate 
+Fontana's interest in the visual appearance of writ- 
+ten texts. Such an interest is perfectly understand- 
+able in the work of an artist interested in the func- 
+tion of signs and signals. Titles such as The Tablets 
+of the Law make the assumption of Fontana's ex- 
+ploitation of texts, especially of primordial writing, 
+even more plausible. 
+
+In the present painting, the character of a tablet 
+containing letters suggested by the «frame» incised 
+into the surface of the picture and the careful vertic- 
+al arrangement of regular signs (the holes and the 
+glass) suggests the same slight variations on a basic 
+form which are essential to so many forms of early 
+writing, especially cuneiform. At the same time. 
+Fontana pursues his constantly grander experi- 
+mentation of the canvas as a field which must be 
+measured not only by physical but also by meta- 
+physical speculation. The incised frame, besides dif- 
+ferentiating between enclosed, shaped space and 
+exterior, flat margin, also gives us the measure of 
+the thickness of paint into which it is scratched. The 
+punctures turn the surface into a permeable net 
+while the raised pieces of glass suggest a diametri- 
+cally opposed quality: that of a solid base on which 
+objects (such as the glass fragments) can securely 
+rest. The bewildering interplay of light and shadow 
+is also worth noting: no matter how the painting is 
+illuminated, the shadows of the punctures will al- 
+ways be on the opposite side of the shadows pro- 
+duced by the glass. A great number of fluctuating 
+contradictions are harmonized by the steadfast sur- 
+face... but this surface exists only as a disembodied, 
+dimensionless tone of color. 
+
+
+
+1. Concetto spaziale. 1953 1, Spatial Concept. 1953 
+
+
+
+Olio, graffiti e vetri su tela 
+
+70x55 cm 
+
+53 P 30 
+
+Collezione FeresiU Fontani Mil .un» 
+
+
+
+Oil. graffiti ;md glass on canvas 
+
+70x55 cm 
+
+53 P 30 
+
+[ eresi ta Fontana Collection Mil in 
+
+
+
+50 
+
+
+
+Le serie dei Buchi ed Inchiostri hanno una certa 
+affinità con i ricami. I fori non ci invitano ad indu- 
+giare su spazi al di là della tela, ma sono come la 
+foratura di un ago da ricamo che, come i buchi di 
+Fontana, stabilisce uno schema e un ordine ritmico. 
+I buchi di Fontana, come i punti di un ricamo, 
+suggeriscono l'esistenza di un «retro» e non di spazi 
+incalcolabili che conducono lontano dalla tela verso 
+oscurità indeterminate, come sarà poi il caso dei 
+tagli. 
+
+I buchi da entrambe le parti della forma irregolare 
+delicatamente floreale suggeriscono linee di corren- 
+te, facendo diventare la superficie un continuum 
+fluente. La direzione della corrente è ambigua, per- 
+ché l'allineamento dei buchi è aperto sia sotto che 
+sopra il motivo centrale. Sopra e sotto, superficie e 
+profondità mutano costantemente identità. Per tut- 
+ta la chiarezza di linee, la severità del disegno e la 
+rigorosa determinazione delle aree, l'effetto finale è 
+quello di una levitazione simile al sogno. 
+
+
+
+The series of Holes and Inks have a certain affinity 
+with embroideries. The perforations do not invite us 
+to dwell on spaces beyond the canvas but are like the 
+piercing of an embroidery needle which like Fonta- 
+na's punctures, establishes pattern and rhythmic 
+order. Fontana's holes, like embroidery stitching, 
+hint at the existence of a «reverse» and not at incal- 
+culable spaces leading away from the canvas into 
+indeterminate darkness. 
+
+The holes to either side of the irregular, softly floral 
+shape suggest lines of flow, turning the surface into 
+streaming continuum. The direction of the stream is 
+ambiguous because the alignment of holes is open 
+both above and below the central motif. Up and 
+down, surface and depth constantly shift identity. 
+For all the clarity of line, severity of pattern and 
+strict determination of areas, the final effect is one 
+of dreamlike levitation. 
+
+
+
+2. Concetto spaziale, l'orma. 1957 2. Spatial Concept, l'orni. 1957 
+
+
+
+Anilina e collage su tela 
+
+150x150 cm 
+
+57 I 5 
+
+Fondazione Lucio Fontana, Milano 
+
+
+
+Aniline and collage on canvas 
+
+150x150 cm 
+
+57 I 5 
+
+Fondazione Lucio Fontana, Milan 
+
+
+
+52 
+
+
+
+I primi tagli si distinguono dalla ieratica semplicità 
+dell'opera più matura di Fontana (vedi Cat. n. 5), 
+essendo più dinamici e (superficialmente) più com- 
+plicati. L'opera più tarda abolisce i cambi di colore 
+della base e i tagli sono organizzati in modo più 
+severo. La complessità in questi lavori più tardi è un 
+fatto di distillazione in cui tutto viene eliminato, 
+eccetto l'essenziale. Ricordano quelle equazioni di 
+fisica, apparentemente semplici, in cui sono stati 
+concentrati con una formula succinta anni di calcoli 
+elaborati. Negli stadi iniziali dei suoi tagli Fontana 
+non si era ancora accorto completamente di tutte le 
+implicazioni della sua proposta, del passaggio fra il 
+visibile e l'invisibile presentato da una singola im- 
+magine. Al contrario, l'occhio è interessato da un 
+abbondante numero di drammi visivi: il cambio di 
+luce e colore del fondo, la gamma variante delle 
+incisioni allentate e tese, l'elegante sviluppo dei tagli 
+da una disposizione orizzontale ad una verticale. 
+L'eccitazione e la soddisfazione offerta dai primi 
+tagli sono della stessa intensità di quelle dell'opera 
+matura, ma sono l'eccitazione data dalla germina- 
+zione della transizione e dell'attesa. 
+
+
+
+The earliest slashes distinguish themselves from the 
+hieratic simplicity of Fontana's most mature work 
+(see Cat. No. 5) by being more dynamic and (super- 
+ficially) more complicated. The later work does 
+away with changing color of the ground and the 
+slashes are organized in a more severe manner. 
+Complexity in these late works is a matter of distilla- 
+tion in which all but the essentials are eliminated. 
+They resemble those apparently simple equations of 
+physics in which years of elaborate calculations 
+have been compressed into a succinct formula. At 
+the earlier stages of his slashes, Fontana has not yet 
+realized to the full all the implications of his prop- 
+osition, of the passage between visible and invisible 
+presented by a single image. Instead, the eye is kept 
+interested in a great number of visual dramas. There 
+is the changing light and color of the field, the varied 
+scale of lax and tense incisions, the elegant progress 
+from horizontal to vertical organization of the 
+slashes. The excitement and the satisfactions 
+offered by the earlier slashes are as great as that of 
+the mature work but they are the excitement of 
+germination, of transition and suspense. 
+
+
+
+5. Concetto spaziale. Attese. 1959 3. Spatial Concept, Expectations. 1959 
+
+
+
+Anilina su tela 
+
+101x125 cm 
+
+59 T 5 
+
+Collezione Teresita Fontana, Milano 
+
+
+
+Aniline on canvas 
+
+101x125 cm 
+
+59 T 5 
+
+l'eresila Fontana Collection, Milan 
+
+
+
+54 
+
+
+
+Le sperimentazioni di Fontana con le tele di forme 
+irregolari sono tutte databili verso il 1959. Per la 
+maggior parte, l'artista è interessato soprattutto a 
+creare gruppi di quadri in cui ogni singola pittura 
+avesse mantenuto la sua autonoma caratteristica 
+benché l'irregolarità del perimetro di ciascuna tela 
+arrivasse, per mezzo della sua irregolarità, agli spazi 
+adiacenti in cerca di forme che potessero corrispon- 
+dere alla sua. Questi gruppi di pitture dovevano 
+essere installate secondo il diverso gusto dei loro 
+proprietari e potevano essere sistemate secondo i 
+loro desideri. In questo modo Fontana si apre verso 
+ciò che Umberto Eco nella stessa epoca chiamava 
+«Opera aperta». Fontana è fra i primi artisti a basare 
+le sue strategie creative sulla cooperazione con per- 
+sone a lui sconosciute. Tuttavia il suo atto apparen- 
+temente così anarchico al profano, rende solo espli- 
+cito ciò che tutti gli artisti e i curatori di musei sanno 
+da secoli: la posizione di un'opera d'arte, una volta 
+che lascia lo studio dell'artista, ne cambia il caratte- 
+re e l'aspetto. 
+
+Forse a causa dell'elemento di instabilità e di inde- 
+terminatezza essenziale in questa categoria di opere 
+di Fontana, i critici le hanno spesso trattate dura- 
+mente mentre i collezionisti e i direttori di musei 
+hanno risposto con molto più entusiasmo. 
+Sono relativamente rari invece quadri singoli di for- 
+me irregolari, ma sempre definite geometricamente, 
+come quello in mostra. Oggi queste opere hanno un 
+interesse storico particolare perché fanno parte di 
+un fenomeno internazionale che proponeva tele di 
+tale foggia in ogni capitale d'arte. 
+
+
+
+Fontana's experiments with irregularly shaped can- 
+vases date from 1959. For the most part, the artist 
+was primarily interested in creating groups of paint- 
+ings in which each individual painting would retain 
+its autonomous character even though the irregular 
+perimeter of each canvas would, by token of its 
+irregularity, reach into its surrounding space in 
+search of forms that might respond to its own. 
+These groups of paintings were meant to be instal- 
+led in accordance with the taste or caprice of their 
+owners and could be rearranged at will. In this 
+manner, Fontana developed the principle of for- 
+tuitous accidents in a new direction and involved 
+non-artists in the appearance of his work. Fontana is 
+one of the first artists to base his creative strategies 
+on the cooperation of individuals unknown to him. 
+Yet his act, so seemingly anarchic to the layman, 
+only makes explicit what all artists and all museum 
+curators have known for centuries: the location of a 
+work of art once it leaves the artist's studio changes 
+its character and its appearance. 
+Perhaps because of the element of instability and 
+indefiniteness essential to this category of Fontana's 
+oeuvre, critics have often dealt harshly with them 
+while collectors and museum directors responded 
+with far more enthusiasm. 
+
+Single examples of irregularly shaped but always 
+geometrically defined canvases such as the one in 
+this exhibition, are relatively rare. These works have 
+special historic interest as part of an international 
+movement favoring «shaped canvases». 
+
+
+
+4. i\&gt;nccito spaziale. Attese. 1959 4. Spatial Concept, Expectations. 1959 
+
+
+
+[dropittura su tela 
+
+68 x ION cm 
+
+59 T I CM 
+
+Collezione feresita Fontana, Milano 
+
+
+
+Water-base paini on canvas 
+
+68 x 108 cm 
+
+54 T 104 
+
+Teresita Fontana Collection, Milan 
+
+
+
+56 
+
+
+
+Il singolo taglio su uno sfondo bianco rappresenta il 
+limite estremo della purezza di pensiero e di stile di 
+Fontana. Per tutta la grande immobilità dell'imma- 
+gine, l'ansioso momento di decisione cui l'artista 
+mira e in cui scarica la sua forza interiore in un sol 
+colpo, dà a quadri come questo tutta la drammatica 
+intensità di un «momento di verità». Un presente 
+statico è in tal modo accompagnato da un passato 
+fortemente agitato e trova la sua soluzione in un 
+futuro vagamente afferrabile all'interno dello spa- 
+zio oscuro dietro la tela. 
+
+
+
+The single slash on a white ground represents the 
+extreme limit of Fontana's purity of thought and of 
+style. For all the grand immobility of the image, the 
+tense moment of decision in which the artist took 
+aim and discharged his inner power in a single 
+stroke gives pictures like this all the dramatic in- 
+tensity of a «moment of truth». A static present is 
+thus accompanied by a highly agitated past and 
+finds its resolution in a vaguely apprehended future 
+within the obscure space behind the canvas. 
+
+
+
+5. Concetto spaziale. Attesa. I960 5. Spatial Concept, Expectation. l L )bO 
+
+
+
+Idropittura su tela 
+
+1 16x89 cm 
+
+60 T 73 
+
+Collezione Teresita Fontana, Milano 
+
+
+
+Water-base paint on canvas 
+1 I fax 89 cm 
+
+faO T 7 3 
+
+I crcsita lontana Collection, Milan 
+
+
+
+58 
+
+
+
+I quadri ad olio a lavorazione più spessa integrati da 
+frammenti colorati di pietre e vetri sono a metà 
+strada tra lo stile austero e intellettualmente maturo 
+di Fontana e la natura più gioiosa e sensuale delle 
+sue prime ceramiche. I buchi fatti nella tela non 
+hanno una funzione indipendente, ma sembrano 
+piuttosto i negativi delle pietre irregolari disposte 
+sulla superficie. Proprio come c'è una coordinazio- 
+ne tra alto e basso, destra e sinistra, così c'è una 
+varietà di coordinate che va dal punto più alto di 
+ogni pietra che penetra lo spazio di fronte la tela e lo 
+spazio dietro la tela reso visibile dai fori. A Fontana 
+è spesso piaciuto fare ritorno alle esperienze iniziali 
+e certamente la forte lucentezza della superficie, i 
+colori intensi e l'impasto con la sua calligrafia 
+espressiva contribuiscono a presentarci un'opera 
+enormemente attraente che combina il tono ottimi- 
+stico dei lavori iniziali in ceramica con le complesse 
+meditazioni della sua maturità. E indicativo della 
+natura più personalizzata, meno astratta di queste 
+pitture il fatto che portino titoli lirici e non i nomi 
+leggermente austeri dei tagli. 
+
+
+
+Thickly worked oil paintings supplemented with 
+colored fragments of stones and glass stand midway 
+between Fontana's austerely intellectual mature 
+style and the more playful, sensuous nature of his 
+earlier ceramics. The Holes punched into the canvas 
+do not have an independent function but seem 
+rather like negatives of the irregularly shaped stones 
+implanted in the surface. Just as there is a coordin- 
+ate of up and down, right and left, so is there a set of 
+coordinates which goes from the highest point of 
+each stone that penetrates the space in front of the 
+canvas to the space made visible behind the canvas 
+by the holes. Fontana often liked to return to earlier 
+experiences and certainly the high gloss of surface, 
+the intense colors and the carefully worked impasto 
+with its expressive calligraphy conspire to present 
+us with an enormously appealing work in ceramics 
+that combines the optimistic tone of his earlier work 
+with the complex meditations of his maturity. It is 
+indicative of the more personalized, less abstract 
+nature of these paintings that they bear lyrical titles 
+and not the lightly forbidding appelations of the 
+slashes. 
+
+
+
+b. Concetto spaziale. Sole in piazza San Marco. 
+
+1961 
+
+Olio e vetri su tela 
+
+I5UXI5U cm 
+
+61 O 52 
+
+Collezione privata, Milano 
+
+
+
+b. Spatial Concept. Sun in Piazza San Marco. 
+1961 
+
+Oil with glass on canvas 
+
+150x150 cm 
+
+6 1 52 
+
+Privale collection, Milan 
+
+
+
+6o 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 * Ì 
+
+
+
+
+
+
+• 
+
+• 
+
+
+( 
+
+
+
+
+
+
+
+
+&gt; 
+
+
+... 
+
+x • * . » , 
+
+
+i 
+
+
+1 
+
+
+
+
+ì 
+
+
+. 1 
+
+
+I 
+
+
+
+
+
+
+[ 
+
+
+• 
+1 
+
+
+
+
+
+
+
+
+
+
+w 
+
+
+
+
+ii 
+
+
+
+
+
+
+jp^ BIHBE^SrEriz 
+
+
+
+
+
+
+
+
+^h 
+
+
+
+
+
+Le meditazioni visive di Fontana su varie realtà e 
+sugli spazi in cui tali realtà si manifestano, in questo 
+dipinto raggiungono momenti di alta intensità. Le 
+pieghe dense e materiali di pittura ad olio sono in 
+forte contrasto con i tagli vuoti. Tuttavia l'incorpo- 
+reo spazio scuro dei tagli è più fisicamente enfatico. 
+Tale paradosso diviene particolarmente chiaro 
+quando si osservano le larghe pennellate che si in- 
+tersecano fra loro. Sia le increspature delle pennel- 
+late sovrastanti che di quelle sottostanti aderiscono 
+alla rigida superficie della tela, ma se si osservano, si 
+trascinano via l'un l'altra creando un'illusione di 
+spazio che annulla sia la presenza fisica della tela 
+che la materialità del pigmento. Ancor più misterio- 
+so è il rapporto tra le varie forme del segno lineare. I 
+tagli (linee verticali di energia) sembrano interrom- 
+pere le creste dei pigmenti (linee orizzontali di den- 
+sità e massa). Tuttavia non vi è nulla che faccia 
+capire quale di questi due elementi lineari interrom- 
+pa l'altro. La tela è stata prima tagliata e poi dipinta 
+o prima dipinta e poi tagliata? La contesa fra verti- 
+cale e orizzontale, vuoto e massa, prima e dopo 
+rimane in perpetua incertezza. 
+
+
+
+Fontana's visualized speculations on various reali- 
+ties and on the spaces in which these realities ma- 
+nifest themselves reaches a peak of intensity in this 
+painting. The materially present, dense ridges of 
+oil-paint stand in stark contrast to the void slashes. 
+Yet the disembodied dark space of the slashes is 
+more physically assertive. This paradox becomes 
+particularly clear when one looks at the broad 
+brushstrokes as they cut across each other. Both the 
+superimposed and the lower ridges of the brush- 
+stroke adhere to the stable surface of the canvas but 
+as one observes them, they pull away from each 
+other and create an illusion of space which obliter- 
+ates the physical presence of the canvas as well as 
+the materiality of the pigment. Still more mysterious 
+is the relationship between the various forms of 
+linear signs. The slashes (vertical lines of energy) 
+seem to interrupt the crests of pigment (horizontal 
+lines of density and mass). Yet there is no indication 
+of which of these two linear elements interrupts the 
+other. Was the canvas first slashed and then painted 
+or was it painted first and then slashed? The strug- 
+gle between vertical-horizontal, void-mass, before- 
+after remains in perpetual suspense. 
+
+
+
+1 . Concetto spaziale, Venice Moon. 1961 7 . Spatial Concept, Venice Moon. 1961 
+
+
+
+Olio .su tela 
+
+150x150 cm 
+
+61 O 55 
+
+Collezione Teresita Fontana, Milano 
+
+
+
+Oil on canvas 
+
+150x150 cm 
+
+bl O 55 
+
+Teresita Fontana Collection. Milan 
+
+
+
+62 
+
+
+
+Le composizioni a fregio di Fontana sono probabil- 
+mente le sue opere più ambiziose ed eloquenti. L'ar- 
+tista raggiunge una maggiore armonia grazie all'e- 
+quilibrio esistente tra i tagli raggruppati e il formato 
+rigido dello spazio globale. A fronte di questo obiet- 
+tivo equivalente a un «basso continuo», l'occhio 
+percepisce sequenze ritmiche costantemente mute- 
+voli composte di campi mobili, a volte larghi, a volte 
+stretti, che separano i tagli. Ad esempio, leggendo 
+dall'estrema sinistra, i due tagli, essendo vicini tra 
+loro esattamente quanto il terzo e il quarto taglio, 
+creano un gruppo simmetrico con il settore largo tra 
+il secondo e il terzo taglio come centro. Non appena 
+l'occhio si muove verso il taglio successivo, questa 
+simmetria è rotta da un ancor più largo campo 
+verticale seguito da un settore, stretto quanto quello 
+tra il primo e il secondo taglio. Abbiamo perciò un 
+semplice schema di rime inizialmente di tipo aba 
+che, quando viene associato al successivo taglio, 
+diventa a b a e aa. Ciascun taglio riflette un ritmo 
+precedente, ma introduce anche una variante che 
+deve essere integrata nel successivo «movimento». 
+Se invertiamo la direzione di lettura, le complessità 
+della composizione sono elevate alla seconda poten- 
+za diventando anche più vertiginose. L'ambiguità 
+tra linea e piano (cioè sono i tagli a creare la forma, o 
+sono le superfici tra i tagli all'origine dei ritmi che 
+percepiamo?) dà un'ulteriore dimensione dinamica 
+alla composizione. Né si deve dimenticare la sottile 
+differenza nella tensione della tela ad ogni taglio che 
+produce un'ampia varietà di ombre scure che crea- 
+no anche un'altra gamma di variabili all'interno 
+dell'immagine apparentemente austera e severa. La 
+situazione non è dissimile dalle pitture cinesi che 
+l'osservatore deve srotolare lentamente, facendo 
+apparire prima una frase completa che deve poi 
+portare ad una congiunzione lineare e ritmica con 
+l'immagine che appare man mano che il rotolo si 
+svolge. 
+
+
+
+Fontana's frieze compositions are probably his most 
+ambitious and eloquent works. The artist strikes a 
+major chord by means of the proportionate rela- 
+tionship of the grouped slashes and the rigid format 
+of the overall field. Against this primary equivalent 
+of a basso continuo the eye perceives constantly 
+changing rhythmic sequences made up of the shift- 
+ing fields, sometimes broad, sometimes slender, 
+that separate the slashes. Reading from the extreme 
+left, for example, the first two slashes, being exactly 
+as close to each other as slash three and four, create 
+a symmetrical group with the broad field between 
+slash two and three at its center. As soon as the eye 
+travels to the next slash, this symmetry is broken by 
+an even broader vertical field followed by a field as 
+narrow as the one between slashes one and two. We 
+therefore get a simple rhyming scheme at the begin- 
+ning aba which, when it is associated with the next 
+slashes, turns into a b a c aa. Each slash reflects a 
+preceding rhythm but also introduces a variant 
+which must be integrated into the next «move- 
+ment». If one reverses the direction of reading, the 
+complexities of the composition are taken to the 
+second power, becoming even more vertiginous. 
+The ambiguity between line and plane (i.e. are the 
+slashes responsible for the form or are the plane 
+areas between the slashes at the origins of the 
+rhythms we perceive?) gives an additional dimen- 
+sion of dynamics to the composition. Nor should 
+one forget the subtle differences in the tension of the 
+canvas at each slash which provides a vast variety of 
+dark shadows which create yet another set of vari- 
+ables within an ostensible austere, strict image. The 
+situation is not dissimilar to Chinese scroll paintings 
+in which the viewer is also expected to unroll the 
+painting very slowly, revealing first one complete 
+«phrase» which he then must bring into linear and 
+rhythmic conjunction with the image that appears 
+as the scroll is unrolled another few inches. 
+
+
+
+8. Concetto spaziale. Attese. 1965 8. Spatial Concept, Expectations. 1965 
+
+
+
+Idropittura su tela 
+
+b5x200 cm 
+
+65 T8 
+
+Collezione privata, Milano 
+
+
+
+Water-base paint on canvas 
+
+65x200 cm 
+
+65 T 8 
+
+Private Collection, Milan 
+
+
+
+64 
+
+
+
+9. Concetto spaziale. Attese. 1965 9. Spatial Concept, Expectations. 1955 
+
+[dropittura su tela Water-base paint on canvas 
+
+150x97 lui 150x97 cm 
+
+b5 I 66 65 T bb 
+
+Collezione Peggy Guggenheim, Venezia Peggy Guggenheim Collection. Venice 
+
+(Fondazione Solomon R. Guggenheim) (The Solomon R, Guggenheim Foundation) 
+
+Donazione della Fondazione I ucio Fontana, l c )87 Gift of the Fondazione Lucio Fontana, l L )87 
+
+
+
+66 
+
+
+
+Tutti i principi delle pitture a fregio di Fontana (vedi 
+Cat. n. 8) sono ugualmente presenti in questo dipin- 
+to. L'aggiunta di una cornice scura e di una traversa 
+inquietante conferisce a quest'opera un fascino par- 
+ticolarmente enigmatico. Forse è il contrasto fra 
+l'irregolarità organica dei tagli e la traversa squadra- 
+ta con precisione meccanica che produce una ten- 
+sione inaspettatamente drammatica. Forse ciò che 
+produce un'impressione così forte sullo spettatore è 
+anche la sensazione che la tela, con la sua configura- 
+zione di tagli, sia tenuta lontana dalla nostra portata 
+dalla barra diagonale aggressivamente rigida. In en- 
+trambi i casi, la diagonale agisce come un segnale 
+che sfidi la nostra capacità di comprensione nel 
+contesto dei tagli più delicati e in qualche modo 
+irregolari dietro di esso. E possibile che Fontana 
+intendesse fare un esperimento unendo i fregi a lui 
+più abituali con la serie dei Teatrini (vedi Cat. n. 1 1 ) 
+che hanno sempre una cornice scura visualmente 
+enfatica e spesso mettono in evidenza connessioni 
+metalliche attraverso lo spazio centrale. 
+
+
+
+All the principles of Fontana's frieze paintings (see 
+Cat. No. 8) are equally inherent in this painting. The 
+addition of a dark frame and the disturbing cross- 
+bar give this work a specially enigmatic appeal. 
+Perhaps it is the contrast between the organic irre- 
+gularity of the slashes and the impassive, mechani- 
+cally produced cross-bar that produces an unex- 
+pectedly dramatic tension. Perhaps also it is the 
+feeling that the canvas and its configuration of 
+slashes is removed from our reach by the aggressive- 
+ly rigid diagonal bar that produces such a strong 
+impression on the viewer. In either case, the diagon- 
+al acts as a signal which challenges our understand- 
+ing in the context of the softer, somewhat random 
+slashes behind it. It is possible that Fontana in- 
+tended to experiment with a blending of his more 
+usual frieze and the series of Teatrini (see Cat. No. 
+1 1 ) which always have a visually emphatic dark 
+frame and often feature metal bridges across the 
+central field. 
+
+
+
+10. Concetto spaziale. Attese. 1955 10. Spatial Concept, Expectations. 1965 
+
+
+
+[dropittura su tela 
+
+70x21)1) cm 
+
+b5 T 77 
+
+Collezione Carla l';miaili. Roma 
+
+
+
+Water-base paint on canvas 
+
+70x200 cm 
+
+55 T 77 
+
+Culi Ramcali t cllecticn Reme 
+
+
+
+68 
+
+
+
+Nei teatrini il pubblico guarda nello spazio ristretto 
+del palcoscenico che non tenta di essere illusionisti- 
+co. In questo spazio il pubblico vede anche le mario- 
+nette che si dimenano, mentre gli attori reali (cioè 
+coloro che agitano le marionette) restano invisibili. 
+I teatrini di Fontana sono costruiti con un criterio 
+non dissimile. Guardiamo in uno spazio relativa- 
+mente piccolo e racchiuso la cui profondità non è 
+costruita lungo le linee prospettiche convenzionali. 
+Le forme sono visibili su uno sfondo fantastico, ma 
+la forza che tiene queste forme legate l'una all'altra e 
+che stabilisce la giusta successione delle forme è 
+nascosta alla vista. Nei tagli Fontana ci permette 
+solo una visione vaga e rigorosamente limitata di un 
+misterioso «retro». I Teatrini invertono la propor- 
+zione fra «noto» e «ignoto» in favore dell'ineffabile. 
+Una stretta cornice ci separa da uno spazio apparen- 
+temente vasto. Non ci viene dato di capire come 
+questo spazio abbia attinenza con il nostro. Per 
+quello che sappiamo, lo spazio dietro la cornice si 
+espande verso l'alto (come accade per esempio in un 
+planetario) o verso il basso (come nel caso di una 
+imbarcazione dal fondo di vetro) o, più prosaica- 
+mente sullo stesso asse dei nostri occhi. Ma la forza 
+che causa l'azione (cioè le armoniose relazioni, le 
+tensioni ansiose che percepiamo) ci è per sempre 
+sconosciuta. 
+
+
+
+In puppet theatres (teatrini in Italian) the audience 
+looks into the restricted space of a stage set that 
+does not attempt to be illusionistic. The audience 
+also sees the carved puppet but the real actors (i.e. 
+those who act) remain invisible. Fontana's puppet 
+theatres are constructed in a not dissimilar method. 
+We look into a tightly framed, relatively small space 
+whose depth is not constructed along conventional 
+perspectival lines. Forms are visible against a fanci- 
+ful background but the force that holds these forms 
+in relation to each other and establishes the proper 
+sequences of shapes is hidden from view. In his 
+slashes, Fontana affords us only a vague and strictly 
+limited view of a mysterious «beyond». The Teatrini 
+invert the proportion of «known» to «unknown» in 
+favor of the ineffable. A narrow frame separates us 
+from a seemingly vast space. We are not given to 
+understand how this space relates to ours. For all we 
+know, the space behind the frame expands upwards 
+(as it does for instance in a planetarium) or down- 
+wards (as in the case of a glass-bottomed boat) or, 
+more prosaically along the same level as our eyes. 
+But the force which causes the «action» (i.e. the 
+harmonious relationships, the suspenseful tensions 
+we perceive) is forever unknown to us. 
+
+
+
+1 1. Concetto spaziale. Teatrino. 1965 1 1. Spatial Concept. Teatrino. 1%5 
+
+
+
+I drop illuni SU tela 
+
+202x155 cm 
+
+65 TE 24 
+
+Collezione Teresita Fontana 
+
+
+
+Water-base paint on canvas 
+
+202x153 cm 
+
+65 TE 24 
+
+Teresita Fontana Collection, Milan 
+
+
+
+70 
+
+
+
+FONDAZIONE SOLOMON R. GUGGENHEIM 
+THE SOLOMON R. GUGGENHEIM 
+FOUNDATION 
+
+
+
+Curanti onorari in perpetuo Honorary Trustees in 
+Perpetuity 
+
+SOLOMON R. C.I GG1 Mil IM, II SI l\ k. Ill \NNII \l SI R, 
+ricci C.l GGI Mil IM 
+
+Presidente President 
+PETER LAWSON-IOHNSTON 
+
+Mee presidenti Vice Presidents 
+
+THE RIGHI HONORABLE EARL CASTI I SII u VRT, 
+
+Ul ND\ I .-I. MCN1 II 
+
+Garanti Trustees 
+
+ELAIN1 DANNHEISSER; MICHEL DAV1D-W1 II I : 
+
+CARLO DI Bl M DI III: JOSEPH W. DONNER; 
+
+ROI5IN CHANDLER 1)1 Kl : ROBERT M. GARDINER; 
+
+|OHN s. nil son: HAROLD W. MCGRAW, |r: 
+
+THOMAS \l. MESSER; 1)1 nisi SAUL; WILLI Wl A. SCURI Yl R: 
+
+DANIEI C. SEARLE; BONNIE WARD SIMON; SEYMOUR SLTVE; 
+
+PETER W. SIROII: STEPHEN C. SU ID: RAWLEIGH \\ ARMR, |r; 
+
+MICHAE1 I. WETTACH; DONALD M. WILSON; 
+
+Wll I l\\l I. II \IS\KI R 
+
+Tesoriere Treasurer 
+THEODORE G. DLNKI R 
+
+Direttore Direetor 
+rHOMAS KRI NS 
+
+
+
+COI 1 I ZIONI PI GGÌ Gl GGI Mil IM 
+IM GGÌ Gl GGI Mil l\l COI I U I ION 
+
+Comitato consultivo \dvisory Hoards 
+
+claudi pompidou, presidente; DANiELLi Gardner, 
+presidente onorano; in di maria mi in; Giuseppina 
+
+VRALDI GUINETTI; PII IRC) BARILI \: ALEXANDER BERNSTEIN; 
+
+m \r&gt; Bi oc ii: e \ri o bonomi; contessa ida bori etti; 
+
+BERNARDINO BRANCA; BRUNO IU I IONI: IMI RIGHI 
+HONORABI I EAR] CASTLI STEWART; ENRICO CHIARI; 
+
+unsi M VRÌ chisholm; iack clerici; MARIA LUISA DI 
+
+RUM VNS; WILLIAM FEICK, Jr.; C,\I(RII LLA GOLINELLI; 
+GIULIANO CORI; MILTON GRUNDY; JACQUES HACHUEI M.: 
+IWI1 S HARMON; LADY HULTON; EVELYN LAMBERT; 
+IRIS LOVE; l U RI mi d. unni: VCHILLI MARAMOTTI; 
+LEONARDO MONDADORI; UMBERTO NORDIC): contessa 
+I \nn-i RATTAZZI; ANTONIO rati i; n\ni ni Ross; DENISI 
+SAUL; VNGELA SCHIMBERNI; HANNELOR1 sun I HOl ; \N\\ 
+sco ni; iwii s sui RWOOD; ROBI rio i ronchi ih: i,i\nni 
+VARASI; KRISTENVEN KB! I : ROBI RTVI N \m l : e VRLOV1 RRI: 
+FELICI Gl \n \ni. membro onorario 
+
+Collaboratori Stali 
+
+philip RYLANDS, deput) director; i ri d i uhi. curatore; 
+paui schwartzbaum, conservatore; renata rossani, 
+assistente deput&gt; director; ci \i dia rum. coordinatrice 
+ufficio sviluppo e relazioni esterne; \nn\rii \ 1 1 su. 
+assistente; lai ra micolucci, contabile; Gabriella 
+ioni omo. aiuto contabile 
+
+Patrocinatori istituzionali Institutional Patrons 
+
+RI GIONI \ l ni io. l Nili l) rECHNOLOGIES CORPORATION, 
+
+MONII DISON-GRl PPO FERRUZ2I, \l 1 1 \l I \ 
+
+
+
+aderenze fotografiche Photographic ( 'redits 
+
+FOTO MI NINI &amp; GR1 GOl IN 
+
+I GO Ml I \s 
+
+I ONDAZIONI I I CIO FONI VNA 
+
+
+
+Traduzione Translation 
+
+ANNARITA FUSO 
+RENATA ROSSANI 
+
+
+
+La Fondazione Solomon R. Guggenheim è grata 
+alla Regione Veneto per il SUO contributo annuale 
+che è indispensabile per l'attività culturale 
+della Colle/ione Peggj Guggenheim. 
+
+Il prolungamento della stagione di apertura 
+
+della Colle/ione Pegg) Guggenheim avviene grazie 
+
+a una donazione della ( nited Technologies Corporation. 
+
+L'apertura gratuita della Collezione Peggj Guggenheim il 
+sabato sera è promossa da Wontedison-Gruppo Ferruzzi. 
+
+La Fondazione Solomon R. Guggenheim ringrazia 
+V Alitalia per il contributo annuale. 
+
+L'impianto di climatizzazione e la rete telematica 
+di controllo «Sentinel Arte» a Palazzo \ enicr dei Leoni, 
+sede della Collezione Peggy Guggenheim, 
+sono stati installati dalla jacorossi S.p.A 
+
+
+
+Mie Solomon R. Guggenheim Foundation is grateful to 
+the Regione \ eneto for the annual subsidy thai assures the 
+effective operation oi the Peggj Guggenheim 
+Collection, Venice. 
+
+The extended season ot the Peggj Guggenheim 
+
+Collection is made possible through a giant from I nited 
+Technologies Corporation. 
+
+The tree Saturda&gt; evening opening o! the Peggj 
+Guggenheim Collection i» financed bj a grant Iron) 
+Montedison-Gruppo Ferruzzi. 
+
+The Solomon R. Guggenheim Foundation gratefullj 
+
+acknov ledges the support ol \litalia on an annual basis. 
+
+The climate control and surveillance system -Sentinel 
+Arte» lor the Peggj Guggenheim Collection have been 
+provided bj Jacorossi S.p. \. 
+
+
+
+Pres tutori/ Len tiers 
+Teresita Fontana, Milano 
+Carla Panicali, Roma 
+
+Collezioni private, Milano 
+
+Fondazione Lueio Fontana, Milano 
+
+
+
+
+
+
+Questo volume è stato 
+
+stampato nel mese di novembre 1988 
+
+da Grafiche Muzzio s.p.a., Padova 
+
+per conto di Cataloghi Marsilio s.r.L, Venezia 
+
+per i «Trustees of The Solomon 
+
+R. Guggenheim Foundation» 
+
+
+
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0053   0.0053      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0073   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0099   0.0026     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0151   0.0052   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0153   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0913   0.0760              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=91;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

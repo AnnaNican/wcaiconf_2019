@@ -1,0 +1,3448 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Le Eredità sconosciute di Peggy Guggenheim : da Max Ernst a Jackson Pollock : New York, marzo-maggio 1987, Solomon R. Guggenheim Museum : Venezia, ottobre 1987-gennaio 1988, Collezione Peggy Guggenheim"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/leeredits00lade">Le Eredità sconosciute di Peggy Guggenheim : da Max Ernst a Jackson Pollock : New York, marzo-maggio 1987, Solomon R. Guggenheim Museum : Venezia, ottobre 1987-gennaio 1988, Collezione Peggy Guggenheim</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/leeredits00lade">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Le eredità sconosciute 
+di Peggy Guggenheim 
+
+Da Max Ernst a Jackson Pollock 
+
+
+
+
+. 
+
+
+
+Le eredità sconosciute 
+di Peggy Guggenheim 
+
+
+
+
+
+
+La fotografia di copertina 
+è pubblicata per gentile 
+concessione degli eredi di 
+Roloff Beny. 
+
+
+
+Le eredità sconosciute 
+di Peggy Guggenheim 
+
+Da Max Ernst a Jackson Pollock 
+
+
+
+A cura di Melvin P. Lader La Fondazione Solomon R. Guggenheim 
+
+e Fred Licht ringrazia la Fratelli Saclà 
+
+che ha reso possibile 
+
+la realizzazione di questa mostra. 
+
+
+
+New York, marzo - maggio 1987 Venezia, ottobre 1987 - gennaio 1988 
+
+Solomon R. Guggenheim Museum Collezione Peggy Guggenheim 
+
+
+
+Editor 
+
+Maria Cristina Poma 
+Redazione 
+Manuela Orioni 
+Alessandra Sacchi 
+Hanno collaborato 
+Elisabetta Barich 
+Antonella Minetto 
+Segreteria di redazione 
+Anna Romanelli 
+
+Traduzione 
+
+Clarenza Catullo 
+
+Design 
+
+FG Gonfalonieri 
+
+Coordinamento tecnico 
+
+Studio g.due srl 
+
+
+
+ISBN 88-04-30710-2 
+
+
+
+Sommario 
+
+
+
+7 Prefazione e ringraziamenti 
+Thomas M. M esser 
+
+9 Peggy Guggenheim e l'"Art of This Century" 
+Melvin P. Lader 
+
+19 Le donazioni di Peggy Guggenheim 
+Fred Licht 
+
+26 Avvertenza 
+
+27 Catalogo 
+
+
+
+
+Peggy Guggenheim 
+
+alla sua scrivania 
+
+nel Palazzo Venier dei Leoni 
+
+Venezia. 
+
+Per gentile concessione 
+
+degli eredi di Roloff Beny. 
+
+
+
+Prefazione e ringraziamenti 
+
+
+
+// titolo di questa mostra, Le eredità sconosciute 
+di Peggy Guggenheim, si riferisce a opere che 
+sono state di proprietà della nostra collezionista 
+mecenate o che sono state da lei esposte, ma che 
+non appartengono alla Fondazione Solomon R. 
+Guggenheim e alla sua collezione veneziana. 
+Ciò può essere una, fortuna o una sfortuna, 
+in base agli opposti punti di rista di coloro che 
+oggi posseggono o meno le opere in questione. 
+Ciò che noìi può essere messo in discussione, 
+comunque, è che questa cinquantina di quadri, 
+sculture e opere su carta furono abbastanza 
+importanti per Peggy da far sì che decidesse di 
+venirne in possesso o di inserirle in una delle sue 
+numerose esposizioni tenute tra l'autunno del 
+19If2 e la primavera del 19^7 nella sua galleria- 
+museo di New York, "Art ofThis Century". 
+Le eredità sconosciute di Peggy Guggenheim, 
+dovrebbe quindi servire a far conoscere una 
+dimensione normalmente nascosta a coloro che 
+sono all'oscuro degli sforzi di Peggy collezionista 
+e, allo stesso tempo, ampliare l'informazione di 
+coloro che già conoscono la mostra permanente 
+della Collezione di Palazzo Venier dei Leoni: 
+per questi ultimi, la conoscenza di artisti che 
+rientravano negli interessi della collezionista 
+senza essere effettivamente rappresentati tra le 
+sue opere veneziane, sarà indubbiamente 
+istruttiva. Tuttavia l'approfondimento che risulta 
+da una registrazione mentale, per cui opere scelte 
+per questa mostra vengono appaiate a degli 
+esempi familiari a Venezia, condurrà a un 
+maggiore arricchimento e a una migliore 
+comprensione degli scopi e dei risultati di Peggy. 
+Dato che le opere (forte necessarie a chiarificare 
+le intenzioni di Peggy Guggenheim come 
+collezionista sono ormai da tempo disseminate 
+per il mondo, le richieste di prestito a proprietari 
+privati e a istituzioni sono state precedute da 
+ricerche coscienziose. L'esposizione, tra l'altro. 
+
+
+
+testimonia la generosità con cui sono state accolli' 
+tali richieste, per cui le nostre prime parole 
+di gratitudine vanno ai prestatori, citati 
+separatamente in questo catalogo, e a coloro che 
+hanno preferito restare anonimi. 
+Il professor Fred Licht, pi-imo di essere nominato 
+curatore della Collezione Peggy Guggenheim di 
+Venezia, ci sottopose la proposta di ricercare e 
+presentare, sotto forma di esposizione, quei pezzi 
+della Collezione che Peggy aveva domito ad altri 
+musei. In seguito il professor Mei ri u P. Lader 
+ci avvicino con un progetto incentrato 
+fondamentalmente sull'attività di Peggy alla 
+"Art ofThis Century". Due concetti in origine 
+divasi compongono quindi questa mostra: ognuno 
+dei due artefici si è assunto la responsabilità 
+del proprio progetto. Rivolgiamo quindi i nostri 
+ringraziamenti ai due co-curatori e a Susan 
+B. Hirschfeld, coordinatrice della mostra. 
+Sebbene Le eredità sconosciute di Peggy 
+Guggenheim sia un progetto della Collezione 
+Peggy Guggenheim, il suo debutto ha avuto luogo 
+al Salomon R. Guggenheim Museum di New York- 
+dove Ann Kraft tiene i contatti tra le due sedi 
+operative della Fondazione Guggenheim. 
+Desideriamo ricordare particolarmente il suo 
+lavoro di collegamento relativamente a questa 
+mostra, come pure il contributo di Philip 
+Rylands, Deputi/ Director della Collezione Peggy 
+Guggenheim, assieme alla sua équipe. 
+Infine, nella consapevolezza della sua importanza 
+cruciale, desidero esprimere la profonda 
+gratitudine della Fondazione nei confronti della 
+Fratelli Saclà di Asti senza il cui generoso aiuto 
+questa mostra non avrebbe potuto essere 
+presentata a Venezia. 
+
+
+
+Thomas M. Messer, Direttore 
+Fondazione Solomon R. Guggenheim 
+
+
+
+
+Berenice Abbott ( lommerce 
+Graphics Ltd. Inc., 
+"Surrealist Gallery, ArtofThis 
+Century", 1942. 
+Per ucntilc concessione 
+di Lillian Kiesler. 
+
+
+
+Peggy Guggenheim 
+
+e T"Art of Thìs Century" 
+
+
+
+Nel 1941, quando ormai era pericoloso per Peggy 
+Guggenheim rimanere ancora in Europa a causa della 
+guerra, ella tornò negli Stati Uniti portando con sé 
+non solo una collezione d'arte moderna già famosa, 
+ma anche in modo meno tangibile uno spirito avven- 
+turoso che si era manifestato molto presto e che lei 
+aveva mantenuto fin dal 1920, durante la sua perma- 
+nenza all'estero tra gli artisti dell'avanguardia, scrit- 
+tori, musicisti, attori e spiriti creativi analoghi. 
+Tra gli amici e le conoscenze nell'Europa prebellica, 
+Peggy Guggenheim contava molte importanti perso- 
+nalità del mondo dell'arte moderna come Marcel 
+Duchamp, André Breton, Piet Mondrian, Yves Tan- 
+guy e Max Ernst, per citarne solo alcuni. Peggy, 
+come amava essere chiamata, venne incoraggiata 
+dagli amici a porre l'arte moderna al centro del suo 
+destino. Iniziando negli anni Trenta, cominciò a rac- 
+cogliere le opere di Arp, Brancusi, Kandinsky e 
+Moore che stuzzicarono il suo appetito tanto da farle 
+collezionare perfino l'arte ancora più audace dell'am- 
+bito surrealista da lei frequentato in Europa. Stimo- 
+lata dal fatto di sentirsi straniera in patria, nel 1942 
+aprì a New York la galleria "Art of This Century", al 
+numero 30 delia 57" Strada - cominciando a esporre 
+l'arte americana più ardita a un pubblico ancora 
+esitante. 
+
+"Art of This Century" non era la prima esperienza di 
+Peggy Guggenheim come gallerista. Ella ne aveva 
+aperta un'altra a Londra, la "Guggenheim Jeune", 
+nel 1938, che ben presto si fece una reputazione quale 
+luogo di esposizione dedicato all'arte moderna, so- 
+prattutto al surrealismo. Alcune delle mostre collet- 
+tive e personali organizzate da Peggy Guggenheim a 
+Londra precorsero quelle successive dell'" Art of This 
+Century". Con la "Guggenheim Jeune" il gusto con- 
+servatore britannico fu messo alla prova in modo 
+efficace e allo stesso tempo il pubblico fu sfidato a 
+dare una risposta a un'espressione artistica nuova e 
+sconosciuta: un modus operandi, questo, che Peggy 
+avrebbe usato anche negli Stati Uniti. Sebbene la 
+"Guggenheim Jeune" fosse stata finanziariamente un 
+fallimento, da essa si sviluppò l'idea dell'apertura in 
+Inghilterra di un museo di arte moderna che avrebbe 
+dovuto ospitare la sua collezione che stava aumentan- 
+do rapidamente. 
+
+I piani per il museo furono, però, stroncati sul nasce- 
+re a causa della minacciosa presenza di Hitler: l'Ame- 
+rica ne ereditò il programma. Dopo essere tornata 
+
+
+
+negli Stati Uniti, Peggy Guggenheim cerco un luogo 9 
+adatto a ospitare il suo museo, prendendo in seria 
+considerazione San Francisco e New Orleans prima 
+di decidersi finalmente per New York. Questa ricer- 
+ca di località lontane dalla costa orientale degli Stati 
+Uniti rifletteva il suo desiderio di far conoscere l'arto 
+moderna in luoghi in cui questa era relativamente 
+sconosciuta, proprio come accadde in seguito, quando 
+donò delle opere a musei fuori mano. San Francisco, 
+per esempio, fu esclusa perché Peggy non desiderava 
+ripetere gli sforzi del San Francisco Museum of A il 
+diretto dalla dottoressa Grace McCann Morley ' con la 
+quale rimase in stretto contatto durante la sua per- 
+manenza in America. 
+
+Peggy scelse New York per dar vita al suo museo, 
+forse perché aveva percepito l'eccitazione che c'era 
+nell'aria tra gli artisti di quella città, ma più probabil- 
+mente influenzata dal fatto che molti dei suoi amici e 
+delle sue conoscenze europee si erano trasferiti li 
+durante la guerra. Decise così nonostante la presenza 
+a New York del Museum of Modem Art diretto da 
+Alfred H. Barr, Jr. (che divenne alleato di Peggy 
+nella sua crociata per l'arte moderna), del Whitney 
+Museum of American Art e del Museum of Non- 
+Objective Painting (ora Solomon R. Guggenheim 
+Museum). dove lo zio di Peggy esponeva un numero 
+imponente di quadri e di sculture moderne europee. 
+Peggy Guggv nheim incluse nei piani per il nuovo 
+museo anche una galleria commerciale nella quale 
+poter esporre esempi di arte contemporanea europea 
+e americana. "Art of This Century" fu allora l'unica 
+galleria della 57" Strada a esporre artisti moderni 
+europei e, allo stesso tempo, a rischiare la presenta- 
+zione di artisti americani sconosciuti. 
+Peggy Guggenheim ingaggiò l'architetto innovatore 
+Frederick Kiesler per creare un'ambientazione adat- 
+ta che riflettesse l'orientamento estetico del museo- 
+galleria. Egli divise lo spazio in quattro gallerie: una 
+dedicata alla collezione permanente delle opere cubi- 
+ste e astratte, la seconda e la terza dedicate alle opere 
+surrealiste e la quarta riservata alle mostre tempora- 
+nee. A eccezione di quest'ultima, Kiesler ideò le altre 
+gallerie in modo che riflettessero lo stile delle opere 
+d'arte in osse contenute. 
+
+Così, l'atmosfera della galleria surrealista turbava 
+realmente, con le pareti concave, l'illuminazione 
+drammatica e con i quadri senza cornice montati su 
+speciali sostegni di legno che si protendevano dalle 
+
+
+
+10 pareli. La gallerìa cubista, invece, appariva più ra 
+zionale: l'illuminazione era freddamente fluorescente 
+
+e un sistema quasi geometrico di corde e cunei di 
+legno sosteneva i quadri senza cornici e le sculture. 
+Gli oggetti della collezione permanente così esposti 
+servivano sia da base storica che da fondamento 
+estetico per le personali e le collettive che avevano 
+luogo nella galleria commerciale, mettendo silenzio- 
+samente in evidenza la continuità tra i primi stili 
+moderni e quelli più recenti. 
+
+Lo scopo principale della galleria fu riportato chiara- 
+mente in un comunicato stampa pubblicato in occasio- 
+ne dell'apertura della galleria nell'ottobre del 1942. 
+Peggy Guggenheim esprimeva la speranza che "Art 
+of This Century" diventasse «un centro in cui gli 
+artisti possano essere benvenuti e dove essi possano 
+sentire di collaborare alla creazione di un laboratorio 
+di ricerca di nuove idee-. Affermazione questa che 
+sottolinea il suo desiderio di cambiamento, di speri- 
+mentazione e di innovamento: -Questa impresa ser- 
+virà a qualcosa solo se riuscirà ad essere utile al 
+futuro, invece di riportare il passato» 2 . 
+Nei cinque anni di vita di "Art of This Century", si 
+tennero tre tipi di mostre: collettive, personali e 
+quelle incentrate su un tema specifico. I nuovi talenti 
+erano generalmente presentati nelle collettive, come 
+YExhibition of Collage (1943), i due Spring Salons 
+(1943 e 1944) e YAutumn Salmi (1945). Spesso, a un 
+artista promettente, presentato in tal modo, era 
+garantita la possibilità di una personale di lì a poco. 
+Più della metà delle quaranta personali tenutesi 
+all'"Art of This Century", furono dedicate a nuovi 
+artisti americani, mentre il resto fu dedicato ad 
+artisti europei moderni come Jean Arp, Giorgio de 
+Chirico, Alberto Giacometti, Theo van Doesburg, 
+Jean Hélion e Pablo Picasso. D'altro canto anche le 
+mostre tematiche furono innovative: due furono dedi- 
+cate all'arte creata dalle donne: una alla relazione tra 
+aile naturale, folle e surrealista; una fu dedicata a 
+quadri mai visti precedentemente in America e una 
+propose il paragone tra i primi e gli ultimi lavori di 
+quindici artisti moderni. 
+
+L'apertura dell'" Art of This Century" attrasse molto 
+l'attenzione dei critici che si accentro sia sulle spetta- 
+colari realizzazioni architettoniche di Kiesler sia sui 
+quadri e sulle sculture. La collezione permanente 
+riuscì effettivamente a determinare il tono peneral- 
+mente moderno e avanguardista della galleria, così 
+
+
+
+come preparo abilmente il palcoscenico per la prima 
+stagione espositiva, durante la quale aumentarono le 
+mostre dedicate al surrealismo e all'arte astratta con 
+l'apporto di nuovi nomi. Sebbene de Chirico, Du- 
+champ, Braque, Ernst, Kandinsky, Miro. Mondrian 
+e Picasso fossero ormai la regola, per la prima volta 
+furono esposte anche le opere di Baziotes, Mother- 
+well, Pollock, Hare, Kamrowski, Lassaw e de Koo- 
+ning. 
+
+Gran parte delle future stelle della galleria furono 
+presentate per la prima volta aWExhibition of Colla- 
+ge nell'aprile del 1943, prima mostra del genere 
+organizzata in America. Essa si ispirava a un'esposi- 
+zione simile che Peggy aveva realizzato alla "Guggen- 
+heim Jeune" nel 1938: la decisione di aprire agli artisti 
+americani si accordava con la filosofia della galleria di 
+presentare i nuovi talenti. Accanto a collage europei 
+c'erano alcune delle prime opere di qualche "scono- 
+sciuto" come Baziotes, Motherwell, Kamrowski e 
+Pollock che Peggy incoraggiò a partecipare. Per loro 
+questa non era solo un'opportunità ben accetta per 
+esporre, ma era anche un'occasione ben più impor- 
+tante essendo le loro opere in compagnia di quelle di 
+nomi tanto famosi. La mostra ebbe un significato 
+particolare sia per Baziotes che per Motherwell, che 
+realizzarono le loro prime vendite quando Saidie 
+May, collezionista di Baltimora, acquistò dalla galle- 
+ria The Drugged Balloonist (1943) di Baziotes e The 
+Joy ofLìving (1943) di Motherwell. Untìtled di Kam- 
+rowski (cat. n. 26), incluso nella mostra attuale, 
+provo che gli artisti americani stavano realmente 
+sperimentando le tecniche e il linguaggio figurato 
+surrealista. Motherwell, naturalmente, continuò a 
+esplorare ampiamente il collage come mezzo espres- 
+sivo, dopo questo suo primo tentativo. 
+Subito dopo la mostra dei collage. "Art of This Cen- 
+tury" ne presentò un'altra, nel primo dei tre saloni 
+espositivi, che sarebbe stata una pietra miliare e il cui 
+scopo era quello di mettere in luce l'opera di giovani 
+artisti di talento, altrimenti poco conosciuti. Il con- 
+cetto di una galleria espositiva stagionale fu adottato 
+dal sistema francese e suggerita da Herbert Read ad 
+uso della "Guggenheim Jeune". Nella galleria londi- 
+nese non si tenne mai alcun "salon". ma Peggy se ne 
+ricordò e mise in pratica l'idea più tardi alP'Art of 
+This Century" nel maggio-giugno 1943, dove furono 
+accettate quarantatre opere da esporre, incluse due 
+versioni di The Minor al Midnight di Baziotes (cat. 
+
+
+
+n. 4), Pancho Villa, Dead and Altre di Motherwell e 
+Stenographic Figure di Pollock, scelte da una giuria 
+composta da sei persone: Marcel Duchamp, Piet 
+Mondrian, James Johnson Sweeney, James Turali 
+Soby, Howard Putzel e Peggy Guggenheim. 
+Il quadro di Pollock, in occasione del primo Spring 
+Saìon, lasciò la giuria "strabiliata"''. Il suo stile pitto- 
+rico non convenzionale provocò ben presto l'entusia- 
+smo di Peggy Guggenheim (sebbene in un primo 
+momento riconoscesse di essere un po' esitante) che 
+ne fece il suo protetto principale già alla fine della 
+primavera. Pollock, infatti, fu l'unico artista al quale 
+Peggy abbia mai offerto un contratto che lo legasse 
+alla galleria. Dopo le sue apparizioni alla mostra dei 
+collage e allo Spring Saìon, Peggy pianificò per 
+l'inizio della seconda stagione (9-27 novembre 1943) la 
+prima delle sue quattro personali all'"Art of This 
+Century". Pollock creò molti dei suoi quadri chiave 
+proprio per quell'importante mostra: tra questi Male 
+and Fonale, Guardian* of the Secret, The Moon 
+Wonian Cuts the Circle e TheShe-Wolf. Peggy definì 
+la mostra, con grande sensibilità, come «un evento 
+nella storia contemporanea dell'arte americana» e 
+descrisse l'artista come «uno dei pittori americani più 
+forti e interessanti» 4 . Sweeney, allora membro del- 
+l'Advisory Committee del Museo d'Arte Moderna, 
+scrisse una prefazione al catalogo in cui il suo entusia- 
+smo afferrò lo spirito dello stile di Pollock: «il talento 
+di Pollock è vulcanico. C'è il fuoco in lui, non è 
+prevedibile ed è indisciplinato. Si riversa in una 
+prodigalità minerale non del tutto cristallizzata. È 
+ricco, esplosivo, disordinato» . 
+La risposta dei critici alla prima mostra di Pollock fu 
+copiosa e molti di loro notarono in lui una promessa 
+eccezionale dell'arte americana. Clement Greenberg, 
+che era pur nuovo della comunità artistica, lodò i 
+colori intensi, scuri e tenebrosi di Pollock che si 
+avvicinavano agli stati d'animo creati da scrittori 
+americani come Edgar Allan Poe, Herman Melville e 
+Nathalie Hawthorne''. Anche una recensione di Ro- 
+bert Motherwell, collega dell'artista, è rivelatoria 
+poiché descrive Pollock come uno degli appartenenti 
+a quel piccolo gruppo di artisti della giovane genera- 
+zione che avrebbe avuto veramente la possibilità di 
+riuscire. Nonostante il grande talento di Pollock, le 
+sue possibilità di raggiungere il successo sarebbero 
+state fortemente ridotte o diluite nel tempo senza 
+l'appoggio di Peggy Guggenheim. 
+
+
+
+Peggy organizzò una seconda, una terza e una quarta 1 1 
+personale di Pollock nel 1945, 1946 e 1947. In effetti 
+ogni sua opera maggiore del primo periodo, incluso il 
+magnifico Mitrale (1943), fu dipinta in preparazione 
+di queste mostre e fu esposta per la prima volta alla 
+galleria. Alcuni esempi, presenti nella mostra attua- 
+le, testimoniano l'importanza storica di queste mo- 
+stre e la fiducia di Peggy nel talento di Pollock (mando 
+pochi mercanti lo avrebbero riconosciuto. Conside- 
+rando la parte di leader dell'espressionismo astratto 
+rappresentata da Pollock, per colmo dell'ironia poche 
+furono le opere vendute tramite "Art of This Cen- 
+tury": solo trentadue opere in un periodo di cinque 
+anni'. 
+
+La mostra di Pollock fu la prima di molte personali 
+storiche per cui "Art of This Century" divenne famo- 
+sa. Nel corso della seconda stagione vennero presen- 
+tati oli, guazzi e disegni dell'artista tedesco immigra- 
+to Hans Hofmann. Ben più anziano rispetto agli altri 
+artisti che sarebbero diventati figure centrali dell'e- 
+spressionismo astratto, Hofmann si diversificava 
+rispetto a loro per il fatto di aver precedentemente 
+realizzato varie mostre e per aver raggiunto una 
+fama notevole in qualità di insegnante d'arte. La 
+mostra all'" Art of This Century", comunque, rivelò le 
+sue opere più spontanee e improvvisate del 194:1- 
+1944, come il guazzo senza titolo ora al Tel Aviv 
+Museum*. I critici descrissero le opere di Hofmann 
+come realizzazioni al limite dell'astrattismo, pur no- 
+tando la presenza di alcuni paesaggi lirici e di molte 
+altre tele dai simboli grotteschi 9 . 
+Anche nella seconda stagione, le opere di Pollock, 
+Motherwell, Alexander Calder e Joseph Cornell fu- 
+rono allineate a quelle dei surrealisti europei nella 
+mostra Naturai, Insane, Su uva list Ari nel dicem- 
+bre 1943, mentre The Frog is a Heart di David Hare e 
+The Entoiiibinent di Mark Rothko affiancarono la 
+Pasiphae di Pollock nella First Exhibition in Ameri- 
+ca of (Tiventij Paint ings) nell'aprile dell'anno dopo. 
+La mostra finale di quella stagione fu il secondo 
+Spring Salon for Young Artists in cui Baziotes, 
+Motherwell, Pollock e Hare erano ancora presenti. 
+ora assieme alle opere di Richard Pousette-Dart e di 
+altri diciotto artisti. In questa occasione Baziotes 
+espose il suo quadro di rottura The Balcony, dipinto 
+già nel 1944. 
+
+La stagione del 1944-1945 fu la più importante della 
+galleria, poiché in quell'anno Peggy Guggenheim 
+
+
+
+12 dedico con grande entusiasmo delle personali a Bazio- 
+les, Motherwell, Hare e Rothko oltre a presentare la 
+seconda mostra di Pollock, come già detto. In ogni 
+caso, l'opera formativa di questi nuovi artisti attirò in 
+egual modo l'attenzione del pubblico e dei critici che, 
+seppur non comprendendo del tutto la nuova estetica 
+emergente dell'espressionismo astratto, spesso in- 
+tuivano per lo meno il potenziale di questi artisti. 
+Peggy Guggenheim stessa continuò a mettere in 
+evidenza il suo ruolo e quello della galleria, presen- 
+tando la giovane arte sperimentale, come appare nel 
+comunicato stampa pubblicato in occasione della mo- 
+stra di Baziotes: «Questo tentativo consistente (di 
+presentare nuovi talenti) continua con la mostra delle 
+opere di un giovane la cui seria ricerca e sperimenta- 
+zione lo propone come una forza potenzialmente auto- 
+revole nel percorso dell'arte creativa» 10 . In altri casi 
+Peggy Guggenheim sottolineò la natura innovativa 
+dell'arte o della teoria del pittore o dello scultore nel 
+tentativo di spiegare o di chiarire le opere dell'arti- 
+sta. Parlò quindi dell'abilità di Baziotes nell'infonde- 
+re mistero nel colore e nella forma e della sensibilità 
+di Motherwell per il suo mezzo e il suo talento nel 
+derivare in modo autentico dalla natura un vocabola- 
+rio di forme astratte a cui potessero essere adattate. 
+David Hare, un fotografo diventato scultore, fu pre- 
+sentato quale giovane risoluto che aveva sacrificato 
+una carriera promettente nel campo della fotografia a 
+colori per sperimentare un mezzo con il quale poter 
+realizzare meglio le sue aspirazioni comunicative. 
+Per ultimo Peggy descrisse l'arte di Rothko come 
+esempio del nuovo stile emergente in pittura, sottoli- 
+neando le difficoltà nella sua classificazione e notando 
+forti legami sia con l'astrazione sia con il surrealismo. 
+Il comunicato stampa parlava anche della qualità 
+arcaicizzante di Rothko, del suo stile mitico, dello 
+spazio e delle forme evocative che hanno fuso il 
+conscio e il subconscio storici. 
+
+Si potrebbe sostenere che i comunicati stampa di 
+"Art of This Century" sono stati dei veri e propri 
+strumenti di insegnamento. Come è stato notato da 
+moltissimi dei suoi amici, Peggy Guggenheim era sia 
+un'avida studentessa d'arte che un'appassionata inse- 
+gnante, nonostante i suoi sforzi per apparire semplice e 
+bohémienne. Ha poca importanza se i comunicati stam- 
+pa fossero scritti di suo pugno (pochi hanno lo stile del 
+suo modo di scrivere). Ciò che importa è che indubbia- 
+mente ella diede la sua approvazione prima della loro 
+
+
+
+pubblicazione nei quotidiani e nei periodici. 
+Alcuni critici replicavano direttamente ai comunicati 
+stampa. Greenberg lodò Peggy Guggenheim e la sua 
+iniziativa di organizzare mostre di nuovi artisti, com- 
+plimentandosi con lei per l'acuta intuizione qualitati- 
+va. « Due pittori astratti da lei presentati di recente - 
+Jackson Pollock e William Baziotes - si rivelano più 
+che promesse. Grazie al vigore delle loro personali, si 
+sono già piazzati tra i nostri sei o sette migliori 
+giovani pittori» 11 . Il critico Jon Stroup parlando di 
+Motherwell, colse -il piacere per i materiali del suo 
+mezzo» e il modo in cui «la forma è controllata dal 
+soggetto e dal mezzo» 12 , mentre Maude Riley scrisse 
+una critica prolissa circa l'evasività dello stile di 
+Rothko e dei suoi soggetti mitologici 1 ' 5 . Una recensio- 
+ne anonima apparsa su «Art News» notò intuitiva- 
+mente il calmo effetto prodotto dal colore e dalla 
+pittura di Rothko in contrasto con l'intricato e pode- 
+roso linguaggio figurato 11 . La potenzialità scultorea 
+di David Hare fu abilmente descritta dalla Riley con 
+un gioco di parole sul nome dello scultore in un'altra 
+delle sue recensioni: «la lepre è diventata cacciatore e 
+David è sulle tracce di qualcosa che vale la pena di 
+raggiungere » 1:&gt; . 
+
+La stagione espositiva della galleria nel 1945-194(5 
+continuò con il passo febbrile delle mostre innovatri- 
+ci. Per integrare gli Spring Salons, Peggy inaugurò 
+un Aiduììììì Saloìi in ottobre, in cui vennero esposte 
+le opere di gran parte degli artisti presentati prece- 
+dentemente (Hare, Kamrowski, Motherwell, Pol- 
+lock, Pousette-Dart e Rothko). Si aggiunsero comun- 
+que dei nomi che sarebbero diventati familiari nel 
+contesto dell'espressionismo astratto: Clyfford Stili, 
+Willem de Kooning, Adolph Gottlieb e Charles Seli- 
+ger. Questa fu l'unica volta che de Kooning (presente 
+con The Wave |cat. n. 27]) e Gottlieb parteciparono 
+aH'"Art of This Century", mentre Stili e Seliger vi 
+tennero poco tempo dopo le loro personali. Questa 
+opportunità era stata offerta comunque anche a loro, 
+nel periodo in cui Howard Putzel, che era un buono 
+scopritore di talenti e contribuiva molto a convincere 
+Peggy a scegliere alcuni di (mesti artisti, era segreta- 
+rio della galleria, de Kooning rifiutò poiché non si 
+riteneva pronto per un tale evento, mentre Gottlieb 
+evidentemente preferì esporre con Putzel quando 
+egli lasciò Peggy Guggenheim nel 1944 per aprire la 
+sua "(i7 Gallery". 
+Charles Seliger era il più giovane di tutti gli artisti 
+
+
+
+coinvolti nell'avanguardia americana degli anni Qua- 
+ranta. Aveva solo diciannove anni al momento della 
+sua prima mostra nella galleria "Art of This Century" 
+nel novembre 1945, ma era già una figura familiare 
+nel mondo dell'arte di New York. Fra i tredici quadri 
+e i numerosi disegni di "oggetti" esposti da Seliger, 
+troviamo il suo Cerebral Landscape (cat. n. 46) e Don 
+Quìxote (cat. n. 47), entrambi datati 1944. Quest'ulti- 
+mo fu messo in evidenza dal critico Judith Kaye Reed 
+come uno dei suoi pezzi principali. Le qualità viscerali 
+e organiche della sua pittura lo stabilirono saldamen- 
+te nella tradizione surrealista, mentre l'uso del tutto 
+personale dell'automatismo lo unì a molti giovani 
+americani che stavano allora sperimentando quella 
+tecnica. Jon Stroup fu l'autore della prefazione del 
+catalogo di Seliger, nel quale definì la sua arte «un'a- 
+poteosi dei visceri, punteggiata come in un contrap- 
+punto dall'immagine del fallo» u \ una definizione cita- 
+ta spesso in altre recensioni. Seliger non è mai stato 
+del tutto assorbito nella storia dell'espressionismo 
+astratto, in gran parte perché la sua arte si sviluppò 
+in modo simile ma indipendente, conservando un 
+corso più meditato (cioè meno spontaneo) e un livello 
+più intimo. 
+
+Fu Rothko a sollevare l'interesse di Peggy Guggen- 
+heim per Clyfford Stili nel 1945. L'inserimento di 
+Stili sJl'Autunvn Salon fu seguito quattro mesi più 
+tardi dalla sua personale (febbraio-marzo 1946). Nel- 
+la prefazione al catalogo scritta da Rothko, egli evi- 
+denziò la somiglianza tra le tele di Stili e quelle degli 
+altri pittori di New York che stavano esplorando dei 
+contenuti mitici. Quattordici quadri furono inclusi 
+nelle mostre, tra questi il famoso Self-Portrait, ora 
+presso il San Francisco Museum of Art e Jamais 
+della Collezione Peggy Guggenheim di Venezia. Tut- 
+ti i dipinti esposti all'" Art of This Century" erano di 
+grandi dimensioni, i più grandi esposti fino ad allora, 
+e può darsi che abbiano sostenuto la tendenza verso le 
+grandi dimensioni nelle opere di Pollock e altri artisti 
+americani degli anni Quaranta. 
+Al giro di boa della terza stagione espositiva, si 
+tennero altre mostre di David Hare (la seconda di tre, 
+gennaio-febbraio 1946) e di Pollock. Questa si dimo- 
+strò la mostra migliore di Hare per quanto riguarda 
+l'attenzione dei critici. Tra le ventitré sculture espo- 
+ste ritroviamo le sue opere chiave: The Magician's 
+Game, Youtig Girl e Couple. La sua affinità spiritua- 
+le con il surrealismo fu colta da quasi tutti i critici, 
+
+
+
+così come la relazione tra la sua opera e quella di 
+Giacometti, per ciò che riguarda la forma e lo spirito 
+macabro. Clement Greenberg, che precedentemente 
+aveva definito Jackson Pollock come il giovane pitto- 
+re americano più dotato 1 ', ora sosteneva che il talen- 
+to di Hare era secondo solo a quello di David Smith, 
+scultore di potenziale artistico 18 . 
+In modo forse anomalo rispetto alle mostre del 1945- 
+
+1946, una fu dedicata ai quadri di Janet Sobel (gen- 
+naio 1946), che aveva precedentemente esposto in 
+una delle due mostre dedicate alle donne artiste. Da 
+pittrice autodidatta, lo stile originario della Sobel era 
+primitivo, basato in larga misura sulle esperienze 
+personali o sulla sua eredità russo-ebraica. Il suo 
+semplice stile di dipingere aveva convinto Sidney 
+Janis a includerla nel suo libro They Tanght Themsel- 
+ves e quindi nella mostra itinerante del 1944 Abstract 
+and Surrealist Art in the United States. Nel 1946 la 
+Sobel aveva generalmente già abbandonato il suo 
+modo primitivo e raffigurativo di dipingere per uno 
+stile del tutto astratto nel quale le caratteristiche del 
+viso o altre immagini si sviluppavano spesso da una 
+rete di ritmi lineari. Opere come Milky Way (cat. n. 
+49), presente all'"Art of This Century", furono criti- 
+cate per le loro qualità astratte e la parentela con il 
+surrealismo automatico. Era evidentemente questo 
+aspetto dell'arte della Sobel che attrasse Peggy Gug- 
+genheim e la convinse a organizzare la mostra dell'ar- 
+tista. 
+
+Richard Pousette-Dart fu il solo giovane artista di 
+spicco ad avere la sua prima personale all'" Art of This 
+Century" nell'ultima stagione espositiva del 1946- 
+
+1947, sebbene sia Pollock che Hare avessero ovvia- 
+mente fatto delle mostre individuali. Anche se egli 
+era già stato rappresentato precedentemente due 
+volte in quelle collettive nella galleria di Peggy Gug- 
+genheim, Pousette-Dart nel 1946 aveva esposto so- 
+prattutto nella galleria di Marian Willard. La sua 
+mostra alP'Art of This Century" nel 1947 fu motivata 
+dall'entusiasmo di Peggy per le sue opere e, in parte, 
+dalle grandi dimensioni delle tele che esigevano uno 
+spazio espositivo maggiore. L'artista in tele come 
+Symphony l: The Transcendental e Comprehension 
+oftheAtoin, Cì-ncifixion (cat. n. 43), cercò di "espri- 
+mere la natura spirituale dell'universo», riflettendo 
+così la sua idea che la pittura «è misteriosa e trascen- 
+dente, tuttavia solida e reale» 1 ". Le tele esposte nella 
+galleria di Peggy Guggenheim furono di importanza 
+
+
+
+14 
+
+
+
+critica rispetto alla formazione dello stile e della 
+teoria pittorica di Pousette-Dart, sottolineando quin- 
+di, una volta di più, il valore storico delle mostre di 
+Peggy. Il contenuto spirituale dei (madri di Pousette- 
+Dart, espresso in modo astratto, li avvicina forte- 
+mente all'arte di Mark Rothko e, in modo meno 
+evidente, a Clyfford Stili o a Barnett Newman. 
+Peggy Guggenheim chiuse l'"Art of This Century" 
+dopo l'ultima mostra nel maggio 1947. Aveva sempre 
+preferito l'Europa all'America e quando la guerra 
+terminò decise di ritornare, fermandosi a Venezia 
+dove apri un altro museo-galleria d'arte moderna. 
+Pi-ima di lasciare New York, fece del suo meglio per 
+sistemare presso altri mercanti gli artisti che aveva 
+sostenuto con maggior entusiasmo. Pollock, natural- 
+mente, era il suo problema principale, dato che era 
+ingaggiato con un contratto. Si rivolse a varie galle- 
+rie, ma la maggior parte si dimostrò riluttante ad 
+accettare l'artista perché più orientate verso l'arte 
+moderna europea che non verso quella americana. 
+Alla fine riuscì a convincere Betty Parsons, che 
+aveva aperto una galleria nel 1946, a organizzare una 
+mostra per Pollock e a rappresentarlo fino alla sca- 
+denza del contratto. Verso la fine degli anni Quaran- 
+ta, la Parsons rappresentò anche Mark Rothko, 
+Clyfford Stili, Hans Hoffman e Richard Pousette- 
+Dart. Gran parte degli altri artisti si divisero tra la 
+galleria di Sam Kootz e quella di Marian Willard. 
+Nessuno oggi può contestare il fatto che Peggy Gug- 
+genheim contribuì in modo estremamente importan- 
+te allo sviluppo dell'arte americana contemporanea 
+
+
+
+tramite l'"Art of This Century". In un periodo in cui i 
+pittori e gli scultori moderni americani avevano po- 
+che speranze di esporre le loro opere e conoscevano 
+solo limitatamente le tendenze europee, Peggy offrì 
+loro entrambe le possibilità e li incoraggiò a speri- 
+mentare di persona. "Art of This Century" fu un caso 
+unico nel panorama delle gallerie di New York. Ciò fu 
+riconosciuto dal critico Harold Rosenberg che scris- 
+se: «Distaccandosi dai murali WPA del decennio 
+passato, dal "realismo" di sinistra e dai manifesti di 
+chiamata alla leva, la galleria di Peggy Guggenheim, 
+aperta in tempo di guerra, era sia antiquata che 
+"moderna". Riecheggiò i giorni eroici delle avanguar- 
+die parigine degli anni Venti ed evocò la tradizione 
+dell'esperimento individuale nell'arte del XX seco- 
+lo»-". 
+
+Fu un ponte tra passato e presente, in cui artisti, 
+critici e pubblico poterono paragonare l'avanguardia 
+americana degli anni Quaranta con gli artisti moderni 
+europei già famosi, discutendone i mezzi e afferman- 
+done il significato storico e qualitativo. In breve fu 
+una galleria tesa alla sfida dello sfatti quo, alla provo- 
+cazione di discussioni e a illuminare il percorso della 
+pittura e della scultura contemporanee. Il desiderio 
+di Peggy Guggenheim che P'Art of This Century" 
+servisse al futuro invece di riportare il passato fu 
+soddisfatto, forse più di quanto abbia mai pensato 
+fosse possibile. 
+
+
+
+Melvin P. Lader 
+
+
+
+Note 
+
+
+
+1. Peggy Guggenheim, Con- 
+fessione q) &gt;m Art Addict, New 
+York, Macmillan. 1960, p. 89. 
+
+2. «Peggy Guggenheim, to 
+Open Art Gallery Art of This 
+Century», comunicato stampa, 
+ottobre 1942. 
+
+3. Spring Salon for YoungAr- 
+tists, in 'The Nation», 156, 29 
+maggi" 1943, p. 780. 
+
+4. Comunicato stampa riporta- 
+to in Young Man from Wyo- 
+ming, in Art Digest, 18, 1 
+novembre 194:-!, p. 11. 
+
+5. James .Johnson Sweeney, 
+prefazione a Jackson Pollock: 
+Paintings and Drawings, cata- 
+logo della mostra, New York, 
+"Art of This Century", 1943, 
+s.p. 
+
+(i. Clement Greenberg, Art, in 
+■•The Nation-, 157, 27 novem- 
+bre 194::, p. 621. 
+
+7. Bollettini contabili delP'Art 
+of This Century", The Ber- 
+nard and Rebecca Reis Pa- 
+pers», Archives of American 
+Art, Smithsonian Institution, 
+Washington, D.C. 
+
+8. Sebbene non si conosca al- 
+cun catalogo o lista delle operi' 
+di Hofmann esposte alP'Art of 
+This Century", il guazzo del Tel 
+Aviv Museum è del periodo del- 
+la mostra e fu regalato da Peg- 
+gy Guggenheim al museo nel 
+1954. Con tutta probabilità la 
+Guggenheim comprò in un pri- 
+mo momento quest'opera per la 
+sua collezione. 
+
+9. Ritagli di quotidiano dal- 
+l' •Herald Tribune in data 2&lt;&gt; 
+marzo 1944, dall'archivio di 
+Hans Hofmann New York Pu- 
+blic Library. 
+
+10. Baziotes espone nella pri- 
+ma personale alP'Art of This 
+Century" di Peggy Guggen- 
+heim, comunicato stampa, ot- 
+tobre 1944. 
+
+11. Clement Greenberg, Art, 
+in The Nation-, 159, 11 no- 
+vembre 1944, p. 598. 
+
+12. Jon Stroup, Motherwell 
+
+Moderi/, in Art Digest , 19, 1 
+novembre 1944, p. 16. 
+
+
+
+13. Alaude Riley, The Mytlii- 15 
+cai Rothko and His Myths, in 
+
+■•Art Digest», 19. 15 gennaio 
+
+1915, p. 15. 
+
+14. Ali News , 13, 15 ^-li- 
+naio 1915, ]). 27. 
+
+15. Maude Riley, Fifty-Sevt n 
+ih Street in Review, in Art 
+Digest», 19. 15-30 novembre 
+1944, p. 22. 
+
+Hi. Jon Stroup, Prefazione a 
+
+Charles Seln/er, catalogo della 
+mostra, New York, "Art of 
+This Century", 1915, s.p. 
+
+17. Clement Greenberg, Art, 
+in -The Nation . 160, 7 aprile 
+1915, p. : J ,97. 
+
+18. Clement Greenberg, in 
+■The Nation , 162, 9 febbraio 
+
+1946, p. ITO. 
+
+19. Richard Pousette-Dart, 
+catalogo della mostra. New 
+York, "Art of This Century", 
+
+1947, s.p. 
+
+20. Harold Rosenberg, Collec- 
+tor as Creator, in -Saturday 
+Review», 4:'&gt;, 12 novembre 
+1960, p. 80. 
+
+
+
+Mostre 
+
+deir'Art of This Century" 
+
+
+
+Stagione 1942-1943 
+
+Mostra di apertura: Exhibition ofthe Collection; 20 
+ottobre - novembre. 
+
+Objects by Josepìi Cornell; Marcel Buchamp's Box 
+Valise; Laurence Vali Bottles; 30 novembre - di- 
+cembre. 
+
+Exhibition by 31 Women; 5 - 31 gennaio. 
+Retrospective Exhibition ofthe Works; of Jean Hé- 
+lion; 8 febbraio - 6 marzo. 
+
+15 Early, 15 Late Paintings; 13 marzo - 10 aprile. 
+Exhibition of Collage; 16 aprile - 15 maggio. 
+Spring Salon for Young Artists (under 35 years 
+old); 18 maggio - 26 giugno. 
+
+Stagione 1943-1944 
+
+Masterivorks of Early de Chirico; 5 ottobre - 6 
+novembre. 
+
+First Exhibition: Jackson Pollock: Painti)igs and 
+Drawiìigs; 9-27 novembre. 
+
+Naturai, Insane, Surrealist Art; 30 novembre - 31 
+dicembre. 
+
+/. Rice Pereira; 4-22 gennaio. 
+Arp; 24 gennaio - 29 febbraio. 
+Hans Hofmann; 7 - 31 marzo. 
+First Exhibition in America of (Twenty Paintin- 
+gs); 11-30 aprile. 
+
+Spring Salon for Young Artists; 2 maggio - 3 giu- 
+gno. 
+The Negro in American Life; 29 maggio - 3 giugno. 
+
+Stagione 1944-1945 
+
+Paintings and Draivings by Williaìn Baziotes: 
+
+First One-Man Exhibition; 3 - 21 ottobre. 
+
+Robert Motherwell: Paintings, Papiers Collés, 
+
+Draivings; 24 ottobre - 11 novembre. 
+
+Picasso Reproductions: Latest Works (1939-19Ì3); 
+
+24 ottobre - 11 novembre. 
+
+Da vici Ha re: Scu Iptu res; 14 novembre - 2 dicembre. 
+
+Rudolph Rag: Paintings; 12 dicembre - 6 gennaio. 
+
+Isabelle Waldberg: Constructioìis; 12 dicembre - 6 
+
+gennaio. 
+
+Christmas Suggestions; 12 dicembre - 6 gennaio 
+
+Mark Rothko: Paintings; 9 gennaio - 4 febbraio. 
+
+Alberto Giacometti: 10 febbraio - 10 marzo. 
+
+Laurence Vail; 10 febbraio - 10 marzo. 
+
+Jackson Pollock; 19 marzo - 14 aprile. 
+
+Wolfgang Paalen; 17 aprile - 12 maggio. 
+
+Alice Rahon Paalen: Paintings; 15 maggio - 7 
+
+giugno. 
+
+The Women; 12 giugno - 7 luglio. 
+
+
+
+Stagione 1945-1946 
+
+Autumn Salon; ottobre - (28?) ottobre. 
+Charles Seliger: First Exhibition; 30 ottobre - 17 
+novembre. 
+
+Paul Wiltou; 30 ottobre - 17 novembre. 
+Ted Bradley: Paintings; 20 novembre - 8 dicembre. 
+Lee Hersch: Paintings; 20 novembre - 8 dicembre. 
+Christmas Exhibition ofGouaches; 11 - 29 dicem- 
+bre. 
+
+Paintings by Janet Sobel; 2 - 19 gennaio. 
+Sculpture by David Hare; 22 gennaio - 9 febbraio. 
+5 Sculptures: Pamela Bodiu; 12 febbraio - 2 marzo. 
+First Exhibition: Paintings: Clyfford Stili; 12 feb- 
+braio - 2 marzo. 
+
+Peter Busa: Paintings; 9 - 30 marzo. 
+Pegeen Vail: First Exhibition; 9-30 marzo. 
+Jackson Pollock: Exhibition: Paintings; 2 - 20 
+aprile. 
+
+Teresa Zarnower: 16 Gouaches; 23 aprile - 11 mag- 
+gio. 
+
+Robert De Niro: First Exhibition of Painting; 23 
+aprile - 11 maggio. 
+
+Sonja Sekula: First Exhibition of Paintings; 14 
+maggio - 1 giugno. 
+
+Stagione 1946-1947 
+
+Hans Richter, 1919-1H6; 22 ottobre - 9 novembre. 
+Virginia Admiral; 12 - 30 novembre. 
+Rudi Blesh: Paintings 1946; 12 - 30 novembre. 
+Cliarles Seliger, Kenneth Scott, Dwight Ripley, 
+John Goodwin, David Hill; 3 - 21 dicembre. 
+Marjorie McKee; 24 dicembre - 11 gennaio. 
+Helen Schwinger; 24 dicembre - 11 gennaio. 
+Jackson Pollock; 14 gennaio - 1 febbraio. 
+Monorial Showing ofthe Last Paintings of Morris 
+Hirshfield; 1 febbraio - 1 marzo. 
+Richard Pousette-Dart; 4 - 22 marzo. 
+David Hare: Sculpture; 25 marzo - 19 aprile. 
+First American Retrospective Exhibition of Theo 
+vcvi Doesburg, 1883-1931; 29 aprile - 31 maggio. 
+
+
+
+17 
+
+
+
+
+Peggy Guggenheim 
+
+nel suo palazzo veneziano. 
+Per uditile concessione 
+degli eredi (li Roloff Beny. 
+
+
+
+Le donazioni 
+
+di Peggy Guggenheim 
+
+
+
+Quando vennero formandosi le prime collezioni d'arte 
+realmente pubbliche e le antiche collezioni reali furo- 
+no aperte alle grandi folle, il senso di orgoglio nei 
+confronti della liberalità principesca era solo uno dei 
+molti e complessi motivi per la creazione dei musei in 
+senso moderno. Molto più importante era infatti la 
+credenza, ferma e ottimistica, che l'arte fosse uno dei 
+grandi maestri dell'umanità e che il benessere morale 
+e spirituale dello stato sarebbe migliorato a contatto 
+di grandi opere d'arte, fino ad allora gelosamente 
+custodite per la gioia di pochi privilegiati. Allo stesso 
+tempo si credeva che le collezioni d'arte pubbliche 
+avrebbero anche stimolato la fantasia e le energie dei 
+giovani artisti, migliorando la qualità dell'artigianato 
+e dell'industria. Queste speranze non vennero sem- 
+pre soddisfatte: mai, per esempio, la produzione 
+artistica fiorentina raggiunse un livello più basso che 
+nei decenni che seguirono la donazione dei Medici 
+che, a tutt'oggi, è il dono artistico pubblico più muni- 
+fico mai elargito. Lo scopo didattico tuttavia perduro 
+per tutto il XIX secolo ed è in questa luce che può 
+essere vista l'attività di Peggy Guggenheim come 
+mecenate e donatrice. Il passar del tempo e il suo 
+stesso ardente entusiasmo le permisero di raggiun- 
+gere quelle mete a cui non seppero arrivare così tanti 
+prìncipi ben intenzionati del XVIII secolo. Con la sua 
+attività di collezionista e di donatrice Peggy Guggen- 
+heim esercitò e continua a esercitare una decisa forza 
+divulgativa. 
+
+Sebbene minimizzasse deliberatamente la sua capaci- 
+tà intellettuale, ella manteneva sempre un certo 
+timido ma instancabile rispetto per l'insegnamento, 
+per l'istruzione e per la volontà innata di raffinare e 
+alimentare la mente. Dall'inizio alla fine della sua 
+carriera, la sua più ardente ammirazione andò ai suoi 
+maestri: Emma Goldman, Sir Herbert Read, Marcel 
+Duchamp, Alfred Barr e molti altri. Proprio questo 
+impulso volto all'istruzione era alla base della creazio- 
+ne della sua collezione: sin dall'inizio ebbe il doppio 
+scopo di essere uno strumento di istruzione e un 
+mezzo di sostegno morale e finanziario per gli artisti 
+dell'avanguardia. Per tutta la vita distinse sempre 
+fra le amicizie e le conoscenze. Solo gli amici capivano 
+che, dietro la sua allegra effervescenza, oltre il sofi- 
+sticato edonismo dei suoi modi, si nascondeva una 
+mente energica e tenace, tesa verso l'insegnamento e 
+l'apprendimento. Accadeva raramente, infatti, che 
+un amico le consigliasse un libro particolarmente 
+
+
+
+stimolante senza che lei lo leggesse al più presto. Fra 19 
+tutti coloro che appartenevano al suo ambito sociale 
+era forse l'unica del tutto immune alla noia proprio a 
+causa del suo bisogno spontaneo di apprendere e, a 
+modo suo, di insegnare. 
+
+Come è stato messo in evidenza nel saggio preceden- 
+te, la funzione istruttiva dell'" Art of This Century" 
+consisteva soprattutto nella presentazione di mostre 
+didattiche per il contrapporsi di opere dei padri 
+fondatori dell'arte moderna e di quelle di talenti 
+ancora sconosciuti. Spesso l'allestimento delle mo- 
+stre trasformava lo spettatore, tradizionale elemento 
+passivo, in un partecipante attivo, a cui imponeva 
+determinate nozioni grazie all'esperienza fisica di- 
+retta. 
+
+Il più importante aspetto della sua galleria, special- 
+mente per coloro di noi che stavano maturando du- 
+rante gli anni della guerra, era che questa fosse un 
+luogo di incontro e di discussione temerariamente 
+liberale. Non si sapeva mai quale artista si sarebbe 
+trovato a discutere animatamente con chissà quale 
+altro artista o critico. Sebbene gran parte dei visita- 
+tori più giovani fosse troppo impreparata per coni 
+prendere del tutto queste discussioni, noi riuscimmo 
+a intuire che l'arte, e non solo quella contemporanea, 
+non era lì solamente per essere goduta, rispettata, 
+ammirata e studiata. L'arte poteva e dorerà dai' 
+luogo anche a ulteriori avventure, a polemiche, all'e- 
+spressione di nuove idee ardite. 
+Nell'ambito della 57" Strada, negli anni Quaranta 
+"Art of This Century" era unica: nell'ambito dell'A- 
+merica la 57" Strada lo era altrettanto. L'America era 
+ancora un paese di frontiera nei riguardi dell'arte e 
+soprattutto, dell'arte moderna. Sulla costa orientale, 
+ad eccezione di New York, Hartford e New Haven, si 
+poteva contare sulle dita delle mani il numero delle 
+opere di artisti del XX secolo presenti nelle collezioni 
+pubbliche (la Chester Dale Collection non era ancora 
+stata trasferita a Washington, né l'Arensberg e la 
+Gallatili a Filadelfia). Guardando verso occidente. 
+Cleveland, Detroit, Toledo e Cincinnati avevano 
+fatto sforzi titubanti nel collezionare opere d'arte 
+moderna e bisognava andare fino a Chicago per 
+trovare una concentrazione rispettabile di bei dipinti 
+e sculture dei pionieri dell'arte contemporanea. Tra 
+Chicago e San Francisco c'era addirittura ancor meno 
+materiale che potesse sfidare e sorprendere l'artista 
+novello, il critico o lo storico dell'arte. La pittura e la 
+
+
+
+20 scultura moderne erano ancora dei beni sospetti. 
+Perfino il WPA aveva fatto ben poco per cambiare 
+tale atteggiamento. In gran parte del retroterra 
+americano, la parola "artista" era associata quasi 
+automaticamente all'aggettivo "affamato". La mag- 
+gior parte della gente (e non bisogna dimenticare che 
+la Grande Depressione era una realtà tuttora incom- 
+bente) pensava che fosse naturale che gli artisti 
+fossero affamati. I monumenti patriottici potevano 
+essere a malapena considerati una necessità per la 
+capitale, mentre non furono accettate quali essenziali 
+per la civiltà le sculture urbane o gli affreschi negli 
+uffici postali anche se appartenevano ai talenti, ben 
+istruiti seppure mediocri di Laredo Taft o Aaron 
+Bohrod. I musei che esistevano a ovest di Chicago 
+erano in primo luogo la creazione di individui ricchi, 
+che volevano commemorare se stessi e le loro fortune 
+con doni di arte "sicura" (cioè arte di valore provato e 
+stabilito che potesse dar piacere, ispirare rispetto o 
+stimolare curiosità intellettuale). Ma per la stessa 
+ragione, era un'arte incapace di provocare quel tipo 
+di dibattito appassionatamente partigiano che scop- 
+piò come un incendio spontaneo nelle sale di "Art of 
+This Century". 
+
+Proprio con l'intenzione di estendere questa sorta di 
+appassionato impegno dalla 57 " Strada al resto dell'A- 
+merica, Peggy Guggenheim acquistò le opere degli 
+artisti che appartenevano alla sua "scuderia" per 
+donarle a quei musei che allora erano isole culturali 
+nella sperduta provincia. Mentre a quel tempo la 
+gran parte dei donatori era solo interessata a ingran- 
+dire i musei delle proprie città (Kress fu la grande 
+eccezione), la campagna di donazioni fatta da Peggy 
+Guggenheim si espandeva per tutto il territorio na- 
+zionale. In alcuni casi i suoi doni andavano ad istitu- 
+zioni che non avevano ancora alcun museo. Fu pro- 
+prio il suo dono della tela più ambiziosa di Jackson 
+Pollock, dalle dimensioni monumentali, e di altri 
+esempi importanti dell'arte contemporanea america- 
+na, che indusse l'amministrazione della Iowa Univer- 
+sity a fondare uno dei primi musei universitari statali 
+nel Midwest. Ma non vennero presi in considerazione 
+solo musei lontani e isolati come il Delgado Museum 
+di New Orleans o il Seattle Museum of Art. Il Mu- 
+seum of Fine Arts di Boston era sempre stato in 
+prima linea nell'acquisto di opere d'avanguardia sin 
+dalla sua fondazione fino allo scoppio della Prima 
+Guerra Mondiale. Poi, poi- cause che non sono stale 
+
+
+
+ancora spiegate dagli studi sul mecenatismo artisti- 
+co, la politica di acquisto del museo divenne sempre 
+più conservatrice. Nella speranza di riaccendere il 
+passato impeto di Boston per l'arte moderna, Perry 
+Rathbone, amico fidato di Peggy Guggenheim, si 
+rivolse a lei per avere un'opera in dono, ricevendone 
+una generosa risposta. In seguito, impressionata 
+dallo straordinario entusiasmo per l'arte dimostrato 
+dallo stato di Israele, benché assediato militarmente 
+ed economicamente, ella fece un dono importante al 
+Tel Aviv Museum of Art estendendo così i suoi 
+benefici oltre i confini americani. 
+Era molto meno interessata alle richieste dei musei 
+europei. Roma e Amsterdam, seriamente partecipi 
+alle vicende d'arte contemporanea, furono eccezioni. 
+Al Museo d'Arte Moderna di Ca'Pesaro fece solo un 
+dono convenzionale essendo Venezia erede universa- 
+le della sua collezione. Non può essere accusata di 
+sciovinismo, come è evidente dalle sue memorie e 
+dalla sua vita. Ma era affascinata dall'entusiasmo con 
+cui l'America accoglieva le avventure dell'arte mo- 
+derna, e sentiva che il suo sostegno era più importan- 
+te là che in altri luoghi. Una piccola vena di ripicca 
+può esserci stata nella sua decisione di non fare 
+donazioni ai musei europei: fino alla metà degli anni 
+Cinquanta la stampa europea continuava a mettere in 
+ridicolo la sua collezione e la sua attività di mecenate. 
+È quasi impossibile tentare di stabilire quale fu 
+l'impatto delle donazioni di Peggy Guggenheim nel 
+momento in cui avvennero, proprio come è impossibi- 
+le dire che importanza avranno in futuro. Indubbia- 
+mente, se paragonate al suo dono più importante - 
+quello della sua collezione privata alla Fondazione 
+Solomon R. Guggenheim - i quadri e le sculture che 
+offrì a Boston, San Francisco o Raleigh sembrano 
+mancare di consistenza. Ma una cosa è per un giovane 
+(o vecchio che sia) amante dell'arte essere frettolosa- 
+mente stupito dagli splendori del Palazzo Venier dei 
+Leoni, e un'altra, per lo stesso amante dell'arte, 
+poter osservare a suo piacimento un Pollock o un 
+Matta o un Clyfford Stili nella propria città. C'è una 
+sensazione di comunità, un legame più intimo, che 
+nelle giuste circostanze possono rendere un Hélion a 
+Raleigh, un Alan Davie a Providence o un Nicholson 
+a Tel Aviv più gratificanti di una stanza piena di 
+Picasso, visitata nel corso di un viaggio. L'effetto che 
+l'arte ha sulla mente e sulle emozioni è imponderabi- 
+le. La cosa importante è di correre il rischio di 
+
+
+
+mettere a confronto l'artista e il pubblico. 11 rischio è 
+molto concreto nel caso in cui pubblico e artista siano 
+contemporanei, poiché non c'è garanzia che l'artista 
+sia di valore per il pubblico e viceversa. Peggy Gug- 
+genheim, al vertice della sua carriera, traeva profitto 
+dai rischi e, seguendo il suo istinto, metteva in gioco 
+ciò che aveva basandosi sulla qualità dell'artista che 
+decideva di sostenere e sull'entusiasmo di un pubbli- 
+co a lei totalmente sconosciuto. 
+Ci vuole un po' di fantasia per valutare il significato 
+delle opere donate da Peggy Guggenheim circa qua- 
+rantanni fa. Contrariamente a un dono di un Rui- 
+jsdael o di un Beato Angelico, ogni quadro e scultura 
+da lei donati furono una sfida per il pubblico. Il 
+personale e i garanti del museo dovevano chiedersi: 
+«Vale la pena avere quest'arte?» Il visitatore del 
+museo doveva chiedersi: «Quest'arte è legata alle 
+necessità e alle speranze della mia vita? Posso capir- 
+la? La posso fare mia?». Non esisteva ancora alcuna 
+autorità, alcun mezzo interpretativo a cui affidarsi. 
+L'apporto dei doni di Peggy Guggenheim e riassunto 
+nel modo migliore dal dottor Franklin Robinson, 
+Direttore del Museum of Art della Rhode Island 
+School of Design: «... l'effetto duraturo della donazio- 
+ne della Signora Guggenheim fu quello di trascinarci 
+nel periodo post-bellico, di renderci consapevoli ed 
+entusiasmarci per l'arte degli anni Quaranta e Cin- 
+quanta in questo paese e all'estero. Il quadro di 
+Jackson Pollock è effettivamente l'opera più impor- 
+tante di un maestro americano del XX secolo presen- 
+te nella nostra collezione e sarà sempre una delle 
+grandi glorie di questo museo». 
+In similar modo, il curatore del Tel Aviv Museum, la 
+dottoressa Nehama Guralnik, afferma: «Nel periodo 
+in cui Peggy Guggenheim effettuò la donazione, nei 
+primi anni Cinquanta, l'arte americana non era asso- 
+lutamente rappresentata nel Tel Aviv Museum che 
+invece offriva degli esempi limitati di arte astratta 
+surrealista. Negli anni seguenti la donazione agì 
+come catalizzatore e nucleo di partenza per l'amplia- 
+mento di entrambe queste categorie. Oltre a ciò la 
+donazione rappresentò il perno di una mostra dal 
+titolo: Abstract and Surrealist Art che fu inaugurata 
+nel gennaio del 1955 e fu visitata da circa 50.000 
+persone. La mostra presentava per la prima volta il 
+modernismo internazionale al pubblico locale e fu la 
+mostra d'arte moderna più importante e influente a 
+essere organizzata in Israele nel primo decennio 
+
+
+
+dell'esistenza dello stato ebraico. Da essa scaturirono 
+donazioni di opere importanti fatte da numerosi arti- 
+sti che vi parteciparono, fra queste ricordiamo Beici I- 
+dered Planet, 1942, di Max Ernst e Four White 
+Shapes Conntelìating &lt;&gt;ti a Blue Background, 1953, 
+di Jean Arp». Lo slancio e l'umorismo che sostennero 
+le donazioni di Peggy Guggenheim sono stati colti 
+chiaramente nel brano che segue, preso da The 
+Northwest Orai History Project» (Archivi dell'Arte 
+americana, Smithsonian Institution, 1983): -Quando 
+Edward B. Thomas, curatore del Seattle Art Mu- 
+seum, nel 1954 visitò Venezia, fissò un appuntamento 
+con Peggy Guggenheim; i due si capirono subito. La 
+visita di Thomas coincideva con quella di un cliente un 
+po' borioso che stava guardando i quadri per conclu- 
+dere un acquisto. Provocata dall'atteggiamento del 
+visitatore, Peggy Guggenheim si rivolse a me e 
+sussurrò: "Rimani nei paraggi, caro, che ne darò uno 
+a te!" Quando l'altro ospite se ne fu andato, disse: 
+"Bene, andiamo nel seminterrato: ci sono cinque 
+Pollock da vedere e tu puoi scegliere quello che vuoi!" 
+Quando i doni di Peggy Guggenheim entrarono a far 
+parte della collezione del museo, questo era noto 
+soprattutto per il patrimonio di opere d'arte asiatica e 
+regionale. Il dono contribuì a sottolineare la necessità 
+di espandere proprio la collezione d'arte moderna. 
+Sia la qualità dei doni che il prestigio del donatore 
+hanno aiutato il Seattle Art Museum a creare la sua 
+collezione di arte moderna e, cosa interessante, han- 
+no fornito agli altri collezionisti uno stimolo eccellen- 
+te a partecipare alla vita del museo». 
+Non è assolutamente sorprendente che alcune dona- 
+zioni fossero di qualità inferiore, come non sorprende 
+il, seppur piccolo, numero di "errori". Né Peggy 
+Guggenheim fu sempre responsabile di donazioni 
+poco felici: più di un direttore di museo, infatti, ha 
+confessato, sotto il vincolo della discrezione collegia- 
+le, di aver fatto una vera gaffe nello scegliere un 
+oggetto che si rivelò essere meno importante delle 
+diverse possibilità proposte da Peggy Guggenheim. 
+Il senno di poi, sebbene sia un piacevole passatempo, 
+non dovrebbe essere mai preso seriamente. I diretto- 
+ri dei musei corsero dei rischi proprio come Peggy: a 
+entrambi deve essere reso onore. Che la stragrande 
+maggioranza di questi rischi sia stata ripagata in 
+modo eccellente, ciò non può essere attribuito alla 
+fortuna. Né la mecenate né il beneficiato giocavano 
+alla roulette. Peggy voleva insegnare e allo stesso 
+
+
+
+21 
+
+
+
+22 tempo voleva anche imparare. Con grande sagacia e 
+sensibilità ella scelse i suoi professori e poi fece molti 
+compiti a casa da sola. 
+
+Un altro elemento non deve essere sottovalutato. 
+Donare può essere divertente e per molti anni si 
+divertì a osservare i direttori dei musei, specialmen- 
+te coloro che le erano diventati amici, andarsene con i 
+loro trofei. Quando e perché si stancò di divertirsi è 
+difficile a dirsi, ma a poco a poco il suo coinvolgimento 
+nel mondo artistico cominciò a diminuire. Nessuno 
+saprà mai perché Peggy Guggenheim decise di chiu- 
+dere prima "Art of This Century" e poi l'attività di 
+"galleria" a Palazzo Venier dei Leoni, iniziando a 
+ritirarsi dal palcoscenico del mondo dell'arte, ritirata 
+che accelerò in modo visibile dopo la metà degli anni 
+Cinquanta. Contrariamente alle affermazioni pubbli- 
+cate, le sue motivazioni forse non erano chiare nem- 
+meno a lei stessa. Come tutte le scelte umane impor- 
+tanti, le ragioni del suo trasferimento a Venezia 
+probabilmente sono troppo complesse e contradditto- 
+rie per essere chiarite cercando prove documentabili. 
+In un modo o nell'altro può aver creduto di aver 
+portato a termine ciò che si era proposta. Assieme a 
+pochi altri colleghi scelti come Alfred Barr, aveva 
+contribuito a interessare vasti settori del pubblico 
+alla causa dell'arte contemporanea. Negli ultimi anni 
+della sua vita, infatti, sentì di aver vinto la battaglia 
+in modo troppo totale. Cominciò a capire chiaramente 
+che l'arte, soprattutto in America, stava correndo il 
+pericolo di essere soffocata dall'eccesso di amore. Il 
+suo intuito, il suo entusiasmo e il suo impegno aveva- 
+no fatto dell'arte un interesse pubblico fondamentale, 
+quasi un obbligo tacito. Il senso del rischio, del venire 
+alle prese con delle forze che si sarebbero riconosciu- 
+te solo in futuro, era passato. L'interesse nell'arte 
+era diventato così arrogante che le forze più influenti 
+e finanziariamente imbattibili del mondo dell'istru- 
+zione artistica hanno persino paragonato la mancanza 
+di interesse nell'arte a uno stato di esistenza sub- 
+umana. Come se Madre Teresa dovesse essere guar- 
+data di traverso perché non conosce e non le interessa 
+nulla di Lairv Poons o di Cari André. Sebbene Peggy 
+Guggenheim avesse partecipato all'esuberante dispo- 
+nibilità che aveva propagato la consapevolezza dell'arte 
+moderna e della sua posizione centrale nella civiltà 
+contemporanea, senti sempre di più che era arrivato il 
+tempo di riconsiderare l'arte stessa in modo più riflessi- 
+vo ma non necessariamente più pedante o accademico. 
+
+
+
+Si distaccò sempre di più dal presente immediato per 
+dedicarsi di più alla cura e all'esposizione della sua 
+collezione. Il suo interesse nell'aiutare i musei dimi- 
+nuì; piuttosto che disfarsi delle sue opere, pensò di 
+completare e rifinire la sua collezione. Prima che l'età 
+avanzata e la malattia la travolgessero, le sue ultime 
+trattative importanti riguardarono l'acquisizione, 
+sfortunatamente impedita, di un dipinto di Philip 
+Guston. Ciò che si può definire la missione storica di 
+Peggy Guggenheim termina con la chiusura della 
+galleria "Art of This Century". Rimane però come 
+epilogo non indifferente la sua attività in Italia. 
+Benché la stampa non le serbasse un'accoglienza 
+cordiale (c'erano addirittura giornali che definivano 
+la collezione di Palazzo Venier •• Il Baraccone Guggen- 
+heim») soprattutto le giovani leve dei licei artistici e 
+delle accademie d'arte trovarono a portata di mano 
+una collezione di arte moderna senza rivali in Europa 
+e ne traevano spunti e incoraggiamenti decisivi. Per 
+meglio capire quanto fu preziosa l'opportunità offerta 
+dalla Collezione Guggenheim negli anni Cinquanta 
+basta ricordarsi delle difficoltà che avevamo tutti in 
+Italia per riprendere contatto con la cultura occiden- 
+tale più viva dopo la grave cesura del ventennio e 
+della guerra. 
+
+Per quasi un decennio dopo il suo trasferimento a 
+Venezia, Peggy Guggenheim cercò di svolgere un'at- 
+tività analoga a quella che aveva esercitato a New- 
+York durante il periodo 1942-1948. Certo il suo slan- 
+cio era un po' incrinato dopo la dura lotta che aveva 
+combattuto per "piazzare" i suoi più celebri "prote- 
+gés" dopo la chiusura di "Art of This Century". 
+Bisogna anche tener conto che l'ambiente veneziano 
+non era certo adatto a suscitare grandi speranze di 
+riuscita. Ciononostante Peggy fece il possibile per 
+mantenere la sua collezione non solo in senso didatti- 
+co-museale, ma anche come luogo di smistamento 
+delle nuove tendenze. Opere di Consagra, Tancredi, 
+Vedova, Santomaso, Larderà, Lontana e Dorazio 
+furono acquistate o esposte e integrate nel suo pro- 
+gramma di donazioni ai musei americani. Fu lei a 
+divulgare con grande impegno i valori dell'arte italia- 
+na del dopoguerra e a iniziare quell'atteggiamento 
+americano di apertura che si é perpetuata nel pro- 
+gramma della stessa Fondazione Solomon R. Gug- 
+genheim. 
+
+Circa dieci anni fa in un piovoso pomeriggio dell'au- 
+tunno veneziano, Peggy stava rileggendo in modo 
+
+
+
+occasionale delle vecchie lettere e delle carte degli 
+anni Quaranta e Cinquanta. Da poco ero tornato da 
+San Francisco e le dissi come mi ero entusiasmato nel 
+vedere un eccezionale van Doesburg nel locale Museo 
+di Arte Moderna, etichettato «Dono di Peggy Gug- 
+genheim». Ne fu compiaciuta e cominciò a ricordare 
+altre donazioni da lei fatte. Allora mi venne in mente 
+che mettere assieme tutte le opere da lei donate e 
+sparse in giro per il mondo sarebbe stato oggetto di 
+una mostra interessante in un museo che volesse 
+descrivere gli aspetti diversi del gusto e del mecena- 
+tismo in un periodo cruciale per l'arte americana. In 
+un primo momento l'idea le piacque: la possibilità di 
+rivedere i dipinti e le sculture che una volta le appar- 
+tenevano la attirava. Poi, improvvisamente cambiò 
+umore. 
+
+
+
+■ La gente dirà solo che devo essere stata una stupida 23 
+a disfarmi di queste cose». 
+
+Non appariva né amara né rassegnata. Conosceva il 
+mondo poiché era stata parte di esso. Da allora sono 
+stati scritti su Peggy Guggenheim un grande numero 
+(li articoli biografici e libri: è stata descritta in termini 
+vezzeggiativi, con rimprovero o come un mero fatto 
+storico. Ma nessuno l'ha definita stupida. Unica ecce- 
+zione fu Bernard Berenson, che dopo aver visto la sua 
+collezione esposta alla Biennale del 1948 le disse: 
+«Avrebbe dovuto venire da me, mia cara, e io le avrei 
+fatto fare dei buoni affari». 
+
+
+
+Fred Li chi 
+
+
+
+Musei pubblici che hanno ricevuto donazioni 
+da parte di Peggy Guggenheim: 
+
+
+
+Amsterdam, Olanda 
+Atlanta, Georgia 
+Boston , Massach usetts 
+Chicago, Illinois 
+Hartford, Connecticut 
+Ioiva City, Ioiva 
+Kansas City, Missouri 
+New York, New York- 
+New York, New York 
+New Haven, Connecticut 
+New Orleans, Louisiana 
+Phoenix, Arizona 
+Poughkeepsie, New York 
+Providence, Rhode Island 
+
+Rateigli, Noìih Carolina 
+Roma, Italia 
+
+San Diego, California 
+San Francisco, California 
+Seattle, Washington 
+Tel Aviv, Israele 
+Venezia, Italia 
+
+
+
+Stedelijk Museum 
+
+High Museum of Art 
+
+Museum of Fine Arts 
+
+Art Institute of Chicago 
+
+Wadsworth Atheneum 
+
+University of Iowa Museum of Art 
+
+Nelson-Atkins Museum of Art 
+
+Brooklyn Museum 
+
+Museum of Modem Art 
+
+Yale University Art Gallery 
+
+New Orleans Museum of Art 
+
+Phoenix Museum of Art 
+
+Vassar College Art Gallery 
+
+Museum of the Rhode Island School 
+
+of Design 
+
+North Carolina Museum of Art 
+
+Galleria Nazionale d'Arte Moderna 
+
+e Contemporanea 
+
+San Diego Museum of Art 
+
+San Francisco Museum of Modem Art 
+
+Seattle Art Museum 
+
+The Tel Aviv Museum 
+
+Museo d'Arte Moderna di Ca' Pesaro 
+
+
+
+25 
+
+
+
+Avvertenza 
+
+
+
+Le eredità sconosciute di Peggi/ Guggenheim è una 
+versione leggermente diversa dell'esposizione 
+Peggg Guggenheim's Other Legaci/ presentata al 
+Solomon R. Guggenheim Museum di New York in 
+marzo - maggio 1987. Alcune opere esposte a New 
+York, come Riti-atto di Pegeen di Pousette-Dart, 
+mancano a Venezia per ragioni di conservazione. 
+Altre, come ad esempio due quadri della prima 
+maturità di Mark Rothko, non erano disponibili 
+per Venezia a causa della grande mostra 
+antologica della Tate Gallery di Londra. 
+Queste inevitabili lacune sono però colmate dalla 
+presenza di un grande numero di opere di artisti 
+italiani, dando così una nuova consistenza alla 
+presente esposizione. Quando si stabilì a Venezia, 
+Peggy affrontò l'arte italiana del dopoguerra con 
+tale entusiasmo che riuscì a orientarsi in una 
+situazione labile, spesso contraddittoria, difficile 
+da captare persino per i critici italiani che per 
+decenni avevano seguito le vicende culturali fra 
+l'Italia e l'America. Con le sue acquisizioni 
+incoraggiò pittori e scultori della nuova leva. 
+Con le sue donazioni di opere italiane ai musei 
+americani creò legami fra le due avanguardie e 
+aprì per loro un varco importante nel mercato 
+internazionale. 
+
+Vorrei sdebitarmi, sia pure in minimo modo, 
+ringraziando Susan Hirschfeld e Thomas Padon, 
+entrambi del Museo Solomon R. Guggenheim di 
+New York, per il loro indefesso appoggio. 
+Se il nostro omaggio a Peggy Guggenheim risulta 
+degno agli occhi del pubblico, ciò è dovuto in gran 
+parte al loro premuroso impegno. 
+
+Fred Liclit 
+
+
+
+La realizzazione delle opere 
+nn. 1, 2, 3, 16, IT. 19 e 36 
+è dovuta a Egidio Costantini. 
+
+
+
+Jean Ai'p 
+
+Collage N. 3 in vetro. 1964 
+
+Vetro, 50,15 x 65,06 x o , 1 7 cm 
+
+Collezione The Phoenix Art Museum, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+29 
+
+
+
+Jean Arp 
+
+Nudo. L964 
+
+Vetro, 20,70 x 33,96 x 12.70 cm 
+
+Collezione Museum of Fine Arte, Boston, 
+
+donazione di Pegjry Gujjjjt'nheim. 
+
+
+
+30 
+
+
+
+
+Jean Arp 
+
+La colomba. 1964 circa 
+
+Vetro, 26,02 x 24,44 x 13,65 cm 
+
+Collezione Museum of Fine Arts, Boston, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+
+31 
+
+
+
+William Baziotes 
+
+Lo specchio a mezzanotte I. 1942 circa 
+Olio su tela, 50,78 x 76,17 cm 
+Collezione privata. 
+
+
+
+32 
+
+
+
+
+William Baziotes 
+Aula scolastica. 1943 
+Olio su tela, 40 x 48,2(5 cm 
+Collezione Kresge Art Museum, 
+Michigan State University, East Lansing, 
+donazione di Clement Greenberg. 
+
+
+
+
+33 
+
+
+
+William Baziotes 
+
+I paracadutisti. L944 
+
+Smalta Duco su tela, TU. 17 x 101,56 cm 
+
+Collezione Ethel Baziotes, New York, 
+
+per gentile concessione Blum Helman 
+
+Gallery, New York. 
+
+
+
+34 
+
+
+
+
+William Baziotes 
+7. La clessidra. 1944 
+
+Olio su tela, 76,17 x 61,25 cm 
+
+Collezione Mi-, and Mrs. Memlith Long, Houston. 
+
+
+
+
+35 
+
+
+
+Renato Birolli 
+8. Natura morta. L947 
+
+Olio su tela, 18,50 x 64 cm 
+
+Galleria Nazionale d'Arte Moderna e Contemporanea, Roma. 
+
+
+
+36 
+
+
+
+
+PttCL /U.KV 
+
+
+
+Collective Drawing 
+
+Uccelli fantastici. 1940 
+
+Matita colorata e inchiostro su carta, 30,78 x 47, (il cm 
+
+Collezione The Tel Aviv Museum, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+
+
+
+37 
+
+
+
+William Congdon 
+in. Piazza Veneziana N. 12. 1952 
+Olio su tavola, 124, Hi x 1 12,24 cm 
+Collezione The Museum of Modera Art, New York, 
+
+(lunazione ili Peggy Guggenheim. 
+
+
+
+38 
+
+
+
+
+
+
+
+Pietro Consagra 
+
+Senza titolo. L948 
+
+Ferro, 209,47 x 34,28 x 34,28 cm 
+
+Collezione New Orleans Museum of Art, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+39 
+
+
+
+
+Alan Davìe 
+
+Astrazione. 1951 
+
+Olio su masonite, 91, 14 x 121,92 cm 
+
+Collezione Museum of Art, Rhode Island 
+
+School of Design, Providence, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+40 
+
+
+
+
+Theo vari Doesburg 
+13. Contro-composizione simultanea. 1929 
+Olio su tela, 50,15 x 50,15 cm 
+Collezione San Francisco Museum of Modem Art, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+41 
+
+
+
+
+( (scar 1 tominguez 
+11. Nostalgia dello spazio. L939 
+Olio su tela, 73,03 x 91,76 citi 
+Collezione The Museum of Modem Art, New York, 
+donazione ili Peggy Guggenheim. 
+
+
+
+42 
+
+
+
+
+Max Ernst 
+15. Famiglia numerosa. L926 
+Olio su tela, 81,56 x 65,07 cm 
+Collezione San Francisco Museum of Modem Art, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+43 
+
+
+
+Max Ernst 
+Hi. Bauta. L964 
+
+Vetro, 49,83 x 24.7(1 x 27,93 cm 
+
+Collezione San Francisco Museum of Modera Art, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+44 
+
+
+
+
+Max Ernst 
+17 Uccello. 1964 
+
+Vetro, 39,04 x 23,49 x 6,98 cm 
+Collezione Museum of Fine Arts, Boston, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+45 
+
+
+
+Claire Falkenstein 
+IX. Cancello (Modello per Palazzo Venier dei Leoni). 1963 
+
+Ferro e vetro, 43, 47 x :-ì(i,x2 x 2,54 cm 
+Collezione Museum of Fine Arts, Boston, 
+donazione di Peggy Gug^enheim. 
+
+
+
+46 
+
+
+
+
+Lucio Fontana 
+19. Costruzione. 1964 
+
+Vetro, 28,26 x (52 x 66,68 cm 
+
+Collezione Museum of Fine Arts, Boston, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+
+47 
+
+
+
+Otto Freundlich 
+20. Astrazione geometrica. 1938 
+
+Gouache su carta, 104,14 \ 70,80 cm 
+Collezione Seattle Art Museum, 
+donazione di Peggy Guggenheim. 
+
+
+
+48 
+
+
+
+
+
+
+
+David Hare 
+
+Elefante morto. 1945 
+
+Cemento, 11,11 x 2H.HH x 15,87 cm 
+
+Collezione San Francisco Museum of Modera Art, 
+donazione Jeanne Revnal. 
+
+
+
+
+49 
+
+
+
+•Ican Hélion 
+
+Figura orizzontale. L939 
+
+Olio su tela, 50, 18 \ 131,76 cm 
+
+Collezione San Diego Museum of Art, 
+
+donazione ili Peggy Guggenheim. 
+
+
+
+50 
+
+
+
+
+Morris Hirshfield 
+23 Bellezze del varietà. 1944 
+
+Olio su tela, 1(12,1!» x 121,87 CHI 
+
+Per gentile concessione Sidney Janis GaUery, New York. 
+
+
+
+
+51 
+
+
+
+i 
+
+
+
+Morris Hirshfield 
+
+Nudo con fiori. 1945 
+
+Olio su tela. 69,19 x 56,49 cm 
+
+Per gentile concessione Sidney Janis Gallery, New York. 
+
+
+
+52 
+
+
+
+
+Hans Hofmann 
+
+Senza titolo. 1943 circa 
+
+Gouache e matita su carta, 48,24 x 60,62 cm 
+
+Collezione The Tel Aviv Museum, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+
+53 
+
+
+
+Gerome Kamrowski 
+Senza titolo. 1942 
+Olio su tela, 18,55 x 51,09 cm 
+
+Collezione dell'artista. 
+
+
+
+54 
+
+
+
+
+Willem de Kooning 
+
+L'onda. 1942-1944 circa 
+
+Olio su tavola, 122. IN x 121,87 cm 
+
+Collezione National Museum of American Art, 
+
+Smithsonian Institution, Washington, D.C., 
+
+donazione dalla Collezione Vincent Melzac. 
+
+
+
+
+55 
+
+
+
+I inani Lassavi 
+28. Scultura in acciaio. L938 
+
+Acciaio, 17, -Il \ 59,85 x 38,10 cm 
+
+Collezione Whitney Museum of American Art, New York. 
+
+acquisizione con fondi del Painting and Sculpture Committee. 
+
+
+
+56 
+
+
+
+
+Andre Musson 
+29. La gita. 1927 
+
+Olio su tela, 60,94 x 38,09 cm 
+
+Collezione The Tel Aviv Museum, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+
+
+£££* 
+
+
+
+
+.Matta 
+30. Come me, come X. Iii42 
+Olio su tela, 69,50 x 90,13 cm 
+
+Collezione The University of lowa Museum of Art, lowa City, 
+(lunazione di Peggy Guggenheim. 
+
+
+
+58 
+
+
+
+
+Matta 
+31. Astrazione. n.d. 
+
+Olio su carta, 145,99 x 192,96 cm 
+Collezione Museum of Art, Rhode [sland 
+School of Design, Providence, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+59 
+
+
+
+Robert Motherwell 
+32. La piccola prigione spagnola. 1941 1944 
+Olio su tela, 69,19 \ 13,47 cm 
+Collezione The Museum of Modera Art, New York, 
+donazione Renate Ponsold Motherwell. 
+
+
+
+60 
+
+
+
+
+Robert MatherweU 
+:«. Personaggio (Personaggio morto). 1943 
+
+Olio su tela, 122,51 x 97,12 cm 
+
+Collezione Norton Gallery of Art, West Palm Beach, Florida. 
+
+
+
+
+
+
+
+61 
+
+
+
+Robert MotherweU 
+34. La porta (Messico). L943 
+
+Inchiostro e acquerello su carta montata su tavola, 
+
+32,37 x 24,44 cm 
+
+Collezione Thomas Marc Futter. 
+
+
+
+62 
+
+
+
+
+Irene Rice Pereira 
+35. Otto oblunghi. 194:; 
+
+Encaustico su pergamena, 48,X!S x (&gt;4,4: J &gt; citi 
+
+Collezione The University of Iowa Museum of Art, Iowa City, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+
+63 
+
+
+
+l'alilo Picasso 
+36. Centauro. 1965 circa 
+
+Vetro e pigmento, 31,10 x 9,84 \ 27,29 cm 
+Collezione San Francisco Museum of Modem Art, 
+donazione di Peggy Guggenheim. 
+
+
+
+64 
+
+
+
+
+Jackson Pollock 
+37. Ritratto di H.M. L945 
+
+Olio su tela, 90,77 x 109,18 cm 
+
+Collezione The University of Iowa Museuni 
+donazione di Peggy Guggenheim. 
+
+
+
+Art, Iowa City, 
+
+
+
+
+Jackson Pollock 
+38. Sostanza lucente, li' 
+
+della serie "Suoni nell'erba" 
+
+( Mio su tela, 76, 18 x 61,57 cm 
+
+Collezione The Museum of Modera Art, New York, 
+
+fondi di Mr. and Mrs. Albert Levvin e Mrs. Sam A. Lewisohn. 
+
+
+
+66 
+
+
+
+
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jackson Pollock 
+29. Full Fathom Five [Citazione dalla "Tempesta" di Shakespeare-Ed.]. L947 
+
+Olio su tela con chiodi, puntine, bottoni, chiavi, monetine, sigarette, fiammiferi. 
+
+129,17 x 76,48 cm 
+
+Collezione The Museum of Modem Art, New York, 
+
+donazione di Peggy Guggenheim. 
+
+
+
+
+Jackson Pollock 
+lo. Lanterna magica, 1947 
+
+Olio, metallo e chiudi su tela, 109,18 x 55,54 cm 
+Collezione Museum of Art, Rhode Island 
+School of Design, Providence, 
+donazione &lt;li Peggy Guggenheim. 
+
+
+
+68 
+
+
+
+
+Jackson Pollock 
+41. Sentieri ondulati. 1947 
+
+Olio su tela, 114 x 86 cm 
+
+Galleria Nazionale d'Afte Moderna e Contemporanea, Roma. 
+
+
+
+
+Richard Pousette-Dart 
+li'. Figura. 1943-1945 
+
+Olio su tela, 202,80 \ 126,95 cm 
+
+Collezioni- privata. 
+
+
+
+70 
+
+
+
+
+Richard Pousette-Dart 
+43. Comprensione dell'atomo, Crocifissione. 1944 circa 
+Olio su tela, l!&gt;7,0!i x 124,72 cm 
+Collezione privata. 
+
+
+
+
+Mark Rothko 
+11. Elementi sospesi in equilibrio. 1 !» 11 
+Olio su tela, 91,40 x 121.21 cm 
+Collezione di Mr. and Mrs. Edward J. Minskoff, New York. 
+
+
+
+72 
+
+
+
+
+Mark Kothko 
+45. Rituale. 1944 
+
+Olio e matita su tela, 135,84 x 99,66 cm 
+
+Collezione Walker Art Center, Minneapolis, 
+donazione della Mark Rothko Foundation. 
+
+
+
+
+73 
+
+
+
+Charles Seligi 
+Hi. Paesaggio cerebrale, n* 1 1 
+Olio su tela, 61,28 x 16,04 cm 
+Collezione Wadsworth Atheneum, Hartford, 
+donazione «li Mr. and Mrs. Alexis Zalstem-Zalessky. 
+
+
+
+74 
+
+
+
+
+Charles Seliger 
+47 DonChisciotte. 1944 
+
+Olio su tela, 81,56 x iti, 71 cm 
+
+Collezione di Di - , and Mrs. Hvman (ì. Weitzen. 
+
+
+
+
+( Iharles Seliger 
+18. L'ultimo ciclope. 1946 
+
+&lt; Mi.i su tela, 55,86 x -Vi. 17 cui 
+( lollezione dell'artista. 
+
+
+
+76 
+
+
+
+
+Janet Sobel 
+49. Via Lattea. 1945 
+
+Smalto su tela, 113,94 x 75,85 cm 
+
+Collezione The Museum of Modem Art, New York, 
+donazione della famiglia dell'artista. 
+
+
+
+
+•. • ..■ JSfc ■'* . . - «ite 
+
+
+
+«^~— ~ - 
+
+
+
+
+Tancredi 
+50. Composizione, n.d. 
+
+Olio su tela, 140,34 x 200,33 cm 
+
+Collezione Wadsworth Atheneum, Hartford, 
+
+donazione &lt;li Peggy Guggenheim. 
+
+
+
+78 
+
+
+
+
+
+
+F*&amp; 
+
+
+
+
+Tancredi 
+
+Alba a Venezia, n.d. 
+
+Olio su tela, 108,27 x 139,10 em 
+
+Collezione The Nelson-Atkins Museum of Art, 
+Kansas City, Missouri, 
+donazione di Peggy Guggenheim, 
+
+
+
+I - 
+
+
+
+'MSm - 
+
+
+
+* 
+
+
+
+-. - **#* . 
+
+
+
+--4 l 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^:'v^ 
+
+
+
+
+
+
+Laurence Vail 
+52. La donna perfetta. UH.! 
+
+Assemblage con bottiglia di vetro, 
+
+35,55 x 8,57 \ 8,57 cm 
+
+Collezione Daniel Rosenblatt, New York. 
+
+
+
+80 
+
+
+
+
+
+Laureine Vail 
+53. Madame Bovary. L943 
+
+Assemblage con bottiglia di vetro, 
+
+36,82 x 8,89 x 8,89 cm 
+
+Collezione Timothv Baum, New York. 
+
+
+
+
+
+
+
+81 
+
+
+
+( ìeer van der Velde 
+
+Meditazione, n.d. 
+
+Olio su tela, 7:: x 93 cm 
+
+Galleria Nazionale d'Arte .Moderna e Contemporanea, Roma. 
+
+
+
+82 
+
+
+
+
+Emilio Vedova 
+Documenta No. 2. 1952 
+
+Tempera su tela, 1 14,78 x 189,23 cm 
+Collezione Wadsworth Atheneum, Hartford, 
+donazione di Peggy Guggenheim. 
+
+
+
+
+83 
+
+
+
+Emilio Vedova 
+•")(;. Grafico Astratto, n.d. 
+
+Serigrafia, 14,13 x 60,33 cm 
+
+Collezione High Museum of Art, Atlanta. Georgia, 
+
+(lunazione di Peggy Guggenheim. 
+
+
+
+84 
+
+
+
+
+Elenco dei prestatori 
+
+
+
+Timothy Baum, New York 
+
+Ethel Baziotes, New York 
+
+Thomas Marc Futter, New York 
+
+Gerome Kamrowski, New York 
+
+Mr. and Mrs. Meredith Long, Houston 
+
+Mr. and Mrs. Edward J. Minskoff, New York 
+
+Daniel Rosenblatt, New York 
+
+Charles Seliger, New York 
+
+Dr. and Mrs. Hyman G. Weitzen, New York 
+
+Galleria Nazionale d'Arte Moderna e Contemporanea, Roma 
+
+High Museum of Art, Atlanta, Georgia 
+
+Kresge Art Museum, Michigan State University 
+
+Museum of Art, Rhode Island School of Design, Providence 
+
+Museum of Fine Arts, Boston 
+
+The Museum of Modem Art, New York 
+
+National Museum of American Art, Smithsonian Institution, 
+
+Washington, D.C. 
+
+The Nelson-Atkins Museum of Art, Kansas City, Missouri 
+
+New Orleans Museum of Art 
+
+Norton Gallery of Art, West Palm Beach, Florida 
+
+The Phoenix Art Museum 
+
+San Diego Museum of Art 
+
+San Francisco Museum of Modem Art 
+
+Seattle Art Museum 
+
+The Tel Aviv Museum 
+
+The University of Iowa Museum of Art, Iowa City 
+
+Wadsworth Atheneum, Hartford 
+
+Walker Art Center, Minneapolis 
+
+Whitney Museum of American Art, New York 
+
+Blum Helman Gallery, New York 
+Sidney Janis Gallery, New York 
+
+
+
+
+
+
+La Fondazione Salomon R. Guggenheim 
+ringrazia la Fratelli Saclà 
+
+che ha reso possibile 
+
+la realizzazione di questa mostra. 
+
+
+
+La Fondazione Solomon R. Guggenheim è grata alla Regione 
+Veneto per il suo contributo annuale che è indispensabile per 
+l'attività culturale della Collezione Peggy Guggenheim. 
+
+Il prolungamento della stagione di apertura della Collezione 
+Peggy Guggenheim avviene grazie a una donazione della 
+United Technologies Corporation. 
+
+L'apertura gratuita della Collezione Peggy Guggenheim il 
+sabato sera è promossa da Montedison Progetto Cultura. 
+
+La Fondazione Solomon R. Guggenheim ringrazia l'Alitalia 
+
+per il contributo annuale. 
+
+L'impianto di climatizzazione e rete telematica di controllo 
+"Sentinel Arte" a Palazzo Venier dei Leoni, sede della 
+Collezione Peggy Guggenheim, sono state installate dalla 
+Jacorossi S.p.A. 
+
+
+
+Fondazione Solomon R. Guggenheim 
+
+
+
+Solomon K. Guggenheim 
+
+
+
+Garanti Onorari in perpetuo 
+
+Justin K. Thannhauaer 
+
+
+
+Peggy Guggenheim 
+
+
+
+Elaine Dannheisser 
+Michel David-Weill 
+Carlo De Benedetti 
+Joseph W. Donnei- 
+Robin Chandler Duke 
+Robert M. Gardiner 
+
+
+
+Garanti 
+
+Presidente 
+
+Peter Lawson-Johnston 
+
+Vice Presidenti 
+
+The Right Honorable Earl Castle Stewart 
+Wendy L-J. McNeil 
+
+John S. Hilson 
+Harold W. McGraw, Jr. 
+Thomas M. Messer 
+Denise Saul 
+William A. Shreyer 
+Bonnie Ward Simon 
+Seymour Slive 
+
+Tesoriere 
+
+Theodore G. Dunker 
+
+Direttore 
+
+Thomas M. Messer 
+
+
+
+Peter W. Stroh 
+Stephen C. Swid 
+Rawleigh Warner, Jr. 
+Michael F. Wettach 
+Donald M. Wilson 
+William T. Ylvisaker 
+
+
+
+Solomon R. Guggenheim Museum Collezione Peggy Guggenheim 
+
+
+
+Comitato Consultivo 
+
+
+
+Donald M. Blinken 
+Barrie M. Damson 
+Donald M. Feuerstein 
+Linda LeRoy Janklow 
+Seymour M. Klein 
+Hannelore Schulhof 
+
+
+
+Claude Pompidou, Presidente; Danielle Gardner, Presidente Onorario; 
+Marella Agnelli, Co-Presidente Onorario; Hedy Maria Alien; 
+Giuseppina Araldi Guinetti; Pietro Barilla; Alexander Bernstein; Mary 
+Bloch; Carlo Bonomi; Contessa Ida Borletti; Bernardino Branca; 
+Bruno Buitoni; The Right Honorable Earl Castle Stewart; Enrico 
+Chiari; Rosemary Chisholm; Jack Clerici; Maria Luisa de Romans; 
+William Feick; Gabriella Golinelli; Giuliano Gori; Milton Grundy; 
+Jacques Hachuel Moreno; James Harmon; Lady Nika Hulton; Evelyn 
+Lambert; Laurence Lovett; Achille Maramotti; Leonardo Mondadori; 
+Umberto Nordio; Contessa Fanny Rattazzi; Antonio Ratti; Nanette 
+Ross; Denise Saul; Angela Schimberni; Hannelore Schulhof; Anna 
+Scotti; James B. Sherwood; Joan M. Straus; Roberto Tronchetti 
+Provera; Gianni Varasi; Kristen Venable; Robert Venable; Felice 
+Gianani, Socio Onorario. 
+
+
+
+Diane Waldman 
+
+
+
+William M. Jackson 
+
+
+
+Mimi Poser 
+
+
+
+Staff esecutivo 
+Deputy Directors 
+
+Administrator 
+
+
+
+Philip Rylands 
+
+
+
+Responsabile sviluppo e relazioni esterne 
+
+
+
+Vivian Endicott Barnett 
+
+
+
+Curatori 
+
+
+
+Fred Licht 
+
+
+
+Referenze fotografiche 
+
+
+
+Myles Aronowitz: 48 
+
+Pur gentile concessione Blum 
+
+Helman Gallery, New York: 6 
+
+Per gentile concessione 
+
+Thomas Marc Futter: 34 
+
+Galleria Nazionale d'Arte 
+
+Moderna e Contemporanea, 
+
+Poma: 8, 41, 54 
+
+David Heald: 4, 23, 42, 43, 
+
+47, 53 
+
+David Heald e Myles 
+
+Aronowitz: 52 
+
+High Museum of Art, 
+
+Atlanta, Georgia: 56 
+
+Per gentile concessione 
+
+Gerome Kamrowski: 26 
+
+Kresge Art Museum, 
+
+Michigan State University, 
+
+Fast Lansing: 5 
+
+Museum of Art, Rhode [sland 
+
+Sehool of Design, Providence: 
+
+12, 31, 40 
+
+Museum of Fine Arts, 
+
+Boston: 2, 3, 17, 18, 19 
+
+The Museum of Modem Art, 
+
+New York: 10, 14, 32, 38, 
+
+39, 49 
+
+National Museum of 
+
+American Art, Smithsonian 
+
+Institution, 
+
+Washington, D.C.: 27 
+
+
+
+The Nelson-Atkins Museum 
+
+of Art, Kansas City, 
+
+Missouri: 51 
+
+New Orleans Museum of 
+
+Art: 11 
+
+Norton Gallerv of Art, West 
+
+Palm Beach: 33 
+
+Per gentile concessione The 
+
+Pace Gallery, New York: 44 
+
+The Phoenix Art Museum: 1 
+
+San Diego Museum of Art: 22 
+
+San Francisco Museum of 
+
+Modem Art: 13, 15, 16, 
+
+21, 36 
+
+Seattle Art Museum: 20 
+
+Per gentile concessione 
+
+Sidney Janis Gallery, New 
+
+York: 24 
+
+Per gentile concessione 
+
+Sotheby's, New York: 7 
+
+The Tel Aviv Museum: 9, 25, 
+
+29 
+
+The University of Iowa 
+
+Museum of Art, Iowa City: 
+
+30, 35, 37 
+
+Wadsworth Atheneum, 
+
+Hartford: 46, 50, 55 
+
+Walker Art Center, 
+
+Minneapolis: 45 
+
+Whitney Museum of 
+
+American Art, New York: 28 
+
+
+
+&lt;fe N 
+
+
+
+Questo volume è 
+stato stampato nel mese 
+di ottobre 1987 presso 
+F. Ghezzi per conto dell' 
+Arnoldo Mondadori Editore 
+per i "Trustees of The 
+Solomon R. Guggenheim 
+Foundation". 
+Stampato in Italia 
+Printed in Italv. 
+
+
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+ISBN 88-04-30710-2 
+
+
+
+Arnoldo Mondadori Editore 
+
+
+
+788804"307105 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0050   0.0050      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0070   0.0019      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0096   0.0026     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0137   0.0041   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0139   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0846   0.0707              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=84;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

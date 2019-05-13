@@ -1,0 +1,4033 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Lucio Fontana, 1899-1968 : a retrospective"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/luciofo00solo">Lucio Fontana, 1899-1968 : a retrospective</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/luciofo00solo">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>FONTANA 
+
+
+
+
+LUCIO FONTANA 
+
+
+
+1899-1968: A RETROSPECTIVE 
+
+
+
+The Solomon R. Guggenheim Museum, New York ( it) 
+
+
+
+Published by The Solomon R. Guggenheim Foundation, New York, 1977 
+
+ISBN: 0-89207-010-2 
+
+Library of Congress Card Catalogue Number: 77-88448 
+
+© The Solomon R. Guggenheim Foundation, New York, 1977 
+
+Printed in the United States 
+
+Cover photograph by Ugo Mulas 
+
+
+
+THE SOLOMON R. GUGGENHEIM FOUNDATION 
+
+PRESIDENT Peter O. Lawson-Johnston 
+
+TRUSTEES H. H. Arnason, The Right Honorable Earl Castle Stewart, Joseph W. Dormer, Mason 
+
+Welch Gross, Eugene W. Leake, Frank R. Milliken, A. Chauncey Newlin, Mrs. Henry 
+Obre, Albert E. Thiele, Michael F. Wettach 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM 
+
+
+
+DIRECTOR Thomas M. Messer 
+
+STAFF Henry Berg, Deputy Director 
+
+Susan Halpcr, Executive Assistant; Vanessa Jalet, Secretary to the Director 
+
+Louise Averill Svendsen, Curator; Diane Waldman, Curator of Exhibitions; Margit 
+
+Rowcll, Curator of Special Exhibitions; Angelica Zander Rudcnstmc. Research ( urator; 
+Linda Konheim, Curatorial Administrator; Linda Shearer. Assistant Curator; Carol 
+Fuerstein, Editor; Mary Joan Hall, 1 ibrarian; Ward Jackson, Archivist; Susan Ferleger, 
+Philip Verre, Clair Zamoiski, Curatorial Assistants 
+
+Mmii Poser, Public Affairs Officer; Miriam 1 niden. Membership Department 1 le.nl; 
+Susan Hirschfcld, Public Affairs Coordinator 
+
+Jane E. Heffner, Development Officer; ( arolyn PorceJli, Development Associate 
+
+Aunes R. ( onnolly, Vuditor; Kurt Struver, Business Officer; Philip Almeida, Restaurant 
+Manager; I li/abeth McKirdie, R.nle\ M.kcv, Business Assistants; ( harlcs Hovland, 
+Sales Coordinator; Darrie Hammer, (Catherine W. Bnggs, Information 
+
+David Roger Anthony, I echnical officer; Orrin H. Rile\. ( onservator; I uq Belloli, 
+Associate ( onsen ator; Dana I . Cranmer, rechnical Manager; 1 lii ibeth M 1 unghini, 
+( herie A. Summers, Associate Registrars; [ack&lt; oyle, Registrars' Assistant; Saul I ucrsrein, 
+Preparator; Scon V Wixon, Operations ( oordinator; David Mortensen,( arpenter; 
+
+Robert E. Mates, Photographer. Man Donlon, Assistant Photographer. I ola I 
+Photograph) ( oordinator 
+
+Peter G. 1 Oggiri, Bu tiding Superintendent; Gu) 1 leu her. |r . Assistant Building 
+Superintendent; ( harlcs 1 . Ban. nil. I lead Guard 
+
+
+
+Digitized by the Internet Archive 
+
+in 2012 with funding from 
+
+Metropolitan New York Library Council - METRO 
+
+
+
+http://archive.org/details/luciofoOOsolo 
+
+
+
+LENDERS TO THE EXHIBITION 
+
+
+
+Mario Bardini, Varigotti 
+
+Raimondo Bariatti, Milan 
+
+Mr. and Mrs. Berlingieri, Rome 
+
+Carlo F. Bilotti, New York 
+
+Serge De Bloe, Brussels 
+
+Teresita Fontana, Milan 
+
+Collection Fornaciari-Roma 
+
+Collection Gaslini, Milan 
+
+Mario Gori, Milan 
+
+Joseph H. Hirshhorn 
+
+Collection Laurini 
+
+Enrico Lucci, Biella 
+
+Jan and Ingeborg van der Marck, 
+West Lebanon, New Hampshire 
+
+Milena Milani, Savona 
+
+Zaira Mis, Brussels 
+
+Carla Panicali, Rome 
+
+Collection Pollini, Milan 
+
+Francesco RidolH 
+
+H.uinclore B. Schulhof 
+
+Studio B.B.P.R., Milan 
+
+Luigi Veronesi, Milan 
+
+Ambassador and Mrs. Piero Vinci, 
+
+New York 
+
+
+
+Civica Galleria d'Artc Moderna, Milan 
+
+Civica Galleria d'Artc Moderna, ( ollcction Boschi, 
+Milan 
+
+Galleria Civica d'Artc Moderna, Iurm 
+
+The Solomon R. Guggenheim Museum, New York 
+
+Kunsthaus Zurich 
+
+Kunstmuseum Bern 
+
+Kunstmuseum Diisseldorf. 
+
+Louisiana Museum, Humlebaek, Denmark 
+
+Musee National d'Art Moderne. Pans ( s u -GP 
+
+The Museum of Modern Art, New York 
+
+Stedelijk Museum, Amsterdam 
+
+Stedelijk Van Abbemuseum, 1 indhoven, 
+
+The Netherlands 
+
+Washington Universit) Gallerj ol \n, 
+
+St. Louis 
+
+
+
+\ci|u.n ella ( ialleries, Inc., New York 
+Galleria deH'Anete, Milan 
+Galleria del Na\ iglio, Milan 
+Galleria Nuovo Sagittatio, Milan 
+Galleria Seno, Milan 
+Marlborough Galleria d'Artc, Rome 
+Studio Santandrea, Milan 
+
+
+
+PREFACE AND ACKNOWLEDGEMENTS 
+
+
+
+Lucio Fontana did not come to the attention of a broader American art public 
+before the late i95o's when his daring canvas cuts marked him as a powerful 
+innovator and a key figure on the European postwar scene. As often happens 
+when a radical contribution is confronted and absorbed, curiosity about its origins 
+and its place within the wider premise of innovative thought follows in its wake. 
+To satisfy this interest and to isolate Fontana's development as draughtsman, 
+sculptor, painter and proto-conceptual artist, the Guggenheim has undertaken 
+this first museum retrospective in New York. 
+
+Models for such an exhibition existed in Europe, since Fontana's work had 
+been honored by numerous retrospectives there since his death in 1968. The most 
+recent of these was staged by Erika Billeter a year and a half ago at the Kunsthaus 
+Zurich, where she is Associate Director and Curator of Modern Art. Dr. Billeter 
+was therefore invited to be curator of the current presentation, and we owe our 
+thanks to her for the selection of works as well as the conception of the exhibition's 
+accompanying catalogue. In these tasks she was aided by others close to Fontana's 
+work, and their successful accomplishment could only have been achieved with 
+the extensive help — both documentary and logistical — provided by the Archivio 
+Lucio Fontana in Milan. The Archivio's President, Signora Teresita Fontana. the 
+artist's widow, and Valeria Ernesti, its Secretary, were personally involved in the 
+conception and realization of this Fontana retrospective .\nd gave us their gener- 
+ous, valuable and unstinting support. Signora Fontana also figured as principal 
+lender to this exhibition. Many other European and American collectors, private 
+as well as institutional, also parted with their precious possessions m order to fur- 
+ther the understanding of Fontana's art. Their names are listed separately to under 
+line our debt to each of them. 
+
+Collectors of Fontana's work are understandably concentrated in Italy, and 
+Milan has become a veritable headquarters for the artist's man) tneiuU and 
+admirers. But the exhibition selection also reflects wide-ranging concern with 
+Fontana's work in other European countries and in the United States. [*0 assure 
+participation of American collectors, the Guggenheim through 1 '■m\.\ Konheim, its 
+
+
+
+Curatorial Administrator, brought important works in this country to Dr. Billeter's 
+attention. Miss Konheim also coordinated the complex arrangements involved in 
+this undertaking and assisted with the exhibition's installation and the gathering 
+of catalogue documentation. The publication itself was edited and its production 
+overseen by Carol Fuerstein, the Museum's Editor. To all these and others who 
+must remain unnamed, I extend the Guggenheim's deep appreciation. 
+
+The Fontana retrospective assembled here will, we trust, summarize the trench- 
+ant contribution of an outstanding postwar figure who has not so far received his 
+due in this country. As Dr. Billeter's catalogue introduction indicates, Fontana's 
+work may also stimulate reflection upon creative expression analogous to his own 
+on both sides of the Atlantic. 
+
+thomas M. messer, Director 
+
+The Solomon R. Guggenheim Museum 
+
+
+
+*~*JU 
+
+
+
+
+i'v •. 
+
+
+s 
+
+
+
+
+^^^E' * E 
+
+
+
+
+7 ^1 tu 
+
+1 
+
+
+
+
+h -Q 
+
+
+1 
+
+
+*4~ "^ 2r 
+
+• 
+
+
+
+
+• 
+
+
+
+
+
+
+'. 
+
+
+
+sag f 
+
+
+
+'tp- . 
+
+
+
+LUCIO FONTANA 
+
+Between Tradition and Avant-Garde 
+
+Erika Billeter 
+
+
+
+Lucio Fontana in 1948 challenges the history of painting. With one bold stroke he 
+pierces the canvas and tears it to shreds. Through this action he declares before 
+the entire world that the canvas is no longer a pictorial vehicle and asserts that 
+easel painting, a constant in art heretofore, is called into question. Implied in this 
+gesture is both the termination of a five-hundred year evolution in Western paint- 
+ing and a new beginning, for destruction carries innovation in its wake. A new 
+pictorial beauty grows with Fontana out of the act of destruction. The punctured 
+painting becomes a work of art in its own right, and the pierced canvas affords 
+possibilities for a new formulation of easel painting. 
+
+The Buchi (Holes) — those first examples of Fontana's new pictorial conception 
+reveal themselves to us seven years after Fontana's death and nearly thirty years 
+after their inception. They offer one among many gestural options. These canvases 
+originated parallel to Pollock's early insight through which he perceived the canvas 
+as a space within which to activate his gestural notations. Pollock dances into his 
+paintings, brush in hand, but Fontana, too, performs a rhythmic dance as he per- 
+forates the canvas with a knife to create structures that lead the viewer to re- 
+experience his motions. The painter's gestures thus become the medium of his 
+communicative power. A few years thereafter the artist further sharpens his gesture 
+in his so called "Cuts" (Tagli) — those vehement canvas slits that instantly come 
+to mind when we think of Fontana. The artist recalls how in his rage over a 
+spoiled work he cut the canvas to pieces. The new pictorial concept thus was born 
+of the act of destruction. Subsequently he would prepare his cuts like a Chinese 
+ink painter who executes his brushstroke in a single motion following profound 
+meditation. The cut is as unrepeatable as the brushstroke and cannot be corrected. 
+"People think that to cut or pierce is easy, but so much of this stuff is discarded" 
+he explained to a friend, adding that "the idea must become clear beyond a doubt." 
+The cuts perpetuate the moment as East Asiatic ink painting does. Time freezes 
+as we regard these works and as we seem to retain the cutting motion in our 
+mind's eye. The perforation And the cutting of the canvas amounted to a revolu- 
+tionary act when first performed. Today \vc see it in a context of gestural painting 
+
+
+
+" 
+
+
+
+
+3 
+
+O 
+
+13 
+
+
+
+'4 
+
+
+
+
+
+IS 
+
+
+
+which we have assigned a place in art history. For Fontana himself these actions 
+were never aesthetically subversive but rather an art "contemplatively arrived at," 
+as he himself spoke of it. It was an art that pursued a goal. When, in 1948, Fontana 
+for the first time ceased to view the canvas as a painted surface, when he broke 
+through it to wrest from it its third dimension, he began to call his paintings 
+Concetti Spaziali or Spatial Conceptions. This term indicated what Fontana meant 
+to express through his novel pictorial form and what, ultimately, he attempted to 
+realize through his knifed works. All his paintings since 1948 relate to his search 
+for the third dimension— for a concrete rendering of space through appropriate 
+imagery. After the Manifiesto Blanco, published in Buenos Aires in 1946, all his 
+manifestos accord a primary role to space as expression of an art with contem- 
+porary implications. Fontana wanted to exceed the illusionistic space that had 
+dominated painting since the Renaissance, that moved overwhelmingly into the 
+foreground during the Baroque period and that preoccupied the Futurists as a 
+dynamic process. 
+
+No longer content to project space as illusion or trompe l'oeil, Fontana meant 
+to introduce it into the picture as a fact. As he breaks into the canvas he no longer 
+paints space but creates it. The painting in turn, instead of representing space, 
+itself becomes space. Beyond this, the perforation and laceration of the picture 
+surface and the resulting creation of a real space inseparable from its imagery, 
+signified for Fontana, among other things, an art reflecting current scientific aware- 
+ness, an homage to science. Fontana's interest in cosmic space developments was 
+passionate. He did not live to see man's landing on the moon, which might well 
+have convinced him that mankind could adapt in future to cosmic space— unless of 
+course he would have come to share our present doubts on the subject. Be this 
+as it may, it remains the objective of his Concetti Spaziali to transfer into art a 
+fraction of this cosmic space as palpable reality. 
+
+From the outset of this striving, space was a central theme for Fontana. He was 
+born in 1899 in Argentina. His sculptor father, Luigi Fontana, was Italian, his 
+mother Argentinian. Lucio himself began his career as a sculptor who before his 
+Bucbi in 1949 had never painted a picture, although he had made pencil drawings 
+at times. One of his most important early works the Uorno Nero, 1930, is a sculp- 
+ture that still echoes Cubism. Through its hermetic fundamental conception as 
+well as the compactness of its form, the work interacts ambiguously with space 
+by declaring and preempting it at the same time. In the years that follow painted 
+figurative pieces made of gesso and clay bear identical stylistic marks. In all of 
+them, fleeting surface modelling dissolves Fontana's tectonic forms as their planes 
+seem to recede into space. 
+
+The traces of an artisanal handling appear to be carved into the soft material. 
+Two elements which we shall encounter again in the artist's mature work are 
+already discernible in these early examples: gesture and space integration. 
+
+
+
+16 
+
+
+
+Alongside these figurative sculptures Fontana creates abstract works. This gave 
+rise to interesting constellations in the oeuvre of the young artist who obviously 
+wished to keep his options open, preferring not to commit himself to one or the 
+other direction. But the tensions inherent in the dialogue so characteristic of his 
+late work are already evident in his abstract enclosures, the rod-like structures and 
+the graffiti tablets of this early phase. The surface is agitated in his abstract pieces 
+as well. Both in his figurative and in his abstract sculptures one is aware of a prox- 
+imity to the Baroque. Fontana is capable of reinterpreting such elements because 
+of his deeply rooted empathy with this particular cultural tradition. The Baroque 
+dimension in Fontana's creation reflects a concern with space which will come to 
+preoccupy him passionately throughout his life. Drawings related to these abstract 
+three-dimensional works are conceived in outline form: they are economical in 
+their expression and rendered in quick strokes. In a sense, they foreshadow the 
+Concetti of the 1950's, much as the sculptures themselves seem to anticipate 
+Fontana's late paintings. And among other work of these early years that also 
+predicts a later period, the terra-cottas for Mazzotti's garden in Albisola Mare are 
+like stones embedded in nature. From these there leads a direct path to his Nature, 
+to emerge in 1959-60. 
+
+In 1939, Fontana returned to Argentina after a lengthy stay in Italy. He first 
+turned to sculpture but subsequently began automatic Surrealist-inspired drawing. 
+It is at this stage that, for the first time, gesture unfolds as a decisive creative 
+device, thus preparing Fontana for what he was to undertake a few years later: 
+the image as living gesture. 1946 is the year of the Manifiesto Blanco, which was 
+written by Argentinian artist friends upon Fontana's urging. The ideas in this 
+document were based upon Fontana's elaboration of the concept of dynamism 
+in art, originally developed by Boccioni in behalf of Futurism. Fontana first realized 
+his ideas about dynamism in his Buchi, which thus may be taken as an optical 
+translation of the manifesto. Today we interpret this text as an expression of 
+gestural art and identify it as a verbal translation of European abstract expression- 
+ism or informel painting, as it is usually called. At the time Fontana inspired 
+the Manifiesto Blanco he still did not paint, but devoted himself exclusively to 
+sculpture and to drawing. Only in retrospect do we partake of that agitation and 
+sense the new beginning which now informs his work. His ceramic sculpture 
+already displays forcibly torn surfaces which, however, are still decorated with 
+figurative elements. To manifest fully his ideas about space and dynamism Fontana 
+felt compelled to move into abstraction. 
+
+The Concetti Spaziali in 1949 lead the artist to the realization of pure idea, freed 
+from any attachment to the object. At the very moment he penetrates the canvas 
+with his Buchi for the first time and as he integrates the space behind the painting 
+in it, Fontana also creates his first environment. This Anihicntc SpOZtale, projected 
+by means of ultraviolet light, first came into being at the (ialleria del Navigho in 
+
+
+
+Milan. It amounted to nothing less than his first integration of a work of art with 
+space, a realization he had been seeking for decades. In the years that follow, 
+Fontana continues to shape environments, introducing an art form that others 
+only adopted and eventually exhausted in the 1960's. 
+
+A decisive change in Fontana's development had taken place with the Concetti 
+Spaziali. Through them, the artist ceases to be a sculptor and becomes a painter. 
+His dialogue with a plane, until now avoided, can no longer be delayed, but plane- 
+ness is immediately ruptured in a search for three-dimensionality. What he pre- 
+viously achieved on the surfaces of his sculptures by gestural means is now ex- 
+pressed by the act of piercing the plane. Color no longer interests Fontana in these 
+new experiments although earlier he had always colored his sculpture. What now 
+concerns him deeply is gesture transformed into graphic structure. Initially he 
+works upon white, that is, colorless planes. The ground is neutralized so that it 
+remains no more than support for the gestural sign which thereby becomes charged 
+in relation to the plane as a whole. It is impossible today to comprehend how 
+radical this action was at the time. The perforation and laceration suggests that 
+the canvas suffered, but implicit in the same act is a redeeming gesture toward an 
+inherited, traditional pictorial form. 
+
+During the entire subsequent period, Fontana remains tied to the Concetti 
+Spaziali. In a very real sense the Concetti constitute his mature phase which he 
+reached through a consistent development, on the one hand, and by a radical 
+break with tradition, on the other. Fontana always pursued his artistic themes 
+over a period of years, putting them aside for a while only to take them up again. 
+The Buchi made us think of cosmic movements in their often circular dynamics. 
+They were succeeded by paintings called Pietre (Stones) in which negative perfora- 
+tion was opposed by positive accretion achieved by the setting of glass stones upon 
+the pictorial surface. Figurative sculpture also returns once again in the 1950's, 
+when Fontana participates in a competition for the execution of the portals for 
+the Milan Cathedral. Here we encounter once more the sculptor of the 1930's and 
+40's. Baroque elements continue to prevail in movement, spatial relationships and 
+the fragmentation of tectonic corporeailty. It is hardly by chance that only a short 
+time later, from 1954-57, Fontana creates a series of works clearly conceived in 
+terms of their material and entitled Barocchi. Of these, four have titles that relate 
+to literature although they remain entirely abstract. The titles, bestowed by 
+Fontana himself, are Crocifissione, 11 Golgotha, L'Inferno and // Paradiso. They 
+underline associations somewhat like those of the New York series and the ones 
+related to the paintings inspired by Venice. Fontana never paints in a particular 
+style at a particular time. While he lavishes color so freely in his Barocchi that 
+they virtually become materializations, he is simultaneously capable of working 
+tenderly in chalk and india ink. 
+
+
+
+18 
+
+
+
+1958 is the year of the first cuts, his Tagli. Fontana now slashes with a knife 
+instead of puncturing holes in the canvas. Concetti Spaziali—Attese, Fontana's 
+name for these works, may be translated as "expectations" or "hope." These 
+monochromatic canvases with one or more incisions have become his trademark. 
+Black gauze on the reverse of the canvas shimmers through the open cuts, acting 
+as background while at the same time it evokes a darkly imaginary space. The title 
+Attese refers to the mysterious world of darkness structured behind the incisions. 
+For years, the cutting of the canvas was for Fontana an act of creative self-aware- 
+ness. He was, nevertheless, preoccupied with other solutions even then. It is there- 
+fore impossible to think in terms of periods as one considers Fontana's development. 
+There are, to be sure, brief thematic phases— experimental, transitional states— 
+that may hold his interest for a year or more. His Quanta of 1959 are just such a 
+development— irregularly shaped canvases, with one or two slits, that may be freely 
+combined with one another. The series called Fine di Dio (God is Dead) emerges 
+in 1963-64. It is a sequence of egg-shaped pictures of identical format painted in 
+sweetish monochromes. Surfaces are torn open by myriad holes suggesting galaxies 
+of stars or perhaps moonscapes, a world in any case in which God does not exist. 
+The Teatrini (Small Theaters), perforated monochromatic canvas backdrops with 
+superimposed lacquered wooden cutouts which appear in 1964, like the Fine di 
+Dio, are closer to colored objects than to paintings. The Teatrini look like small 
+stages upon which silhouettes of trees and bushes lead their magic existence. We 
+shall refrain from an attempt to define them. Fontana himself always held that art 
+could not be explained. He saw it as a manifestation of human intelligence. 
+
+While Fontana did not wish to explain art, he nevertheless expressed himself 
+in many manifestos about ideas relating to new art forms. He sought verbal ex- 
+planations wherever visual means were inadequate. The theories he postulated 
+were meant for the future and transformed into creative acts only by subsequent 
+generations. "All depends upon ideas, upon the cut and the gesture" he said in 
+1966. When he proposed to show a single painting in one room, it was Fontana's 
+objective to completely realize an idea through his gesture. 
+
+As early as 1948 he wrote "art is eternal but not immortal." And "art dies but 
+is saved by gesture." He was aware that art was the hostage of matter and that 
+sub species eternitatis a millenium is but a moment. As a result he cared little 
+whether a work of art lived only for a moment or lasted two thousand years. Such 
+concepts, first expressed by the Dadaists, were new again and radical by 1948. 
+They already anticipated the art form of the Happening which did not appear for 
+another decade. 
+
+By 1947 Fontana spoke of Concetti or concepts, long before the notion of an 
+art of ideas or conceptual art gained currency. At a very early date Fontana 
+also took into consideration the creative opportunities presented by television. In 
+
+
+
+'" 
+
+
+
+195 2 5 when he read his Manifesto del movimento spaziale per la televisione, he 
+stated that "television is one of the long awaited means that will enable us to inte- 
+grate our conceptions." In 1948 he ventured that "Art no longer develops through 
+the use of stones and colors. A new art must make use of light and television- 
+techniques that can be transformed into art only by creative artists." The new 
+medium was then only in its infancy and the term "video," which today is common- 
+place in artist's circles, had not even been coined. Fontana, because he was himself 
+possessed of a far-ranging imagination, was acclaimed by a generation of young 
+artists as a seminal initiator of new creative concepts. This also explains the rele- 
+vance his work still retains. That he is, at the same time, considered a modern 
+classic is not inconsistent with such relevance, since in our era of short-lived 
+generations, artistic ideas succeed one another rapidly. 
+
+Fontana's oeuvre shines out in other respects as well. It is still wholly informed 
+by the serenity of a painterly vision in spite of all its revolutionary notions. Fontana 
+is one of the first artists since Malevich to pay homage to monochrome painting. All 
+of his first perforated paintings around 1949 are white, and it still seems appropriate 
+to note in passing how much an artist like Yves Klein owes to this new awareness of 
+monochrome which Fontana reintroduced into painting. In the 1950's it was hardly 
+possible to imagine a more rigorous asceticism than the reduction of pictorial 
+means expressed by Fontana when he made an incision on a monochromatic plane. 
+Implicit in this acesticism is a new grasp of painterly subtleties. As we know from 
+his photographic portraits, Fontana was a man of rare noblesse, a noblesse which 
+also characterized his paintings. This quality, all too rare in our time, is supported 
+by the detached objectivity of a sovereign spirit. 
+
+
+
+WORKS IN THE EXHIBITION 
+
+
+
+Numbers and letters following title refer to those given in 
+Enrico Crispolti and [an win der Marck, / ucio Fontana, 
+
+i vols., Brussels, La Conaissance, 1974. 
+
+
+
+i! 
+
+
+
+SCULPTURE (SCULTURE) 
+
+
+
+i Nude (Nudo) 
+26 SC 1. 1.926 
+
+Plaster, 6% x 8 X 4 x 5V2" (17.5 x 21 x 14 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+Figure at the Window (Figura alia Finestra) 
+?r SC 4. 193 1 
+
+Polychrome terra-cotta, 15% x 7V2 x 7%" 
+(39 x 19 x 20 cm.) 
+
+Collection Pollini, Milan 
+
+
+
+
+3 Black Figures (Figure Nere) 
+31SC7. 1931 
+
+Polychrome terra-cotta, 16% x 11% x 5" 
+(41 x 30 x 12.5 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+4 Bull (Toro) 
+31 SC 8. 193 1 
+
+Terra-cotta, 5% X7% x 3%" (15 x 20x9.5 cm -) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+5 The Pilots' Lovers (Le Amanti dei Pilot:) 
+31SC9. 1931 
+
+Polychrome terra-cotta, io 1 /^ x 15% x 5V2" 
+(26 x 40 x 14 cm.) 
+
+Lent by Galleria del Naviglio, Milan 
+
+
+
+
+
+M 
+
+
+
+6 Head of a Girl (Testa di Ragazza) 
+}i SC 12. 193 1 
+
+Polychrome terra-cotta, 15 x 11V2 * 7%" 
+(38 x 32 x 20 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+HF^ 
+
+
+
+
+
+L 
+
+
+
+- ,A 
+
+
+
+
+
+
+
+7 Tablet with Graffiti (Tavoletta Grafita) 
+31SC15. 1931 
+
+Polychrome plaster, 9 x 11%" (23 x 29 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+Tablet with Graffiti (Tavoletta Grafita) 
+31 SC 16. 193 1 
+
+Polychrome cement, 9 x 11%" (23 x 29 cm.) 
+
+Private Collection 
+
+
+
+
+
+
+
+
+■ 
+
+
+
+
+26 
+
+
+
+9 Tablet with Graffiti (Tavoletta Grafita) 
+31 SC 18. 1931 
+
+Polychrome cement, 9 x nVz" (-} x -8 cm.) 
+
+Private Collection, Vicenza, Italy 
+
+
+
+10 Tablet with Graffiti (Tavoletta Grafita) 
+31 SC 3. 1932 
+
+Polychrome cement, 9V2 * 11" (24 x 28 cm.) 
+
+Collection Carla Panicali, Rome 
+
+
+
+
+
+10 
+
+
+
+
+
+
+The Guests (he Ospiti) 
+
+33 SC 3- 1933 
+
+Polychrome plaster, 23% x 33 x 15%" (60 x 84 x 40 cm.) 
+
+Lent by Studio B.B.P.R., Milan 
+
+
+
+
+11 
+
+
+
+18 
+
+
+
+1 1 Seated Woman (Signorina Sednta) 
+34 SC i. 1934 
+
+Polychrome bronze, 32V2 x 33V2 x 2.7V2" 
+(82 x 85 x 70 cm.) 
+
+Collection Civica Galleria d'Arte, Milan 
+
+
+
+
+11 
+
+
+
+
+
+
+13 Abstract Sculpture (Scultura Astratta) 
+34SC6. 1934 
+
+Polychrome cement, 15% x 11" (40 x 28 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+14 Abstract Sculpture (Scultura Astratta) 
+34 SC8. 1934 
+
+Polychrome cement, 11% x 12%" (29 x 31.5 cm. 
+
+Lent by Galleria dell'Ariete, Milan 
+
+
+
+
+
+14 
+
+
+
+13 
+
+
+
+30 
+
+
+
+1 5 Conversation (Conversazione) 
+14 SC 11. 1934 
+
+Gilded bronze, i6%" h. (68 cm.) 
+
+Private Collection, Milan 
+
+
+
+
+*5 
+
+
+
+|1 
+
+
+
+16 Abstract Sculpture (Scultura Astratta) 
+34 SC 13.1934 
+
+Painted bronze, 2514 x 17%" (64 x 45 cm.) 
+
+Collection Galleria Civica d'Arte Moderna, Turin 
+
+17 Abstract Sculpture (Scultura Astratta) 
+34 SC 17. 1934 
+
+Polychrome cement and iron, 23 1 /! x 19%" (59 x 50 cm.) 
+
+Collection Carta Panicali, Rome 
+
+
+
+
+
+17 
+
+
+
+16 
+
+
+
+31 
+
+
+
+1 8 Relief (Rilievo) 
+
+34 SC 22. 1914 
+
+Polychrome cement, io\m x ii"lr\ :S un. 
+Collection Luigi Veronesi, Milan 
+
+19 Abstract Sculpture (Sadturj Astr.itta) 
+I4SC26. 1934 
+
+Polychrome cement, 11 x 7'/k" (18 x 18 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+
+19 
+
+
+
+
+
+
+
+20 Abstract Sculpture (Scultura Astratta) 
+34 SC 29. 1934 
+
+Iron, 13%" h. (35 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+21 Spatial Conception (Concetto Spaziale) 
+57 SC 3. 1957 
+
+Iron, 51V4" h. (130 cm.) 
+
+Private Collection, Turin 
+
+
+
+20 
+
+
+
+
+34 
+
+
+
+Spatial Conception (Concetto Spaziale) 
+58SC1. 1958 
+
+Iron, 95%" h. (243 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+11 
+
+
+
+M 
+
+
+
+HOLES (BUCHI) 
+
+
+
+23 Spatial Conception (Concetto Spaziale) 
+49 B 3. 1949 
+
+Oil on paper mounted on canvas, 39% x 39%" 
+(100 x 100 cm.) 
+
+Collection Carla Panicali, Rome 
+
+
+
+24 Spatial Conception (Concetto Spaziale) 
+49/50 B 10. 1949-50 
+
+Oil on canvas, 4314 x 42%" (no x 109 cm.) 
+
+Collection Kunsthaus Zurich 
+
+
+
+r: 
+
+
+
+' 9 
+
+
+
+&gt;:•{:■ :■ 
+
+
+
+.'*'•• 
+
+
+
+1 
+
+
+
+* • 1 ' 
+
+
+
+
+
+
+*3 
+
+
+
+14 
+
+
+
+36 
+
+
+
+25 Spatial Conception (Concetto Spaziale) 
+jo B 6. 1950 
+
+Oil on canvas, 3 1 % x 25 &gt;4 " (81 x 64 cm.) 
+
+Collection Milena Milani, Savona 
+
+26 Spatial Conception (Concetto Spaziale) 
+ji B 3. 1951 
+
+Oil on canvas, 27% x 39V6" (69.5 x 99.5 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+• •• 
+. '• ♦ • 
+
+
+
+» 
+♦. 
+
+♦ ♦ 
+
+
+
+
+, 
+
+
+
+*5 
+
+
+
+♦ ♦ • 
+
+
+
+26 
+
+
+
+&gt;7 
+
+
+
+27 Spatial Conception (Concetto Spaziale) 
+Si By. 195 1 
+
+Oil on canvas, 33V2 x 25%" (85 x 65 cm.) 
+
+Collection Hannelore B. Schulhof 
+
+
+
+
+27 
+
+
+
+38 
+
+
+
+Spatial Conception (Concetto Spaziale) 
+51 B 17. 1951 
+
+Oil with sand on canvas, 23% x 23 '/i" (60 x 59 cm. 
+
+Collection Tcresita Fontana, Milan 
+
+
+
+
+28 
+
+
+
+
+
+
+2.9 Spatial Conception (Concetto Spaziale) 
+J1/52B7. 1951-52 
+
+Oil with spangles on paper mounted on canvas, 
+30% x3o%" (78 x78 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+30 Spatial Conception (Concetto Spaziale) 
+51I 5Z B 8. 1951-52 
+
+Oil with spangles on paper mounted on canvas, 
+3014 X30I4" (77 x77 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+
+
+' . 
+
+
+
+
+
+fft i , 
+
+
+
+.,,.., 
+
+
+
+* . * « '■ • 
+
+
+
+
+
+
+2-9 
+
+
+
+30 
+
+
+
+40 
+
+
+
+3 1 Spatial Conception (Concetto Spaziale) 
+51/52.B9. 1951-52- 
+
+Oil on paper mounted on canvas, 31V&amp; x 31%" 
+(79 x 79 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+31 Spatial Conception (Concetto Spaziale) 
+Si B 3. 1952. 
+
+Oil with spangles on cardboard, 31V2 x 31V2" 
+(80 x 80 cm.) 
+
+Lent by Studio Santandrea, Milan 
+
+
+
+
+
+
+* • ♦ - 
+
+
+
+
+31 
+
+
+
+31 
+
+
+
+33 Spatial Conception (Concetto Spaziale) 
+52 B 9. 1952 
+
+Oil with spangles on paper mounted on canvas, 
+31I/2X31V2" (80x80 cm.) 
+Collection Teresita Fontana, Milan 
+
+
+
+
+33 
+
+
+
+42- 
+
+
+
+34 Spatial Conception (Concetto Spaziale) 
+52 B 17. 1952. 
+
+Oil on canvas, 19% x 19%" (50 x 50 cm.) 
+
+Collection Enrico Lucci, Biella 
+
+
+
+
+
+• •. 
+
+
+
+
+
+
+
+
+
+- 
+
+
+
+» 
+
+
+
+* ~&gt; 
+
+
+
+
+
+
+34 
+
+
+
+« 
+
+
+
+35 Spatial Conception, Trinity (Concetto Spaziale, 
+La Trinita) 
+66 B 8, 9, io. 1966 
+
+Water-based paint on canvas with lacquered wood 
+frame, three panels, each 8o|4 x 80^" (203 x 203 cm. 
+
+Lent by Marlborough Galleria d'Arte, Rome 
+
+
+
+35 
+
+
+
+44 
+
+
+
+
+4^ 
+
+
+
+STONES (PIETRE) 
+
+
+
+36 Spatial Conception (Concetto Spaziale) 
+54 P 9- 1954 
+
+Oil with glass on canvas, 2314 x Z7%" (59 x 69.5 cm.) 
+Collection Mr. and Mrs. Berlingieri, Rome 
+
+
+
+
+46 
+
+
+
+37 Spatial Conception (Concetto Spaziale) 
+SfPzo. 1955 
+
+Oil with glass on canvas, 4914 x 3314" (iz-5 x 85 cm.) 
+
+Collection Stedelijk Van Abbemuseum, Eindhoven, The 
+Netherlands 
+
+
+
+
+
+
+
+V 
+
+
+
+
+» 
+
+
+►• 
+
+
+1 
+
+
+
+
+V 
+
+•&lt; .^ 
+I « 
+
+
+W- 
+
+
+
+
+• 
+
+
+• 
+
+
+- 
+
+
+• » 
+
+
+
+
+
+
+' V' '' 
+
+
+• 
+
+
+Jt' 
+
+
+
+
+
+
+'•*• 
+
+
+
+
+» 
+
+
+
+
+
+
+■ * • • 
+
+
+fi 
+
+
+
+
+
+
+
+
+: • v. 
+v &gt; :-'•••■ 
+
+
+./• 
+
+
+*. 
+
+►* 
+
+
+
+
+• 
+
+
+»* 
+
+
+^ 
+
+
+
+
+
+
+i 
+
+
+VfSh 
+
+
+. 
+
+
+k 
+
+
+
+
+&lt;*• 
+
+
+• 
+
+
+'•.'' ^ 
+
+* 
+
+
+v • 
+
+
+
+37 
+
+
+
+47 
+
+
+
+38 Spatial Conception (Concetto Spaziale) 
+55P2S. 1955 
+
+Oil, sand and glass on wood, 69V4 x 49%" 
+(176 x 126 cm.) 
+
+Collection Serge De Bloe, Brussels 
+
+
+
+
+38 
+
+
+
+48 
+
+
+
+39 Spatial Conception (Concetto Spaziale) 
+55 P 29. 1955 
+
+Oil with glass on canvas, 55^ x 31 •/&gt;" (140 x 80 cm.) 
+
+Private Collection, Milan 
+
+
+
+40 Spatul ( 'onception ( 'oncetto Spaziale) 
+S5?37. 195 j 
+
+Oil with glass on canvas, 3i'/&gt; x 2.5%" (80 x 65 cm.) 
+
+Lent by Gallcria Scno, Milan 
+
+
+
+
+
+40 
+
+
+
+39 
+
+
+
+
+
+
+BAROQUE (BAROCCHI 
+
+
+
+41 Spatial Conception (Concetto Spaziale) 
+56 BA 2. 1956 
+
+Oil with spangles on canvas, 39% x 53V2" 
+(100 x 136 cm.) 
+
+Civica Galleria d'Arte Moderna, 
+Collection Boschi, Milan 
+
+
+
+
+4i 
+
+
+
+50 
+
+
+
+42. Spatial Conception (Concetto Spaziale) 
+^6 BA 6. 1956 
+
+Oil with spangles on canvas, 38% x 30%" (98 x 78 cm.) 
+
+Private Collection, Europe 
+
+
+
+
+41 
+
+
+
+Jl 
+
+
+
+43 Spatial Conception, Crucifixion (Concetto Spaziale, 
+Crocifissione) 
+56 BA 9. 1956 
+
+Oil with glass on wood, 49% x 68%" (125 x 175 cm.) 
+Civica Galleria d'Arte Moderna, 
+
+Collection Boschi, Milan 
+
+
+
+
+
+
+
+43 
+
+
+
+52. 
+
+
+
+44 Spatial Conception, Golgotha (Concetto Spaziale, 
+11 Golgotha) 
+s6 BA 10. 1956 
+
+Oil with glass on wood, 68% x 49'/$" (175 x 125 cm. 
+
+Civica Galleria d'Arte Moderna, 
+Collection Boschi, Milan 
+
+
+
+
+44 
+
+
+
+J3 
+
+
+
+45 Spatial Conception, Inferno (Concetto Spaziale, 
+L'lnferno) 
+56 BA 13. 1956 
+
+Oil with glass on canvas, 47% x 36 5 /g" (izi x 93 cm. 
+Private Collection 
+
+
+
+
+45 
+
+
+
+54 
+
+
+
+46 Spatial Conception, Paradise (Concetto Spaziale, 
+II Paradiso) 
+j6 BA 14. 1956 
+
+Oil with glass on canvas, 47V4 x 35%" (120x91 cm.) 
+
+Collection Laurini 
+
+
+
+\j£i 
+
+
+
+
+
+
+
+
+
+
+4« 
+
+
+
+(j 
+
+
+
+47 Spatial Conception (Concetto Spaziale) 
+57 BA 35. 1957 
+
+Oil with spangles on canvas, 49VS x 35V2" (115 x 9° cm. 
+Private Collection 
+
+
+
+
+47 
+
+
+
+56 
+
+
+
+48 Spatial Conception (Concetto Spaziale) 
+S7BA47. 1957 
+
+Oil with spangles on canvas, 45% x 35 '/&gt;" 
+(116 x 90 cm.) 
+
+Collection Hannelorc B. Schulhof 
+
+
+
+49 Spatial Conception (Concetto Spaziale) 
+1957 
+Oil, sand, glass and spangles on canvas, 45 % \ $5' 
+
+(116 x 89 cm.) 
+
+Lent by Galleria Nuovo Sagittario, Milan 
+
+
+
+
+
+48 
+
+
+
+49 
+
+
+
+17 
+
+
+
+CHALKS (GESSI) 
+
+
+
+50 Spatial Conception (Concetto Spaziale) 
+54 G 3- 1954 
+
+Pastel on canvas, 39% x 2.7V&amp;" (100 x 69 cm. 
+Collection Teresita Fontana, Milan 
+
+
+
+5 1 Spatial Conception (Concetto Spaziale) 
+54 G 6. 1954 
+
+Pastel on canvas, 31V2 x 23%" (80 x 60 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+
+5° 
+
+
+
+5i 
+
+
+
+58 
+
+
+
+52 Spatial Conception (Concetto Spaziale) 
+56 G 4. 1956 
+
+Pastel on canvas, 25% x 31%" (65 x 81 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+» « *■ 
+
+
+
+►J 
+
+
+
+52- 
+
+
+
+r 
+
+
+
+■W 1 -. 
+
+
+
+&lt;9 
+
+
+
+5 3 Spatial Conception (Concetto Spaziale). 
+1956 
+
+Pastel on canvas, 39^/8 x 3i 7 /%" (100 x 81 cm.) 
+Lent bv Galleria del Naviglio, Milan 
+
+
+
+
+S3 
+
+
+
+60 
+
+
+
+54 Spatial Conception (Concetto Spaziale) 
+57 G 6. 1957 
+
+Pastel on canvas, 31V2 x 23 5 /fi" (80.5 x 60 cm.) 
+Collection Mario Bardini, Varigotti 
+
+
+
+
+
+
+
+54 
+
+
+
+... 
+
+
+
+
+55 
+
+
+
+
+56 
+
+
+
+6z 
+
+
+
+55 Spatial Conception (Concetto Spaziale) 
+57G19. 1957 
+
+Pastel with collage on canvas, 41 % x 49% " 
+(105 x 125 cm.) 
+
+Civica Gallcria d'Arte Moderna, 
+Collection Boschi, Milan 
+
+
+
+57 Spatial Conception (Concetto Spaziale) 
+5 8G 7 . 1958 
+
+Aniline and pencil on canvas, 38y 8 x 5i'/ 8 " (98 x 130 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+56 Spatial Conception (Concetto Spaziale) 
+57 G 23. 1957 
+
+Pastel with collage on canvas, 44% x 65" (114 x 165 cm.) 
+
+Civica Galleria d'Arte Moderna, 
+Collection Boschi, Milan 
+
+
+
+
+
+
+57 
+
+
+
+63 
+
+
+
+INKS (INCHIOSTRI 
+
+
+
+58 Spatial Conception (Concetto Spaziale) 
+57 1 4- 1957 
+
+Aniline and collage on canvas, 58% x 59" (149 x 150 cm.) 
+Collection Teresita Fontana, Milan 
+
+
+
+
+58 
+
+
+
+64 
+
+
+
+59 Spatial Conception (Concetto Spaziale) 
+57 ' l 5- 1957 
+
+Aniline and collage on canvas, 59 x 59" (150 x 150 cm.) 
+Collection Teresita Fontana, Milan 
+
+
+
+
+
+59 
+
+
+
+
+
+
+60 Spatial Conception (Concetto Spaziale) 
+5 8l 7 . 1958 
+
+Aniline with ink and collage on canvas, 53% * 38%" 
+(135 x 98 cm). 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+
+U 
+
+
+
+' I 
+
+
+
+Li 
+
+
+
+V 
+
+
+
+60 
+
+
+
+66 
+
+
+
+61 Spatial Conception (Concetto Spaziale) 
+58 1 8. 1958 
+
+Aniline with ink and collage on canvas, 65 x 50" 
+(165 x 127 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+61 
+
+
+
+67 
+
+
+
+6z Spatial Conception (Concetto Spaziale) 
+58 1 44. 1958 
+
+Aniline with pencil and collage on canvas, 31V2 x 39%" 
+(80 x 100 cm.) 
+
+Collection Raimondo Bariatti, Milan 
+
+
+
+61 
+
+
+
+68 
+
+
+
+63 Spatial Conception (Concetto Spaziale). 
+1958 
+
+Aniline and collage on canvas, 59 x 59" (150 x 150 cm. 
+
+Collection Louisiana Museum, Humlebaek, Denmark 
+
+
+
+
+
+
+
+PAPERS (carte; 
+
+
+
+64 Spatial Conception (Concetto Spaziale) 
+1957? 
+
+Aniline, ink and pencil on paper mounted on canvas, 
+78 7 / 8 x 55" (200.4 x 139-7 cm.) 
+
+Collection The Museum of Modern Art, New York, 
+Gift of Morton G. Neumann, 1976 
+
+
+
+/ 
+
+
+
+
+
+
+
+
+
+r 
+
+
+
+64 
+
+
+
+70 
+
+
+
+65 Spatial Conception (Concetto Spaziale) 
+58 CA 11. 1958 
+
+Aniline on paper mounted on canvas, 39% x 39%" 
+(100 x 100 cm.) 
+
+Collection Fornaciari-Rom.i 
+
+
+
+
+65 
+
+
+
+
+
+
+66 Spatial Conception (Concetto Spaziale) 
+58/59 CA 2. 1958-59 
+
+Aniline on paper mounted on canvas, 31% x 39%" 
+(81 x 100 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+66 
+
+
+
+71 
+
+
+
+6j Spatial Conception (Concetto Spaziale) 
+58/59 CA 4. 1958-59 
+
+Aniline on paper mounted on canvas, },6V\ x 47% 
+(92 x 111 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+67 
+
+
+
+73 
+
+
+
+OILS (OLII) 
+
+
+
+68 Spatial Conception (Concetto Spaziale) 
+60 O 4j. i960 
+
+Oil on canvas, 59 x 59" (150 x 150 cm.) 
+
+Collection Musee National d'Art Moderne, Paris CNAC-gp 
+
+
+
+
+
+// 
+
+
+
+l 
+
+
+
+
+
+
+? 
+
+u 
+
+
+
+B*.l K ' . 
+
+
+
+
+
+
+&lt;r 5f*' 
+
+
+
+68 
+
+
+
+74 
+
+
+
+69 Spatial Conception, In the Piazza S. Marco by Night 
+with Teresita 
+
+(Concetto Spaziale, In Piazza S. Marco di Notte 
+con Teresita) 
+6 1 O &gt;-/. 1 1)6 1 
+
+Oil with glass on canvas, 59 x 59" (150 x 150 cm.) 
+
+Private Collection 
+
+
+
+i v.. 
+
+
+i v , 
+
+
+. . -. ■ 
+
+
+
+
+1 
+
+
+- - 
+
+
+L**" .jj 
+
+
+
+
+
+
+
+
+* 
+
+
+C 
+
+
+•■ ''''. 
+
+
+
+
+
+
+
+
+
+
+
+
+jFrnBi 
+
+
+'1 
+
+
+* 
+
+
+
+
+.-, &lt; '• 
+
+
+
+
+t 
+
+4 
+
+
+
+
+
+
+t 
+
+
+1 
+
+
+♦ ; • 
+
+
+
+
+' 
+
+
+
+
+.A 4 ' 
+
+
+
+
+
+
+1 w 
+
+
+
+
+
+
+j ■ 
+
+
+' T 
+
+
+• "• 
+
+
+
+
+
+
+■ *"i 
+
+
+1 f . 
+
+
+
+
+" 
+
+
+« 
+
+
+
+
+: "? 
+
+
+
+
+— •« 
+
+
+r 
+
+
+'' *-. * 
+
+
+w 
+
+
+
+
+
+
+^ ^ 
+
+
+1 
+
+
+.« 
+
+
+« 
+
+
+
+
+
+
+-; 
+
+
+! 
+
+
+
+
+- &gt; 
+
+
+
+
+4 
+
+
+^ ^ 
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+• . 
+
+
+(1 
+
+
+
+
+':• J, 
+
+
+r'- _ \ 
+
+
+»; 
+
+
+
+
+
+
+
+
+. _if- -. k &gt;i:- .. 
+
+
+
+
+^^^^^^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+69 
+
+
+
+7J 
+
+
+
+70 Spatial Conception, Venice Moon (Concetto Spaziale, 
+Luna a Venezia) 
+61 O 57. 1961 
+
+Oil with glass and stones on canvas, 59 x 59" 
+(150 x 150 cm.) 
+
+Collection Mario Gori, Milan 
+
+
+
+
+70 
+
+
+
+76 
+
+
+
+71 Spatial Conception (Concetto Spaziale) 
+62 O 26. 1962 
+
+Oil on canvas, 51% x 38 1 /:" (131 x 97 cm.) 
+
+Private Collection, Europe 
+
+
+
+I 
+
+
+
+71 
+
+
+
+77 
+
+
+
+72 Spatial Conception (Concetto Spaziale) 
+62 O 35. 1962 
+
+Oil on canvas, 57^ x 44%" (146 x 114 cm.) 
+
+Collection Francesco Ridolfi 
+
+
+
+
+7i 
+
+
+
+78 
+
+
+
+73 Spatial Conception (Concetto Spaziale) 
+62 O 47. 1962 
+
+Oil on canvas, 3614 x 38%" (92. x 73 cm.) 
+
+Collection Jan and Ingeborg van der Marck, 
+West Lebanon, New Hampshire 
+
+
+
+
+
+
+
+; ^vt 
+
+
+
+'. 
+
+
+
+73 
+
+
+
+
+
+
+CUTS (TAGLI) 
+
+
+
+74 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+s8T 2. 1958 
+
+Aniline on canvas, 38 5 /g x 53V&amp;" (98 x 135 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+74 
+
+
+
+80 
+
+
+
+75 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+58 T 3. 1958 
+
+Aniline on canvas, 39 3 /4 xsi'/s" (ioox 130 cm.) 
+Collection Teresita Fontana, Milan 
+
+
+
+
+75 
+
+
+
+
+
+
+j6 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+
+59 T 133- 1959 
+
+Water-based paint on canvas, 49% x 98%" 
+(126 x 250 cm.) 
+
+Collection The Solomon R. Guggenheim Museum, New York; 
+Gift, Teresita Fontana, Milan 
+
+
+
+
+76 
+
+
+
+82 
+
+
+
+77 Spatial Conception, Expectations (Concetto Spaziale 
+Attese) 
+61 T 22. 1961 
+
+Water-based paint on canvas, 34% x 23%" 
+(80.8 x 60 cm.) 
+
+Collection Kunstmuseum Bern 
+
+
+
+
+77 
+
+
+
+
+
+
+78 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+62 T 7. 1962 
+
+Oil on canvas, 38I/4 x ^iVs" (97 x 130 cm.) 
+
+Private Collection, Milan 
+
+
+
+
+78 
+
+
+
+84 
+
+
+
+79 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+63 T 4. 1963 
+
+Water-based paint on canvas, 21V2 x 18" (55 x 46 cm.) 
+
+Collection Carlo F. Bilotti, New York 
+
+
+
+79 
+
+
+
+80 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+6$ T 43. 1965 
+
+Water-based paint on canvas with lacquered wood 
+
+frame, 57^8 X45V4" (145 x 115 cm.) 
+
+Collection Ambassador and Mrs. Piero Vinci, New York 
+
+
+
+
+80 
+
+
+
+86 
+
+
+
+Spatial Conception, Expectation (Concetto Spaziale 
+
+Attesa) 
+
+65 T 48. 196 j- 
+
+Water-based paint on canvas with lacquered wood frame, 
+76V4 x si 1 '," (i9S x 130cm.) 
+
+Collection Kunsthaus Zurich 
+
+Not in exhibition 
+
+
+
+
+81 
+
+
+
+
+
+
+8i Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+65 T 78. 1965 
+
+Water-based paint on canvas, zi l / s x 18" (55 x 46 cm.) 
+
+Collection Carlo F. Bilotti, New York 
+
+
+
+
+82. 
+
+
+
+
+
+
+88 
+
+
+
+83 Spatial Conception, Expectation (Concetto Spaziale, 
+Attesa) 
+66 T 39. 1966 
+
+Water-based paint on canvas, 64V2 x 44%" 
+(164 x 114 cm.) 
+
+Collection Stedelijk Museum, Amsterdam 
+
+
+
+83 
+
+
+
+
+
+
+84 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+66 T ji. 1966 
+
+Water-based paint on canvas, 45^ x 74%" 
+(115 x 190 cm.) 
+
+Private Collection 
+
+
+
+
+84 
+
+
+
+90 
+
+
+
+?5 Spiitiiil Conception, Expectations (Concetto Spaziale, 
+Attese) 
+1966 
+
+Water-based paint on canvas, 40V8 x 32%" (ioix 83 cm.) 
+
+Collection Louisiana Museum, Humlebaek, Denmark 
+
+
+
+
+8S 
+
+
+
+
+
+
+86 Spatial Conception, Expectations (Concetto Spaziale, 
+Attese) 
+67 T 47- 1967 
+
+Water-based paint on canvas, 21V2 x 18" (55 x 46 cm.) 
+Collection Carlo F. Bilotti, New York 
+
+
+
+
+86 
+
+
+
+92. 
+
+
+
+
+
+
+87 Spatial Conception, Expectation (Concetto Spaziale, 
+Attesa) 
+68 T 105. 1968 
+
+Water-based paint on canvas, n 1 /? x 18" (55 x 46 cm. 
+Collection Carlo F. Bilotti, New York 
+
+
+
+
+87 
+
+
+
+
+
+
+QUANTA 88 Spatial Conception, I Quanta (Concetto Spaziale, 
+
+1 Quanta) 
+60 Q 1. i960 
+
+Water-based paint on canvas, nine freely arranged 
+elements ranging in size from 20 x 9V2" (50.8 x 24 cm.) to 
+24V2 x 20%" (62.3 x 5 1.1 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+94 
+
+
+
+
+88 
+
+
+
+
+
+
+NATURE (NATURE) 
+
+
+
+89 Spatial Conception (Concetto Spaziale) 
+S9/60 N 18. 1959-60 
+
+Bronze, 38 14" d. (97 cm.) 
+
+Cast no. 1/3 
+
+Collection Joseph H. Hirshhorn 
+
+
+
+90 Spatial Conception (Concetto Spaziale) 
+59/60 N 28. 1959-60 
+
+Bronze, 36'/^" d. (92 cm.) 
+
+Cast no. 1/3 
+
+Collection Joseph H. Hirshhorn 
+
+
+
+96 
+
+
+
+
+J^SSJki 
+
+
+
+
+
+
+
+
+
+89-93 
+
+
+
+
+
+
+91 Spatial Conception (Concetto Spaziale) 
+59/60 N 29. 1959-60 
+
+Bronze, 36*4 " d. (92 cm.) 
+
+Cast no. 1/3 
+
+Collection Joseph H. Hirshhorn 
+
+
+
+93 Spatial Conception (Concetto Spaziale) 
+59/60 N 33. 1959-60 
+
+Bronze, 43%" d. (no cm.) 
+
+Cast no. 1/3 
+
+Collection Joseph H. Hirshhorn 
+
+
+
+92 Spatial Conception (Concetto Spaziale) 
+59/60 N 30. 1959-60 
+
+Bronze, 40 Vk" d. (102 cm.) 
+
+Cast no. 1/3 
+
+Collection Joseph H. Hirshhorn 
+
+
+
+
+IN » *..-*■ " * f. 
+
+
+
+L * tgu» , ■ ***:• 
+
+
+
+
+
+
+* j: 
+
+
+
+.»- 
+
+
+
+94 Spatial Conception (Concetto Spaziale) 
+1959-60 
+
+Painted terra-cotta, 8% x 8V 2 x 8%" 
+
+(2.2.2. x 21.5 x 2.Z.2. cm.) 
+
+Private Collection 
+
+
+
+
+94 
+
+
+
+98 
+
+
+
+METALS (METALLI) 
+
+
+
+95 
+
+
+
+Spatial Conception, Neic York S (Concetto Spaxiale, 
+New York 8) 
+62 M£j. 1962 
+
+Brass, 24 v , x 24 v ," (63 x 63 cm.) 
+
+Collection Zaira Mis, Brussels 
+
+
+
+
+95 
+
+
+
+
+
+
+96 Spatial Conception, New York 2j (Concetto Spaziale, 
+New York zj) 
+61 ME 16. 1962 
+
+Brass, 38 x 25 1 / 4 " (96.5 x 64 cm.) 
+
+Collection Washington University Gallery of Art, 
+St. Louis 
+
+
+
+
+CERAMIC (CERAMICA) 
+
+
+
+97 S/iiituI ( Conception \ ( Concetto Spaziale) 
+
+Ceramic, 9x9 x n" 12.9 \ 2.2.9 \ 8 cm.) 
+
+Collection Jan and Ingeborg van dcr Marck, 
+West Lebanon, New Hampshire 
+
+
+
+
+97 
+
+
+
+101 
+
+
+
+GOD IS DEAD (FINE DI DIO) 
+
+
+
+Green Oval Conception (Concetto Ovale Verde) 
+63 FD 9. 1963 
+
+Oil on canvas, 70 x 48%" (178 x 123 cm.) 
+
+Collection Kunstmuseum Diisseldorf, Zero-Raum 
+
+
+
+
+101 
+
+
+
+99 Oval Conception (Concetto Ovale) 
+6? FD 20. 1963 
+
+Oil on canvas, 70 x 48%" (178 x 123 cm.) 
+
+Collection Serge De Bloe, Brussels 
+
+
+
+100 Oval Conception (Concetto Ovale) 
+63 FD 27. 1963 
+
+Oil with spangles on canvas, 70% x 48%" (180 x 114 cm.) 
+
+Private Collection 
+
+
+
+
+• H 
+
+
+
+
+
+
+
+99 
+
+
+
+100 
+
+
+
+
+
+
+
+SMALL THEATERS (TEATRINI) 
+
+
+
+Spatial Conception (Concetto Spaziale) 
+64/65 TE 2. 1964-65 
+
+Water-based paint on canvas with lacquered wood frame 
+
+4zy 8 x 4814" (107.5 x 122.5 cm.) 
+
+Lent by Acquavella Galleries, Inc., New York 
+
+
+
+
+104 
+
+
+
+Spatial Conception (Concetto Spaziale) 
+65 TE jo. 1965 
+
+Water-based paint on canvas with lacquered wood 
+frame, 51% x 50%" (130 x 128 cm.) 
+
+Private Collection 
+
+
+
+
+102 
+
+
+
+
+
+
+103 Spatial Conception (Concetto Spaziale) 
+65 TE 24. 1965 
+
+Water-based paint on canvas with lacquered wood 
+frame, 79% x 60^" (102. x 153 cm.) 
+
+Collection Teresita Fontana, Milan 
+
+
+
+
+103 
+
+
+
+106 
+
+
+
+io4 Spatial Conception (Concetto Spaziale) 
+65TE39. 1965 
+
+Water-based paint on canvas with lacquered wood 
+frame, 68V2 x 68V2" (174 x 174 cm.) 
+Private Collection 
+
+
+
+105 Spatial Conception, Man in the ( 'osmos ( 'om etto Spaziale, 
+UUomo nel Cosmo) 
+
+65 TE &lt;&gt;o. i9f&gt;s 
+
+Water-based paint on canvas w it h lacquered wood 
+frame, 59 x 59" (150 x 150 cm.) 
+
+Collection Gaslini, Milan 
+
+
+
+■1.; 
+&gt; 
+
+
+
+\ 
+
+
+
+\ 
+
+
+
+
+
+
+104 
+
+
+
+) 
+
+
+
+V. 
+
+•^ ^ - - -1 
+
+
+
+
+105 
+
+
+
+
+
+
+CHRONOLOGY 
+
+
+
+Born February 19 in Rosario de Santa Fe, Argentina, to 
+Luigi Fontana, a Milanese sculptor, and Argentinian 
+mother. 
+
+1905 
+
+Moves to Milan with father; enters elementary school, 
+
+later is apprenticed to an artist. 
+
+1917-18 
+
+World War I military service, during which he is 
+
+wounded. 
+
+1922 
+
+Returns to Rosario de Santa Fe, where he works as 
+
+sculptor in father's commercial studio. 
+
+1924 
+
+Establishes his own studio; intermittently works with 
+
+father. 
+
+1926 
+
+First exhibition, group show at Salon Nexus, Rosario 
+
+de Santa Fe. 
+
+1928 
+
+To Milan again; enrolls at Accademia di Brera, studies 
+there with Symbolist sculptor Adolfo Wildt. 
+
+1930 
+
+First one man show, Galleria del Milione, Milan. Two 
+sculptures exhibited at Venice Biennale. Black Man 
+(Uotfio Nero), shown at I" Mostra Interregional , Flor- 
+ence, marks beginning of his personal sculptural style. 
+Meets Teresita Rasini, his future wife. 
+
+193' 
+
+In addition to executing numerous terra-cotta reliefs of 
+dematerializcd human silhouettes, incises cement tab- 
+lets in free and abstract manner. 
+
+1935 
+
+With Fausto Melotti and others joins Abstraction- 
+
+( '.rcation group in Paris. 
+
+1936 
+
+Works as ceramicist at Tullio Mazotti's Tullio d'Albi- 
+
+sola ceramic works, Albisola. 
+
+
+
+1937 
+
+Makes series of open-fire ceramics at Sevres factory, 
+Paris. First one man exhibition in Paris, ceramics show 
+at Galerie Jeanne Bucher-Myrbor. Meets Miro, Tzara, 
+Brancusi in Paris. 
+
+1939 
+
+Resettles in Argentina at end of year. 
+
+1940 
+
+Works mainly in Buenos Aires, but also at Rosario de 
+Santa Fe, La Plata, Cordoba, Mar del Plata, Pergamino. 
+From 1940-46 his sculpture is primarily figurative, but 
+expressionist elements appear with increasing frequency. 
+
+1946 
+
+Establishes Academia d'Altamira art school in Buenos 
+Aires with Jorge Romero Brest. Publication of Mani- 
+festo Blanco, conceived by a group of his students and 
+young artists. Although he strongly influenced concep- 
+tion of Manifesto , Fontana did not sign it. 
+
+1947 
+
+Returns to Italy in April. Settles in Milan, establishes 
+contact with group of young artists. Frequent discus- 
+sions lead to publication of 1° Manifesto Spaziale, May, 
+signed by Fontana and others. 
+
+1948 
+
+Signs //" Manifesto Spaziale with others. 
+
+1949 
+
+First Bucbi (Holes), punctured canvases. Designs spatial 
+environment at Galleria del Naviglio, Milan. February 
+10, symposium on this environment held at a weekly 
+meeting of Germana Marucelli's Jendi circle. Partici- 
+pates in Twentieth-Century Italian Art, The Museum of 
+Modern Art, New York. 
+
+1950 
+
+Increasingly concerned with ideas of space in painting 
+and experiments with Bucbi, piercing paper and canvas 
+to make spatial screens. 111° Manifesto Spaziale, signed 
+by Fontana and others, published. 
+
+
+
+108 
+
+
+
+1951 
+
+Begins Pietre (Stones) series in which he incorporates 
+"stones," which are fragments of Murano glass, into 
+his canvases. Participates in competition for commission 
+for fifth portal of Milan Cathedral. Entries exhibited at 
+IX Milan Triennale, although doors were never ex- 
+ecuted. Also installs environment of neon tubing in 
+ceiling with indirect lighting at Triennale; presents his 
+Manifesto Tecnico there. 
+
+1951 
+
+Receives first prize ex aequo with Luciano Minguzzi 
+for Milan Cathedral door. Manifesto del movimento 
+spaziale per la televisione published. 
+
+1954 
+
+First Gessi (Chalks) with holes, sometimes with collage, 
+
+on canvas. 
+
+1956 
+
+Begins Inchiostri (Inks) made of aniline, sometimes with 
+
+collage and/or holes. 
+
+1958 
+
+First Tagli (Cuts), which he calls Attese (expectations or 
+
+hopes). One man exhibition, XXIX Venice Biennale. 
+
+1959 
+
+First Quanta, oval or polygonal canvases used in freely 
+arranged groups. During summer at Albisola begins 
+Nature terra-cottas. Participates in Documenta II, Kas- 
+sel; V Sao Paolo Bienal. 
+
+1960-61 
+
+Between 1960-61 begins series of Olii (Oils). Large- 
+scale oils dedicated to Venice; these shown in 196 1 at 
+Arte e Contemplazione, Palazzo Grassi, Venice, then in 
+New York at Martha Jackson Gallery. During visit to 
+New York on occasion of this exhibition conceives 
+cycle devoted to the American metropolis, first as paint- 
+ings, then after his return to Milan in Metalli, incised, 
+cut and perforated sheet metal. 
+
+1964-66 
+
+Teatrini (Small Theaters) series of pierced canvases with 
+
+superimposed wooden elements. 
+
+
+
+1966 
+
+Designs spatial environment for retrospective at Walker 
+Art Center, Minneapolis. Costumes and sets for Petras- 
+si's opera Ritratto di Don Chisciotte, La Scala, Milan. 
+
+1967 
+
+Conceives three space environments: Stedelijk Museum, 
+Amsterdam; exhibition Lo Spazio dell'lmmagine, 
+Foligno; Galleria del Deposito, Genoa. 
+
+1968 
+
+Moves to Comabbio where he restores his family house, 
+
+in which he builds new studio. September 7 dies at 
+
+Comabbio. 
+
+
+
+
+
+
+SELECTED BIBLIOGRAPHY 
+
+
+
+BY THE ARTIST 
+
+Prima mostra collettiva di arte astratta italiana. Turin, 
+March 1935 
+
+Introduction signed by Fontana, Oreste Bogliardi, Cris- 
+toforo De Amicis, Ezio d'Errico, Virginio Ghiringhelli, 
+Osvaldo Licini, Fausto Melotti, Mauro Reggiani, At- 
+tanasio Soldati, Luigi Veronesi 
+
+Manifiesto Blanco. Buenos Aires, 1946 
+Edited by Bernardo Arias, Horacio Cazenueve, Marcos 
+Fridman and signed by Pablo Arias, Rodolfo Burgos, 
+Enrique Benito, Cesar Bernal, Luis Coll, Alfredo Han- 
+sen, Jorge Rocamonte 
+
+Spaziali [First Spatialist Manifesto]. Milan, 1947 
+Signed by Fontana, Beniamino Joppolo, Giorgio Kais- 
+serlian, Milena Milani 
+
+Spaziali [Second Spatialist Manifesto]. Milan, 1948 
+Signed by Fontana, Gianni Dova, Joppolo, Kaisserlian, 
+Milani, Antonio Tullier 
+
+Proposta di un Regolamento [Third Spatialist Mani- 
+festo]. Milan, April 2, 1950 
+
+Signed by Fontana, Carlo Cardazzo, Roberto Crippa, 
+Giampiero Giani, Joppolo, Milani ' 
+
+Manifesto Tecnico. Milan, April 2, 195 1 
+Signed by Fontana 
+
+Manifesto dell'arte spaziale [Fourth Spatialist Mani- 
+festo]. Milan, November 26, 195 1 
+
+Signed by Fontana, Antonio Guilio Ambrosini, Gian- 
+carlo Carozzi, Crippa, Mario De Luigi, Dova, Virgilio 
+Guidi, Joppolo, Milani, Berto Morucchio, Cesare Pev- 
+erelli, Vinicio Vianello 
+
+Manifesto del movimento spaziale per la televisione 
+[Spatialist Manifesto for Television]. Milan, May 17, 
+1952 
+
+Signed by Fontana, Ambrosini, Alberto Burri, Crippa, 
+De Luigi, Bruno De Toffoli, Enrico Donati, Dova, Car- 
+ozzi, Guidi, Joppolo, Guido La Regina, Milani, Moruc- 
+chio, Peverelli, Tancredi, Vianello 
+
+Galleria del Naviglio, Milan, Lucio Fontana, opening 
+
+April 18 1953. 
+
+Catalogue text by the artist 
+
+
+
+MONOGRAPHS 
+
+Eduardo Persico, Lucio Fontana, Milan, Campo Grafico, 
+1936 
+
+E. E. Baumbach, Le Sadture di Litcio Fontana, Milan, 
+Campo Grafico, 1938 
+
+Agnoldomenico Pica, Fontana e lo Spazialismo, Venice, 
+Cavallino, 1953 
+
+Michel Tapie, Devenir de Fontana, Turin, Fratelli Pozzo, 
+1961; English translation, Fontana, New York, Abrams, 
+1962 
+
+Enrico Crispolti, Carriera "Barocca" di Lucio Fontana: 
+in saggio e alcune note, Milan, All'insegna del Pesce 
+d'Oro, 1963 
+
+Juan Eduardo Cirlot, Lucio Fontana, Barcelona, Editor- 
+ial Gustavo Cili, 1966 
+
+F. de Bartolomeis, Segno antidisegno di Lucio Fontana, 
+Turin, Ediz. Pozzo, 1967 
+
+Guido Ballo, Fontana: idea per un ritratto, Turin, Edi- 
+zioni lite, 1970; German translation, Lucio Fontana, 
+Cologne-Lindenthal, Phaidon-Verlags-GmbH, 1971 
+
+Enrico Crispolti and Jan van der Marck, Lucio Fontana, 
+2 vols., Brussels, La Conaissance, 1974 
+
+
+
+EXHIBITION PAMPHLETS 
+AND CATALOGUES 
+
+Galleria del Naviglio, Milan, Lucio Fontana, May 26- 
+June 6, 1952. Text by Giampiero Giani 
+
+Galleria del Naviglio, Milan, Lucio Fontana, opening 
+April 18, 1953. Texts by the artist and others 
+
+Galleria del Zodiaco, Rome, Ceramiche di Lucio Fon- 
+tana, opening March 16, 1955. Text by Raffaele Carrieri 
+
+Galleria del Naviglio, Milan, Lucio Fontana, February 
+2-11, 1957. Text by Giampiero Giani 
+
+Galleria del Naviglio, Milan, Lucio Fontana, November 
+5-15, 1957. Text by Franco Russoli 
+
+
+
+Marlborough Fine Art Ltd., London, Between Space and 
+Earth: Trends in Contemporary Italian Art, May 1957. 
+Text by Lawrence Alloway 
+
+XXIX Biennale di Venezia, Venice, Lucio Fontana, June 
+14-October 19, 1958. Text by Guido Ballo, pp. 19-21 
+
+Galerie Stadler, Paris, Fontana, opening March 17, 1959. 
+Text by Michel Tapie 
+
+Galleria di Notizie, Turin, Fontana, November 28-De- 
+cember 15, 1959. Text by Enrico Crispolti 
+
+Galerie Alfred Schmela, Diisseldorf, Fontana, opening 
+January 29, i960. Text by Agnoldomenico Pica 
+
+Stadtisches Museum Schloss Morsbroich, Leverkusen, 
+Monochrome Malerei, March 13-May i960. Text by 
+Lawrence Alloway 
+
+Martha Jackson Gallery, New York, Lucio Fontana: 
+Ten Paintings of Venice, November 21-December 16, 
+1961. Text by Lawrence Alloway 
+
+Stadtisches Museum Schloss Morsbroich, Leverkusen, 
+Fontana, January 12-February 25, 1962. Texts by Law- 
+rence Alloway, Juan-Eduardo Cirlot, Enrico Crispolti, 
+Charles Damiano, Rupprecht Geiger, Udo Kultermann, 
+Kurt Leonhard, Paul Oliver, Otto Piene, William Turn- 
+bull, Jef Verheyen 
+
+Gimpel Hanover Galerie, Zurich, Lucio Fontana, May 
+21-June 15, 1963. Text by Pierre Rouve 
+
+Marlborough Galleria d'Arte, Rome, Fontana, March- 
+April 1964. Text by Guido Ballo 
+
+Walker Art Center, Minneapolis, Lucio Fontana: The 
+Spatial Concept of Art, January 6-February 13, 1966. 
+Texts by Arman, Jan van der Marck, Otto Piene. 
+Traveled to University of Texas Museum, Austin; Cen- 
+tro de Artes Visuales, Instituto Torcuato di Telia, 
+Buenos Aires; Marlborough-Gerson Gallery, New York 
+
+Stedelijk Museum, Amsterdam, Fontana, March 3-April 
+7, 1967. Texts by Alain Jouffroy, Jan van der Marck, 
+Otto Piene, Pierre Rouve, reprinted from various cata- 
+logues. Traveled to Stedelijk van Abbe Museum, Eind- 
+hoven 
+
+
+
+Galleria Civica d'Arte Moderna, Turin, Lucio Fontana, 
+February 5-March 28, 1970. Texts by Franco Passoni, 
+Luigi Malle 
+
+Musee d'Art Moderne de la- Ville de Paris, Lucio Fon- 
+tana, June 10-September 6, 1970. Text by Enrico Cris- 
+polti 
+
+Palazzo Reale, Milan, Lucio Fontana, April 19-June 21, 
+1972. Text by Paolo Pillitteri. Traveled to Palais des 
+Beaux-Arts, Brussels 
+
+Kunsthaus Zurich, Lucio Fontana: Concetti Spaziali, 
+April 2-May 23, 1976. Text by Erika Gysling-Billeter 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+The majority of photographs, including many credited 
+to individual photographers, were supplied by the 
+Archivio Lucio Fontana. 
+
+BLACK AND WHITE 
+
+Courtesy Acquavella Galleries, Inc., New York: 
+cat. no. 101 
+
+Archivio Lucio Fontana: cat. nos. i, 2, 5, 6, 7, 9, 10, 11, 
+17, 18, 20, 11, 22, 23, 24, 25, 26, 28, 29, 30, 31, 34, 36, 
+41, 43, 44, 46, 49, 50, 51, 52, 55, 56, 57, 59, 60, 61, 
+63, 65, 66, 67, 68, 69, 72, 74, 75, 76, 84, 88, 100, 102, 105 
+
+B R and C, Milan: cat. no. 62 
+
+Bacci Attilio, Milan: cat. no. 19 
+
+Bartoli, Albisola: cat. no. 54 
+
+Paul Bijtebier, Brussels: cat. no. 99 
+
+Giancarlo Campeggi, Milan: cat. nos. 15, 39 
+
+Lorenzo Capellini, Milan: cat. no. 14 
+
+Enrico Cattaneo, Milan: cat. no. 32 
+
+Martien Coppens, Eindhoven: cat. no. 37 
+
+De Antonis, Rome: cat. no. 42 
+
+Studio Ennio D'Apice, Milan: cat. no. n 
+
+Rampazzi Ferruccio, Turin: cat. no. 78 
+
+Fortunati Fototechnica, Milan: cat. no. 45 
+
+David Gulick: cat. no. 96 
+
+Courtesy Kunstmuseum Bern: cat. no. 77 
+
+Landesbildstelle Rheinland, Dusseldorf: cat. no. 98 
+
+Titti Marchese, Milan: cat. nos. 3, 4, 13, 71 
+
+Marlborough Galleria d'Arte, Rome: cat. no. 35 
+
+Robert E. Mates and Mary Donlon, New York: 
+cat. nos. 79, 82, 86, 87, 94 
+
+Ugo Mulas, Milan: cover, figs, in the text, cat. no. 103 
+
+Courtesy The Museum of Modern Art, New York: 
+cat. no. 64 
+
+
+
+O. E. Nelson, New York: cat. no. 48 
+
+J. Nintzel Sweatshop: cat. no. 97 
+
+G. Rampazzi, Turin: cat. nos. 8, 16, 47 
+
+Courtesy Rijksmuseum Kroller-Muller, Otterlo: 
+cat. nos. 89-93 
+
+Gian Sinigaglia, Milan: cat. no. 40 
+
+Studio Sintesi, Milan: cat. no. 104 
+
+Courtesy Stedelijk Museum, Amsterdam: cat. no. 83 
+
+Strtiwing Reklamefoto: cat. nos. 63, 85 
+
+David Van Riper: cat. no. 73 
+
+COLOR 
+
+Archivio Lucio Fontana: cat. nos. 33, 53, 58, 70, 74 
+
+Courtesy Kunsthaus Zurich: cat. no. 81 
+
+Robert E. Mates and Mary Donlon, New York: 
+cat. nos. 38, 80, 95 
+
+O. E. Nelson, New York: cat. no. 27 
+
+
+
+EXHIBITION 77/5 
+2,500 copies of this catalogue, 
+designed by Malcolm Grear Designers 
+and typeset by Dumar Typesetting, Inc., 
+have been printed by Eastern Press, Inc., 
+in October 1977 for the Trustees of 
+The Solomon R. Guggenheim Foundation. 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0045   0.0045      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0066   0.0021      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0084   0.0018     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0128   0.0044   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0130   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0970   0.0840              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=97;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

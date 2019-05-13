@@ -1,0 +1,3639 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Philip Guston"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/philipguston00gust">Philip Guston</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/philipguston00gust">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/philipgustonOOgust 
+
+
+
+PHILIP 
+
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, NEW YORK 
+
+
+
+© 1962, The Solomon R. Guggenheim Foundation, New York Library of Congress Card Catalogue Number 62-16504 Printed in the United States of America 
+
+
+
+TRUSTEES 
+
+
+
+HARRY F. GUGGKNHEIM. PKKSIDKXT 
+
+
+
+ALBERT E. THIELE, VICE PRESIDENT 
+
+
+
+H. H. ARNASON, VICE PRESIDENT, ART ADMINISTRATION 
+
+
+
+ELEANOR, COUNTESS CASTLE STEWART 
+
+
+
+MRS. HARRY F. GUGGENHEIM 
+
+
+
+A. CHAUNCET NEWLIN 
+
+
+
+MRS. HENRY OBRE 
+
+
+
+MISS HILLA REBAY. DIRECTOR EMERITUS 
+
+
+
+DANIEL CATTON RICH 
+
+
+
+MICHAEL F.WETTACH 
+
+
+
+MEDLEY G. B. WHELPLEY 
+
+
+
+CARL Z I GROSSER 
+
+
+
+LEPERS TO THE EXHIBITION 
+
+
+
+Dr. and Mrs. Nathan Alpers, Los Angeles 
+
+Mrs. Thomas W. Blake, Jr., Dallas 
+
+Mr. and Mrs. Donald M. Blinken, New York 
+
+Dr. and Mrs. Bernard Brodsky, New York 
+
+Mr. and Mrs. Leonard Brown, Springfield, Massachusetts 
+
+Lee V. Eastman, Scarsdale, New York 
+
+Eric Estorick, London 
+
+Morton Feldman, New York 
+
+Mr. and Mrs. Carlo M. Grossman, New York 
+
+Mr. and Mrs. I. Donald Grossman, New York 
+
+Mr. and Mrs. Morris H. Grossman, Neiv York 
+
+Joseph H. Hazen, New York 
+
+David Herbert, New York 
+
+Miss June Herman, New York 
+
+Joseph H. Hirshhorn, Neiv York 
+
+Mrs. Meyer Kestnbaum, Chicago 
+
+F. H. Kissner, New York 
+
+Mr. and Mrs. Stanley Kunitz, New York 
+
+Mrs. Phyllis B. Lambert, New York 
+
+Sophie and Boris Leavitt, Hanover, Pennsylvania 
+
+Fletcher Martin, Woodstock, New York 
+
+Mr. and Mrs. Herbert Matter, New York 
+
+Mr. and Mrs. Leon A. Mnuchin, Neiv York 
+
+Mr. and Mrs. Joseph Monica, New York 
+
+Mr. and Mrs. Fred Neisner, Rochester, New York 
+
+Mr. and Mrs. Morton Neumann, Chicago 
+
+Mrs. Albert H. Newman, Chicago 
+
+Mrs. William A. Pedlar, New York 
+
+Mrs. George Poindexter, New York 
+
+Mr. and Mrs. Bernard Reis, New York 
+
+Mr. and Mrs. James Roemer, Warren, Ohio 
+
+Mr. and Mrs. Olin J. Stephens II, Scarsdale, Neiv York 
+
+Mr. and Mrs. David A. Teiger, West Orange, New Jersey 
+
+Mr. and Mrs. Frederick Weisman, Los Angeles 
+
+Mr. and Mrs. J. Daniel Weitzman, New York 
+
+Mr. and Mrs. Adja Yunkers, New York 
+
+
+
+Albright-Knox Art Gallery, Buffalo 
+
+The Baltimore Museum of Art, Baltimore 
+
+City Art Museum of St. Louis, St. Louis 
+
+Krannert Art Museum, University of Illinois, Urbana, Illinois 
+
+The Michener Foundation, Allentoun Art Museum, Allentown, Pennsylvania 
+
+The Minneapolis Institute of Arts, Minneapolis 
+
+Munson-Williams-Proctor Institute, Utica, New York 
+
+The Museum, of Modern Art, Neiv York 
+
+The Phillips Collection, Washington, D.C. 
+
+Department of Art, State College of Iowa, Cedar Falls, Iowa 
+
+The Trustees of the Tate Gallery, London 
+
+Washington University, St. Louis 
+
+Whitney Museum of American Art, New York 
+
+Dwan Gallery, Los Angeles 
+Sidney Janis Gallery, New York 
+
+
+
+ACKNOWLEDGEMENTS 
+
+
+
+The President and the Board of Trustees of The Solomon R. Guggenheim Foundation 
+express their gratitude to all those ivho have so generously lent ivorks of art to the 
+present exhibition. Our appreciation is extended to the Dwan Gallery, Mr. Lee V. 
+Eastman, the Sidney Janis Gallery, Mrs. Phyllis B. Lambert, Mr. James A. Michener, 
+Mr. Frederick Weisman, and Mr. J. Daniel Weitzman for special assistance. Thanks 
+are also otving to Harry N. Abrams, Inc., Grove Press, "Life" magazine, The Museum 
+of Modern Art, Skira, Inc., and the Whitney Museum of American Art for the loan 
+of color plates. Particular than,ks are due to Sidney Janis for extensive assistance 
+in documentation. 
+
+
+
+
+89. The Tale. 1961. Lent by the artist. 
+
+
+
+PHILIP GUSTON 
+
+
+
+BY H. H. ARNASON 
+
+
+
+For the twenty-five years of his professional career, the paintings of Philip Guston have 
+been a dialogue between subject and abstract structure. At times, this dialogue has been 
+resolved in a lyrical harmony in which the protagonists achieve an agreement so com- 
+plete that there seems no basis of conflict. At other times, the dialogue becomes a battle 
+of forces seemingly intent on the destruction of all definitions of representation and ab- 
+straction. Guston is widely recognized as an artist who achieved success as a figurative 
+painter in the Forties- who then abandoned this position in 1947 to become an abstrac- 
+tionist, and is now one of the leading abstract expressionists of our time. 1 However, the 
+pattern of his development is by no means as simple as this statement w r ould imply. 
+Both before and after he abandoned recognizable subject matter, he studied intensively 
+questions of abstract organization, of color and its relationships with pictorial or illu- 
+sionistic space. This study led him in the early Fifties to Mondrian; and the sense of the 
+total image as well as the severe vertical-horizontal axis of a number of paintings of that 
+time reflect his comparable search for the definition of the picture plane. But. despite the 
+control of the picture rectangle, nothing could be more different from Mondrian than 
+the means Guston used or the effect he achieved. 
+
+
+
+For footnotes see pages 38-39. 
+
+
+
+The paintings of 1952 and 1953 in their generally rectangular balance, their 
+investigation of spatial relationships, may perhaps be more appropriately termed 'ab- 
+stract' than any other paintings of Guston's career. Yet, even in these the shimmering, 
+illusionistic color applied in small, vibrating brush strokes denies the abstract, geometric 
+structure to create associations of moving light, even at times of landscape. 
+
+With works like Zone, 1953, and Beggar's Joys, 1954, both the sense of geometric 
+structure and any suggestion of impressionist landscape have disappeared. Larger, 
+asymmetrically balanced color shapes, an order that is organic rather than geometric, 
+color that is expressive rather than impressionist, create new associations, new subjects 
+which are analogies rather than reflections of objective nature. 
+
+Philip Guston was born in 1913 in Montreal, Canada, and grew up in Los An- 
+geles, California, where he began drawing and painting while in high school. He is 
+self-trained except for a few months at the Otis Art Institute. Although he was aware at 
+an early age of the paintings of the post impressionists and the cubists, he saw these only 
+through reproductions, except for the works which he viewed briefly in the Arensberg 
+Collection. His first strong interest was actually for certain Renaissance masters such as 
+Uccello, Mantegna and Piero della Francesca, and his first major problem as a painter 
+was the analysis of their perspectival, architectural space in its relations to the con- 
+tracted, re-assembled space of the cubists. While the surrealists did not particularly in- 
+terest him, he was fascinated (and still is) by the early paintings of de Chirico, both 
+in terms of their combinations of Renaissance and cubist spatial organization, and in 
+terms of the haunting mystery of the subject. Aside from de Chirico, the classical 
+Picassos of the Arensberg Collection impressed him the most. The painter, Lorser Feitel- 
+son, with whom a number of Guston's friends were then studying, was influential in 
+acquainting him with the Renaissance artists. 
+
+The interest in the Renaissance fresco painters, as well as the then current vogue 
+of the Mexican muralists, drew him to Mexico in 1934. In 1934 and 1935, he worked on 
+the Public Works Administration in Los Angeles, collaborating on two murals with 
+Reuben Kadish. In 1936, Guston moved to New York and joined the Federal Arts Proj- 
+ect of the Works Progress Administration there. His first commission was a mural for 
+Kings County Hospital. He worked on the cartoons for a year and a half, only to have 
+them rejected. In New York for the first time he saw quantities of modern painting at the 
+Museum of Modern Art and at dealers' galleries. He also became acquainted on the 
+Project with artists such as Burgoyne Diller and James Brooks, who were painting ab- 
+stractly or semi-abstractly. The contacts with cubist and abstract art and artists did not 
+at this time result in any conscious desire to become an abstractionist. It did, however, 
+intensify his already active interest in bringing the objects in his paintings up to the 
+picture plane, in creating through overlapping shapes a tension between surface and 
+depth, a rhythm which would permeate and unify the entire picture. 
+
+
+
+12 
+
+
+
+
+Detail from Queensbridge Housing Project. 1940. 
+
+
+
+A second mural, for a Queensbridge Housing Project on Long Island, was actu- 
+ally completed between 1940 and 1941 and represents a substantial advance over the 
+first mural project in a simplified architectural organization which reflects both his 
+study of cubism and perhaps even more his continued fascination with Uccello's Battle 
+of San Romano in the Louvre, of which he now owned large color reproductions. 2 
+
+His study of the cubists continued, both through visits to galleries and through 
+reproductions of cubist Braques and Picassos in a large volume of Cahiers a" Art which 
+he bought and kept in his studio for constant reference. The great Picasso Exhibition at 
+the Museum of Modern Art (1940) was an outstanding event for him as it was for so 
+many American painters at this period. The Gallatin Collection was then on exhibition 
+at New York University and the full implications of cubism were finally revealed to him 
+in terms of Picasso's Three Musicians and Leger's The City. 
+
+
+
+13 
+
+
+
+In 1941. Guston went off the Project. He was exhausted with mural painting and 
+all the conditions and Commissions that were involved.' 5 Up to this time he had produced 
+very few easel paintings. Since his arrival in New York, he had drawn continually, both 
+sketches for mural projects, and drawings from the models which the Project provided. 
+He now felt an intense desire to summarize his reflections on subject, his spatial and 
+technical experiments in easel paintings created for himself rather than for an Art 
+Commission. 
+
+The painting which Guston considers his first major commitment to oil painting, 
+his first mature statement as an independent artist is Martial Memory, 1941 (no. I). 4 
+This had its genesis in a passage from the Queensbridge Housing Project mural (p. 13) 
+in which he depicted children fighting a mock war with saucepans for helmets and gar- 
+bage tin covers for shields. This passage was the result of his having observed such a 
+battle and having been intrigued by the elements of make believe. He made of it a sim- 
+plified, sculptural, somewhat cubist adaptation of passages from Uccello's Battle of San 
+Romano. The subject and its formal possibilities continued to interest him. He returned 
+to it in a small easel painting of 1940 and again in the Martial Memory of 1941. The 
+1940 easel painting is a free variant of the mural passage, emphasizing the tightly or- 
+ganized figure composition within a constricted, frontalized space. The faces in both the 
+mural and this painting are completely masked, and the modelled figures, rotating in 
+limited depth, suggest relief sculpture. 
+
+In Martial Memory, both the structure and the content of the painting change 
+radically. This is a tonal, shadowed painting; the paint is laid on flatly and rather dryly, 
+suggestive of fresco rather than oil. Walls and blank windowed, square buildings seal in 
+the background and confine the action to a shallow foreground. The figures and archi- 
+tecture emerge as flat, overlapping shapes, creating an effect of cubist structure. The 
+sense of abstract organization is achieved with little distortion of the figures. These are 
+still perfectly recognizable children, existing as solid objects within surrounding atmos- 
+phere. In fact, the subject element is even stronger in this work than in the two preced- 
+ing versions. In those, the masked faces and the stylized arrangement in movement tend 
+to dehumanize the children and concentrate attention on the formal elements. In Martial 
+Memory, the children's faces appear clearly or are half suggested, faces as impassive 
+and withdrawn as those in a Piero della Francesca painting. The added element is that 
+of mood. As H. W. Janson has pointed out, "In Martial Memory . . . the boys are display- 
+ing their grotesque arsenal with strange, slow solemnity as if their play had suddenly 
+turned into a ritual." 5 The mood of strangeness or mystery is reinforced by the blank, 
+empty windows of the buildings, reminiscent of the architecture of early de Chirico. In 
+this painting the duality of Guston's work becomes clearly apparent. At the very mo- 
+ment when he was turning towards a more abstract organization he introduced into his 
+
+
+
+14 
+
+
+
+paintings a strong sense of subject rooted in observation of natural objects and reflection 
+on the mystery of a children's world. This dialogue between representational subject and 
+abstract structure was to continue intermittently for the next seven years, most specifi- 
+cally in the series of paintings on the theme of childhood. 
+
+In the fall of 1941, Guston went to the University of Iowa as Visiting Artist. He 
+entered into teaching with enthusiasm, purchasing for the classroom studios large color 
+prints of cubist paintings and examples of Uccello, Piero della Francesca, Giorgione, 
+and other Renaissance artists. He taught principles of cubist painting and in the process 
+of teaching for a time lost interest in them himself. In his own work he concentrated on 
+drawing from the model and painted a number of single figures, in which he concerned 
+himself particularly with the exploration of the possibilities of oil paint. 
+
+Sanctuary, 1944, (no. 2) was painted in Iowa City, and shows details of an 
+Iowa City street in the background. The color, in deep reds and greens, has here become 
+much richer; the figure is modelled in color and light and shadow in a manner sugges- 
+tive of the Venetian Renaissance. The reclining boy stares out at the spectator with an 
+expression of haunting melancholy which carries the withdrawn expression of the fig- 
+ures in Martial Memory to the point of romantic nostalgia. This and other single figures 
+of this time, accomplished as they are in traditional terms, seem to be almost a retro- 
+gression, a denial of the contemporary world which he had been exploring. However, 
+they were necessary technical experiments to complete his control of the oil medium, 
+and they were necessary personal experiments in his search for a subject matter. 
+
+These lyrical, sensuously painted figures were immediately popular, and en- 
+hanced the growing reputation of the artist, although not in terms which necessarily 
+pleased him. In 1945, he won first prize at the Carnegie International for a comparable 
+single figure, entitled Sentimental Moment, 1944. As a result he was given a three page 
+color spread in Life magazine (May 27, 1946), in which, however, he protested that he 
+did not like the literal approach of his prize winning painting. 
+
+In 1944, thoroughly in control of the oil medium, he returned to the theme of 
+the children in a large and complex work, entitled // This Be Not I, 1944-45, (no. 3). 
+This he worked and reworked for more than a year, attempting to put into it all his 
+recent reflections on subject, all his experiments in Renaissance and cubist organization. 
+It is a night scene, predominantly blue in color, richly and heavily painted. A crowd of 
+children, some masked, some with faces partially concealed or covered, fill the columned 
+porch of an old. dilapidated Midwestern house. The subject is again all the strangeness 
+and mystery of childhood, of a world that no adult can enter. In comparison with Martial 
+Memory this is much more painterly, with extensive use of light and shadow creating an 
+ambiguity in the placing of forms which both complicates and helps to unify the total 
+picture. 
+
+
+
+15 
+
+
+
+In 1945, after he had completed // This Be Not I, Guston left Iowa to teach at 
+Washington University in St. Louis. Here he painted, between 1945 and 1947, a further 
+series of paintings of children, in which the emphasis as well as the style changed radi- 
+cally, (e.g. Night Children, 1945; Somersault I, 1945;'' Somersault II, 1946; Porch I, 
+1946; Porch II, 1947, no. 6). Night Children, 7 like // This Be Not I, is a dark picture, 
+but the figures are flatly and more abstractly painted. The architectural background 
+is now completely flattened out and brought up to the frontal plane. Strong background 
+reds push forward between the more soberly painted foreground figures to create a total 
+picture space visually ambiguous but structurally unified. Here the children cease to be 
+individuals occupying a mysterious children's world and become essentially color shapes 
+moving in and out and across a delimited, frontalized space. At the opposite extreme 
+from // This Be Not I, Guston has now subordinated subject to concentrate on the for- 
+mal aspects of the painting. In a sense this picture, in its balance of organizational and 
+of representational elements, stems from Martial Memory of 1941 rather than from// This 
+Be Not I. Although he has moved further towards abstraction, the involvement with 
+subject matter taken from nature still persists and continues to persist in the Somersault 
+and Porch pictures. 
+
+Somersault I and Somersault II are perhaps the most cubist of the entire series. 
+Figures and all other objects are packed into an almost flat frontal area. Distinctions 
+between foreground and background cease to exist. Distorted, inverted figures are rem- 
+iniscent of and probably influenced by surrealist Picassos of the late Twenties and early 
+Thirties. In comparison, Porch I and Porch II are more open, relatively more natural- 
+istic; although in these a strong, cruciform architectural structure emphasizes the geom- 
+etry of the picture plane in a greater degree than in any painting to this date. The color 
+in these two works is lighter and applied more flatly, and this fact, together with the 
+architectural elements, reiterates Guston's continuing passion for Piero della Francesca. 
+
+A final, small figure composition dated 1947 is the last such painting Guston did 
+before eliminating representation from his paintings. This is a sketch, Untitled, but 
+related in theme to the Somersault and the Porch series. In color, however, it is dark, 
+almost monochromatic. The figures and background elements are now so integrated as 
+to disappear as separate entities and to merge as an almost abstract image on the picture 
+plane. 
+
+By 1947, Guston. although his production was not large, and although, as was 
+the case with most artists during the depression and war years, he had not actually sold 
+many paintings, was nevertheless securely established as one of the leading figure paint- 
+
+
+
+16 
+
+
+
+ers in the United States. It is a common error to refer to his work during this period as 
+social realism. In fact, he painted few paintings involving social, political or economic 
+problems. In 1932, when he was still essentially a student, he did a highly stylized paint- 
+ing of Ku Klux Klan figures entitled Conspiracy. During the Spanish Civil War he 
+painted a tondo, Bombardment, 1937; and some illustrations commissioned by Fortune 
+Magazine (August, 1943, October, 1943) involved war subjects. His W. P. A. murals 
+were rather abstracted observations of American scenes than indictments of aspects of 
+American life. The children pictures which constituted his most significant works of the 
+Forties were statements of a very personal vision, explorations of a very personal world, 
+rather than commentaries on events of the times. Their importance lies in their reflection 
+of the artist's struggle with the problems of subject and the problems of the picture space. 
+
+Porch II was started in St. Louis and finished in Woodstock, New York, to which 
+Guston had then moved. He had received a John Simon Guggenheim Fellowship and, 
+taking a year's leave of absence from Washington University, he was able to devote his 
+time entirely to painting. He was then conscious that he had reached an impasse in his 
+work. After finishing Porch II, he felt that he had exhausted the possibilities of the sub- 
+jects he had explored for the past ten years but he did not yet consciously wish to give 
+up representation. As a result, although he painted continuously, everything he painted 
+dissatisfied him, seemed contrived or empty, and was destroyed. He tried experiments 
+with figures and with color shapes taking the place of figures; he drew incessantly both 
+in a figurative and non-figurative manner; but nothing seemed convincing. 
+
+In the summer of 1947, Guston met Bradley Walker Tomlin, who was then also 
+attempting to find a new direction different from the highly accomplished cubist still 
+lifes which he had been painting for years. They became friends and, although neither 
+seems to have had much stylistic influence on the other, they liked each other's work. 
+Each served as a source of support and encouragement to the other during this difficult 
+time. 
+
+In the spring of 1948, Guston finished his first painting which might be called 
+abstract, although even here there are suggestions of figures, and the painting is rooted 
+in a definite subject idea. This was Tormenters, (no. 8). It is a black painting, with reds 
+flashing through the blacks, overlaid with a highly structural linear pattern that outlines 
+and suggests masked and hooded figures carrying upright sticks or clubs. The subject is 
+related to Conspiracy, 1932, although here the Tormentors are envisioned as flogging 
+themselves. The masks and hoods, of course, had appeared in a different context in a 
+number of the children pictures; and structurally this work is very close to Porch I and 
+
+
+
+Porch II, completed the previous year. In fact, Tormentors began as another figure com- 
+position (Drawing No. 1), but successive scrapings ultimately eliminated most of the 
+representational elements. The clearly defined color shapes and linear patterns give it 
+much of the architectural feeling of the Porch paintings, but now illusionistic space is 
+almost completely eliminated. Everything is brought towards the front plane. Depth is 
+suggested only by color and overlapping of flat shapes. 
+
+In this work Guston at last felt that he was beginning to find a direction in which 
+subject, mood, and abstract space organization had achieved the degree of integration 
+which he had been seeking. The mood is dark and ominous. By using a red under the 
+black and allowing this to push through in the large, regular, vertical and horizontal 
+shapes, he arrived at a unity of foreground and background which held all elements in a 
+single suspension. However, although he immediately started several other works in the 
+same vein, none of these satisfied him. He destroyed them all, with the exception of one, 
+later named Review (no. 9), which seemed to be developing in a promising manner. 
+
+In the fall of 1948, Guston received a Prix de Rome and a grant from the 
+American Academy of Arts and Letters, on the basis of the figure painting which he had 
+already abandoned. He took with him to Rome the partially painted canvas of Review, 
+intending to complete it there. For a month he attempted to paint, then gave it up en- 
+tirely, deciding that it was more important to spend his time seeing the art and architec- 
+ture of Europe. During the rest of his stay, until October, 1949, he traveled extensively, 
+principally in Italy but with visits to France and Spain. He painted not at all, but did 
+make a number of architectural drawings of city scenes, in which the figure disappeared 
+entirely and the abstract quality of the architecture itself helped to further his researches 
+in space organization. (Drawing No. 2). 
+
+In October of 1949, Guston returned to Woodstock and finally that winter he 
+finished Review. This was thus the only painting he had completed in almost a year and 
+a half. In it he eliminated figures altogether, although he still made reference to objec- 
+tive nature— a New York cityscape of red brick buildings with a black sky looming over- 
+head. This was a natural development from the European architectural drawings and 
+from an increasing awareness of the New York scene. During the winter of 1949-1950, 
+while still a resident of Woodstock, he visited New York City more frequently. 
+
+Until 1949, Guston, having lived away from New York since 1941, had not had 
+very much contact with the painters associated with the abstract expressionist direction. 
+He had known Pollock since they were boys in California. He had met de Kooning on 
+the Project and met him again in 1948. At the same time, he met Motherwell, Rothko, 
+Newman and some of the other experimental painters who had emerged or had turned 
+to abstraction during the war. James Brooks and Guston met frequently at this time, and 
+for a period during the early Fifties, after he had moved to New York, Guston took an 
+active part in the meetings of the Eighth Street Club. 
+
+
+
+18 
+
+
+
+
+Drawing No. 1 (Tormentors). 1947. Lent by the artist. 
+
+
+
+itis 
+
+
+
+
+
+
+vm 
+
+
+
+1 
+
+
+
+Drawing No. 2 (Ischia). 1949. Lent by the artist. 
+
+
+
+19 
+
+
+
+In March, 1950, Guston went to Minneapolis for a term as Visiting Artist at the 
+University of Minnesota. While there he was given a one-man exhibition at the Univer- 
+sity Gallery, but showed only his figurative paintings of the Forties and some of the 
+Italian architectural drawings. He had brought with him a small abstract gouache I no. 
+10) painted after Review, but did not include it, Tormentors or Revieiv in the exhibition. 
+Although he was now fully committed to his move away from representational figure 
+painting, he was still too unsure about what he was doing, still too involved in a period 
+of change and uncertainty to be willing to expose these works to the public. 
+
+On his return east in the summer of 1950, Guston took a studio in New \ork 
+City, and he obtained a position teaching drawing at New York University. In Novem- 
+ber and December. 1950, he w T as able to complete his third painting in almost three 
+years. Since, despite the fact that he is not prolific, he works incessantly, nothing can 
+indicate more strongly the struggle in which he was involved during these years. Al- 
+though the three paintings, Tormentors, 1948: Review, 1949: and Red Painting, 1950. 
+(no. 11) are the only oils to remain from this period, these three are immensely impor- 
+tant in telling the story of his struggle and its resolution. In Tormentors, illusionistic 
+depth is eliminated and the figures subordinated to shadow outlines. In Revieiv, the fig- 
+ures are eliminated and of naturalistic subject only the suggestion of an architectural 
+cityscape remains. In Red Painting, the suggestion of landscape is eliminated together 
+with the pattern of rectangular color shapes. There remains an over-all dark and sombre 
+red, covering the entire surface of the canvas, yet greatly varied in texture, changing 
+continually, opening and closing over a suggested but ambiguous depth. This painting. 
+in a preliminary and different form, was selected by Andrew Ritchie for his 1951 exhibi- 
+tion at the Museum of Modern Art, Abstract Painting and Sculpture in America. After 
+its selection. Guston repainted it entirely to its present form. When he. in some embar- 
+rassment, explained this fact to Ritchie, the latter told him nevertheless to send it along. 
+It arrived too late to be illustrated in the catalogue, but in the exhibition it caused con- 
+siderable controversy among artists and critics. The principal point of irritation was the 
+almost complete destruction of visible forms or defined color shapes. Even the leading 
+abstract expressionists, who were given their first notable recognition in this exhibition, 
+were almost without exception composing in linear movements or defined color shapes. 
+Guston's painting was denounced as "the end. the abyss, the point of no return." Many 
+years before, the same denunciation had been made of the works of Mondrian. What 
+was true then was also true in the case of Guston. This painting was not an end but a 
+beginning. 
+
+The gradual elimination of objective nature in these three works did not by any 
+means result in the elimination of subject or expressive content. All three, as has been 
+suggested, are works of dark and sombre mood. They are shot through with a sense of 
+
+
+
+20 
+
+
+
+melancholy, with the uncertainties and difficulties which produced them. The color is 
+powerful but in a rough and muddy way; the surfaces have an almost uncouth, leathery 
+brutality of texture, still bleeding from the countless scrapings away of the paint which 
+lies below them. Although in the traditional definition Guston had now become an ab- 
+stractionist, he had not ceased to be a subject painter. Only now, the painting itself had 
+become the subject. 
+
+Red Painting seemed to have broken the impasse, and the summer of 1951 pro- 
+duced several paintings, lighter in key, looser in construction, and involving a new step 
+in the artist's development. A small white painting (Painting No. 6, 1951) followed Red 
+Painting, with similar forms but more open, freer brush strokes. This was still a period 
+of difficulty, in which Guston's principal problem was how he should finally liberate 
+himself from his habit of deliberate construction, how he should achieve a directness of 
+approach that would transcend any conscious intellectual formula. All his life he had 
+practiced a mode of painting in which the basic idea was laid in rapidly, to be followed 
+by months of rearrangement, elimination, adjustment, until gradually a result that was 
+satisfactory was achieved. 
+
+When he gave up figure painting, he also tried to abandon this method of delib- 
+erate construction, for a long time with no success but with continual frustration. As he 
+had walked through the museums of Europe he had so lost confidence in himself that he 
+at times began to doubt whether he were a painter at all. All he knew was that he loved 
+to draw and to put paint on canvas; so on his return to the United States he had deter- 
+mined that this was what he would do, without having any idea what the result would 
+be. However, the habit of careful construction, of scraping down, eliminating, changing, 
+adjusting, persisted through Red Painting, and, even though they began to move more 
+rapidly, through the first works of 1951. 
+
+The problem was whether he could actually paint a picture directly, without 
+conscious construction, and still have a result that could be called a painting. This is a 
+problem that many artists have faced and with which many of the abstract expression- 
+ists were then struggling. Guston has described the denouement of this struggle as far 
+as he was concerned: 
+
+"The desire for this direct expression finally became so strong that even the 
+interval necessary to reach back to the palette beside me became too long; so one day I 
+put up a large canvas and placed the palette in front of me. Then I forced myself to 
+paint the entire work without once stepping back to look at it. I remember that I painted 
+this (White Painting I, 1951, no. 14) in an hour. Ray Parker was to pick me up and 
+take me to New York, so when he sounded the horn of his car, I put down my brushes- 
+washed up, and went off with him. When I returned a couple of days later and saw the 
+painting, it looked fine. There was nothing else I wanted to do to it." 8 
+
+
+
+21 
+
+
+
+The resulting painting represents in a number of ways another major step. The 
+directness and rapidity with which it was painted are reflected in the loose, open organi- 
+zation. The brush stroke is more assertively evident than in any previous work and lends 
+to the entire surface a great sense of vitality. There is a rhythmic, linear movement from 
+the center out to the edges of the picture. Because he was working on a canvas approxi- 
+mately five feet square and because he stayed in one position while painting, the organi- 
+zation was conditioned by the area he could reach without moving from place to place. 
+Thus, almost accidentally, Guston discovered a pictorial form which delighted him and 
+which he was to explore during the next several years in a variety of modes. The White 
+Painting, although generally loose and open, achieves its greatest density towards the 
+center and becomes progressively more open at the edges, with extensive areas of bare 
+canvas framing the swirling, calligraphic brush strokes. The consciousness of the canvas 
+square led to a certain emphasis on verticals and horizontals in the over-all design. 
+
+Another White Painting, 1951 (Pedlar Collection), also of a square shape, exe- 
+cuted the same summer, quickly developed the possibilities of the first. Although some- 
+what more dense and textured, this is still an extremely light and openly painted work. 
+Large areas of primed canvas frame the paint areas, particularly at top and bottom. The 
+general orientation is more vertical and horizontal than the previous painting, again 
+with a sense of outward radiation from a central focus. The color scheme is more varied, 
+but still predominantly white and very light grays through which shine patches of light 
+blue and ochre. In this picture, the brush strokes become less calligraphic, the total 
+effect more painterly. Forms are built up by short, hatching brush strokes which begin 
+to approximate that scintillating, luminous, and variegated paint surface which was to 
+bring Guston the designation of "abstract impressionist." As an "abstract impression- 
+ist" his influence quickly began to be apparent on a number of other painters. These two 
+works and a whole series of 'white paintings' produced in 1952 represented as substan- 
+tial a departure from the first abstract works as those from the figurative pieces. Guston 
+had proved to himself that the conscious and painstaking construction of his earlier 
+works was no longer necessary. He could work directly and, without intellectualizing, 
+achieve an effect that was both firm in its structure and fresh and immediate in its im- 
+pact. This is not to say that Guston had now become a purely 'intuitive' painter— what- 
+ever that is. It was rather that the years of training and analysis of formal problems had 
+now brought him to a point where he no longer had to reflect consciously about them 
+while actually painting. Of course, he has continued to think about and experiment with 
+construction. It was at this time that his interest in Mondrian began to develop, and 
+both the economy and the sense of totality of many of the 1952 paintings may reflect 
+this interest. He had now come to the realization that in painting taking out was also 
+putting in. 
+
+A second ochre painting (Ochre Painting 11) followed the first two white paint- 
+ings in 1951 and represented something of a return to the over-all textured paintings 
+
+
+
+22 
+
+
+
+which preceded them. Then in To B.W.T. (no. 18), painted early in 1952, (dedicated 
+to Tomlin who died in 1953) appeared one of the most fully realized of his early ab- 
+stractions. This is also an almost square painting with the paint structure reiterating the 
+square. It is richer in total color than both the earlier white paintings and those that fol- 
+lowed it in 1952. Reds, oranges, and yellows are massed in the center and towards the 
+edges are imperceptibly modified to light blues and grays. The brush stroke is again 
+crisp and short, defined within a general texture to create a quality of luminosity, of 
+light not reflected from the canvas but imbedded and contained within it. This sense of 
+an inner luminosity, which saturated the paintings of the next years, gave to these paint- 
+ings their lyrical, expressive power, their quality of an event which transcended the 
+abstract construction. 
+
+To B.W.T. inaugurated the complete change of mood which characterized the 
+paintings of the following several years. The first abstract works had been dark in color, 
+sombre in mood, suggestive of the uncertainties of their conception and the labor of 
+their creation. Now there emerged what can only be described as a quality of gaiety and 
+delight, as though the artist had found his path or quite literally found a light through 
+the shadows of his uncertainty. The paintings that followed To B.W.T. in 1952 were gen- 
+erally light in key, with delicate rose shading through the white, sometimes rotating 
+about a cruciform central axis of strong but economically distributed reds, yellows and 
+blues. 
+
+The summer of 1952 in Woodstock saw one of the most productive periods of 
+Guston's career up to this point. He completed ten paintings in rapid succession, averag- 
+ing a week or two on each one. Within the generally light palette these paintings moved 
+from the more over-all pattern of strongly defined though delicate color shapes to a 
+greater and greater economy of effect. The paint is heavily textured and the final surface 
+was arrived at by a constant scraping down and repainting of forms until a moment 
+arrived when the artist realized that the painting was finished. The canvas was attacked 
+quickly, a first series of forms laid in, and then the adjustments, the additions, and the 
+eliminations continued as rapidly and with as little conscious construction as the hand 
+could achieve. He worked, as he always had and still does, on one painting at a time; but 
+the instant one was finished he moved on to another. While trying for a statement as 
+direct as a momentary impulse, he continued to think a great deal about the entire ques- 
+tion of painting. At this moment he was particularly concerned about the total rectangle, 
+the attainment of an effect which could be immediately encompassed as a totality, not 
+read from one passage to another. It was this more than the simple analogy of his verti- 
+cal-horizontal emphases which drew r him to Mondrian. He recognized that Mondrian's 
+great achievement was his ability to force the spectator to look at the work of art as an 
+entity; and this he sought for in his own painting. While painting, he would frequently 
+leave the studio for an interval and then return to see the painting as though he were 
+looking at it for the first time. 
+
+
+
+23 
+
+
+
+Although, during the summer, Guston more and more eliminated areas of strong 
+color, the impact of those color shapes which remained, in their very isolation, achieved 
+a greater intensity. The sparing use of intense color shapes made him increasingly con- 
+scious of the vibrations which their relations set up one with the other. From these vi- 
+brant color relationships emerged the sense of an inner light from the paintings; and the 
+interactions of color shapes or forms became a theme, a subject, that he has continued 
+to explore to the present time. 
+
+By 1952 Guston had freed himself from any reference to nature and had ar- 
+rived at his most abstract period, yet the painting continued to be an expression. At this 
+time he was particularly interested in the works of a number of modern composers, and 
+one of these, Morton Feldman, became a close friend- who felt in Guston's painting a kin- 
+ship to his own music. In Feldman's music also, Guston felt the sense of intimacy, of the 
+direct impulse which he was working for in his painting. Feldman introduced him to the 
+works of Webern and the late sonatas of Debussy. 
+
+
+
+II 
+
+
+
+In 1945 Guston had exhibited a number of his figure paintings at the Midtown 
+Gallery. Not long after this exhibition he left the gallery and until 1952 was without a 
+dealer, only occasionally contributing a single painting to a group show in New York, 
+such as the pioneer Ninth Street Show. He showed in a number of Whitney Annuals 
+during the Forties. In January of 1952 he had an exhibition at the Peridot Gallery, al- 
+though he did not actually join this gallery. Here he showed the first dark and light 
+abstract works together with a number of drawings. He had made drawings continually 
+during the period of transition, clarifying many of his problems and thoughts in terms of 
+generally quick but sometimes highly detailed abstract sketches. 
+
+The successful production of the summer of 1952 was shown at the Egan Gal- 
+lery in January, 1953. Both these exhibitions were generally damned by critics, who had 
+liked his figurative paintings, and were shocked by the change in his w r ork. However, 
+Paul Brach, the painter, who was then writing for Art Digest, strongly defended 
+Guston's new style. Painters increasingly admired the new work. Robert Motherwell, in 
+an interview for Art Digest (January 15, 1953) described the Egan exhibition as the 
+event of the season. 
+
+With the paintings in the Egan exhibition Guston had broken with his past of 
+deliberate cubist construction, had achieved qualities of direct and immediate expres- 
+sion, in works of great formal beauty and economy. As was suggested earlier, these 
+
+
+
+24 
+
+
+
+
+K/v**~" nt*&gt;/?M 
+
+
+
+Drawing No. 9. 1951. Collection Miss June Herman, New York. 
+
+
+
+/ 
+
+
+
+
+Drawing No. 18. 1953. Lent by the artist. 
+
+
+
+25 
+
+
+
+paintings, in their almost geometric simplicity, their assertion of the picture plane, were 
+perhaps the most completely abstract works of Guston's entire career. In fact, they had 
+become almost too abstract, almost too ephemeral for him. He felt a need for a greater 
+solidity, the elimination of linear elements, for a kind of painting, as he has said, "which 
+could not exist in any other medium." The result of this dissatisfaction was first that he 
+did not paint for some months after the exhibition. Then, when he started on a canvas in 
+the late spring, he worked on it for over three months before he achieved a result that sat- 
+isfied him. Although he continued to avoid conscious construction, he painted over, 
+shifted forms, scraped down, reworked areas, gradually narrowed down the alternatives 
+until finally in a rush of intense work he arrived at a point where "the air of the arbitrary 
+vanished and the paint fell into positions that seemed destined." Irving Sandler, drawing 
+on the words of the artist, has given an excellent description of Guston's method of 
+painting and his attitude towards his painting. 10 Guston himself has described how in the 
+short time before a painting is finished, "suddenly in a state of high excitement I can 
+see the entire work. Everything falls into place and I realize that there is nothing more 
+I can do. It is for the few hours when I sense that I am approaching this moment that I am 
+a painter." 
+
+It is probable that this method and this attitude, which continue to characterize 
+the work, were first completely formulated and realized during this period of change in 
+1953. The first new painting to be completed in the summer of 1953 was Zone. 11 In it, 
+the previously dispersed units of strong color have now moved together into a great cen- 
+tral red mass, which begins to take on a shape of its own, to become a definite form, 
+almost a figure floating on an atmospheric ground, a living, organic presence, with a 
+sense of weight and a potential of movement. What he was trying to do was possibly not 
+then as clear to him as it has become in retrospect, but there is no question in terms of the 
+development from this work through those of the next years, that what he sought was a 
+new subject, a sense of forms which were not merely color shapes but were objects capable 
+of a mysterious interaction with one another. 
+
+Attar, 1953 (no. 23), which followed Zone, and also was painted slowly be- 
+tween June and October, continues the rose and gray palette which Guston has exploited 
+so brilliantly. It is more of an atmospheric painting, with the forms dispersed, sugges- 
+tive of a landscape rather than a figure and, although more asymmetrical, looking back 
+in a curious way to To B. W. T. of early 1952. Although Guston's painting over the years 
+has progressed in a logical and coherent manner, the stages are punctuated by certain 
+works which seem to be throwbacks to an earlier phase, and by others which are delib- 
+erate recapitulations of a number of ideas on which he has been working for a period 
+of time. With Attar and Zone the painter began again to use titles, after numbering his 
+paintings during 1952. His reason was simply that he found the numbers difficult to re- 
+member or identify. Also, the reappearance of titles was undoubtedly a consequence of 
+
+
+
+26 
+
+
+
+the reintroduction of a kind of subject. Titles to him must not be explicit; they must be 
+oblique, a chance allusion, a personal association, a dedication to a friend. 
+
+Painting in the Museum of Modern Art (no. 24) was completed in the late 
+spring of 1954 and represented a further movement in the direction of the more 
+solid and massive. The work continued to proceed slowly during 1954 with many paint- 
+ings started and destroyed, and, as was normal during these periods of transition, the 
+production of many drawings. Two key paintings were begun in 1954 and finished in 1955 
+—Beggar's Joys (no. 25) and Room, I (no. 26). These resolved the temporary im- 
+passe and were followed during 1955 by two more large, important works, (Bronze and 
+For M, no. 28) . In all of these, the paint is built up, layer on layer to achieve a Renais- 
+sance density. Color is more brilliant than at any previous stage, with great crimson areas 
+towards the center bursting forth from the rose and gray fields. Now for the first time 
+large, black forms begin to interact with the reds to further that dialogue of color shapes 
+which are becoming living presences. No conscious geometric construction seems to exist, 
+but a sense of order, of structure does, a structure that is organic, that is rooted in the 
+quality of life itself. The textures and brush strokes are rougher, more violent; there is, 
+throughout, a turmoil of activity, of implied movement of forms which maintain their 
+identity but participate in some mysterious action with other forms. 
+
+Guston is one of the few American painters associated with free abstraction who 
+uses the entire paint vocabulary of the Renaissance and Baroque tradition including, as 
+Dore Ashton has pointed out, the half tone to integrate the dominant colors with the ef- 
+fects of atmosphere. 12 The paintings of 1954-1955 combine a greater mass in the color 
+shapes with a greater atmospheric depth. In completely contemporary terms they begin 
+to take on the solidity of the old masters. Room I was given its title because the red and 
+black forms seemed to the artist to exist in a tangible space. 
+
+Two more large paintings concluded the series. In The Visit, 1955, the forms are 
+less weighty but more dynamic, more tilted, moving rapidly in and out of space. The 
+untitled painting, 1955-56 (Teiger Collection, no. 30), quieter in mood, is again a sum- 
+mation of the experiments of the last several years. 
+
+In the fall of 1955, Guston moved back to New York and joined the Sidney Janis 
+Gallery. He painted The Visit and the untitled Teiger picture and prepared for an exhi- 
+bition at Janis in February, 1956. This exhibition finally brought to Guston the begin- 
+ning of financial success, although he had to continue teaching to earn a living, until 1958. 
+It is ironical that despite the fact that he had been recognized for years as a leading Amer- 
+ican artist, between 1941 and 1956 Guston had only sold eleven paintings. Between 1948 
+and 1956. after he had turned away from representation, he sold only two paintings, one 
+to the Museum of Modern Art. Even in 1955 he was so impoverished that a friend was 
+providing him with money for paints. The title of the painting. Beggar's Joys, reflects 
+both his despondency at his beggar's condition and his exaltation in the final minutes of 
+realizing the painting. 
+
+
+
+In 1956, Guston also showed eight paintings in the Museum of Modern Art's 
+12 Americans exhibition; and more serious studies of his work began to appear. Leo 
+Steinberg, discussing the 12 Americans exhibition for Arts 13 saw Guston's paintings as 
+"exposures of nerve-threaded flesh. It is as if the hollow of man's body— scarred and 
+stained with sin and hunger, pain and nicotine— were flattened like an unrolled cylinder 
+and clothes-pinned to the sky." He was reminded of Eliot's lines: 
+
+When the evening is spread out against the sky 
+Like a patient etherized upon a table 
+
+While analysing in some detail the development of Guston's structures, Stein- 
+berg was continually drawn back to associations, visceral and cosmic, anguished and 
+joyful. Dore Ashton, writing in Arts and Architecture, 1 * saw Guston as the leader of a 
+new age of lyricism, of the supreme expression of the inner world of the individual. She 
+also emphasized the conflicting elements, the violent union of opposites of which the pic- 
+tures were built. 
+
+Since that time, Dore Ashton has devoted a number of excellent articles and a 
+small book to Guston, and many other critics, including Irving Sandler, Lawrence Allo- 
+way, and Sam Hunter 10 have written at length about him. While their points of view 
+obviously differ, they are unanimous in their attempts to penetrate the mystery of the 
+paintings as subject paintings, as works whose power of evocation is so great that they 
+can never be thought of simply as colors arranged abstractly on a flat surface. And this 
+is just, since the paintings of Guston during the last six years have increasingly become 
+stages on which an intense drama is acted out by protagonists who are living forms if 
+not represented figures. 
+
+1956 produced three more brilliantly coloristic paintings, The Street 16 Voyage 
+(no. 31) and Dial (no. 32). In Voyage, the forms are massed in a highly articulated 
+manner, even suggestive once again of cubist structure, but maintaining the spon- 
+taneity developed during the last few years. Dial has a more open, violent arrangement 
+of the central colors, with active, strong but light red shapes pushing and pulling against 
+blacks and greens, all enmeshed and interpenetrated by angry pinks of differing intensi- 
+ties. With Prague 1 ' Guston began working with darker colors, here massed in large, 
+strong and regular shapes. This and Painter's City, 1956-1957 (no. 33), inaugurated 
+another major change in both color and mood, an intensification of the dramatic con- 
+flict. The introduction of large areas of black marked an attempt to solve a formal problem 
+—the presentation of black as an actual color which visually would hold its place on the 
+picture plane and not sink into the background. 18 Even more important was the move to 
+a more aggressive painting, filled with a conflict of tilted, rough, jagged shapes and 
+brush strokes, contradictions and spatial tensions in which blacks move out in front of 
+reds, foreground and background continually shift focus. 
+
+Fable 1, 1956-1957 (no. 34), finished in January, 1957, introduces a predomi- 
+
+
+
+28 
+
+
+
+nantly blue black palette, shot through with vivid oranges and greens. Here the entire 
+space tilts. The blue and black, orange and green color shapes become not only living 
+forms but actually take on the quality of a crowd of figures circling in depth in a dance 
+that is a battle. The increasing sense of metamorphosis in Guston's painting, the tug of 
+war between conflicting forms becomes most evident here. Dore Ashton has referred to 
+the interaction of flux and stasis as a central characteristic of the later works. 19 Fable I 
+introduced a strong element of fantasy which continued to grow in The Clock I (no. 35) 
+and in a number of small oils produced during the summer of 1957. 
+
+As noted above. Guston for many years had characteristically used drawing as a 
+means of working out and clarifying his ideas about painting. Until 1954, he still did 
+numbers of figure drawings (he was then still teaching figure drawing), but after 1949 
+most of them had dealt with abstract themes. He explored forms in his drawings as he 
+did in his paintings, experimenting with the creation of masses without contour, as in 
+painting he increasingly began to experiment with black as a color. Between 1954 and 
+1958 he produced few drawings, but from time to time he explored new ideas in terms 
+of small paintings, oils, and for a period in 1958, gouaches. The small pictures had the 
+obvious advantage that they could be done rapidly and directly. Individual forms could 
+be isolated and their interactions made more emphatic. Ideas still nebulous could be 
+played with, without the commitment of a large painting. 20 Thus the small oils and 
+gouaches, like the drawings, are extremely important in frequently giving the first sug- 
+gestion of themes later to be developed in major works. 
+
+The element of exuberant fantasy is particularly evident in the small oils of 1957 
+(e.g. Fable II; The Clock II; Rite, no. 38). The Clock II continues the dark palette of 
+Fable I. but Fable II and Rite return to bright color with extensive use of brilliant gray- 
+whites. The forms of all three take on grotesque and fantastic shapes, like monstrous bat- 
+tling insects with tentacles shooting off into space. The quality of the forms as images— 
+of what, it is impossible to say— is now evident. 
+
+The excursion into dark painting, with heavy emphasis on powerful black 
+shapes, was temporarily abandoned during the latter part of 1957. Cythera is a brilliant, 
+light work, highly atmospheric, with more strongly colored forms clustered towards the 
+bottom and seeming to compose themselves into figures. The Mirror ( no. 40 ) is positive 
+in color, with the great red shapes moving spatially across each other and together taking 
+on the character of some massive structure or machine. In Oasis (no. 41), the tempo 
+quickens and the forms whirl about in a luminous space. In these works the blacks have 
+been largely eliminated except for an occasional accent. During all the summer and fall 
+of 1957 and into 1958. Guston was painting well and rapidly, in pictures such as these 
+seeming to summarize and synthesize many of his ideas of the last several years. In 
+Native's Return (no. 42), painted late in the winter of 1957, with its strongly held, 
+regular, compacted reds and blues, there is again a suggestion of a return to cubist 
+organization without, however, the sense of cubist, diagrammatic space. 
+
+
+
+29 
+
+
+
+The last painting before the exhibition held at the Janis Gallery in February. 
+1958. was Passage, 1957-1958 (no. 43), finished in January. In color this is the lightest 
+keyed and most brilliant of the entire group, scintillating blues and whites to which 
+attach themselves strange, grasping shapes of reds and greens. The colors are heavily 
+textured at the same time as the forms are more open and transparent. This and the other 
+highly keyed paintings of the latter part of 1957. although all more solidly painted, re- 
+capture the mood of lightness and gaiety of the white paintings of 1952. The activity of 
+the strong color forms, with their qualities of vitality and fantasy if anything increases 
+the buoyancy of the mood. 
+
+The 1958 exhibition at the Janis Gallery was received with enthusiasm by almost 
+all the critics and resulted in further serious studies of the artist 21 . After the customary 
+interval for reflection and re-examination of his work which follows every one-man exhi- 
+bition. Guston began to paint again in the late winter and spring. He produced in rapid 
+succession three large paintings which seemed to represent a reaction against the brilliant 
+paintings of the show. These were Sleeper I, 22 Nile and To Fellini (no. 45 I. They are 
+still rich in color but much more sombre and suggestive of a darker, heavier mood. Black 
+forms are reintroduced to take a dominant part in the drama. In To Fellini a whole net- 
+work of clearly articulated but closely joined individual blacks swarm over the reds and 
+blues as though intent on devouring them. Only two strong green shapes at the edge 
+seem safe from the menace. In these paintings and those that immediately followed them 
+the drama of conflict which for some years had existed in Guston's use of color shapes, 
+began to become explicit. With this also became explicit all the questions which must be 
+asked concerning his place as an abstractionist, as a figurative painter, as a painter of 
+subject or mood, or ideas. Guston himself has many times spoken eloquently and pas- 
+sionately on these problems, and perhaps some of his w'ords can best be paraphrased. 23 
+
+He does not think of himself as an abstract painter or a realist. Abstract paint- 
+ing which is primarily concerned with problems of construction or formal relationships 
+has no longer any interest for him. He becomes impatient when his works are criticized 
+or analysed essentially in structural terms, in terms of "forms arranged within space 
+against an atmospheric background." He continues to be much concerned with ques- 
+tions of pictorial space and problems of structure, but only when he is not actuallv 
+painting. Then he only seeks a condition in which the work grows under his hand in 
+terms of the manner in which forms come into existence and begin to act upon, to have 
+an effect on other forms, which in their turn are acting upon still others. During this 
+process he is not involved with foreground or background or arrangement of forms for 
+any deliberate effect of balance or symmetry or spatial existence. These, the normally 
+described 'formal elements' exist, but they exist as a consequence of the life of the forms. 
+
+He gauges the success of his painting by the variety and complexity of the inter- 
+action of the forms. If a form has only a single relation to another he regards it as unsuc- 
+
+
+
+30 
+
+
+
+
+Drawing No. 20. 1958. Lent by the artist. 
+
+
+
+
+Drawing No. 29. 1960. Lent by the artist. 
+
+
+
+31 
+
+
+
+cessful and scrapes it out or changes its position and context. This sense of the complex 
+relation of living forms is something which he learned from his study of Renaissance 
+and Baroque masters. In this definition he is willing to accept the designation of 'ab- 
+stractionist' as he feels that in this definition they were abstract. 
+
+Although, on the other hand, he does not think of himself as a realist, he is al- 
+ways concerned with the objective world, frequently quite literally. When searching for 
+an idea or a direction, a starting point, he will sometimes begin to paint the contents of 
+his studio, the objects on his painting table, the scene outside his window. These excur- 
+sions into representation he enjoys and finds refreshing, but then he begins to feel them 
+unsatisfactory and even unreal. To paint a figure or a table or a tree so that it is simply 
+recognizable seems an incomplete act. This is merely the repetition of the known, and to 
+him the act of painting is the exploration of the unknown, the rapid moving from object 
+to non-object to force new relations which he had not suspected were there. The painting 
+is finished when object and non-object, representation and abstract means are sub- 
+merged and participate in a totality of hitherto unknown relationships which are imme- 
+diately recognizable by their familiarity. 
+
+The approach to his painting which is here suggested is one towards which 
+Guston had been moving at least since 1952. It is not a consciously arrived at position 
+any more than the paintings are consciously constructed. Its verbalization is actually a 
+recognition after the fact of an exploration in which his painting has been involved for 
+many years. Obviously this approach is not one to which he has held with absolute con- 
+sistency over the years; nor is it one to which he can be expected to hold without modifi- 
+cation in the future. But an understanding of it is essential to all the later work up to the 
+present, no matter what changes may be rung within that work. 
+
+The three large paintings of early 1958 were followed by two small oils, Spring 
+I and Spring II, and then by a series of fifteen small gouaches. The gouache medium 
+was explored as a sort of refresher from oil painting, and particularly because its quick 
+drying properties lent themselves to rapid exploration of a wide variety of new ideas. 
+Here the generally more simplified forms suggest figures or trees or plants, living organ- 
+isms though not specifically identifiable, which embrace, repulse, attack, swallow up or 
+spew forth one another. Mott (no. 49) is dominated by a menacing monster, which is 
+still a figure of fun and which has been described as an elephant-headed spider. Actor 
+(no. 53) is a comedy of odd protagonists. A black, elongated mushroom figure in the 
+center spews forth (or is swallowed up by) an undulent red figure at the right while a 
+green hatted black dwarf shrinks away (or attacks) from the left. The title Actor as well 
+as other titles in the series (Scene, Last Piece, Tivoli, Room, Summerhouse) suggest the 
+degree in which Guston's forms have become living realities. The painting has become a 
+stage on which the form-figures act out comedies and tragedies whose poetic language is 
+the paint itself and whose plot is the painter's exploration of the unknown. 
+
+
+
+32 
+
+
+
+The results of the experiments with gouache were immediately evident in the 
+large and small oils which followed during the rest of 1958 and 1959. With a few excep- 
+tions the color tends to the sombre, black and red forms with occasional passages of 
+brilliant green, moving within areas of blue grays, brushed in violently. At times, in 
+these later pictures, Guston seems to be abrogating all the qualities of elegance and bril- 
+liant color which had first brought him success. However, as the recent works are stud- 
+ied more clearly, it is seen that they are not a negation but an affirmation of constantly 
+new and unexpected dramas of forms, new and unexpected spatial, color and atmos- 
+pheric relationships. The sense of life grows constantly greater, the interactions of the 
+forms constantly more intricate. In Poet, 1958, ( no. 59 ) a great black claw engulfs the 
+reds and blues. Grove I, 1959, ( no. 63 | is one of the most richly coloristic of this pe- 
+riod, with deep but dazzling blues, reds, and greens, shot through with yellow passages 
+forming themselves into a large rectangular structure. From the top a massive black 
+shape weighs down upon and threatens to destroy the others. Among the many small oils 
+executed in 1959. Traveler I (no. 68 I is an exotic oriental architecture of rectangular 
+red. blue, and green shapes weighed down by an even more massive black over the upper 
+red. Wintergreen I is dominated by a single, black, triangular shape that rises from the 
+bottom almost to the top of the picture, a black tornado swallowing small forms of 
+orange and green. 
+
+Winter Flower, 1959 (no. 71 ) has a vivid red form and an equally vivid blue 
+bisected by a long, diagonal stem which moves across a strong green to end in a great 
+black over orange flower which rests its weary head on a cloud-like gray. This painting 
+illustrates the degree in which the general sobriety of the later works intensifies the vi- 
+bration of the accents of brilliant color when these are used. The red and blue and green 
+burst forth from the murk that surrounds them and the use of strong color under the 
+blacks and grays makes these glow with an inner light. 
+
+The last large painting of 1959, Painter I (no. 72), develops themes of the 
+small oils. A black, machine-like form is capped by a blood red shape and enmeshed in a 
+labyrinth of writhing gray brush strokes, through which in parts shine strong greens 
+and blues and entangled pinks. 
+
+The life of his forms had now become so involved with Guston"s subconscious 
+that at times they became the objective reality. They had begun to lead their real life in 
+a real space which existed before he put his brush on the canvas. As he painted, he felt 
+that his primary task was not additive but subtractive, the elimination of extraneous ele- 
+ments until the figures and their drama were revealed. 24 He was painting rapidly and 
+continuously and increasingly felt that he was living in the painting. As the forms 
+shifted from place to place, were scraped out. reconstituted, developed new relationships 
+with other forms, they acquired a past, a history which became part of their existence 
+and motivation in the finished work. 
+
+
+
+33 
+
+
+
+
+p-*&gt; 
+
+
+
+Drawing No. 31. 1962. Lent by the artist. 
+
+
+
+Ill 
+
+
+
+1960 and 1961 have been unusually productive years for Guston, despite the 
+interruptions of two exhibitions at the Janis Gallery and a three month trip to Europe in 
+the summer of 1960. Characteristically, most of the European trip was devoted to an in- 
+tensive tour of Lmbria to restudy Piero della Francesca and to see those works he had 
+not previously known at first hand. 
+
+Traveler II. painted in March-April, I960, in its black and gray murkiness 
+through which shine accents of brilliant green and red, its roughly brushed over-all tex- 
+ture, sets the mood for most of the recent paintings. The darkness of these works, the 
+submergence of bright color, the avoidance of all the qualities of lightness and elegance 
+which had characterized earlier works, these elements have been equated to a darkness 
+of mood, the expression of some inner torment of the artist. It is a fact that these later 
+works have a curious affinity to the earliest abstractions, such as Tormentors and Review, 
+
+
+
+34 
+
+
+
+iii the dominance of blacks or muddy grays and blues, confining strong colors which strug- 
+gle to escape; as well as in the almost uncouth roughness of the paint handling. Whether 
+this denotes a stage of major transition it is as yet impossible to say. It will be recalled 
+that in 1956-1957, Guston experimented with a series of dark paintings which antici- 
+pated much of the rough, violent quality of the most recent works, and then in the latter 
+part of 1957 returned to a full and brilliant palette. At the present time, the artist seems 
+unaware of any hidden 'anguish' or subconscious urge to establish a new direction. When- 
+ever he is struggling with all the problems of a new painting, whatever its characteristics 
+or mood may be, he suffers all the pains of doubt and uncertainty. However, when the 
+parts begin to fall into place, the painting to resolve itself, he experiences the same exul- 
+tation whether the work itself is light and elegant or dark and violent. 
+
+At least from 1941 it is possible to trace in Guston's paintings an alternation of 
+mood between the lyrical, romantic, richly painted, sensuously appealing, on the one 
+hand; and the sombre, the violent, and the discordant, on the other. These alternations 
+undoubtedly reflect conflicts within the artist, whether or not these conflicts have to do 
+directly with the problems of painting. Guston, of course, is most aware of those con- 
+scious conflicts arising from the continual exploration in his work of new and unknown 
+relationships. 
+
+Whatever may be the immediate or the ultimate raison d'etre for the recent 
+work, there is no question that it represents the most completely logical summation of 
+all the experiments with living forms and their interactions, which have obsessed him at 
+least since 1953. Brilliant surface color, at least for the moment, has ceased to be impor- 
+tant to him, although he frequently begins a painting in strong hues, then to scrape 
+these down or paint over them. This fact may explain the sense of a continuing subter- 
+ranean light which pervades even the darkest paintings, as it does those of Rembrandt 
+or Goya. Clearly defined local color is avoided; large, closely keyed, positive forms of 
+black, dark red, sombre orange, or grayed blues are unified in a general tonality. 
+Guston has increasingly become obsessed with the idea of the paint as a living object, 
+as the paint on a hand by Rembrandt is always the paint itself, no matter how brilliantly 
+it may describe the hand. 
+
+Traveler III. 1960 (no. 74), possibly an outgrowth of Winter Flower, 1959, is 
+dominated by a great tree form spinning with cyclone violence on a slender stem. The 
+stem has a curious sort of foot which gives the tree-shape the appearance of advanc- 
+ing on the black and gray forms to the left. These positive forms are encompassed in a 
+streaming veil of brush strokes which suddenly at the right open to a triangle of black 
+and mysterious depth. Originally, the entire top of the painting was red and this was 
+gradually eliminated until finally the black over red tree-shape emerged. 
+
+The sense of the canvas as a place, a stage on which dramas are enacted by liv- 
+ing forms becomes strongest in the most recent painting. Titles suggesting actual places 
+
+
+
+35 
+
+
+
+recur frequently (Interior I, 1960; Room III, 1960; Composer's Landscape: To M.F., 1960; 
+Garden of M, I960), 20 although some of these together with various Sleepers also have 
+reference to periods when the artist was living in his studio, working around the clock, 
+catching fragments of sleep when he was exhausted. From time to time, Guston has con- 
+tinued his habit of painting directly objects in his studio or on his painting table, then 
+to see how far he can go in eliminating the representational elements (e.g. Table, 1960, 
+no. 77 and Blue Table, 1960, no. 81). The vestiges of the objects together with the 
+titles of these paintings have caused considerable speculation on the part of some critics 
+as to whether he is now on the verge of abandoning abstraction and returning to the fig- 
+ure. 2 " It might equally be well argued that he has never been an abstractionist but has 
+always been involved in subject painting. Whether the subjects will ever again be clear 
+representations of objective nature will probably depend on whether he can ever again 
+find a reason for painting a figure or a landscape. At the present time, the painting of a 
+'likeness' still seems to him to be an irrelevance. 
+
+Alchemist, 1960 (no. 78) carries through a dominant blue tonality into which 
+highly irregular black and dark red forms are assimilated to make of the entire paint 
+area a single color shape framed in areas of primed canvas. The whole painting pivots 
+about a single, regular, egg-shaped dark blue, a form in orbit which both holds the sur- 
+face and opens up the painting to an illimitable depth. This regular ovoid form appeared by 
+itself in the process of painting, and the artist was so intrigued by the manner in which 
+it controlled, in an almost magical way (hence, Alchemist) the total picture space, that 
+he has utilized variants in a number of subsequent works. These circular or ovoid shapes 
+frequently take on a quality of personal fantasy; they become at times celestial objects, 
+apparitions, or decapitated heads rolling on a hill (e.g. Garden of M, 1960) . 
+
+Composer's Landscape: To M.F., 1960, was painted in the fall at Woodstock 
+after the return from Europe, and still has reminiscences of actual fall landscapes with 
+which he experimented as he began painting again. However, it also becomes an inter- 
+action of tree-like black and red shapes embracing one another; as well as a reflection of 
+a revived interest in spatial and architectural problems brought about by his pilgrimage 
+to the Urbino of Piero. 
+
+
+
+The February, 1961, exhibition at the Janis Gallery was highly controversial. 27 
+It was disturbing for the artist not so much because of the controversy, but because to 
+him it seemed to be one of his most profoundly personal statements. The sense of his 
+forms as living presences, composed of paint which was a living essence, and existing 
+within the canvas which was an actual place, seemed to him to have become completely 
+
+
+
+36 
+
+
+
+explicit. After the exhibition he was not able to paint again until June, but then during 
+the summer and fall he produced rapidly four large paintings and a number of small 
+ones. In these there is a still further development of the drama of paint on the stage of 
+the canvas. Duo, 1961, (no. 91) is dominated by two great black personages in con- 
+clave in a miasmic gray setting. The figures open and close, that to the right over grayed 
+but luminous reds; that to the left interpenetrated by the gray of the setting and peering 
+forth from a brilliant green eye. The black personages stand forth from a limited but 
+very tangible depth composed of the grays that go under and through the blacks; blues, 
+oranges and pinks that go under the floating grays. Each brush stroke vibrates with life 
+as the total mass of the strokes bind together every part of the picture into an entity. 
+
+The Tale, 1961, (no. 89) and Close-Up III, 1961 (no. 90) both suggest the 
+dramatic interplay of the protagonists and the architecture of the stage itself. The Tale 
+is richer and more varied in color; the gesticulating black shapes stand out in silhouette 
+from the gray curtain; brilliant oranges, blues, pinks, reds, scintillate everywhere in the 
+background of the more tonal blues and grays. The tempo of the drama has here accel- 
+erated into a frenzy of climactic action. Close-Up III is more sombre in mood, dominated 
+in the center by a black shape like a catafalque. If Duo is the exposition, The Tale, the 
+development, then Close-Up III is the tragic resolution. 
+
+The sense of a continuing drama, a three act tragedy, which one derives from 
+these three paintings seen together, may be purely accidental, a subjective reading on 
+the part of the spectator. However, it is curious and interesting to note that the large 
+paintings were followed in October of 1961, immediately before Guston returned to 
+New York, by four small oils, painted in four or five days, to which he gave the titles 
+Actor I, Actor II, Actor III. and Actor IV (nos. 92-95). And these he did think of quite 
+consciously as four acts or situations, which together made up four stages of a drama. 
+
+
+
+The painting of Philip Guston has shown a great variety but a remarkably con- 
+sistent development over the last twenty-five years. Even when he made the major change 
+from recognizable subject to abstraction, the relations of the abstract works to the repre- 
+sentational ones were perhaps more significant than the differences. At no time during his 
+entire career has he been solely interested in formal or structural problems to the exclu- 
+sion of subject or expressive content. He is now in mid-career, painting with furious 
+energy, enlarging his vocabulary and exploring new ideas. It may be expected that in 
+his future work the range and variety demonstrated in the past will be further ex- 
+panded; and it may also be expected that the underlying theme, the dialogue between 
+subject and abstract structure will continue. 
+
+
+
+37 
+
+
+
+FOOTNOTES 
+
+
+
+1 . The terms "figurative", "abstractionist", and "abstract expressionist" are here used in 
+their generally understood definitions. "Figurative" painting involves the use of figures 
+or other recognizable subject matter taken from nature. "Abstract" painting eliminates 
+all recognizable natural objects and traditionally emphasizes the formal or structural 
+elements. "Abstract expressionism" has introduced into abstract painting the element 
+of emotion expressed through the abstract means of color, line, brush texture, isolated 
+forms of color shapes, etc. The application to Guston's works of these definitions is 
+discussed at length in this paper. The word "form", in its specific sense, (a form within 
+a painting rather than the form of a painting) has reference to a clearly defined color 
+shape. 
+
+2. Guston has recently discovered that the Queensbridge Housing Project mural has been 
+completely repainted by some unknown hand. He is now attempting to have his name re- 
+moved from the mural or to see whether it is possible to have it restored. 
+
+3. Before 1941. Guston had painted no more than seven or eight easel pictures, including a 
+Mother and Child, c. 1930, and the Ku Klux Klan painting, Conspiracy, 1932, Bombard- 
+ment, 1937, and the picture of fighting children, 1940, referred to below. The easel 
+paintings of the Thirties, when the self-taught artist was still learning his craft, were 
+still in the category of student efforts. His first works as a professional artist he considers 
+to be the murals of the late Thirties and early Forties. 
+
+Although he had left the Project in 1941, the mural for the Social Security Building 
+in Washington, a commission granted by the Treasury Department's Section of Fine 
+Arts, was not actually completed until 1942, nor installed until 1943. This was the con- 
+sequence of the long interval between the original cartoons which he presented in 1939 
+and the final awarding of the commission. 
+
+4. Interview with the artist, January, 1962. 
+
+5. H. W. Janson, "Philip Guston," The Magazine of Art, Washington, D.C., no. 40, February, 
+1947, p. 54. This article and Janson's earlier article, " 'Martial Memory' by Philip 
+Guston and American Painting Today," St. Louis Museum Bulletin, St. Louis, vol. 27, 
+nos. 3-4, 1942, pp. 34-41, are the most important studies of the figurative paintings of 
+the Forties. 
+
+6. Guston frequently uses the same title for different paintings distinguishing them by 
+numbers (e.g. Somersault and Somersault II). The title of the first painting sometimes 
+includes a number and sometimes does not. For consistency in this paper, the first 
+painting in the series is given a number. 
+
+7. Collection of Mr. and Mrs. Roy R. Neuberger, New York. Not in exhibition. 
+
+8. Interview with the artist, January, 1962. 
+
+9. Most of the paintings for this year were numbered rather than given titles, a procedure 
+which Guston abandoned the following year. See Painting No. 6, 1952, (no. 20) and 
+Painting No. 10, 1952. 
+
+
+
+38 
+
+
+
+10. "Guston paints from area to area until the forms have battled with and partaken of one an- 
+other—until he has suffered them. He works in a condition of mounting 'tension provoked 
+by the contradictions... in painting.' As the forms 'shed their minor relations and confront 
+each other more nakedly' he reaches a 'state of "unfreedom" where only certain things 
+can happen, (where) unaccountably the unknown and the free must appear.' Culminat- 
+ing in a total vision— which is the earned moment— Guston breaks the shackles of past 
+categories, and the urgencies within himself are free to find their own shape; the image 
+begins to 'pull' for its own 'light', 'its sense of place.' The paradoxes no longer withstand 
+solution: the forms maintain their identity yet charge all other forms in a new, un- 
+predicted way. The structure emerges only as an end result, the function of the equilib- 
+rium achieved. Guston says that, 'what is seen and called a picture is what remains— 
+an evidence.' The painting crosses 'the narrow passage from a diagramming to that other 
+state— a corporeality.' It ceases to be the subjective extension of the artist and becomes 
+a presence, a sudden oneness that cannot be translated back into its parts. 
+
+"When Guston confronts a finished canvas, he feels he has revealed an organism that 
+has always existed. He is surprised both at its familiarity and at its newness. Surprise is 
+the crucial element. It is not enough to say 'that expresses exactly how I feel'; he insists 
+on being able to say T never knew I felt like that.' Ultimately, each painting becomes a 
+trap to be eluded; the unknown remains; the 'drama of the process' must be repeated." 
+Irving Sandler, "Guston: A Long Voyage Home," Art News, New York, vol. 58, no. 8, 
+December. 1959, p. 65. 
+
+11. Collection of Mr. and Mrs. Ben Heller. New York. Not in exhibition. 
+
+12. Dore Ashton. Philip Guston, New York, Grove Press, 1959, pp. 51-56. See also articles 
+by her in Arts and Architecture (bibliography passim) and in Metro, Milan, no. 3, 
+1962, pp. 33-41. 
+
+13. Leo Steinberg, "Fritz Glarner and Philip Guston Among '12 Americans' at the Museum 
+of Modern Art," Arts, New York, vol. 30, June, 1956. pp. 42-45. 
+
+14. Dore Ashton, "Art: The Age of Lyricism," Arts and Architecture, Los Angeles, vol. 73, 
+no. 3, March, 1956, pp. 14-15, 43-44. 
+
+15. See bibliography. 
+
+16. Collection of Mr. Harvey Kaplan, Chicago. Not in exhibition. 
+
+17. Collection of Mr. Arnold Maremont, Chicago. Not in exhibition. 
+
+18. At various periods, Guston has concentrated on a single color, using it in a great variety 
+of ways in order to discover all its potentialities. Thus, in the mid-Fifties, he exploited 
+reds and recently has been using a brilliant green for many of his key color shapes. 
+
+19. Dore Ashton, "Art," Arts and Architecture, Los Angeles, vol. 75. no. 5. May, 1958. p. 29: 
+Irving Sandler, "Guston: A Long Voyage Home." Art News, New York, vol. 58, no. 8. 
+December. 1959. p. 36. 
+
+20. Guston never paints larger than approximately 6 to 6%' square, since he does not like 
+the idea of moving from place to place in order to cover a canvas. 
+
+21. See bibliography-1958. 
+
+22. Collection of The Cleveland Museum of Art. Not in exhibition. 
+
+23. Interview with the artist. January, 1962. 
+
+24. Michelangelo expressed much the same idea in relation to sculpture. 
+
+25. It should be noted that the paintings to which Guston gives the same title and numbers 
+(Room I, Room II, Room III) may have nothing to do with one another stylistically or 
+in subject treatment. It is in fact usually the case that the "room" in each instance is a 
+room in a different context. 
+
+26. See John Canaday. "Vote of Confidence," New York Times, New York, February 19. 1961. 
+
+27. John Canaday and Irving Sandler were favorable, while Emily Genauer and Sidney Tillim 
+were unfavorable. See bibliography— 1961. 
+
+
+
+39 
+
+
+
+WORKS IN THE EXHIBITION 
+
+
+
+Unless otherwise noted, paintings are lent by the artist. 
+
+
+
+1. MARTIAL MEMORY. 1941. Oil on canvas, 39% x 32%". 
+Collection City Art Museum of St. Louis. 
+
+2. SANCTUARY. 1944. Oil on canvas, 22% x 35%". 
+
+3. IF THIS BE NOT 1. 1945. Oil on canvas, 41% x 55%". 
+Collection Washington University, St. Louis. 
+
+4. SOMERSAULT 1. 1945. Oil on canvas, 40 x 30". 
+Collection Mr. and Mrs. Joseph Monica, New York. 
+
+5. PORCH I. 1946-47. Oil on canvas, 56% x 34". 
+
+Collection Krannert Art Museum, University of Illinois, Urbana. 
+
+6. PORCH II. 1947. Oil on canvas, 62% x 43%". 
+
+Collection Munson-Williams-Proctor Institute, Utica, New York. 
+
+7. UNTITLED. 1947. Oil on canvas, 11 x 9". 
+Collection Fletcher Martin, Woodstock, New York. 
+
+8. TORMENTORS. 1947-48. Oil on canvas, 40% x 60%". 
+
+9. REVIEW. 1948-49. Oil on canvas, 39% x 59". 
+
+10. UNTITLED. 1949. Gouache, 15% x 22%". 
+
+11. RED PAINTING. 1950. Oil on canvas, 34 x 62%". 
+
+12. PAINTING NO. 6. 1951. Oil on canvas, 31% x 45%". 
+
+
+
+40 
+
+
+
+13. OCHRE PAINTING I. 1951. Oil on canvas, 28% x 45%". 
+Collection Mrs. George Poindexter, New York. 
+
+14. WHITE PAINTING 1. 1951. Oil on canvas. 57% x 01%". 
+
+15. WHITE PAINTING II. 1951. Oil on canvas, 50 x 50%". 
+Collection Mrs. William A. Pedlar, New York. 
+
+16. OCHRE PAINTING II. 1951. Oil on canvas, 41 x 47". 
+Collection Mr. and Mrs. Olin J. Stephens II, Scarsdale, New York. 
+
+17. THE BELL. 1952. Oil on canvas, 46 x 39%". 
+
+Collection Mr. and Mrs. Fred Neisner, Rochester, New York. 
+
+18. TO B.W.T. 1952. Oil on canvas, 48 x 51". 
+
+Collection Mr. and Mrs. Leonard Brown, Springfield, Massachusetts. 
+
+19. PAINTING. 1952. Oil on canvas, 48 x 50%". 
+Collection Mrs. Albert H. Newman, Chicago. 
+
+20. PAINTING NO. 6. 1952. Oil on canvas, 48Y4 x 36". 
+Collection Department of Art, State College of Iowa, Cedar Falls. 
+
+21. PAINTING NO. 9. 1952. Oil on canvas, 48% x 60y4". 
+Collection Sophie and Boris Leavitt, Hanover, Pennsylvania. 
+
+22. PAINTING NO. 10. 1952. Oil on canvas, 51 x 48". 
+Collection Mr. and Mrs. Morton Neumann, Chicago. 
+
+23. ATTAR. 1953. Oil on canvas, 48% x 46". 
+Collection Morton Feldman, New York. 
+
+24. PAINTING. 1954. Oil on canvas, 63 V* x 60V4". 
+
+Collection The Museum of Modern Art, New York. Gift of Philip C. Johnson. 
+
+25. BEGGAR'S JOYS. 1954-55. Oil on canvas, 71% x 68%". 
+Collection Sophie and Boris Leavitt, Hanover, Pennsylvania. 
+
+26. ROOM I. 1954-55. Oil on canvas, 71% x 60". 
+Lent by Dwan Gallery, Los Angeles. 
+
+27. BRONZE. 1955. Oil on canvas, 76% x 73". 
+Collection The Minneapolis Institute of Arts. 
+
+28. FOR M. 1955. Oil on canvas, 76% x 72%". 
+Private Collection, Los Angeles. 
+
+29. THE VISIT. 1955. Oil on canvas, 68% x 58%". 
+Collection Mrs. Meyer Kestnbaum, Chicago. 
+
+30. UNTITLED. 1955-56. Oil on canvas, 75% x 72". 
+
+Collection Mr. and Mrs. David A. Teiger, West Orange, New Jersey. 
+
+31. VOYAGE. 1956. Oil on canvas, 71% x 76%". 
+
+Collection Albright-Knox Art Gallery, Buffalo, New York. Gift of Seymour H. Knox. 
+
+32. DIAL. 1956. Oil on canvas, 72 x 76V4". 
+
+Collection Whitney Museum of American Art, New York. 
+
+
+
+41 
+
+
+
+33. PAINTER'S CITY. 1956-57. Oil on canvas, 65 x 77". 
+Collection Mr. and Mrs. I. Donald Grossman, New York. 
+
+34. FABLE I. 1956-57. Oil on canvas, 64% x 76". 
+Collection Washington University, St. Louis. 
+
+35. THE CLOCK I. 1957. Oil on canvas, 76 x 64". 
+
+Collection The Museum of Modern Art, New York. Gift of Mrs. Bliss Parkinson. 
+
+36. FABLE II. 1957. Oil on paper mounted on pressed wood, 24% x 35%". 
+
+37. THE CLOCK II. 1957. Oil on pressed wood, 24% x 35%". 
+Collection Eric Estorick, London. 
+
+38. RITE. 1957. Oil on paper mounted on pressed wood, 24% x 35 Vz" . 
+Lent by Sidney Janis Gallery, New York. 
+
+39. CYTHERA. 1957. Oil on canvas, 72% x 63%". 
+Collection Mr. and Mrs. Donald M. Blinken, New York. 
+
+40. THE MIRROR. 1957. Oil on canvas, 68% x 61". 
+Collection Joseph H. Hazen, New York. 
+
+41. OASIS. 1957. Oil on canvas, 61% x 68". 
+Joseph H. Hirshhorn Collection, New York. 
+
+42. NATIVE'S RETURN. 1957. Oil on canvas, 64% x 75%". 
+The Phillips Collection, Washington, D. C. 
+
+43. PASSAGE. 1957-58. Oil on canvas, 65 x 74". 
+Collection Mrs. Phyllis B. Lambert, New York. 
+
+44. NILE. 1958. Oil on canvas, 65 x 75%". 
+Collection Mrs. Thomas W. Blake, Jr., Dallas. 
+
+45. TO FELLINI. 1958. Oil on canvas, 69 x 74". 
+Private Collection, New York. 
+
+46. SPRING 1. 1958. Oil on board. 21% x 29%". 
+
+47. SPRING II. 1958. Oil on board, 21% x 29%". 
+
+48. SUMMERHOUSE. 1958. Gouache, 22 x 30". 
+Collection Dr. and Mrs. Bernard Brodsky, New York. 
+
+49. MOTT. 1958. Gouache, 22% x 28%". 
+
+Collection Dr. and Mrs. Nathan Alpers, Los Angeles. 
+
+50. RED BLACK. 1958. Gouache, 20 x 29%". 
+
+51. SCENE. 1958. Gouache, 21% x 29%". 
+Lent by Sidney Janis Gallery, New York. 
+
+52. TIVOLI. 1958. Gouache, 21% x 29%". 
+Collection F. H. Kissner, New York. 
+
+53. ACTOR. 1958. Gouache, 22% x 28%". 
+
+54. THE ROOM. 1958. Gouache, 21% x 29%". 
+
+
+
+42 
+
+
+
+55. LAST PIECE. 1958. Gouache, 21% x 29%". 
+Lent by Sidney Janis Gallery, New York. 
+
+56. THE RETURN. 1956-58. Oil on canvas, 70 x 78". 
+Lent by the Trustees of the Tate Gallery, London. 
+
+57. UNTITLED. 1958. Oil on canvas, 64 x 75%". 
+
+58. SLEEPER II. 1958-59. Oil on canvas, 68 x 65". 
+Lent by Dwan Gallery. Los Angeles. 
+
+59. POET. 1958. Oil on canvas. 63% x 52". 
+
+Collection Mr. and Mrs. Morris H. Grossman, New York. 
+
+60. CLOSE-UP I. 1959. Oil on paper mounted on canvas. 23% x 28%". 
+Collection Mr. and Mrs. Leon A. Mnuchin, New York. 
+
+61. WARWICK I. 1959. Oil on paper mounted on pressed wood, 22% x 29%". 
+Lent by Sidney Janis Gallery, New York. 
+
+62. AUGUST 23. 1959. Oil on paper mounted on pressed wood, 23 % x 29". 
+
+63. GROVE I. 1959. Oil on canvas. 69 x 72%". 
+Collection Lee V. Eastman. Scarsdale. New York. 
+
+64. PATH I. 1959. Oil on paper mounted on pressed wood, 31 x 40%". 
+Lent by Sidney Janis Gallery, New York. 
+
+65. TURN. 1959. Oil on board, 22% x 28%". 
+Lent by Sidney Janis Gallery, New York. 
+
+66. WILD GRAPE. 1959. Oil on paper mounted on pressed wood. 22% x 28%". 
+
+67. CLOSE-UP II. 1959. Oil on paper mounted on pressed wood, 23% x 29". 
+
+68. TRAVELER I. 1959. Oil on paper mounted on pressed wood, 31% x 32 %". 
+
+69. ROAD. 1959. Oil on paper mounted on pressed wood, 22% x 29%". 
+
+70. WINTERGREEN I. 1959. Oil on paper mounted on pressed wood, 31% x 32 %". 
+Collection Mr. and Mrs. James Roemer, Warren, Ohio. 
+
+71. WINTER FLOWER. 1959. Oil on paper mounted on pressed wood, 30% x 40%" 
+Collection Mr. and Mrs. Frederick Weisman, Los Angeles. 
+
+72. PAINTER I. 1959. Oil on canvas. 65 x 69". 
+Collection Mr. and Mrs. J. Daniel Weitzman, New York. 
+
+73. TRAVELER II. 1960. Oil on canvas. 65 x 73". 
+Lent by Dwan Gallery, Los Angeles. 
+
+74. TRAVELER III. 1959-60. Oil on canvas. 65 x 72". 
+Collection Mr. and Mrs. Donald M. Blinken, New York. 
+
+75. ROOM III. 1960. Oil on board, 29% x 37y4". 
+
+76. SLEEPER III. Oil on board. 29% x 40". 
+
+Collection Mr. and Mrs. Carlo M. Grossman. New York. 
+
+
+
+43 
+
+
+
+77. TABLE. 1960. Oil on board, 30 x 40". 
+Collection The Baltimore Museum of Art. 
+
+78. ALCHEMIST. 1960. Oil on canvas, 61 x 67". 
+
+Collection The Michener Foundation, Allentown Art Museum, Allentown, Pennsylvania. 
+
+79. PATH III. 1960. Oil on canvas, 64% x 76%". 
+Lent by Sidney Janis Gallery, New York. 
+
+80. FALL. 1960. Oil on paper, 22% x 28%". 
+Collection Mr. and Mrs. Bernard Reis, New York. 
+
+81. BLUE TABLE. 1960. Oil on paper, 42% x 32%". 
+
+82. PAINTER II. 1959-60. Oil on canvas, 69 x 57". 
+
+83. COMPOSER'S LANDSCAPE: TO M. F. 1960. Oil on canvas, 49 x 47". 
+
+84. SEPTEMBER. 1960. Oil on board, 29% x 38%". 
+Lent by Sidney Janis Gallery, New York. 
+
+85. VESSEL. 1960. Oil on board, 30 x 21%". 
+
+86. EDGE. 1960. Oil on canvas, 68 x 76". 
+Lent by Sidney Janis Gallery, New York. 
+
+87. GARDEN OF M. 1960. Oil on canvas, 68 x 78". 
+Lent by Dwan Gallery, Los Angeles. 
+
+88. HILL. 1961. Oil on paper mounted on pressed wood, 40 x 30%". 
+Lent by Sidney Janis Gallery, New York. 
+
+89. THE TALE. 1961. Oil on canvas, 68% x 72". 
+
+90. CLOSE-UP III. 1961. Oil on canvas. 70 x 72". 
+Collection Lee V. Eastman, Scarsdale. New York. 
+
+91. DUO. 1961. Oil on canvas, 72% x 68". 
+Lent by Sidney Janis Gallery, New York. 
+
+92. THE ACTORS I. 1961. Oil on board, 29% x 39%". 
+
+93. THE ACTORS II. 1961. Oil on board, 30 x 40". 
+Lent by Sidney Janis Gallery, New York. 
+
+94. THE ACTORS III. 1961. Oil on board, 29% x 39%". 
+Lent by Sidney Janis Gallery, New York. 
+
+95. THE ACTORS IV. 1961. Oil on board, 30 x 40". 
+
+96. THE SCALE. 1961. Oil on canvas, 76 x 74%". 
+Lent by Sidney Janis Gallery, New York. 
+
+97. NORTH. 1961-62. Oil on canvas, 69 x 77". 
+Lent by Sidney Janis Gallery, New York. 
+
+98. UNTITLED. 1962. Oil on canvas, 68 x 78". 
+Lent by Sidney Janis Gallery, New York. 
+
+
+
+44 
+
+
+
+
+46 
+
+
+
+7. Martial Memory. 1941. Collection City Art Museum of St. Loui. 
+
+
+
+
+2. Sanctuary. 1944. Lent by the artist. 
+
+
+
+
+6. Porch II. 1947. Collection Munson-lFilliams-Proctor Institute, Utica, New York. 
+
+
+
+49 
+
+
+
+
+50 
+
+
+
+8. Tormentors. 1947-48. Lent by the artist. 
+
+
+
+
+9. Review. 1943-49. Lent by the artist. 
+
+
+
+51 
+
+
+
+
+52 
+
+
+
+10. Untitled. 1949. Lent by the artist. 
+
+
+
+
+11. Red Painting. 1950. Lent by the artist. 
+
+
+
+53 
+
+
+
+
+-"-*.- 
+
+
+
+14. While Painting I. 1951. Lent by the artist. 
+
+
+
+55 
+
+
+
+
+au ..... 
+
+
+
+56 
+
+
+
+18. To B.W.T. 1952. Collection Mr. and Mrs. Leonard Brown, Springfield, Massachusetts. 
+
+
+
+
+19. Painting. 1952. Collection Mrs. Albert H. Neivman, Chicago. 
+
+
+
+57 
+
+
+
+
+58 
+
+
+
+20. Painting No. 6. 1952. Collection Department of Art, State College of Iowa, Cedar Falls. 
+
+
+
+
+I 
+
+
+
+■ V 
+
+
+
+V 
+
+
+
+V' '' \. 
+
+
+
+
+
+23. Attar. 1953. Collection Morton Feldman, New York. 
+
+
+
+59 
+
+
+
+
+24. Painting. 1954. Collection The Museum of Modern Art, New York. Gift oj Philip C. Johnson. 
+
+
+
+61 
+
+
+
+62 
+
+
+
+25. Beggar's Joys. 1954-55. Collection Sophie and Boris Leavitt, Hanover, Pennsylvania. 
+
+
+
+
+26. The Room. 1954-55. Lent by Divan Gallery, Los Angeles. 
+
+
+
+63 
+
+
+
+
+64 
+
+
+
+28. For M. 1955. Private Collection, Los Angeles. 
+
+
+
+- 
+
+
+
+
+
+
+
+^S8&amp; 
+
+
+
+^ 
+
+
+
+V. 
+
+
+
+-»*.'. 
+
+
+
+
+
+
+? 
+
+
+
+30. Untitled. 1955-56. Collection Mr. and Mrs. David A. Teiger, West Orange, New Jersey. 
+
+
+
+65 
+
+
+
+
+31. Voyage. 1956. Collection Albright-Knox Art Gallery,Bu.ffalo,New York. Gift of Seymour H.Knox. 
+
+
+
+67 
+
+
+
+
+"•jfe* 
+
+
+
+32. Dial. 1956. Collection Whitney Museum of American Art, New York. 
+
+
+
+69 
+
+
+
+
+
+
+
+70 
+
+
+
+33. Painter's City. 1956-57. Collection Mr. and Mrs. I. Donald Grossman. New York. 
+
+
+
+
+34. Fable I. 1956-57. Collection Washington University, St. Lou 
+
+
+
+71 
+
+
+
+J * f- \ 
+
+
+
+
+35. The Clock I. 1957. Collection The Museum of Modern Art, New York. Gift of Mrs. Bliss Parkinson. 
+
+
+
+73 
+
+
+
+
+74 
+
+
+
+36. Fable II. 1957. Lent by the artist. 
+
+
+
+
+38. Rite. 1957. Lent by Sidney J anis Gallery, New York. 
+
+
+
+1 
+
+
+
+*• 
+
+
+
+I 
+
+
+
+
+40. The Mirror. 1957. Collection Joseph H. Hazen, New York. 
+
+
+
+77 
+
+
+
+
+78 
+
+
+
+41. Oasis. 1957. Joseph H. Hirshhorn Collection, New York. 
+
+
+
+
+*# *.» 
+
+
+
+
+42. Native's Return. 195T. The Phillips Collection, Washington, D.C. 
+
+
+
+79 
+
+
+
+«K 
+
+
+
+J 
+
+
+
+%^sm - m 
+
+
+
+
+*&gt;■ 
+
+
+
+Jf 
+
+
+
+
+.IP 
+
+
+
+
+
+
+43. Passage. 1957-58. Collection Mrs. Phyllis B. Lambert, Neiv York. 
+
+
+
+81 
+
+
+
+
+45. To Fellini. 1958. Private Collection, New York. 
+
+
+
+83 
+
+
+
+
+84 
+
+
+
+49. Molt. 1958. Collection Dr. and Mrs. Nathan Alpers, Los Angeles. 
+
+
+
+
+53. Actor. 1958. Lent by the artist. 
+
+
+
+85 
+
+
+
+
+86 
+
+
+
+56. The Return. 1956-58. Lent by the Trustees oj the Tate Gallery, London. 
+
+
+
+
+57. Untitled. 1958. Lent by the artist. 
+
+
+
+87 
+
+
+
+
+59. Poet. 195S. Collection Mr. and Mrs. Morris H.Grossman, New York. 
+
+
+
+89 
+
+
+
+
+90 
+
+
+
+60. Close-up I. 1959. Collection Mr. and Mrs. Leon, A. Mnuchin, New York. 
+
+
+
+
+66. Wild Grape. 1959. Lent by the artist. 
+
+
+
+91 
+
+
+
+
+63. Grove I. 1959. Collection Lee V. Eastman, Scarsdale, New York. 
+
+
+
+93 
+
+
+
+
+94 
+
+
+
+68. Traveler I. 1959. Lent by the artist. 
+
+
+
+
+71. Winter Flower. 1959. Collection Mr. and Mrs. Frederick Weisman, Los Angeles. 
+
+
+
+95 
+
+
+
+
+72. Painter 1. 1959. Collection Mr. and Mrs. J. Daniel Weitzman. New York. 
+
+
+
+97 
+
+
+
+
+98 
+
+
+
+74. Traveler 111. 1959-60. Collection Mr. and Mrs. Donald M.Blinken, New York. 
+
+
+
+
+77. Table. 1960. Collection The Baltimore Museum of Art. 
+
+
+
+99 
+
+
+
+
+100 
+
+
+
+81. Blue Table. 1960. Lent by the artist. 
+
+
+
+
+78. Alchemist. 1960. Collection The Michener Foundation, Allentown Art Mus 
+
+
+
+eum, Allentown, Pennsylvania. 
+
+
+
+101 
+
+
+
+
+102 
+
+
+
+79. Path III. 1960. Lent by Sidney J anis Gallery, New York. 
+
+
+
+- 
+
+
+
+
+&lt;% 
+
+
+
+./■ 
+
+
+
+
+
+
+
+
+S2. Painter 11. 1959-60. Lent by Sidney Janis Gallery, Xeic York. 
+
+
+
+103 
+
+
+
+
+90. Close-up III. 1961. Collection Lee ).' Eastman, Scarsdale, New York. 
+
+
+
+105 
+
+
+
+
+91. Duo. 1961. Lent by Sidney Janis Gallery, New York. 
+
+
+
+107 
+
+
+
+92. The Actors I. 1961. Lent by the artist. 
+
+
+
+
+
+108 
+
+
+
+93. The Actors II. 1961. Lent by Sidney Janis Gallery, New York. 
+
+
+
+94. The Actors III. 1961. Lent by Sidney Janis Gallery. New York. 
+
+
+
+
+
+
+95. The Actors IT. 1961. Lent by the artist. 
+
+
+
+109 
+
+
+
+
+96. The Scale. 1961. Lent by Sidney Jams Gallery, New York. 
+
+
+
+Ill 
+
+
+
+
+112 
+
+
+
+97. North. 1961-62. Lent by Sidney Janis Gallery, New York. 
+
+
+
+I) RAW IMS IX THE EXHIBITION 
+
+
+
+Unless otherwise noted drawings are lent by the artist. 
+
+
+
+DRAWING NO. 1 (TORMENTORS). 1947. Ink, 15 x 22%". 
+
+DRAWING NO. 2 (ISCHIA). 1949. Ink, UYi x 15%". 
+
+DRAWING NO. 3. 1949. Charcoal, llY* x 21%". 
+
+DRAWING NO. 4. 1950. Ink, 24% x 38 7 /s". 
+
+DRAWING NO. 5. 1950. Ink. 12y 4 x 16%". 
+
+DRAWING NO. 6. 1950. Ink, 12 x 16 Y4". 
+
+DRAWING NO. 7. 1950. Ink, 16% x 12%". 
+
+DRAWING NO. 8. 1950. Ink, 12 % x 16%". 
+
+DRAWING NO. 9. 1951. Ink, 17 x 23%". 
+Collection Miss June Herman, New York. 
+
+DRAWING NO. 10. 1951. Ink, 18 x 21%". 
+
+DRAWING NO. 11. 1951. Ink, 18% x 23%". 
+Collection Mr. and Mrs. Herbert Matter, New York. 
+
+
+
+114 
+
+
+
+DRAWING NO. 12. 1952. Ink. 18 x 24". 
+
+DRAWING NO. 13. 1952. Ink, 12 x 17%". 
+
+DRAWING NO. 14. 1953. Ink. 17% x 22%". 
+
+DRAWING NO. 15. 1953. Ink. 17 x 21 7 /s". 
+Collection Mr. and Mrs. Adja Yunkers, New York. 
+
+DRAWING NO. 16. 1953. Ink. 11% x 17%". 
+
+DRAWING NO. 17. 1953. Ink, 17% x 23%". 
+
+DRAWING NO. 18. 1953. Ink, 16% x 21%". 
+
+DRAWING NO. 19 (RELATED TO ZONE). 1954. Ink, 17% x 23 %". 
+Collection David Herbert, New York. 
+
+DRAWING NO. 20. 1958. Ink, 20 x 24%". 
+
+DRAWING NO. 21. 1958. Ink, 19 x 24". 
+
+DRAWING NO. 22. 1958. Ink, 17% x 22". 
+
+DRAWING NO. 23. 1960. Ink on board, 18% x 23%". 
+
+DRAWING NO. 24. 1960. Ink, 18 x 24". 
+
+DRAWING NO. 25. 1960. Ink, 18% x 23%". 
+
+DRAWING NO. 26. 1960. Ink. 17% x 24". 
+
+DRAWING NO. 27. 1960. Ink. 18% x 23". 
+
+DRAWING NO. 28. 1960. Ink, 18 x 24". 
+Collection Mr. and Mrs. Stanley Kunitz, New York. 
+
+DRAWING NO. 29. 1960. Ink, 17% x 23%". 
+DRAWING NO. 30. 1961. Ink, 10% x 13%". 
+DRAWING NO. 31. 1962. Ink, 22 x 28". 
+
+
+
+115 
+
+
+
+DOCUMENTATION 
+
+
+
+&lt; lllCO\OI &lt;H.1 
+
+
+
+1913 Born in Montreal, Canada 
+
+1919 Moved to Los Angeles, California 
+
+1930 Studied several months, Otis Art Institute, Los Angeles 
+
+1934 Traveled in Mexico 
+
+1934-35 Worked in Public Works Administration, Los Angeles 
+
+1936 Moved to New York City 
+
+1936-40 Worked in mural division of WPA Federal Arts Project 
+
+1937 Married Musa McKim 
+
+1938-42 Commissions from Treasury Department's Section of Fine Arts 
+
+1941-45 Visiting Artist. State University of Iowa 
+
+1944 First one-man show, State University of Iowa 
+
+1945 Awarded First Prize, Carnegie Institute, Pittsburgh 
+First New York exhibition. Midtown Galleries 
+
+1945-47 Visiting Artist, Washington University, St. Louis 
+
+1947 Awarded Guggenheim Fellowship 
+Moved to Woodstock, New York 
+
+1948 Awarded $1,000 grant from American Academy of Arts and Letters 
+Awarded Prix de Rome 
+
+1948-49 Traveled for a year in Italy, Spain, and France 
+
+1950 Visiting Artist, Spring Quarter, University of Minnesota 
+
+1951 Moved to Woodstock, New York, and New York City 
+1951-59 Taught drawing, New York University 
+
+1953-57 Taught drawing, Pratt Institute, New York 
+
+1959 Awarded S10.000 grant from Ford Foundation 
+
+
+
+117 
+
+
+
+PUBLIC COLLECTIONS 
+
+Albright-Knox Art Gallery, Buffalo 
+
+Art Institute of Chicago 
+
+The Baltimore Museum of Art 
+
+Cleveland Museum of Art 
+
+The Solomon R. Guggenheim Museum, New \ork 
+
+Krannert Art Museum. University of Illinois, Urbana 
+
+Metropolitan Museum of Art, New York 
+
+The Michener Foundation, Allentown Art Museum, Allentown, Pennsylvania 
+
+The Minneapolis Institute of Arts 
+
+Munson-Williams-Proctor Institute, Utica, New York 
+
+The Museum of Modern Art, New York 
+
+The Phillips Collection, Washington, D.C. 
+
+City Art Museum of St. Louis 
+
+Department of Art, State College of Iowa, Cedar Falls 
+
+Tate Gallery, London 
+
+Washington University, St. Louis 
+
+Whitney Museum of American Art, New \ork 
+
+Worcester Art Museum, Worcester, Massachusetts 
+
+
+
+118 
+
+
+
+ONE MAIN' SHOWS 
+
+1944 University of Iowa, Iowa City 
+
+1945 Midtown Galleries, New York 
+
+1947 School of the Museum of Fine Arts, Boston 
+
+Munson-Williams-Proctor Institute, Utica, New York 
+1950 University of Minnesota, Minneapolis 
+
+1952 Peridot Gallery, New York 
+
+1953 Egan Gallery, New York 
+
+1956 Sidney Janis Gallery, New York 
+
+1958 Sidney Janis Gallery, New York 
+
+1959 Retrospective one-man exhibition at the V Bienal, Sao Paulo, Brazil 
+
+1960 One-man exhibition at the XXX Biennale, Venice 
+Sidney Janis Gallery, New York 
+
+1961 Sidney Janis Gallery, New York 
+
+Two-man exhibition, with Franz Kline, Dwan Gallery, Los Angeles 
+
+
+
+MAJOII l.llltl l&gt; ■ Mllltl I IONS 
+
+See also listing of Exhibition Catalogues 
+
+Exhibitions listed below include two or more paintings by the artist. 
+
+1951 40 American Painters, 1940-1950. University of Minnesota, Mineapolis 
+1953 Abstract Expressionists. Baltimore Museum of Art 
+
+1956 12 Americans. The Museum of Modern Art, New York 
+
+1957 IV Bienal. Museu de Arte Moderna, Sao Paulo, Brazil 
+
+1958 Primera Bienal Interamericana de Pintura y Grabado. Instituto Nacional de Bellas Artes, Mexico City 
+The New American Painting. The Museum of Modern Art, New York 
+
+1959 Eighteen Living Americans. Whitney Museum of American Art, New York. 
+Kunst Nach 1945. II. Documenta. Cologne, Kassel 
+
+1961-62 The Sidney Janis Painters. John &amp; Mable Ringling Museum, Sarasota 
+
+1961-62 American Vanguard. Austria, Yugoslavia, London, circulated by the United States Information Agency 
+
+
+
+&gt;l A.IOH MURAL COMMISSIONS 
+
+
+
+1939 Facade, WPA Building, New York World's Fair 
+
+1940 Queensbridge Housing Project, New York 
+
+1941 Forestry Building, Laconia, New Hampshire (Collaboration with Musa McKim) 
+
+1942 Social Security Building, Washington, D.C. 
+
+
+
+119 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+I. PANEL IHSI I SSIO&gt;!S. I\TKRVIEWS. U IIITIM.S BY THE ARTIST 
+
+
+
+"Statement." 12 Americans, New York. The Museum of Modern Art. 1956. p. 36 
+
+"Art in New York." Sam Hunter. Playbill, New York. vol. 1. no. 8, November. 1957. pp. 52-53 (interview) 
+
+"Statement."' Bradley Walker Tomlin. New York. Whitney Museum of American Art. 1957, p. 9 
+
+Recorded interview with June Pring. New York. Columbia University. June 25. 1957 
+
+"Statement." Francis Celentano. The Origins and Development of Abstract Expressionism in the United States, New York, unpublished 
+
+Master's Thesis. New \ork University, 1957 
+
+"Statement." It Is, New York. no. 1, Spring, 1958. p. 44 
+
+"Statement." Nature in Abstraction, New York. Whitney Museum of American Art. 1958. p. 69 
+
+"Statement." The New American Painting. New York. The Museum of Modern Art. 1958-59. pp. 40-43 
+
+"Panel Discussion." It Is, New York, no. 5. Spring. 1960. pp. 2. 34-38 I with Philip Guston. Robert Motherwell. Ad Reinhardt. Harold 
+
+Rosenberg. Jack Tworkov) 
+
+Recorded interview with H. H. Arnason. New \ork. The Solomon R. Guesrenheim Museum, January 22-30. 1962 
+
+
+
+II. &gt;iOMM,ll\l&gt;ll 
+
+
+
+Ashton, Dore. Philip Guston, New York. Grove Press. 1959 
+
+
+
+III. EXHIBITION CATALOGUES 
+
+
+
+Group Show. New \ork. National Institute of Arts and Letters, 1948 
+
+Philip Guston. Minneapolis. The University Gallery. University of Minnesota. April 10-May 12. 1950 i contains twelve reproductions of 
+
+early work: documentation includes awards, teaching positions, commissions, etc. I 
+
+Contemporary American Painting. 5th Biennial Purchase Exhibition, Introduction by H. H. Arnason. Minneapolis. Walker Art Center. 
+
+October 15-December 10. 1950 
+
+Abstract Painting and Sculpture in America. Introduction by Andrew C. Ritchie. New \ork. The Museum of Modern .Art. January 23- 
+
+March 25. 1951 
+
+Exhibition oj Paintings and Sculpture. New York. Ninth Street Gallery, May 21-June 10. 1951 
+
+40 American Painters, 1940-1950, Introduction by H. H. Arnason. Minneapolis. The University Gallery. University of Minnesota. June 4- 
+
+August 30. 1951 
+
+Painting 1948-1951 by Philip Guston. New York. Peridot Gallery. January 2-26, 1952 
+
+American Vanguard Art tor Paris Exhibition. New York. Sidney Janis Gallery. December 26. 1951-January 5. 1952: Paris. Galerie de 
+
+France. February 26-March 15, 1952 
+
+Abstract Expressionists. Baltimore. The Baltimore Museum of Art. March 3-29. 1953 
+
+Younger American Painters. New York. The Solomon R. Guggenheim Museum. May 12-September 26. 1954 
+
+Italy Re-Discovered. Utica. New York. Munson-Williams-Proctor Institute. March 6-27. 1955 
+
+
+
+120 
+
+
+
+Catalogue. New York, Sidney Janis Gallery. February 6-March 3, 1956 
+
+7 Americans. New York, Sidney Janis Gallery, September 24-October 20, 1956 
+
+12 Americans. New York, The Museum of Modern Art, May 29-September 9, 1956 
+Catalogue. Sao Paolo, Brazil, Museu de Arte Moderna, September, 1957 
+
+8 Americans. New York, Sidney Janis Gallery, April 1-20. 1957 
+
+Nature in Abstraction. New York. Whitney Museum of American Art, January 14-March 16, 1958 (circulated to six American cities by 
+the Whitney Museum) 
+
+Primera Bienal lnteramericana de Pintura y Grabado. Mexico City. Instituto Nacional de Bellas Artes, Secretaria de Educacion Ptiblica 
+June 6-August 20, 1958 
+
+The 1913 Armory Shoiv in Retrospect. Amherst, Massachusetts. Amherst College, February 17-March 17, 1958 
+The Museum and Its Friends: A Loan Exhibition. New York, Whitney Museum of American Art, April 30-June 15, 1958 
+The New American Painting. As Shown in Eight European Countries 1958-1959. New York, The Museum of Modern Art, 1959 (exhibi- 
+tion organized by the International Program of the Museum of Modern Art) 
+
+V Bienal, Introduction by Sam Hunter. Sao Paolo, Brazil, Museu de Arte Moderna. September 21-December 31, 1959 (exhibition organ- 
+ized by the Minneapolis Institute of Arts: text in English and Portuguese) 
+
+8 American Painters. New York, Sidney Janis Gallery, January 5-21, 1959 
+Kunst Nach 1945. II. Documenta. Cologne, Kassel, July 11-October 11. 1959 
+
+The Museum and Its Friends: Second Loan Exhibition. Eighteen Living American Artists Selected, by Friends of the Whitney Museum. 
+
+New York, Whitney Museum of American Art, March 5-April 12, 1959 
+
+Modern American Painting 1930-1958, Text by Dorothy Adlow. St. Louis, City Art Museum of St. Louis, 1959; London, City of York Art 
+
+Gallery, August 15-September 20, 1960 (exhibition circulated by the United States Information Agency) 
+
+American National Exhibition in Moscoiv. Sokolniki. Summer. 1959 (exhibition organized by the Whitney Museum of American Art, 
+
+New York) 
+
+Guston. New \ork, Sidney Janis Gallery, December 28, 1959-January 23, 1960 
+
+9 American Painters. New York, Sidney Janis Gallery, April 4-23, 1960 
+Undid Americani. Milan, Galleria dellAriete. April 27 -May. 1960 
+
+Contemporary American Painting. Columbus, Ohio, Columbus Gallery of Fine Arts, January 14-February 19, 1960 
+Quattro Artisti Americani: Guston, Hojmann, Kline, Roszak, Introduction by Kenneth B. Sawyer. Venice, XXX Biennale. 1960 
+XXX Biennale Internazionale d'arte. "Philip Guston," by Dore Ashton, Venice, 1960, pp. 318-319 
+
+American Abstract Expressionists and Imagists, Introduction by H. H. Arnason. New York, The Solomon R. Guggenheim Museum, 
+October 13-December 31, 1961 
+
+American Vanguard, Introduction by H. H. Arnason. Austria. Yugoslavia, London; 1961-1962 (circulated by the United States Informa- 
+tion Agency) 
+
+One Hundred Paintings from the G. David Thompson Collection. New York, The Solomon R. Guggenheim Museum, May-August, 1961 
+(part of a larger exhibition held in Diisseldorf Kunstmuseum, December 14, 1960-January 29, 1961) 
+An Exhibition in. Tribute to Sidney Janis. State College, Pennsylvania, Hetzel Union Gallery, February 3-24, 1961 
+
+Modern American Drawings. Jerusalem, Bezalel National Museum, 1961 (catalogues in English and Hebrew; exhibition organized by 
+The Museum of Modern Art, New York) 
+
+10 American Painters. New York, Sidney Janis Gallery, May, 1961 
+
+The Collection of Mr. &amp; Mrs. Ben Heller. New York, The Museum of Modern Art, 1961 
+
+Ringling Museum of Art Bulletin. "The Sidney Janis Painters." Sarasota. John and Mable Ringling Museum of Art, vol. 1, no. 3. 1961 
+
+(foreword by Kenneth Donahue, introduction by Dore Ashton) 
+
+The Face of the Fifties. Ann Arbor, University of Michigan Art Museum, 1961 
+
+Guston-KHne. Los Angeles. Dwan Gallery. April 2-26, 1961 
+
+Group Shoiv. Chicago, Holland-Goldowsky Gallery, September-October, 1961 (five drawings) 
+
+The artist has also exhibited regularly since the 1940s in all major national and annual shows, including those organized by 
+
+Whitney Museum of American Art, 
+
+The Pennsylvania Academy of Fine Arts, 
+
+The Carnegie Institute. 
+
+The San Francisco Museum of Art, 
+
+The Art Institute of Chicago, 
+
+The Corcoran Gallery, 
+
+Krannert Art Museum of the University of Illinois. 
+
+
+
+121 
+
+
+
+IV. PERIODICALS AND BOOKS 
+
+Articles are arranged alphabetically within a chronological listing. 
+
+Articles of special interest are marked with an asterisk *. 
+
+In the following bibliography, articles listed as reviews describe a single exhibition. 
+
+Larger and more comprehensive reviews which also describe a specific exhibition are listed by author. 
+
+
+
+1941 Caspers, Frank. "Guston Goes to Iowa," Art Digest, New York, vol. 15, no. 19, September 1, 1941, p. 29 
+
+1942 *Janson, H. W. " 'Martial Memory' by Philip Guston and American Painting Today." St. Louis Museum Bulletin, St. Louis, 
+vol. 27, nos. 3-4, pp. 34-41 (with reproductions: Fighting Boys, 1940. and Fighting Boys, detail of mural in Queensbridge 
+Housing Project, 1942) 
+
+1943 "Brave New World, F.O.B." Fortune, New York, vol. 28, no. 2, August, 1943, pp. 124, 126-127 (illustrations by the artist) 
+"Guston's Social Security Mural: completed despite war," Art News, New York, vol. 42, March 1, 1943, p. 8 
+
+"Troop Carrier Command," Fortune, New York, vol. 28, no. 4, October, 1943, pp. 130-135 (illustrations by the artist) 
+
+1945 Reviews, Exhibition at Midtown Galleries, January, 1945 : 
+
+Bruening, Margaret, Art Digest, New York, January 15, 1945, p. 12 
+
+Frost, Rosamond, "Guston: Meaning Out of Monumentality." Art News, New York, no. 43, February 1, 1945, p. 24 
+
+Pictures on Exhibit, New York. January. 1945, pp. 21, 26 
+
+1946 "Carnegie Winner's Art is Abstract and Symbolic," Life, New York. May 27, 1946. pp. 90-92 (three pages of color plates) 
+
+O. Henry, "Gift of the Magi," Art News, New York, vol. 45, section 2, December, 1946, pp. 69-76 (illustrations by the artist) 
+"St. Louis Buys Another Guston," Art Digest, New York, vol. 20, no. 7, January 1, 1946, p. 12 
+
+1947 *Janson, H. W "Philip Guston," The Magazine of Art, Washington, D.C., vol. 40, no. 2, February, 1947, pp. 54-58 
+
+1948 Genauer, Emily. Best of Art, New York, Doubleday, 1948, pp. 15-17 
+
+Gruskin, Alan D. Painting in the U.S.A., New York, Doubleday, 1948. pp. 88, 115 
+
+"Guston Awarded Academy of Rome Fellowship," College Art Journal, New York, vol. 7, no. 4, 1948, p. 346 
+
+Holmes, Mary. "Metamorphosis and Myth in Modern Art," Perspective, Louisville, Winter, 1948, pp. 77-85 
+
+1949 Larkin, Oliver W. Art and Life in America, New York, Rinehart, 1949, pp. 426, 473-475, 477 
+
+1951 Ritchie, Andrew C. Abstract Painting and Sculpture in America, New York, The Museum of Modern Art, 1951, p. 151 
+
+1952 Reviews, Exhibition at Peridot Gallery. January 2-26. 1952: 
+
+Art Digest, New York, no. 50, January 1, 1952, p. 18 
+
+Chanin, A. L. "Controversial Show by Philip Guston," New York Compass, New York, January 6, 1952, p. 24 
+
+Time, New York, no. 59, January 7, 1952, p. 56 (with photograph of the artist) 
+
+1953 Reviews, Exhibition at Egan Gallery, January 14- February 7, 1953: 
+
+Brach, Paul, "Affirmation," Art Digest, New York, January 15, 1953, p. 13 
+Porter, Fairfield, Art News, New York. February, 1953, p. 55 
+
+1955 Schwartz. Delmore. "Fulfillment: Poem," Art News Annual, New York, no. 24, 1955, pp. 90-91 (with drawing by the artist) 
+
+1956 *Ashton, Dore. "Art: The Age of Lyricism," Arts and Architecture, Los Angeles, vol. 73, no. 3, March, 1956, pp. 14-15, 43-44 
+Ashton, Dore. "L'Apport artistique des Etats-Unis," XXe Siecle, Paris, no. 7, supplement, June, 1956 (unpaged) 
+
+Ashton, Dore. "Art," Arts and Architecture, Los Angeles, vol. 73, no. 9, September, 1956, pp. 4, 5, 13, 35-36 
+
+Ashton, Dore. "Painting Today in New York," Revue de I'art actuel, Paris, November-December, 1956, pp. 8, 14 
+
+Creeley, Robert. "Philip Guston: A Note," Black Mountain Review, Black Mountain, North Carolina, Spring, 1956 
+
+''Steinberg, Leo. "Fritz Glarner and Philip Guston Among '12 Americans' at the Museum of Modern Art," Arts, New York, vol. 
+
+30, June, 1956, pp. 42-45 
+
+"Wild Ones." Time, New York, no. 67, February 20, 1956, pp. 74-75 
+
+Reviews. Exhibition at Sidney Janis Gallery, February 6-March 3, 1956: 
+
+Butler, Barbara, Arts, New York, vol. 30, February, 1956, p. 53 
+
+Chamberlain, Betty, Art News, New York, vol. 54, February, 1956, p. 47 
+
+New York Times, New York, February 12, 1956 
+
+Village Voice, New York, March, 1956 
+
+
+
+122 
+
+
+
+1957 * Ashton. Dore. "Art," Arts and Architecture, Los Angeles, vol. 74, no. 6, June, 1957, pp. 8-10 
+Edwards, F. "Apollon Och Minotauros," Paletten, Gbteborg, no. 1, 1957, pp. 7-18 (Swedish text) 
+
+Eliot, Alexander. Three Hundred Years of American Painting, New York, Time, Inc., 1957, pp. 272, 274, 278 
+
+Tillim. Sidney. "Jackson Pollock, a critical evaluation." College Art Journal, New York, vol. 16. no. 3, 1957, pp. 242-243 
+
+1958 Ashton, Dore. "The American Signature," XXe Steele, Paris, no. 10, March, 1958. p. 9 
+*Ashton. Dore. "Art," Arts and Architecture, Los Angeles, vol. 75. no. 5, May. 1958, pp. 5, 28-29 
+Buffalo Gallery Notes, Buffalo, April 21, 1958. p. 13 
+
+Hess, Thomas B. "Inside Nature." Art News, New York, vol. 56, no. 10, February, 1958, pp. 40-44, 60-65 
+
+* Hunter, Sam, and others. Art Since 1945, New York, Abrams, 1958, pp. 318, 320-322, 324-326, 328 (soft cover edition: Washing- 
+ton Square Press, New York. 1961, pp. 313-319) 
+*Suro, Dario. "Philip Guston," Cuadernos, Madrid, September. 1958 
+Reviews, Exhibition at Sidney Janis Gallery, February 24-March 22. 1958: 
+
+Dash, R. Warren, Arts, New York, vol. 32. no. 7, April. 1957, p. 60 
+
+New York Post, New York, February, 1958 
+
+New York Times, New York, March 2, 1958 
+
+Tyler, Parker, Art News, New York, vol. 57, no. 2, April, 1958, p. 12 
+
+1959 Ashton, Dore. "Art," Arts and Architecture, Los Angeles, vol. 76, no. 3, March, 1959, pp. 8, 28-29 
+Ashton, Dore. "Derniere nouvelles de la peinture americaine," XXe Siecle, Paris, no. 3, March, 1959, p. 10 
+Canaday, John. "Philip Guston. Abstractionist..." New York Times, New York, December 30, 1959 
+Hunter, Sam. Modern American Painting and Sculpture, New York. Dell, 1959, pp. 157-160 
+
+Rosenberg, Harold. "Tenth Street : A Geography of Modern Art," Art News Annual, New York, 1959, pp. 120-143 
+
+Russell, John. "The 'New American Painting' Captures Europe." Horizon, New York, vol. 2, no. 2. November, 1959, pp. 32-41 
+
+*Sandler, Irving. "Guston: A Long Voyage Home," Art News, New York, vol. 58, no. 8, December, 1959, pp. 36-39, 64-65 
+
+1960 Alloway, Lawrence. "Venice-Europe 1960," Art International. Zurich, vol. 4. nos. 2-3. 1960. pp. 26-27 
+Ashton, Dore. "Perspective de la peinture americaine." Cahiers d'Art, Paris, vols. 33-35, 1960, pp. 212-214 
+
+Ashton, Dore. "La section americaine a la Biennale de Venise," XXe Siecle, Paris, no. 6, June, 1960. pp. 34-35 (with English text I 
+
+*Ashton, Dore. "Art," Arts and Architecture, Los Angeles, vol. 77. no. 3, March, 1960. pp. 10-11 
+
+*Breeskin, Adelyn. "Trois peintres americains." L'Oeil, Paris, vols. 67-68. July-August. 1960. pp. 54-59 
+
+Burrows, Carlyle. "Style Change Best for Guston." New York Herald Tribune, New York. January 3, 1960 
+
+Butler. Barbara. "Movie Stars and Other Members of the Cast." Art International, Zurich, vol. 4. nos. 2-3. 1960, pp. 50-56 
+
+Dorfies. G. "Gli stranieri alia XXX Biennale di Venezia," Domus, Milan, no. 371, October. 1960, p. 37 
+
+*Goldwater. Robert. "Reflections on the New York School." Quadrum, Brussels, no. 8. 1960, p. 28 
+
+Haftmann. Werner. Painting in the Twentieth Century, New York. Praeger, 1960, pp. 353-391 
+
+Henning. W B. "Paths of Abstract Art," Bulletin of the Cleveland Museum of Art, Cleveland, vol. 47, October, 1960, pp. 199-201 
+
+"La Quinta Biennale di Sao Paolo." Domus, Milan, no. 362. January. 1960. p. 47 
+
+Tillim, Sidney. "Report on the Venice Biennale," Arts, New York, vol. 35. October, 1960, p. 33 
+
+Reviews, Exhibition at Sidney Janis Gallery, December 28, 1959-January 23. 1960: 
+
+Ashton, Dore. "Philip Guston." Evergreen Review, New York, vol. 4, no. 14. September-October. 1960. pp. 88-91 
+
+(reprint from.4m and Architecture, Los Angeles, March. 1960, with four additional color reproductions) 
+
+Canaday, John. "Two American Painters," New York Times, New York. January 3. 1960 
+
+Pictures on Exhibit, New York, February, 1960, p. 6 
+
+Roberts. Colette. "Abstraction et poesie," Les Arts, Paris. January 17, 1960. p. 17 
+
+Schiff, Bennett, New York Post, New York, January 10, 1960. p. M12 
+
+Tillim. Sidney. "Show at Sidney Janis Gallery." Arts, New York, vol. 34, February. 1960, p. 52 
+
+1961 Alloway. Lawrence. "Ashton on Guston," Arts Review, London, vol. 13, no. 14, 1961, pp. 17, 20 
+*Canaday. John. "Vote of Confidence." New York Times, New York. February 19, 1961 
+
+Coates, Robert M. "The Art Galleries." The New Yorker, New York, February 25, 1961, pp. 90, 93 
+
+Langsner. Jules. "Los Angeles Letter." Art International, Zurich, vol. 5. nos. 5-6. June-August. 1961. p. 64 
+
+Ponente. Nello. Contemporary Trends, Geneva. Skira. 1961. pp. 149. 156 
+
+Reviews, "American Abstract Expressionists and Imagists," New York, The Solomon R. Guggenheim Museum, 
+
+October 13- December 31, 1961 : 
+
+Alloway. Lawrence. "Easel Painting at the Guggenheim," Art International, Zurich, vol. 5, no. 10, 1961, p. 33 
+
+Ashton, Dore. "Art," Arts and Architecture, Los Angeles, vol. 77, no. 12. December. 1961, p. 5 
+
+Coates. Robert M. "The Art Galleries," The New Yorker, New York. November 4. 1961 
+Review, Exhibition at the Dwan Gallery. Los Angeles. April 2-26, 1961 : 
+
+Nordlund. Gerald. Frontier, Los Angeles, April, 1961, p. 24 
+Reviews, Exhibition at Sidney Janis Gallery. February 13-March 11. 1961: 
+
+Art News, New York, vol. 60, March, 1961, p. 10 
+
+Genauer. Emily. "Masson and Guston." New York Herald Tribune, New York. February 19. 1961 
+Reviews, "10 American Painters," Exhibition at Sidney Janis Gallery, May. 1961: 
+
+Art News, New York, vol. 60. no. 6. Summer. 1961. p. 10 
+
+Sandler. Irving. "New York Letter," Art International, Zurich, vol. 5, no. 3, April 5. 1961. p. 38 
+
+Tillim. Sidney. "Latest Work at the Sidney Janis Gallery." Arts, New York. vol. 35. April. 1961, p. 49 
+
+1962 Ashton, Dore. "Philip Guston," Metro, Milan, no. 3. 1962. pp. 33-41 
+
+Ashton, Dore. "Art U.S.A. 1962." The Studio, London, vol. 163, no. 827, March 1962. pp. 84-86 
+
+
+
+123 
+
+
+
+STAFF OF THE MUSEUM 
+
+
+
+Director 
+
+Administrative Assistant 
+Curator of Education 
+Assistant Curator 
+Public Relations 
+Membership 
+Registrar 
+Conservation 
+Photography 
+
+Business Administrator 
+Administrative Assistant 
+Office Manager 
+Building Superintendent 
+Head Guard 
+
+
+
+Thomas M. Messer 
+
+Sheila More Ogden 
+
+Louise Averill Svendsen 
+
+Daniel Robbins 
+
+Peter Pollack 
+
+Donna Butler 
+
+Arlene B. Dellis 
+
+Orrin Riley and Saul Fuerstein 
+
+Robert E. Mates 
+
+Glenn H. Easton. Jr. 
+Viola H. Gleason 
+Agnes R. Connolly 
+Peter G. Loggin 
+George ]. Sauve 
+
+
+
+STAFF OF THE EXH1BITI0X 
+
+
+
+Director of the Exhibition and Catalogue H. H. Arnason 
+
+
+
+Assistant 
+
+Editor of the Catalogue 
+
+Bibliography and Documentation 
+
+Registrar 
+
+Installation 
+
+Staff Photographer 
+
+
+
+Barbara Burn 
+
+Louise Averill Svendsen 
+
+Maurice Tuchman 
+
+Arlene B. Dellis 
+
+Orrin Riley, Saul Fuerstein 
+
+Robert E. Mates 
+
+
+
+125 
+
+
+
+PHOTOGRAPHIC CREDITS All photographs but the following were made by Robert E. Mates: 
+
+Oliver Baker: Nos. 28, 38, 41, 42, 53, 60, 66, 68, 74, 79. 
+Cohen Photos: Nos. 35, 43. 
+Peter Julie: No. 30. 
+City Art Museum of St. Louis: No. 1. 
+The Museum of Modern Art, New York: No. 24. 
+
+
+
+Exhibition '62/4 
+
+The Solomon R. Guggenheim Museum, New York, May 2— July 1, 1962 
+
+Los Angeles County Museum, May 15 — June 23, 1963 
+
+
+
+GUGGENHEIM MUSEUM MONOGRAPHS 
+
+4,000 copies, designed by Herbert Matter 
+
+have been printed by Sterlip Press, Inc. 
+
+in May 1962 
+
+for the Trustees of The Solomon R. Guggenheim Foundation 
+
+on the occasion of the exhibition 
+
+"Philip Guston" 
+
+
+
+THE SOLOMON B. GUGGENHEIM MUSEUM 1071 FIETH AVENUE, NEW YORK 28, N. Y. 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0034   0.0034      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0046   0.0012      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0063   0.0017     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0190   0.0127   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0191   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.1218   0.1027              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=121;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

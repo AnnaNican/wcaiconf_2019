@@ -1,0 +1,4618 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "James Rosenquist : the swimmer in the econo-mist"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/rosenquis00rose">James Rosenquist : the swimmer in the econo-mist</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/rosenquis00rose">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+Swimmer in the Econo-mist 
+
+
+
+Deutsche Guggenheim berlin 
+
+
+
+JAMES RQSEMHJS^ 
+
+
+
+cono-mist 
+
+
+
+James Rosenquist: 
+
+The Swimmer in the Econo-mist 
+
+
+
+Curated by Robert Rosenblum 
+
+Deutsche Guggenheim Berlin 
+March 7 -June 14, 1998 
+
+c 1998 The Solomon R. Guggenheim 
+Foundation, New York. All rights reserved. 
+
+All works by James Rosenquist reproduced in 
+this book G James Rosenquist/ Licensed by 
+VAGA, New York Used by permission. 
+All rights reserved. 
+
+ISBN 0-89207-204-0 
+
+Guggenheim Museum Publications 
+
+1071 Fifth Avenue 
+
+New York, New York 10128 
+
+Designed by Margot Perman, Real Design 
+
+Printed m Germany by Cantz 
+
+
+
+Photo credits; cat nos. 1, 3, p 12 Lee Ewing, 
+cat no 2: Peter Foe, cat. nos. 4-15, p 34: 
+Ellen Labenski, fig. nos. 1, 11: courtesy of the 
+James Rosenquist studio, fig no 3 t 1998 
+The Museum of Modern Art, New York, fig. 
+
+Rhemisches Bildarchiv Koln; fig. no. 6: 
+George Holzer; fig. no 7 c 1996 The 
+Metropolitan Museum of Art, fig no. 8: 
+c 1998 Estate of Pablo Picasso/Artists Rights 
+Society (ARS), New York, photo by Giraudon/ 
+Art Resource, New York, fig. no. 10: all rights 
+reserved, The Metropolitan Museum of Art 
+Images of Rosenquist in his studio by 
+Gianfranco Gorgom 
+
+Front cover- The Swimmer in the Econo-mist, 
+(painting 2), 1997 (cat. no 2) 
+
+Pp 6, 24: James Rosenquist working on 
+
+The Swimmer In the Econo-mist in his studio in 
+
+Aripeka, Fla., 1997 
+
+P 12: Detail of The Swimmer in the 
+Econo-mist (painting 3). 1997 (cat. no. 3) 
+
+P 18 Detail of Rosenquist in his studio 
+
+P. 34 Detail of study for The Swimmer in the 
+Econo-mist (painting 3), 1997 (cat no. 11) 
+
+
+
+Contents 
+
+
+
+7 
+
+Interview with James Rosenquist 
+
+ROBERT ROSENBLU M 
+
+
+
+The Swimmer in the Econo-mist: 
+
+
+
+The Paintings 
+
+
+
+Swimming in the Mist: 
+Another Time, Another Country 
+
+JUDITH GOLDMAN 
+
+
+
+The Swimmer in the Econo-mist: 
+Studies 
+
+
+
+Select Exhibition History 
+and Bibliography 
+
+JANICE YANG 
+
+
+
+Foreword 
+
+
+
+3 50 \ 2" 50 in. 3.50 \ 14.60 m and 3 50 \ 6.10 m — this, in a nutshell, 
+is the formal description ofjames Rosenquist's new work, rhese are the 
+uniisu.il dimensions of The Swimmei in the Econo-mist, a three-part 
+painting made specially b\ the American artist for Pouts, he 
+Guggenheim Berlin.The first showing of a work commissioned for the 
+gallery, its presentation follows the historically focused inaugural 
+exhibition. Visions of Paris. Robert Delaunay's Series, and more exhibitions 
+are to tome 
+
+mmissioned works form an important part of our program. 
+i )ur intention is to contribute to Berlin's cultural life with relatively 
+compact but out oi-the-ordm..r\ exhibitions tailored to our space. The 
+response has been overwhelming. More than 45,000 visitors saw 
+Delaunay's Paris paintings. I ongei opening hours and tree admission on 
+Mondays were positively received, as were the guided tours and 
+lunchtime lectures. Our special events, including a "Soiree Delauna) 
+and a film series entitled "Visions of Paris," were sold out. 
+
+Rosenquist is one of American Pop art's most important 
+representatives. He achieved international acclaim with his first large- 
+s&lt; ale canvas, /-///. completed in 1965.The biggest Pop art painting in 
+the world at that time, with a width of more than twenty-six meters, it 
+w.is shown after its debut at the Leo Castelli Gallery in New York at 
+several ol Europe's most important museums m a traveling exhibition 
+
+In subsequent years. Rosenquist has produced further "big 
+paintings" Prior to The Swimmei in the Econo-mist, he painted The Holy 
+Roman Empire through Check l&gt;&gt;&lt;nit Charlie (1994), which alludes to 
+Berlin 
+
+Rosenquist gained wide recognition in Germany in the 1960s. 
+The collector Peter Ludwig met him in 1968 and soon afterwards 
+purchased Horse Blinders (1968-69), tod. in one of the artistic highlights 
+of the Ludwig Museum in Cologne The work, which is more than 
+twenty-five meters wide, is one of Rosenquist's "environmental 
+paintings." the term for a series of paintings that, like I - I I I. cover the 
+
+
+
+walls of an exhibition space to create a "room" themselves. The Swimmei 
+in the Econo-mist, created for Deutsche Guggenheim Berlin's gallery, is 
+such a wraparound work, but transcends earlier ones in terms of size 
+To show historically important material from a contemporary 
+perspective .\n^\ support the creation of new work — this mission defines 
+our cultural activities in Berlin, now and in the future. 
+
+Dr. Rolf-E. Breuei 
+
+Spokesman of the Board of Managing Directors, Deutsche Bank AG 
+
+
+
+Preface 
+
+
+
+One of the primary missions of the Deutsche Guggenheim Berlin is to 
+commission major works by the most prominent and promising artists 
+of our time. The elegant simplicity of the Richard Gluckman-designed 
+gallery is intended to provide an uniting setting in which artists can 
+realize their own visions. With the spectacular suite of three paintings 
+entitled The Swimmet in the Econo-mist (1997-98), made expressly for our 
+new exhibition spate in Berlin, James Rosenquist has given this program 
+a remarkable launching. 
+
+Rosenqmst and 1 began discussions regarding the commission in 
+November 1996, the month of the most recent presidential election in 
+the United Stales: the paintings were completed in 1998, the year of a 
+general election in Germany. The timing proved to be auspicious. As the 
+artist has repeatedly said, tor him. election years are tilled with the 
+possibility ot change, kosenquist's first two monumental room-scale 
+works, /-/// (1964-65) and Horse Blinders (1968-69), were also begun 
+in election \ ears, during a particularly charged period in American 
+history. It was a time of prosperity, but also of the Vietnam War, race 
+riots, and political assassinations 
+
+Like those murals from three decades ago. The Swimmer in the 
+Econo-mist is a history painting for our time and is realized on the 
+grandest scale. Indeed, it .s a painting about change— in the world and 
+for the artist himself It is. in Rosenquist's words, about "the tumult of 
+our economy," the upS and downs experienced around the world and. m 
+particular, m the United States today and in Germany in the years after 
+reunification. The swirling vortices that barrel across the vast expanse of 
+these paintings and give the work its exceptional dynamism mark an 
+entirely new direction m the artist's visual vocabulary 
+
+Rosenqu.sts own history at the Guggenheim stems ba.k to his 
+inclusion in Lawrence Allow avs Six Painters and the Object in 1963, i 
+milestone exhibition for the emergence of Pop art in the United States 
+We have ,ont. nued to express our commitment to Rosenquist's work, 
+not only through our involvement with this commission, but with the 
+
+
+
+recent acquisition of his Flamingo Capsule This important mural from 
+
+1970, with motifs that reappear in The Sim, una in '/" Econo-mist, is 
+among the works that form the foundation of the collection of the 
+Guggenheim Museum Bilbao 
+
+Roseiuiuist is well known in ( German} Sin&lt; t the mid- 1960s, his 
+paintings have been included m innumerable gallery and museum 
+exhibitions throughout the country, and he was the subje&lt; I ol a mid 
+career retrospective at the Wallraf-Richartz Museum in &lt; ologne in 
+1972. '/'//&lt;• Strtiiimci in the Econo-mist, however, is his first majoi 
+commission tor the ( it) oi Berlin. 
+
+A commitment to enriching the arts in Berlin is central to oui 
+partnership with Deutsche Bank M\ thanks ^^ especially to Dr. Rolf- 
+E. Breuer, Spokesman of the Board of Managing Directors, who with 
+
+tremendous interest and goodwill has carried on the program of enlight- 
+ened support of the visual arts originally conceived by Ins predecessor. 
+Hilmar Kopper, Chairman ol the Supervisory Board I am also deeply 
+grateful to Dr Ariane Grigoteit and Friedhelm Hutte.who with intel- 
+ligence md professionalism have successfully coordinated with the 
+Guggenheim stafFto realize this exhibition 
+
+Throughout the planning stage of the commission, the expertise 
+
+ot Lisa Dennison, Chief Curator and Deputy Director and of Robert 
+Rosenblum, Curator of Twentieth-Century Art, proved invaluable 1 am 
+
+also grateful to Professor Rosenblum tor having organized this exhibition. 
+and to fulia Blaut, Assistant Curator, who worked with him so ably 
+
+My deepest thanks, however, go tojan.es Rosenquist himself Mis 
+intense work over the past year has ensured the success ofthis presen- 
+tation and its accompanying i atalogue. 
+
+Thomas Krens 
+
+Director, The Solomon R. Guggenheim Foundation 
+
+
+
+
+M. 
+
+
+
+
+r 
+
+
+
+m. 
+
+
+
+
+
+
+
+
+&amp; 
+
+
+
+^ 
+
+
+
+fcw 
+
+
+
+
+Interview 
+
+
+
+ES ROSENQUIST BY ROBERT ROSENBLUM 
+
+
+
+IBLUM: Jim, going back through 
+the decades, from the 1960s to the present, 
+I realize that you've had any number of big 
+public commissions in your career. 
+
+JAMES ROSENQUIST: Not many, about twelve 
+
+Well, that sounds like a lot to me. Anyway, 
+for starters, I'd like to know how you feel about 
+this one in terms of your earlier murals. How 
+does it fit in? 
+
+JR: In 1964, I decided to do a painting during an 
+election year 
+
+RR: That's when you started F-lll? 
+
+JR: Yes. I had quite a bit of life and painting experi- 
+ence up until then, doing industrial painting and 
+painting large signs in Brooklyn andTimes Square 
+I thought I'd start out nonobjective but optimistic 
+As the election year began, I wished for the best. 
+1 wondered which wa\ the painting would go 
+I thought about inv existence as ,1 person living in 
+the United States, where I came from, where I grew 
+up — the whole thing — and 1 wondered what 1 
+could do. What did life mean to me! 
+
+So that's when I really began wondering, Was m\ 
+life a joke? All I knew was what I read in the papers, 
+and things happen in an election year People hope 
+tor change, but artists .ire more optimistic IheViet- 
+11,1111 War had started. Earlier. I had met Paul Berg, 
+who did a piece on Roy I lchtenstein and myself for 
+
+the St Louis Post-Dispatch, and in '''4 he had just 
+come back from seven combat missions And Paul 
+brought that information directl) to the people in 
+
+
+
+St I ouis 1 hex got the news trom the horse's 
+mouth. 
+
+At that time, my parents lived in Dallas, Ie\as, 
+and John Kenned\ had (list been assassinated I had 
+
+been in Dallas a month before his assassination 
+
+People were bored I here was ,1 terrible heat wave 
+People were dying Old 1. idles were out shooting 
+
+their pistols .it target practice. There was .1 Dallas 
+c owboys football game and fans were throwing 
+whiskey bottles, breaking them in the hot streets of 
+Dallas There seemed to be a feeling of outrage 
+fohn Kenned) tame into that situation, and for a 
+long time I thought he was killed b\ the weather — 
+the weather killed him because everyone was so 
+aggravated at that time. [Laughs.] 
+
+Later. I returned to Dallas and visited an amuse- 
+ment park billed Six Flags Over rexas. I saw a B-36 
+bomber sitting there, resting quietly, obsolete. 
+
+The bomber was just a decoration? 
+
+JR: Yeah And I savs imitation nature being put forth 
+to children for amusement rhere were ceiling fans 
+mounted in trees outside to give people a breeze. 
+There was .1 poor live parrot 111 a cage m a simulat- 
+ed cowboy-western 1890s town rhere w.is .1 loud- 
+speaker m the cage, saying, "Hi, I'm Polly the parrot 
+Who are you. little girl?" And I remember this poor 
+parrot being tortured by this loudspeaker I hey also 
+had a riverboat in a fake ditch the) had dug, with 
+
+some big gear propelling the boat around, and I 
+dreamed that this was some unseen pilot propelling 
+our economy. At that time. General Motors was the 
+highest-paid contractor for the Vietnam War I here 
+
+were |iist a lot of cra/\. ridiculous things going oil. I 
+felt that all the obsolete airplanes— all the boinbcts 
+
+
+
+built for defense but never used -were responsible 
+tor allowing people to live a certain lifestyle, to have 
+three and a halt . hildren and two and .1 hall i ars and 
+
+.1 house in tin- suburbs 
+
+Anyway, there were m.in\ reason-, for doing the 
+/-/// painting I p. tinted it in iu\ Studio it 42'' 
+
+Broome Street 1 had man) visitors there from 
+
+Christo t&lt;&gt; I co |t astelli], lleana [Sonnabend], Bob 
+
+K.iusJienberg, Steve Pax ton. Alan Solomon 
+
+[Michelangelo] Pistoletto, Virginia I )wan, I &gt;ii k 
+
+Smith, i lot ot others Richard [eigen brought 
+
+down movie people. Anyhow, the whole painting 
+was taken eventually as a gre.it anti-wai paii 
+\nd th.it w.is largely the criticism ot th.it picture 
+
+RR Wasn't this the first picture of yours that 
+produced the virtual reality of a completely 
+artificial, wraparound environment, like what 
+surrounds us now in the mural you're doing 
+for Berlin? 1 mean, a completely synthetic 
+world, where you can't find a beginning, a 
+middle, or an end — a continuous, 360-degree 
+experience? 
+
+JR: It w.is like a wr.ip.iround fol the esc I used fluo- 
+rescent, I &gt;a\ -( llo i olors I used jukebox paint on pan 
+of it. The idea w.is to look .it something in the paint- 
+ing and s.i\." that .uliit is that color because ot this 
+color coming m here 
+
+What I didn't control is the door or the ceiling. 
+Later on. m 1970 I did a wraparound coloi paii I 
+with dr\ icc fog to eliminate the flooi [Horizon 
+Honn Sweet Home] Hone Blinders [1968 69] was also 
+
+a wraparound painting ( arlo IKtkert. win. worked 
+
+with Pontus Hulten ai the Moderna Museet in 
+Stockholm, said to me, "We always hang., hard 
+
+
+
+painting on the right when you walk in the room 
+And we ilv, Lys hang i sofi painting on the left 
+because, as you know, the left is always softer." I 
+thought, that*s funny What's softer; W hat area is 
+softer than the other? So I thought, instead of going 
+left or right, win not go straight ahead? And the 
+result was Horse Blind n 
+
+So how many wraparound paintings are 
+there altogether? 
+
+JR: Three 
+
+RR: F-lll, Horse Blinders . . . 
+
+JR: And Horizon Home Swet I Honn 
+
+RR: Oh, yes. 
+
+JR: With the I 
+
+So that had dry-ice fog coming up from 
+the floor. 
+
+JR: 1 also thought of doing .1 hydrogen fog on the 
+ceiling, but I don't like technology that much ["hat's 
+wh) I like painting, because it's an illusion. Sculpture 
+is fast inating diffii ult, exti lordinary But 1 haven't 
+done much of it -except Fumbleweed [1963-66] a 
+chrome-plated barbed-wire sculpture — because 1 
+like the idea of illusionism, and hov* difficult it is to 
+s.i\ something on .1 surface that's only a sixteenth 
+
+11 inch thick. You turn it sideways and it looks 
+like nothing, but you turn it full face and it looks 
+like something 
+
+
+
+RR: It goes with your interest in virtual reality. 
+It's all an illusion that looks real. 
+
+JR: Well, I don't have much of an interest in virtual 
+re ility. 
+
+Something might look like real metal, real 
+shine, real plastic, but it's just paint. 
+
+JR: It's just paint. I saw .1 Miro shov, at Pierre 
+Matisse [Gallery] in the 1950s, and 1 walked into the 
+room and 1 was just taken aback by these paintings 
+
+1 e I didn't know how (hex were done All 
+there was wis .1 vision He took a rag and smeared 
+
+the ■ "lo, on with a piece of silk, in very large, soft 
+
+disks that looked like they'd been airbrushed. and 
+then he connected those disks with hues, little 
+touches of color, very very beautifully done not 
+meeha1ne.1l. With Chinese bristle brushes. No air- 
+brushes There was this amazing look ot" those Miro 
+paintings from across the room, and then 1 dis^n 
+ered that it was only paint You know, that's what I 
+
+like. 
+
+I wanted to ask you how you conceived 
+this mural. For one thing, I'm sitting here 
+looking at quotations from [Picasso's] 
+Guernica in it, wondering whether you've ever 
+used quotations from other works of art in 
+your paintings before. I'm also looking at 
+quotations from your own earlier works of art, 
+like your recycling of passages from F-lll 
+and Industrial Cottage [1977]. So I'm curious 
+about the mood of this picture. Here we are in 
+the late 1990s, and throughout this mural 
+there is a backwards glance into the earlier 
+
+
+
+history of twentieth-century art and twentieth- 
+century wars and your own work. 1 would love 
+to hear anything you have to say about this. 
+
+JR: Well, at one point 1 thought that this painting 
+was going to Bilbao 1 heard that they had wanted to 
+
+get Guernica tor Bilbao I'd seen Guernica many times 
+at the Museum of Modern Art [in New York| before 
+it was returned to Spam. And so I thought I'd. start 
+off with elements from the past and an abstraction 
+of ( Guernica going mi" a reflection that goes into a 
+meteor with .\\) insignia on it. The idea or the mete- 
+or with the insignia is that during the C old War and 
+throughout my own history — the history ol all of us 
+for a number of decades— we kept taking the danger 
+of nuclear holocaust out from under the pillow. 
+examining it, and then putting it away And then one 
+day a few years a^k the Russians just pointed all 
+their missiles in another direction And no one m 
+America celebrated I would have thought that peo- 
+ple would have been like they were at the end ot 
+W.uld War II. w lieu my uncles went out and shot 
+off their shotguns 
+
+RR : Global joy. 
+
+JR: rhat global joy — never heard about it It never 
+happened So then by chance, according to the 
+
+media — we Started having tons of natural disasters 1 
+
+mean, we had earthquakes, fires, floods, every kind 
+
+a( thin- you i an imagine 
+Divine punishment. 
+
+JR: I don't know what it was And then I thought 
+
+about the idea oi Star Wars n\d sneaking all these 
+
+
+
+war weapons up into space, which we're doing now. 
+and how no one knows ..bout it No one knows the 
+real fa&lt; ts about what our government is doing. And 
+then we're racing toward the millennium In other 
+words, the twentieth century has been a horrible 
+century My father, born in 1908, sav, the rise ol the 
+automobile, the airplane He sav, .ill these things 
+We've had these horrible wars— World War I. World 
+War II A bunch ol my relatives were in there One 
+got killed rhere's been .ill this In. ruble stuff. So the 
+century's been very dynamic, but the dynamic has 
+been ver\ harsh and painful And so you think, Wow, 
+my gosh, I hope we get that over with What we've 
+gotten over with in that at one point two major 
+powers, Russia and the United States, stopped aim- 
+ing at each othei But then you've got these sneak) 
+terrorists coming ..round, and they have completely 
+different ethics. They're completer) different kinds 
+of people But you still have optimism With v.. un- 
+people, you have optimism I'm still optimistic, but 
+this painting, like /-///. is a diary of the terrible 
+
+temper of the tunes 1 he end of the n.net\-toot 
+
+[twenty -seven-and-a-half-meter] painting looks 
+more optimistic, but the forty-eight-foot [fourteen- 
+and-a-half-meter] painting chat was shown in Bilbao 
+looks tumultuous 
+
+RR: I'm curious about this "Apocalypse Now" 
+mood. One of the things that's so striking 
+about this mural is the image of the vortex. 
+I'm trying to remember, and you'll have to 
+help me, when you've used it before. 
+
+JR: I never have 
+
+RR: That's what I thought. It looks totally new 
+
+
+
+to me, and it's a whole new kind of velocity. 
+I remember earlier works like Star Thief 
+[1980], and how they had kind of a superson- 
+ic streak across them. But that's energy that's 
+going somewhere, and these are like black 
+holes or drains. I'm interested in this image, 
+this whirlpool movement of galactic speed. 
+But you tell me about it. 
+
+JR: Well, it's a totally optical space Its a nev\ device 
+for me. really Its like an exclamation that shows 
+change Now. this image right here [points], there's 
+going to be some fluorescent spots on it dots 
+that stuk out in front It will look like it's m VI ) 
+when I get through V\ ith it. 
+
+I hate to show paintings when they're no. tin 
+ished, because you can only spei ulate on what the 
+'•snap'' is going to be But you're seeing things now 
+,.. the) unfold When tins all goes together, you'll 
+
+w ilk in the trout dooi of the museum .ml tins 
+ninety-foot painting should propel itself down to 
+one end of the room ind to the other, ami then 
+
+..round the room. 
+
+I Ik priority for me is visual invention and, real 
+ly, content is secondary but then the content is what 
+grounds the picture. It pulls itself in place and in 
+time, you know -whatever it is, even if it's banal 
+
+RR: It's true. So far, what hits me so forcefully 
+about this new work is the difference from 
+your earlier work— namely, it's got all these 
+dynamos. You feel as though you're going to 
+be flung into some kind of spinning engine or 
+to the end of the world. There are all these 
+black holes. And it has a furious kind of pro- 
+pulsion that is very unlike the movement in 
+
+
+
+what you've done before. But that is what's so 
+startlingly fresh about it. 
+
+Then I'm also wondering about the images, 
+some of which are new and some of which are 
+old. You started working on this piece expect- 
+ing it to go to Bilbao, but in the end it's being 
+done for Berlin. So how much does the 
+German context figure in your choice of 
+images here? 
+
+JR: Well, the window image represents the (.M.u in 
+flag ,, a sunrise over the Ruin Valley I he -lull bus 
+represent heavy industry I he * ' ' """ advertising 
+cost that makes people pis four dollars a bos foi ten 
+, . ,,,, worth ol breakfast cereal brings to mind the 
+differences between I asi and West Bi rlin when the 
+wall was up and hou drab I asi Berlin was and hovs 
+vital the West ll also brings to nun, I the question ol 
+advertising Young Polish peoplt tell an We knov, 
+ibout youi Coca-( ola and M&lt; Donald's, but you 
+
+must come and tell US what it re. .lb means" I'm ii I 
+loss for an answer I VC seen and painted ii .11 m\ 
+
+hte I guess I rejei ted the banality and greed invoh 
+ed in advertising but I've teen it bun.' color into 
+oui lives 
+
+I wail t to go on and say that in 1 - ' " the littli 
+girl undei the hairdryer v\ is i metaphoi foi the pilot 
+
+and the economy that produced the obsolete I bei 
+
+\,,d ,,ow I'm using th« hairdryei igain It's a fo&lt; ii 
+p,,int ,,i the end w ,11 But here, thirty years lam the 
+girl h.s become the widov, who runs the world 
+
+be, w heireSS on Wall Street She holds 
+
+the power and the control ol the world economy 
+l had i man's imagi hi r« It was just i hairdo and 
+his bra, ns were spaghetti thai - m earl) I ranco 
+\meri. in spaghetti imag&lt; I"" I took that out 
+
+
+
+There's ilso a woman there whose face is slivered 
+into .1 i oiled spring. 
+
+That spring is great because it's just like 
+a five-and-dime-store version of all of those 
+whirling drains, the same spiraling image. 
+
+JR: Its like a dynamo springing out 
+
+This should be your crowning achievement 
+of the twentieth century. It's now three decades- 
+plus after your beginning. Being an art histori- 
+an, I'm looking sideways to works of other 
+artists of your generation, and wondering how 
+they might plug into this. You, in particular, 
+I know, have always been very generous about 
+looking at, responding positively to, the work 
+of your peers and your juniors and seniors. 
+But one of the things I've noticed in a lot of 
+work of your generation — I'm thinking about 
+artists like Johns and Rauschenberg and 
+Lichtenstein — is that in their work of the last 
+decade or so, they more and more frequently 
+used quotations from their own earlier work, 
+whether as fragments or as a whole. And this 
+is something that I'm aware of in this work, 
+too. I mean, it's a mood of summary, of 
+anthology, of Proustian recall. Do you think 
+of it as a kind of summa of everything you've 
+done, and do you want to look back, quote, 
+see your work through the layers of time? 
+
+JR: It's not really a summation. It's more like usmg 
+
+the past .is a springboard to new imagery, or .1 new 
+kind ot imagery. Something that people tan recog- 
+
+nize from the past. 
+
+
+
+What's so exciting is that this looks like 
+a springboard for a whole new language. I 
+mean, what would strike any viewer first is the 
+momen-tum here. It has this insane, young 
+energy. It's like an earthquake, a volcano, you 
+name it. It has more speed, more force than 
+anything I've ever seen of yours before. You 
+know, it's like being inside a laundromat. 
+
+JR: Exactl) That's what I want. [Laughs.] You hit it! 
+
+Well, we might say a cosmic laundromat. 
+I mean, you're in a spin-dry cycle from begin- 
+ning to end. 
+
+JR: I hat's right. And that is because of. I think, the 
+tumult of our economy over the last tew years Up 
+A\)d down, up and down, up and down, and the 
+whole world is going into a tumult because ot the 
+
+nuclear roles coming down COO. 1 here's a lot of 
+optimism, but there's pessimism, too It's been very, 
+\er\ vigorous. 
+
+RR: I wanted to ask you about the title of this 
+suite of pictures: The Swimmer in the Econo- 
+mist. I mean, I know you love puns in your 
+images, like the hairdryer equalling an air- 
+plane's nose cone, or fingernails equalling pen 
+points. But tell me about u the Econo-mist," 
+which is a verbal pun. Tell me about the title. 
+
+JR: Well, the swimmer . . . apparently, there's an old 
+Venetian saying, "The artist swims in the water, the 
+critic stands ashore." So the swimmer is the active 
+party And the economy is a dream. It describes 
+being immersed in a tumult 
+
+
+
+Hopefully, this is going in the right direction It's 
+always been hard to (ell You know I thought 1 was 
+an old socialist for a long time, because I thought 
+about the inequalities between people, and what you 
+tan d^ about all ofthat I don't consider myself a 
+
+humanitarian, but I think about waste and unhappy 
+billionaires [laughs] and people who are happy, and 
+
+about the da\s in the sixties when kids m the com- 
+munes could bu\ a truckload ofgranola at the teed 
+store for the rest of their lives for a hundred biitks. 
+and wear arm\ -surplus clothes and raise tons of kids 
+
+and have a life living on nothing. You have children. 
+I have children We all hope that the race continues 
+
+Another thing I was going to call this painting 
+was The Ract 
+
+RR: Race? 
+
+JR: The Race 
+
+RR: As in the human race? Or as in the run- 
+ning race? 
+
+JR: Everything All of it 1 ike Thelonious Monk 
+
+said. "All ways, always " 
+
+RR: Well, I can see the energy of it. I mean, 
+just the sheer miles-per-hour moving from one 
+end to the other is right up there with cosmic 
+races. 
+
+JR: It's race, it's speed It's racial, its promoting the 
+rate regardless of what the rate is, staying alive. I hat's 
+win The Race was a title A lot of times I haw ten 
+
+titles, and then it boils down to one. or none 
+
+
+
+10 
+
+
+
+RR: You know, something else I noticed about 
+this new work has to do with the way you've 
+always switched back and forth between, on 
+the one hand, grisaille painting that looks like 
+black-and-white photographs, and, on the 
+other hand, color that looks synthetic, a la 
+plastics and TV. But that kind of back-and- 
+forth between color and noncolor seems to be 
+much more intense, much more polarized here 
+than I've ever seen it, and that also contrib- 
+utes to the "race," the rush of it, moving from 
+memories of Guernica and its recall of black- 
+and-white newspaper photos, into the newer 
+media of these crazy, incandescent, California 
+candy colors. I have never seen such an excit- 
+ing contrast in your work. It really has a 
+momentum here it has never had before. 
+
+JR: Well, studying color is like playing the piano. 
+One needs practice I "hat color right there on the 
+painting [points] is onl) about three colors mixed 
+up in the right quantity. 
+
+But this color, even for you, is a new kind 
+of artificial. It's got every color in a plastic 
+rainbow, and just in terms of clash, it has the 
+kind of energy that all those spinning drains 
+have. You were talking about painting as illu- 
+sion, and I'm fascinated by the part of this 
+mural where an airplane disappears and re- 
+emerges as if . . . well, in the way I see it, 
+as if the canvas were being unfurled or furled 
+before your eyes. So that the painting is 
+almost being wrapped up while you see it. And 
+that gives it a whole kind of snap, crackle, 
+and pop it wouldn't have otherwise. It makes 
+
+
+
+your earlier pictures look absolutely flat. This 
+has an unstable, sweeping energy that rushes 
+through the whole panoramic spread. 
+
+JR: Well, you know, there are suhhnun.il memories 
+foi i lot of things Tins is an aside, but Richard 
+Feigen has tins beautiful Turner painting in lus din- 
+ing room It's called Tin Reconstruction of tlu Temple 
+Wa\ in the background, there's .1 temple, and then 
+there's this incline at the bottom of the painting, and 
+these people are dancing and playing the flute ind 
+frolicking, but they're going downhill 1 ike life is 
+fun and everything, but you're still going down. 
+
+It's like this slope in your painting, like 
+something that's sneaking along on the 
+ground. It's got the quality of an undertow. 
+
+And now, a totally different question. I 
+remember the last time 1 saw this here, it was 
+in a different state and I was, as usual, trying 
+to think of how it relates to other works of art 
+from the 90s or the 80s. And one of the things 
+that occurred to me is that the only other 
+place I've seen this kind of wild, almost incom- 
+prehensible cosmic space is in some of the 
+recent paintings of Frank Stella. They look 
+like computer explosions, but they are in fact 
+totally controlled and corseted like yours. Do 
+you have any connections with that? 
+
+JR: The cosmic explosion . . . 
+
+rr : Well, it's a kind of spatial abstraction 
+that's very new in the late twentieth century. 
+It looks like cyberspace, and it's something 
+that implies infinite extension and total incom- 
+
+
+
+prehensibility. It just doesn't fit into any pre- 
+dictable spatial patterns, and it feels as if 
+you're being sucked into a galaxy. Stella is 
+the only thing that I've seen in terms of 
+abstract painting that I can connect visually 
+with what you're doing. I don't know if this is 
+just an accident . . . 
+
+JR: I hke Frank's work a lot, and I've watched him 
+since he started At first, it was hke h&lt; vi is putting 
+building blocks togethei and then ii got mon and 
+,,„,, more and more sophistii ited until 
+
+all of a sudden, you Can'l tell where it starts and 
+where it ends It's brilliant. 1 mean, I think Ins plas 
+
+ticitj is incredible It's great Bui foi me, painting 
+means making some reference to one's time 
+
+RR: You've been around for some decades and 
+we're approaching the millennium and, not to 
+sound too poetic about it, this mural is like a 
+time capsule of twentieth-century history. It's 
+got the epic momentum of the past, and it also 
+has some sense of bursting through a sound 
+barrier into the future. But, above all, it's got 
+the panoramic sweep that sums up our planet, 
+the cosmos, and whatever you can buy in the 
+five-and-dime store. It goes from heaven to 
+hell and from the particular to the universal. 
+Something like from here to eternity. 
+
+JR: \Vr\ kind But I'mjUSt m the middle ol it, and 
+
+this end walls going to be a sur] 
+
+Aripeka, I lorida 
+D. embei 6, 1997 
+
+
+
+
+
+
+11 
+
+
+
+
+s_ 
+
+
+
+''There's an old 
+
+Venetian saying, 
+
+x The artist swims in 
+
+the water, the critic 
+
+stands ashore/ 
+
+So the swimmer is the 
+
+active party. 
+
+And the economy 
+
+is a dream. 
+
+It describes being 
+
+immersed 
+
+in a tumult. " 
+
+
+
+
+/ I The Swimmer in the Econo-mist 
+(painting 1), 1997-98 
+Oil on canvas 
+
+3.50 x 6.10 m, 4.02 x 6.10 m at center 
+Oeutsche Guggenheim Berlin 
+
+
+
+
+2 | The Swimmer in the Econo-mist 
+(painting 2), 1997 
+Oil on canvas 
+3.50 x 11.60 m 
+Deutsche Guggenheim Berlin 
+
+
+
+i The Swlmmet m Ui - 
+
+:. 6f &gt;lm 
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+^m 
+
+
+
+
+
+for me. It's like an excla 
+
+
+
+
+Swimming^^Mist 
+
+
+
+NOTHER COUNTRY 
+
+
+
+JUDITH GOLDMAN 
+
+
+
+I. From nmc to five, tor the last year, James Rosenquist has been working on .1 suite oi thi 
+mural paintings, The Swimmei m the Econo-mist, commissioned tor Deutsche Guggenheim 
+Berlin. He's been on a tight schedule, painting against a deadline that is drawing near In a 
+month, the pictures must be installed, and they are almost finished. Only a fevi areas uni. mi to 
+be painted. Roscnquist has just returned from the local art store, where he's been looking for 
+the colors that he needs tor his final touches, or what he likes to call "hot Inks." He plans to 
+add color accents — an acrid yellow, a glaring orange. These Day-Glo tones comprise a palette of 
+jangling, vulgar tints. They are the colors of roadside signs th.it advertise take out barbecues and 
+X-rated entertainment. They are crass colors that defy ^,ood taste and give The Swimmei in the 
+Econo-mist its essential edge and disequilibrium. 
+
+Standing 111 front of one of the paintings. Rosenquist studies it. Although lie works 
+from maquettes and preparatory drawings, he spends large stretches of tune looking it paintings 
+in progress. Usually he sits and stares. Sometimes he paces back and forth along the length &gt;&gt;! 
+the large studio. Often he studies his paintings at the end ot the day, when the natural light 
+grows dim, because color values subside and mistakes are easy to read. He is not aV( rsi to 
+change. If he thmks it is necessary, he will disregard plans and compositions and start over. In 
+the course of completing The Swimmer in the Econo-mist, lie has made various alterations. At one- 
+point, he decided the paintings were about the future, not the past, and removed images that he 
+regarded as too reminiscent of earlier work: a man's head, swirling hair, a field ot spaghetti. 
+
+Rosenquist has just finished painting the large orange oval that divides the twenty- 
+seven-and-a-half-meter panel, and while he waits for the paint t&lt;&gt; dry, I ask him about that 
+shape, which recalls a similar one in the l°7&lt;) painting Flamingo Capsule (fig. 4) His answer is 
+fast and short: '"It's a reflection from a blast furnace." he savs. then, changing the subjei t, 
+explains the procedures used to create the image. He describes how he had t&lt;&gt; mask out the 
+entire area around it before he began to paint and why he used a Spra) gun (be. ause the 
+method rendered a smooth mu\ even surface) Rosenquist jealousl) guards the meaning of his 
+paintings, but willingly explains their elaborate procedures 
+
+Countless small decisions are crucial to Rosenquist's art At first glance, his paintings 
+seem to be an arbitrary melange of dissonant contrasts and yokingS. But they are not arbitrary 
+at all. Every aspect is carefully considered. Fairings are strange and hard to comprehend, but the 
+couplings are never accidental or casual. Visual narratives meander and ramble aimlessly, but 
+
+
+
+
+lamei Rosen': irom 
+
+in Corporatioi 
+1 above ihi a itoi rheatei &gt;'' Broad 
+
+
+
+25 
+
+
+
+FXosenquist means what he says, and he is almost always savin- something. When he contrasts , 
+
+I, ,IK , reared surface with a swirl of hand-applied paint, or juxtaposes monochromatic 
+
+grays with bright and dissonant hues, or tills a window with the colors of the German flag, or 
+restates Picasso's Guernica (fig 8), he is not acting arbitrarily. These are the elements and images 
+from which he constructs his art. 
+
+The Swimmei in the Econo-mist utilizes all the devices and visual conventions we have 
+come to expect from Rosenqmst: the disruptions and disconnections; the barrage of imagery; 
+the unlikely mergings; the contradictions; the blatant non sequiturs; the strident colors; and, of 
+course, the scale. The Swimmer in the Econo-mist is the largest suite of paintings he has produced 
+to date. Consisting of three separate pictures, m twenty-one sections, it measures three-and-a- 
+half meters high and more than forty-eight meters long. Designed to cover three walls inside 
+Deutsche Guggenheim Berlin's gallery, the paintings are mammoth and their towering images 
+envelop their viewers. 
+
+Rosenc|iiist is ., master of big pictures. He is well-versed in scale and a connoisseur of size. He 
+is also accustomed to working on assignment. When he was voting, he painted black-and- 
+orange emblems for Phillips 66 gasoline on signs and bams across the flatlands of his native 
+Midwest. He was a natural. He could draw anything to specification. He could scale up or scale 
+down, In 1954, he worked for General Outdoor Advertising, painting billboards around 
+Minneapolis. He painted immense parrots, enormous whiskey bottles, and letters that rose 
+three meters high. In 1955, he moved to New York, having received a scholarship to the 
+Art Students I eague. After a year, when his money ran out. he found a job painting signs. He 
+joined I OCal 230 of the Sign. Pictorial, and Display Union. He was the union's youngest mem- 
+ber, but he became their star artist as his skill increased and his repertoire expanded A newspa- 
+per reporter referred to him as a "billboard Michelangelo " 
+
+He spent two years at dizzying heights, balancing atop bridges and standing on scat- 
+folds above Times Square, painting movie stars' smiles, mammoth lips, toothpaste grins, a gigan- 
+tic dimple m Kirk Douglas's chin. He learned a lot on the boards. Painting fragments taught 
+him about collage. Working on a large scale afforded him lessons m abstraction, close-up vis, on. 
+and the effects of size. He learned about mixing paint, too: how to make it silkv and so thick 
+and smooth that it flowed like cream. He absorbed a syntax of commercial techmques.au 
+
+
+
+alphabet of advertising colors, like suntan brown and lipstick red. The trade secrets he learned 
+influenced him and eventually transformed his art. He stopped making the small, gray ab$tra&lt; I 
+pictures that he painted in the evening after work. Instead, he found his subject matter in the 
+detritus of consumer culture and the remnants of everyday images He treated a new. idiosyn 
+cratic visual language. 
+
+Gaudy, strident, blunt, ordinary, and strangely mute. Rosenquist's new language was 
+steeped in the American vernacular. It consisted of fragments taken from printed advertise 
+ments — pieces of angel food cake, bottle tops, spaghetti, razor blades, tire treads, and the grilles 
+and windows of old cars. Although the images are naggmgK familiar, Rosenquist's pictures 
+stubbornly resist interpretation. Their meanings are fugitive. Like poems built with dense in. i a 
+phors, they are hard to parse. This was what Rosenqnist intended He wanted Ins art CO he cool 
+and detached. Hoping to avoid the emotional angst that weighed down Abstract Expressionist 
+painting, he chose objects garnered from a commercial netherland — dumb, malleable, anon) 
+mous images that he once described in conversation as "old enough to pass without notii e. but 
+not old enough to trigger nostalgia " 
+
+Rosenquist has often said that he intended to make pictures, not statements. Sounding 
+like a strict modernist, he has maintained that the space deputed In m image is more impOl 
+tant than the image itself and that he is not interested in objects, but in then abstract proper- 
+ties. He employed numerous devices to deflect meaning. Odd couplings defy logic non 
+sequiturs, like a field of orange spaghetti, disrupt narratives; realistic images, rendered &lt; lose-up, 
+become abstractions. Even his colors — the pigments of printed reproductions — have an artiti. ial 
+aura, .\n anemic cast that creates distance. 
+
+Despite Rosenquist's emphasis on formal properties and visual invention, his paintings 
+never lack content. From the start, they addressed big themes, like love and war and sex and 
+liberty. Hey 1 Let's Co foi a Ride (1961), whatever else it may concern, is about sedu&lt; tion, as is 
+Waves (1962), albeit from another perspective. A Lot to Like (1962) and Silver Skies (1962; fig. 2) 
+are reflections on superabundance— on an overcrowded visual field, on the plethora .»» products 
+that inundate American consumers. And the paintings- punning titles are rife with hidden mean- 
+ings and opinions. A Lot to Like suggests that there is, in fact, too much to like. No matter hovi 
+mute the paintings seem, they are informed by conviction— even, at tunes, fanned by nnl, 
+tion.They convey impressions and opinions about everything from advertising and assassii 
+
+
+
+
+Silver Skies, 196? 
+Oil on canvas 
+1.98 x 5.04 m 
+The Chrysler Museum of An 
+Gift Of Walter P. Chry,lrr. Jr 
+
+
+
+27 
+
+
+
+
+Fill, 1961 65 
+Oil on canvas with aluminum 
+3.05 x 26.21 m 
+The Museum of Modern Art, 
+New York, Pm 
+
+
+
+nous to beauty, sex, and matrimony. Fraught with feeling, they are nonverbal, visual poems that 
+resolutely resist words 
+
+II. In the fall of 1964, an election year, Rosenquist began the large painting that became F- 1 1 1 
+(1964-65; fig. 3), Ins first site-specific work. A transitional picture. F- / / / marked the end of 
+Rosenquist's early, straightforward collage compositions and the beginning of his exploration of 
+peripheral vision and big pictures. As with many of his major paintings, F-llfs conception and 
+execution coincided with significant changes in his life. For the two preceding years, 
+Rosenquist had been painting nonstop. His work had been featured in the Museum of Modem 
+Art's . [mericam 1963 and in two major Pop art exhibitions: New Realists (at Sidney Jams gallery) 
+and Six Painters and the Object (at the Solomon R. Guggenheim Museum). He'd also executed a 
+commission for the 1964 World's Fair and completed enough pictures to fill solo shows in 
+Pans, Los Angeles, and New York. He'd had to work hard to sustain his level of production, for, 
+nnhke his Pop colleagues, Rosenquist did not employ reproductive techniques or pamt in 
+series. Whereas Andy Warhol screenprinted his portraits of Marilyn Monroe, modifying their 
+I olor and size, and Jim Dine varied his images of bathrobes and hearts by filling them with 
+landscapes and a rainbow of colors, Rosenquist never repeated his compositions exactly or 
+restated them by changing their color, size, or background. He was always starting over. Every 
+painting was different. 
+
+His style, however, remained consistent. He utilized the same visual inventions and kept 
+refining his technique and extending his vision. He moved from simple couplings to allover 
+i onfigurations. I le was continually finding new ways to combine and transmute provocative 
+fragments into arresting, mysterious compositions. He was working all the time, and by the tall 
+of 1^)4, he was tired and ready tor a change. He'd been experimenting with sculpture and 
+environinent.il pieces and had started attaching objects to his canvases, He had reached a turn- 
+ing point in his life .is well .is his art. He was about to lease a new studio, and he'd changed 
+dealers: after the Green Gallery closed, he'd joined the Leo Castelli Gallery, where his first show 
+w.is scheduled to open on April 17, 1965. 
+
+Regarded .is Pop art's epicenter, the small Castelli gallery presented big shows, and 
+Rosenquist wanted his first show there to have an impact. He intended to fill the entire gallery, 
+to make the biggest panning he could, and he spent a year preparing for the exhibition. He 
+
+
+
+
+
+
+28 
+
+
+
+
+needed to End a subject he felt passionate ..bout. .1 theme miport.nii enough to sustain the pi( 
+ture he intended to paint. Everything he saw, heard, or thought about influenced him; a trip to 
+Dallas just before the Kennedy assassination; .. silver fighter bomber sitting on an airfield; a pat 
+„„ talking at an amusement park. Kile chatter; taxes; conversations with a newspapei report. 1 
+
+who had been to Vietnam. Rosenquist painted l-lll in the middle 1 America mosl 
+
+violent decades. It was also a political tune Lyndon Johnson was running for president. The 
+Civil Rights Act and legislation on a sweeping program for economk and social welfare had 
+passed. The Vietnam War had begun to escalate Rosenquist took it all in and reflected the tui 
+moil of the times in /-///.the large mural painting that would ie to be regarded as the 
+
+apotheosis of Pop art. 
+
+Once he had finished making preparatory drawings tor the painting, he had stretchers 
+built and for the next eight months he worked on the picture. He was obsessed I )a, and mght, 
+all be talked or thought about was F- / / (. His studio w. mall that he had ,0 pa.nt.tm sec- 
+do^ ,„ fa ct, be did not see F- / 11m its entirety until mid-April 1965, when be installed the 
+irregular fragments around the walls ofCastelli Gallery's Hon, room The painting we sl.ghtly 
+more than twenty-six meters wide and fit perfectly 
+
+F-m surround cues, h inundates them with nois, colors tha. merge and over 
+
+lap with bright surfaces, reflective panels, and a string of unrelated images Impossible to take 
+
+in tll , painting P ul,s at the edges of vision. No matter .as looks, there ,s too much 
+
+» see. The nose and fuselage of an Mil j* cover and connect the panels , ut wha Hhe 
+enlarged images that interrupt the bod, of the plane; Ho, do eggs, light bulbs, a tin, st- 
+and an undeLter swimmer relate to a ft g beach umbrella, s. paghetc, and the grin- 
+ning young girl (the plane's pflot) under me phallic ha.r drye, 
+
+8 p." ,s a politic, painting, a picture about war. taxes, and e surplus , , n- 
+
+sumer culture „s subject , « machine, a fighter jet, paid for b, ttxpayers then n d vdop- 
+
+views explaining the pictures intent. Initially, tie ■ 
+
+*eir taxes. But F-M1 « an e .„.,, waU , . v ^^ ( 
+
+- P^aUy fe»,T0 see it, viewer ^g^^Z**** &gt;— ^ ' " 
+
+cue point of view, but must be comprehended incremei 
+
+
+
+
+1 / Flamingo Capsule 
+
+Oil on canvas with two alun 
+
+,ide paneli 
+Central pan. I '"■ 
+
+side pa 91 m each 
+
+hao Muieoa 
+
+
+
+29 
+
+
+
+
+/ ,,. F| Detail o( Horse Blinders, 1968-69 
+Oil on canvas and aluminum 
+3.05 x 25.76 m 
+Museum Ludwig, Cologne 
+
+
+
+
+Star Thief, 1980 
+Oil on canvas 
+5 21 x 14.02 m 
+Museum Ludwig, Cologne 
+
+
+
+effect is cumulative. And finally, viewers discover that this fiercely antiwar picture is as much 
+about vision .is it is about war. 
+
+With F- / / /. Rosenquist had found a new canvas — the Castelli Gallery's front room— 
+and for the next five years, he produced site-specific paintings like Area Code and Flamingo 
+Capsule (both 1970) that exactly fit the gallery's walls. The most ambitious painting of the peri- 
+od was Horse Blinders (1968-69; fig. 5), which, like F-1H, envelops viewers as it examines the 
+nature of peripheral vision. Rosenquist began Horse Blinders during another election year. It was 
+a particularly brutal year, during which Martin Luther King. Jr.. and Robert F. Kennedy were 
+assassinated and Andv Warhol was shot. Its subject is the visual noise of consumer culture, and 
+how we sec or don't see. As m /- / / /, a jumble of disparate images besieges viewers. The assault 
+is intense, foi in each of the picture's corners, polished aluminum panels not only carry but 
+relic, i images, heightening and multiplying the clamorous visual effects. The image of severed 
+wires suggests that communication is impossible, and the title implies that horse blinders are 
+needed to eliminate the incessant onslaught of random and raucous information. 
+
+L980 was another election year. Ronald Reagan became president. The Iran hostage 
+crisis was under way. The American economy was weak and an era of government deregulation 
+and supply-side economics was about to begin. Rosenquist had started to think about painting 
+another big picture He was looking for a new challenge, to do something he hadn't done 
+before. He thought it would be interesting to step outside the gallery system, to create a picture 
+that was too large to be exhibited m a commercial gallery or sold to a private collector, a 
+painting that was neither site-Specific nor commissioned. 
+
+For a good part of a year, Rosenquist worked on Stai Thief (1980; fig. 6). The largest 
+painting he had made up to that time. Stai Thief features a strange amalgam of visual frag- 
+ments— Strips of flying bacon, a starry skv; a skyscraper; a woman's head, split open to expose a 
+gnarled mass of colored wires The imagery is dense and recondite. The smoothly painted sur- 
+fa&lt; e seems to seal meaning m. But old themes slowly become apparent. Rosenquist's ongoing 
+exploration of vision and space continues, space-age technology threatens nature and beauty. 
+Unlike F- / / /, however, the vast space of Star Thief does not surround viewers, but confronts 
+and engulfs them, stretching up and out. as far as the eye can see 
+
+When he finished the picture, Rosenquist invited his longtime dealer Leo Castelli to 
+see it. After looking at the painting, Castelli asked Rosenquist to accompany him to an address 
+
+
+
+30 
+
+
+
+on Greene Street, where he said he had something important to show him. When the) arrived 
+Castelli opened the door to a ground-floor space, entered, and waved h.s arm ..round the larg. 
+room, motioning toward a big wall.This was Castelli's new gallery, and to Rosenquist's amaze 
+ment StarThief fit. The height of Greene Street's ceiling was approximately five-and-a-hall 
+meters StarThiefis around thirty centimeters smaller. StarThief™ never mean! to be I site- 
+specific picture, but the gargantuan paintings that followed it, like 4 New-Cle* Women (1982) 
+were. For the next few years, the walls of the Greene Street gallery became EWiquist's nev. 
+and largest canvas. 
+
+Ill Given the years Rosenquist spent painting billboards and his abiding .uteres, in site sp« , ill 
+
+paintings, it seems odd that he turns down most commissions. He accepts only those that 
+
+est him, and in a career spanning more than four decades, they number approximate!, a d, 
+b, 1976 he created murals for the Florida State Capitol at Tallahassee because he lues m 
+
+Florida part-time and thinks of himself as a Floridian. And he has always a, , epted , 
+
+from architect Philip Johnson because of the rapport he feels for the man and hts wor m 
+,964 he produced a mural for the pavilion Johnson designed for the Ne. -York World ft*. 
+and ,„ l98 4, he panned Flowers, Fish, ani Fe les fo, the I v„ , (fig. 1) for the restaurant 
+
+in the Sea-rams building in New York. 
+
+There are pragmatic aspects to every commission-expectattons to be met, tons 
+
+to be fulfilled. Commissions must communicate id. I emblems; they must please and 
+
+.morn, l^scnmust's Tallahassee murals feature images assorted W«h h S * . of 1 nda 
+
+including sheUfish, palm trees, and boy, Bowers, Fish, mi Fe ^ **£££' 
+
+Amorous stil) lift befitting of a grand and expe d 6 n I he p.ctu* « I • 
+
+brimming over with su «-^«""~^^£i" 
+
+faces sliced into splinters. Rosen A research for , usstons tends &gt; ' ; 
+
+mentary. For the Florid als, he read the state's h^ £. ^ J^« 
+
+collected seed catalogues and studied pictures of flowers. He also I 
+
+local fish store, where he photographed dead Gsh. 
+
+,i,.c,,...enheun Museum's director, met with Rosenquist 
+In November 1996,Thomas Krens.the Guggenneim 
+
+
+
+
+1 /■/&lt;■ .'2 
+
+
+
+
+Pijj 7 | Flowers, Fish, and Females 
+for the Four Seasons, 1984 
+
+2.30 x 7.29 m 
+
+The Metropolt 
+
+Gift of torn Ma ■»'• K° w, i 
+
+1995 199*a i 
+
+
+
+
+/ ig s | Pablo Picasso 
+Guernica, 1937 
+Oil on canvas 3.51 x 7.82 m 
+Museo Nacional Centro de Arte 
+Reina Sofia, Madrid 
+
+
+
+
+/ \g 9 | Industrial Cottage, 1977 
+
+Oil on canvas 
+
+2.03 x 4.62 m 
+
+Private collection, Courtesy of 
+
+Richard L. Feigen &amp;. Co 
+
+
+
+/ - / / / mural, but nothing was resolved at the meeting as the location of the commission had 
+not /el been determined. In principle, the concept interested Roscnqinst. When Krens 
+mini nied him .i few months later th.it the commission was set for the new Guggenheim in the 
+former East Berlin. R^osenquist was pleased. 
+
+As always, Rosenquist's experiences informed his new painting. He thought about 
+German friends he had and German journeys he'd taken. He recalled a trip to East Berlin not 
+long after the wall came down. He remembered seem- remnants of red stars on a wall, smelling 
+disinfectant, and visiting places that looked devastated and bombed out, but he also recalled the 
+emerging energy he'd seen and felt. He read up on German cities, on Berlin from the 1920s to 
+the 1940s. He also re. id about Germany as a world power, about Prussian kings and German 
+statesmen from Frederick II to Otto von Bismarck, and about the World Wars. 
+
+He decided to create paintings that would reflect the new Germany and the Berlin of 
+tod. iv. not the divided city of the past. He thought about F- 1 1 1 too. and how his quintessential- 
+lv Pop picture had come to represent not just an art movement but the atmosphere ot its time 
+It had been more than thirty years since he painted F- / / / and the picture still looked fresh. He 
+wanted no less for The Swimmer in the Econo-mist. 
+
+The Swimmei in the Econo-mist tells a tale about the future. It is a familiar story, one Rosenquist 
+has told before, about politics and e&lt; onomics, war and commerce — only the setting is new. It 
+takes place in Germany, after the fall of Communism. It is a post-Cold War story. As usual, the 
+narrative is askew. There is no linear structure in The Swimmer in the Econo-mist, no sequential 
+order to the heap of broken images Viewers are bombarded with a tumult of numbing things. 
+The eye swims, stops and starts, going from close-up to long shot, from griss.ulle to technicolor, 
+attempting to follow the action, to make sense where there is none to be made. The connec- 
+tions are implausible: what is the relation in the largest painting between an airplane, a black 
+swirl, an abstraction from Picasso's Guernica, and a whirlpool of fragmented cereal boxes covered 
+with words listing the cereals' nutnents : 
+
+In .i conversation about The Swimmer /// the Econo-mist, R.osenquist mentions the mark- 
+up on .i box of cereal, stating that a four-dollar box of cereal only costs ten cents to produce Is 
+he referring to the money spent on advertising? Are conclusions about his suite ot product- 
+packed paintings meant to be drawn? In one of the panels, enlarged letters copied from pack- 
+
+
+
+lges oflaundry bleach gyrate out of control. The Swimme, in the Econo-mist is a parable aboul 
+
+the effects of war on economic growth, rhe reference to Guernim in the large panel a &gt; be 
+
+ignored Not only is Guernica the twentieth century's best-known antiwa. mural, but Picasso 
+meant the picture as a memorial to .. terrible bombing, to the destructive power of fascsm and 
+
+the devastation of war 
+
+The smallest panel provides the paintings" focus. It features a tableau ol retrospe. tive 
+images that have been altered and updated. A window, reminiscent of one in Indmmd ( ottage 
+(1 077- fig 9) but filled with the colors of the German flag, represents the snnr.se and the dawn 
+,,„. f a new, unified Germany. Drill bus signify the industrial growth o( the countrys Ruhr 
+
+Vallev The lipsticks are similar to those ,n H, : of Fire (1981; fig. in,. Inn he,,- they he about, 
+
+ben / and melti ng, like misspent bullets. And looming large is the hair dryer from F-Hf Its fo. 
+mer occupant-the httle girl with the cloyingly sweet smile (see fig. ll)-.s .one. No longer 
+
+piloting the bomber, she has grown up, she is out of the picture. In he, place there K t 
+
+circular reflection, a familiar shape that retails the corporate symbol o. Datmler-Benz, ol 
+
+Germany's industrial giants 
+
+„„s„ ;,-,„„, .^isnotsomuchanupdateofF-nfasntsareflectton 
+
+&amp;om another time and another country. As the twentieth centur, draws to « ^J-JJ 
+,„,,„ us another vision of how we live and ho, we see. As always, nature and , I , 
+
+and war and economics continue then old alliance. Bu, the pace ,s faste, I ere , m 
+
+everything-more products, more images, more information, and more stufl 
+
+
+
+
+Fijj 10 House of Fire. 1981 
+Oil on canvas 1 98 x 5 0&gt; m 
+The Metropolitan Mu 
+
+;.tse, George A and Arthui 
+| ii, .mi I unds and 
+Lila Acheson Wallaci Gift 
+
+
+
+
+,,, f j /lewol i mi U 
+
+in Rov 
+
+429 Broome Street, New York 
+
+
+
+33 
+
+
+
+
+4 | Study for The Swimmer in the Economist 
+(painting 1), 1997 
+
+Lithographic tusche and pencil on Mylar 
+51.1 x 667 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+
+Study for The Swimmer in the Econo-mist 
+
+(painting 1), 1997 
+
+Lithographic tusche and colored chalk on Mylar 
+
+50.8 x 65.4 cm 
+
+Deutsche Guggenheim Berlin 
+
+
+
+36 
+
+
+
+
+6 | Collage study for The Swimmer in the Econo-mist 
+(painting 1), 1997 
+
+Pastel, pencil, ballpoint pen, marker, oil, and 
+collage on paper 
+43.2 x 59.1 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+37 
+
+
+
+
+— ■ ^j^T ff? 
+
+
+
+01 The Swimmer in the Ecoiio-misl 
+(painting 2), 1997 
+
+Lithographic tusche and pencil on Mylar 
+51.1 x 133.0 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+38 
+
+
+
+
+s I Collage study for The Swimmer in the Economist 
+(painting 2), 1997 
+Pencil and collage on paper 
+35.6 x 121.0 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+39 
+
+
+
+
+
+
+
+9 | Study (or The Swimmer in the Economist 
+(painting 3), 19". 
+
+Lithographic tusche and pencil on Mylar 
+41.3 x 116.2 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+
+
+
+•y*~ 
+
+
+
+
+
+
+
+
+
+f*~i 
+
+
+
+40 
+
+
+
+
+tO I Study for The Swimmer in the Econo-mist 
+(painting 3), 1996-97 
+
+Lithographic tusche and colored ink on Mylar 
+40.6 x 70.5 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+41 
+
+
+
+
+; / | Study for The Swimmer in the Econo-mist 
+(painting 3), 1997 
+Lithographic tusche on Mylar 
+40.0 x 116.5 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+
+
+
+
+
+
+
+'— -~»S~/*t 
+
+
+
+
+
+
+tudy for The Swimmer in the Econo-mist 
+(painting 3), 1996-97 
+Lithographic tusche and pencil on Mylar 
+42.2 x 92 1 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+42 
+
+
+
+
+
+
+
+
+
+
+N | Study for The Swimmer in the Econo-mist 
+(paintings l and 3), 1997 
+Pencil on paper 
+55.2 x 126.4 cm 
+Deutsche Guggenheim Berlin 
+
+
+
+43 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i in- Swlmmei In the Econo mlsl 
+
+1997 
+Pencil, colored pen 
+47.0 &gt; I 
+Deutsche Guggenheim Brrlm 
+
+
+
+
+..Mage study for The Swimmer in the Economist 
+(painting 3), 1996-97 
+
+Pencil, ballpoint pen, oil, and collage on paper 
+Two sections, 0.4 x 2.3 m overall 
+Deutsche Guggenheim Berlin 
+
+
+
+
+
+
+45 
+
+
+
+SELECT EXHIBITION HISTORY 
+
+
+
+Compiled by Janice Yang 
+Tim se&lt; tion pn t\ ides listings ol iclei I solo and 
+two person exhibitions Featuring works b) 
+[ames Rosenquisl Entries include exhibition 
+
+•i.l broi hures is well as rel ited 
+irtii les ind res. iews b) dat&lt; of publii ition 
+
+1962 
+
+Green Gallery, New York, James Rosenquist, 
+
+Jan. 30-Feb. 17 
+
+— S[wenson] Gjene] R. "Reviews and 
+Previews: New Names This Month James 
+Rosenquist IcwYorl no 10 
+
+1962) p 20 
+— T[illim] S[idney] 'New Yori 
+
+Exhibitions In th« ( ialleries Jim I 
+
+Peter S ml, James Rosenquisl In 
+
+i 16 D" 6 
+Mai 1962) pp 16 
+
+— Robi tts, ( oh i' itions I ten 
+
+de New York ' [ujourd'htn Pa 
+Jum 1962) pp 4s 19 
+
+1963 
+
+Green Gallery, New York, Rosenquist, 
+
+Apr. 15-May 11. 
+
+1964 
+
+Green Gallery, New York, James Rosenquist, 
+
+Jan. 15-Feb. 8. 
+
+— S[wen |.,G[ene] R "Reviews and 
+
+•as James Rosenquisl ' ItMi wi 
+. fori 62 no 10 I i b 1964 p 8 
+— Tfillim] . S[idney] "In the Galleries 
+isc nquisl " ■ Irti Magazim 
+
+, 6 Mai 1964 
+
+— Kozlofl I tcei 
+
+nquisl In International (Lugano) 8, 
+no I \p. 25 1964 p 62 
+
+Galerie Ileana Sonnabend, Paris, Rosenquist, 
+June. Exh. cat. with essays by Edward F. Fry 
+and Jose Pierre and excerpts of previously 
+published essays by Edouard Jaguer. 
+— Michclson \nnettc Pai a I 
+Internationa 25, 
+
+p .,l 
+
+Dwan Gallery, Los Angeles, James 
+
+Rosenquist, Oct. 27-Nov. 21. 
+
+— W[ilson] W[illiam] "Loi Vngi li |ame 
+r ... i ) v , in &lt; , aller) " irtfonim (San 
+Francii I no J (Da 1964) p 12 
+
+
+
+Galleria Gian Enzo Sperone, Turin, James 
+Rosenquist, opened Nov. 5. Exh. brochure. 
+
+1965 
+
+Leo Castelli Gallery, New York, Rosenquist, 
+
+Apr. 17-May 13. 
+
+— Preston, Stuari "Art James Rosenquisl 
+I h, \,u\ ii 24, 1965 i 
+
+— L[evine]., N[cil] A "Reviews and 
+Previews." irtnews (NewYork) 64 no.4 
+(summei 1965) p 14 
+
+I ippard Luq R 'New York 1 . ttei I" 
+International (1 ugano) 9 no 5 I |une 1965 
+pp 52—54 
+
+( i(oldin] \[mj I ' In thi ( "is | I 
+
+Rosenquist ' iris Magazine (New Yorl 
+no l" (Sepi i p 63 
+
+— Alfieri Bruno. "Diario cririco (II) Dopo 
+,1 , ompli sso 'I inferiorii i di New York i on 
+
+Parigi (1900 196 I il complesso di 
+
+p ar i De I laulle 
+
+(intanto I ondra &lt; resi i I " Metro (Milan), 
+no in (&lt; &gt;, i 1965), pp 4- 13 In Italian and 
+l nglish trans Lui ia Krasnik 
+
+The Jewish Museum, New York, James 
+Rosenquist, F-lll, June 10-Sept. 8. 
+Presented at The Jewish Museum before 
+traveling to the European venues listed below. 
+—"Rosenquisl •• I lll'ai |ewish 
+Museum Tin Neu York rfmej.June 12, 
+1965 p 2* 
+
+Moderna Museet, Stockholm, James 
+Rosenquist, F-lll, Sept. 29-0ct. 17, 1965. 
+Traveled to Stedelijk Museum, Amsterdam, 
+Dec. 25, 1965-Feb. 6, 1966, Staatliche 
+Kunsthalle, Baden-Baden, Feb. 12-27, 1966; 
+Galleria Nazionale d'Arte Moderna, Rome, 
+Oct. 15-Nov. 10, 1966. Exh. brochure 
+(Stockholm) with previously published 
+interview with Rosenquist by Gene R. 
+Swenson. Exh. brochure (Rome) with 
+previously published interview with Rosenquist 
+by Glene). R. Swenson. 
+
+1966 
+
+Leo Castelli Gallery, New York, James 
+
+Rosenquist, Apr. 30-May 25. 
+
+— W[aldman].. D[iane] "Reviews ind 
+Pro ji isenquisi ' I rim ws 
+
+, . 65 no i iummei 1966), p I 
+I ippard I u&lt; \ R "New fori I ■ ttei " 4" 
+International (1 ugano) 10 no 8 (Oct 20, 
+
+
+
+1968 
+
+Leo Castelli Gallery, New York, 
+
+Glueck, Grace "Art Notes Not ( &gt;nc 
+
+Boring Pi&lt; ture." Tin MewYork Unit ■ 
+
+I,,, &gt;8 1968 se&lt; I I p 33. 
+
+National Gallery of Canada, Ottawa, 
+James Rosenquist, Jan 24-Feb 25. Exh. cat. 
+in French and English with introduction by 
+Brydon Smith, statement by Rosenquist, and 
+excerpt of previously published essay by Ivan 
+Karp. 
+
+— Bergin.Jenn) "1 ad) Lets Hei Hair 
+l town " /'« ' )ttam Citizen |an 24 1968, 
+p 2', 
+— Kritzwiser, Ka) "Ottawa Shows Pop 
+
+nquisl ' Tin ( llobt and Mail (Toronto), 
+Jan 24, 1968, p 14 
+
+— Robillard.Yves "Rosenquist 'Je peins 
+des choses inonymes 'La Pn • (Montreal), 
+Jan 27 196* 
+
+— Heywood, Irene "A Trip to Ottawa 
+(ames Rosenquisl and His Power." Fin 
+Cazetti | roronto),Feb 24 1968 p 44 
+— Ad. mis. &gt;ii Jerem) 'Exhibition Reviews 
+(ames Rosenquisl National Galler) "i 
+( anada " irlscanada roronto) 25, no I . 
+
+nos I 16 I I" (Api I968).p 45 
+— Vigeant, Andre "James Rosenquisl 
+Temps-espace mouvement." I" des arts 
+(Moiiirc.il). no 51 (summei I9i 
+pp ss 61 
+
+Butler, (oseph I I hi rVmerii an w i) 
+with \n (ames Rosenquisl Retrospective 
+I In i onnoi n mi (1 ondon) 169 no I 
+(Sept 1968), p.67 -Adamson, Jerem) 
+"Spaghetti and Roses A 1 &gt;o&lt; ument ol an 
+Exhibition . \rtscanada roronto 26, no I, 
+issue nos 128 12" (Feb 1969) pp 8-13. 
+
+Galerie Ileana Sonnabend, Paris, Rosenquist, 
+Apr. 25-May. Exh. cat. with essay by 
+Tommaso Trmi, trans. Adeline Arnaud. 
+
+Galleria Gian Enzo Sperone, Turin, James 
+Rosenquist, Nov. 5-25. 
+
+1969 
+
+Leo Castelli Gallery, New York, Rosenquist: 
+Horse Blinders, Mar. 29-Apr. 19 
+
+— ( anaday.John "Richard Anusrkiewica 
+It's Baffling " flu Mew York Him r, \pi 5 
+1969, p 2 I 
+
+
+
+— "Art in New York: James Rosenquist." 
+Urn (New York, 93. no 16 iApi 18, 
+1969), se( I ,p 8 
+
+B[aker] I [hzabeth] ( "Reviews and 
+Pi v iews " Irtnews (New York) 68, no J 
+(Ma) I969),pp "l _ 2 
+— Allowa) Lawrence "Art." Tin Nation 
+(New York) 208, no is (Ma) 5, 1969 
+pp SM 82 
+
+— Schjeldahl, Pctei "New York Lcttei 
+in International (Lugano) I I no 6 
+(summei 1969), p 65 
+
+, man, I mil) "New York (ami •• 
+Rosenquist." 1 rtforum (NewYork) 7, no 10 
+(summi i 1969), p 65 
+
+1970 
+
+Castelli Graphics, New York, Rosenquist: 
+Recent Lithographs 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist, May 16-June 6. 
+
+— Schjeldahl, Peter A trip' with 
+
+nquisl " Tin MewYork rimes. Ma) Jl 
+[970 sei 2. p. 17 
+
+—I [inville] . K[asha] "In the Galleries: 
+Rosenquisl H ( astelli " lrts Magazine 
+(New York) 44. no 8 (summer 1970), p. 61 
+— I'erre.iuh. John "Art: Hen ind ["here." 
+//„ Village Voia (New York) 15 no 13 
+June 4 [970 pp 17-18 
+— Pincus-Witten, Robert New York 
+|ames Rosenquist, ( astelli Galler) " 
+irtfonim (New York) 9 no I (Sepi 1970), 
+
+PP ''■ Ti 
+
+— Rhncliff] ( [arter] "Reviews and 
+Previews James Rosenquist Irlmnus 
+(New York) 69 no 5 (Sepi 1970), p is 
+— Baker, Kenneth "New York James 
+Rosenquist &lt; astelli I taller) irtfonim 
+(NewYork) 9, no 5 (Jan 1971), p -: &gt; 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist: Two Large Paintings: Area Code 
+and Flamingo Capsule, Oct. 24-Nov 14 
+— B[aker] I (lizabeth] &lt; "Reviews and 
+Pi, views I rim w&gt; (New York I 69, no 8 
+Dei I970).p 61 
+
+Galerie Rolf Ricke, Cologne, James 
+
+Rosenquist, Nov. 17-Dec. 15. 
+
+— Pfeiffer, Giintcr "Ausstellungen James 
+Rosenquist, (o Baer." /&gt;&lt;'* Kunstwerk 
+(Sum-. mi 2l.no I (Jan I971),pp 79 -80 
+
+
+
+1972 
+
+Kunsthalle Koln, James Rosenquist: 
+
+Gemalde — Raume — Graphik, Jan 29 
+
+Mar. 12. Organized by the Wallraf-Richartz- 
+
+Museums, Cologne. Exh. cat. with text by 
+
+Evelyn Weiss and excerpts from previously 
+
+published articles and interviews. 
+
+— Weiss I trelyn Zui \usstcllung [ames 
+Rosenquist in dei Kunsthalle." \tu ■■ n 
+in Kdln Bulletin I I. no I (Feb 1972), 
+pp 1018-19 
+
+Whitney Museum of American Art, New York, 
+James Rosenquist, Apr. 12-May 29 Traveled 
+to Museum of Contemporary Art, Chicago, 
+June 30-Sept. 3. Exh. cat. with essay by 
+Marcia Tucker. 
+
+s, hjeldahl Pi t&lt; i I h&lt; Rosenquist 
+Synthesis I" in \mttka N&lt; w York I 60 
+no 2 (Mai \pr l 1 ' - :' pp 36 61 
+
+( mull., h .In. I h. Big l lit |acel 
+Retrospci rive 1 In New York Finn ■ 
+Apr 23 1972 |- 21 Sec also James 
+Rosenquist \rl Mailbag [ames 
+Rosenquist Replies." Tin New York Times 
+Ma) 1-4. 1972, pp 23 24 
+— Battcock Gregorj James Rosenquist." 
+In Magazim (New York) 46, no (Ma) 
+1972 pp 49- 52 Revised stightl) and 
+published in Battcock H hy I" Casual 
+\,.i, on tii, [esthetics oj r/n hnmediati Past, 
+pp 57-65 New York I R Dutton, 1977 
+See also Marcia Packer's lett&lt; t to tin editor 
+in response to B itti oi k irrii I, Irfj 
+Magazine (New York) 46, no 8 (summer 
+1972 p i 
+
+S[iegel] |[eanne] Reviews and 
+Pro iews [ames Rosenquist ' irtnewi 
+(New York) 71, no 4 (summer 1972 p 58 
+
+Margo Leavin Gallery, Los Angeles, James 
+Rosenquist. Lithographs, May 9-31. 
+
+1973 
+
+Leo Castelli Gallery, New York, James 
+
+Rosenquist, May 26-June 16. 
+
+— Frank, Peter Revii ws and Previews 
+[ames Rosenquist ittnen Nev, York) "2 
+no 7 (Sept I973),pp B4 85 
+
+Amerika Haus Berlin, James Rosenquist, 
+Sept. 20-0ct. 27. Exh. cat. with essay by 
+Karl Ruhrberg. 
+
+
+
+Portland Center for the Visual Arts, Oreg., 
+
+James Rosenquist, Oct. 
+
+— Kelly, David "Unusual Images Jar 
+Viewers at [ames Rosenquist show 
+///, Sunday &lt; )regonian (Portl ind) Oct 28 
+[97 I p 16 
+
+Stedehjk Museum, Amsterdam, James 
+Rosenquist, Oct. 5-Dec. 2. Traveled as Recent 
+Prints by James Rosenquist to Albright-Knox 
+Art Gallery, Buffalo, June 12-July 1. Exh. 
+cat. in Dutch and English with essay by Wim 
+A L Beeren. 
+
+Jack Glenn Gallery, Corona del Mar, Calif, 
+Rosenquist, opened Oct. 27. 
+
+1974 
+
+Max Protetch Gallery, Washington, D.C., 
+
+Rosenquist, opened Jan. 18. 
+
+Castelli Graphics, New York, Feb. 2-16. 
+
+I »reiss [osepli \"- R&lt; * iews Museum 
+and Galler) Reviews [ames Rosenquist." 
+Im, Magazim (New York) 48, no 7 (Api 
+
+197 i p '.4 
+
+Scottish Arts Council Gallery, Edinburgh, 
+Rosenquist Prints, Feb. 9-Mar. 10. Traveled 
+to Art Gallery and Museum, Aberdeen, 
+Mar. 16-Apr. 7, City Museum and Art 
+Gallery, Dundee, Apr. 13-May 12. Exh. cat. 
+with previously published essay by W.A L 
+Beeren 
+
+Jared Sable Gallery, Toronto, James 
+Rosenquist, Mar 30-Apr. 13, 1974. 
+
+— Nasgaard, Roald "Arts Reviews [ami ■ 
+Rosenquist at Jared Sable.' Irti Magazim 
+„, York 18 no 9 |unt 1974 ,p 71 
+
+Norrkopings Museum, Sweden, James 
+Rosenquists Litografier, summer. Exh. cat 
+
+Mayor Gallery, London, James Rosenquist 
+An Exhibition of Paintings 1961-1973, 
+Dec. 3, 1974 Jan. 18, 1975. Exh. cat. with 
+introduction by David Sylvester and previously 
+published statements by Rosenquist 
+
+Burr, [ames 'Round the Galleries Pop 
+,,i ,| u Billboard." Ipollo (London) 100 
+no 154 (De. i" - ' p 518 
+—Burn, (.us 'James Rosenqubi 
+Review (1 ondon) 26, nos 25 26 (Dei I I 
+p 74 
+
+
+
+1975 
+
+Jared Sable Gallery, Toronto. 
+
+I i.iuli Gar) Mil h l&lt; I 'Reviews Loronto 
+I imes Rosenquist ' irtstanada I [brent 
+no 4 nos 202 03 (wintei 1975 76) p ^2 
+
+The New Gallery, Cleveland, Ohio, James 
+Rosenquist: Recent Work, Jan. 11-Feb. 8. 
+
+Knoedler Contemporary Prints, New York, 
+James Rosenquist: Recent Mural Prints, 
+Apr. 23-June 6. 
+
+— Ellenzwcig, VUen "Arts Reviews [ames 
+Rosenquist In Via \a imi (Nev. Yorl 
+no i (Sept 1975) p 4 
+
+Leo Castelli Gallery, New York, James 
+
+Rosenquist, Sept. 27-Oct. 18. 
+
+Patton Phil. "Reviews [ami i 
+Rosenquist Leo &lt; ist&lt; Hi « I ill* r) Uptown 
+Arlfomm New York) I t no I I i 
+pp 69 70 
+
+Leo Castelli Graphics, New York, Nov. 12-30. 
+— Drciss. Joseph "Arts Reviews [ami 
+Rosenquist In \4aga ^lev, York) 19, 
+
+no 5 [an 1975 p 14 
+
+Margo Leavin Gallery, Los Angeles, James 
+Rosenquist: Paintings, Dec. 12, 1975- 
+Jan. 24, 1976. 
+
+I ev, illcn, &lt; onstancc 'Rosenqui - 
+
+Worli \rtweeh I »al Ian I I '• 
+
+[976),pp I 16 
+
+1976 
+
+Greenberg Gallery, Saint Louis, James 
+
+Rosenquist, May 15 -June 30. 
+
+Mn, ffler, Philip V."Gi Caller) 
+
+Shows Pop Works." St ' ""■ / '- 
+
+June ' I97i B.p.6 
+
+Mayor Gallery, London, James Rosenquist 
+New Paintings, Sept 29-Nov. 5. 
+
+— Vaizey, M irina Rosi nquist \rts Review 
+no 2i Oct 15,1 
+
+PP 5 I 
+
+1977 
+
+Sable-Castelh Gallery. Toronto, James 
+
+Rosenquist, Apr. 9-23. 
+
+Anete Grafica, Milan, Rosenquist, opened 
+May 26. 
+
+
+
+Leo Castelli Gallery, New York, James 
+Rosenquist, Sept. 24 Oct 15. 
+
+Russell, |ohn V Work: b) I imi ■ 
+
+Rosenquist " 77ii Oct 
+
+p 2 ' 
+1 1. nr) Gerrit "-■ v York Res it ws 
+I imct Rosi nquist ' [rtnem (New Yorl 
+no in Dei 19 p I [0 
+-Rubinfii n.Lco Res ii ws |amcs 
+Rosenquist, I • • &gt; ( astelli &lt; Jailer) \rtforum 
+New York 16 no I (Dc« 19 
+
+PP '■ 
+
+Zimmei W illi im \" H 
+Rosenquist I 
+
+p 'i 
+
+Getler/Pall, New York, James Rosenquist: 
+New Prints, Sept. 27-Oct. 20. 
+
+Pomtret M irgar I \rts Reviews fame! 
+
+Rosenquist In Waga im N 
+
+„o 5 |an 19 8 p 14 
+
+Jacksonville Art Museum, Fiji , Jim and Bob: 
+The Florida Connection, Oct. 20-Nov. 20. 
+Exh. cat. 
+
+1978 
+
+Mayor Gallery, London, Recent Paintings, 
+
+Nov. 29, 1978-Jan. 1979. 
+
+. | hi i ondon Res iews I 
+1 
+
+nd 10 no !4 D 
+
+p 682 
+
+Multiples, New York, James Rosenquist 
+Hand-Colored Etchings, 1978, Nov. 18 
+Dec. 30 
+
+1979 
+
+The John and Mable Ringling Museum 
+
+of Art, Sarasota, James Rosenquist Graphics 
+
+Retrospective, Feb. 1-Mar. 25. Traveled 
+
+to Fort Lauderdale Museum ot 
+
+May 8-June 24. Exh. cat. with introduction 
+
+by Elayne H. Varian. 
+
+Albright-Knox Art Gallery, Buffalo, Recent 
+Prints by James Rosenquist, June 12 July 1. 
+
+Plains Art Museum, Moorhead, Minn., James 
+Rosenquist: Seven Paintings, Oct. 7 Nov. 25. 
+
+1980 
+
+Castelh-Feigen-Corcoran Gallery, New York, 
+
+Rosenquist, May 17-June 14. 
+
+
+
+47 
+
+
+
+— Russell.John " \rl Rosi nquisl 
+//„ \,u \.-d Umes, May 30, I980.se&lt; ( 
+p. 14 
+
+— Ffrcnch-1 razicr, Nina \ New York 
+Letter [aines Rosenquist." Art International 
+(Lugano) 24.nos I 2 (Sept Oci 1980). 
+pp 82 84 
+
+-i rank, Eli: : « "' 
+
+Exhibition] I Ro nquisi at l astelli- 
+
+Feigen-i New 
+
+Vbrl No\ 1980) p 137 
+
+Texas Gallery, Houston, Paintings, 
+Sept. 27-0ct. 25. 
+
+1981 
+
+Leo Castelli Gallery, New York, James 
+
+Rosenquist, Jan. 24-Feb 21. 
+
+— Ashbery [ohn \rt Spai ed-Oul 
+Rosenquist " iSTi wsweek (New Yorli I 97, 
+
+i i p *4 
+
+— Nadelman, ( ynthia Ni « York 
+Reviews James Rosenquist " Irtneu 
+(New Yorl Ma) 1981) p 189 
+
+Castelli-Goodman-Solomon Gallery, East 
+Hampton, NY, James Rosenquist: Selected 
+Prints, Aug. 8-22. 
+
+Dolly Fiterman Art Gallery, Minneapolis, 
+High Technology and Mysticism: A Meeting 
+Point, Oct. 30-Nov. 30. 
+
+— Addington, I ran "Rosenqui l 
+New Directions." Minneapolis Tribune, 
+Nov 15, 1981, sec. G,p 14 
+
+1982 
+
+Castelh-Feigen-Corcoran Gallery, New York, 
+James Rosenquist: House of Fire, Mar. 3- 
+
+Apr. 17. 
+
+—Larson, Kay "The Fire Within.' Neu York 
+15 no 
+
+— Russell |ohn "Art A Good Way to I ook 
+at Frcni h « &gt;ld Masters.' Tlu NewYork 
+runes, Mar 26, 19 , 24 
+
+Barbara Gillman Gallery, Miami, High 
+Technology and Mysticism: A Meeting Point, 
+June. 
+
+—Kohen. Helen L "Rosenqui 
+i, Miami Herald |un 
+I p 2 
+
+Mayor Gallery, London, James Rosenquist: 
+Paintings from the Sixties, June 1-July 3. 
+
+
+
+Exh. cat. with essay by Richard Shone and 
+
+previously published statements by 
+
+Rosenquist. 
+
+—Hooker. Denise "London Reviews 
+I unes Rosenquist Mayor ( iallerj i" 
+Review (] ondon) 34 no 13 (June 18, 
+L982). p 322. 
+
+Gloria Luria Gallery, Bay Harbor Islands, 
+Fla., James Rosenquist: Major New Works, 
+opened June 9. 
+
+— Kohen. Helen I "RosenquistWiew ol 
+Reality I'h. Miami FfcroH.June 20, 1982 
+sec I . p - 
+
+Metropolitan Museum and Art Center, Coral 
+Gables, F-lll and Flamingo Capsule, closed 
+July 4. 
+
+—Kohen, Helen I "Rosenquist s View ol 
+K, ,ht\ " Tin Miami Herald June 20, 1982 
+iei I . p 2 
+
+Colorado State University, Fort Collins, 
+James Rosenquist at Colorado State 
+University, Sept. l-0ct. 31. Exh. cat. with 
+essay by Ron G. Williams. 
+
+I lurni in, Irene Rosenquist Multiple 
+m Mammoth 
+Scale " Rocky Mountain News (1 &gt;enver), 
+Sepi Vi ekend sec . pp 10, 16 
+
+Castelh-Feigen-Corcoran Gallery, New York, 
+James Rosenquist, opened Nov. 9 
+
+1983 
+
+Center for the Fine Arts, Miami, James 
+
+Rosenquist, Apr. 22-June 5. 
+
+rasker.Frcdi I lying Bacoi 
+Polii j Sizzling \gain." flic Miami Herald, 
+
+C,p. 1 
+—Harper, Paula "A Spai I ml i St u 
+Iliui "■" 17k Miami Vow, Apr 22. 1983 
+
+see Dp 5 
+
+— Tiehs, I aurel "Stai linn Wis the 
+Star, but Fans Stole the Show." The Miami 
+Herald, \pr 27 1983, ice B.p 2 
+
+— Gluei k ( ■&gt; i ^" ■•"'■ I I "" 
+
+NewYorl Times, [uly 21 1983 sec C,p L5 
+
+Van Straaten Gallery, Chicago, James 
+Rosenquist: Paintings and Works on Paper, 
+May. 
+
+Thorden Wetterling Galleries, Goteborg, 
+James Rosenquist, Sept. 17-0ct. 16. 
+
+
+
+Leo Castelli Gallery, New York, James 
+Rosenquist, Oct. 1-22. 
+
+— R..\ \ ivien Vrt American Imager) 
+
+by James Rosenquist," Hn NewYork Times 
+
+Oct it 1983 ie&lt; ( p y&gt; 
+smith. Roberta "Photos and Realism." 
+
+The l illagt l Wo (New York) 28, no 44 
+. n l. 1983). p 95 
+Moul ii" ge Nicol is \ "James 
+
+Rosenquist i"' (New York) 58, 
+
+no i (De&lt; 1983). p 1 
+
+— Moufarrege, Nicolas A I lash Art 
+
+Reviews |.mies Rosenquist Leo ( astelli.' 
+
+/ lash 4" International (Milan), no 115 I |an 
+
+1984 p 36 
+
+1984 
+
+SVC Fine Arts Gallery, University of 
+South Florida, Tampa, Rosenquist, May 18- 
+June 30. 
+
+—Loft. Kim "It Takes Work to &lt; n it&lt; 
+1 1„ Smell of i Robot The Tampa 
+Tribum May 20, 1984, sec G, pp I - 
+
+Thorden Wetterling Galleries, Stockholm, 
+James Rosenquist: New Paintings, fall. 
+Exh. cat. 
+
+Smith College Museum of Art, Northampton, 
+Mass., James Rosenquist and Maurice 
+Sanchez: Artist and Printer, A Decade of 
+Collaboration, Nov. 8, 1984-Jan. 20, 1985. 
+
+1985 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist: The Persistence of Electrical 
+Nymphs in Space, Apr. 27-June 18. 
+
+— Glueck, Grace "Art: James Rosenquist." 
+Tin NewYork rimes, May I 1985, tei ( . 
+
+P 23 
+
+The Denver Art Museum, James Rosenquist 
+Paintings 1961-1985, May 15-July 14. 
+Traveled to Contemporary Arts Museum, 
+Houston, Aug. 24-0ct. 20; Des Moines Art 
+Center, Nov. 29, 1985-Jan. 26, 1986; 
+Albright-Knox Art Gallery, Buffalo, Mar 14 
+May 4, 1986, Whitney Museum of American 
+Art, New York, June 26-Sept. 21, 1986; 
+National Museum of American Art, 
+Smithsonian Institution, Washington, D.C., 
+Oct. 24, 1986-Jan. 11, 1987. Cat., James 
+Rosenquist (NewYork: Viking Penguin, 1985), 
+by Judith Goldman. 
+
+
+
+— Clurman, Irene. "Old, New I oom I irg 
+in Rosenquist's Work.' Rocky Mountain 
+\,„, (1 li rtvi i May 15, 1985 p 52 
+— Price, Max "Rosenquist Pop Work Will 
+Be Very Big in M ty 1 1" Denvei Post, 
+•\ P r 21, 1985. p 19 
+
+( hum. m, Irene "Retrospi ctive R 
+Mountain News (Denver), May 12. 1985, 
+l pp - 1 5 
+Price, Max "Monument J Images Tin 
+Denvei Post, May 12, 1985, sec D,pp 1,20 
+_Pri( i Max \ Really Big Show " I7ii 
+Denvei Post May 15, 1985 sec D, pp I '• 
+— Price, Max "Visiting Painter I ikes 
+the sue ol I lis Show." The Denvei Post 
+May 15, 1985, s&lt; i D, pp I, 3 
+
+K iti lit t &lt; arter "Rosenquist s Rouge.' 
+Irtforum (NewYork) 23.no 10 (summer 
+1985), pp 92-94 
+
+[ohmon, Pi i l "Rosenquist s 
+
+Billboard-Size Works Are Beautifully 
+Rewarding." Houston Chronicle, hug 31, 
+[985, sei 4 p I 
+
+— Fudge.Jane "From Pop's Place to 
+i inter Space 1 Ik |ames Rosenquist 
+Retrosp ti&gt; Irtspaa (Albuquerqu 
+I fall 1985), pp 20 23 
+
+— Everingham, &lt; arol ] "I :s Rosenquist 
+
+Paints the Signs ol the I imes " The Houston 
+
+September 2s. 1985 se&lt; G.pp 1,3. 
+— Heartney I leanoi Rosenquist 
+Revisited." Irtnews (NewYork) 85 no.6 
+,, iimiii,! 1986) pp 98 103 
+
+Russell, [ohn fVrt James Rosenquist 
+in Retrospective." Tlie NewYork Tinu . 
+|n»e 27. 1986. sec C,p.28 
+— Wallach.Amei "New Flights ol Fancy." 
+Newsday (New York),June 29, 1986, part 2, 
+pp l -5, I 3 
+
+Sozanski, Edward J "A Superstar 
+Pop Artist rwenty-five Years I 
+Hi, Philadelphia Inquirei July I J, 1986, 
+sec M.p 12 
+
+— Larson.Kay I ire and Ice ' NewYork 19 
+no 28 (July 21, 1986) pp 58 59 
+— Pincus, Robert l "Poet of Pop \rt I inds 
+Bigger Is still Better." Tlie San Diego ' nion, 
+[uly 27, I986,se&lt; I ,pp I. 4 
+—Hughes. Robert "Art Memories S&lt; iled 
+md Scrambled." rime (New York) 128, 
+no 6 Vug li 1986) p 69 
+— Tout igny, Maurii e 'B oscnquist 
+l { pi intn a ses raisons " '-&lt; Devoii 
+\\, „,.,. ,l Sept 6 1986 ' ■ 
+
+
+
+I evin, Kim "Below Zero.' Tht I illagt I bio 
+(New York) 31, no J6 (Sept 9, 1986), p 76 
+—Wilson, William. "James Rosenquist Put 
+On oi I Sreat \merican Artist?" Daytona 
+Beach Sunday News-Journal, Sept 21, 1986, 
+sec H p I" 
+
+— Kuspit Donald "New York | 
+Rosenquist: Whitney Museum of American 
+Art " \rtfoTum (New Y.&gt;rki 25, no 2 i 
+1986) pp 128-29 
+
+— Tillyard, Virginia •'Exhibition Reviews 
+NewYorl Whitney Museum Rosenquist 
+Retrospective." The Burlington Magazine 
+I ondon) 128.no 1003 (Oct 1986), 
+
+71-72. 
+—Richard, Paul "James Rosenquist's 
+Dreamy I andmarks in I ime flu 
+Washington Post, Ocl 1 V 1986, se&lt; &lt; 
+pp. 1-2 
+
+—Allen, Jane Addams "'Pop Prince 
+Rosenquist Looks Ahead." 111. Washington 
+nm«,Oci 24. I986.sec B.pp I 9 
+— Schwabsky, Barry "James Rosenquist at 
+the Whitney Museum." Artscribe 
+International (London).no 60 (Non Dec 
+[986), pp 77-78. 
+
+— Narrett, Eugene "Rosenquist in 
+Retrospect Wrestling with the American 
+i loddess.' New \" Examinei (( hi&lt; igo) 14, 
+no 4 (Dec 1986). pp 23 25 
+—Jones, Roland. "Reviews: Nev, York 
+James Rosenquist Paintings 1961- 1985, 
+Whitney Museum." Flash irt International 
+(Milan).no 131 (De&lt; 1986 [an 1987), 
+p 88 
+
+( otter, Holland "Advertisements for a 
+M, m \_ topia I" in Imerica (New York) 
+75, no I (Jan 1987). pp 82 89 
+— Camnitzer, I uis 'James Rosenquist en el 
+Museo\* hitney ' I"' en Colombia 
+(Bogota),no 33 (May 1987) pp 4 19 
+
+Catherine G. Murphy Gallery, Saint Paul, 
+James Rosenquist Prints, Sept. 4-27. 
+
+1986 
+
+Heland Thorden Wetterling Galleries, 
+Stockholm, James Rosenquist Prints: Ladies 
+of the Opera Terrace, Oct. 
+
+1987 
+
+Heland Thorden Wetterling Galleries, 
+Stockholm, James Rosenquist: One Painting 
+and One Print, Jan. 22-28. 
+
+
+
+Galerie Daniel Templon, Paris, James 
+Rosenquist, Apr. 29-May 30. 
+
+Heland Thorden Wetterling Galleries, 
+Stockholm, James Rosenquist: Paintings 
+1987, Dec. 3, 1987-Jan. 17, 1988. Exh. cat 
+with statement by Rosenquist. 
+
+1988 
+
+Florida State University Gallery and Museum, 
+Tallahassee, James Rosenquist, Mar. 11- 
+Apr. 17. Traveled to the University Gallery at 
+Memphis State, Memphis, Apr. 29-June 12; 
+Polk Museum of Art, Lakeland, Fla., 
+Sept. 16-Nov. 25. Exh. cat. with essay by 
+Craig Adcock. 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist: Through the Eye of the Needle to 
+the Anvil, Apr. 23-May 14. 
+
+Richard L. Feigen &amp; Company, Chicago, 
+James Rosenquist: New Work, May 5- 
+June 24 
+
+USF Art Museum, College of Fine Arts, 
+University of South Florida, Tampa, James 
+Rosenquist at USF, Oct. 10-Dec. 3. Exh. cat. 
+with essay by Donald J. Saff. 
+
+1989 
+
+Richard L. Feigen &amp; Company, Chicago, 
+
+James Rosenquist: Flashl.fe, opened May 12. 
+
+Richard L Feigen &amp; Company, London, 
+James Rosenquist: New Paintings, 
+June 27-July 28. 
+
+— Y[ood] ,J[ames] Reviews I 
+Rosenquist: Feigen &amp; Company \rtforum 
+(New York) 28, no 2 (Oct 19* 
+pp i s,. 81 
+
+Heland Wetterling Gallery, Stockholm, 
+Welcome to the Water Planet, Nov 
+1989-Jan 1990. Exh. cat. with essay by 
+Judith Goldman. 
+
+1990 
+
+Universal Limited Art Editions, New York, 
+James Rosenquist— Never Mind: From 
+Thoughts to Drawing, Jan. 17-Feb. 17. Exh. 
+cat. with essay by John Yau. 
+
+— Wallach.Amei I Kplorations in Space 
+Vewsday (New York). Feb B. 1990. part 2, 
+pp. 8-9 
+
+
+
+The Museum of Modern Art, New York, 
+James Rosenquist: Welcome To The Water 
+Planet, Feb. 7-May 1 Traveled to Laguna 
+Gloria Art Museum, Austin, Tex., Sept 
+8-0ct. 21, 1990; University of Missouri, 
+Kansas City, Jan. 20-Mar. 22, 1991; The Art 
+Museum, University of California, Santa 
+Barbara, June 25-Aug. 11, 1991, Center for 
+the Arts, Vero Beach, Fla., Dec. 1-Jan. 19, 
+1992; University of Kentucky Art Museum, 
+Lexington, Mar. 22-May 10, 1992. Exh. cat. 
+(Mount Kisco, New York: Tyler Graphics, 
+1989), James Rosenquist: Welcome to the 
+Water Planet and House of Fire, 1988-1989. 
+Essay by Judith Goldman. Published in 
+conjunction with this exhibition and the 
+traveling European exhibition originating in 
+1989 at Heland Wetterling Gallery, 
+Stockholm, and organized by Tyler Graphics. 
+— Wallai l' -\'"" Explorations in S| 
+Newsda] (New York),Feb 8 I990.part 2. 
+
+IT i 
+
+—"James Ros&lt; nquist it 1 1" Museum ol 
+
+Modem Art." I" Vow Caller] i 
+
+, i, Plains. NJ.) 20. no. 7 (Mai 19 1 
+
+p 'ii, 
+
+Erika Meyerovich Gallery, San Francisco, 
+James Rosenquist, Welcome to the Water 
+Planet and House of Fire, 1988-1989, 
+Apr. 6-May 12. 
+
+Glenn-Dash Gallery, Los Angeles, James 
+Rosenquist, Welcome to the Water Planet and 
+House of Fire, 1988-1989, Apr. 7-May 5. 
+
+Richard L. Feigen &amp; Company, Chicago, 
+James Rosenquist, Welcome to the Water 
+Planet and House of Fire, 1988-1989, 
+May 5-June 2. 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist, Oct. 20-Nov. 17. 
+
+— Bass.Ruth "Reviews James Roi [uisi 
+
+Leo&lt; astelli \rtneun (New York) 90 qo I 
+
+[an 1991). p 143 
+, | Rourk- Mi ■ [ames Rosenquist 
+
+i,,, Uagazim (Nev, York) 65.no 5 (Jan 
+
+[991 p 83 
+Decter, [oshua "Reviews James 
+
+Rosenquist Leo &lt; astelU.' F/&lt;u/i I" 
+
+International (Milan) 24.no 156 (Jan - 
+
+Feb I991).p i 1 "' 
+
+
+
+1991 
+
+Tretyakov Museum, Central Hall of Artists, 
+Moscow, Rosenquist: Moscow 1961-1991, 
+Feb. 5-Mar. 5. Exh. cat. in Russian and 
+English with essay by Donald J. Saff and 
+previously published essay by Craig Adcock 
+
+IVAM Centre Julio Gonzalez, Valencia, 
+James Rosenquist, May 17-Aug. 18. Exh. 
+cat. in Spanish and English with essay by 
+Craig Adcock, previously published statements 
+by Rosenquist, interview with Rosenquist by 
+David Shapiro, and previously published 
+interviews with Rosenquist by Doon Arbus, 
+Richard Bernstein, Jeanne Siegel, Gene 
+Swenson, Mary Anne Stamszewski. Trans. 
+Javier Garcia Raffi and Harry Smith 
+I ffett. William "Publication! P 
+[wi mi th 1 1 ntury \meru in \" lames 
+Rosenquist." Buriington M Ion) 
+
+[34.no I"" ' |uly 1992 p 159 
+
+1992 
+
+Gagosian Gallery, New York, James 
+Rosenquist: The Early Pictures 1961 -1964, 
+May 2-July 11. Exh. cat. (New York: 
+Gagosian Gallery in association with Rizzoh, 
+1992) by Judith Goldman, with essay by 
+Goldman and interview with Rosenquist by 
+Goldman. 
+
+— Kimmelman, Mil had I rom 
+Rosenquist, a Pli ising Look it I irlj P 
+wYork fltnei I 
+
+P 33 
+
+I u Kay "Unloading the * inon 
+
+pp 62 63 
+
+■ I lassi. Pop.' "« 
+Village Voice (New York '"" '' 
+
+p 96 
+
+—Bart ray I I David Smith \ \ 
+
+Rosenquist." Coya (Madrid s 229 10 
+
+i [uly I »cl 1992). pp 104 05 
+
+Guti an l I |ami Rosenquist 
+
+Uelia (Tokyo).no 78 Sept 
+pp jo &gt;9 In I nglish ind |apai 
+K[uspic].. D(onald] B 
+
+Rosenquist Gago ian Gallery." \rtfoi 
+
+(NewYorl ■ " l4 
+
+Galeria Weber, Alexander y Cobo, Madrid, 
+James Rosenquist: Paintings 1990-1992, 
+May 14-July 25. Exh. cat in Spanish and 
+English with statement by Rosenquist. 
+
+
+
+49 
+
+
+
+Galerie Thaddaeus Ropac, Paris, James 
+Rosenquist: Recent Paintings, Oct. 17- 
+Nov. 21. Exh. cat., The Serenade for the Doll 
+after Claude Debussy or Gift Wrapped Dolls 
+and Masquerade of the Military Industrial 
+Complex Looking Down on the Insect World, 
+in French and English with essay by Ann 
+Hindry and statements by Rosenquist, trans. 
+Nathalie Brunet, Neal Copper, Helene Gille. 
+
+1993 
+
+Walker Art Center, Minneapolis, James 
+Rosenquist: Time Dust, The Complete 
+Graphics, 1962-1992, Mar. 7-May 9. 
+Traveled to Honolulu Academy of Arts, 
+June 16-Aug. 8; Sarah Campbell Blaffer 
+Gallery, University of Houston, Sept. 10-0ct. 
+31, Samuel P. Harn Museum of Art, 
+University of Florida, Gainesville, Dec. 5, 
+1993-Feb. 6, 1994; Montgomery Museum of 
+Fine Arts, Mar. 8-June 13, 1994; Huntsville 
+Museum of Art, Ala., Oct. 23, 1994-Jan. 8, 
+1995; Elvehjem Museum of Art, Madison, 
+Wise, Mar. 4-Apr. 30, 1995; Joslyn Art 
+Museum, Omaha, June 17-Sept. 10, 1995, 
+Neuberger Museum of Art, State University 
+of Mew York at Purchase, Oct. 22, 1995- 
+Jan. 7, 1996; San Diego Museum of Art, San 
+Diego, Mar. 2-May 5, 1996; Davenport 
+Museum of Art, Iowa, Mar. 1-Apr. 27, 1997. 
+Organized by The University Art Museum, 
+California State University, Long Beach. Exh. 
+cat, catalogue raisonne of Rosenquist's prints 
+(New York: Rizzoli in association with the 
+University Art Museum, California State 
+University, Long Beach, 1993), Time Dust, 
+James Rosenquist: Complete Graphics, 
+1962-1992, by Constance W. Glenn. 
+
+— Abbe, Mar) and Steven Henrj Mjdoff. 
+Prii \rtnewi 
+
+(New York) 9 
+p 125 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist: The Serenade for the Doll after 
+Claude Debussy or Gift Wrapped Dolls and 
+Masquerade of the Military Industrial 
+Complex Looking Down on the Insect World, 
+Mar. 20-Apr. 17. Exh. cat. with statements 
+by Rosenquist and interview with Rosenquist 
+by David Whitney. 
+
+— Russell.John "A Painter I inds I hat 
+I lolls ( in Bi Dynamitt ' Thi \nrVork 
+nma.Apr 11 1993. p JO 
+
+
+
+— Heartney, I leanor "Reviews Malevolent 
+D,,ll-. Ii « York) 92, no 6 
+
+p 167 
+—Adams. Brooks 'Review .'t Exhibitions 
+|ames Rosenquist at Castelli." -1" "' 
+\merica (New York) 82 no I Jan I9 ( 
+P 109 
+
+Alyce de Roulet Williamson Gallery, 
+Art Center College of Design, Pasadena, 
+James Rosenquist: Recent Paintings, 
+Mar. 27-May 29. 
+
+Galerie Thaddaeus Ropac, Salzburg, 
+James Rosenquist. Recent Paintings, 
+Apr. 3-May 22. Exh. cat. 
+
+Akira Ikeda Gallery, Japan, James 
+Rosenquist: The Serenade for the Doll after 
+Claude Debussy or Gift Wrapped Dolls, 
+Sept. 3-30. Exh. cat. in English. 
+
+Feigen, Chicago, James Rosenquist: Gift 
+Wrapped Dolls or Serenade for the Doll after 
+Claude Debussy, Sept. 10-0ct. 9. Exh. cat. 
+with poem by Jessica Hagedorn and 
+previously published essay by John Russell. 
+
+1994 
+
+Richard L. Feigen &amp; Company, London, 
+James Rosenquist: Gift Wrapped Dolls, 
+May 25-June 24. 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist: The Thirtieth Anniversary 
+Exhibition, Oct. 15-Nov. 12. Exh. cat. 
+— Aukcnun. Anastasia "Reviews [amej 
+Rosenquist I eo ( astelli Irtnews 
+(New York i 94 no 2 Feb 1995). p 122 
+— Kahna, Richard "Review of Exhibitions 
+fames Rosenquisi at Leo ( istelli I" '" 
+Inuriu Mev, Yorl Mai 1995 
+
+p. 100 
+
+Wetterling Teo Gallery, Singapore, James 
+Rosenquist— Paintings, Oct. 31-Dec. 4. 
+
+Wetterling Teo Gallery, Singapore, Flower 
+Paintings, Nov. 1994-Feb. 1995. Exh. cat. 
+
+Portland Art Museum, Oreg., James 
+Rosenquist: Recent Work, Dec. 9, 1994- 
+Apr. 2, 1995. 
+
+
+
+1995 
+
+Pyo Gallery, Seoul, James Rosenquist: 
+The Big Paintings, Mar. 7-30. Exh. cat. in 
+Korean and English with previously published 
+essays by Kay Larson, Meg 0'Rourke, Carter 
+Ratcliff, and Roberta Smith. 
+
+Seattle Art Museum, James Rosenquist 
+Paintings, May 15-Aug. 6. 
+
+Civico Museo Revoltella, Galleria d'Arte 
+Moderna, Trieste, James Rosenquist: Gli anni 
+novanta, June 11-Sept. 15. Exh. cat. in 
+Italian and English with introductions by 
+Roberto Damiani and Maria Masau Dan and 
+essay by Craig Adcock. 
+
+1996 
+
+Indigo Galleries, Boca Raton, James 
+Rosenquist: New Paintings and Constructions, 
+Feb. 8-Mar. 2. 
+
+Graphicstudio Gallery, University of South 
+Florida, College of Fine Arts, Tampa, James 
+Rosenquist: A Retrospective of Prints Made 
+at Graphicstudio 1971-1996, Apr. 11- 
+June 27. 
+
+—Milani. Joanne "Rosenquist: The Vision 
+Quest Fhi Tampa Tribune, M.i\ 5, 1996 
+
+p P i : 
+
+Leo Castelli Gallery, New York, James 
+Rosenquist, 4 E 77 St 1970 Revisited and 
+New Paper Constructions from Gemini 
+G.E.L., Apr. 20-May 18. Exh. cat. with 
+statement by Rosenquist. 
+
+Galerie Thaddaeus Ropac, Paris, 
+James Rosenquist: Target Practice, 
+May 14-June 15. Exh. cat. with statement 
+by Rosenquist. 
+
+Feigen, Chicago, Target Practice: Recent 
+Paintings by James Rosenquist, May 31- 
+July 26. Exh. cat. with essay by Craig Adcock 
+and statement by Rosenquist. 
+
+Brenau University Galleries, Gainesville, Ga., 
+James Rosenquist. Painting and Prints, 
+July 13-0ct. 4, Exh. cat. with essay by Craig 
+Adcock. 
+
+Gemini G.E.L., Los Angeles, New Paper 
+Constructions, Sept. 20-Dec. 
+
+
+
+1997 
+
+Galerie Thaddaeus Ropac, Paris, 
+
+James Rosenquist: Three Large Paintings, 
+
+Feb. 4-Mar. 8. 
+
+Heland Wetterling Gallery, Stockholm, Target 
+Practice, Mar.-Apr. Exh. cat. with statement 
+by Rosenquist. 
+
+Center for Contemporary Graphic Art and 
+Tyler Graphics Archive Collection, Fukushima, 
+Japan, The Graphics of James Rosenquist, 
+Mar. 1-June 15. Exh. cat. in Japanese and 
+English with essay by Judith Goldman and 
+interview with Rosenquist by Kaoru Yanase 
+and Shunichi Kamiyama. 
+
+Wetterling Teo Gallery, Singapore, 
+James Rosenquist: New Works 1996, 
+Aug. 15-Sept. 30. Exh. cat. with statement 
+by Rosenquist. 
+
+
+
+50 
+
+
+
+SELECT BIBLIOGRAPHY 
+
+
+
+Compiled by Janice Yang 
+Mosl citations provide original-publication 
+information only Reprints or later versions aw 
+given it commonly referenced or significant!) 
+revised from the originals, 01 il original sources 
+are partii ularly diffi&lt; uli to i 
+
+Artist Books, Writings, and Statements 
+by the Artist 
+
+Sources died below may also appeal in othei pan 
+,/„ Seleei Bibliography 01 in the Exhibition History 
+
+1963 
+
+|ames Rosenquist's 'New Realism.'" In "Young 
+Talent USA." special issue ol I" in l"""-' 
+(New York) 51, no. 3 (June 1963), p 48. 
+
+Statement in Dorothy ( Miller, ed [mericans 
+
+iw,i, p 87 I ich cai rhe Museum of Modem 
+Art. New York 
+
+1968 
+
+"Experiences." In James Rosenquisl,p ss ! ■■'' 
+
+cat., II"-- National Galley ol C anada, Ottawa 
+
+1969 
+
+"James Rosenquist Horse Blinder* I" Now 
+VewYork (New York) l.no 2 (Feb 1969 
+unpaginated Excerpt from a previously 
+unpublished statement dated De&lt; 12, 1968 
+rhe statement appears in its entirety in James 
+Rosenquist,?? 21 29 (Spanish), 196 (English) 
+Exh [ u IVAM Centre Julio Gonzalez 
+Valencia, 1991 Irans Javier Garcia Raffi ind 
+I t.i 1 1\ Smith. 
+
+1971 
+
+Statemenl in "Gene Swenson A &lt; omposite 
+Portrait.' flu Registei oj the Museum oJArt 
+i wrence; i pubhcai ol the University ol 
+
+Kansas) 4. 1 Ocl De&lt; 1971). pp. 24 27 
+
+1972 
+
+"Art Mailbag |ames Rosenquist RepUes 
+
+n „ NewYork Ames May 14, 1972, pp 23-24 
+
+1977 
+
+Statement in Grace Glueck rhe Iwentieth- 
+
+( entury \rtists Most Admired by Other 
+
+Amsts" Arlnews (Nw York) 76.no 9 (Nov 
+
+1977) pp 98 99 
+
+1978 
+
+Statement in Judith Goldman ' touching 
+
+
+
+Moonlight \rtnews (New York) 1 no 9 
+(New 1978), p 62 
+
+1979 
+
+Rosenquist, James Drawings II hile Waiting 
+
+foi an Idea. Nev, York I app Princess Press, 1979 
+
+1987 
+
+Statement in James Rosenquist Paintings 198 . 
+unpaginated Exh cat . Heland T/hordcn 
+WetterUng Galleries, Stoi kholm 
+
+1988 
+
+Statement in ( atherine Barnett Wis- M n 
+Fish Hero ■ Irt and Uniques (New York). Feb. 
+1988, p 91 
+
+1990 
+
+Statement in James Rosenquisl's &lt; ommissioned 
+II, „k p 6 Stockholm Painters Posters in 
+,„„,„ with WetterUng Gallery 1990 
+
+1992 
+
+si itement in James Rosenquist Paintings 
+
+\Q90-i992 pp i Spanish), J1 'I nglisl 
+
+cat., Galena Weber, Alexandei j &lt; "I"' Madrid 
+
+Statements in James Rosenquist flu Serenade foi 
+,/„ Dollaflei Claud, Debuss) o\ CiftWrapped 
+Dolls and Masquerade of tlu Military Industrial 
+l om pla Looking Doivn on f/ii bisect World, 
+pp iv ■■■' I Oi cat Galeric rhaddaeiw Ropa&lt; 
+Paris In English ind French trans Nathalie 
+Brunet,NeaK ooper, Hclene Gillc Reprinted 
+in ex h cat ,Leo&lt; astelli Gallery. NewYork, 
+1993, pp 5, 15 
+
+Statemenl in Paul Gardner 'Do rides Really 
+Matter: \rlnew (NewYork) ''I no 2 (Feb 
+I992),p 95 
+
+1993 
+
+Statement in Milton Esterow "The Second 
+Inm \round Jew York) "2 
+
+n0 i, (summer 1993), p 152 
+
+Statement in Margot Mifflin. "What Do Artists 
+Dream?' \nnews (NewYork) 92 no B I ' 
+
+[99 i p l 19 
+
+1994 
+
+Statement in Eugenia Bom Welcome to 
+
+Sponge ( icy." flu VeivYork Ol ei May 9, 
+
+1994, p is 
+
+
+
+1995 
+
+si itement in 'Returned to ' 
+
+Remembering Ray Johnson R S.V.P." irtfontm 
+
+(NewYork) 13, no B ^pi 1995).pp 75,113 
+
+1996 
+
+Statemenl in fames Rosenquist, 4 ' s ' '"' " 
+
+I and V" Pai nstructiom from Gemini 
+
+C.E.I p. 1.1 -li cat Leo&lt; istelli I Gallery, 
+
+New V- 1 1. 
+
+Statemenl in Etisei Practici Retenl Paintings by 
+/.,„„ Rosenquist, p. 1 Exh.cal Feigi n I 
+Reprinted in ]anu Rosenquist VewWbrl 
+
+h cat .Wetterling reo Gallery, Singapon 
+
+Interviews 
+
+Sources cited below may also appeal in othei parts oj 
+
+th, Select Bibliography oi in tlu I xhibition History 
+
+1964 
+
+Swenson. G[ene] R "What is PopAri Part II 
+Stephen Durkei [aspei [ohns |a i 1 '^ 
+
+romWesselmann." I" Vet " " l ' l2 
+
+,„, |0 (Feb 1964), pp 41.62 64 
+
+1965 
+
+Swen .Glene] R rh( I 111 \n Interview 
+
+with |ames Rosenquisi by G P Swen 
+
+p art i ian Review (New Vbrk) J2 no. 4 (fall 19 
+pp 589 .,n| 
+
+1968 
+
+Swenson, Gem Social Realism in Blue 
+
+A,, Interview with |ame R iquist." Studio 
+
+Internal al London I 
+
+pp 76 83 
+
+1971 
+
+Schjeldahl Petei I ntretii n avei [ames 
+
+Rosenquist" I 'An Interview with James 
+
+quist") Opus International I 
+nos 29 30 (De&lt; 1971 pp 16 *9 (French), 
+Ml 15 (English) Irans Nicola Raw 
+
+1972 
+
+Siege] |c inne Vn Interview with James 
+
+quisi Irlfomm (NewYork) I0.no 10 
+(June 1972) p| &gt; 
+
+1974 
+
+ruchman.PhyUii "Pop! Interviews wit! 
+
+Vndy Warhol Roy Lichtenstein. James 
+nquist. and Robert Indiana I 
+(NewYork) May I974).pp ! 
+
+
+
+1982 
+
+Snodgrass, Susan d« Mba "An Intervii m with 
+
+th, \i ,n w ho Painti d I lying Bacon 
+lh. Miami \&lt;« |unt I I I982.se&lt; B pp I 
+
+1983 
+
+( ummings Paul Inti rview |ames Rosi nquisl 
+l jia with Paul ( ummings Drawing (New 
+Y 0r y 5,no 2 |uly r\ug 1983) pp 10 14 
+
+1987 
+
+s, in j I, ,.. iki Mary \ntu |am&lt; i Ros&lt; nquisi 
+
+Bomb (New York 21 (fall 1987 pp !4 "' 
+
+1990 
+
+[ames Rosenquisi Inti • 
+
+i„, &lt; i I '"'"' 
+
+Rosenquist'i ' ommissioned Works pp 8 58 
+
+Stockholm Paintei Po tci ii i • ion with 
+
+rling Gall ry 1990 
+
+1991 
+
+Durand,Rcgis I |U»« 
+
+i | ,. ini arnation di imagi l '' |,|r,sl 
+no 158 (May I991).pp 14 21 
+
+Shapiro David ' elebrating I verything." In 
+'ami Rosenquisi pp 76 84 (Spanish), 209 I ' 
+(] nglish) I «h cai IVAM I entn |uUo 
+
+il , Valencia I r lUl "" l 
+
+Harry Smith 
+
+faylor, Paul Interview with James Rosenquisi 
+Parketi (Zurich), no 28(1991 pp 11" 
+
+, lvhl [22 25 German Irans Brigii 
+\\, tutein 
+
+1992 
+
+Bonami.Frati a &lt;P ui Ml1 " "" 
+
+Pop Flash In (M I 25 no 165 lummei 
+
+Goldman (udith \n Interview with |am« 
+
+nqi Goldman lames Rosenquist 
+
+.,/)■ Pimm 1961 I964.pt 85 104 I &lt;h 
+
+an Gallery ind Rizzoli 
+
+1992 
+
+1993 
+
+Whitney David "James Rosenquisi Ini 
+
+ofFebruary '.5 1993 Inj R /'«'" "" 
+
+,,, fonhi Doll after ( laud, D 
+Wrapped Dolls and W ''« W«'/Mr] 
+
+Industrials omple* Looking Down on tlu Insect 
+
+
+
+51 
+
+
+
+il,.-/,/ pp 2-3 Exh cat . Leo ( ascelli Gallery, 
+
+New York 
+
+1994 
+
+VK ocl Interview with James 
+
+Rosenquist." In Susan Brundag 
+
+in ../ //„ Big Paintings Thirty Yeai 
+unpaginated New York Leo ( astelli 
+Gallerj in association with Rizzoli, 1994 
+
+1997 
+
+Yanase Kaoru and Shunichi rCamiyanu 
+;, « with James Rosenquist ' In 
+Ih, Graphics oj 'Jama Rosenquisl pp 16-20 
+I |apanesc I, 44 49 (English) Exh i at . Centei 
+i,, i ( ontemporai j I !raphi&lt; An and rylei 
+Graphics \rchive ( ollection, Fukushima 
+
+Articles and Essays 
+
+n'on includi fi ■:■ appearing in periodicals, 
+ollaiiom oj essayi and growp-i ehibition catalogui 
+
+Mloway, 1 awrenct I »erealized Epic." Arifonm 
+(New York) 10, no 1" (Junt 1972) pp 35-41 
+
+Amaya, Mario "Artist's I i ation 
+
+with | iquist." Architectural Digest I os 
+
+Angeles) J7,no 2 (Mai 19 50 52 
+
+Arbus, Doon.'The Man in the Paper Sun" 
+I Journal Tribum Magazim 
+I \,n 6 I966,pp 
+
+"Art: Pop Bing-Bang L indsi apes Tiim 
+(NewYork) B5.no 22 (Maj 2s I965).p 80 
+
+"Art: R.osenquis( and Lit In. nsti in hit Alive." 
+Inn, (New York) 91, no 4 (Jan 26, 1968), ; 
+
+B|atu&lt;uk| ,Gr[egory] 'In the Museums 
+[ames Rosenqui l Mew York* 
+
+,o 6 ' ^pr 1968) p ^ 4 
+
+Bcrti. Paul ' \bout-l &gt;&lt; 1 &amp;om ii.c \bstra&lt; I 
+Picttin Post-Dispatch magai ii 
+
+1961 pr 10-11 
+
+Berg, Paul 'Fai Out. but No Laughing Mattel 
+PUtun • S I dispatch mag i 
+
+1964, pp 2-5 
+
+Bernstein, Roberta. "Rosenquisl Reflected The 
+I.imp.i Prints ' "" Prini &lt; u ''■"" 
+
+(New Yorl A .t \pi 197 1), pp 6-8 
+
+
+
+Boorsch Suzanne 'New Editions: James 
+Rosenquisl irtnem (New York) 74, no 
+( scpt 1975), p. 52 
+
+k h Suzanne 'New I ditiom James 
+Rosenquist." /Irfrifiw (NewYork) 77 no 1 (Jan, 
+p 136 
+
+Brewster, Ibdd 'Evolution ol a Painting / ifi 
+
+igo) 4,no.2 deb 1981), pp *4-'&gt;4 
+Photographs bj Roberl \delman 
+
+Brooks \ ilerie I 'The -\rt M.irket Rosenquist's 
+Market: Pop Art Performs Irfnn NewYork) 
+83 no J (Mai 1984), p 2" 
+
+Nicolas and Elena &lt; alas "James 
+Rosenquisl Vision in the Vernacular." In 
+Magazim (New York) 44,no 2 (No\ I 
+PP 38-39 Reprinted as "James Rosenquist's 
+Angular \ ista In ( al is ind ( alas r«mj .""/ 
+■i ii„ Sixties NewYork E I' Dutton, 
+1971, pp 117-22 
+
+&lt;. anaday, |ohn Art Well the House t aughl 
+fire, and- -" TTti NewYork Finn ■ Mai 17, 1968 
+
+sec I ), p. 33 
+
+i anaday.John "It Would It.' kwfullj Nice If We 
+Were All Wrong about theWholi Nihil;" 
+nil SewYork Urnes, Feb 25, 1968. se&lt; 2, p. 23. 
+
+( harbonneaux, ( atherine. "Marche Le Pop 
+I',,, i unes Rosenquisl ( '.onnaissana fi 
+
+t osford, Mill "Is It Art"- Asking Is Unnecessary.' 
+nit Miami Herald, Ma) 15, 1983, ie&lt; I . pp 1.5. 
+
+c oupland, I &gt;ouglas "James Rosenquisl /-///" 
+mm (NewYork) 32,no 8 (Apt 19 
+
+pp X4 XS 
+
+&lt;. [owart] ,J[ack] ' I lire., t ontemporary 
+American Paintings ih&lt; Si Louis Art Museum 
+Bulletin ll no, 5 (Sept I &gt;cl 1975), pp 88-95 
+
+I lunlop Beth "Mui il I h ives Borman up the 
+Wall:' Hii Miami Herald D« B 1981, sec. A. 
+
+pp I 14 
+
+i , , sioi ralabot, Gerald l es ambiguftes de 
+fames Rosenquisl X Ki SiMt (Pai is), no 41 
+
+pp in-, M 
+
+
+
+Geldzahlei Henrj "James Rosenquist's F-lll 
+I In Metropolitan Museum oj in Bulletin 
+(NewYork) 26.no 7 (Mai I968),pp 276 81 
+
+Gladstone Valerie 'James Rosenquisl Vikings 
+indVodka irtnews (New York) 90 no * 
+Ocl i "''I pp 73-74 
+
+I Grat e "Art People.' Tin NeivYork 
+rimes. Apt 16. 1982. sec ( ,p 25 
+
+Goldman, Judith. "James Rosenquist." In 
+Contemporary Masters Tin World Print Awards, 
+
+pp |o- 52 i •. h cai World Prim &lt; oum il, in 
+cooperation with the San Francisco Museum ol 
+Modem Art. i alifornia ( ollege of Arts and 
+( Mtts (Oakland), and Osaka University of Arts 
+San Francisco World Prim t ouncil, 1983 
+
+man, &lt; athj Lynn "Deserving 1 qual 
+Space." nil Miami Herald De&lt; 10, 1981, 
+
+sec B, p I 
+
+I lamilton, Susan Big is Beautiful I In Peak 
+(Singapore) ll.no 1 18 53 
+
+H|ess| . r|hom.is| Ii "Editorial It Shouldn't 
+Happen to . Hoving Happening." \rtnews 
+(NewYork) 67 no 2 (Api 1968). p 29 
+
+I lorn, I aurie 'Playing &lt; mi. at the An ( enter" 
+//„ Miami Hew/rf.Apr 2&lt;&gt;, 1983, ecJ p.6 
+
+It's Imiinv Rosenquist — An Artist in the 
+
+Pop." /'.'• Tower (NewYork) I . no 14 
+(Apr 10 21 1967) pp 4-5 Photographs by 
+Bob Adelman 
+
+' |arring Blend of Billboard Pie ces.' 1 i/&lt; 
+
+a h„ ago) 52, no 24 (June 15, 1962 ,p I 16 
+
+[ohnson Philip "Young Artists at the F.ur and .it 
+Lincoln &lt;• enter" 1./ in Imerica (New York) 52, 
+no, 4 (Aug 1964), pp 112-21 
+
+[ohnson, Raj Abandoned &lt; nickens." Art in 
+Imerica (New York) 62, no t. (No&gt; -Dec 1974), 
+
+PP M7-I12 
+
+Kohen, Helen I '"Star Thief Deserves Better 
+
+Reputation." //" Miami HcraW.Maj 13, 1983, 
+
+p 12 
+
+Q Ma* An' "" Nation (NewYork) 
+206 no IS (Apr 2'&gt;. I968).p 57 
+
+
+
+Kramer. Hilton "Art A New 1 langar for 
+Rosenquist's Jet-Pop 'F-lir." /'" NewYork 
+Inn,-. Kb 17, 1968, p 25 
+
+Kuspit, Donald 'James Rosenquisl -The 
+Fragments of a Romance rhe Romance of the 
+Fragment." C Magazim (Toronto) no 11 (June 
+1986), pp 70-73 
+
+I eiser. Erwin."James Rosenquist." Frankfurtei 
+4 llgemeine Magazin (Frankfurt) J4, no 338 
+(Aug ::. 1986). pp. 13-18 
+
+Lingemann, Susanne "Mystikei mil Hang air 
+Crosse". -1" Das Kunstmagazin (Hamburg), 
+
+no | (Mai 1993), pi' 7x- l M 
+
+1 ippard, Lucy R "James Rosenquist Aspects ol 
+.i Multiple Art [rtforum tl os Angeles) 4. no 4 
+(Dec 1965), pp 41-45 
+
+Litt. Steven "Icon of the Sixties." The Plain 
+Dealei (&lt; leveland, Ohio). Ocl 26, 1991, sec K 
+pp. 1-2 
+
+I oft, Kurt Film on James Rosenquist 
+
+Paints Artist into a I orner." I h&lt; Tampa Tribune, 
+
+Mi) 22. 1987, set F,p 3 
+
+I ,,n Knrt "James Rosenquist." /'"■ /,»"/&gt;.' 
+Tribune, Ma) 20, 1984, sei G.pp 1- 2 
+
+I oring, |ohn James Rosenquist's Horse 
+Blinders." Irts Magazim (NewYork) 4~.no 4 
+I 1 l')73).pp '.4 &lt;o 
+
+I ucofl Morton and Donald I' Mvers "Flying 
+Bacon Thi Miami News I &gt;e&lt; B, 1981, sec A. 
+pp. 5-6 
+
+Marker. M..r\ Ann Inside the World "I a I'op 
+Artist " M Petersburg Times, Maj 12 1987, D 
+PP 1.4 
+
+Martin, Judy Wells "'Days ol Miracles Haven't 
+Ended for Murals Wizard.' "« FloridaTimes- 
+
+l nion (J.uksonv. lie). June 14, l'&lt;7S, see A, p. 10. 
+
+McGill, Douglas t "&lt; me ol Pop Art's Pioneers 
+Is Making Waves Again." r7i&lt; New York Times, 
+
+June 22 I ''St. set 2 pp I. 2'&lt; 
+
+Mi « nil, I »ouglas i "Pop Artist Rearranges 
+Modern Lite Sarasota Herald-Tribune, June 29, 
+1986, sei G.pp 1,4. 
+
+
+
+52 
+
+
+
+Mi &lt; .ill I touglas ( "Pop Goes the Brush" 
+St Petersburg Timt f, |ul) 6, 1986, se&lt; I pp I I 
+McGuigan,( athleen "Newsmakers." Newsweek 
+(Los Angeles) 99, ao, 4 (Jan 25, 1982), p 61 
+
+M[essinger] 1 [isa] M "Twentieth &lt; entur) 
+James Rosenquist " In "Recent Acquisiti.nr. 
+\ Selection 1993-1994," special issue ol Tht 
+Metropolitan Museum oj \&gt;t Bulletin (New York) 
+52,no 2 (fall I994),p 73 
+
+M[essinger]., L[isa] M "Twentieth &lt; entur) 
+fames Rosenquist " In "Recent Acquisitions 
+A Selection 1995 1996 "special issue ol Tin 
+Metropolitan Museum oj in Bulletin (New York) 
+S4.no 2 (fall I996).p 64 
+
+Miro, Marsha Stai I Kiel Invades 1 »IA Detroit 
+
+i „, /•„... Feb I". 1987, se&lt; I &gt;. p 8 Photographs 
+by Mann\ Crisostomo 
+
+Nelson. Garet "Artist Honored lor I'op 
+Prowess." Si Petersburg rimes, Hernando 
+rimes ed . Ma) 7, I987,pp. 1,7 
+
+Osborne, &lt; atherinc "A brush with Greatness." 
+Profiles, in, (New York) I. no I (Mar 1988), 
+pp 14-35 72 
+
+Per reault, John "An [bo Much of the Same." 
+The I Wage Void (New York) 13, no 19 (Feb. 22, 
+1968). p 18 
+
+Pincus-Witten, Robert Rosenquist and 
+Samaras The Obsessive Image and Post- 
+MinimaUsm." irtforum (New York) ll.no. I 
+(Sept 1972), pp '&lt; 7 ' 69 
+
+Porter. Hob "Rosenquisl Has Local he" 
+Dallas nimei Herald, [an 6 I966,sec A.p 14 
+
+"Prints and Portfolios Published [ames 
+Rosenquisl Night Transitions." Thi Print 
+Collector's Newsletter (New York) l6,no 5 
+(Nov.-Dec. 1985), p, 17'' 
+
+Prints and Portfolios Published James 
+Rosenquist, Off the Continental Divid* 
+
+I'h, Print Collector's Newslettei (New York) 5, 
+„o 1 (Jul) \ug 1974), p 66 
+
+"Prints and Portfolios Published James 
+
+Rosenquisl I ime Moor I ime D'Oi 
+
+//„• Pn'fii ( ollector's Newslettei (New York) 21, 
+
+no. I (M.ir-Apr 1990), p 26 
+
+
+
+Reit". Kit.i "James Rosenquisl Painting 
+Auctioned tor Record Price." The NewYork 
+rimej,No\ 13, 1986 p 21 
+
+"Rosenquisl Hearst Mural." I" World (New 
+York) 12, no I (Ocl No&gt; is, I987),p. 1. 
+
+Sandberg, Bets) I ife James Rosenquist." 
+rhi Daily Freeman (Kingston, NY), Dei 
+1986. p. 7 
+
+Scull Robert ( "R« the F-lll r\ ( oil 
+
+Notes" The Metropolitan Museum oj I" Bulletin 
+(NewYorki 26,no 7 (Mar I968),pp 282-83 
+
+Shepard, Richard I loWhat Lengths Can Art 
+i „, //„ NewYork Times, May 13, 1965, p. I 
+
+Slesin, Suzanne New York Artists in Residence: 
+James Rosenquist." Artnews (Nev. York) 77. 
+no. 9 (Nov 1978), p. 70. 
+
+Sparks, Esther "James Rosenquist." In Sparks 
+/ un;".il limited Art Editions 1 History and 
+Catalogue The First Twenty-five Years, pp 256 69 
+Exh cal ( hicagO The Art Institute ofChii 
+NewYork: Harry N Abra.ns. 1989 
+
+Stallings, Dianne " The Good News:Aripcka 
+Artist's Mural Lures S2 09 Million" Si Petersburg 
+Times, Hernando Times ed., No\ 14 1986, 
+pp. 1,10 
+
+Sterckx, Pierre 'La peau du collage selon Ibm 
+wesselman [sic] et James Rosenquisl ' Irtstudio 
+(Paris).no 23 (winter 1991), pp *4 95 
+
+Stevenson, Wade. "Rosenquist, le peintre de 
+I'imaginaire-reel." KXt Siich (Paris) no J' 
+(June 1975), pp 155 61 Inns Georgette 
+Minazzoli. 
+
+Story, Richard David "James Rosenquisl " USA 
+Today | Arlington. Va.). Nov 13, 1986, se&lt; D, p 5 
+
+Swenson.Gem "The Figure a Man Makes' 
+Parts I 2 in and Irtists (NewYork) 3. no I 
+
+1968), pp 26- 29; no 2 (Ma) I9i 
+pp 42 4S Reprinted is "James Rosenquisl 
+The Figure a Mm Makes" in "Gene Swenson 
+Retrospective for a Critic Ocl 24-1 1 
+1971 "special issu* ol 17i« Register of the Museum 
+oj \n (Lawrence; a publication ol the University 
+of Kansas) 4 nos ',-7 (1971), pp 53-81 
+
+
+
+Tallman, Susan "Big." irts Magazine (Nev. Y 
+65, no 7 (Mar 1991), pp 17-18 
+
+I illiui. Sidne) "Rosenquisl at the Met -\ 
+Garde or Red Guard: Irtfomm (Nev. York) '&gt;. 
+no 8 (Apr 1968), pp 46 49 
+
+Trini.Tommaso "L la via Rosenquist." Domus 
+(Milan), no JS-s (&lt; » C | 1967) pp 46 4'' 
+
+In Italian uid I nglish 
+
+Tully.Judd "Rosenquist Work Brings 
+Million ' The Washington Post, No\ 13,1986, 
+p 13 
+
+Ivkr. Ken "The Piper Dance.' In Masiet Prints 
+by Hockm y, Johns, Rosenquist, and Stella from the 
+Ulja Collection, pp 1 14-47. Exh cal Vaduz 
+1 iechtenstein I he Lilja Art I und I oundation in 
+association with the Henie-Onsl id Arl &lt; enter. 
+Hovikodden, Norway, and Azimuth Editions 
+1 ondon, 1995 
+
+van der Marck.Jan ' Of&lt; ours, it- Art, and the 
+Bacon Reall) Flies." Thi Miami News Feb is 
+1982, set r\ p 9 
+
+"The 'V.is.in' I )i..r\ 'Like Sending a Rockei into 
+spue" Irtnews (Nev. York) 78,no 5 (Ma) 5 
+I979),pp 12-13 
+
+Wallach.Amei "Making a Mural Emerge fo 
+Printing Press." Newsday (NewYork) Ma) 19, 
+1974, pan 2,pp 19 20 
+
+Wolf. Erie.. "James Rosenquisl In Sam 
+Hunter Selections from tin Ueana and Michael 
+Sonnabend &lt; ollttlion Wbrh from the 1950s and 
+1960s pp 85-87 Exh cat.,TheArl Museum 
+Princeton University, 1985 
+
+Ynclan, Nery "'Star 1 hiefTakes Ofl to I inal 
+Day Acclaim." Uf Miami Herald June 6, 1983, 
+set B,p J 
+
+Books 
+
+This tection includes books, chapter: oj books, sections 
+qj dissertations, and brochures unrelated to ■ xhibitions, 
+as well as telecl book reviews s ""'" «ted below may 
+also appeal in the I thibition History 
+
+•\dlei Edward |crome "James Rosenquisl 
+Chaptei in "American Punting and the 
+Vietnam War, pp '" I 92 Ph D diss . 
+New York University, 1985 
+
+
+
+Amaya, Mario. "James Rosenquisl In Vmaya 
+
+and iftei Ness York Viking P 
+1966, pp ''i 96 
+
+Brundagi Susan i d James Rosenquist, Hi 
+Paintings Thirty Years, Leo Castelli NewYork 
+i ... i ,..i, Hi Galler) in assoi iation with Rizzoli, 
+199 i Published limultani ously with the 
+exhibition James Rosenquist i7i&lt; Thirtieth 
+[nniversary I xhibil • Hi &lt; rallery, 
+
+New V 
+
+—"What It Is" Irtnews (New Yorl 94 
+
+no ! (Feb 19 
+
+t Henn ( onstam i W Timi I Hut, Jam* i 
+Rosenquist &lt; omplett Graphics 1962 1992 New 
+York Rizzoli, in association with tin I Iniversit) 
+Art Museum, ( .ihiornia State Univei lit) I ong 
+Beach, 1993 Published in i onjuni don with the 
+exhibition organized b) the Univenit) Art 
+Museum ( ilifornia State University I ong 
+Bi a&lt; h. and originating at the Walker Art (. enter. 
+
+Minneapolis 
+
+Goldman, Judith James Rosenquist NewYork 
+Viking Penguin, 1985 Published simultaneous!) 
+with the exhibition Janus Rosenquist Paintings 
+1961 1985 organized b) the I lenvi i \ri 
+Museum 
+
+— Heaiiin s. I leanoi Hooks Mixing I u i 
+( lirls and Pipe romatoes Irtnews (Ni h 
+York) HS.no J (Mai 1986), pp 44 -^ 
+
+Sandback.Am) Bakei ' Hooks | 
+
+Rosenquisl Irtforum (Ni w York) 'A no I 
+D, 198 i pp i &gt; 16 
+
+Jam&lt; Rosenquisl Welcomt to tin Watei Planet and 
+House o) Fire, 1988 1989 Essa) b) fudith 
+Goldman Mouni Kisco n V [yiei Graphics 
+
+1989 Published on the o&lt; i asi &gt;l i I uropi 
+
+exhibition Welcomt to tin Watei Planet 
+originating ai Heland W tterling I laller) 
+Stockholm, and organized b) Met Graphics, 
+and a traveling Ami rii an exhibition /. 
+
+..„,., Wtlconu to On Watei Planet 
+originating al and organized b) ["he Museum ol 
+
+Modern Art, New I 
+
+[if /it! I ommi lioned H d 
+Stockholm Painters Posters in usociation with 
+Wetterling Gallery, 1990 
+
+I arson, Philip James Rosenquist Tim I 
+Mourn Kisco N \ tylei Graphics, 1992 
+
+
+
+53 
+
+
+
+Acknowledgments 
+
+
+
+Oceans and continents have been crossed in order to realize a major mural 
+by James Rosenquist within the new exhibition spaces of the Deutsche 
+Guggenheim Berlin. The idea of commissioning Rosenquist to create this 
+monumental work— an important act of international patronage— was that 
+of the Guggenheim's Director, Thomas Krens. After the project was 
+launched, he, Lisa Dennison, Deputy Director and Chief Curator, and I made 
+several trips from New York to the artist's home and studio in Aripeka, 
+Florida, in order to survey the work in progress and to discuss with the 
+artist the various and changing directions that the work might take en route 
+to its final destination in Berlin. Meanwhile, one of the three paintings that 
+comprise The Swimmer in the Econo-mist made its debut at the opening of 
+the Guggenheim Museum Bilbao in October 1997, offering a sneak preview 
+of its final and complete display in Berlin in March 1998. 
+
+I must extend my greatest thanks to James Rosenquist himself. 
+Throughout this evolutionary period, he was admirably flexible, responding 
+to questions and suggestions about which way to turn next. The immense 
+problem of completing a wrap-around mural revived, in both sheer dimen- 
+sions and lofty ambition, many of the frescoed walls of the Italian 
+Renaissance. In effect, he has created, more than three decades later, an 
+update of his epic masterpiece, F-lll (1964-65). 
+
+Supporting this complex enterprise was a curatorial staff that was 
+not only well informed about the artist's work, but that was wonderfully 
+efficient and reliable. I refer to Julia Blaut, Assistant Curator, who coordi- 
+nated all aspects of this exhibition and catalogue, and to Janice Yang, 
+Project Research and Exhibition Assistant, who in addition to her many 
+other responsibilities, compiled the exhibition history, bibliography, and 
+
+text photographs. 
+
+Many other individuals at the Guggenheim contributed their expertise 
+to ensure the successful realization of this exhibition. I thank all of them 
+for their indispensable assistance and dedication. I am extremely grateful 
+to Karen Meyerhoff, Director of Exhibition and Collection Management and 
+Design, who has been invaluable in planning the installation, and to Jocelyn 
+
+
+
+Groom, Exhibition Design Coordinator, who has worked with her. Thanks 
+are also due to Suzanne Quigley, Head Registrar, Collections and Exhibitions, 
+who has expertly coordinated the shipping and insurance of the works, and 
+to Paul Schwartzbaum, Chief Conservator, Guggenheim Museums, and Julie 
+Barten, Assistant Conservator, who have supervised the preservation of the 
+paintings and drawings. David Heald, Chief Photographer and Director of 
+Photographic Services, provided counsel on photographic issues, ensuring 
+that Rosenquist's murals be reproduced with the utmost accuracy, and 
+Ellen Labenski, Assistant Photographer, photographed the drawings and 
+working plans. The installation team, consisting of Steve Plaxco, Installation 
+Specialist, Claus Maier, Jan Pippardt, Uwe Rommel, and Kai Volkmann, was 
+outstanding. I am also thankful for the contributions made by Marilyn JS 
+Goodman, Director of Education; Judith Cox, General Counsel and Deputy 
+Director; Gail Scovell, Associate General Counsel; Julie Lowitz, Assistant 
+General Counsel; Scott Gutterman, Director of Public Affairs; Julia 
+Caldwell, Public Affairs Coordinator; Jocelyn Brayshaw, Chief Preparator; 
+Liz Jaff, Assistant Preparator/ Paper; Laura Latman, Collection Registrar; 
+Ultan Guilfoyle, Director of Film and Video Production; and Allison Lane, 
+Producer. 
+
+Thanks also go to curatorial interns Joanna Berman, Joanna Clark, 
+Lai Orenduff, Sonya Sinha, and Daphne Walker, who enthusiastically pro- 
+vided assistance on numerous aspects of this project. 
+
+I would like to express my gratitude to Paul Pincus, Project Director, 
+Development and Communications; Max Hollein, Executive Assistant to the 
+Director; Ben Hartley, Director of Communications; and Kira von Eichel, 
+Project Assistant, for their tireless efforts and deft coordination of prepara- 
+tions between cities separated by land and sea. 
+
+Our colleagues in Germany have been crucial in bringing this exhibi- 
+tion to fruition. I wish to extend my thanks especially to Dr. Ariane 
+Grigoteit, Friedhelm Hutte, and Britta Farber of Deutsche Bank, and to 
+Svenja Simon, Gallery Manager, Deutsche Guggenheim Berlin. This exhi- 
+bition would not have been realized without their hard work and support. 
+
+
+
+54 
+
+
+
+The catalogue could not have been published without the adept super- 
+vision of Anthony Calnek, Director of Publications, and the efficiency of the 
+Publications Department. I am grateful to Elizabeth Levy, Managing Editor/ 
+Manager of Foreign Editions, and Melissa Secondino, Production Assistant, 
+for expertly overseeing the catalogue production. My appreciation also 
+goes to Jennifer Knox White, Associate Editor, and Domenick Ammirati, 
+Editorial Assistant, for their careful editing of the text. 
+
+Special thanks must go to Margot Perman and Catherine Woodman 
+of Real Design for designing this elegant publication. We are also grateful 
+to contributing author Judith Goldman, preeminent Rosenquist scholar, who 
+contributed an important essay. 
+
+In organizing this exhibition and compiling the catalogue, many 
+people generously supported our research efforts. I would like to acknowl- 
+edge in particular Richard L. Feigen, Frances Beatty, and Lance R.D. 
+Thompson of Richard L. Feigen &amp; Co. and Thaddaeus Ropac of Galerie 
+Thaddaeus Ropac for sharing their expertise. I also thank Joanna Stasuk 
+and Amy Poll at Leo Castelli Gallery for their assistance in compiling pho- 
+tographic materials. 
+
+The staff at the artist's studio provided valuable assistance every 
+step of the way. Beverly Coe, Administrative Assistant, and Cindy Hemstreet, 
+Administrative and Curatorial Assistant, were unflappable and always 
+gracious and precise in responding to our myriad requests. Michael 
+Harrigan, Curator and Archival Specialist, provided important materials 
+for establishing an accurate account of the artist's career. Thanks must also 
+go to Tony Caparello, Color Mixer, Painter, Studio Assistant; Kevin Hemstreet, 
+Carpentry, Installer; Darren Merrill, Carpentry, Installer; Vadim Syrovoy, 
+Studio Assistant; and John Spinks, Studio Manager. 
+
+Robot Rosenblum 
+
+Curator of Twentieth-Century Art 
+
+
+
+55 
+
+
+
+The Solomon R.Guggenheim Foundation 
+
+
+
+Honorary Trustees in Perpetuity 
+Solomon R. Guggenheim 
+Justin K.Thannhauser 
+Peggy Guggenheim 
+
+Chairman 
+
+Peter Lawson-Johnston 
+
+President 
+
+Ronald O. Perelman 
+
+Vice-Presidents 
+Robert M ( Gardiner 
+Wendy L-J. McNeil 
+
+Vice-President and Treasurer 
+Stephen C. Swid 
+
+Director 
+Thomas Krens 
+
+Secretary 
+Edward 1 Rover 
+
+Honorary Trustee 
+(. I.nuie Pompidou 
+
+Trustee Ex Officio 
+Luigi Mom hen 
+
+Director Emeritus 
+Thomas M Messer 
+
+
+
+Trustees 
+
+Giovanni Agnelli 
+Jon Imanol Azua 
+Peter M. Brant 
+
+The Right Honorable Earl Castle Stewart 
+Mary Sharp Cronson 
+Elizabeth L Dingman 
+Gail May Engelberg 
+Daniel Filipacchi 
+Robert M. Gardiner 
+Barbara Jonas 
+
+1 &gt;avid H Koch 
+Thomas Krens 
+Peter Lawson-Johnston 
+Samuel J. LeFrak 
+Rolf-Dieter Leister 
+
+Peter B. Lewis 
+Peter Littmann 
+Wendy L-J. McNeil 
+
+Edward H. Meyer 
+
+Ronald ( &gt; Perelman 
+
+Frederick W Reid 
+
+Richard A. BJfkind 
+
+Denise Saul 
+
+Rudolph B. Schulhof 
+
+Terry Semel 
+
+|. mies B. Sherwood 
+
+Raja W Sidawi 
+
+Seymour Slive 
+
+Stephen C. Swid 
+
+John S. Wadsworth.Jr. 
+Cornel West 
+Michael F.Wettach 
+
+John Wilmerding 
+William T.Ylvisaker 
+
+
+
+
+
+
+-jjA 
+
+
+
+
+fc 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0045   0.0045      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0064   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0082   0.0018     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0121   0.0039   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0123   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0886   0.0763              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=88;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

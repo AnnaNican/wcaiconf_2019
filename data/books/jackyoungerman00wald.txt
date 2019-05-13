@@ -1,0 +1,4599 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jack Youngerman"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jackyoungerman00wald">Jack Youngerman</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jackyoungerman00wald">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+\S 
+
+
+
+JACK YOUNGERMAN 
+
+
+
+
+
+
+^^^^H 1 -HHB 
+
+,f ', ■ . "*V ,1k ■ .Mi ..\A \ .' J , I \i Y*j", 1 
+
+
+
+
+
+
+' tr.vU 1 
+
+
+
+£*&amp;•£ 
+
+
+
+&gt;\"\&gt;- 
+
+
+
+
+
+
+
+
+
+I i.':v '■ r ■ t ..'Kiaf/.' 
+
+
+
+
+IB— 
+
+
+
+
+
+
+i»J. A' 
+
+
+
+tiro 
+
+
+
+KtrfX 
+raw; 
+
+Hi 
+
+
+
+
+
+
+UKi'j) 
+
+
+
+HMotth 
+
+
+
+■ ■;v. ; . ■■■■;■■■' ■'■■ 
+
+'■''■■: ! '. :'■■■'■ :■■■' 
+
+I 
+
+■■■'■'■■.:■■'■■'■■'■,'.■'■■"■■.' 
+
+IHSiiliPi! 
+
+■r-- ■'"■.■■■'■'..■:■■.'■'■■ ■ 
+
+
+
+mm 
+BR 
+
+•■.'••■. 
+
+
+
+
+
+
+■ ■.&lt;''■■ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+JACK YOUNGERMAN 
+
+
+
+
+New York, 1982 
+
+
+
+JACRYOUNGERMAN 
+
+
+
+by Diane Waldman 
+
+
+
+This exhibition is supported by a grant 
+from the New York State Council on the Arts. 
+
+
+
+Solomon R. Guggenheim Museum, New York 
+
+
+
+Library of Congress Cataloging-in-Publication Data 
+
+Waldman, Diane. 
+
+Jack Youngerman. 
+
+Catalog of the exhibition held at the Solomon R. 
+Guggenheim Museum. 
+
+Bibliography: p. 100 
+
+1 . Youngerman, Jack, 1926- - Exhibitions. 
+
+I. Youngerman, Jack 1926- . II. Solomon R. 
+Guggenheim Museum. III. Title. 
+N6537.Y68A4 1986 709'.2'4 85-30397 
+ISBN 0-89207-055-2 
+
+
+
+Published by The Solomon R. Guggenheim 
+Foundation, New York, 1986 
+
+© The Solomon R. Guggenheim Foundation, 
+New York, 1986 
+
+
+
+Cover: Swirl II. 1981 (cat. no. 33) 
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+Coenties Slip studio, 1959 
+
+
+
+
+
+■n 
+
+
+
+
+
+First Fulton Street studio, ca. 1965 
+
+
+
+
+
+
+Chase Manhattan Bank, N.A. 
+Dolores and Merrill Gordon, Florida 
+Walter and Dawn Clark Netsch 
+Frank Stella, New York 
+Jack Youngerman 
+
+Albright-Knox Art Gallery, Buffalo 
+
+The Art Institute of Chicago 
+
+Cooper-Hewitt Museum, New York, the Smithsonian 
+Institution's National Museum of Design 
+
+The Corcoran Gallery of Art, Washington, D.C. 
+
+Louisiana Museum of Modern Art, Humlebaek, Denmark 
+
+Museum of Art, Carnegie Institute, Pittsburgh 
+
+The Museum of Modern Art, New York 
+
+Whitney Museum of American Art, New York 
+
+Worcester Art Museum, Massachusetts 
+
+Washburn Gallery, Inc., New York 
+
+
+
+LENDERS TO THE EXHIBITION 
+
+
+
+My sincere thanks are extended to the New York State Council on the 
+Arts for its generous support of this exhibition. I also wish to ac- 
+knowledge the support of the lenders, who, in graciously parting with 
+their works, have significantly contributed to the project's success. 
+
+My appreciation is expressed to Joan Washburn, Washburn 
+Gallery, Inc., New York. Gratitude is due as well to the following indi- 
+viduals whose contributions to our research efforts were invaluable: 
+William P. Rayner, President, and Marilyn Cohen, Curator, Betty Par- 
+sons Foundation; Arnold Glimcher and Susan Ryan, The Pace Gallery, 
+New York; Judy Throm, Associate Curator, Archives of American Art, 
+Washington, D.C.; Jock Truman; and Jack Tilton. On behalf of Jack 
+Youngerman, special acknowledgement is made to Christopher 
+Janney for his technical assistance with the sculpture. 
+
+The efforts of the Guggenheim Museum staff are greatly valued, 
+and I would like to single out those who have been most centrally 
+involved with the exhibition and catalogue. My thanks are extended 
+therefore to Lisa Dennison, Assistant Curator, who has skillfully coor- 
+dinated all aspects of the show; Carol Fuerstein, Editor, for intelli- 
+gently editing the catalogue; Diana Murphy, Editorial Coordinator; 
+David M. Heald, Photographer; Stephanie Stitt, Assistant Registrar; 
+Lisa Yokana, Curatorial Assistant; and Sophie R. Hager, Curatorial 
+Fellow. 
+
+Finally, my most sincere appreciation is expressed to Jack 
+Youngerman: working with the artist has been an enlightening and 
+rewarding experience. 
+
+D.W 
+
+
+
+ACKNOWLEDGEMENTS 
+
+
+
+
+First Fulton Street studio, New York, ca. 1965 
+
+
+
+
+10 
+
+
+
+New York, 1985 
+
+
+
+When Jack Youngerman returned to the United States in 1956, he 
+faced an art world very different from the one he knew as a young 
+painter in Paris. There, the most compelling postwar art was, as he 
+observed, a "soft kind of abstract impressionism" practiced by painters 
+such as Jean Bazaine or, more important, a revivified geometric 
+abstraction exemplified by the work of Auguste Herbin, Max Bill, 
+Richard Lohse and other participants in the Salon des Realties 
+Nouvelles. Youngerman also noted that "Neither was a direction for 
+me. But that was what 1 found to relate to. So I ended up using hard- 
+edge or Constructivist elements in a lyrical way in those early Paris 
+paintings." 1 
+
+Youngerman's early efforts, like those of Ellsworth Kelly, with 
+whom he became friendly in 1948 when both attended the Ecole des 
+Beaux-Arts on the G.I. Bill, represent a young artist's assimilation of 
+the then predominant Parisian modes of painting. Although few works 
+remain from that period, extant examples (see fig. 1) already reveal 
+Youngerman's predilection for frontality, flatness and simplicity - seen 
+in bold and forthright imagery and uncomplicated color sequences - 
+and for the embellishment of a relatively static, highly structured 
+rectilinear composition with an occasional fanciful curve, irregular 
+edge, asymmetrical thrust (see fig. 2). 
+
+The initial experience of Paris was a heady one, for it brought 
+Youngerman into his first real contact with art. During his residence 
+there he encountered artists of his own generation, such as Cesar and 
+Eduardo Paolozzi (like Kelly and himself, students at the Ecole des 
+Beaux-Arts), and such venerable masters as Constantin Brancusi and 
+Jean Arp whose pioneering use of organic form offered a viable alter- 
+native to geometric abstraction. When Youngerman began painting in 
+Paris, he was not aware of artistic developments in the States. As he 
+said, "I went straight from Kentucky to Paris by way of the Navy, be- 
+cause in 1947 all the art schools in New York were full." 2 Because 
+Youngerman had no artistic education prior to his training during and 
+after the war, he was formed by his studies in Paris, his exposure to 
+School of Paris painting and his travels to Italy, Spain, Greece, The 
+Netherlands and Belgium. Fundamental to his development as well 
+were travels in the Middle East in the mid-fifties: he visited and 
+worked in Beirut, where his father-in-law Henri Seyrig was Director of 
+the Institut Frangais d'Archeologie (Youngerman had married the 
+actress Delphine Seyrig in 1950), and journeyed to Iraq, Syria, Jordan 
+and Turkey. A fascination with the East continues to inform his art to 
+
+
+
+JACK YOUNGERMAN 
+
+by Diane Waldman 
+
+
+
+11 
+
+
+
+
+
+fig. 1. Jack Youngerman, 
+Untitled, 1951. Oil on 
+plywood, 29'/2x39'/2". 
+Collection of the artist 
+
+fig. 2. Jack Youngerman, 
+Silver/Blue, 1951. Oil on 
+canvas, 40x60". Collection 
+of the artist 
+
+
+
+12 
+
+
+
+
+fig. 3. Youngerman's Paris 
+studio, 1956 
+
+
+
+this day. Seyrig, a highly cultivated intellectual and connoisseur who 
+later became Director of the Musees de France, helped to open up a 
+new world of history, art, literature and philosophy for the young artist. 
+Although he worked in what may be characterized as a highly for- 
+malized geometric abstract style during his Paris period, Youngerman 
+was also searching for other alternatives at this time. He frequented the 
+Salon de Mai shows to see the most current Paris painting and sought 
+out nineteenth-century Japanese woodcuts, Henri de Toulouse-Lautrec's 
+posters, the woodcuts of Arp and Vasily Randinsky and Henri Matisse's 
+ink drawings. Arp's woodcuts and ink drawings as well as Randinsky's 
+abstract woodcuts were among the "...things that unlocked the door..." 
+for Youngerman as "Shapes existing for themselves." 3 While Younger- 
+man indicated an early appreciation of Arp, he did not fully explore the 
+potential of Arp's spare biomorphic forms until he began to evolve his 
+single image paintings in the late 1950s (see Black-Orange-Red Orange, 
+1965, cat. no. 19). Matisse, on the other hand, offered Youngerman more 
+immediate and direct inspiration. The silhouetted forms and expressive 
+shapes of Matisse's drawings were particularly important for him: they 
+dictated his own early attempts to freely render organic forms with 
+emphatic positive/negative, figure/ground relationships (see fig. 3). 
+
+
+
+13 
+
+
+
+
+fig. 4. Henri Matisse, 
+Dahlias, grenades et 
+palmiers, 1947. Brush and 
+India ink on paper, 30x22'/4" 
+Collection Musee Nationale 
+d'Art Moderne, Centre 
+Georges Pompidou, Paris 
+
+
+
+Matisse revealed to him the potentialities of shape, the possibilities of 
+manipulating its contours and approaching it as flat plane or as volume. 
+Furthermore, the simultaneous fullness and economy of Matisse's ink 
+drawings, such as his depiction of pomegranates (fig. 4) in which he 
+captured the lusciousness of the exotic fruit with highly simplified 
+shapes and density of medium, attracted the younger artist. As Younger- 
+man has explained: 
+
+A black ink drawing by Matisse has a kind of starkness of a Mondrian. It is all in 
+contrast. And that appealed to me very much. The clarity of it, the starkness of it, and 
+the voluptuousness of it. This got me away from constructivist work. Those Matisse 
+drawings lead almost immediately to a certain number of things that I started doing 
+using what you could call organic shapes. Which for me is the basis of my work. 4 
+
+He saw in these drawings, and in the woodcuts of Arp and Kandinsky, far 
+greater freedom and spontaneity than in the then much acclaimed new 
+French painting. 
+
+At Betty Parsons's urging, Youngerman decided to return to the 
+States in 1956. During his first years in Paris he had felt liberated and 
+open to the experience of living and working abroad. Now, however, he 
+was estranged from the insular French art world (he could not relate to 
+Tachisme, then the rage in Paris) and no longer relished the role of 
+
+
+
+14 
+
+
+
+fig. 5. Jack Youngerman, 
+November 1956, 1956. 
+Oil on canvas, 64x38". 
+Collection of the artist 
+
+
+
+
+expatriate. Upon his arrival in New York, Youngerman settled with his 
+wife and infant son Duncan at Coenties Slip in lower Manhattan; there 
+his neighbors and friends included Kelly as well as Jasper Johns, Robert 
+Indiana, Agnes Martin, Fred Mitchell, Robert Rauschenberg and Barnett 
+Newman. He was instantly propelled from the obscurity and isolation he 
+had known in Paris into a highly-charged milieu of painters who were 
+forging new directions for American art. Nothing he had encountered in 
+the art world in Paris could have prepared him for the revolution that 
+had taken place in painting in New York. Although the aggressive post- 
+ure of Abstract Expressionism would seem to be at odds with a sensibil- 
+ity shaped by geometric abstraction, the rugged forms, vibrant color and 
+large scale of much New York School painting had an immediate impact 
+on the young artist. 
+
+Among the first paintings in which Youngerman gave expression to 
+his new direction are Red White, 1958, and Ram, 1959 (cat. nos. 2,3). As 
+Youngerman has explained, it was not the jagged edges or knifed im- 
+pasto that most impressed him about New York School painting, for he 
+had already incorporated such elements into his Parisian painting (see 
+fig. 5). Rather it was the massing of forms, inspired by the examples of 
+Clyfford Still and Robert Motherwell, that had the greatest impact on 
+
+
+
+15 
+
+
+
+his work. At this time the big shape and the two- or three-color re- 
+lationship became the crucial elements in his painting; they play a 
+major role in his work to date. Although they are harbingers of a new 
+direction, Red White, Ram and other works of the period reveal 
+Youngerman's capacity to expand upon his Parisian experience 
+through the medium of the new American painting. In these paintings 
+of the late 1950s and early 1960s he continued to explore the qualities 
+that most impressed him in Matisse's drawings - their simultaneous 
+starkness and voluptuousness - thereby fully expressing his own pre- 
+dilection for spare economical form without sacrificing his innate 
+feeling for drama and opulence. 
+
+The work of other artists notably influenced Youngerman's de- 
+velopment at this time: the dark brooding paintings of Albert Pinkham 
+Ryder, which were much admired by young American artists during 
+the late 1950s; the emblematic and enigmatic imagery and bold inci- 
+sive color of Marsden Hartley; and the resonant organic forms and 
+abstraction based upon nature of Arthur Dove and Georgia O'Reeffe. 
+As diverse as these painters are, they share much in common, in par- 
+ticular a vision that transcends nature without entirely relinquishing 
+its outward forms. 
+
+Youngerman and his colleagues in New York were keenly aware 
+of their roles as American artists and of America's place on the stage 
+of world history. Whereas this awareness led artists such as Johns or 
+Indiana to turn to American Pop culture for clearly identifiable 
+symbols of present-day American life, it encouraged Youngerman, as 
+well as Kelly, to look to earlier generations of American artists as a 
+source of imagery. In the work of O'Reeffe, for example in paintings 
+such as Rlue and Green Music, 1919, and Black Place III, 1944 (figs. 6, 
+7), Youngerman found a distinctly American precedent for the organic 
+imagery, the form, volume and color he had earlier admired in Euro- 
+pean and Middle Eastern art. Youngerman shares with O'Reeffe a 
+concern with nature-related forms. Their attitudes are distinct, how- 
+ever, in that Youngerman seeks a universal, generalized abstract 
+image rather than the particularized organic shape through which 
+O'Reeffe conveys a sense of an underlying rhythm and of the totality of 
+life. As O'Reeffe has remarked: 
+
+There are people who have made me see shapes - and others I thought of a great 
+deal, even people I have loved, who make me see nothing. I have painted portraits 
+that to me are almost photographic. I remembered hesitating to show the paintings, 
+they looked so real to me. But they have passed into the world as abstractions - no 
+one seeing what they are. 5 
+
+
+
+fig. 6. Georgia O'Reeffe, 
+Blue and Green Music, 
+1919. Oil on canvas, 23x19". 
+Collection The Art Institute of 
+Chicago, Gift of Georgia 
+O'Reeffe to the Alfred Stieglitz 
+Collection 
+
+fig. 7. Georgia O'Reeffe, 
+Black Place m, 1944. 
+Oil on canvas, 36x40". 
+Collection of the artist 
+
+
+
+16 
+
+
+
+
+
+For O'Keeffe, the depiction of recognizable natural forms and abstrac- 
+tion are, if not synonymous, at the very least closely linked; they are 
+two ways of representing reality. For Youngerman, on the other hand, 
+the world of objects is too specific, too loaded with history and associa- 
+tions; although he occasionally sketches from nature, he prefers to 
+uncover the laws of form that underlie organic life and yield a 
+geometry of nature. 
+
+Black plays a pivotal role in Youngerman's paintings of the late 
+1950s and early 1960s. Among his most successful canvases are those 
+in which black and red, black and orange or black and yellow forms 
+are combined to produce an intense color experience, which is 
+enhanced by the use of formidable shapes and highly articulated sur- 
+faces (see cat. nos. 4,6,7). Although O'Keeffe's explorations of color and 
+her pronounced use of black have been highly significant, Younger- 
+man has not remarked on her influence on him in this regard. He has, 
+however, acknowledged his indebtedness to both Still and Motherwell 
+for their masterful use of black - perhaps because their impact upon 
+artists of Youngerman's generation was more immediate than that of 
+O'Keeffe and other painters of her time. Youngerman's own use of 
+black differs from that of the artists of either earlier generation. 
+
+
+
+17 
+
+
+
+
+
+18 
+
+
+
+fig. 8. Clyfford Still, 1950-A 
+No. 2, 1950. Oil on canvas, 
+108V4 x 92". Collection 
+Hirshhorn Museum and 
+Sculpture Garden, 
+Smithsonian Institution, 
+Washington, D.C. 
+
+fig. 9 Clyfford Still, 1957-D 
+No. /, 1957. Oil on canvas, 
+113 x 159". Collection 
+Albright-Knox Art Gallery, 
+Buffalo. Gift of Seymour H. 
+Knox, 1959 
+
+
+
+Where O'Keeffe was concerned with black as it exists in nature, the 
+New York School artists such as Still, Newman or Mark Rothko 
+explored it as a vehicle for transcendental experience. Youngerman, 
+on the other hand, in a quest as meaningful as that of his predeces- 
+sors, has investigated the blackness of black. 
+
+Despite Youngerman's affinity for many elements of American 
+abstract painting as it developed in the 1950s, he did not share with 
+the artists of the first generation of the New York School their commit- 
+ment to the expansive field of the monumental canvas. Whereas the 
+contrast between contained form and boundless field is an essential 
+feature of the work of Still, Newman and Motherwell, for Youngerman 
+the successful resolution of shape and integration of forms depends 
+upon a sense of a finite, limited field. Thus, although Youngerman has 
+worked on a large scale, his canvases are rarely oversized. Cropping 
+of shapes became an important device for him, serving both to tie the 
+image to the field and to expand the space within the painting. Indeed, 
+Youngerman's concern with active and passive shapes, be they figure 
+or ground, demands a specific scale; interior shape determines 
+external size. For both the cropping of shape and the meshing of one 
+form with another, Youngerman looked to the example of Still. Paint- 
+ings by Still such as 1950-ANo. 2, 1950 (fig. 8), provided precedent for 
+Youngerman's handling of these features in Black-Red of 1959 (cat. no. 
+6) and other works, although the latter's rounded forms are markedly 
+different from Still's nervous, ragged-edged shapes. Comparison of 
+Youngerman's Aztec III of 1959 (cat. no. 5), with Still's 1957-D No. /, 
+1957 (fig. 9), underscores Youngerman's preference for voluptuous 
+form and also reveals differences in paint handling: Youngerman's 
+heavy impasto remains fluid and graceful despite its density, while 
+Still's surface is as agitated as the ultimately fugitive forms it defines. 
+
+While color and surface were and continue to be of crucial con- 
+cern to Youngerman, invented shape has always been the fundamen- 
+tal element in his work: he is above all interested in a dominant form, 
+which may be either figure or ground. As he has stated: 
+
+
+
+... the whole primary thing 1 work with in my paintings is an exploration and 
+articulation of all the possibilities of abstract shape as opposed to the shape of 
+things and as opposed to geometric work where you work with pre-existing 
+shapes. It is the invention of form that I am involved with. 6 
+
+In the same interview Youngerman also noted that after he articulates 
+his form, he establishes value and then the sequence of colors. Else- 
+where he has commented: 
+
+
+
+19 
+
+
+
+
+Values are usually the determining factor in my choice of colors. 1 think in 
+terms of values first, which are then translated into colors; maximum contrast is 
+a frequent occupation. Looking through "JAZZ" by Matisse, I realized that even 
+though every plate had black or white or both in them, you don't think of black 
+and white at all, but of the other colors. 1 almost always need black or white, 
+often both, as components of 2 or 3-color paintings. My wish for maximum 
+contrasts corresponds to the tension I want to create in the opposition of passive 
+and active shapes. Shapes demand their own colors. You can't put any color on 
+any shape, particularly organic shapes. Some shapes can take more than one 
+color but none can take any color. But the emotional value of my shapes means 
+that, for example, a dramatic menacing shape will often require black. You can't 
+paint it blue, yellow or green. I might try out different combinations in color 
+studies until the right one imposes itself. White for me is really involved with 
+space, a sense of breadth. 7 
+
+In 1959-60 Youngerman was included in his first major museum 
+exhibition, Sixteen Americans, organized by The Museum of Modern 
+Art in New York. A comparison of paintings by Youngerman (Aztec III, 
+1959 [cat. no. 5]), Frank Stella (The Marriage of Reason and Squalor, 
+1959 [fig. 10]), Johns (White Target, 1958 [fig. 11]) and Kelly (Falcon, 
+1959 [fig. 12]), all included in the show, makes the similarities and, 
+more important, the differences between Youngerman and his col- 
+leagues abundantly clear. Although these artists necessarily shared 
+
+
+
+fig. 10. Frank Stella, The 
+Marriage of Reason and 
+Squalor, 1959. Oil on canvas, 
+90y4xl32V4". Collection, 
+The Museum of Modern Art, 
+New York. Larry Aldrich 
+Foundation 
+
+
+
+20 
+
+
+
+
+
+fig. 11. Jasper Johns, 
+White Target, 1957. 
+Oil and wax on canvas, 
+30 x 30". Collection Whitney 
+Museum of American Art, 
+New York, Purchase 
+
+fig. 12. Ellsworth Kelly, 
+Falcon, 1959. Oil on canvas, 
+60 x 49". Collection Lillian 
+H. Florsheim Foundation, 
+Chicago 
+
+
+
+certain attitudes in that they helped to create New York School paint- 
+ing of the late 1950s - a style as loosely defined and as varied as that 
+established earlier by Jackson Pollock, Willem de Kooning, Franz 
+Kline, Newman, Rothko and Still - their aesthetic goals were ulti- 
+mately singular. With Kelly, Youngerman shares a common schooling 
+in Paris, a predilection for geometric abstraction, simplified shape and 
+restricted color arrangements; he and Johns have a similar feeling for 
+value and impasto; he and Stella are linked by their commitment to 
+the large and commanding image Youngerman relates to Still and 
+Kline. Youngerman shares with Kelly a pronounced feeling for shape, 
+but his form is closer to that of Johns's circular target than to Kelly's 
+configuration. Although both Youngerman and Kelly value flatness, 
+the volatility of Youngerman's fragmented shape relates to the flicker- 
+ing pattern established by Johns's brushwork. The static nature of 
+Kelly's configuration links it to Stella's quiescent image, while the 
+internal composition of Stella's painting bears similarities to the con- 
+centric rings of Johns's target. The Stella and the Johns are most 
+significantly related, however, in terms of the iconic, emblematic 
+quality of their imagery and in the ironic commentary on the nature of 
+painting as object. For Youngerman and Kelly, on the other hand, the 
+
+
+
+21 
+
+
+
+literary aspects of this dialogue are inconsequential compared to the 
+purely painterly values of abstract form and color. 
+
+Because Youngerman and Kelly share a common history and an 
+avowed commitment to abstract form and color, viewers have con- 
+tinued to perceive their painting as closely related. Yet their art issues 
+from different attitudes, different perceptions, different choices. 
+Although both Kelly and Youngerman work with organic forms that 
+have some resemblance to natural forms, it would appear that Kelly's 
+images, both in his plant drawings and his abstract paintings, relate 
+more directly to their sources in the objective world than do Younger- 
+man's. Kelly has said: 
+
+I like to work from things that I see whether they're man-made or natural or a 
+combination of the two. Once in a while I work directly from something I've 
+seen, like a window, or a fragment of a piece of architecture, or someone's legs; 
+or sometimes the space between things, or just how the shadows of an object 
+would look. The idea of the shadow of a natural object has existed, like the 
+shadow of the pyramids, or a rock and its shadow; I'm not interested in the 
+texture of the rock, or that it is a rock but in the mass of it, and its shadow. 8 
+
+Stressing his belief in "shapes existing for themselves" rather than as 
+reminders of nature, Youngerman has described his own working 
+method and rather more distant relationship to the perceived world: 
+
+I start out with lots of little ink drawings They're like shorthand notes. I do 
+
+them rapidly, save them, go back to them, modify them, perhaps use them in the 
+future. I use lots of sources for provoking these drawings. Any number of 
+diverse visual impressions or combinations might serve me as a point of depar- 
+ture for generating new shapes the origin of the paintings is almost never 
+
+directly in things seen. I've nothing against it, but nature doesn't furnish me 
+with "subjects." I can invent a much greater variety of shapes that I can use 
+than I could ever get from observation. If sometimes people see "references" in 
+my work, it is perhaps because the mind works to suggest some familiar image 
+in any new shape. 9 
+
+Youngerman's allusive titles enlarge upon the references made by the 
+shapes, surfaces and color of his images. These titles may refer to 
+seasons, places or states of mind, evoking, together with his imagery, 
+multiple and ever-changing possibilities. 
+
+Throughout the late 1950s and early 1960s Youngerman elabo- 
+rated upon the potential of abstract form. He was careful to avoid the 
+depiction of objects, preferring instead to cultivate deliberately 
+ambiguous imagery. This allowed him to attempt to convey the sensa- 
+tions of natural phenomena - of heat and light, for example - and to 
+shape his perceptions into vivid and concrete imagery. Youngerman's 
+
+
+
+22 
+
+
+
+receptivity to such phenomena was undoubtedly heightened by the 
+sensations he experienced upon his move to New York. As he recalled: 
+
+When I came back to America the first thins I noticed was on the boat coming 
+back - the first American thing that I had forgotten. I [saw] ... all of a sudden on 
+the bulkhead, which was painted white, this absolutely dazzling white light. We 
+were in the Atlantic maybe a day or two out from America. And the light, the 
+changes of light was the thing. I had gotten so conditioned to the kind of Paris 
+ligbt which is the hazy poetic sort of golden light when it is a good day, this He 
+de France light. I had forgotten completely what American light was, and seeing 
+that all of a sudden ... it was like a real American experience, and I'm back. 10 
+
+In general, during the 1960s Youngerman continued to concern 
+himself with the ideas that had engaged him in the late 1950s. How- 
+ever, in this period, the heavily scumbled surfaces, rugged forms and 
+biting colors of his paintings evolved into smoother contours, flatter 
+surfaces, more varied color relationships. Although he continued to 
+use black, it no longer dominated his canvases, and the inflected, 
+interrupted line that had enclosed his forms was less often in evi- 
+dence. White was introduced to complement such colors as blue, red 
+and yellow. His broad, freely rendered forms now contained sweeping, 
+open curves. Already intense colors such as black and red brightened 
+further, and, as the paint surface smoothed out, hugged the canvas 
+surface more closely. There is a new lightness and openness of shape 
+and of contour. Paintings such as Black, Red, and Hliite, 1962, Delfina 
+II, 1964, June 1965 and BlueUTiite-Red, both 1965 (cat. nos. 15, 17, 20, 
+22), possess a lyrical expansiveness absent from the more densely 
+impacted earlier work. While paintings such as Long March II, 1964, 
+and Black-Orange-Red Orange, 1965 (cat. nos. 18, 19), are close in feel- 
+ing to the work of the preceding decade, most of the painting of the 
+1960s reveals a new and entirely confident sense of the decorative 
+possibilities of abstract painting. 
+
+Youngerman's abiding interest in Eastern art and culture inspired 
+a series of folding linen or wood screens which he began in the late 
+1970s. In screens such as Fire-Orange, 1978, and High Tide, 1979 (cat. 
+nos. 30, 31), the roughness and opulence of his earlier work is mod- 
+ified by the mediation of Eastern examples. The exquisiteness and 
+finesse, the refined form and color, the sense of serenity and order 
+present in the Oriental prototypes for these screens appear here fil- 
+tered through a personal, Western sensibility. Thus the imagery of the 
+screens may recall Braque's birds or Hokusai's wave - apparently 
+disparate sources in which the artist sees a similar organic form. 
+
+
+
+23 
+
+
+
+Youngerman extended the idiom of the screen into the medium of 
+painted aluminum sculpture in 1980. The point of departure for works 
+such as Tabriz, 1980 (cat. no. 40), is the format of the hinged screen. A 
+screen, by its very nature, conceals; the oriental screen and Younger- 
+man's linen or wood screens as well convey a sense of fragility and 
+ephemerality. In the metal examples, Youngerman plays upon ideas of 
+concealing and revealing by cutting out shapes in the material. 
+Moreover, by piercing the metal he is able to express fragility without 
+denying the distinctive physical properties of the medium. 
+
+Certain of the works in metal represent a progression away from 
+the screen format into the realm of freestanding sculpture. For exam- 
+ple, HokusaVs Wave, 1981 (cat. no. 41), retains the planarity and 
+pierced surface of works such as Tabriz, but its image is no longer 
+contained by the screen's rectangle. Pictorial elements such as color 
+are purged, yet the sculpture continues to share the images of the 
+painting and works on paper. 
+
+In his paintings of the mid-1960s, Youngerman created an intrigu- 
+ing tension between two- and three-dimensionality by using forms of 
+heavily built-up impasto whose volume is suppressed through their 
+integration with the flat picture plane. In Untitled (Black-Yellow-Red), 
+of 1963 (cat. no. 17), for example, the dominant shape is so thickly 
+painted that it appears to be in low relief, but its three dimensionality 
+is restrained by the embracing yellow form nestled within the larger 
+black shape on the red ground of the painting. The volumetric shapes 
+in these paintings, which reappear in sculptural form in Youngerman's 
+painted reliefs of the 1980s, are reminiscent of the configurations in Arp's 
+reliefs. 
+
+A turning point for the artist was marked in 1970, for it was then that 
+he began to work with circular and elliptical canvases. To be sure, he 
+had executed several diamond-shaped paintings in the late 1960s, includ- 
+ing Bahia, 1967, and Black Diamond, 1969 (cat. nos. 24, 25), in which a 
+symmetrical interior image reinforces the external configuration of the 
+canvas. Starting in 1970, however, he elaborated upon his experiments 
+with shaped canvases. In the new works, such as Roundabout, 1970, and 
+Sagaponack, 1971 (cat. nos. 27, 28), Youngerman at once acknowledged 
+and controverted the shape of the support with the interior image: the 
+configuration of the internal image echoes that of the support, but it is 
+placed so that the two shapes are no longer parallel. 
+
+In 1970, concurrent with the production of the oval and elliptical 
+canvases, Youngerman began to make freestanding sculpture in lami- 
+
+
+
+24 
+
+
+
+
+Tig. 13. Jack Youngerman, 
+Andromeda, 1975. Laminated 
+fiberglas, 43x79x69". 
+Collection Manville Sales 
+Corporation, Denver 
+
+
+
+nated fiberglas and resin. Certainly, his decision to work in three 
+dimensions arose from his compelling interest in shape. In a revealing 
+comment of 1966, he indicated his concern with volume as it related to 
+his painting. He spoke of "forms that have volume from the beginning, 
+as opposed to lines that circumscribe shape."" 
+
+That Youngerman began to produce oval and elliptical canvases, 
+screens and freestanding sculpture testifies to his ambition to confront 
+shape in a new and innovative way. Youngerman's sculpture has been 
+central to this development. The sculpture, like his paintings, is or- 
+ganic in its point of origin; it evokes a subtle eroticism based on ob- 
+lique references to male and female forms and calls up associations 
+with nature and the art of other cultures and other times. The familiar 
+curved forms of his paintings took on new and provocative meanings 
+when they were translated into three dimensions in the first sculpture 
+as, for example, in Andromeda, 1975 (fig. 13). However, Youngerman 
+had not worked fully in the round before 1970, and a prolonged period 
+of trial and error was necessary before he was able to achieve the 
+completely evolved works of the late 1970s and early 1980s. Although 
+they were well-conceived, the first sculptures lacked fullness. 
+Moreover, Youngerman had not yet developed an entirely satisfactory 
+
+
+
+25 
+
+
+
+working method. Once he began to cast his fiberglas, in 1977, how- 
+ever, he could address the aesthetic problems of the earlier pieces. At 
+this point he was able to produce fully resolved sculpture that retained 
+the freshness and vitality of the first three-dimensional works. 
+
+The freestanding sculptures consist of forms molded into simple 
+shapes. In their grace, ease and casualness they are reminiscent of 
+traditional Japanese folded and twisted paper. Their seeming ef- 
+fortlessness belies a lengthy working process that the artist refers to 
+as "the lost polyurethane method." He twists sheets of polyurethane 
+into elaborate curves which he wires, staples or holds together with 
+bolsters. Working with Christopher Janney, Youngerman sprays the 
+finished shape with molten metal and encases it in a fiberglas mold. 
+After the spongy inner form is pulled out of the mold, Youngerman 
+replaces it with sprayed resin and fiberglas. He achieves the final state 
+of the piece by fine-tuning it after the casting. To date Youngerman 
+has restricted the freestanding sculptures to either black or white. 
+Although the same forms are used in the black and white sculptures, 
+the matte finish of the former and the translucent surfaces of the latter 
+produce strikingly different effects. 
+
+Beginning in 1980, Youngerman created a new body of works 
+which he has called "relief paintings." In some of these reliefs of oil, 
+epoxy, polystyrene and fiberglas he recapitulates in three dimensions 
+elements of the formal vocabulary of his earlier paintings, folding 
+screens and enamel and steel sculpture. In others he extends his rep- 
+ertory of images to include provocative new shapes. Whereas the 
+freestanding sculptures are limited to black and white, the reliefs are 
+characterized by complex color relationships that cannot adequately 
+be conveyed in reproduction and so must be experienced directly. 
+Indeed, the seemingly evanescent white pieces, glistening with a lus- 
+ter like fine pearls, and the sleek black sculptures stand in marked 
+contrast to the dramatically colored rough-surfaced reliefs. The quiet, 
+contained shapes of the cast-fiberglas sculptures, too, are at variance 
+with the restless forms of the reliefs. The intricate carving in the re- 
+liefs, which must be viewed from many different positions, enhances 
+form as well as color and also speaks of the concern for value that was 
+evident in Youngerman's earliest work. 
+
+The graceful sweeping curves of early reliefs such as Swirl II and 
+Red Huracan, both 1981 (cat. nos. 33, 34), were replaced by jagged 
+configurations in later examples such as Lykos, 1983, and Apollyon, 
+1984 (cat. nos. 36, 37). The latter reliefs represent, in respect to their 
+
+
+
+26 
+
+
+
+contours as well as the way small forms embrace or intercept larger 
+ones, a return to considerations of Youngerman's painting of the mid- 
+sixties. However, the notched and silhouetted forms familiar from the 
+earlier paintings are more assertive here by virtue of their three di- 
+mensionality and because they are no longer contained by the quies- 
+cent shape of the canvas rectangle. Thus, in these new works, 
+Youngerman refines and expands upon his earlier experiments, con- 
+tinuing his dialogue with the expressive potential of shape. 
+
+Throughout his career Youngerman has depended upon drawings, 
+which he has produced in voluminous quantities. They have served as 
+notations for ideas or as sketches for painting and sculpture and also 
+as independent works of art. Often minute, they may be enlarged into 
+working drawings. The same evolution that occurs in the painting and 
+sculpture unfolds in the works on paper. An examination of the 
+sketches indicates that each shape in the finished works in other 
+mediums is as carefully considered as the choice of color that comple- 
+ments it. Even the drawings that serve as the models for painting or 
+sculpture preserve their own integrity. Thus, March 23, 1965, II, 1965, 
+or September 3, 1966, 1966 (cat. nos. 49, 48), are clearly studies, yet 
+stand alone on their own merits: they reveal in their proportions, 
+shapes and density of pigment the qualities of starkness, economy and 
+voluptuousness Youngerman admired years ago in Matisse's drawings. 
+Recently Youngerman has begun to execute drawings that are meant 
+to exist as independent works. Among them are two untitled works of 
+1980 and Halo/Blue, 1981 (cat. nos. 53-55), in which he has taken full 
+advantage of the medium, allowing the circular shapes in his hand- 
+embossed paper to dictate the configurations of the drawings. The 
+lyricism of these examples has been supplanted by a more volatile 
+feeling in the most recent drawings (see cat. nos. 56-59), which are 
+models for a new series of large works. 
+
+Throughout his career Youngerman has been concerned with 
+both the structure and the expressive potentialities of organic shape. 
+The language of organic form he has evolved is at once dynamic and 
+serene: the artist says that "these configurations proceed from the 
+'world field of stress' with all its tension, compression, and release, 
+much as do organic forms themselves." 12 Highly inventive, issuing 
+from his dialogue with the world, his imagery is never derivative. 
+Youngerman's generalized, universal forms are reductive yet create a 
+rich and complex fabric. His dialogue is a vital and continuing process 
+which for him has hardly begun. 
+
+
+
+27 
+
+
+
+Footnotes 
+
+1. Quoted in Barbara Rose, "An Interview with 
+Jack Youngerman," Artforum, vol. 4, 
+January 1966, p. 27. 
+
+2. Ibid. 
+
+3. Quoted in Colette Roberts, "Jack Younger- 
+man," Archives of American Art Journal, vol. 
+12, no. 2, p. 6. 
+
+4. Ibid. 
+
+5. Quoted in Georgia O'Keeffe, New York, 1976, 
+n.p. 
+
+6. Roberts, p. 7. 
+
+7. Rose, p. 30. 
+
+8. Quoted in Diane Waldman, Ellsworth Kelly: 
+Drawings, Collages, Prints, Greenwich, 
+Connecticut, 1971, p. 16. 
+
+9. Rose, p. 27. 
+
+10. Roberts, p. 5. 
+
+11. Rose, p. 27. 
+
+12. Art Gallery, Fine Arts Center, State Univer- 
+sity of New York at Stony Brook, Jack 
+Youngerman: Relief Paintings and Sculpture 
+1978-1982, exh. cat., 1982, n.p. 
+
+
+
+
+28 
+
+
+
+
+
+
+
+*%r 
+
+
+
+Installation view, Washburn Gallery, Inc.. 
+New York (at Greene Street), 1982 
+
+
+
+29 
+
+
+
+30 
+
+
+
+CATALOGUE 
+
+
+
+
+1 Escucha. 1957 
+
+Oil on canvas, 71 x 34" 
+
+Collection of the artist 
+
+
+
+31 
+
+
+
+
+32 
+
+
+
+2 Red White. 1958 
+
+Oil on canvas, 70 x 50" 
+
+Collection Whitney Museum of American Art, New York 
+
+Gift of Mr. and Mrs. Morton J. Hornick 
+
+
+
+
+5 Ram. 1959 
+
+Oil on canvas, 90 x 63" 
+
+Collection Dolores and Merrill Gordon, Florida 
+
+
+
+33 
+
+
+
+
+34 
+
+
+
+4 Black, Orange, White. 1959 
+
+Oil on canvas, 77 x 68" 
+
+Collection Walter and Dawn Clark Netsch 
+
+
+
+
+5 Aztec III. 1959 
+
+Oil on canvas, 75 x 85" 
+
+Collection Frank Stella, New York 
+
+
+
+35 
+
+
+
+
+36 
+
+
+
+6 Black-Red. 1959 
+
+Oil on canvas, 70 x 100" 
+
+Collection the Chase Manhattan Bank, N.A. 
+
+
+
+
+7 Coenties Slip. 1959 
+
+Oil on canvas, 81 x 68" 
+
+Collection Whitney Museum of American Art, New York 
+
+Gift of Nelson A. Rockefeller 
+
+
+
+37 
+
+
+
+
+
+38 
+
+
+
+8 Untitled, ca. 1961 
+Oil on canvas, 19 x 17" 
+Collection of the artist 
+
+
+
+9 Untitled, ca. 1961 
+
+Oil on canvas, 25 Vs x 21 W 
+
+Collection of the artist 
+
+
+
+
+
+10 Palma. 1961 
+
+Oil on canvas, 26 x 32" 
+
+Collection of the artist 
+
+
+
+11 Little Black. 1962 
+Oil on canvas, 28 x 27" 
+Collection of the artist 
+
+
+
+59 
+
+
+
+
+40 
+
+
+
+12 Throne. 1961 
+
+Oil on canvas, 92 x 100" 
+
+Collection unknown 
+
+
+
+
+13 Dahomey. 1961 
+Oil on canvas, 82 x 37" 
+Collection of the artist 
+
+
+
+41 
+
+
+
+
+42 
+
+
+
+14 Genghis II. 1962 
+
+Oil on canvas, 88'A x 66V4" 
+
+Collection of the artist 
+
+
+
+
+15 Black, Red, and Itliite. 1962 
+
+Oil on canvas, 75 5 /s x 83" 
+
+Collection, The Museum of Modern Art, New York 
+
+Larry Aldrich Foundation Fund (by exchange) 
+
+1134.64 
+
+
+
+43 
+
+
+
+
+44 
+
+
+
+16 Untitled (Black-Yellow-Red). 1965 
+Acrylic on canvas, 54 x 42" 
+Collection of the artist 
+
+
+
+
+17 Delfina II. 1964 
+
+Acrylic on canvas, 110 x 104" 
+
+Collection The Art Institute of Chicago. Mary and 
+
+Leigh B. Block Fund for Acquisitions 1964.89 
+
+
+
+45 
+
+
+
+
+46 
+
+
+
+18 Long March II. 1964 
+
+Oil on canvas, 90 x 94%" 
+
+Collection Solomon R. Guggenheim Museum, New York 
+
+Anonymous gift, 1978 
+
+
+
+
+19 Black-Orange-Red Orange. 1965 
+
+Acrylic on canvas, 83 5 /t x 63" 
+
+Collection Worcester Art Museum, Massachusetts 
+
+
+
+47 
+
+
+
+
+48 
+
+
+
+20 June 1965. 1965 
+
+Acrylic on canvas, 72 x 72" 
+
+Collection The Art Institute of Chicago 
+
+Gift of Mr. and Mrs. Solomon B. Smith 
+
+1966.378 
+
+
+
+
+21 Springs. 1965 
+
+Acrylic on canvas, 83 x 72" 
+
+Collection Louisiana Museum of Modern Art, Humlebaek, Denmark 
+
+
+
+49 
+
+
+
+r 
+
+
+
+
+50 
+
+
+
+22 Blue-IITiite-Red. 1965 
+
+Acrylic on canvas, 108 x 87" 
+
+Collection Whitney Museum of American Art, New York 
+
+Purchase with funds from the Friends of the Whitney Museum 
+
+of American Art 
+
+
+
+
+23 July White. 1966 
+
+Acrylic on canvas, 109 x 79" 
+
+Collection The Corcoran Gallery of Art, Washington, D.C. 
+
+Gift of the Friends of The Corcoran Gallery of Art and the 
+
+friends of the late Fleming Bomar in memory of Fleming Bomar 
+
+
+
+51 
+
+
+
+
+52 
+
+
+
+24 Bahia. 1967 
+
+Acrylic on canvas (lozenge), 99 x 99" 
+
+Collection Wichita Art Museum, Kansas 
+
+
+
+
+25 Black Diamond. 1969 
+
+Acrylic on canvas (lozenge), 99 x 99" 
+
+Collection unknown 
+
+
+
+53 
+
+
+
+
+54 
+
+
+
+26 March IVhite. 1970 
+
+Acrylic on canvas, 115 x 105" 
+
+Collection Museum of Art, Carnegie Institute, Pittsburgh; 
+
+National Endowment for the Arts Matching Grant and Fellows of the 
+
+Museum of Art Fund, 1970 
+
+
+
+
+27 Roundabout. 1970 
+
+Acrylic on canvas, 96" d. 
+
+Collection Albright-Knox Art Gallery, Buffalo 
+
+Gift of Seymour H. Knox, 1971 
+
+
+
+55 
+
+
+
+
+56 
+
+
+
+28 Sagaponack. 1971 
+
+Acrylic on canvas (ellipse), 61 x 90'/2" 
+
+Collection of the artist 
+
+
+
+
+29 Past Vermillion. 1973 
+
+Acrylic on shaped canvas, 57 x 120" 
+
+Collection of the artist 
+
+
+
+57 
+
+
+
+
+58 
+
+
+
+30 Fire-Orange. 1978 
+
+Oil and acrylic on raw linen (folding screen), 72 x 144" 
+
+Collection Cooper-Hewitt Museum, New York 
+
+The Smithsonian Institution's National Museum of Design 
+
+
+
+
+59 
+
+
+
+
+60 
+
+
+
+51 High Tide. 1979 
+
+Oil on wood (folding screen), 73 x 174" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+61 
+
+
+
+
+62 
+
+
+
+32 Dive. 1980 
+
+Oil, epoxy, polystyrene and fiberglas, 127 x 49 x 4" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+33 Swirl II. 1981 
+
+Oil, epoxy, polystyrene and fiberglas, 102 x 76 x 6" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+63 
+
+
+
+
+64 
+
+
+
+34 Red Huracan. 1981 
+
+Oil, epoxy, polystyrene and fiberglas, 109 x 72 x 6" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+
+
+
+
+55 White Whorl. 1982 
+
+Oil, epoxy, polystyrene and fiberglas, 88 x 80 x 6" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+65 
+
+
+
+
+66 
+
+
+
+36 Lykos. 1983 
+
+Oil, epoxy, polystyrene and fiberglas, 95 x 66 x 4" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+37 Apolfyon. 1984 
+
+Oil, epoxy, polystyrene and fiberglas, 102 x 78 x 4" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+67 
+
+
+
+
+68 
+
+
+
+58 Redout. 1984 
+
+Oil, epoxy, polystyrene and fiberglas, 86 x 96" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+59 Swirl. 1979 
+
+Mild steel, 84 x 65&gt;/2 x W 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+69 
+
+
+
+
+i 
+
+
+
+70 
+
+
+
+40 Tabriz. 1980 
+
+Enamel on aluminum, 72 x 124" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+41 Hokusai's Have. 1981 
+
+Steel, 84 x 84 x W with steel base, 60 x 25 x V*" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+71 
+
+
+
+
+*\)^"-«^ 
+
+
+
+72 
+
+
+
+42 Black Tucana. 1977-83 
+
+Cast fiberglas, 60 x 94 x 48" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+43 The Ohio. 1977 
+
+Fiberglas, 180 x 168 x 6" 
+
+Collection of The Three Rivers Arts Festival, an activity of the Museum 
+
+of Art, Carnegie Institute, Pittsburgh 
+
+
+
+
+
+
+?!i&amp; 
+
+
+
+
+
+
+m 
+
+
+
+Vyi 
+
+
+
+T- 
+
+
+
+15* 
+
+
+
+"fe^ ; 
+
+
+
+&gt;c*». 
+
+
+
+£&amp; 
+
+
+
+
+M 
+
+
+
+•ittr^j 
+
+
+
+
+
+
+_j 
+
+
+
+/ 
+
+
+
+*~ 
+
+
+
+
+
+
+
+
+
+* -*»■ 
+
+
+
+{!**■££ -. 
+
+
+
+74 
+
+
+
+44 tela. 1977-85 
+
+Cast fiberglas, 62 x 96 x 33" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+45 Black Leda. 1978-85 
+
+Cast fiberglas, 89 x 60 x 10" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+75 
+
+
+
+
+76 
+
+
+
+46 Khajuraho. 1979-84 
+
+Cast fiberglas, 81 x 41 x 35" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+47 Black Juba. 1980-82 
+
+Cast fiberglas, 69 x 84 Vj x 36" 
+
+Collection Solomon R. Guggenheim Museum, New York 
+
+Gift, Mr. and Mrs. Sidney M. Feldman, 1983 
+
+
+
+77 
+
+
+
+
+
+Works on Paper 
+
+
+
+78 
+
+
+
+48 September 3, 1966. 1966 
+India ink on paper, 23 x 29" 
+Collection of the artist 
+
+
+
+49 March 23, 1963, II. 1965 
+India ink on paper, 23 x 29" 
+Collection of the artist 
+
+
+
+
+
+50 Untitled. 1967 
+
+India ink on paper, 23 x 29" 
+
+Collection of the artist 
+
+
+
+51 December8, 1967. 1967 
+India ink on paper, 29 x 23" 
+Collection of the artist 
+
+
+
+79 
+
+
+
+
+
+80 
+
+
+
+52 Untitled. 1979 
+
+Acrylic on paper, 24 Vb x 24" 
+
+Collection of the artist 
+
+
+
+53 Untitled. 1980 
+
+Watercolor, gouache and pencil on hand- 
+embossed paper, 37V* x 36" 
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+
+54 Untitled. 1980 
+
+Watercolor on hand-embossed paper, 41 l fa x 29Vi" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+55 Halo/Blue. 1981 
+
+Watercolor on hand-embossed paper, 41 Vfe x 29'/2" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+81 
+
+
+
+
+
+82 
+
+
+
+56 Untitled. 1985 
+
+Acrylic on paper, 26 x 20" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+57 Untitled. 1985 
+
+Gouache on paper, 50 x 22" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+
+
+58 Untitled. 1985 
+
+Watercolor on paper, 30 x 22" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+59 Untitled. 1985 
+
+Acrylic on paper, 30 x 22" 
+
+Courtesy Washburn Gallery, Inc., New York 
+
+
+
+83 
+
+
+
+
+!••»* 
+
+
+
+• 
+
+
+
+I* 
+
+
+
+
+
+
+
+J-X^vfl ^^^^^- - A - 
+
+
+
+
+
+
+
+
+3* I 
+
+
+i »^^y 
+
+
+
+1926 
+
+March 25 
+
+Born in St. Louis. 
+
+1929 
+
+Moves with family to Louisville. 
+
+1945-44 
+
+Studies at University of Missouri, Columbia.' 
+
+1944-46 
+
+Enters U.S. Navy Officers Training Program at 
+University of North Carolina, Chapel Hill. As 
+elective, takes first course in art (drawing). 
+
+
+
+Becomes interested in resurgence of geometric 
+abstract painting in Paris, as seen in such 
+exhibitions as Salon des Realties Nouvelles, 
+whose participants include Max Bill, Auguste 
+Herbin and Richard Lohse. Also visits Salon de 
+Mai shows to see most current work of School 
+of Paris artists, including such masters as Henri 
+Matisse. 
+
+Is influenced by silhouetted forms and expres- 
+sive shapes in Henri de Toulouse-Lautrec's 
+posters, nineteenth-century Japanese woodcuts, 
+Vasily Kandinsky's and Jean Arp's woodcuts and 
+Matisse's ink drawings. 
+
+
+
+1946 
+
+June-December 
+
+Receives Navy commission; is stationed at 
+
+Norfolk, Virginia, and Boston for duty in Atlantic 
+
+fleet. 
+
+1947 
+
+January-August 
+
+Returns to University of Missouri; receives B.A. 
+
+in journalism. 
+
+Fall 
+
+Moves to Paris on a G.I. Scholarship and enrolls 
+at Ecole des Beaux-Arts. Studies with Jean 
+Souverbie; emphasis is on academic drawing. 
+
+In Paris, studies art history by visiting museums, 
+churches and historic sites. Travels to The 
+Netherlands, Belgium, Spain, Italy and Greece 
+to look at art. 
+
+1948 
+
+Forms friendship with Ellsworth Kelly and 
+meets Eduardo Paolozzi and Cesar, all fellow- 
+students at Ecole des Beaux-Arts. 
+
+1950 
+
+Marries Delphine Seyrig. 
+
+October 
+
+First group exhibition, Les Mains eblouies, at 
+
+Galerie Maeght, Paris. Other participants 
+
+include Pierre Alechinsky, Eduardo Chillida and 
+
+Corneille. 
+
+Early 1950s 
+
+Visits studios of Constantin Brancusi and Jean 
+Arp with Kelly; is influenced by their sense of 
+organic form. 
+
+Through his father-in-law Henri Seyrig, meets 
+Alexander Calder. 
+
+Meets experimental filmmaker and artist Robert 
+Breer. 
+
+
+
+1951 
+
+First one-man exhibition, at Galerie Arnaud, 
+
+Paris 
+
+Meets artist Frangois Morellet. 
+
+1953 
+
+Summer 
+
+Visits newly opened caves at Lascaux (Dor- 
+
+dogne); impressed by freshness, immediacy and 
+
+power of their animal imagery. 
+
+1954-55 
+
+Visits Henri Seyrig in Beirut, where he is 
+Director of Institut Frangais d'Archeologie. 
+Travels on to Iraq, Syria, Turkey, Jordan and 
+elsewhere in the Middle East. 
+
+1954 
+
+Works with architect Michel Ecochard in Beirut 
+
+on color design for French Protestant school. 
+
+Meets Peggy Guggenheim and visits her 
+collection in Venice. 
+
+Begins using freely rendered organic forms in 
+his compositions, which are strongly informed 
+by positive/negative and figure/ground relation- 
+ships. These concerns continue to characterize 
+his work today. 
+
+1956 
+
+Son Duncan Pierre is born. 
+
+Designs sets for Compagnie Madeleine Renaud- 
+Jean-Louis Barrault production of Georges 
+Schehade's Hisloire de lasco, presented at 
+Theatre Sarah-Bernhardt and Theatre des 
+Celestins, Paris. 
+
+Summer 
+
+Art dealer Betty Parsons visits Youngerman's 
+studio in Paris; encourages him to return to 
+New York. 
+
+
+
+CHRONOLOGY 
+
+
+
+Photo opposite, left to right: Delphine Seyrig, 
+Robert Indiana, Duncan Youngerman, Ellsworth 
+Kelly, Jack Youngerman and Agnes Martin on 
+roof of No. 1-3 Coenties Slip, New York, 1958 
+
+
+
+85 
+
+
+
+
+
+Installation view, Betty Parsons Gallery, New York, 1958 
+
+
+
+Paris studio, Summer 1961 
+
+
+
+December 
+
+Returns to United States and settles in New York, 
+where he lives to the present. Rents a house 
+near the Battery at Coenties Slip, where he lives 
+with his wife and son; friends and neighbors 
+include Robert Indiana, Jasper Johns, Kelly, 
+Fred Mitchell and Robert Rauschenberg. 
+
+1957 
+
+Agnes Martin moves to Coenties Slip. 
+
+Impressed by use of black and treatment of 
+mass in paintings of Clyfford Still and Robert 
+Motherwell. 
+
+Establishes friendship with Frederick Riesler. 
+
+1958 
+
+March 
+
+Makes American debut with first of seven 
+
+one-man exhibitions at Betty Parsons Gallery, 
+
+New York. 
+
+December 
+
+Included in first of four international exhibitions 
+of contemporary painting and sculpture at 
+Carnegie Institute, Pittsburgh. 
+
+1959 
+
+January 
+
+Represented in first of four biennial exhibitions 
+
+
+
+of contemporary American painting at The 
+Corcoran Gallery of Art, Washington, D.C. 
+
+Designs stage sets for Theatre East, New York, 
+production of Jean Genet's Deathwatch. 
+
+Receives New York Talent Award from Art in 
+America magazine. 
+
+Late 1950s 
+
+Becomes interested in Albert Pinkham Ryder, 
+Arthur Dove, Marsden Hartley and Georgia 
+O'Keeffe for their sculptural and strong organic 
+forms and tendency toward abstraction based 
+on forms in nature. 
+
+1959-60 
+
+Featured in The Museum of Modern Art, New 
+York, exhibition Sixteen Americans; other 
+participants include Johns, Kelly, Rauschenberg 
+and Frank Stella. 
+
+1961 
+
+Summer 
+
+Works in Paris. Produces first lithograph, 
+
+Delfina, at Atelier Mourlot. 
+
+October 
+
+Included in Abstract Expressionists and lmagists 
+
+at Solomon R. Guggenheim Museum, New York. 
+
+
+
+86 
+
+
+
+©€fd# 
+
+
+
+m 
+
+
+
+New York studio, 1985 
+
+
+
+
+1962 
+
+October 
+
+One-man exhibition at Galerie Lawrence, Paris. 
+
+1963 
+
+February 
+
+One-man exhibition at Galleria dell'Ariete, 
+
+Milan. 
+
+April 
+
+One-man exhibition at Everett Ellin Gallery, Los 
+
+Angeles. 
+
+1964 
+
+Represented in Guggenheim Museum exhibition 
+
+American Drawings. 
+
+1965-66 
+
+Artist in Residence, Worcester Art Museum, 
+
+Massachusetts. 
+
+1965 
+
+November 
+
+One-man exhibition at Worcester Art Museum. 
+
+1966 
+
+Receives National Council of the Arts and 
+
+Sciences Award. 
+
+
+
+September 
+
+Included in Systemic Painting at Guggenheim 
+Museum. 
+
+1968 
+
+April 
+
+One-man exhibition at The Phillips Collection, 
+
+Washington, D.C. 
+
+1969 
+
+Establishes summer studio in Bridgehampton, 
+
+New York, where he continues to work to the 
+
+present. 
+
+1970 
+
+Creates first circular and elliptical shaped 
+
+paintings. 
+
+Turns to freestanding sculpture in laminated 
+fiberglas and resin. 
+
+1971 
+
+February 
+
+First of four one-man exhibitions at The Pace 
+
+Gallery, New York. 
+
+1972 
+
+November 
+
+Inaugural exhibition of Portland Center for the 
+
+Visual Arts, Oregon, Jack ibungerman, 1967-72. 
+
+Receives National Endowment for the Arts Award. 
+
+Begins exploring different mediums, including 
+wood and polystyrene, which permits develop- 
+ment of painted reliefs. 
+
+1973 
+
+May 
+
+One-man exhibition at Galerie Denise Rene, 
+
+Paris. 
+
+1974-75 
+
+Visiting Artist, Yale University, New Haven. 
+
+1975 
+
+Fall 
+
+Artist in Residence, Dartmouth College, 
+
+Hanover, New Hampshire. 
+
+1976 
+
+July 
+
+One-man exhibition at The Parrish Art Museum, 
+
+Southampton, New York. 
+
+Receives commission for tapestry for Federal 
+Office Building, Portland, Oregon, from General 
+Services Administration, Washington, D.C. 
+
+Receives John Simon Guggenheim Foundation 
+Fellowship. 
+
+
+
+87 
+
+
+
+
+Jack Youngerman 
+Sculpture Grove: Limbus; 
+Lamina; Totem. 1981 
+Painted steel, 3 sculptures, 
+each 132 x 96 x 96" 
+Installation view, Central 
+Park, New York. Collection 
+Hartwood Acres, Fox 
+Chapel, Pittsburgh 
+
+
+
+1977 
+
+Begins producing cast fiberglas sculpture in 
+white, with technical assistance from Christ- 
+opher Janney, moldmaker and caster. 
+
+Receives commission for laminated fiberglas 
+sculpture, The Ohio, from The Three Rivers 
+Festival, Pittsburgh. 
+
+Late 1970s 
+
+Begins producing painted folding screens on 
+
+unprimed linen and wood. 
+
+1978 
+
+Invited by Sidney Feldman, President of Tygart 
+
+Steel, Pittsburgh, to create freestanding steel 
+
+and aluminum sculpture and open-form metal 
+
+screens. 
+
+1980 
+
+Begins oil, epoxy, polystyrene and fiberglas 
+
+relief paintings. 
+
+Instructor, Painting and Sculpture, School of 
+Visual Arts, New York, position he holds to the 
+present. 
+
+1981 
+May 
+First of four one-man exhibitions at Washburn 
+
+
+
+Gallery, Inc., New York, which continues to 
+represent him today. 
+
+Visiting Professor, Painting and Sculpture, 
+Hunter College, New York, position he holds to 
+the present. 
+
+1982 
+
+July 
+
+One-man exhibition of relief paintings and 
+
+sculpture at Art Gallery, Fine Arts Center, State 
+
+University of New York at Stony Brook. 
+
+Exhibits painted steel sculptures, Sculpture 
+Grove, in Central Park under auspices of Public 
+Art Fund, Inc., and the New York City Depart- 
+ment of Parks and Recreation. 
+
+1983 
+
+Begins producing cast fiberglas sculpture in 
+
+black with Janney. 
+
+Receives commission from Neiman-Marcus, 
+Chicago, for large-scale sculpture in laminated 
+wood, Dryad. 
+
+1984 
+
+Receives National Endowment for the Arts 
+
+Award. 
+
+
+
+88 
+
+
+
+
+Installation view, Betty Parsons Gallery, New York, 1961 
+
+
+
+Galerie Arnaud, Paris, Jack Youngerman, April 
+12-25, 1951 
+
+Betty Parsons Gallery, New York, Youngerman, 
+March 10-28, 1958 
+
+Dore Ashton, "Art: Work of Draftsmen," The 
+New York limes, March II, 1958, p. 25 
+
+Carlyle Burrows, "Art Notes," New York 
+Herald Tribune, March 15, 1958, section 1, 
+p. 9 
+
+Colette Roberts, "Youngerman chez 
+Parsons," France-Amerique, March 30, 1958, 
+p. 10 
+
+R. W[arren| D|ash|, "In the Galleries, "Arts, 
+vol. 32, March 1958, p. 57 
+
+J[ames) S[chuyler], "Reviews and Pre- 
+views," Art News, vol. 57, March 1958, p. 16 
+
+Betty Parsons Gallery, New York, Youngerman, 
+January 11-30, 1960 
+
+Dore Ashton, "Art: on the Younger Side," 
+The New York Times, January 14, 1960, p. 67 
+
+Carlyle Burrows, "Picasso Episodes, Dodd 
+Art, Three Young Moderns Show," New York 
+Herald Tribune, January 17, 1960, section 4, 
+p. 6 
+
+DIpnald] J[udd], "In the Galleries,". irts, 
+vol. 34, February 1960, p. 59 
+
+A[nne) S[ellye], "Reviews and Previews," 
+Art News, vol. 58, February 1960, p. 14 
+
+Dore Ashton, "Art," Arts £ Architecture, vol. 
+77, March 1960, p. 35 
+
+Betty Parsons Gallery, New York, Youngerman, 
+November 27-December 16, 1961 
+
+J.F., "New York: Noted in Passing, "Art 
+International, vol. V, Christmas 1961, p. 77 
+
+Galerie Lawrence, Paris, Youngerman, October 
+9-November 3, 1962. Catalogue 
+
+Pierre Schneider, "Paris,". \rt News, vol. 61, 
+December 1962, p. 52 
+
+Galleria dell'Ariete, Milan, Youngerman, 
+February 5-18, 1963. Brochure 
+
+Everett Ellin Gallery, Los Angeles, Jack Younger- 
+man, April 23-May 18, 1963 
+
+Betty Parsons Gallery, New York, Youngerman, 
+March 31-April 25, 1964 
+
+"Jack Youngerman," New York Herald 
+Tribune, April 4, 1964, p. 9 
+
+Irving Sandler, "In the Art Galleries," New 
+York Post, April 12, 1964, p. 14 
+
+
+
+ONE-MAN EXHIBITIONS 
+AND REVIEWS 
+
+
+
+89 
+
+
+
+
+Installation view, Betty Parsons Gallery, New York, 1965 
+
+
+
+N[atalie] E[dgar], "Reviews and Previews: 
+New York," Art News, vol. 63, May 1964, p. 15 
+
+D[onald] J[udd], "In the Galleries,". irts 
+Magazine, vol. 38, May-June 1964, pp. 37-38 
+
+Barbara Rose, "New York Letter," Art 
+International, vol. 8, September 1964, p. 78 
+
+Galerie Lawrence, Paris, Youngerman, April 
+23-May 11, 1965 
+
+Betty Parsons Gallery, New York, Youngerman, 
+and Byron Gallery, New York, Youngerman Ink 
+Drawings, September 28-October 23, 1965 
+
+David Bourdon, "Delectable or Becoming 
+So," The tillage Voice, October 7, 1965, p. 11 
+
+A[my] G[oldin], "In the Galleries," /Irts 
+Magazine, vol. 40, November 1965, p. 58 
+
+Dore Ashton, "Life and Movement without 
+Recession: New York Commentary," Studio 
+International, vol. 170. December 1965, 
+p. 250 
+
+W[illiam] B[erkson], "In the Galleries, "Arts 
+Magazine, vol. 40, December 1965, pp. 51-52 
+
+Lucy R. Lippard, "New York Letter," Art 
+International, vol. 10, January 20, 1966, p. 92 
+
+
+
+Worcester Art Museum, Massachusetts, Paintings 
+and Drawings by Jack Youngerman, November 
+14, 1965-January 2, 1966. Catalogue with text by 
+Daniel Catton Rich 
+
+Hayden Gallery, Massachusetts Institute of 
+Technology, Cambridge, Jack Youngerman 
+January 10-February 26, 1966. Catalogue with 
+text by Daniel Catton Rich 
+
+Galerie Adrien Maeght, Paris, Youngerman: 
+Lithographies, Gravures, Aquarelles, Dessins, 
+November 19-December 1966 
+
+Betty Parsons Gallery, New York, Youngerman, 
+October 24-November 11, 1967 
+
+Hilton Kramer, "Jack Youngerman," The 
+New York Times, October 28, 1967, p. 28 
+
+M[ichael] B[enedikt], "Reviews and 
+Previews, " Art News, vol. 66, November 
+1967, p. 66 
+
+J[eanne] S[iegel], "In the Galleries, "Arts 
+Magazine, vol. 42, November 1967, p. 63 
+
+Sidney Tillim, "Reviews: New York," 
+Artforum, vol. 6, January 1968, pp. 54-57 
+
+The Phillips Collection, Washington, D.C., 
+Youngerman: Recent Paintings and Drawings, 
+
+
+
+90 
+
+
+
+
+Installation view, Betty Parsons Gallery, New York, 1967 
+
+
+
+April 20-May 31, 1968. Catalogue with text by 
+M[arjorie] P[hillips] and Dale McConathy 
+
+"Youngerman's Bannerisms: Painting 
+Hashish Amid the Smog," Time, April 26, 
+1968, p. 76 
+
+Betty Parsons Gallery, New York, Jack Younger- 
+man: Inks and lldtercolors, October 29-Novem- 
+ber 16, 1968 
+
+Hilton Kramer, "Jack Youngerman," The 
+New ibrk Times, November 9, 1968, p. 30 
+
+M[arvin] L[ast], "Reviews and Previews," 
+Art News, vol. 67, November 1968, p. 79 
+
+C[indy] N[emser], "In the Galleries, "Arts 
+Magazine, vol. 43, November 1968, p. 57 
+
+Block Gallery, St. Louis, November 1970 
+
+John Brod Peters, "Youngerman Exhibit at 
+Block Gallery," St. Louis Globe-Democrat, 
+November 28-29, 1970, p. 6F 
+
+The Pace Gallery, New York, Youngerman: Recent 
+Paintings and Sculptures, February 13-March 10, 
+1971. Catalogue 
+
+John Gruen, "Galleries and Museums: 
+Point of Too Many Returns," New York 
+Magazine, March 8, 1971, p. 56 
+
+
+
+Kenneth Baker, "Reviews: New York," 
+Artforum, vol. 9, April 1971, p. 80 
+
+Willis Domingo, "New York Galleries,". Arts 
+Magazine, vol. 45, April 1971, p. 84 
+
+B[ruce] W[olmer], "Reviews and Previews," 
+Art News, vol. 70, April 1971, p. 74 
+
+The Pace Gallery, New York, Jack Youngerman: 
+New Works at Pace, September 23-October 21, 
+1972. Brochure 
+
+Grace Glueck, "Previews, "Art in America, 
+vol. 60, September-October 1972, p. 121 
+
+John Perreault, "Does Anyone llant All that 
+Art?," The Ullage Voice, October 5, 1972, 
+p. 29 
+
+Barbara Rose, "The Polarities of Painting," 
+New York Magazine, October 16, 1972, p. 86 
+
+E[llen] L[ubell], "Reviews: Galleries,'\4rts 
+Magazine, vol. 47, November 1972, p. 75 
+
+April Kingsley, "Reviews," Artforum, vol. 11, 
+December 1972, pp. 81-82 
+
+Alvin Smith, "New York Letter," Art Interna- 
+tional, vol. XIV, December 1972, p. 65 
+
+Portland Center for the Visual Arts, Oregon, 
+Inaugural Benefit Exhibition: Jack Youngerman, 
+
+
+
+91 
+
+
+
+
+
+
+
+
+Installation view. The Pace Gallery, New York, 1971 
+
+1967-72, November 10-December 3, 1972. 
+Catalogue with text by Fred Mueller and 
+statement by the artist 
+
+Claire Kelly, "Brilliant Youngerman Showing 
+'At Home' in Spacious PCVA," The Oregonian, 
+November 12, 1972, Women/Entertainment 
+Section, p. 14 
+
+Seattle Art Museum, Jack Youngerman, 
+December 15, 1972-January 14, 1973 
+
+Maggie Hawthorn [review], Seattle Post- 
+Intelligencer, December 24, 1972, p. Wl 
+
+Galerie Denise Rene, Paris, Youngerman, May 
+10-June 3, 1973. Catalogue with text by Barbara 
+Rose 
+
+"Youngerman," L'Aurore, May 23, 1973 
+
+Sabine Marchand, "Vendredi. . . Rive 
+Gauche," Le Figaro, May 25, 1973 
+
+Raoul-Jean Moulin, "Deux Americains a 
+Paris," L'Humanite, May 29, 1973 
+
+The Arts Club of Chicago, Jack Youngerman, 
+May 15-June 21, 1973. Catalogue 
+
+The Pace Gallery, Columbus, Ohio, Youngerman, 
+October-November 1973 
+
+Fendrick Gallery, New York, Youngerman, 
+
+
+
+December 1973-January 4, 1974 
+
+David Tannous, "Oualifying Unquantifi- 
+ables: At the Galleries" Washington Star- 
+News, December 13, 1974, p. E2 
+
+Pace Editions Inc., New York, Youngerman, 
+September 9-October 26, 1974 
+
+Joseph Dreiss, "Jack Youngerman at Pace 
+Editions, "Arts Magazine, vol. 49, November 
+1974, p. 17 
+
+The Hopkins Center Galleries, Dartmouth 
+College, Hanover, New Hampshire, Jack 
+Youngerman: Dartmouth College Artist-in-Resi- 
+dence, October 18-November 23, 1975. Brochure 
+
+The Pace Gallery, New York, Jack Youngerman: 
+New Sculpture, December 6, 1975-January 3, 
+1976 
+
+Hilton Kramer [review), The New York 
+Times, December 13, 1975, p. 19 
+
+Richard Lorber, "Arts Reviews, "Arts 
+Magazine, vol. 50, February 1976, p. 12 
+
+Julian Weissman, "New York Reviews,'Mrt 
+News, vol. 75, February 1976, p. 116 
+
+Carter Ratcliff, "Reviews: New York," 
+Artforum, vol. 14, March 1976, p. 62 
+
+
+
+92 
+
+
+
+Donald B. Kuspit, "New York: Jack Younger- 
+man at Pace,".4rt in America, vol. 64, 
+March-April 1976, pp. 103-104 
+
+The Parrish Art Museum, Southampton, New 
+York, Jack Youngerman, July 17-September 5, 
+1976. Catalogue 
+
+David L. Shirey, "The Colorless Cameleon," 
+The New York Times, August 1, 1976, p. 16 
+
+Tampa Bay Art Center, Florida, Jack younger- 
+man, October 1-23, 1977 
+
+Truman Gallery, New York, Jac k Youngerman: 
+Drawings 1964-68, March 24-April 22, 1978 
+
+The Arts Gallery, Baltimore, Jack Youngerman, 
+March 6-April 14, 1980 
+
+Washburn Gallery, Inc., New York, Jack younger- 
+man: Metal Sculptures and Screens (at Greene 
+Street) and Jack Youngerman: IVatercolors, 
+Embossed and Maquette (at 57th Street), May 9- 
+June 5, 1981. Brochure 
+
+John Perreault, "Of Screen Gems and 
+Outtakes," The Soho News, May 20, 1981, 
+p. 24 
+
+Carter Ratcliff, "Jack Youngerman at 
+Washburn," Art in America, vol. 69, 
+November 1981, p. 174 
+
+New York Institute of Technology, Old Westbury, 
+Jack youngerman, October 1-31, 1981 
+
+Washburn Gallery, Inc., New York (at Greene 
+Street and 57th Street), Jack Youngerman: Relief 
+Paintings 1979-82, April 29-June 4, 1982 
+
+Vivien Raynor, "Art: The Cerebral Fair- 
+ground of Jack Youngerman's Sculpture," 
+The New York Times, May 14, 1982, p. C21 
+
+Art Gallery, Fine Arts Center. State University of 
+New York at Stony Brook, Jack youngerman: 
+Relief Paintings and Sculpture 1978-82, July 
+15-September 10, 1982. Catalogue with statement 
+by the artist 
+
+Helen A. Harrison, "Curves and Spirals that 
+Blend Painting and Sculpture," The New 
+ybrk Times (Long Island edition), August 1, 
+1982, p. 15 
+
+Patricia Windrow, "Graceful, Twirling 
+Artworks," The Three Ullage Herald, 
+August 18, 1982 
+
+Malcolm Preston, "Art Review Submarine 
+Suggestion," Newsday, September 1, 1982, 
+part II, p. 59 
+
+Alex Rosenberg Gallery, Transworld Art, New 
+
+
+
+York, Jack Youngerman: The Yantra Series, 
+January 20-February 19, 1983 
+
+Ronny Cohen, "New Editions, " Art News, 
+vol. 81, September 1982, p. 73 
+
+Washburn Gallery, Inc., New York, Jack Younger- 
+man: Paintings on Paper (at Greene Street) and 
+Jack youngerman: Relief Paintings (at 57th 
+Street), May 1-31, 1985. Brochure 
+
+Washburn Gallery, Inc., New York, Jack younger- 
+man: Works on Paper 1955-85 (at Greene Street), 
+and Jack Youngerman: Cast Fiberglass Sculptures 
+(at 57th Street), May 1-31, 1985. Brochure with 
+statement by the artist 
+
+Vivien Raynor, "Art: From Youngerman, 
+Fiberglass Sculptures," The New York 
+Times, May 10, 1985, p. C26 
+
+
+
+93 
+
+
+
+Galerie Maeght, Paris, Les Mains eblouies, 
+October 6-30, 1950 
+
+Galerie Suzanne Michel, Paris, Espece Lumiere, 
+December 19, 1951-January 12, 1952 
+
+La Galerie Bourlaouen, Nantes, Abstractions: 
+Quelques Jeunes Artistes, January 18-February 1, 
+1952 
+
+Galerie Denise Rene, Paris, Sept, February 8-29, 
+1952 
+
+Gres Gallery, Washington, D.C., Sculptures by 
+Negret-Paintings by Youngerman, September 
+19-October 19, 1957. Brochure 
+
+Senta Bier, "Art in Kentuckiana," The 
+Courier-Journal (Louisville), October 20, 
+1957. Section 4, p. 9 
+
+Department of Fine Arts, Carnegie Institute, 
+Pittsburgh, The 1958 Pittsburgh Bicentennial 
+International Exhibition of Contemporary 
+Painting and Sculpture, December 5, 1958- 
+February 8, 1959. Catalogue with text by Gordon 
+Bailey Washburn 
+
+Hilton Kramer, "Report on the Carnegie 
+International, "Arts, vol. 33, January 1959, 
+pp. 30-38 
+
+The Corcoran Gallery of Art, Washington, D.C., 
+Tiventy-Sixth Biennial Exhibition of Contempo- 
+rary American Painting, January 17-March 8, 
+
+1959. Catalogue 
+
+University of Boulder, Colorado, 12th Annual 
+Creative Arts Program Summer Exhibition, June 
+17-August 22, 1959. Catalogue 
+
+David Herbert Gallery, New York, Initial Exhibi- 
+tion, October 5-31, 1959. Catalogue with text by 
+M.C. Sonnabend 
+
+The Museum of Modern Art, New York, Sixteen 
+Americans, December 17, 1959-February 14, 
+
+1960. Catalogue with statements by the artists 
+et al. 
+
+Stuart Preston, "Art: Sixteen Americans," 
+The New York Times, December 16, 1959, 
+p. 50 
+
+Katharine Kuh, "A Contemporary Canvass 
+of the American Canvas," Saturday Review, 
+January 23, 1960, vol. XLVIII, pp. 29, 40 
+
+Thomas B. Hess, "U.S. Art, Notes from 
+I960 " Art News, vol. 58, January 1960, 
+pp. 25-29, 56 
+
+William Rubin, "Younger American 
+Painters,". irt International, vol. IV, 1960, 
+pp. 24-31 
+
+
+
+Kimura Gallery, Tokyo, 6 American Painters, 1959 
+
+Whitney Museum of American Art, New York, 
+Business Buys American Art, March 17-April 24, 
+
+1960. Catalogue 
+
+Galerie Neufville, Paris, New American Painting, 
+May 3-31, 1960 
+
+Wildenstein Gallery, New York, Fifth Interna- 
+tional Hallmark Art Award, 1960. Catalogue 
+with text by Alfred Frankfurter 
+
+The Corcoran Gallery of Art, Washington, D.C., 
+27th Biennial Exhibition of Contemporary 
+American Painting, January 14-February 26, 
+
+1961. Catalogue with text by Adja Yunkers 
+
+Messuhalli, Helsinki, Amerikka Tanaan, May 
+26-June 11, 1961 
+
+Solomon R. Guggenheim Museum, New York, 
+American Abstract Expressionists and Imagists, 
+October 13-December 31, 1961. Catalogue with 
+text by H.H. Arnason 
+
+Department of Fine Arts, Carnegie Institute, 
+Pittsburgh, The 1961 Pittsburgh International 
+Exhibition of Contemporary- Painting and 
+Sculpture, October 27, 1961-January 7, 1962. 
+Catalogue with text by Gordon Bailey Washburn 
+
+William Rubin, "The International Style: 
+Notes on the Pittsburgh Triennial," Art 
+International, vol. V, November 20, 1961, 
+pp. 26-34 
+
+The Museum of Modern Art, New York, Recent 
+Acquisitions: Painting and Sculpture, December 
+18, 1961 -February 25, 1962. Checklist 
+
+The Art Institute of Chicago, 65th Annual 
+American Exhibition: Some Directions in 
+Contemporary Painting and Sculpture, January 
+5-February 18, 1962. Catalogue 
+
+Seattle World's Fair,.4r/ since 1950, April 21- 
+October 21, 1962. Catalogue with texts by Sam 
+Hunter and Willem Sandberg. Traveled to Rose 
+Art Museum, Brandeis University, Waltham, 
+Massachusetts, November 21-December 23 
+
+United States Information Agency, Washington, 
+D.C. ( organizer),. Art: USA: Now. Brochure with 
+texts by Lee Nordness and Allen S. Weller. 
+Traveled to Milwaukee Art Center; Bridgestone 
+Gallery, Tokyo; Honolulu Academy of Arts; Royal 
+Academy of Arts, London; Zeppeion, Athens; 
+Palazzo Venezia, Rome; Haus Der Kunst, 
+Munich; Casino de Monte Carlo, Salons Prives, 
+Monaco; Kongresshalle, Berlin; Charlottenborg, 
+Copenhagen; Liljevalchs Konsthall, Stockholm; 
+Civico Padiglione d'Arte Contemporanea, Milan; 
+Palais des Beaux Arts, Brussels; Municipal 
+
+
+
+94 
+
+
+
+GROUP EXHIBITIONS 
+AND REVIEWS 
+
+
+
+Gallery of Art, Dublin; Cason del Buen Retiro, 
+Madrid; Kunsimuseum, Lucerne; Musee d'Art 
+Moderate de la Ville de Paris; Akademie der 
+bildenden kiinste, Vienna, 1962-63 
+
+Lee Nordness, "The Johnson Collection," 
+The Art Gallery, May 1962, pp. 35-48 
+
+Thomas B. Hess, "Big Business Taste: The 
+Johnson Collection, " Art News, vol. 61, 
+October 1962, pp. 32-33, 55-56 
+
+Keith Roberts, "Current and Forthcoming 
+Exhibitions," The Burlington Magazine, 
+vol. 105, March 1963, pp. 135-136 
+
+Everett Ellin Gallery, Los Angeles, Major 
+Paintings from the Everett Ellin Gallery Collec- 
+tion, January 14-February 9, 1963 
+
+Jules Langsner, "Art News from Los 
+Angeles," Art News, vol. 62, Summer 1963, 
+p. 47 
+
+The Corcoran Gallery of Art, Washington, D.C., 
+28th Biennial Exhibition of Contemporary 
+American Painting, January 18-March 3, 1963. 
+Catalogue. Circulated in modified form by The 
+American Federation of Arts, New York, to 
+Wabash College, Crawfordsville, Indiana, April 
+1-22; Library of Winston-Salem, North Carolina, 
+May 6-27; University of Southern Florida, 
+Tampa, July 15-August 5; The Florida State 
+University, Tallahassee, September 23-October 
+14; University of Oklahoma, Norman, October 
+28-November 18; Mint Museum of Art, Charlotte, 
+North Carolina, December 2-23; Fort Wayne Art 
+Museum, Indiana, January 6-27, 1964; Witte 
+Memorial Museum, San Antonio, February 
+10-March 3; Montclair Art Museum, New Jersey, 
+March 22-April 12 
+
+Frank Getlein, "Current and Forthcoming 
+Exhibitions: Washington," The Burlington 
+Magazine, vol. 105, March 1963, p. 141 
+
+Galerie Denise Rene, Paris, Esquisse d'un Salon, 
+May-September 1963. Catalogue with texts by 
+Jacques Lassaigne and Jean-Clarence Lambert 
+
+Graham Gallery, New York, Banners, June 4-28. 
+1963 
+
+"Banners Fly in Art World," Architectural 
+Record, vol. 133, June 1963, p. 84 
+
+The Washington Gallery of Modern Art, 
+Washington, D.C., Formalists, June 6-July 7, 
+1963. Catalogue with text by Adelyn D. Breeskin 
+
+Barbara Rose, " 'Formalists' at the 
+Washington Gallery of Modern Art,".4rt 
+International, vol. VII, September 1963, 
+pp. 42-43 
+
+
+
+Poses Institute of Fine Arts, Brandeis University, 
+Waltham, Massachusetts (organizer). New 
+Directions in American Painting. Catalogue with 
+text by Sam Hunter. Traveled to Munson- 
+Williams-Proctor Institute, Utica, New York, 
+December 1, 1963-January 5, 1964; Isaac 
+Delgado Museum of Art, New Orleans, February 
+7-March 8; Atlanta Art Association, March 
+18-April 22; The J.B. Speed Art Museum, 
+Louisville, May 4-June 7; Art Museum, Indiana 
+University, Bloomington, June 22-September 20; 
+Washington University, St. Louis, October 5-30; 
+The Detroit Institute of Arts, November 10- 
+December 6 
+
+The Jewish Museum, New York, Black and White 
+Paintings, December 12, 1963-February 5, 1964. 
+Catalogue 
+
+Tokyo, 7th International Art Exhibition, 1963 
+
+Betty Parsons Gallery, New York, The Painters 
+Eye, March 3-28, 1964. Brochure with texts by 
+Dale McConathy and Jock Truman 
+
+Geigy Chemical, Ardsley, New York, Art Exhibit, 
+April 1964. Catalogue with text by Charles A. 
+
+Sinter 
+
+Solomon R. Guggenheim Museum, New York, 
+American Drawings, September 17-October 27, 
+1964. Catalogue with text by Lawrence Alloway. 
+Traveled to Museum of Art, University of 
+Michigan, Ann Arbor, November 11-December 
+13; Grand Rapids Art Museum, Michigan, 
+January 10-February 7, 1965; University Gallery, 
+University of Minnesota, Minneapolis, February 
+24-March 21; Seattle Art Museum, April 8-May 
+2; Denver Art Museum, June 6-July 4; Dallas 
+Museum of Fine Arts, July 25-August 22; 
+Columbus Gallery of Fine Arts, Ohio, September 
+12-October 10; Krannert Art Museum, University 
+of Illinois, Champaign, November 14-December 
+25 
+
+The Larry Aldrich Museum, Ridgefield, Connec- 
+ticut, Selections from the Larry Aldrich Contem- 
+porary Collection, 1951-64, 1964. Catalogue 
+
+Museum of Art, University of Michigan, Ann 
+Arbor, One Hundred Contemporary American 
+Drawings, February 24-March 28, 1964. 
+Catalogue with text by Dore Ashton 
+
+Krannert Art Museum, University of Illinois, 
+Champaign, Twelfth Exhibition of Contemporary 
+American Painting and Sculpture, March 7-April 
+11, 1965. Catalogue with text by Allen S. Weller 
+
+Whitney Museum of American Art, New York, A 
+Decade of American Drawings 1955-65, April 
+28-June 6, 1965. Catalogue 
+
+
+
+95 
+
+
+
+De Cordova Museum, Lincoln, Massachusetts, 
+White on White, October 10-November 21, 1965. 
+Catalogue with text by Frederick P. Walkey 
+
+The Contemporaries, New York, Black and 
+White, November 16-Deeember 4, 1965. Brochure 
+
+Richard Feigen Gallery, Chicago, Drawings, 
+New York 1965, December 18, 1965-January 15, 
+1966 
+
+Norfolk Museum of Arts and Sciences, Virginia, 
+Contemporary Art USA, March 18-April 10, 1966. 
+Catalogue 
+
+Musee cantonal des beaux-arts. Palais du 
+Rumine, Lausanne, 2e Salon international de 
+Galeries pilotes Lausanne: Artistes et decouvreurs 
+de notre temps, June 12-October 2, 1966. 
+Catalogue with text by Rene Berger 
+
+Museum Boymans-van Beuningen, Rotterdam, 
+Amerikaanse Schilderijn Collages, September 
+20-October 30, 1966. Catalogue with text by R. 
+Hammacher-van den Brande 
+
+Solomon R. Guggenheim Museum, New York, 
+Systemic Painting, September 21-November 27, 
+1966. Catalogue with text by Lawrence Alloway 
+
+The Corcoran Gallery of Art, Washington, D.C., 
+}0th Biennial Exhibition of Contemporary 
+American Painting, February 24-April 9, 1967. 
+Catalogue with text by Hermann Warner 
+Williams, Jr. Circulated in modified form by The 
+American Federation of Arts, New York, to 
+Kresge Art Center, Michigan State University, 
+East Lansing, June 8-July 29; Andrew Dickson 
+White Museum of Art, Cornell University, 
+Ithaca. August 12-September 2; Oglebay Insti- 
+tute, Mansion Museum, Wheeling, West Virginia, 
+September 16-October 7; Junior League of 
+Amarillo, Texas, October 21-November 11; Art 
+Department, Fresno State College, California, 
+November 25-December 16; Yellowstone Art 
+Center, Billings, Montana, December 30, 
+1967-January 20, 1968; The Reading Public 
+Museum and Art Gallery, Pennsylvania, February 
+3-24; Department of Art, Coe College, Cedar 
+Rapids, Iowa, March 9-30; Edwardsville Campus 
+Fine Arts Division, Southern Illinois University, 
+April 13-May 4; Hollywood Art Center, Florida, 
+May 18-June 8; Tennessee Fine Arts Center, 
+Nashville, July 27-August 17; University Gallery, 
+University of Florida, Gainesville, September 
+4-25; Quincy Art Club, Illinois, October 6-27; 
+Arkansas State University, State University, 
+December 29, 1968-January 22, 1969; North 
+Texas State University, Denton, February 
+9-March 2; St. Edward's University, Austin, 
+
+
+
+Texas, March 23-April 13; Abilene Fine Arts 
+Museum, Texas, May 4-25 
+
+Gene Baro, "Washington and Detroit," 
+Studio International, vol. 174, July-August 
+1967, pp. 49-51 
+
+Multiples Inc., New York, February Exhibition 
+196 7, February 1967 
+
+The Jewish Museum, New York, Large Scale 
+American Paintings, July 11-September 17, 1967. 
+Checklist 
+
+Washington Gallery of Modern Art, Washington, 
+D.C., Art for Embassies, September 30-November 
+5, 1967. Catalogue with text by Henry Geldzahler 
+
+Weatherspoon Art Gallery, University of North 
+Carolina at Greensboro, Art on Paper Invita- 
+tional '67, October 15-November 22, 1967. 
+Catalogue with text by Gilbert F. Carpenter 
+
+Museum of Art, Carnegie Institute, Pittsburgh, 
+1967 Pittsburgh International Exhibition of 
+Contemporary Painting and Sculpture, October 
+27, 1967-January 7, 1968. Catalogue with text by 
+Gustave von Groschwitz 
+
+Museum of Art, University of Michigan, Ann 
+Arbor, Michigan Alumni Collections Exhibition, 
+October 1967 
+
+Whitney Museum of American Art, New York, 
+1967 Annual Exhibition of Contemporary 
+Painting, December 13, 1967-February 4, 1968. 
+Catalogue 
+
+John Canaday, "The Whitney: Not Much 
+Luck in the Bushes," The New lbrk Times, 
+December 17, 1967, p. 39 
+
+University of Kentucky Art Gallery, Lexington, 
+Graphics '68: Recent American Prints, January 
+14-February 11, 1968. Catalogue with text by 
+Edward Bryant 
+
+The Jewish Museum, New York, Suites: Recent 
+Prints, March 12-May 12, 1968. Catalogue 
+
+Finch College Museum of Art, New York, Betty 
+Parsons's Private Collection, March 13-April 24, 
+1968. Catalogue with text by Eugene C. Goossen 
+
+University Art Museum, University of California, 
+Berkeley, Selection 1968: Recent Accessions to the 
+University Art Collections, August 6-September 
+15, 1968. Catalogue 
+
+Museum of Art, Munson-Williams-Proctor 
+Institute, Utica, New York, American Prints 
+Today, October 13-November 17, 1968. Brochure 
+
+Georgia Museum of Art, The University of 
+Georgia, Athens, American Painting: the 1950's, 
+November 3-December 1, 1968. Catalogue with 
+
+
+
+96 
+
+
+
+text by Gordon B. Washburn. Circulated by The 
+American Federation of Arts, New York, to 
+Wichita Art Museum, Kansas, December 22, 
+1968-January 19, 1969; Charles &amp; Emma Frye 
+Art Museum, Seattle, February 9-March 9; 
+Roberson Memorial Center for the Arts &amp; 
+Sciences, Binghamton, New York, May 18-June 
+15; University of Pittsburgh, July 6-August 3; 
+The Huntington National Bank, Columbus, 
+Ohio, September 8-October 6; Edmonton Art 
+Gallery, Alberta, Canada, October 26-November 23 
+
+Charles E. Slatkin, Inc. Galleries, New York, 
+American Tapestries, 1968. Catalogue with text 
+by Mildred Constantine. Traveled to thirty 
+American and Canadian museums, including 
+Museum of Art, Rhode Island School of Design, 
+Providence; La Jolla Museum of Contemporary 
+Art; Cincinnati Art Museum; John Herron Art 
+Museum, Indianapolis; Rochester Memorial Art 
+Gallery, New York; Everson Art Museum, 
+Syracuse; Wadsworth Atheneum, Hartford; The 
+Denver Art Museum; Honolulu Academy of Arts; 
+The McNay Art Institute, San Antonio; Expo 
+
+1970, Osaka, Japan, 1968-70 
+
+The Wilmington Society of the Fine Arts, 
+Delaware Art Center, Contemporary American 
+Painting and Sculpture from \ew York Galleries, 
+March 28-April 27, 1969. Brochure with text by 
+Rowland Elzea 
+
+The Jewish Museum, New York, Superlimited: 
+Books, Boxes and Things, April 16-June 29, 1969. 
+Catalogue with text by Susan Tumarkin Good- 
+man 
+
+The J.L. Hudson Gallery, Detroit, Graphics for 
+the Young Collector, July 3-31, 1969 
+
+Whitney Museum of American Art, New York, 
+
+1969 Annual Exhibition of Contemporary 
+American Painting, December 16, 1969-February 
+1, 1970. Catalogue 
+
+John Canaday, "Art: The Whitney's 38th 
+Annual Aims to Sum Up," The New York 
+Times, December 17, 1969, p. 60 
+
+Carter Ratcliff, "New York," Art Interna- 
+tional, vol. XIV, Summer 1970, pp. 141-142 
+
+Fondation Maeght, St. Paul-de-Vence, France, 
+Tart vivant aux Etats-Unis, July 16-September 
+30, 1970. Catalogue with text by Dore Ashton 
+
+Museum of Art, Carnegie Institute, Pittsburgh, 
+
+1970 Pittsburgh International Exhibition of 
+Contemporary Art, October 30, 1970-January 10, 
+
+1971. Catalogue with text by Leon Anthony Arkus 
+
+Margo Leavin Gallery, Los Angeles, Pace in Los 
+Angeles, December 1970 
+
+
+
+Kovler Gallery, Chicago, American and European 
+Tapestries, December 1970-January 1971 
+
+Pace Editions Inc., New York, 1970 
+
+J[eanne] S(iegel), "Reviews and Previews." 
+Art News, vol. 69, December 1970, p. 59 
+
+Van Deusen Galleries, Kent State University 
+School of Art, Ohio, Kent State Fifth Invitational, 
+April 4-25, 1971. Catalogue with text by John 
+Perreault 
+
+The University of Iowa Museum of Art, Iowa 
+City, Living with Art: Selected Loans from the 
+Collection of Mr. &amp; Mrs. Walter A. Netsch, 
+September 15-October 21, 1971. Catalogue with 
+text by Walter A. Netsch 
+
+The Parrish Art Museum, Southampton, New- 
+York, Betty Parsons ' Private Collection: Paintings 
+and Drawings 1940- 72, August 12-September 10, 
+1972. Brochure 
+
+Pace Editions Inc., New York, The Gloria F. Boss 
+Tapestries, September 23-October 25, 1972 
+
+The Aldrich Museum of Contemporary Art, 
+Ridgefield, Connecticut, Fall Exhibitions 1973, 
+September 16-December 16, 1973. Catalogue 
+
+Weatherspoon Art Gallery, University of North 
+Carolina at Greensboro, Art on Paper 197}, 
+November 18-December 16, 1973. Catalogue 
+
+Whitney Museum of American Art Downtown 
+Branch, New York, Nine Artists/Coenties Slip, 
+January 10-February 14, 1974. Catalogue 
+
+Hilton Kramer, "Romantic 'Nine Artists/ 
+Coenties Slip,' " The New York Times, 
+January 12, 1974, p. 29 
+
+Fendrick Gallery, The Art Society of the Interna- 
+tional Monetary Fund, Washington, D.C., The 
+American Painter as Printmaker, September 
+19-October 11, 1974. Catalogue with text by 
+Daniel Fendrick 
+
+Anchorage Historical and Fine Arts Museum, 
+National Invitational Prints, October 4-29, 1974. 
+Catalogue 
+
+Parsons-Truman Gallery, New York, Drawings, 
+December 3-21, 1974 
+
+Pace Editions Inc., New York, Tapestries, Sep- 
+tember-October 1975 
+
+Museum of Art, Carnegie Institute, Pittsburgh, 
+Pittsburgh Corporations Collect, October 25, 
+1975-January 4, 1976. Catalogue with text by 
+Leon A. Arkus 
+
+The University of Texas Art Museum, Austin, 
+Abstract Expressionists and Imagists: A Betrospec- 
+
+
+
+97 
+
+
+
+tive I tew, February 1 -March 28, 1976. Catalogue 
+with text by Earl A. Powell III 
+
+New Orleans Museum of Art, Fine Arts in New 
+Federal Buildings, April 1-May 16, 1976. Catalogue 
+
+Los Angeles County Museum of Art, Private 
+Images: Photographs by Painters, January 
+18-March 27, 1977 
+
+Rosa Esman Gallery, New York, Photonotations 
+II, May 3-June 4, 1977. Catalogue with text by 
+A.H. Esman 
+
+John Weber Gallery, New York, Drawings for 
+Outdoor Sculpture 1946-77, November 1977. 
+Catalogue. Traveled to Mead Gallery, Amherst 
+College, Massachusetts; University of California 
+Art Galleries, Santa Barbara; La Jolla Museum 
+of Contemporary Art; Hayden Gallery, Mas- 
+sachusetts Institute of Technology, Cambridge 
+
+Institut Francais d'Athenes, Athens, Structures, 
+Mouvement, Couleur de Mondrian a Nos Jours, 
+January 12-February 2, 1978 
+
+Solomon R. Guggenheim Museum, New York, 
+Art in America \fter World War II, January 
+18-February 25, 1979 
+
+The Corcoran Gallery of Art, Washington, D.C., 
+Art Inc.: American Paintings from Corporate 
+Collections, June 12-July 14, 1979. Catalogue 
+
+Museo de Arte Moderno de Bogota, 25 Ahos 
+Despues, September 1979. Catalogue with text 
+by John Stringer 
+
+Fine Arts Gallery, California State University, 
+Northridge, Americans in Paris: The 50s, October 
+22-November 30, 1979. Catalogue with text by 
+Merle Schipper 
+
+Hirshhorn Museum and Sculpture Garden, 
+Smithsonian Institution, Washington, D.C., The 
+Fifties: Aspects of Painting in New York, May 
+22-September 21, 1980. Catalogue with text by 
+Phyllis Rosenzweig 
+
+National Collection of Fine Arts, Smithsonian 
+Institution, Washington, D.C., Across the Nation: 
+Fine Art for Federal Buildings, 1972-79, June 
+4-September 1, 1980. Catalogue with text by 
+Joshua C. Taylor. Traveled to Hunter Museum of 
+Art, Chattanooga, Tennessee, January 11 -March 
+1, 1981 
+
+American Academy and Institute of Arts and 
+Letters, New York, Hassam and Speicher Fund 
+Purchase Exhibition, November 17-December 
+21, 1980. Catalogue 
+
+Washburn Gallery, Inc., New York (at Greene 
+Street), From Matisse to Abstract Painting, 
+November 1-December 24, 1980. Catalogue 
+
+
+
+Institute for Art and Urban Resources, Inc., P.S. 
+1, Long Island City, New York, Watereolors, 
+December 7, 1980-January 25, 1981 
+
+Solomon R. Guggenheim Museum, New York, 
+Contemporary Americans: Museum Collection 
+and Recent Acquisitions, January 29-April 12, 1981 
+
+National Gallery of Art, Washington, D.C., 
+Contemporary American Prints and Drawings 
+1940-80, February 1-July 17, 1981. Catalogue 
+
+Alex Rosenberg Gallery, Transworld Art, New 
+York, Romantic Drawings, February 26-March 
+28, 1981 
+
+Alex Rosenberg Gallery, Transworld Art, New 
+York, Form Color Line, July 1-31, 1981 
+
+Washburn Gallery, Inc., New York (at Greene 
+Street), lira Bolotowsky, Leon Polk Smith, Jack 
+Youngerman, September-October 1981 
+
+Ausstellungsleitung Haus der Kunst, Munich, 
+Amerikanische Malerei, 19)0-80, November 14, 
+1981-January 31, 1982. Catalogue with text by 
+Tom Armstrong 
+
+Museum of Art, Rhode Island School of Design, 
+Providence, Art for Your Collection XI III, 
+December 4-13, 1981 
+
+Arras Gallery Ltd., New York, Cast Paper and 
+Intaglio Multiples, March 6-April 3, 1982 
+
+Washburn Gallery, Inc., New York (at Greene 
+Street), American Artists Abroad 1900-1950, 
+March 18-April 24, 1982. Catalogue 
+
+Solomon R. Guggenheim Museum, New York, 
+The New York School: Four Decades, July 
+1 -August 29, 1982. Brochure with text by Lisa 
+Dennison 
+
+Modern Master Tapestries Inc., New York, Tenth 
+Anniversary Exhibition: Past, Present and 
+Future, September 22-October 19, 1982 
+
+Heath Gallery , Inc. Atlanta, Out of the South: An 
+Exhibition of Works by Artists Born in the South, 
+October 5-9, 1982. Catalogue with text by 
+Donald B. Kuspit 
+
+The High Museum of Art, Atlanta, Chase 
+Manhattan Bank: The First Ten Years of Collect- 
+ing, 1959-69, October 5-31, 1982. Catalogue with 
+text by Peter Morrin 
+
+Betty Parsons Gallery, New York. Painting, May 
+25-June 18, 1983 
+
+Washburn Gallery, Inc., NewYbrk (at 57th 
+Street), Under Glass, July-August 1983 
+
+Fondation Nationale des Arts Graphiques et 
+Plastiques, Paris, Art contre/against Apartheid, 
+November-December 1983 
+
+
+
+98 
+
+
+
+The Currier Gallery of Art, Manchester, New 
+Hampshire, 25 Years of Acquisitions, January 
+8-February 12, 1984. Brochure with text by 
+Robert M. Doty 
+
+The Aklrich Museum of Contemporary Art, 
+Ridgefield, Connecticut, Intermedia: Between 
+Painting and Sculpture, January 14-May 6, 1984. 
+Brochure 
+
+Franklin Furnace Archives Inc., New York, Mail 
+Art Then and Now, January 18-March 10, 1984 
+
+Alex Rosenberg Gallery, Transworld Art, New 
+York, Techniques in Printmaking, February 3-27, 
+1984 
+
+National Gallery of Art, Washington, D.C., The 
+Folding Image, March 4-September 3, 1984. 
+Catalogue with text by Michael Komanecky and 
+Virginia Fabbri Butera 
+
+Jan Geniesse, "Resplendent Show of Artists' 
+Folding Screens," The New York Times, 
+March 8, 1984, p. CIO 
+
+Nina Freudenheim Gallery, Buffalo, Drawings: 
+New Dimensions, March 17-April 11, 1984 
+
+Owensboro Museum of Fine Arts, Kentucky, 
+Kentucky Expatriates: Natives and Notable 
+Visitors, The Early 1800s to the Present, April 
+29-June24, 1984' 
+
+Ann Whittinghill. "Exhibit Focuses on 
+History of Kentucky Art," Messenger- 
+Inquirer, April 27, 1984, pp. 1D-2D 
+
+Diane Heilenman, "Kentucky Expatriates: 
+Natives and Notable Visitors," The Courier- 
+Journal, April 29, 1984, pp. 1, 16 
+
+Washburn Gallery, Inc., New York (at Greene 
+Street),. Artists of the Gallery, September 
+ll-October27, 1984 
+
+Stephen Westfall, "Jack Youngerman at 
+Washburn," Art in America, vol. 72, 
+November 1984, p. 157 
+
+Washburn Gallery, Inc., New York (at Greene 
+Street), Action/Precision: The 1950s, January 
+15-February 23, 1985 
+
+Louis K. Meisel Gallery, New York,. Abstract 
+Painting Redefined, February 16-March 30, 1985. 
+Catalogue with text by Carter Ratcliff 
+
+Grace Glueck, "Art: Abstract Painters 
+Regain Old Charisma," The New York Times, 
+March 8, 1985, section 3, p. 24 
+
+The Equitable Life Assurance Society of the 
+United States and The Mendik Company, New 
+York, Exuberant Abstraction, March 11-May 30, 
+1985. Catalogue with text by Peter Frank 
+
+
+
+The Gallery of Applied Arts, New York, Hidden 
+Angles: Contemporary Folding Screens, May 
+2-June 15, 1985 
+
+Solomon R. Guggenheim Museum, New York, 
+Transformations in Sculpture: Four Decades of 
+American and European Art, November 22, 
+1985-February 16, 1986. Catalogue with text by 
+Diane Waldman 
+
+
+
+99 
+
+
+
+ON THE ARTIST 
+
+"New Talent in the U.S.A. 1959; Painting,". Art in 
+America, vol. 47, Spring 1959, pp. 46-47 
+
+Stephen Birmingham, "Young Men of Manhat- 
+tan," Holiday, March 1961 
+
+Michael Benedikt, "Youngerman: Liberty in 
+Limits," Art News, vol. 64, September 1965, pp. 
+43-45, 54-55 
+
+Barbara Rose, "An Interview with Jack Younger- 
+man, " Artforum, vol. 4, January 1966, pp. 27-31 
+
+Patricia Boyd Wilson, "The Home Forum," The 
+Christian Science Monitor, March 8, 1967 
+
+"Drawings," Harper's, October 1968 
+
+Kenneth Baker, The Christian Science Monitor, 
+March 15, 1969, p. 8 
+
+Barbara Rose, "Getting It Physical," logue, 
+February 1971, p. 143 
+
+Colette Roberts, "Jack Youngerman, "Archives of 
+American Art Journal, vol. 12, 1972, pp. 3-10; 
+reprinted as "Jack Youngerman Talks with 
+Colette Roberts," Archives of American Art 
+Journal, vol. 17, 1977, pp. 10-15 
+
+Roger Bordier, "Youngerman or Dialogue with 
+Forms," Cimaise: Art et Architecture Actuels, 
+May-July 1973 
+
+Denise Bratton, "An Interview with Jack 
+Youngerman: The New Sculpture." Arts 
+Magazine, vol. 50. December 1975, pp. 90-91 
+
+BY THE ARTIST 
+
+"Portrait: Jack Youngerman," Art in America, 
+vol. 56, September-October 1968, pp. 52-55 
+
+"Statement," Art Now: New York, vol. 2, 1970, n.p. 
+
+
+
+New York studio, 1985 
+
+
+
+100 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+
+^c 
+
+
+
+
+■r~ * 
+
+
+
+tl 
+
+
+
+
+
+r- 
+
+
+
+* 
+
+
+
+
+
+1 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+COLOR 
+
+Geoffrey Clements, courtesy Washburn Gallery, 
+Inc., New York: p. 29 
+
+Greenberg-May Prod. Inc., Buffalo: cat. no. 27 
+
+David Heald: cat. nos. 13, 18, 33, 38, 40 
+
+David Heald and Myles Aronowitz: cat. nos. 
+37,46 
+
+Noel Rowe: cat. no. 35 
+
+BLACK AND WHITE 
+
+© The Art Institute of Chicago, All rights 
+reserved, courtesy Georgia O'Reeffe: fig. 6 
+
+Oliver Baker: fig. 12 
+
+Rudolph Burckhardt: cat. no. 5, pp. 9, 90 
+
+Rudolph Burckhardt, courtesy The Museum of 
+Modern Art, New York: cat. no. 15 
+
+Geoffrey Clements, courtesy Whitney Museum 
+of American Art, New York: cat. no. 2 
+
+Geoffrey Clements, courtesy Washburn Gallery, 
+Inc., New York: cat. no. 34 
+
+David Heald: cat. nos. 32, 47, 49-59, pp. 10, 
+100-101 
+
+David Heald and Myles Aronowitz: cat. nos. 8, 
+10, 11, 31, 39, 41, 48, fig. 5, p. 87 
+
+Albert Mozell: cat. no. 29 
+
+Albert Mozell, courtesy Washburn Gallery, Inc., 
+New York: cat. nos. 36, 42, 44, 45 
+
+Hans Namuth: fig. 13, p. 84 
+
+Danielle Padwa: p. 103 
+
+Eric Pollitzer: cat. no. 25, p. 91 
+
+Renate Ponsold: p. 2 
+
+Alain Renais: p. 6 
+
+Noel Rowe: cat. nos. 1, 9, 14, 16, 28 
+
+Sadin-Schnair Photography, Chicago: cat. no. 4 
+
+Rafael Salazar: cat. no. 7 
+
+William Suttle: p. 92 
+
+Malcolm Varon Associates, courtesy Georgia 
+O'Reeffe: fig. 7 
+
+Courtesy Jack Youngerman: fig. 1 
+
+
+
+
+First Fulton Street studio. New York, 1967 
+
+
+
+102 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+The Solomon R. Guggenheim Foundation 
+
+HONORARY TRUSTEES IN PERPETUITY 
+
+Solomon R. Guggenheim, Justin R. Thannhauser, Peggy Guggenheim 
+
+president Peter Lawson-Johnston 
+
+vice president The Right Honorable Earl Castle Stewart 
+
+trustees Elaine Dannheisser, Michel David-Weill, Carlo De Benedetti, Joseph W. Donner, Robin Chandler 
+Duke, Robert M. Gardiner, John S. Hilson, Harold W. McGraw, Jr., Wendy L-J. McNeil, Thomas M. 
+Messer, Bonnie Ward Simon, Seymour Slive, Peter W. Stroh, Stephen C. Swid, Rawleigh Warner, Jr., 
+Michael F. Wettach, Donald M. Wilson, William T. Ylvisaker 
+
+advisory board Donald M. Blinken, Barrie M. Damson, Donald M. Feuerstein, Linda LeRoy Janklow, Seymour 
+M. Klein, Denise Saul, Hannelore Schulhof 
+
+secretary-treasurer Theodore G. Dunker 
+
+staff Joy N. Fearon, Assistant Treasurer 
+
+director Thomas M. Messer 
+
+
+
+Solomon R. Guggenheim Museum 
+
+
+
+STAFF 
+
+
+
+LIFE MEMBERS 
+
+
+
+INSTITUTIONAL PATRONS 
+
+
+
+deputy director Diane Waldman 
+
+administrator William M. Jackson 
+
+Vivian Endicott Barnett, Curator; Lisa Dennison, Susan B. Hirschfeld, Assistant Curators; Carol 
+Fuerstein, Editor; Sonja Bay, Librarian; Ward Jackson, Archivist; Diana Murphy, Editorial Coordi- 
+nator; Susan Hapgood, Curatorial Coordinator; Nancy Spector, Amada Cruz, Lisa Yokana, 
+Curatorial Assistants 
+Louise Averill Svendsen, Curator Emeritus 
+
+Cherie A. Summers, Registrar; Jane Rubin, Kathleen M. Hill, Associate Registrars; Stephanie Stitt, 
+Assistant Registrar; Saul Fuerstein, Preparator; David M. Veater, Assistant Preparator; William 
+Smith, Ani Gonzalez Rivera, Preparation Assistants; Hubbard Toombs, Technical Services Coor- 
+dinator; Leni Potoff, Associate Conservator; Gillian McMillan, Assistant Conservator; Scott A. 
+Wixon, Operations Manager; Tony Moore, Assistant Operations Manager; Takayuki Amano, Head 
+Carpenter; David M. Heald, Photographer; Myles Aronowitz, Assistant Photographer; Regina 
+O'Brien, Photography Coordinator 
+
+Mimi Poser, Officer for Development and Public Affairs; Carolyn Porcelli, Development 
+Associate; Elizabeth K. Lawson, Membership Associate; Shannon Wilkinson, Public Affairs 
+Coordinator; Linda Gering, Special Events Coordinator; Ann D. Garrison, Development 
+Coordinator; Clare Pauline Bell, Denise Bouche, Membership Assistants; Mildred Wolkow, 
+Development Assistant; Judy A. Ornstein, Computer Assistant 
+
+Agnes R. Connolly, Auditor; Suzanna Watkins, Accounting Assistant; Stefanie Levinson, Sales 
+Manager; John Phillips, Assistant Sales Manager; Marguerite Vigliante, Trade Sales Assistant; 
+Maria Masciotti, Manager of Cafe and Catering; Fred Lee, Assistant Manager of Cafe and 
+Catering; Denise Dali, Switchboard Operator; Myro Riznyk, Building Manager; Arthur McCaffrey, 
+Assistant Building Manager; Robert S. Flotz, Chief of Security; Elbio Almiron, Marie Bradley, 
+Carlos Rosado, Assistant Security Supervisors 
+
+Ann Kraft, Executive Coordinator; Jill Snyder, Administrative Assistant; Elisabeth Hodermarsky, 
+Administrative Secretary 
+
+Jean K. Benjamin, Mr. and Mrs. B. Gerald Cantor, Eleanor, Countess Castle Stewart, Mr. and Mrs. 
+Barrie M. Damson, Mr. and Mrs. Werner Dannheisser, William C. Edwards, Jr., Donald M. Feuer- 
+stein and Jacqueline Dryfoos, Mr. and Mrs. Andrew P. Fuller, Agnes Gund, Susan Morse Hilles, 
+Mr. and Mrs. Morton L. Janklow, Mr. and Mrs. Donald L. Jonas, Mr. and Mrs. Peter Lawson- 
+Johnston, Mr. and Mrs. Alexander Liberman, Rook McCulloch, Mr. and Mrs. Thomas M. Messer, 
+Mr. and Mrs. Irving Moskovitz, Mr. and Mrs. Robert E. Mnuchin, Elizabeth Hastings Peterfreund, 
+Mrs. Samuel I. Rosenman, Clifford Ross, Mr. and Mrs. Andrew M. Saul, Mr. and Mrs. Rudolph B. 
+Schulhof, Mrs. Evelyn Sharp, Mrs. Leo Simon, Mr. and Mrs. Stephen A. Simon, Sidney Singer, Jr., 
+Mr. and Mrs. Stephen C. Swid, Mrs. Hilde Thannhauser, Mr. and Mrs. Stephen S. Weisglass, 
+Mr. and Mrs. Philip Zierler 
+
+Alcoa Foundation, Atlantic Richfield Foundation, Exxon Corporation, Robert Wood Johnson Jr. 
+Charitable Trust, Knoll International, The Kresge Foundation, Robert Lehman Foundation, The 
+Andrew Mellon Foundation, Mobil Corporation, Philip Morris Incorporated, United Tech- 
+nologies Corporation 
+
+Institute of Museum Services, National Endowment for the Arts, National Endowment for the 
+Humanities, New York State Council on the Arts 
+
+
+
+103 
+
+
+
+Exhibition 86/1 
+
+3,000 copies of this catalogue, designed by 
+Malcolm Grear Designers and typeset by 
+Schooley Graphics/Craftsman Type, have been 
+printed by Eastern Press in February 1986 for the 
+Trustees of The Solomon R. Guggenheim 
+Foundation on the occasion of the exhibition 
+Jack loungerman. 
+
+
+
+
+
+
+
+HHHH 
+
+
+
+
+
+
+!&amp;i*MH#] 
+
+
+
+
+
+
+«*«« 
+
+
+
+
+
+
+
+'■'■■■'■ '■■■■■^■■■- ■■':■"■ 
+
+B18B 
+
+
+
+HI HH»I 
+
+
+
+Ml 
+
+
+
+Brass 
+
+
+
+fl# 
+
+
+
+HsfW •■■■•■.■■ 
+
+■■ H &gt; BaHBHH 
+
+BMBMJBl ll 
+
+' ^^'/" ,-t I I Ifl I Wt „ I ( J&lt;. V I 
+
+.■■...,■.-!■..■• 
+
+
+
+
+
+
+M 
+
+
+
+
+
+
+niffl|n 
+
+■ 'V •(■'• V-. ■ 
+
+Wmm. 
+
+I ■ ':,-V"\vv ^H 
+
+* 
+
+
+
+*' H 
+
+
+
+;♦"■■■■ 
+
+
+
+
+
+
+' '. : . ,i '. ' .' ' 
+
+" " - &gt; V ' ■ ^ ■ . " " - 
+
+.'■'.:■■ 
+
+
+
+■■■' ,■.■■'.■&lt;■■■ '■ 
+
+' ■ : ■.,-.&gt;■■&gt; \ ■■' ■ , 
+
+H H I •■■■'■.•■ ! 
+
+■ v t i ' ''•'■■!■' ■ H 
+
+
+
+IWBillMlTBni w i llT mT ffliW 
+
+HHHHH 
+
+= -■■' 4 ■'■ ' 
+
+■ "■'! ' ',"■'■ ' '. " ■ ■• ■ 
+
+- liiHHH 
+
+• '.,".)'■"■' "■'■''■ ■ 
+
+■■'.-■"■■.'■■■• ■'■ ■■■■■■'' ■■':■■■ ■■ 
+
+■*■ "■.■'■■':','■'■'■ '.'"' ' 
+
+:■.■"'■'.■■■.'■■.;;■.■ 
+
+■■■'' ■■:';'■'■'■■ . 
+
+• : -v •■.■■;'.■.'■•■■■■ -. 
+
+• Mr %/ #! 
+
+• • , . 1 '. ■&gt;,.■■'■■ ■ 
+■:■'■■•' -',-': '..-■■ ' 
+
+
+
+^H 
+
+
+
+
+
+
+■&lt;■■■■ * ■;• ■ m\ #J 
+
+■ : .■'■."■■':■■■.'■ :■ 
+
+'i'' &gt;' ■■''"' •'■'''.'. '■ 
+
+
+
+
+■■i.,:." '■■' : -\ ■■..-.■■■ . 
+
+
+
+HHHH 
+
+■'.' ••'''■•■■■ ' : ■.'•■■:■,■'&gt;■ ' 
+
+■■'.,■ ■''■■. -. : ■■."■■ : V^ •'■'.■ , 
+■ ■&gt;-, i .■'.■■■■■■■■' ■ •§. 
+
+BlXKIi 
+
+
+
+•■■'■■'■■■.', 
+•&gt;i-' v. '■■ 
+
+EKMw 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0057   0.0057      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0074   0.0017      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0091   0.0017     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0132   0.0041   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0134   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0891   0.0757              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=89;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

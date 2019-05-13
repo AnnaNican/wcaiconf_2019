@@ -1,0 +1,1374 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Paintings from the Arensberg and Gallatin Collections of the Philadelphia Museum of Art"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/paintingsfromare00solo">Paintings from the Arensberg and Gallatin Collections of the Philadelphia Museum of Art</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/paintingsfromare00solo">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>PAINTINGS FROM 
+
+
+
+THE AIEISIERG 
+
+
+
+AID GALLATIN 
+
+
+
+COLLECTIONS 
+
+
+
+OF THE NIILIDELPIIA MUSEUM OF ART 
+
+
+
+£*€ve*t 0. *j/ue/e, rice zlHteAuJetit 
+Jrt. Jfl. S^^nadon, J ice csr&amp;udent, £$*£ Sye/mitUstra/um 
+
+S$. vnaumceif tSVewun. 
+
+
+
+cdlite ,&amp;ti/ia cMelau, ^//iyecfov- 0?neri/a6 
+
+^aniei wa/fon, tjfiticn 
+
+tSlUc/iaH ^. ffetfac/i 
+
+Jte^ey, &lt;g. 38. H4e//J&lt;y 
+
+War/ cJ^ea-rvteey 
+
+
+
+The exchange of a large group of modern paintings between Xeir York and 
+Philadelphia is an item of unique importance. To New Yorkers the fame of 
+the combined Gallatin and Arensberg Collections is well-known. In turn, 
+the riches of the Solomon R. Guggenheim Collection in Xew York have long 
+been a lure for Philadelphians, pointed up especially in recent months by the 
+added interest of the new installation in the Frank Lloyd Wright museum. 
+While the distance between the two museums is a bare two hours there are 
+obviously many people in both cities who cannot sacrifice even that short 
+time to travel back and forth. The admirable purpose of this exchange is 
+therefore to overcome this impediment and one is tempted to add that in 
+both cases the mountain is thus "brought to Mohammed." 
+
+The collection of A. E. Gallatin came to Philadelphia in 1943. Gallatin had 
+long been a collector of books and paintings, but it was during the Twenties 
+and Thirties that he concentrated on the School of Paris which today forms 
+the main strength of his collection. He went every year to Europe spending 
+many months in Paris, where he assiduously combed the galleries on both 
+banks of the Seine and soon became intimate with the most creative minds 
+in painting and sculpture. Be went often to the artists' studios and being an 
+amateur photographer made a series of incisive portraits of all the leading 
+figures. 
+
+Albert Eugene, or Eugene as he was called by his friends, was also a painter 
+in his own right. He was thus possessed of an "eye'" which, added to his 
+exquisite taste and complete abhorrence of the second-rate, admirably fitted 
+him to be the gentleman collector par excellence. While never forced to 
+starve in a garret, he was not in any sense a Maecenas, it is true that he and 
+some of his New York friends were dubbed "The Park Avenue Cubists" but 
+this was said with respect and admiration. He bought at low prices because 
+he had the wisdom and imagination to gauge the future, liven so the purchase 
+of his two large paintings, the Three Musicians of Picasso and Leger's La 
+Vllle, was done at considerable sacrifice, but it was not long before he was 
+rewarded bg both acquisitions becoming "news" in art annals. 
+
+When Gallatin's collection grew too large for his apartment he lent it to 
+Xew York University where it was known as The Gallery of Living Art. 
+Eventually realizing that the ever-growing collection should be more per- 
+manently housed, he studied the suggestion of Fiske Kimball that it be given 
+to the Philadelphia Museum of Art. Although strictly a Xew Yorker, Gallatin 
+had been born on Philadelphia's Main Line at Villanova. While not perhaps 
+exactly harking back to a log cabin, Albert Eugene thought it most appro- 
+priate that he should remember his birthplace and it was thus that the 
+collection arrived in Philadelphia in 1943. The transition and installation 
+fortunately occurred during his lifetime, so that he had the satisfaction of 
+seeing the ultimate disposal of his favorite objects while the museum bene- 
+fited greatly by his knowledge and ever self-effacing suggestions. 
+
+
+
+The formation of the Arensberg Collection covered a longer span of years. 
+In their early married life Mr. and Mrs. Arensberg lived in New York and, 
+both being keenly interested in art, found themselves in the forefront of all 
+the avant-garde movements. The Armory Show in 1913 gave added impetus 
+to their collecting and their proximity to the modern movement in the im- 
+mediate years that followed had much to do with their emphasis on acquir- 
+ing works of that decade. Their many Cubist paintings by Picasso, Juan Gris 
+and Braque attest to this fact. Then too, their early admiration for Marcel 
+Duehamp proved not only the beginning of a lifelong friendship but also 
+gave them the opportunity to acquire the main body of his most important 
+work. Among these were not only the famous Nude Descending A Staircase 
+but also the Bride Stripped Bare by Her Bachelors, Even, better known as 
+the Large Glass, which Duehamp himself considers his most important crea- 
+tion. When the Arensbergs decided to leave New York and live in California 
+they feared the Large Glass was too fragile to move so far and gave it to their 
+friend Katherine Dreier, another pioneer collector. Their fears proved right 
+for even in this short move the glass suffered seriously, developing long star- 
+like cracks. Duehamp, however, turned this near disaster into a happy acci- 
+dent by declaring that the cracks added greatly to his original composition. 
+On her death, Miss Dreier willed the Large Glass to Philadelphia where it 
+rightly returned again to form part of the Arensberg Collection. 
+
+The years in Bollywood were ones of more and more acquisitions as well as 
+years of intense study. For Walter Arensberg had a second great interest in 
+his efforts to discover the identity of the true Shakespeare, a lifelong oc- 
+cupation in itself and one which resulted in many articles explaining his 
+very personal theories. The Arensberg house became the centre of the intel- 
+ligentsia, especially in the War years when many Europeans came to live 
+in Bollywood. Their hospitality was boundless and everyone interested in 
+contemporary art was given a royal welcome. It was during this period that 
+
+
+
+the Arcnsbergs fell under the spell of Pre-Columbian sculpture and bought 
+many important pieces which they delighted in mingling with their School 
+of Paris paintings. A jade mask from Teotihuacdn or an Aztec feathered 
+serpent would find itself between a Picasso and a Klee, while in the garden 
+at night a visitor might look down on the lights of Hollywood over a large 
+stone conch from Vera Crux. 
+
+When the Arensbergs decided to look about for a museum capable of con- 
+taining the many elements of their collection they at first hoped it would 
+remain on the West Coast. Since this proved impossible to realise they con- 
+sidered several cities, ending with Philadelphia. Here the collection found 
+its permanent home (1950-1952) next to the Gallatin Collection. The Phila- 
+delphia Museum of Art was originally called after the state, the Pennsyl- 
+vania Museum of Art. By happy chance Walter Arensberg had been born 
+in Pittsburgh and so, like Gallatin, in finally choosing Philadelphia, he also 
+proved himself a loyal son of his native state. In this happy outcome Fiske 
+Kimball and his wife Marie played a major role. 
+
+While New York is undoubtedly seeing the "cream" of the paintings it mast 
+be remembered that there still remains the large body of sculpture from 
+both collections which would have been complicated to displace. This in- 
+cludes the greatest single group of Brancusi's work on view anywhere in the 
+world, the entire collection of Pre-Columbian sculpture and of necessity 
+Duchamp's Large Glass. It is therefore hoped that this New York showing 
+will prove the aperitif which will urge visitors to come to Philadelphia 
+where they will enjoy a full view of the two collections in their complete form 
+installed in adjacent galleries and together creating a "Museum within a 
+Museum." 
+
+Uenry Clifford, Curator of Paintings, Philadelphia Museum of Art 
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/paintingsfromareOOsolo 
+
+
+
+The President and Board of Trustees of The Solomon R. Guggenheim Foundation 
+express their gratitude to the Philadelphia Museum of Art for the generous loans 
+from the Arensberg and Gallatin Collections. Particular thanks are due to 
+Mr. R. Sturgis Ingersoll, President of the Philadelphia Museum, Mrs. John 
+Wintersteen, Chairman of the Board of Governors, Mr. Henri Marceau, Director 
+and Mr. Carl Zigrosser, Vice Director. 
+
+Mr. Henry Clifford, Curator of Paintings, Mr. Henry G. Gardiner, Assistant 
+Curator of Paintings, Miss Gertrude Toomey, Registrar and Mrs. Lysbeth Boyd 
+Borie, Membership and Publicity, of the Philadelphia Museum have assisted 
+materially in the arrangements of all details of the exhibition. 
+
+Harry F. Guggenheim, President 
+
+
+
+LOUISE AID WALTER AREJSBERG COLLECTIOJV 
+
+
+
+GEORGES BRAQUE 1882 — 
+
+
+
+Born in Argenteuil, France. 1893-99 Le Havre; to Paris, 1900. 
+Studied at Academie Humbert, 1902-04. 1906 exhibited with 
+Fauves at Salon des Independants. From. 1907 close association 
+with Picasso. 1908 first one-man show, Galerie Kahnweiler, Paris. 
+Participated in Pittsburgh International, 1937, 1939, 1958; 
+Venice Biennale, 1948, 1950, 1954, 1958, 1960. Now lives in Paris. 
+
+
+
+STILL LIFE. Circa 1917-18. Pasted newspaper, paper, gouache, oil and charcoal on canvas, 51 % x 29" 
+
+THE TABLE. 1918. Oil on canvas, 51Vi x 29". (On reverse of ST ILL LIFE.) 
+
+VIOLIN AND PIPE (with the word POLKA). 1920-21. Oil and sand on canvas, 17x36Vi". 
+
+
+
+PAUL CEZAXXE 1839-1906 
+
+
+
+Born in Aix-en-Provence. 1856 studied at Aix School of Drawing. 
+1859 studied law in accordance ivith father's wishes. Attended 
+Academie Suisse in Paris to study painting; associated with 
+Impressionists. 1874 participated in first Impressionist exhibition. 
+1895 first one-man show at Ambroise Vollard's. 1904 featured at 
+Salon d'Automne. Died in Aix-en-Provence. 
+
+LANDSCAPE WITH TREES. 1890-94. Watercolor, IIV2 x 18". 
+
+VIEW OF THE CATHEDRAL OF AIX. 1904-06. Watercolor and pencil, 12 x I8V2" 
+
+
+
+MARC CHAGALL 1889 — 
+
+
+
+Born in Vitebsk, Russia. 1907-10 studied painting in St. Petersburg. 
+1910-14 Paris; exhibited at the Salon des Independants. Returned 
+to Russia in 1914 where he became Minister of Arts for Vitebsk 
+after the Revolution. 1922, Berlin; 1923 settled in Paris. 1941-47 in 
+the United States. Returned to Paris in 1947; since 1950 has lived 
+in Vence, near Nice. 
+
+HALF -PAST THREE. 1911. Oiloncanvas,77Vzx57Vi". 
+
+
+
+GIORGIO BE CUIRICO 1888 — 
+
+Born in Volo, Greece, of Italian parents. Ca. 1900-06 studied at 
+Polytechnic Institute, Athens. 1906 to Munich; 1909 to Italy. 1911-15 
+lived in Paris; exhibited at Salon des Independants. 1915 to Italy; 
+met Carlo Carrd. 1919 joined Valori Plastici group. To France 
+1924; collaborated with Breton and the surrealists. Abandoned 
+"metaphysical" style, 1933. Lives in Rome. 
+
+THE SOOTHSAYER'S RECOMPENSE. 1913. Oil on canvas, 53% x 71" 
+
+
+
+SALVADOR BALI 1904 — 
+
+
+
+Born in Figueras, Spain. 1921-24 studied at School of Fine Arts, 
+Madrid. 1929 to Paris; associated with surrealists ; exhibited at 
+Galerie Goemans. Collaborated with Luis Buhuel on films: Un Chien 
+Andalou, 1929, L'Age d'Or, 1931. First New York exhibition 1933, 
+Julien Levy Gallery. 1940 to California. Now lives in New York. 
+
+SOFT CONSTRUCTION WITH BOILED BEANS ; PREMONITION OF CIVIL WAR. 1936. Oil on canvas, 39% x 39Vi". 
+
+
+
+ROBERT BELAVNAY 1885-1941 
+
+Born in Paris. Apprenticed to scene designer. 1904 met Metzinger. 
+1911 exhibited with cubists in Salle 41, Salon des Independants. 
+Met Apollinaire and Gleizes. Included in first Blaue Reiter 
+exhibition, Munich, 1911. 1913 to Berlin ivith Apollinaire for 
+one-man shoiv at Der Sturm. 1914-20 Spain and Portugal. 1921 
+returned to Paris. Died at Montpellier. 
+
+SAINT-SEVERIN. Circa 1909. Oil on canvas, 38Ys x 27 3 A". 
+
+EIFFEL TOWER. Circa 1909. Oil on canvas, 38% x27%". (On reverse of SAINT-SEVERIN.) 
+
+
+
+AXDRMi DERASN 1880-1954 
+
+
+
+Born in Chatou, France. From 1898-99 friendship with Matisse, 
+Vlaminck; worked with Vlaminck at Chatou. 1905 exhibited with. 
+Fauves at Salon d'Automna; visited London. 1907 contract with 
+dealer Kahnweiler. Executed ballet and theater decor. First prize 
+Pittsburgh International, 1928. Died at Garches, France. 
+
+WOMAN. Circa 1914. Oil on canvas, 24Yi x 18Vz" . 
+
+
+
+MARCEL MCn AMP 1887 — 
+
+
+
+Born in Blainville, France. Studied at Academie Julian, Paris, 1904. 
+Joined cubists, 1911. Exhibited with Section d'Or, 1912; in Armory 
+Show, New York, 1913. To New York, 1915. Founding member of the 
+Society of Independent Artists, Inc., 1916. With Katherine S. Dreier, 
+organized Societe Anonyme, New York, 1920. Associated with Dada 
+and surrealist groups, Paris. Lives in New York. 
+
+THE ARTIST'S FATHER. 1910. Oil on canvas, 36Vi x28 1 k". 
+
+THE SONATA. 1911. Oil on canvas, 57 x 44W . 
+
+YVONNE AND MAGDELEINE TORN IN TATTERS. 1911. Oil on canvas, 23% x 28 3 A". 
+
+PORTRAIT. 1911. Oil on canvas, 57Yix 44%". 
+
+PORTRAIT OF CHESS PLAYERS. 1911. Oil on canvas, 39% x 39%" . 
+
+STUDY FOR "NUDE DESCENDING A STAIRCASE." November 1911. Pencil, 9% x 6W. 
+
+NUDE DESCENDING A STAIRCASE, NO. 1. 1911. Oil on board, 37% x 23%". 
+
+NUDE DESCENDING A STAIRCASE, NO. 2. 1912. Oil on canvas, 58 x 35". 
+
+NUDE DESCENDING A STAIRCASE, NO. 3. 1916. Watercolor, ink, crayon and pastel over photographic base, 58 x 35Yz" 
+
+THE KING AND QUEEN SURROUNDED BY SWIFT NUDES. 1912. Oil on canvas, 45V* x 50%". 
+
+CHOCOLATE GRINDER, NO. 2. 1914. Oil, thread and paper collage on canvas, 25% x21%". 
+
+
+
+MAX EttXST 1891 ■ 
+
+
+
+Born in Briihl, near Cologne. Self-taught as an artist. 1913 first trip 
+to Paris. Contributed to many Dada and surrealist publications. 
+Has also illustrated books and designed stage sets. Collaborated on 
+Hans Richter's film, Dreams That Money Can Buy, 1945. 1954, first 
+prize, Venice Biennale; 1959, exhibition at Musee National d'Art 
+Moderne, Paris. 
+
+
+
+THE FOREST. 1923. Oil on canvas, 28% x 19%" . 
+
+
+
+EYOXEL FEIXIXGER 1871-1956 
+
+Born in New York City. Trained as a musician ; after 1887 chose 
+painting as career. Studied art in Hamburg, Berlin and Paris, 
+1887-93. Berlin 1894-1906. Paris 1906-08. Met cubists in Paris, 1911. 
+1913 exhibited with Der Blaue Reiter, Munich. 1919-33 taught at the 
+Bauhaus, Weimar and Dessau. 1937 returned to United States. 
+Died in New York City. 
+
+UMPFERSTEDT II. 1914. Oil on canvas, 39Vz x 3lVz". 
+
+
+
+ALBERT GLEIZES 1881-1953 
+
+
+
+Born in Paris. Exhibited at Salon des lndependants, Salle 41, 1911. 
+Participated in Section d'Or, 1912. Co-author with Metzinger of 
+first book on cubist theory, Du Cubisme, 1912. Exhibited in Armory- 
+Show, New York, 1913. Lived in New York, 1915-19. Retired to 
+Saint-Remy-de-Provence in 1939 where he lived until his death. 
+
+MAN ON BALCONY. (Portrait of Dr. Morinaud.) 1912. Oil on canvas, 77 x 45V*". 
+
+
+
+Jl'AX GRIS 1887-1927 
+
+
+
+Born in Madrid. 1902 studied at the School of Arts and Industry, 
+Madrid. 1906 to Paris. First exhibited 1912 at Salon des 
+Independants and with cubists at the Section d'Or. 1922-23 
+executed stage sets and costumes for Diaghilev. Died in Paris. 
+
+THE MAN IN THE CAFE. 1912. Oil on canvas, 50V&gt; x 34%". 
+
+THE OPEN WINDOW. March 1917. Mixed media and wax on wood, 39Vz x 29Va" 
+
+THE CHESSBOARD. June 1917. Oil on wood, 28Vb x 39%". 
+
+
+
+VASILY KANDINSKY 1866-1944 
+
+
+
+Born in Moscow. 1896 to Munich. With Franz Marc founded 
+Der Blaue Reiter group, Munich, 1911. 1919 returned to Moscow; 
+director, Museum of Pictorial Culture; taught at Academy of Fine 
+Arts. 1922-32 professor at the Bauhaus, Weimar and Dessau. 
+Lived in Paris from 1933 until his death. 
+
+
+
+IMPROVISATION, NO. 29. 1914. Oil on canvas, 31 x 39Vz". 
+
+
+
+PAVL KXEE 1879-1940 
+
+
+
+Born in Bern. 1898 studied in Munich; associated with Der Blaue 
+Reiter, 1911. 1912 Paris. 1914 Kairuan, Tunisia. 1920-30 professor at 
+the Bauhaus in Weimar and Dessau. 1931 professor at Diisseldorf 
+Academy of Art. Returned to Bern, 1933; died at Locarno-Muralto. 
+
+GOLDFISH WIFE. 1921. Watercolor, 14 x 20W. 
+
+FISH MAGIC. 1925. Mixed media on cloth mounted on board, 30Vz x 38%" 
+GLANCE OF A LANDSCAPE. 1926. Gouache, 11% x 18Y&amp;". 
+CONJURING TRICK. 1927. Mixed media on canvas, 19Vi x 16Vi". 
+BUT THE RED ROOF. Circa 1930. Tempera on burlap, 25% x 35%". 
+
+
+
+
+Braque: VIOLIN AM) PIPE. 1920-21. Arensberg Collection. 
+
+
+
+
+Chagall: HALF-PAST THREE. 1911. Arensberg Collection. 
+
+
+
+
+de Chirico: THE SOOTHSAYER'S RECOMPENSE. 1913. irensberg Collection. 
+
+
+
+
+Duchamp: NUDE DESCE1\ DM G A STAIRCASE, NO. 2. 1912. Arensberg Collection. 
+
+
+
+
+Oris: THE MAN IN THE CAFE. 1912. Arensberg Collection. 
+
+
+
+
+Klee: GOLDFISH WIFE. 1921. Arensberg Collection. 
+
+
+
+
+Leger: THE CITY. 1919. Gallatin Collection. 
+
+
+
+
+Matisse: MLLE. YVONNE LANDSBERG. 1914. Arensberg Collection. 
+
+
+
+
+Miro: DOG BARKING AT THE MOON. 1926. Gallatin Collection. 
+
+
+
+
+» * d 
+
+
+
+I 
+
+
+
+
+Picasso: SELF-PORTRAIT. 1906. Gallatin Collect;,,,,. 
+
+
+
+
+Picas.so: THE THREE MUSICIANS. 1921. Gallatin Collection. 
+
+
+
+
+Rousseau: MERRY JESTERS. Circa 1906. Arensberg Collection. 
+
+
+
+FRANK KVPKA 1871-1957 
+
+
+
+Born in Opocno, Czechoslovakia. Studied in Prague and Vienna. 
+1895 to Paris; friendship ivith Jacques Villon. Exhibited in 
+Salon d'Automne, 1910. Participated in Section d'Or and Orphist 
+movement. Joined Abstraction-Creation group, 1931. Important 
+retrospective exhibition, Musee National a" Art Moderne, Paris, 1958. 
+Died in Puteaux. 
+
+
+
+DISKS OF NEWTON. STUDY FOR "FUGUE IN TWO COLORS." 1912. Oil on canvas, 39V 2 x 29" 
+
+
+
+FERXAND LEGER 1881-1955 
+
+
+
+Born in Argentan, Normandy. 1900 to Paris ; worked as an 
+architectural draughtsman. Began painting, 1901. Associated with 
+cubists, 1910-14. Stage designs for Swedish Ballet, 1921-23; 
+1924 film "Ballet Mecanique." Visits to the United States in 1931, 
+1938, 1941-45. 1949 mosaic for church faqade at Assy; 1951 window 
+for church at Audincourt. Died in Gif-sur-Yvette. 
+
+CONTRAST OF FORMS. 1913. Oil on burlap, 51% x 38%". 
+TYPOGRAPHER. 1919. Oil on canvas, 51Vs x 38V*" . 
+
+
+
+REXE MAGRSTTE 1898 — 
+
+
+
+Born in Lessines, Belgium. 1916-18 studied at Academie des 
+Beaux-Arts, Brussels. Associated first with cubists, later with 
+surrealists. 1927-30 Paris. 1938 included in International Surrealist 
+Exhibition, Paris. Exhibited at Sao Paulo Bienal, 1951 ; Venice 
+Biennale, 1954; Guggenheim International Award, 1956; 
+Charleroi, Belgium, 1956; II. Documenta, Kassel, 1959. 
+
+THE SIX ELEMENTS. Circa 1928. Oil on canvas, 28Vs x39Vi". 
+
+
+
+LOViS MARCOVSSMS 1883-1941 
+
+Born in Warsaw. Studied at Warsaw Academy, 1901. To Paris, 1903. 
+Studied in studio of J. Lefebvre. Friendship with Roger de 
+La Fresnaye. Exhibited at Salon des Independants, Salon 
+d'Automne. 1910 became affiliated with cubists. Joined Section d'Or, 
+1912. 1933 visited United States. Died in Cusset, France. 
+
+PORTRAIT OF GUILLAUME AP0LL1NAIRE. Circa 1919. Drypoint, 19Vt x 10 3 A" 
+
+
+
+HEX HS MATISSE 1869-1954 
+
+
+
+Born in Le Cateau, France. 1891 studied in Paris with Bouguereau 
+and Moreau. Exhibited at Salon des Independants from 1901, at 
+Salon d'Automne from 1903. One-man show, Vollard's, 1904. A leader 
+of the Fauves. 1908 exhibited in New York, Moscow and Berlin. 
+1910 to Spain; 1911 to Moscow; 1911-13 trips to Morocco. 
+Designed Vence chapel, completed 1951. Died in Nice. 
+
+MLLE. YVONNE LANDSBERG. 1914. Oil on canvas, 57%, x 38%" . 
+
+
+
+JEAN METZ1XGER 1883-1956 
+
+
+
+Born in Nantes. 1903 to Paris. Member of the Fauves and later the 
+cubists. From 1906 exhibited at Salon d'Automne. Work shown 
+Salle 41, Salon des Independants, 1911. 1912 published Du Cubisme 
+with Albert Gleizes. One of the organizers of the Section d'Or. 
+Included in New York Armory Show, 1913. From 1923 exhibited 
+with the Societe Anonyme in the United States. 
+
+THE BATHERS. 1913. Oil on canvas, 58Vi x 41%". 
+
+
+
+JOAX MlltO 1893- 
+
+
+
+Born in Barcelona. 1919 to Paris. 1922 exhibited in the international 
+Dada exhibition, Paris; 1925 in first surrealist group exhibition, 
+Paris. 1925 decor for Diaghilev ballet. Murals: 1937 Paris Exposition; 
+Terrace Plaza Hotel, Cincinnati, 1947 ; Graduate Center, Harvard 
+University, Cambridge, Mass., 1950-51. Guggenheim International 
+Award, 1958. Lives in Palma, Majorca. 
+
+THE HERMITAGE. 1924. Oil and charcoal en canvas, 45 x57Vz". 
+
+MAN, WOMAN AND CHILD. February 1931. Oil on canvas, 35 x 45%". 
+
+THE LOVERS. October 1934. Pastel and pencil, 41% x 27%". 
+
+WOMAN. October 1934. Pastel and pencil, 41 3 kx 27%". 
+
+PERSON IN THE PRESENCE OF NA TURE. 1935. Oil and gouache on wood, 29% x41W 
+
+
+
+AMEOEO MODIGLIAN1 1884-1920 
+
+Born in Leghorn, Italy. Came to Paris 1906; met Picasso, Max Jacob, 
+Apollinaire and others. 1908 first exhibited at Salon des 
+Independants. 1909, encouraged by Brancusi, took up sculpture. 
+1915 returned exclusively to painting. 1917 first one-man exhibition 
+at Berthe Weill Gallery, Paris. 1918 to south of France. Died in Paris. 
+
+CARY4TID. Circa 1912-14. Blue crayon, 24% x 18Vi" . 
+
+
+
+PIET MONBR1AN 1872-1944 
+
+
+
+Born in Amersfoort, The Netherlands. Studied at Academy of 
+Fine Arts, Amsterdam. 1910 to Paris. 1914 exhibited at Salon des 
+Independants. 1914-19 The Netherlands. 1917 founded with 
+van Doesburg and others the periodical De Stijl. Published 
+Le Neo-Plasticisme, 1920, Paris. 1938-40 London. 1940 to 
+United States. Died in New York. 
+
+
+
+COMPOSITION IN GRAY. 1919. Oil on canvas, 23% x 23Vz" . (Diagonal.) 
+COMPOSITION. 1936. Oil on canvas, 28 3 A x 26". 
+
+
+
+FRAXC1S PtCABIA 1879-1953 
+
+
+
+Born in Paris of Spanish parentage. Studied at Ecole des Beaux-Arts. 
+Associated with cubists; member of Section d'Or. 1915 to New York; 
+met Marcel Duchamp. 1916-24 published review 391 in Barcelona, 
+New York, Zurich and Paris. Active in Dada groups in Switzerland 
+and France. Associated with surrealists until 1926. 1940-45 in 
+southern France. Died in Paris. 
+
+
+
+DANCES AT THE SPRING. 1912. Oil on canvas, 47Yz x 47%" 
+CATCH AS CATCH CAN. 1913. Oil on canvas, 39% x 32Vi". 
+
+
+
+PABLO PICASSO 1881 — 
+
+
+
+Born in Malaga, Spain. To Barcelona, 1895. 1900-01 trips to Madrid 
+and Paris. 1904 settled in Paris. 1907 met Braque with whom he 
+developed cubism. 1917-21 stage sets and costumes for Diaghilev 
+ballet. 1937 "Guernica." 1939-40 Royan, near Bordeaux. Since 1946 
+has lived in the south of France. Retrospectives: Paris, 1955; 
+New York, 1959; London, 1960. 
+
+
+
+OLD WOMAN. 1901. Oil on board, 25% x 19%". 
+SEATED NUDE WOMAN. 1908. Oil on canvas, 45 3 A x 35". 
+FEMALE NUDE. 1910-11. Oil on canvas, 38% x 30Vz". 
+MAN WITH VIOLIN. 1910. Oil on canvas, 39% x 287s". 
+MAN WITH GUITAR. 1912. Oil on canvas, 5V/s x 35". 
+
+
+
+AUGUSTE REXOIR 1841-1919 
+
+
+
+Born in Limoges; family moved to Paris in 1845. Studied with 
+Gleyre at Ecole des Beaux-Arts, 1862. Finally accepted in Salon 
+in 1867, after two rejections. Met Manet in 1867. 1874, took part in 
+first Impressionist exhibition; 1880 broke away from the group. 
+1904, retrospective at Salon d'Automne. Died at Cagnes. 
+
+THE BATHER. Circa 1917-18. Oil on canvas, 20te x 12". 
+
+
+
+GEORGES ROVAVLT 1871-1958 
+
+Born in Paris. Studied stained glass making. Studied at Ecole des 
+Beaux-Arts, Paris; with Moreau starting in 1892. 1901 met 
+Huysmans. 1902-12 exhibited annually at Salon des Independents. 
+A founder of Salon d'Automne, 1903, where he exhibited regularly 
+until 1908. 1904 met Leon Bloy. First one-man exhibition Galerie 
+Druet, 1910. Active in printmaking ; designed decor for Diaghilev 
+ballet, 1929; windows for church at Assy, 1945. Died in Paris. 
+
+POLICHINELLE. 1930? (Possibly begun before 1920.) Oil on paper mounted on canvas, 28% x 20%" 
+
+
+
+UEMU ROISSEAU 1844-1910 
+
+
+
+Born in Laval (Mayenne), France. Employed as a lawyer's clerk. 
+After serving in the Franco-Prussian War, became an inspector in a 
+toll station on the outskirts of Paris. Retired on a pension in 1885 
+to become a professional painter. 1886 began to exhibit at the Salon 
+des Independants. From 1890 knew Gauguin, Redon and Seurat. 
+1906 met Delaunay, Picasso and the cubist group. Died in Paris. 
+
+MERRY JESTERS. Circa 1906. Oil on canvas, 57M- x 44%". 
+
+
+
+PIERRE ROY 1880-1950 
+
+
+
+Born in Nantes. To Paris 1904; studied at Ecole des Beaux-Arts, 
+Academie Julian and Ecole des Arts Decoratifs. 1910 associated 
+with Fauves. 1920 associated with surrealists and exhibited with 
+them at Galerie Loeb, 1925, Galerie Surrealiste, 1931. 1930 was a 
+jury member for Pittsburgh International. 1939 visited Hawaii. 
+Died in Milan. 
+
+
+
+METRIC SYSTEM. Circa 1933. Oil on canvas, 57% x 39". 
+
+
+
+YVES TANGUY 1900-1955 
+
+
+
+Born in Paris. Spent two years at sea ; served in army; returned 
+to Paris, 1922. 1923 decided to paint seriously ajter seeing a 
+picture by de Chirico. 1925 joined surrealists. Early works published 
+in La Revolution Surrealiste. 1939 to United States; American citizen 
+1948. Died in Woodbury, Conn. Retrospective at The Museum of 
+Modern Art, 1955. 
+
+
+
+THE STORM. 1926. Oil on canvas, 32Vt x 25%' 
+
+
+
+JACQUES VILLOX 1875 — 
+
+
+
+Born in Damville (Eure), France. Painter, engraver, etcher. Eldest 
+brother of artists Marcel Duchamp, Suzanne Duchamp, Raymond 
+Duchamp-Villon. 1894 to Paris. Associated with the cubists. 1932-33 
+member of Abstraction-Creation group. 1936 visited the United 
+States. 1940 in southern France. Participated in: Venice Biennale, 
+1950, 1956 (first prize for painting), 1960; Pittsburgh International, 
+1950 (first prize). Lives in Puteaux. 
+
+
+
+ABSTRACTION. 1932. Oil on canvas, 21% x 26". 
+YOUNG GIRL. 1912. Oil on canvas, 57% x45W. 
+
+
+
+A. E. GALLATIN COLLECTION 
+
+
+
+JEAX ARP 1837- 
+
+
+
+Born in Strassburg. 1904 to Paris. 1906-09 studied painting in 
+Weimar. To Switzerland, 1909. 1912 to Munich; associated with 
+Kandinsky and Der Blaue Reiter. One of founders of Dada, Zurich, 
+1916. 1920 member Cologne Dada Group. Joined surrealist group, 
+Paris, 1925. Trips to United States, 1949, 1950. Executed relief for 
+UNESCO Building, Paris, 1957. Lives in Meudon-Val-Fleury. 
+
+CONFIGURATION. 1930. Oil on wood, 27 x k x 33%". 
+
+
+
+ROBERT DELAVXAY 1885-1941 
+
+
+
+THE WINDOWS. 1912. Oil on canvas, UVix 35%" 
+
+
+
+THE© VAX DOESBMJRG 1883-1931 
+
+Born in Utrecht. 1908 first exhibition, The Hague. 1917 founded 
+with Mondrian and others the periodical De Stijl. 1919-20 
+architectural projects with De Stijl group. 1926 published 
+Manifesto of Elementarism. 1929-30 Paris. Helped found 
+Abstraction-Creation group, 1931. Died in Davos, Switzerland. 
+
+COMPOSITION. 1929. Oil on canvas, llVs x ll z k". (Diagonal.) 
+
+
+
+Biographies appear with the first entry. 
+
+
+
+A. E. GALLATIN 1881-1952 
+
+
+
+Born in Villanova, Pennsylvania. Studied at New York Law School, 
+then began career as painter, author and collector of modern art. 
+Exhibited in New York, Chicago, San Francisco, Boston, Paris. 
+Founded with his collection in 1927 the New York University 
+Museum of Living Art; in 1943 the collection was transferred to 
+Philadelphia Museum of Art. Died in New York City. 
+
+COMPOSITION. January 1942. Oil on canvas, 59% x 25". 
+
+
+
+JUAN GUIS 1887-1927 
+
+
+
+MAN AT CAFE. 1911. Pencil, l9Vi x 11". 
+
+THE VIOLIN. July 1913. Oil on canvas, 36Vi x 23%". 
+
+STILL LIFE. 1914. Colored papers, printed matter and charcoal on paper mounted on canvas, 23Vz x 17 W 
+
+
+
+EEBNANB LEGEB 1881-1955 
+
+
+
+THE CITY. 1919. Oil on canvas, 90% x 117". 
+COMPOSITION. 1923 and 1927. Oil on canvas, 51Vz x 38Yi" 
+
+
+
+JOAN M1RO 1893- 
+
+
+
+DOG BARKING AT THE MOON. 1926. Oil on canvas, 28% x36W 
+PAINTING. March 8, 1933. Oil on canvas, 51 Vs x 64V*". 
+
+
+
+PIET MONDRIAX 1872-1944 
+
+
+
+COMPOSITION WITH RED. Paris, 1936. Oil on canvas, 20Vs x 19 3 A". 
+
+
+
+PABLO PMCASSO 1881 
+
+
+
+SELF-PORTRAIT. 1906. Oil on canvas, 35% x 28". 
+
+STUDY FOR "LES DEMOISELLES D' AVIGNON." 1907. Watercolor, 6% x 8 3 A" 
+
+THE THREE MUSICIANS. 1921. Oil on canvas, 80Yi x 74Vz". 
+
+THE MANDOLIN. 1923. Oil on canvas, 3PA x 39%". 
+
+
+
+STAFF 
+
+
+
+Director 
+
+Curator oj Education 
+
+Activities Secretary 
+
+Acting Registrar 
+
+Museum Public Relations 
+
+Conservation 
+
+Photography 
+
+
+
+Thomas M. Messer 
+
+Louise Averill Svendsen 
+
+Sheila More Ogden 
+
+Arlene B. Dellis 
+
+Donna Butler 
+
+Orrin Riley and Saul Fuerstein 
+
+Robert E. Mates 
+
+
+
+Business Administrator 
+Building Superintendent 
+Head Guard 
+
+
+
+Glenn H. Easton, Jr. 
+Anthony P. Vernon 
+John J. feeling 
+
+
+
+5000 copies of this checklist, designed by Herbert Matter, 
+
+have been printed by Sterlip Press, Inc., New York, 
+
+in February 1961 
+
+for the Trustees of The Solomon R. Guggenheim Foundation on the occasion of the exhibition, 
+
+"Paintings from the Arensberg and Gallatin Collections of the Philadelphia Museum of Art" 
+
+at The Solomon R. Guggenheim Museum, New York City. 
+
+
+
+THE SOLOMON R. 4.1 4. (.1 Ml MM MUSEUM 1071 FIFTH AVEXl'E, XEW YORK 28. N. Y. 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0046   0.0046      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0067   0.0021      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0090   0.0023     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0134   0.0044   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0136   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0841   0.0705              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=84;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

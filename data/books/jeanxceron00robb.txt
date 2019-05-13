@@ -1,0 +1,2904 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jean Xceron"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jeanxceron00robb">Jean Xceron</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jeanxceron00robb">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/jeanxceronOOrobb 
+
+
+
+JEAN 
+
+XCERON 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, MEW YORK 
+
+
+
+© 1965, The Solomon R. Guggenheim Foundation, New York- 
+Library of Congress Card Catalogue Number 65-26312 Printed in the United States of America 
+
+
+
+THE SOLOMON K. Gt'fJGEXHKIM KOITXDATION 
+
+
+
+TRUSTEES 
+
+
+
+HARRY F. GUGGENHEIM, PRESIDENT 
+
+
+
+ALBERT E. THIELE, VICE PRESIDENT 
+
+
+
+H.H. ARNASON, VICE PRESIDENT, ART ADMINISTRATION 
+
+
+
+ELEANOR, COUNTESS CASTLE STEWART 
+
+
+
+DANA DRAPER 
+
+
+
+PETER O. LAWSON-JOHNSTON 
+
+
+
+A. CHAUNCEY NEW LIN 
+
+
+
+MRS. HENRY OBRE 
+
+
+
+DANIEL CATTON RICH 
+
+
+
+MICHAEL F.WETTACH 
+
+
+
+MEDLEY G-. B. WHELPLEY 
+
+
+
+CARL ZIGKOSSEK 
+
+
+
+JEAN XCERON is of Greek birth. His own form language, which 
+reinforces the stylistic current of geometric abstraction that is rooted in 
+Mondrian's neo-plasticism, came fully into its own between the two 
+world wars, to remain, in modified form, a vital force in our own time. 
+In the United States, Xceron's adopted home, the artist was a daring 
+pioneer before he earned for himself the esteem and the admiration 
+accorded to old masters. 
+
+It is eminently fitting that his distinguished career as a painter should 
+receive its most decisive endorsement through a one-man show at 
+The Solomon R. Guggenheim Museum. For it was this museum's first 
+director, Miss Hilla von Rebay, who, far back in the 1930's, acquired 
+Xceron's work, and James Johnson Sweeney who, long before succeed- 
+ing the Guggenheim's directorship, aided the artist in his strive for 
+recognition in this country. Partly as a result of such endorsements, 
+Jean Xceron literally found a home in The Solomon R. Guggenheim 
+Foundation, where he has been employed and has fulfilled his duties 
+with attentive loyalty ever since 1939. 
+
+The current exhibit surveys selectively Jean Xceron's life-work. The 
+artist himself has spent considerable time and effort in making sure 
+that both the exhibition and the catalogue reflect his career faithfully. 
+With his assistance, Daniel Robbins, until recently Assistant Curator of 
+The Solomon R. Guggenheim Museum, carried out and completed the 
+task. As director of the Museum of Art of the Rhode Island School of 
+Design, Mr. Robbins will have the satisfaction of sharing the Xceron 
+retrospective exhibition with the Guggenheim Museum. 
+
+Thomas M. Messer, Director 
+
+
+
+LEPERS 
+
+
+
+Mr. and Mrs. Norman Belgrade. Chicago 
+
+Lawrence Bloedel, Williamstown, Massachusetts 
+
+Mr. and Mrs. Saul Edelbaum, New York 
+
+Rose Fried, New York 
+
+The Joseph H. Hirshhorn Collection, New York 
+
+Mr. and Mrs. Edgar B. Miller, Chicago 
+
+Mr. and Mrs. Fred Olsen. through The Olsen Foundation. Guilford, Connecticut 
+
+Denis E. Paddock, New York 
+
+Mr. and Mrs. Walter Nelson Pharr, New York 
+
+Mr. and Mrs. George Phillips. Jr., Chicago 
+
+Miss Hilla von Rebay, Greens Farms, Connecticut 
+
+Miss May Walter, New York 
+
+Mary Dorros Xceron, New York 
+
+Krannert Art Museum, University of Illinois. Champaign 
+The Solomon R. Guggenheim Museum, New York 
+Whitney Museum of American Art, New York 
+
+Rose Fried Gallery, New York 
+
+
+
+11 
+
+
+
+XCERON 
+
+
+
+BY DANIEL ROBBINS 
+
+
+
+Jean Xceron learned about Classical antiquity at the Corcoran School of Art in Wash- 
+ington, D.C. Between 1910 and 1917. fitting his academic training into a sporadic schedule of 
+odd jobs within the local Greek community, he worked from plaster casts, patiently adapting 
+studies of bones from the morning anatomy class to the contour drawings demanded each 
+afternoon. In Washington. Xceron discovered that there was special cultural distinction in 
+being a Greek, descended from the historical source of beauty as well as democracy. Like the 
+rest of the Greek community, he was proud to realize that Classical tradition was the basis of 
+the Beaux-Arts ideal ; and it must also have been satisfying to observe that his adopted coun- 
+try designed the official buildings of its capital in imitation of ancient temples. But in 1910, 
+it was somewhat difficult for Xceron to think of those ideals directly in connection with his 
+immediate past. Those plaster casts, reflections of unseen originals, and those government 
+buildings, colossal derivatives from unremembered prototypes, did not reflect the Greece of 
+his boyhood. In the Greek Orthodox church, and in the homes of relatives and friends, he had 
+seen and admired ikons, not Praxiteles ; and to relieve the cast copying, he spent hours in the 
+Library of Congress studying plates of Ravenna mosaics, rendering them in watercolor, even 
+venturing his own designs for mosaics and pictures of the saints. Furthermore, he knew that 
+every town in the United States where Greeks settled needed such images. 
+
+Xceron was fourteen when he arrived alone in New York, fresh from a small mountain 
+village, Isari Likosouras, in the heart of the Peloponnesos. His father, Petros Xerocostas, was 
+a blacksmith, and at home there had been no memories of a Classical past. Instead, there had 
+been stories about the heroes of the Greek revolution, whose portraits Xceron had painted on 
+the walls of his father's house. There were also ikons in the Byzantine tradition, for the saints 
+
+
+
+12 
+
+
+
+like the revolutionary heroes of less than a hundred years before, formed a real part of his 
+family's life. To be an artist in such a tiny village was improbable, but the precocious decora- 
+tions he made— the sculpture fashioned from bits of iron, copper wire and other scraps from 
+the blacksmith's shop, the engravings on stone— these were admired as embellishments and 
+signs of able craftsmanship. 
+
+Xceron had relatives in America; in Washington, in Indianapolis, in Pittsburgh, 
+brothers and cousins of his father had launched hat cleaning, shoeshine, ice cream and candy 
+shops. These industrious immigrants, who formed closely-knit groups in each community, 
+welcomed the fourteen-year-old Xceron as a countryman and an additional hand. From 1904 
+to 1910 he lived with relatives in the Greek communities of these three cities, finally settling 
+in Washington only when he was twenty and determined to be an artist. His skill was useful 
+to the community, which turned to him for ikons. In 1918, to celebrate Greek Independence 
+Day and Greek-American solidarity, he was asked to paint an enormous temporary mural for 
+the pediment of the Treasury Building: scenes of Greek gods and heroes, balanced against 
+modern patriots and soldiers. Xceron's Corcoran training was helpful to him, and the pageant, 
+with Xceron's decorations, was such a success that the Greek flag and Xceron's decorations 
+adorned the Treasury Building all day long. 
+
+While at the Corcoran, Xceron not only encountered his presumed Greek heritage, but, 
+more subversively, acquainted himself with the new traditions of modern art. Among his 
+fellow students (who also included Abraham Rattner) were George Lohr and Charles Logasa. 
+largely responsible in 1916 for creating Washington's "Armory Show" by borrowing a large 
+group of paintings from Alfred Stieglitz in New York. Although this tardy version of the ex- 
+hibition that had shocked New York, Chicago and Boston created little furor in Washington, 
+it made a profound impression on Xceron, who realized that his own preference for the flat, 
+rich patterns of mosaic, with their expressive distortion, was a great deal closer to the pro- 
+gressive ideal than to his careful renderings from casts and models, even if they were Greek 
+and certified by his art teachers. As a consequence, during his last year at the Corcoran he 
+began to be regarded as a revolutionary. His increasingly free interpretations of the model 
+(he painted a blue self-portrait with cubist faceting a la Picasso) and his earliest non- 
+student works, Crucifixion No. 6, 1917, and especially Adam and Eve No. 9, 1919, show a graft- 
+ing of cubism to Byzantine tradition. In his limited palette range, his geometric distortion of 
+figures and his shallow space, Xceron's debt to early twentieth-century French painting was 
+already evident, but in the scale of his work and in its naive charm, he preserved the feeling of 
+a provincial ikon painter. The most advanced formal and iconographic device in the little 
+Adam and Eve is the tree that vertically divides the work, serving simultaneously as snake and 
+
+
+
+
+
+Xceron's house in Greece 
+
+
+
+Xceron with cast at Corcoran 
+
+
+
+13 
+
+
+
+tree trunk, with the apple functioning as the snake's head. For a short time Xceron flirted 
+with the idea of making his living as a religious painter, he even planned a series of murals 
+for the Greek Orthodox church in Tarpon Springs, Florida. He soon realized, however, that 
+the cozy and insulated Greek community was not where art was advancing, so turning his 
+eyes toward Paris, he moved to New York. 
+
+It was in New York that, for the first time, he encountered another world and discovered 
+to his surprise that the solidarity then existing among artists was not unlike that which had 
+sheltered him since his arrival in America. He became friendly with Torres-Garcia, who 
+painted his portrait in 1920 and met, among others, Weber, Walkowitz and Stella. He fre- 
+quented the Metropolitan, the Public Library and the Whitney studio, and with his new 
+friends exhibited in the New York Independents in 1921 and 1922 at the Waldorf. He began 
+to travel independently, going up the New England coast as far as Ogunquit, Maine. The 
+effect of these years is summarized in the more sophisticated, although less personal, work he 
+was producing by 1923. Realizing that Cezanne was the principal source for those develop- 
+ments in contemporary painting that most interested him, Xceron had consciously studied that 
+master, abandoning both the primitive charm of his earlier work and its realistic detail in 
+favor of a concentration on formal organization. Yet in Landscape No. 36, 1923, there is an 
+anticipation of what would become one of the most important characteristics of Xceron's 
+mature style: a diffused light radiating from the roof of the house, thus giving the little paint- 
+ing a quality of buoyancy. This interest in light was then secondary, probably unconscious, 
+for Xceron had set out to compose harmoniously, without regard to the direction of light or the 
+length of shadow, certainly without regard to the time of day or the quality of subject matter. 
+
+By the time he had saved enough money to go to Paris in 1927, Xceron had established 
+an accomplished post-Cezannesque style. He had also established some valuable friendships, 
+among which was that of an ex-Athenian family, the Dorros', who controlled a flourishing 
+bridal veil manufactory with offices in both New York and Paris. Much later he was to marry 
+Mary Dorros, but in the twenties it was her elder brother, Theodoros, a writer and intellectual, 
+who exerted a profound influence on Xceron's intellectual development. Having commissioned 
+a portrait of Tolstoy from Xceron, he then went on to interest the artist in a wide literature. 
+Because of his encouragement, and with the help of introductions from Abraham Rattner, 
+Xceron, who had been painting independently for more than ten years, found the confidence 
+to write a series of articles for the Boston Evening Transcript and the Paris edition of the 
+Chicago Tribune. He thus was accepted immediately into the Paris art world, not yet as a 
+painter— of which there were hundreds from all parts of the world, but as an American critic 
+highly sympathetic to modern art— of whom there were very few. He wrote articles on 
+
+
+
+
+
+Greek pageant in Washington 
+
+
+
+Torres-Garcia portrait of Xceron 
+
+
+
+14 
+
+Mondrian, Van Doesburg, Leger, Arp and Larionov; he visited studios, discussed painting and. 
+unknown to many of his friends, he returned to his own studio and painted. 
+
+Only the wise and sympathetic Torres-Garcia and the Dorros' knew that Xceron was a 
+painter, but gradually certain Greek members of the Paris art world, the writers Christian 
+Zervos and Teriade, the sculptor Tombros, not only discovered that Xceron painted, but that 
+in his modest, quiet fashion he painted very well. His first one man exhibition thus opened at 
+the Galerie de France in 1931 under the sponsorship of the influential Cahiers d'Art. Xceron 
+was dazzled by the procession of notables who trooped through the gallery: Mondrian. Arp, 
+Leger, Van Doesburg, Masson, Helion— almost every Paris painter of consequence, all painters 
+about whom Xceron had written and all men whose work he had profoundly admired for 
+years— came to see his paintings and went away impressed. 
+
+What they saw was a group of post-cubist canvases tempered by a very personal 
+lyricism. Had they known the Xceron who struggled between 1919 and 1929 to master the 
+logical construction of Cezanne, they would have remarked the greater boldness with which 
+he applied paint, and noted how curvilinear forms had replaced rectangular ones. It was 
+evident, as in Violin No. 7 that his still life subjects were wholly and deliberately suggestive of 
+human figures. This characteristic of imparting markedly human associations to what might 
+at first seem to be purely investigative exercises in the organization of form became increas- 
+ingly evident as Xceron's work developed. It appears in Portrait of the Artist No. 67, 1932, 
+where the thrust and slight forward tilt of the head create a sense of great alertness, even 
+though there is no expression on the face. It is also apparent that the head is an analogy to the 
+top of a stringed instrument. 
+
+Xceron's most significant painting of the early 1930's is Violin No. 6E. As James 
+Mellow noted, this is a transitional work, proceeding from curvilinear forms on the left, where 
+Picasso's influence is most apparent in the figure strumming a musical instrument, to purely 
+horizontal and vertical divisions on the right, where one sees reminiscences of both early 
+Mondrian and Torres-Garcia. 1 The painting, however, also contains an intervening stage that 
+is an important key to Xceron's future work. This link is not so specifically localized as an 
+area of the painting, existing rather as the necessary completion of an idea. The middle third 
+of the picture is a close dissection of instrument forms themselves, the "S" curved sound 
+openings, the strings and round holes. Thus, the final, right third of the work, where light 
+modelled areas exist alone, represents pure sound, and the whole painting quite literally 
+develops from reality to pure abstract effect, as evident in the iconography as in the regulari- 
+zation of the forms from left to right: player, instrument, sound. 
+
+All of Xceron's paintings from 1933 to 1936 strive to rid themselves of the last traces 
+of figuration, yet equally, they are all about music, people and art. His forms meet with 
+dignity, they never collide, never passionately embrace, never become uncontrolled. Through- 
+out this period, he favored a vertical format, and gradually reduced textural emphasis, that 
+density of pigment which had been so considerable during the previous six years. Finally, in 
+1935-36 he worked almost exclusively in watercolor and gouache, for Xceron required this 
+discipline to concentrate on his growing interest in light. This light came from no outside 
+source, but instead radiated from the colors, clinging to the edges of a form and imparting a 
+certain ethereal quality. 
+
+Returning to oil in 1937, Xceron utilized the discipline he had gained from experience 
+with gouache to produce beautiful, cool and transparent harmonies. He had developed a 
+modelling or chiaroscuro that refused to turn or round the form. Unlike Leger, who also con- 
+sistently modelled simple shapes to impart weight, density, or a sense of volume, Xceron's 
+modelling achieved instead a palpable atmosphere around clear and intense forms, concen- 
+trating greatest luminosity toward the center of the canvas as in Composition No. 242. His 
+
+
+
+1 Mellow, James. "Jean Xceron at Seventy," Arts Magazine, New York, vol. 34, no. 9, June 1960, pp. 30-33. 
+
+
+
+15 
+
+shading was always from top to bottom, or bottom to top, never from left to right. In addition, 
+although he used bright colors, he never assaulted the eye. Thus, in Painting No. 239, using a 
+white ground with intense colors, he modulates violet like the pressured strokes of a pen, hard 
+and then soft ; he plays a vivid yellow against white so that it almost flashes ; but, very carefully, 
+he relieves the optical pressure with a narrow dark line against the form, and a nearby 
+soothing green. 
+
+As Xceron's works grew in confidence and delicacy, attaining by 1937-38 a rare tech- 
+nical perfection, they gradually lost some of their once-characteristic innocent gravity to 
+become almost playful. Toward 1940-41 (Composition No. 251), forms became smaller and in- 
+dividual arrangements more intricate ; the geometric perfection of a curve or an ellipse freely 
+modified, preparing for his first non-right-angled orientations. These changes are evident in 
+the small, lyrical Fragments No. 252, 1941, where variations in background intensity 
+have become more pronounced, the color gathering strength as it adheres— almost as if 
+magnetically attracted— to the playful forms which for the first time meet in a series of oblique 
+angles. Instead of a central, radiating luminosity, a quiet and subtle movement from dark 
+edges to a light core, these edges fade into a nimbus of softly radiating light. In Composition 
+No. 269, the shadows cluster around the forms, now more monumental and rugged. At the very 
+core, an apparently solid, unmodelled shape slips quietly into the background, dematerializing 
+into a magnificent violet glow. Xceron had reversed the customary function of light, for instead 
+of using light to reveal form, he arranged to have it swallow shapes, dissolving the crispest 
+forms in the process. He created a mysterious dawn, in which light absorbs rather than illumi- 
+nates, his pure geometry. 
+
+During the early 1940's, Xceron mastered absolutely quiet, infinitely subtle transitions 
+in form, using color areas modelled from bright to dark, but without ever tilting a plane or 
+causing an indiscreet jump either forward or backward. His surfaces were perfect and deli- 
+cate, like a membrane everywhere equal. In 1944, however, the brush stroke, which had been 
+banished since the gouaches of 1936. suddenly reappeared in White Form No. 271. In the 
+Whitney painting (Composition No. 273) and the Miller painting (Composition No. 275), he 
+began to work out the implications of this bolder touch which eventually would distribute 
+radiating light areas against radiating dark areas to yield a much deeper space. In the Miller 
+painting, the dark, dynamic cross-hatching seems to emphasize the attraction of dark for light 
+and light for dark and these two forces are more nearly equal than they had been in the 
+earlier, more tranquil paintings. 
+
+At the same time, Xceron's color grew ever more bright and varied and his forms be- 
+came more intricate, because they were consistently open. From 1945 through 1948, they were 
+enhanced by a striking use of black line, a line broken and roughed by impinging color, as 
+if white light could be sucked out of the multicolored void by these sensitive antennae (as in 
+Multiform No. 303, 1947, or Rhythm No. 301). This was the period of Xceron's widely pub- 
+licized painting Radar. 2 
+
+Over the years, Xceron's art found increasing recognition. By the mid-1930's he was— 
+to his surprise— a painter of reputation, one of the inner circle associated with Circle et Carre, 
+Abstraction-Creation, and the Surindependants. When he came back to America for his first 
+New York show at the Garland Gallery in 1935, he became friendly with two of the most 
+perceptive Americans then interested in abstract art: James Johnson Sweeney and David 
+Smith. Smith asked his advice and received counsel to become a sculptor. (Very good advice, 
+it turned out.) Sweeney was instrumental in obtaining his second United States exhibition, at 
+the Nierendorf Gallery, and for this Xceron again returned to America late in 1937. He never 
+went back to Europe. At the Nierendorf. Hilla von Rebay saw his work and acquired examples 
+for the Guggenheim Foundation, thus inaugurating a long association. 
+
+
+
+Radar, commissioned by Alfred H. Holbrook is in the collection of the Georgia Museum of Art, Uni- 
+versity of Georgia. It was reproduced in Life, New York, vol. 24, no. 5, February 2, 1948, p. 69. Accom- 
+panying the story, "Radar; A Non-Objective painter tries to marry science and art on canvas." 
+
+
+
+16 
+
+The American Abstract Artists, then barely organized, welcomed him with open arms 
+for, in those days before the arrival of the great wave of exiled Europeans, he was one of the 
+very few abstract artists who had acquired an international reputation. He had already sur- 
+mounted some of the barriers that this handful of American abstract painters faced: public 
+indifference and official hostility; his was a modest success that could help counter the deeply 
+rooted provincialism of the American art world. Commercially, Xceron fared only a little 
+better than his new colleagues, but he did symbolize the achievement of Parisian abstraction, 
+and, for years (well through the 1940's, when American exhibitions were almost entirely 
+dominated by regional and social realist art) Xceron was one of the very few abstract artists 
+admitted into the large national competitions, standing out like a rare curiosity in almost every 
+Pittsburgh survey, and somehow convincing even the most conservative juries of his honesty 
+and skill as a painter. While working on the Federal Arts Project, he continued to execute 
+resolutely non-objective murals, a style almost totally alien to the typically social realist 
+W.P.A. art, even in the chapel at Riker's Island Penitentiary. One wonders what the inmates 
+thought ! 
+
+No fanfare ever surrounded Xceron or his work. Temperamentally incapable of sensa- 
+tional behavior or active group participation, he could only continue to paint, even when the 
+sudden explosion of a new kind of American abstract art began to command universal atten- 
+tion in the late 1940's and early 1950's. In Paris, he had been briefly part of an international 
+abstract movement; in the New York of the 1950's. he was already respectfully identified with 
+the past, and gravitated back to the Greek community, where he felt most at home. This 
+American-Greek community has yielded other important artists: Vagis, Nikolaides, Kaldis, 
+Constant, Stamos, Baziotes, and more recently Voulkos and Lekakis— all Greeks, all of differ- 
+ent times and temperaments. Xceron, however, was among the first, and Xceron, for fifty years 
+has been among the most constant and diligent in his single-minded, unswerving pursuit of a 
+quiet ideal. Other Greek-American artists moved more freely in the world of American art at 
+large, became more American, identified with a prevailing style— much as Xceron (considered 
+an International) had done during his ten years in Paris. Thus, the New York abstract move- 
+ment swept past him to general acclaim, and Xceron, who had been one of the few exhibitors 
+of geometric abstract painting in the 1930's and 1940's, still remained virtually alone during 
+the 1950's: one of the few "classic" abstract painters. Today, in the mid-1960's, with yet 
+another fresh wave of American painting dominating the catalogues of large group shows, 
+Xceron's independence and individuality has become even more compelling, for he continues 
+to develop and expand his art, even though its principles had been established in 1936-37. 
+Now, there is no background of a current period style to submerge his great ease and quiet 
+perfection, his quality as an independent artistic personality. 
+
+To the attentive observer, Image No. 330, 1949, will seem as much an anomaly as the first 
+brushed paintings of 1944-45. In many respects it represents a return to themes from the early 
+1930's, although it is more subtle and complex in its allusions to figures and musical instru- 
+ments and more resolutely cubist in its spatial organization, as if Xceron consciously grasped 
+for his tradition to help sustain himself in the flood of Abstract Expressionism. It is also the 
+first painting in thirteen years not chiefly concerned with light, and as such is a preparation 
+for Xceron's next crystallized interest, the figure. He must have felt that his paintings had 
+become too diaphanous, too soft, too light-enveloped, and therefore made an effort to tighten 
+his forms, to create a more aggressive image with crisper internal movement. Painting No. 
+239 and Sound No. 291 share qualities of hardness and softness; Beyond White distills crisp- 
+ness of movement, but sheds rough black line. Finally, by 1954 with Ikon No. 386 and large 
+delicate watercolors like Figure No. 389 A, 1955. a clear-cut single image emerges, a strong 
+white megalith on a deep blue ground. 
+
+Painting 9, No. 424, 1958. was the first Xceron since 1932-33 in the horizontal 
+format. Although it employed the sharper forms that culminated with Ikon, the nature of 
+the shapes underwent still further metamorphosis. There are no longer rectangles, circles, 
+ovals, but more organic, suggestive images. The organization now recalls a landscape, with a 
+
+
+
+17 
+
+
+
+deliberate, slow movement from left to right, a glow of twilight against which are set rock-like 
+shapes. On the right, a large white area hangs over a blue, reminiscent of a gleaming temple 
+overlooking a precipice. This balance contributes a certain minimal anxiety, the level that 
+Xceron tolerates; we know the white will not really topple, because it is so firmly balanced 
+against the glowing light passage across the bottom of the painting. 
+
+Through the next years and up to the present, movement in Xceron's paintings con- 
+tinued to become more active, the colors growing stronger and, above all, the pulsation of 
+light more prominent. References to figures and fragments of landscape become constant and 
+more complete. Painting No. 426, 1959, and Painting No. 430, 1960, are, for Xceron, almost 
+violent paintings. In the latter, angles clash in from all four corners and the figure forms- 
+head, neck, breasts— are splayed out again in a landscape space. Composition 8, No. 432, 1960, 
+is one of the boldest and most daring arrangements Xceron ever produced, with areas of 
+intense swirling whites punctuated by incisive black arabesques that almost swamp the figure 
+forms in the lower right. The figures, however, were determined (almost as if they had a will 
+of their own) to emerge. Finally, in 1961 Xceron painted a white canvas black, and drew a 
+frieze of almost barbaric, primitive forms across it, these illuminated by yellow-green light, 
+with the light cohering as before to the edges of the forms. Although reminiscent of Classical 
+black ground vase painting, this 1961 picture also sustains a blood red at the bottom, and a 
+streak of deep blue behind. It has the quality of a ritual dance. In Source No. 445, 1962, the 
+same method allows forms of violet and lurid yellow to grapple together like two archaic 
+monsters in a field of bones and shattered trees. These shapes avoid collision. From an artist 
+now over seventy, these works are the darkest and most romantic of his lifetime ; they include 
+the El Greco-like Painting 7, No. 438, 1961. whose twisting forms lean in from dense space 
+but, as always, never become uncontrolled. 
+
+As brooding and near-violent as the large oils became through 1962, Xceron's drawings 
+and watercolors pursued a more placid course. In theme, the barbaric and active figures that 
+appear in the paintings present a sunnier, if no less primitive, mood. Pageant No. 558A, a 
+drawing in the Walter collection, is exquisitely organized and possesses all the spirit of a 
+group of centaurs at play. Finally, in the oils from 1963 to the present, all the figures clearly 
+emerge— graceful, active, almost with facial expressions, always alert— playing against a 
+sensuous clear blue which clings materially to the purity of their forms. These works, 
+Caryatides 27, No. 452 and Figures 24, No. 449, 1963, were painted out-of-doors on clear and 
+sunny afternoons. Xceron, 75 years old, seems to have returned to the Arcadia he had not 
+seen since 1904, but his Greece was still not the Greece of plaster casts. 
+
+In these years of old age, a whole painting career intervening and a wide culture at- 
+tained, specific memories that had meant little or nothing when he first came to the United 
+States begin to return: mountain-locked Isari Likosouras, his native village, was always 
+flooded with light and to the south, the gulf of Messinia sparkled thirty or more miles away; 
+the site of Lykosuras with its ruined city on an acropolis; the sanctuary of Despoina, its 
+ruined Doric temple. These distant, but now meaningful images influence the imagination of 
+Xceron, the still classic abstractionist, but also the Greek who wandered there, unthinking, as 
+a youth. He can draw the temple now; sixty years ago it was merely a familiar heap of stone 
+on the outskirts of his village. 
+
+Xceron's art has always been so gentle, its drama internal and apparent only to those 
+who follow it attentively. Instinctive, almost humble, it attains a rare poetry that too few have 
+taken the trouble to contemplate. David Smith, who was as American as Xceron is Greek, and 
+knew of the world as Xceron does not, once wrote to his painter friend "...You have the pic- 
+tures and that is not new— you have always made them, and maybe they are too good, too subtle, 
+too sensitive; but someday the world will catch up with you. Most artists are with you and 
+that is the greatest level of appreciation . . ." 3 
+
+
+
+letter from David Smith to Xceron, April 22, 1957. 
+
+
+
+18 
+
+
+
+WORKS I.\ THE E\HIBITIO\ 
+
+
+
+1. CRUCIFIXION NO. 6. 1917. 
+Oil on canvas. 11% x 9". 
+Lent by the artist. 
+
+2. ADAM AND EVE NO. 9. 1919. 
+Oil on canvas, 9% x 7%". 
+Lent by the artist. 
+
+3. LANDSCAPE NO. 36. 1923. 
+Gouache on board. 15% x 19". 
+Lent by the artist. 
+
+4. CHARTRES NO. Al. 1929. 
+Watercolor, 18 x 24". 
+
+Lent by the artist. 
+
+5. VIOLIN NO. 7. Paris. 1931. 
+Oil on canvas, 27% x 22%". 
+
+Lent by Mary Dorros Xceron, New York. 
+
+6. PORTRAIT OF THE ARTIST NO. 67. Paris. 1932. 
+Oil on board, 16 x 13". 
+
+Lent by Mary Dorros Xceron, New York. 
+
+7. VIOLIN NO. 6E. 1932. _ 
+Oil on canvas, 25% x 31%". 
+Lent by the artist. 
+
+8. PAINTING NO. 70. 1933. 
+Oil on canvas, 16 x 13%". 
+
+Lent by Mary Dorros Xceron, New York. 
+
+9. DRAWING. 1935. 
+Ink. 5% x 9%". 
+
+Collection Rose Fried, New York. 
+
+10. COMPOSITION NO. 220A. 1936. 
+Gouache, 30x21%". 
+
+Lent by the artist. 
+
+11. PAINTING NO. 219. 1936. 
+Oil on canvas, 18% x 15". 
+
+Lent by Mary Dorros Xceron, New York. 
+
+12. COMPOSITION NO. 242. 1937. 
+Oil on canvas, 45% x 31%". 
+
+Collection The Solomon R. Guggenheim Museum. 
+New York. 
+
+13. PAINTING NO. 211. 1937. 
+Oil on canvas, 25% x 21%". 
+
+Collection Mr. and Mrs. Edgar B. Miller, Chicago. 
+
+14. PAINTING NO. 239. 1938. 
+Oil on canvas, 58 x 38%". 
+Lent by the artist. 
+
+15. SERIES OF FOURTEEN STUDIES 
+FOR PAINTINGS NO. 259B. 1939. 
+Watercolor and ink. 11 x 16%". 
+
+Lent by the artist. 
+
+
+
+16. COMPOSITION NO. 250. 1941. 
+Oil on board, 21% x 19%". 
+
+The Joseph H. Hirshhorn Collection, New York. 
+
+17. COMPOSITION NO. 251. 1941. 
+Oil on canvas, 40 x 30%". 
+
+Collection The Solomon R. Guggenheim Museum. 
+New ^ ork. 
+
+18. FRAGMENTS NO. 252. 1941. 
+Oil on canvas, 26 x 20". 
+
+Lent by the artist. 
+
+19. WHITE AND GRAY NO. 256. 1941. 
+Oil on canvas, 30% x 20%". 
+
+Collection Mr. and Mrs. Fred Olsen through 
+The Olsen Foundation. Guilford, Connecticut. 
+
+20. PAINTING NO. 260. 1942. 
+Oil on board, 19 x 19". 
+Lent by the artist. 
+
+21. COMPOSITION NO. 261A. 1943. 
+Oil on canvas, 40 x 30". 
+
+Collection Miss Hilla von Rebay. Greens Farms. 
+Connecticut. 
+
+22. DRAWING AND WATERCOLOR NO. 263A. 1943. 
+Watercolor and ink, 8 % x 11". 
+
+Lent by the artist. 
+
+23. DRAWING NO. 251A. 1944. 
+Ink, 19 x 12%". 
+
+Lent by the artist. 
+
+24. COMPOSITION NO. 269. 1944. 
+Oil on canvas, 51 x 45". 
+
+Collection The Solomon R. Guggenheim Museum. 
+New It ork. 
+
+25. WHITE FORM NO. 271. 1944. 
+Oil on canvas, 36 x 30". 
+
+Collection The Solomon R. Guggenheim Museum. 
+New York. 
+
+26. COMPOSITION NO. 257. 1945. 
+Oil on canvas, 19% x 15%". 
+
+Collection The Solomon R. Guggenheim Museum, 
+New York. 
+
+27. COMPOSITION NO. 273. 1945. 
+Oil on canvas, 40 x 32". 
+
+Collection Whitney Museum of American Art, 
+New York. Gift of the Friends of the Whitney Museum. 
+
+28. COMPOSITION NO. 275. 1945. 
+Oil on canvas, 32 x 40". 
+
+Collection Mr. and Mrs. Edgar B. Miller. Chicago. 
+
+29. PAINTING NO. 293. 1946. 
+Oil on canvas, 40 x 32". 
+
+Collection The Solomon R. Guggenheim Museum, 
+New York. 
+
+
+
+19 
+
+
+
+30. COMPOSITION NO. 325. 1947. 
+Watercolor, 13 x lOVfe". 
+
+Collection Mr. and Mrs. Saul Edelbaum, New York. 
+
+31. MULTIFORM NO. 303. 1947. 
+Oil on canvas, 50 x 40". 
+
+Collection The Solomon R. Guggenheim Museum, 
+New York. 
+
+32. RHYTHM NO. 301. 1947. 
+Oil on canvas, 51 x 42". 
+
+Collection The Solomon R. Guggenheim Museum, 
+New York. 
+
+33. COMPOSITION NO. 319. 1948. 
+Oil on canvas, 42 x 34". 
+
+Collection The Solomon R. Guggenheim Museum, 
+New York. 
+
+34. IMAGE NO. 330. 1949. 
+Oil on canvas, 51 x 42". 
+Lent by the artist. 
+
+35. SOUND NO. 291. 1949. 
+Oil on canvas, 51 x 42". 
+
+Collection Mr. and Mrs. Edgar B. Miller, Chicago. 
+
+36. VARIATIONS NO. 329. 1949. 
+Oil on canvas, 50 x 42". 
+
+Mr. and Mrs. Walter Nelson Pharr, New York. 
+
+37. BEYOND WHITE. 1950. 
+Oil on canvas, 50% x 40 Vs". 
+Collection Krannert Art Museum. 
+University of Illinois, Champaign. 
+
+
+
+44. CIRCLE NO. 515A. 1960. 
+Watercolor, 8% x 11 Vz" . 
+
+Collection Mr. and Mrs. George Phillips, Jr., Chicago. 
+
+45. COMPOSITION 8, NO. 432. 1960. 
+Oil on canvas, 70 x 42". 
+
+Lent by Rose Fried Gallery, New York. 
+
+46. PAINTING NO. 430. 1960. 
+Oil on canvas, 40 x 51". 
+
+Lent by Rose Fried Gallery, New York. 
+
+47. PAINTING 7, NO. 438. 1961. 
+Oil on canvas, 70 x 41". 
+
+Lent by Rose Fried Gallery, New York. 
+
+48. PAINTING 9, NO. 435. 1961. 
+Oil on canvas, 36 x 48" 
+
+Lent by Mary Dorros Xceron, New York. 
+
+49. PAINTING 11, NO. 436. 1961. 
+Oil on canvas, 33 x 45". 
+Private Collection, New York. 
+
+50. DRAWING NO. 3. 1962. 
+Ink, 11 x 8%". 
+
+Lent by the artist. 
+
+51. LANDSCAPE NO. 38. 1962. 
+Watercolor, 12 x 17 W. 
+Lent by the artist. 
+
+52. PAGEANT NO. 558A. 1962. 
+Watercolor, 22 x 31". 
+
+Collection Miss May Walter, New York. 
+
+
+
+38. TWO CIRCLES NO. 338. 1951. 
+Gouache, 22% x 15". 
+Collection Mr. and Mrs. Norman Belgrade, Chicago. 
+
+
+
+53. SOURCE NO. 445. 1962. 
+Oil on canvas, 33 x 27". 
+Lent by the artist. 
+
+
+
+39. PAINTING NO. 341A. 1951. 
+Oil on canvas. 30 x 24". 
+
+Collection Denis E. Paddock, New York. 
+
+40. IKON NO. 386. 1954. 
+
+Oil on canvas, 34% x 22 7 /s". 
+
+Collection The Solomon R. Guggenheim Museum, 
+
+New York. 
+
+
+
+54. U FORM NO. 553A. 1962. 
+Watercolor, 31 x 22". 
+
+Collection Lawrence Bloedel, Williamstown, 
+Massachusetts. 
+
+55. CARYATIDES 27, NO. 452. 1963. 
+Oil on canvas, 40 x 51". 
+
+Lent by the artist. 
+
+
+
+41. FIGURE NO. 389A. 1955. 
+Watercolor, 30% x 22 1 A'\ 
+Lent by the artist. 
+
+
+
+56. FIGURES 24, NO. 449. 1963. 
+Oil on canvas, 40 x 50". 
+Lent by the artist. 
+
+
+
+42. PAINTING 9, NO. 424. 1958. 
+Oil on canvas, 42 x 70". 
+Lent by the artist. 
+
+43. PAINTING NO. 426. 1959. 
+Oil on canvas, 37 x 48". 
+
+Lent by Rose Fried Gallery, New York. 
+
+
+
+57. SOUND 21, NO. 446. 1963. 
+Oil on canvas, 23 x 27". 
+Lent by the artist. 
+
+58. MORPHES NO. 457. 1964. 
+Oil on canvas, 40 x 51". 
+Lent by the artist. 
+
+
+
+
+12 
+
+
+
+
+13 
+
+
+
+DO 
+
+
+\c 
+
+
+
+17 
+
+
+
+
+
+-WttSUi 
+
+-.'■■ :■:■:■■■■■-■' 
+
+/•,•'.-..•• ■:■'■■■■■■:■ 
+
+
+
+ttHPBBll 
+
+vvtKS-n 
+
+
+
+■,;;..-■■ 
+■■'/'■ ;: 
+
+
+
+
+
+
+14 
+
+
+
+
+16 
+
+
+
+
+
+18 
+
+
+
+19 
+
+
+
+
+21 
+
+
+
+
+
+24 
+
+
+
+
+25 
+
+
+
+
+26 
+
+
+
+
+28 
+
+
+
+
+31 
+
+
+
+
+
+33 
+
+
+
+
+
+
+36 
+
+
+
+
+35 
+
+
+
+
+34 
+
+
+
+
+
+at 
+
+
+
+40 
+
+
+
+
+41 
+
+
+
+
+
+/ 
+
+
+t 
+
+1 
+
+
+
+
+f 1 
+
+
+
+
+
+
+
+
+
+
+
+42 
+
+
+
+
+43 
+
+
+
+
+46 
+
+
+
+
+45 
+
+
+
+
+47 
+
+
+
+
+43 
+
+
+
+
+53 
+
+
+
+
+49 
+
+
+
+
+50 
+
+
+
+
+52 
+
+
+
+
+55 
+
+
+
+SELECTED BIBLIOGRAPHY \ V 1) EXHIBITION LIST 
+
+
+
+WRITINGS BY XCEROX 
+
+
+
+Chicago Tribune, Paris, p. 4: "J. Torres-Garcia", April 6, 1929. 
+
+"Van Doesburg", April 28, 1929. "Jean Helion", June 5, 1929. 
+
+"Tal-Coat", June 15, 1929. "Otto Van Rees", June 23, 1929. 
+
+"Emile Rozier", June 29, 1929. "Georges Vantongerloo", July 5, 1929. 
+
+"Hans Arp", July 20, 1929. "John D. Graham", July 24, 1929. 
+
+"V de Rego Monteiro", July 27, 1929. "Mme. Tauber Arp", August 7, 1929. 
+
+"Piet Mondrian", August 12, 1929. "J. A. Czaky", September 19, 1929. 
+
+"E. Teriade", October 8, 1929. "Leopold Zborowsky", October 26, 1929. 
+
+"Maurice Raynal", October 31, 1929. "Adolphe Basler", December 5, 1929. 
+
+"Creixams", December 8, 1929. "Chil Aronson", December 22, 1929. 
+
+"Max Berger", December 26, 1929. "Andre Salmon", January 2, 1930. 
+
+"Natalie Gontcharova", March 17, 1930. "Waldemar George", April 12, 1930. 
+
+"Andre Beaudin", July 2, 1930. "Menkes", July 25, 1930. 
+
+"H. Berlewi", July 26, 1930. "Christian Zervos", August 27, 1930. 
+
+"Michel Larionow", September 8, 1930. "Fernand Leger", November 30, 1930. 
+
+Boston Transcript, Boston: "Contemporary Sculpture in Italian Art", January 18, 1930. 
+
+"Independants Fill the Grand Palais", February 15, 1930, p. 8. 
+
+"Contemporary Decoration at the Musee des Arts Decoratifs", April 18. 1930, p. 7. 
+
+"Societe des Artistes Francais", May 28. 1930. 
+
+"Artists and Fine Art Exhibitions", June 25, 1930, p. 12. 
+
+"Exhibition Salon des Tuileries", August 23, 1930, p. 8. 
+
+Statement, Cercle et Carre, Paris, no. 2, April 15. 1930, n.p. 
+
+"Neo-Plasticisme or Elementarist Art", The New Review, Paris, vol. 1, no. 4, 
+Winter 1931-32, pp. 316-319. 
+
+Comment, Radio Magazine, New York, January 1952, p. 3. 
+
+"Portrait of Dr. Demetrios Callimachos" and "Portrait of Nicolas G. Lely". 
+Athene, Chicago, vol. 15, no. 3. Autumn 1954, pp. 13, 16. 
+
+
+
+I M»l Itl.lMlllt &gt;I\MM IS 
+
+
+
+"Radar", 1948. 
+
+"Notes on My Painting", February 1952. 
+
+
+
+ARTICLES ON XCERON 
+
+
+
+53 
+
+
+
+politis, Michael. "0 Jean Xceron Ke Ei Apoliti Techni", 
+Neoelinka Gramata, Athens, July 15, 1939. 
+sivilla. "Ei Techni Too Jean Xceron", Atlantis, New York, 
+June 20, 1947. 
+
+cianakoulis, Theodore. "Contributors to American Cul- 
+ture: Jean Xceron", Athene, Chicago, vol. 8, no. 3. Autumn 
+1947, pp. 14-16. 
+
+"Radar: A Non-Objective painter tries to marry science 
+and art on canvas", Life, New York, vol. 24, no. 5, Febru- 
+ary 2, 1948, p. 69. 
+
+argyris, vasos. "Jean Xceron", The National Herald, New 
+York, November 27, 1948. Appeared in Greek in Vima 
+Gapa, Pittsburgh, vol. 14, no. 5, August-September 1949, 
+pp. 9-20. 
+
+visvardis, JOHN. "Around our Painters: Jean Xceron", 
+Eptanisos, New York, vol. 2, no. 6, September 1950, p. 3. 
+procopiou, A. G. "Ei Techni Too Jean Xceron", Kathime- 
+rini, Athens, September 29, 1953. English translation, "The 
+Art of Jean Xceron", The National Herald, New York, 
+June 17, 1954. 
+
+kasak, n. "Jean Xceron", Numero, Florence, vol. 5, no. 6, 
+November-December 1953, p. 20. 
+
+ashton, dore. "Jean Xceron", XX e Steele, Paris, vol. 23, 
+no. 16, May 1961, section Chroniques da Jour, n.p. 
+granitsas, spyridon. "Xceron", Eikones, Athens, vol. 2, 
+no. 380, February 4, 1963, pp. 34-35. English translation, 
+Art Voices, New York, vol. 2, no. 3, March 1963, p. 11. Also 
+appeared in The National Herald, New York, April 14, 1963. 
+
+
+
+bethers, ray. How Paintings Happen, New York, W. W. 
+Norton &amp; Co., 1951, p. 143. 
+
+gomez-sicre, jose. Guia de las Colecciones Publicas de 
+Arte en los Estados Unidos, Washington, D.C., Union Pan 
+Americana, 1951, vol. 1, p. 138. 
+
+Phillips, duncan. The Phillips Collection Catalogue, Wash- 
+ington, D.C., The Phillips Collection, 1952, p. 139. 
+lebel, Robert, ed. Premier Bilan de V Art Actuel, 1937- 
+1953, Paris, Cahiers Trimestriels, 1953, p. 22. 
+bene'zit, e. Dictionnaire Critique et Documentaire des Pein- 
+tres, Sculpteurs, Dessinateurs et Graveurs, Paris, Librairie 
+Grund, 1955, vol. 8, p. 819. 
+
+pousette-dart, Nathaniel, ed. American Painting Today, 
+New York, Hastings House, 1956, ill. p. 93. 
+seuphor, michel. Piet Mondrian, New York, Harry N. 
+Abrams, 1956, pp. 174, 190. 
+
+The World of Abstract Art, New York, George Wittenborn, 
+Inc., 1957, pp. 105, 140, 160, ill. pp. 42, 145. Edited by the 
+American Abstract Artists. 
+
+seuphor, michel. Dictionary of Abstract Painting, New 
+York, Tudor Publishing Co., 1957, p. 292. 
+A Handbook to The Solomon R. Guggenheim Museum 
+Collection, New York, The Solomon R. Guggenheim Mu- 
+seum, 1959, p. 178. 
+
+procopiou, angelo. Esthitiki Ke Techni Stin Ameriki, 
+Athens, Nees Morphes, 1961, pp. 119, 120, pi. 30. 
+
+
+
+BOOKS 
+
+
+
+MISCELLANEOUS 
+
+
+
+aronson, chil. Artistes Americaines Modernes de Paris, 
+Paris, Editions Le Triangle, 1932, p. 18, ill. pp. 128, 129. 
+edouard-joseph, rene. Dictionnaire Biographique des Ar- 
+tistes Contemporains, Paris, Librarie Grund, 1934, vol. 3, 
+p. 443. 
+
+felshin, max. Leaves of Life, New York, The Book Guild, 
+1936, p. 19. Poem entitled Xceron. 
+
+graham, john d. Systems and Dialectics of Art, New York, 
+Delphic Studios, 1937, p. 153. 
+
+bear, donald j. American Art Today, New York, National 
+Art Society, 1939, pp. 22-23. 
+
+A. E. Gallatin Collection, New York, Museum of Living- 
+Art, New York University, 1940. "Notes on Artists" by 
+George L. K. Morris, p. 153. 
+
+barr, Alfred h. Painting and Sculpture in The Museum 
+of Modern Art, New York, The Museum of Modern Art, 
+1942, pp. 12, 14, 80. 
+
+kootz, samuel m. New Frontiers in American Painting, 
+New York, Hastings House, 1943, pp. 52, 65, pi. 89. 
+American Abstract Artists, New York, The Ram Press, 
+1946. Introduction by George L. K. Morris, ill., n.p. 
+thieme. ulrich and becker, felix. Allgemeines Lexikon 
+der bildenden Kiinstler, Leipzig, Seeman Verlag, 1947, 
+vol. 36, p. 342. 
+
+read, Herbert. Art Now, London, Faber &amp; Faber, 1948, 
+pi. 46. 
+
+meyers, Bernard s. Modern Art in the Making, New York, 
+McGraw Hill, 1950, p. 395. 
+
+
+
+"Under Museum Banners", The New York Times, New 
+York, December 26, 1937. On the permanent collection at 
+the Museum of Living Art, New York University. 
+sweeney, james johnson. "L'Art Contemporain aux 
+Etats-Unis", Cahiers d'Art, Paris, vol. 13, nos. 1-2. 1938, 
+pp. 43-52. 
+
+michalaros, demetrios, a. "Contemporary Greek Art", 
+Athene, Chicago, vol. 2, no. 12, December 1941, p. 22. 
+"The Holbrook Collection", Georgia Cracker, Athens, Uni- 
+versity of Georgia, vol. 1, no. 4, January 1947, p. 15. 
+"Exposition des Peintres Americains a Paris", Cahiers 
+d'Art, Paris, vol. 22, 1947, p. 330, ill., p. 326. 
+"Five Greek-American Painters", Athene, Chicago, vol. 11, 
+no. 2, September 1950, pp. 16, 21. 
+
+seuphor, michel. "Paris-New York 1951", Art d'Au- 
+jourd'hui, Paris, vol. 2, no. 6, June 1951, pp. 2, 10, 11. 
+flexor, sanson. "Quatro Pintores Abstractos de Nova 
+Iorque", Habitat, Sao Paulo, vol. 7, no. 42, May-June 1957, 
+pp. 30-31. 
+
+h[ess], t[homas] b. "Editorial: Innocents to Brussels", 
+Art News, New York, vol. 57, no. 1, March 1958, p. 23. 
+tillim, Sidney. "What Happened to Geometry?", Arts, 
+New York, vol. 33, no. 9, June 1959, p. 40. 
+smith, david. "Notes on My Work", Arts, New York, vol. 
+34, no. 5, February 1960, p. 44. 
+
+brown, Gordon. "International Art Trends, U.S.A.: the 
+Purists", Art Voices, New York, vol. 2, no. 5, May 1963, 
+p. 18. 
+
+
+
+ONE MAN EXHIBITIONS 
+
+
+
+54 
+
+
+
+Xceron, Galerie de France, Paris, December 1-18, 1931. 
+Reviews: A. w. Comoedia, Paris, December 2, 1931. 
+
+r[aynal], m[aurice]. "On Expose: Oeuvres de 
+Xceron", L'lntransigeant, Paris, December 6, 
+1931. 
+
+"Works of Greco-American Painter being shown 
+at Galerie de France", Chicago Tribune, Paris, 
+December 6, 1931. 
+
+clar, fanny. "Les Arts: Art Hermetique ou le 
+casse-tete pictural". Le Soir, Paris, December 
+10, 1931. 
+
+"Art Notes", The New York Herald, Paris. De- 
+cember 14, 1931. 
+
+salmon, andre'. "Que pense-t-il de l'exposition 
+Xceron", Gringoire, Paris, December 25, 1931. 
+heilmaier, h. "Galerie de France: Xceron", 
+Neue Pariser Zeitung, Neuilly, December 26. 
+1931. 
+
+zervos, christian. "Les Exposition a Paris et 
+Ailleurs: Xceron. Peintures", Cahiers d'Art, 
+Paris, vol. 6, nos. 9-10, 1931, p. 451. 
+fierens, PAUL. Le Journal de Debats. Paris. Feb- 
+ruary 21, 1932. 
+
+Xceron, Galerie Percier, Paris, May 11-25, 1933. 
+
+Reviews: t[e'riade], e. "On Expose: Exposition Xceron", 
+L'lntransigeant, Paris, May 15, 1933. 
+"Xceron's Exhibit is held over at Galerie Per- 
+cier", Chicago Tribune, Paris, May 18, 1933. 
+p. 14. 
+
+"De la Peinture Pure", Cri de Paris, Paris, May 
+20, 1933. 
+
+zervos, christian. "Les Expositions a Paris et 
+Ailleurs: Xceron", Cahiers d'Art, Paris, vol. 8, 
+nos. 5-6, 1933, pp. 250-251. 
+
+Xceron, Galerie Pierre, Paris, July 2-10, 1934. 
+
+Reviews: "Works of Xceron Reveal Enthusiast of Pure 
+Design", Chicago Tribune, Paris, July 4, 1934. 
+devau, charles. "Xceron", Beaux-Arts, Paris, 
+no. 79, July 27, 1934. 
+
+La Semaine de Paris, Paris, July 13-19, 1934. 
+salmon, andre. "Les Arts", Gringoire, Paris, 
+July 27, 1934. 
+
+fierens, paul. Journal des Debats, July 22, 1934. 
+zervos, christian. "Les Expositions a Paris et 
+Ailleurs: Xceron", Cahiers d'Art, Paris, vol. 9, 
+nos. 5-8, 1934, p. 205. 
+
+Xceron, Garland Gallery, New York, March 22-May 1, 1935. 
+
+Reviews: burrows, carlyle. "A Modern Frenchman", 
+New York Herald Tribune, New York, March 
+31, 1935. 
+
+devree, Howard. "French Abstraction", The 
+New York Times, New York, March 31, 1935. 
+offin, charles z. "Another New Gallery and 
+M. Xceron", Brooklyn Daily Eagle, Brooklyn. 
+March 31, 1935. 
+
+breuning, Margaret. "Garland Gallery", New 
+York Post, New York, April 6, 1935. 
+mcbride, henry. New York Sun, New York. 
+April 6, 1935. 
+
+M. M. "Xceron", Art News, New York, vol. 33, 
+no. 27, April 6, 1935, p. 14. 
+
+godsoe, robert ulrich. "The Art Marts", News- 
+day, Garden City, Long Island, April 11, 1935. 
+
+
+
+Xceron: Recent Paintings, Nierendorf Gallery, New York, 
+opening April 13, 1938. 
+
+Reviews: klein, jerome. New York Post, New York, 
+April 23, 1938. 
+
+M. d. "Abstractions by Jean Xceron, Greek- 
+American Artist", Art News, New York, vol. 36. 
+no. 31, April 30, 1938, p. 11. 
+burrows, carlyle. "Purist Abstractions", New 
+York Herald Tribune, New York, May 1, 1938. 
+jewell, E. A. "Abstractions by Two", The New 
+York Times, New York, May 1, 1938. 
+nicolaides, n. "Ney Kalitechniki Orizontes Ta 
+Sphighodi DimiourgimataTis AphirimenisTech- 
+nis, Neon Phos Apo Tin Zographikin Too Jean 
+Xceron", National Herald, New York, May 7, 
+1938. 
+
+bird, p. "The Fortnight in New York", Art 
+Digest, New York, vol. 12, no. 16, May 15, 1938, 
+p. 18. 
+
+Xceron, Bennington College, Bennington, Vermont, Octo- 
+ber 1-14, 1944. 
+
+Radar Painting by Xceron, Knoedler Gallery, New York, 
+September, 1946. 
+
+Xceron, a retrospective exhibition organized by Raymond 
+Jonson, traveled to: 
+
+Museum of New Mexico, Santa Fe, October 6-27, 1948. 
+
+Reviews: "Xceron Paintings Exhibited at State Art Gal- 
+lery", Santa Fe New Mexican, Santa Fe, Octo- 
+ber 14, 1948. 
+
+D. K. "Erga Too Xceron Tha Ektethoun Is 
+Mouseia Ditikon Polition", Atlantis, New York, 
+November 5, 1948. 
+
+University of New Mexico, Albuquerque, November 4-17, 
+1948. 
+
+Review: "Out-of-Town Show at UNM Gallery: Jean 
+Xceron Paintings Hung", Albuquerque Journal. 
+Albuquerque, November 10, 1948. 
+
+Carlsbad Library Museum, Carlsbad, New Mexico, Decem- 
+ber 1-15, 1948. 
+
+Revieiv: "Roderick Mead gives Gallery Talk at Opening 
+of Xceron Show Today", Carlsbad Argus, Carls- 
+bad, December 5, 1948. 
+
+Art Gallery, UCLA, Los Angeles, January 24-February 
+14, 1949. 
+
+Revieiv: millier, Arthur. "The Arts", Los Angeles Times, 
+Los Angeles, February 6, 1949. 
+
+Art Center of La Jolla, March 1-31, 1949. 
+
+Review: klapp, freda l. "Current Art Exhibition Impres- 
+sive", La Jolla Light, La Jolla, March 17, 1949. 
+
+Santa Barbara Museum, April 12-28, 1949. 
+
+Review: d. b. Santa Barbara, Santa Barbara, April 3, 1949. 
+
+University of Washington, Seattle, July 6-31, 1949. 
+
+Review: University Herald, Seattle, July 7, 1949. 
+
+Xceron, Sidney Janis Gallery, New York, June 12-24, 1950. 
+
+Reviews: louchheim, aline b. "Among the New Shows". 
+The New York Times, New York, June 18, 1950. 
+chanin, a. l. "World of Art", The Sunday Com- 
+pass, New York, June 25, 1950. 
+adlow, dorothy. "Summer Activity— and Lack 
+of It", The Christian Science Monitor, Boston, 
+July 1, 1950. 
+
+
+
+55 
+
+
+
+k[rasne], b[elle]. "Fifty-Seventh Street in 
+Review: Xceron lines up Form", Art Digest, 
+New York, vol. 24, no. 18, July 1, 1950, p. 19. 
+burrows, carlyle. "Summer Art— Here and in 
+the Colonies", New York Herald Tribune, New 
+York, July 2, 1950. 
+
+visvardis, John. Eptanisos, New York, vol. 3, 
+no. 4, July 1950, p. 4. 
+
+l[a] f[arge], h. "Jean Xceron's", Art News, 
+New York, vol. 49, no. 5, September 1950, p. 46. 
+pesketzi, tzina. "Xeni Pnevmatiki Zoi Ino- 
+menes Polities Enas Zografos Apo Tin Elada", 
+Nea Estia, Athens, September 1950, p. 1398. 
+
+Xceron: New Paintings, Rose Fried Gallery, New York, 
+March 7-26, 1955. 
+
+Reviews: estet. The National Herald, New York, March 
+3, 1955. 
+
+p[reston], s[tuart]. The New York Times, 
+New York, March 12, 1955. 
+g[eorge], l[averne]. "Jean Xceron", Art Di- 
+gest, New York, vol. 29, no. 12. March 15, 1955, 
+p. 26. 
+
+g[enauer], e[mily]. "New Works by Xceron", 
+New York Herald Tribune, New York, March 
+19, 1955. 
+
+h[ess], t[homas] b. "Jean Xceron", Art News, 
+New York, vol. 54, no. 1, March 1955, p. 51. 
+vasileiou, p. "Jean Xceron", Ethnos, Athens, 
+June 5, 1955. 
+
+Xceron: Exhibition of Paintings 1956-1957, Rose Fried 
+Gallery, New York, April 16-May 31, 1957. 
+
+Reviews: preston, stuart. The New York Times, New 
+York, April 20, 1957, p. 9. 
+
+burrows, carlyle. "Art on View", New York 
+Herald Tribune, New York, April 21, 1957. 
+s[chuyler], j[ames]. "Jean Xceron", Art 
+News, New York, vol. 56, no. 2, April 1957, p. 11. 
+b[arry], j. g. "Jean Xceron", Pictures on Ex- 
+hibit, New York, vol. 20, May 1957, pp. 19-20. 
+m[ellow], j[ames] r. "Jean Xceron", Arts, 
+New York, vol. 31, no. 5, May 1957, p. 52. 
+
+Xceron, Newcomb College, Tulane University, New Or- 
+leans, October 15-November 4, 1957. Organized by George 
+Rickey. 
+
+Reviews: Atlantis, New York, November 8, 1957. 
+
+lamprakis. Nea, Athens, vol. 13, no. 3852, De- 
+cember 10, 1957. 
+
+Xceron: Recent Paintings, Rose Fried Gallery, New York, 
+April 19-May 7, 1961. 
+
+Reviews: preston, stuart. "International Set", The New 
+York Times, New York, April 24, 1960. 
+
+g[enauer], e[mily]. "Xceron Show", New York 
+Herald Tribune, New York, May 1, 1960. 
+
+hadjipetros, a. The National Herald, New York, 
+May 3, 1960. 
+
+butler, Barbara. "Contemporary Classicism", 
+Art International, Zurich, vol. 4, no. 5, May 25, 
+1960, pp. 39-40. 
+
+s[andler], i[rving] h. "6 for May: Xceron", 
+Art News, New York, vol. 59, no. 3, May 1960. 
+pp. 40, 50. 
+
+s [tiles], g. "Gallery Previews in NewYork: 
+Jean Xceron", Pictures on Exhibit, New York, 
+vol. 27, no. 8, May 1960, p. 20. 
+
+
+
+mellow, james r. "Jean Xceron at Seventy", 
+Arts, New York, vol. 34, no. 9, June 1960, pp. 
+30-33. 
+
+Xceron, Rose Fried Gallery, New York, May 16-June 30, 
+1961. Watercolor exhibition. 
+
+Reviews: preston, stuart. "Recent Watercolors", The 
+New York Times, New York, May 20, 1961. 
+G [enauer] , e [mily] . "The Lively Arts : Xceron", 
+New York Herald Tribune, New York, May 27, 
+1961. 
+
+levick, l. e. "Gallery Guide", New York Journal 
+American, New York, May 27, 1961. 
+dolbin,b.f. "Ausstellungen: Jean Xceron". Auf- 
+bau, New York, June 2, 1961. 
+p[ease], r[oland] f., jr. "Jean Xceron", Pic- 
+tures on Exhibit, New York, vol. 22, no. 9, June 
+1961. 
+
+ziogas, e. Krikos, London, vol. 12, no. 126, June 
+1961, p. 21. 
+
+ashton, dore. "Other Exhibitions", Arts and 
+Architecture, Los Angeles, vol. 78, July 1961, 
+pp. 5, 29. 
+
+c[ampbell], l[awrence]. "Jean Xceron", Art 
+News, New York, vol. 60, no. 4, Summer 1961, 
+p. 12. 
+
+raynor, vivien. "In the Galleries: Xceron", Arts 
+Magazine, New York, vol. 35, no. 10, September 
+1961, p. 40. 
+
+Xceron: Selection of Paintings 1929-1962, Rose Fried Gal- 
+lery, New York, April 16-May 19, 1962. 
+
+Reviews: levick, l. e. "Art and Artists: Abstract Show 
+Offers Realist 'Fringe Benefits' ", New York 
+Journal American, New York, section 7, April 
+21, 1962. 
+
+preston, stuart. "Painting by Xceron", The 
+New York Times, New York, April 21, 1962. 
+Christy, george. "City Lights", The National 
+Herald, New York, April 22, 1962. 
+sandler, irving H. "In the Art Galleries", New 
+York Post, New York, April 29, 1962. 
+s[andler], i[rving] h. "Jean Xceron", Art 
+News, New York, vol. 61, no. 2, April 1962, p. 11. 
+p[ease], r[oland] f., jr. "Gallery Previews: 
+Xceron at Rose Fried", Pictures on Exhibit, New 
+York, vol. 25, no. 8, May 1962, pp. 22-23. 
+
+Xceron: Exhibition of Recent Paintings, Rose Fried Gal- 
+lery, New York, April 3-May 2, 1963. 
+
+Reviews: "Jean Xceron", New York Herald Tribune, New 
+York, April 6, 1963. 
+
+preston, stuart. "Jean Xceron", The New York 
+Times, New York, April 13, 1963, p. 16. 
+"Xceron at Fried", Manhattan East, New York, 
+April 18, 1963. 
+
+levick, l. e. New York Journal American, New 
+York, April 20, 1963. 
+
+de knight, avel. "Jean Xceron chez Rose Fried", 
+F ranee- Amerique, New York, April 28, 1963, 
+p. 19. 
+
+l[onngren], l[illian]. "Jean Xceron", Art 
+News, New York, vol. 62, no. 3, May 1963, p. 14. 
+r[oss], f[elice] t. "Gallery Previews in New 
+York: Jean Xceron", Pictures on Exhibit, New 
+York, vol. 26, no. 8, May 1963, p. 16. 
+raynor, vivien. "In the Galleries : Jean Xceron", 
+Arts Magazine, New York, vol. 37, May-June 
+1963, p. 112. 
+
+
+
+56 
+
+
+
+Jean Xceron -.Recent Paintings, Goldwach Gallery, Chi- 
+cago, November 12-December 15, 1963. 
+
+Review: "The Art World: New Exhibits Here Offer Va- 
+riety". Chicago American, Chicago. November 
+17, 1963. 
+
+Xceron: Recent Oils, Watercolors and Drawings, Rose 
+Fried Gallery, New York, April 22-May 23, 1964. 
+
+Reviews: genauer, emily. "The Galleries: Jean Xceron", 
+New York Herald Tribune, New York. April 25. 
+1964. 
+
+o'doherty, brian. "Xceron", The New York 
+Times, New York, May 2, 1964. 
+"Art in New York", Time, New York, May 8, 
+1964. 
+
+Roberts, colette. "Xceron chez Rose Fried". 
+France-Amerique, New York, May 10, 1964. 
+Johnson, marguerite. "Art in New York". 
+Time, New York, May 15, 1964. 
+marketos. b. j. "Xceron", The National Herald, 
+New York, May 20, 1964. 
+
+dolbin, b. f. "Xceron", Aufbau, New York, May 
+22, 1964. 
+
+B[ROWN],G[oRDON]."Jean Xceron", Art Voices, 
+New York, vol. 3, no. 5, June 1964, p. 9. 
+r[oss], f[elice] t. "Gallery Previews in New 
+York: Jean Xceron", Pictures on Exhibit, New 
+York, vol. 27, no. 9, June 1964, p. 16. 
+tillim, Sidney. "Xceron", Arts Magazine, New 
+York, vol. 38, no. 10, September 1964, p. 66. 
+
+
+
+GROll' EXHIBITIONS 
+
+
+
+Ecole de Paris, Galerie Dalmau. Barcelona. December 
+1929. 
+
+Review: faigairolle, a. de. "Asphalte. 6 tableau sonore 
+derriere lequel il retentit quelque chose", L'ln- 
+transigeant, Paris, December 6. 1929. 
+
+Greek Artists in Paris, Zappeion, Athens, November-De- 
+cember 1930. 
+
+Contemporary French Painters, Arts and Crafts Club. 
+New Orleans, March-April 1931. Catalogue by E. Teriade. 
+
+Exposition Artistes Americains de Paris, Galerie de la 
+Renaissance, Paris, January 18-February 6, 1932. Cata- 
+logue preface by Chil Aronson. 
+
+Review: teriade, e. "Les artistes Americains", L'lntran- 
+sigeant, Paris, January 25, 1932. 
+
+Collection des Cahiers d'Art, Hotel Drouot, Paris, auc- 
+tion April 12, 1933. Catalogue: Moniteur des Ventes. 
+
+Revista Anual do Salao de Maio, Mayo Gallery, Sao 
+Paulo, opening May 11, 1939. Catalogue introduction by 
+Flavio Carvallio. 
+
+
+
+Art of Tomorrow, Museum of Non-Objective Painting, 
+New York, opening June 1, 1939. Catalogue introduction 
+by Hilla Rebay. 
+
+Review: M.u. "Art of Tomorrow: Guggenheim Non-Ob- 
+jective Painting on View in New Gallery", New 
+York Sun, New York, June 10, 1939. 
+
+Oeuvres des artistes apres 1920. Galerie Charpentier, 
+Paris, July 17-31, 1939. 2nd exhibtion of Salon des Reali- 
+tes Nouvelles. 
+
+Golden Gate Exposition of Contemporary American Paint- 
+ing, Palace of Fine Arts, San Francisco, March-December 
+2, 1939. Group loan from the Museum of Non-Objective 
+Painting, New York. 
+
+Review: morley, g. l. "San Francisco presents One Man's 
+Opinion of Living American Art", Art Digest, 
+New York, vol. 13, no. 12, March 15, 1939, pp. 
+27-32; addendum: "Living Americans", pp. 45- 
+46. 
+
+American Art Today, United States Pavilion, New York 
+World's Fair, opening September 28, 1939. Catalogue in- 
+troduction by flolger Cahill. 
+
+Review: bear, d. "American Art Todav", Art Digest, New 
+York, vol. 13, no. 17, June 1, 1939, pp. 20-25, 33. 
+
+Exhibition of Contemporary Greek and Greek-American 
+Art, Greek Pavilion, New York World's Fair, opening 
+August 25, 1939. 
+
+Group Exhibition, Pinacotheca Gallery, New York, Octo- 
+ber 15-November 1, 1940. 
+
+Art Auction for Aid to Greece, Barbizon Plaza Hotel 
+Galleries, New York, December 22, 1940. Sponsored by 
+Greek War Relief Association. 
+
+Contemporary American Artists, R. H. Macy's Company, 
+New York, opening January 6, 1942. Exhibition organized 
+by Samuel Kootz. 
+
+Artists of the United Nations, National Arts Club Gal- 
+leries, New York, February 4-March 1, 1942. 
+
+Masters of Abstract Art, New Art Center, New York, 
+April 1-May 15, 1942. Catalogue foreword by Stephen C. 
+Lion. Helena Rubenstein's Gallery. 
+
+Third Group Show Commemorating the Fifth Anniversary 
+of the Solomon R. Guggenheim Foundation, Museum of 
+Non-Objective Painting, New York, June 25-October 
+1. 1942. 
+
+Review: "American Non-Objective Painting Reviewed". 
+Art Digest, New York, vol. 16, no. 19. August 
+1, 1942, p. 12. 
+
+Art as Exhibited from 1922 to 1942, Nierendorf Gallery, 
+New York, opening December 8, 1942. 
+
+American Modern Artists, Riverside Museum, New York. 
+January 17-February 27, 1943. 
+
+Benefit of Greek War Relief, Marquie Gallery, New York, 
+June' 15-30, 1943. 
+
+Exhibition of Sculpture and, Drawings, Chinese Gallery. 
+New York, December 7-30, 1944. Organized by Federation 
+of Modern Painters and Sculptors. 
+
+1st Biennial Exhibition of Drawings by American Artists, 
+Los Angeles County Museum, February 18-April 22, 1945. 
+
+Contemporary American Painting, California Palace of 
+the Legion of Honor, San Francisco Museum, May 17-June 
+17, 1945. Catalogue introduction by Jermayne MacAgy. 
+
+
+
+57 
+
+
+
+Group Exhibition, Pinacotheca Gallery, New York, May 
+25-June 16, 1945. 
+
+Portrait of America: 2nd Annual Artists for Victory, 
+Rockefeller Center, New York, November 1945. Organized 
+by Pepsi-Cola Company. 
+
+Cubist and Non-Objective Paintings, John Herron Art 
+Museum, Indianapolis, December 29, 1946-February 2, 
+1947. 
+
+121st Annual Exhibition, National Academy of Design, 
+New York, January 4-22, 1947. 
+
+3rd Summer Exhibition of Contemporary Art, State Uni- 
+versity of Iowa, Iowa City, June 15-30, 1947. 
+
+Zeitgeniissische Kunst und Kunstpflege in U.S.A., Kun- 
+sthaus, Zurich, October-November 1947. Catalogue intro- 
+duction by W Wartmann, essay by Hilla Rebay. 
+
+Exhibition, Columbus Gallery of Fine Arts, Ohio, Febru- 
+ary 26-March 28, 1948. 
+
+Art Americain Contemporain, Galerie Georges Giroux, 
+Brussels, March 20-April 10, 1948. Catalogue biographical 
+note on Xceron by Alonzo Lansford. 
+
+The Eva Underhill Holbrook Memorial Collection, 
+Museum of Fine'" Arts, University of Georgia, Athens, 
+1948. Catalogue foreword by Harmon Caldwell. 
+
+Artists for Neighborhood Art, Sidney Janis Gallery and 
+Betty Parsons Gallery, New York, auction February 
+12, 1949. 
+
+Contemporary American Painting, Morse Gallery of Art, 
+Rollins College, Winter Park, Florida, March 1949. Organ- 
+ized by Ferargil Gallery, New York. 
+
+10th Anniversary Exhibition, Museum of Non-Objective 
+Painting, New York, May 31-September 1949. 
+
+Group Exhibition, Lotos Club, New York, to March 5, 
+1950. Organized by Federation of Modern Painters and 
+Sculptors. 
+
+Contemporary American Paintings, John Herron Art 
+Museum, Indianapolis, January 7-February 4, 1951. 
+
+The Evolution in Painting from 1900 to 1952, Museum of 
+Non-Objective Painting, New York, opening April 29, 1952. 
+
+Mostra Fondazione Solomon R. Guggenheim, Fondazione 
+Origine, Rome, January 24-February 20, 1953. 
+
+The Classic Tradition in Contemporary Art, Walker Art 
+Center, Minneapolis, April 24-June 28, 1953. Catalogue 
+introduction by H. H. Arnason; summary, Art Digest, 
+New York, vol. 27, no. 13, April 1, 1953, p. 7. 
+
+Celebrity Art Show: Exhibition and Sale, Delmonico 
+Hotel, New York, March 19, 1954. 
+
+The Greek Earthquake Appeal, Sotheby Gallery, London, 
+October 4-6, 1954. Auction. 
+
+Nebraska Art Association: 65th Annual Exhibition, Joslyn 
+Art Museum, Omaha, April 10-May 10, 1955. 
+
+Museum of Modern Art, Tokyo, 1955. American Abstract 
+Artists exhibition. 
+
+International Collage Exhibition, Rose Fried Gallery, New 
+York, February 13-March 17, 1956. 
+
+Seven-man Exhibition, Rose Fried Gallery, New York. 
+May 31-July 1, 1956. 
+
+Presented by the Georgians, Yale University Art Gallery, 
+New Haven, February 27-March 13, 1957. 
+
+The Sphere of Mondrian, Contemporary Arts Museum, 
+Houston, February 27-March 24, 1957. 
+
+
+
+Trends in Watercolor Today, The Brooklyn Museum, New 
+York, April 9-May 26, 1957. 
+
+Silverrnine Guild of Artists, Silvermine School, New 
+Canaan, September 26-October 25, 1957. 
+
+20th Century Works of Art, University of Illinois, Urbana, 
+September 29-October 27, 1957. Catalogue foreword by 
+Allan S. Weller. 
+
+Collage in America, Zabriskie Gallery. New York, Decem- 
+ber 1957. 
+
+Exhibition and Sale: American and European Artists, 
+Treatment Center, New York Psychoanalytic Institute, 
+New York, January 17-19, 1958. 
+
+Dedication Exhibition, Georgia Museum of Art, Univer- 
+sity of Georgia, Athens, January 28-February 28, 1958. 
+
+The University of Illinois Collection of Twentieth Century 
+Painting, School of Art, Syracuse University, November- 
+30-December 29, 1959. 
+
+20th Century Art Exhibition and Sale, Post Graduate 
+Center for Psychotherapy, New York, January 18-23, 1960. 
+
+The Current Scene: American Painting and Pure Abstrac- 
+tion, The Classic Image, Esther Stuttman Gallery, New 
+York, November 8-December 3, 1960. 
+
+Dedication Exhibition, Krannert Art Museum, University 
+of Illinois, Urbana, May 20-June 1961. 
+
+International Avant Garde, Art Association of Newport, 
+Rhode Island, July 15-30, 1961. Organized by Rose Fried 
+Gallery, New York. 
+
+Contemporary Painting, Yale University Art Gallery, New 
+Haven, December 7, 1961-February 4, 1962. 
+
+Exposition International du Constructivisme, Musee d'Art 
+Moderne de Ceret, France, opening September 8, 1962. 
+
+Recent American Drawings, Louis Alexander Gallery, 
+New York, September 25-October 13, 1962. 
+
+Cezanne and Structure in Modern Painting, The Solomon 
+R. Guggenheim Museum, June 2-October 13, 1963. 
+
+Review of the Season 1962-1963, Parke-Bernet Galleries, 
+New York, June 18-July 27, 1963. Organized by Art Deal- 
+ers Association of America. 
+
+The Classic Spirit in 20th Century Art, Sidney Janis Gal- 
+lery, New York, February 2-29, 1964. 
+
+Review: kelly, edward. "Humanism in Geometric Art", 
+Art Voices, New York, vol. 3, no. 3, March 1964, 
+pp. 23-24. 
+
+Exhibition of Paintings and Sculpture, Riverside Museum, 
+New York, May 3-August 2, 1964. 
+
+Society for Contemporary American Art: 24th Annual 
+Exhibition, Chicago Art Institute, May 3-31, 1964. 
+
+American Art Today, New York Pavilion of Fine Arts, 
+World's Fair, New York, June 22-October 22, 1964. 
+
+West Side Artists: New York City, Riverside Museum, 
+New York, September 27-November 8. 1964. 
+
+Abstraction, Expressionism, Abstract-Expressionism, In- 
+ternational Gallery. Baltimore, October 14- November 7, 
+1964. 
+
+Rickey Collection, Albany Institute of History and Art, 
+New York, March 12-April 4, 1965. Catalogue note by 
+George Rickey. 
+
+Artists for Core, Graham Gallery. New York, April 29- 
+May 8, 1965. 
+
+
+
+58 
+
+
+
+CROUP EXHIBITIONS: Recurring and Traveling 
+
+
+
+AMERICAN ABSTRACT ARTISTS 
+
+4th Annual Exhibition, Galerie St. Etienne, New York, 
+May 22-June 12, 1940. Catalogue introduction by George 
+L. K. Morris. 
+
+5th Annual Exhibition, Riverside Museum, New York, 
+February 9-23, 1941. 
+
+6th Annual Exhibition, American Fine Arts Gallery. New 
+York, March 9-23, 1942. 
+
+7th Annual Exhibition, Riverside Museum, New York, 
+March 16-April 25, 1943. 
+
+9th Annual Exhibition, Riverside Museum, New York, 
+March 11-April 15, 1945. 
+
+10th Annual Exhibition, American-British Art Center, 
+New York, March 25-April 13, 1946. 
+
+18th Annual Exhibition, Riverside Museum, New York, 
+March 7-28, 1954. 
+
+20th Annual Exhibition, Riverside Museum, New York, 
+April 8-May 20, 1956. 
+
+21st Annual Exhibition, Riverside Museum, New York, 
+April 22-May 11, 1957. 
+
+22nd Annual Exhibition, Riverside Museum, New York. 
+March 2-30, 1958. 
+
+24th Annual Exhibition, Riverside Museum, New York, 
+February 28-March 27, 1960. 
+
+25th Annual Exhibition, Lever House, New York, April 
+3-21, 1961. 
+
+26th Annual Exhibition, IBM Gallery, New York, Febru- 
+ary 5-24, 1962. 
+
+27th Annual Exhibition, East Hampton Gallery, New 
+York, May 7-June 1, 1963. 
+
+29th Annual Exhibition, Riverside Museum, New York, 
+March 9-April 24, 1965. 
+
+
+
+AMERICAN FEDERATION OF ARTS 
+
+Exhibitions circulating in United States: 
+
+Contemporary Trends, 1954. Organized by the Federation 
+of Modern Painters and Sculptors. 
+
+Purist Painting, 1960-1961. 
+
+Elements of Modern Art II, February-May 1965. Organ- 
+ized by The Solomon R. Guggenheim Museum. 
+
+
+
+CARNEGIE INSTITUTE, Pittsburgh 
+
+Directions in American Painting, October 23-December 
+14, 1941. 
+
+Reviews: "Carnegie Institute Exhibition Opens", 
+Athene, Chicago, vol. 2, no. 10, October 1941, 
+pp. 5, 17. 
+
+gaul, harvey. "Directions in American Paint- 
+ing", Musical Forecast, Pittsburgh, vol. 41, no. 
+3, November 1941, pp. 5-10. 
+
+Painting in the United States: 
+October-November 1942; 
+October 14-December 12, 1943; 
+
+
+
+Review: b[oswell], p[eyton] jr. "Carnegie Presents 
+Cross-Section of Painting in the United States", 
+Art Digest, New York, vol. 18, no. 2, October 15, 
+1943, pp. 5-6, 30. 
+
+October 12-December 10, 1944. 
+
+Review: riley, m. "Carnegie Institute Opens Exciting 
+Survey of American Painting", Art Digest, New 
+York, vol. 19, no. 2, October 15, 1944, pp. 5-6, 26. 
+
+October 10-December 8, 1946 ; 
+
+October 9-December 7, 1947; 
+
+October 14-December 12, 1948; 
+
+Review: breuning, Margaret. "Carnegie Opens Its Fifth 
+Survey of Painting in the United States", Art 
+Digest, New York, vol. 23, no. 2, October 15, 
+1948, pp. 9-10. 
+
+October 13-December 11, 1949. 
+
+Pittsburgh International, October 19-December 21, 1950. 
+
+
+
+FEDERATION OF MODERN PAINTERS 
+AND SCULPTORS 
+
+4th Annual Exhibition, National Arts Club, New York, 
+March 14-31, 1944. 
+
+5th Anniversary Exhibition, Wildenstein Gallery, New 
+York, September 12-29, 1945. 
+
+6th Annual Exhibition, Wildenstein Gallery, New York. 
+September 18-October 5, 1946. 
+
+8th Annual Exhibition, Wildenstein Gallery, New York, 
+September 14-October 2, 1948. 
+
+9th Annual Exhibition, National Arts Club, New York. 
+October 12-29, 1949. 
+
+10th Annual Exhibition, New School for Social Research, 
+New York, opening November 10, 1950. 
+
+11th Annual Exhibition, National Arts Club, New York, 
+September 24-October 9, 1951. 
+
+12th Annual Exhibition, National Arts Club, New York, 
+1952. 
+
+13th Annual Exhibition, Riverside Museum, New York, 
+January 10-31, 1953. 
+
+14th Annual Exhibition, Riverside Museum, February 28- 
+March 12, 1954. 
+
+15th Annual Exhibition, Riverside Museum, New York, 
+November 13-December 4, 1955. 
+
+16th Annual Exhibition, Riverside Museum, New York, 
+November 4-25, 1956. 
+
+18th Annual Exhibition, Riverside Museum, New York, 
+November 2-23, 1958. 
+
+20th Annual Exhibition, Riverside Museum, New York, 
+October 30-November 27, 1960. 
+
+21st Annual Exhibition, Riverside Museum, New York, 
+November 12-December 10, 1961. 
+
+22nd Annual Exhibition, Lever House, New York, January 
+13-27, 1963. 
+
+
+
+59 
+
+
+
+23rd Annual Exhibition, Lever House. New York, January 
+12-26, 1964. 
+
+24th Annual Exhibition, Lever House, New York, January 
+10-24, 1965. 
+
+ROSE FRIED GALLERY, New York 
+Modern Masters : 
+
+December 15, 1952-January 15, 1953; 
+November 20-December 1961 ; 
+January 11-February 15, 1964. 
+
+GROUP INTIME, Ferargil Gallery, New York, 1946, 
+1948-1952. 
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, 
+New York 
+
+Before 1953 The Museum of Non-Objective Painting Trav- 
+eling exhibitions, circulating in United States: 
+
+Circulating Exhibition, 1951-1952. 
+
+Eighteen Non-Objective Paintings, 1951-1953. 
+
+Watercolors, 1960-1961. 
+
+Participated in The Solomon R. Guggenheim Museum's 
+extended loan program, 1953-1961. 
+
+Group exhibitions at the Museum: 
+
+Loan Exhibition 
+
+openings: June 15, October 15, 1943; 
+
+April 15, October 15, 1944; 
+
+June 6, December 5, 1945; 
+
+June 5, October 15, 1946; 
+
+February 12, July 15, October 15, 1947: 
+
+October 11, 1949; 
+
+February 21, June 20, November 14, 1950: 
+
+April 3, November 27, 1951. 
+
+Selection IV, October 6, 1954-February 27, 1955. 
+Selection VI, January 25-May 1, 1956. 
+Summer Selection, 1962, July 3-September 30, 1962. 
+Museum Collection, Spring 1963, April 19-June 2, 1963. 
+
+INTERNATIONAL COUNCIL OF THE MUSEUM 
+OF MODERN ART, New York 
+
+Abstract Drawings and Watercolors: U.S.A., circulated 
+January 14, 1962-May 28, 1963 to: 
+
+Museo de Bellas Artes, Caracas ; Museu de Arte Moderna. 
+Rio de Janeiro; Museu de Arte Moderna, Sao Paulo; 
+Museo de l'Arte Moderno, Buenos Aires; Museo Munici- 
+pal de Bellas Artes, Montevideo; Reifschneider Gallery. 
+Santiago; Instituto de Arte Contemporaneo, Lima; Casa 
+de la Cultura Equatoriana, Guayaquil, Ecuador; Museo 
+de Arte Colonial, Quito, Ecuador; Museo Nacional, Bo- 
+gota; Instituto Panameno de Arte, Panama; Palacio de 
+Bellas Artes, Mexico City. 
+
+SALON DES REALITES NOUVELLES 
+Musee des Beaux-Arts de la Ville de Paris: 
+
+
+
+1st exhibition, 1947; 2nd exhibition, July 1948; 4th ex- 
+hibition, 1950; 5th exhibition, June 1951; 6th exhibition. 
+July 1952; A group of paintings loaned annually by The 
+Museum of Non-Objective Painting. 
+
+SALON DES SURINDEPENDANTS 
+
+Porte des Versailles, Paris : 
+
+4th exhibition opening October 16, 1931 ; 6th exhibition, 
+October-November 1933; 7th exhibition, October-Novem- 
+ber 1934. 
+
+Review: raynal, maurice. "La Jeunesse aux 'Surin- 
+dependants'", L'Intransigeant. Paris, October 
+29, 1933. 
+
+SOCIETY OF INDEPENDENT ARTISTS 
+
+Filth Annual Exhibition, Waldorf Astoria, New York, 
+opening March 6, 1921. 
+
+Sixth Annual Exhibition, Waldorf Astoria, New York, 
+opening March 12, 1922. 
+
+TOLEDO MUSEUM OF ART, Ohio 
+
+Contemporary American Painting: 34th Annual Exhibi- 
+tion, June-August 1947; 
+
+35th Annual Exhibition, June- July 1948. 
+
+
+
+UNIVERSITY OF ILLINOIS, Urbana 
+
+Exhibition of Contemporary American Painting: First 
+Annual, Spring 1948. 
+
+Second Annual, February 27-April 3, 1949; 
+
+Third Annual, February 26-April 2, 1950; 
+
+Fourth Annual, March 4-April 15, 1951. Purchase prize 
+awarded to Xceron. 
+
+Reviews: "Six New Yorkers Win Illinois University Art 
+Prizes", The New York Times, New York, April 
+10, 1951. 
+
+"Illinois' Faculty Makes Its Choice", Art Digest. 
+New York, vol. 25, no. 14, April 15, 1951, p. 11. 
+"Xceron's Beyond White Bought by Illinois 
+University", Atlantis, New York, May 13, 1951. 
+ziogas, e. Krikos, London, nos. 8-9. May-June 
+1951, p. 34. 
+
+Contemporary American Painting and Sculpture: Sixth 
+Annual, March 1 -April 12, 1953; 
+
+Eighth Annual, March 3-April 7, 1957; 
+
+Eleventh Annual, March 3-April 7, 1963. 
+
+(Recurring exhibition with changed title) 
+
+WHITNEY MUSEUM OF AMERICAN ART, New York 
+
+Annual Exhibition of Contemporary American Painting; 
+December 10, 1946-January 16, 1947; November 10- 
+December 31, 1950; November 6. 1952-January 4. 1953: 
+November 9, 1955-January 8, 1956: December 11, 1963- 
+February 2, 1964. 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM 
+
+
+
+STAFF 
+
+
+
+Director 
+
+
+
+Thomas M. Messer 
+
+
+
+Curator 
+
+Associate Curator 
+Research Fellows 
+Librarian 
+
+
+
+Lawrence Alloway 
+
+Louise Averill Svendsen 
+
+Carol Fuerstein and Rose Carol Washton 
+
+Mary Joan Hall 
+
+
+
+Public Affairs 
+
+Membership 
+
+Registrar 
+
+Conservation 
+
+Photography 
+
+Custodian 
+
+
+
+Everett Ellin 
+
+Carol Tormey 
+
+Alice Hildreth Goldman 
+
+Orrin Riley and Saul Fuerstein 
+
+Robert E. Mates 
+
+Jean Xceron 
+
+
+
+Business Administrator 
+
+
+
+Glenn H. Easton, Jr. 
+
+
+
+Administrative Assistant 
+Office Manager 
+Purchasing Agent 
+Sales Supervisor 
+Building Superintendent 
+Head Guard 
+
+
+
+Viola H. Gleason 
+Agnes R. Connolly 
+Elizabeth M. Funghini 
+Joseph D. Griffin, Jr. 
+Peter G. Loggin 
+Fred C. Mahnken 
+
+
+
+PHOTOGRAPHIC CREDITS All photographs but the following were made by Robert E. Mates and Paul Katz : 
+
+Dena, New York : Portrait of Xceron. 
+
+Otto Nelson. New York: Portrait by Torres Garcia; nos.43, 47, 50, 55. 
+John D. Schiff, New York: nos. 48, 52, 53. 
+
+
+
+Exhibition 65/5 September-October, 1965 
+
+3,000 copies of this catalogue, 
+
+designed by Herbert Matter 
+
+have been printed by Sterlip Press 
+
+in August 1965 
+
+for the Trustees of The Solomon R. Guggenheim Foundation 
+
+on the occasion of the exhibition 
+
+"Jean Xceron" 
+
+
+
+
+THE S0L0&gt;10&gt; R. CpK^E.XHEIM Ml SKI &gt;l 
+
+
+
+
+1071 FIFTH AVENUE, NEW YORK 10028 
+
+
+
+
+
+
+
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0050   0.0050      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0070   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0094   0.0024     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0143   0.0049   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0145   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0937   0.0792              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=93;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

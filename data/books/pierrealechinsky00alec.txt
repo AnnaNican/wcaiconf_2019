@@ -1,0 +1,6105 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Pierre Alechinsky : margin and center"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/pierrealechinsky00alec">Pierre Alechinsky : margin and center</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/pierrealechinsky00alec">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+Pierre Alechinsky: Margin and Center 
+
+
+
+
+
+
+
+
+
+
+A MJL* 
+
+
+
+
+
+IAsu*IMIjlL*&lt; 
+
+
+
+
+
+
+
+UUUsJlaULs 
+
+IlLjJLBJl 
+
+
+
+
+
+Digitized by the Internet Archive 
+
+in 2012 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/pierrealechinskyOOalec 
+
+
+
+\ I 
+
+a Pierre Alechinsky: Margin and Center 
+
+' \ 
+
+
+
+
+Bougival, 1985 
+
+
+
+SOLOMON R. GUGGENHEIM MUSEUM LIBRARY 
+
+
+
+Pierre Alechinsky: Margin and Center 
+
+
+
+This exhibition has received generous support from the 
+Commissariat General aux Relations Internationales 
+de la Communaute Francaise de Belgique, Brussels, 
+and the Association Francaise d'Action Artistique, 
+Ministry of Foreign Affairs, Paris. 
+
+
+
+Solomon R. Guggenheim Museum, New York 
+
+
+
+
+
+
+This Exhibition is Dedicated to John Lefebre. 
+
+
+
+Library of Congress Cataloging-in-Publn 
+Alechinsky, Pierre, 1927- 
+
+Pierre Alechinsky. 
+
+Catalog of an exhibition held at the Solomon 
+R. Guggenheim Museum. 
+
+Bibliography: pp. 168-169 
+
+1. Alechinsky, Pierre, 1927- — Exhibitions. 
+I. Solomon R. Guggenheim Museum. II. Title. 
+N6973.A4A4 1987 760'. 092^ 86-31380 
+ISBN 0-89207-061-7 
+
+cover: With Michel Portal. 1980 (cat. no. 103). Collection Solomon R. 
+
+Guggenheim Museum, New York, Anonymous Gift 
+
+Drawings reproduced throughout the catalogue which are not in the 
+
+exhibition are from Pierre Alechinsky, he bureau du titre, Fata 
+
+Morgana, Montpellier, 1983; Gilbert Lascault, Arrondissements, Reperes, 
+
+Daniel Lelong, Pans, 1983; Michel Butor and Michel Sicard, ABC 
+
+de Correspondance, Reperes, Daniel Lelong, Paris, 1985; and Michel 
+
+Butor and Michel Sicard, Alechinsky dans le texte, Editions Galilee, Paris, 1985 
+
+Published by The Solomon R. Guggenheim Foundation, New York, 1987 
+
+Copyright © 1987 by The Solomon R. Guggenheim Foundation, New York 
+
+"Central Park" copyright © 1987 by Octavio Paz; English translation 
+
+copyright © 1987 by Eliot Weinberger 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+Lenders to the Exhibition 7 
+
+Preface and Acknowledgments Thomas M. Messer 8 
+
+Central Park Octavio Paz 10 
+
+Bordering on Something Central Pierre Alechinsky and Michael Gibson 15 
+
+
+
+Works in the Exhibi 
+
+
+
+33 
+
+
+
+Chronology t49 
+
+Selected Exhibitions 156 
+
+Selected Bibliography 168 
+
+Photographic Credits 171 
+
+
+
+
+■i 'iiinrlc^b 
+
+
+
+
+
+
+
+
+
+
+
+LENDERS TO THE EXHIBITION 
+
+Micky and Pierre Alechinsky 
+
+Norman and Irma Braman 
+
+Jerome and Marlene Brody 
+
+Mr. and Mrs. Michel David- Weill, New York 
+
+Michel Fribourg, New York 
+
+Guy Georges, Paris 
+
+Mr. and Mrs. Melvin A. Colder 
+
+General-Major Aviateur P. de Groof, Brussels 
+
+Michel Guy, Pans 
+
+Pierre Hebey 
+
+Stephane Janssen, Beverly Hills 
+
+J. P. Ledeur, Paris 
+
+Marion Lefebre 
+
+Joyce and Samir Mansour, Paris 
+
+Meridian Partners, Inc., New York 
+
+Mr. and Mrs. N. Richard Miller 
+
+Mr. and Mrs. Sidney Mindhn 
+
+Jacques Putman, Paris 
+
+Mr. and Mrs. J. Karel P. van Stuijvenberg, Caracas 
+
+Baroness Van Zuylen 
+
+The Carnegie Museum of Art, Pittsburgh 
+
+Peggy Guggenheim Collection, Venice 
+
+Solomon R. Guggenheim Museum, New York 
+
+Louisiana Museum of Modern Art, Humlebaek, Denmark 
+
+Musee National d'Art Moderne, Centre Georges Pompidou, Paris 
+
+Museum Ludwig, Cologne 
+
+Nordjyllands Kunstmuseum, Aalborg, Denmark 
+
+The State Museums of the Grand-Duchy of Luxembourg 
+
+Lens Fine Art, Antwerp 
+Galerie Birch, Copenhagen 
+Galerie Maeght Lelong, Paris 
+
+
+
+PREFACE AND ACKNOWLEDGMENTS 
+
+
+
+The trauma and the devastations of World War II that visited the 
+embattled European continent required complex adjustments in the 
+creative realm. While American painting, benefiting from a wave of 
+European emigration, experienced a marked invigoration, artists in 
+Europe were only gradually moving from destruction and occupation to 
+an uncertain peace. France, nonetheless, was expected to continue 
+leadership in the realm of high art. 
+
+Such expectations were fulfilled in part by the surviving Parisian demi- 
+gods who continued to be influential, as well as by an emerging gen- 
+eration of abstract painters nourished and encouraged by the rich 
+traditions of European modernism. But opposing tendencies, which 
+seemed radical and unaccommodating at the time, surfaced in short 
+order. Among these, the examples set by Jean Dubuffet in France and 
+by the Cobra artists in Denmark, Belgium and The Netherlands were 
+the most conspicuous. Pierre Alechinsky, surely one of the youngest 
+participants in the shortlived but influential Cobra movement, was even 
+then recognizable as standard bearer for the Belgians, marked as he was 
+by extraordinary talent and early achievement. 
+Cobra has long since been recognized as a meaningful chapter in the 
+history of modern art, and while, happily, a few of its original adherents 
+are still working vigorously, many others have left the scene. Pierre 
+Alechinsky today is, by general consensus, the most distinguished 
+among those who, having outlived Cobra, continue to assert valid and 
+emphatic contemporary leadership. Presenting Alechinsky at the height 
+of his powers, this exhibition thus becomes an acknowledgment of the 
+artist's stature and achievement. Although it deliberately eschews the 
+conventional retrospective format, it nevertheless takes in a broad range 
+of work. 
+
+The exhibition theme, Margin and Center, was formulated during ex- 
+tensive conversations that preceded selection, as we became aware of 
+the pervasive formal and iconographic presence of the two components 
+that comprise the exhibition's title. But in focusing upon it one should 
+
+
+
+bear in mind that this conspicuous device applies only to a small frac- 
+tion of the artist's total oeuvre and therefore appears magnified by its 
+isolation. 
+
+The contributors to the present catalogue, Michael Gibson and Octavio 
+Paz, as well as Pierre Alechinsky himself, to all of whom we express our 
+appreciation, have found words that allow the theme of the exhibition 
+to reach beyond its visual dimension. We acknowledge as well the par- 
+ticipation of Guggenheim Museum staff members on the project. The 
+artist's closest collaborator was Lisa Dennison, the Guggenheim's As- 
+sistant Curator, who was instrumental in selecting the exhibition and 
+deserves credit for staging it. The editing of the catalogue was the re- 
+sponsibility of Carol Fuerstein, Editor. Nina Nathan Schroeder, Cura- 
+torial Assistant, and Diana Murphy, Assistant Editor, were also 
+involved with many aspects of the exhibition and catalogue. 
+
+Pierre Alechinsky: Margin and Center has benefited from the financial 
+support of the Commissariat General aux Relations Internationales de 
+la Communaute Francaise de Belgique, Brussels, and the Association 
+Francaise d'Action Artistique, Paris. We greatly value the assistance of 
+these organizations. The exhibition is scheduled to tour in this country 
+and abroad and will be seen after the Guggenheim's initial showing at 
+the Des Moines Art Center, the Kunstverein Hannover e.V. and the 
+Musees Royaux des Beaux-Arts de Belgique, Art Moderne, Brussels. 
+Neither the original presentation nor the tour could have been arranged 
+without the generosity of many lenders whose names appear elsewhere 
+in this catalogue, unless they have requested anonymity. Our gratitude 
+is herewith conveyed to all of these individuals and institutions. 
+My final word of thanks is addressed to the artist, with whom I have 
+maintained a long and rewarding friendship. 
+
+Thomas M. Messer, Director 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+Octavio Paz 
+
+
+
+Central Park 
+
+
+
+The Argument: Some say that, given the exterior world exists, one must 
+deny it; others say that, given the world does not exist, one must invent 
+it; and still others, that only the inner world exists. Pierre Alechinsky 
+turns his head and, saying nothing, paints a rectangle in which he en- 
+closes Central Park in New York, in the late afternoon, seen from the 
+window of his closed eyes. The rectangle surrounds the four sides of the 
+park, and is divided into irregular spaces, themselves rectangles, like the 
+boxes in a theater, the cells in a convent or the cages in a zoo. Inside 
+each box swarm bizarre creatures that are somehow vaguely familiar: 
+Are they they or us} Do we look at them, or are they looking at us? In- 
+side the rectangle, Central Park has been transformed into a green, 
+black and golden Cobra: Is it an anamorphosis of Alice, the Queen of 
+Diamonds in our sleepwalking deck? The painting is not a vision but a 
+spell. 
+
+
+
+Green and black thickets, bare spots, 
+
+leafy river knotting into itself: 
+
+it runs motionless through the leaden buildings 
+
+and there, where light turns to doubt 
+
+and stone wants to be shadow, it vanishes. 
+
+Don't cross Central Park at &gt;iight. 
+
+
+
+Day falls, night flares up, 
+Alechinsky draws a magnetic rectan^ 
+a trap of lines, a corral of ink: 
+inside there is a fallen beast, 
+two eyes and a twisting rage. 
+Do;? 7 cross Central Park at night. 
+
+
+
+There are no exits or entrances, 
+
+enclosed in a ring of light 
+
+the grass beast sleeps with eyes open, 
+
+the moon exhumes razors, 
+
+the water in the shadows has become green fire. 
+
+Don't cross Central Park at night. 
+
+There are no entrances but everyone, 
+
+in the middle of a phrase dangling from the telephone, 
+
+from the top of the fountain of silence or laughter, 
+
+from the glass cage of the eye that watches us, 
+
+everyone, all of us are falling in the mirror. 
+
+Don't cross Central Park at night. 
+
+The mirror is made of stone and the stone now is shadow, 
+
+there are two eyes the color of anger, 
+
+a ring of cold, a belt of blood, 
+
+there is a wind that scatters the reflections 
+
+of Alice, dismembered in the pond. 
+
+Don't cross Central Park at night. 
+
+Open your eyes: now you are inside yourself, 
+you sail in a boat of monosyllables 
+across the mirror-pond, you disembark 
+at the Cobra dock: it is a yellow taxi 
+that carries you to the land of flames 
+across Central Park at night. 
+
+
+
+Santander, 5 September 1986 
+
+
+
+LuedhvElmt Wc.nkmcr 
+
+
+
+Wmii 
+
+
+
+
+ugival, 1983 
+
+
+
+Pierre Alechinsky and Michael Gibson 
+
+
+
+Bordering on Something Central 
+
+
+
+michael GIBSON: Let's talk about your marginal com- 
+ments. 
+
+pierre alechinsky: I pass. No I don't after all. I'll trump with one of 
+Henri Matisse's remarks: "I always start from the frame." 
+
+M.G.: What do you make of that statement? 
+
+p.a.: Beyond the frame there is . . . well, all the rest! The roving hordes, 
+the outside world, so powerful when you compare it to a small rect- 
+angle of paper or canvas. I sense then how urgent it is, not only to con- 
+centrate on the composition of the rectangle itself, but also on that of its 
+frontiers, on the margins. 
+
+Progressively, as I produced my paintings with margins (I have been 
+painting such works episodically, ever since I did Central Park in 1965 
+[cat. no. 1]), I found myself stressing the rectangle, underscoring it even, 
+whether by means of a fringe of pictures around the center, or by 
+materializing a border. 
+
+M.G.: You did this with the idea of defining a separate 
+space in which a different order of event occurs. Right? 
+
+p.a.: And at the same time to annex the frame, to make it part of the pic- 
+ture, rather (let's say in passing) in the manner that an engraver uses a 
+border in his woodcut to prevent the roller from touching areas that 
+have been hollowed out. This is the sort of limitation that can turn out 
+to be an aesthetic advantage — depending on the engraver's talent. I 
+started out as a printer and I have made use of some of the craftsman's 
+notions, tricks or habits in my painting. Marginalia — in the form of 
+notes, addenda, subtitles, summaries — have existed ever since the in- 
+vention of the book. Proof corrections find their proper place in the 
+margin too; they indicate and countermand alongside the column of 
+
+
+
+15 
+
+
+
+type. Authors use the margin to modify the text on which they are 
+working. It can be quite spectacular at times. Lithographers use it to test 
+a tool and try their hand before setting to work. In doing so they trace 
+minute and often charming preparatory sketches, which are erased be- 
+fore the actual printing, once the first test print has been run off. Some 
+rare proofs of this kind are occasionally to be found, described in print 
+and book collector's catalogues in such terms as: "... despite a few 
+rust spots, this is a fine proof of the first state with marginal com- 
+ments." A term I appropriated. 
+
+M.G.: Your own modus operandi also includes the as- 
+sembling and mounting on canvas of the work you ini- 
+tially painted on paper. This is at once an additional 
+business of composition and a manual task. 
+
+P. A.: Which invites a detour. It is a fortunate thing, really, that painting 
+should demand such a wide range of chores. One would be rather ill-ad- 
+vised to tackle literature head on! But the very act of painting requires a 
+whole ritual of mcantatory approach. It is this specific mixture, three 
+parts chores to one part creation, that yields a painting. 
+
+m.g.: Let's talk about the work that stands before us: 
+After Us, 1980 (cat. no. 46). 
+
+
+
+
+Bougival, 1983 
+
+
+
+16 
+
+
+
+p.a.: The center, both mineral and aquatic, says: color. The border com- 
+posed of black and white drawings confirms that the subject of the cen- 
+tral part is cascades and moving vapors that fall back into water. The 
+viewer's eye is led on through a giratory movement, a cycle. The subject 
+dealt with in the middle of the painting was less apparent: just a deluge 
+of blue .... This impelled me to add some clarifications outside the 
+field. And so I painted one rectangle after another, around the big one 
+in the middle, and then adding the comments within their individual 
+frames, each one with its own problems of composition [After Us). 
+
+M.G.: It might conceivably evoke the way a sixteenth- 
+century tapestry is organized — or even an oriental carpet. 
+
+p.a.: The image in itself is isolated and forsaken, therefore vulnerable. 
+From time to time it requires protection. The access border, the com- 
+mentaries reassure. The painting must stand alone in its struggle against 
+indifference. The viewer is soon enough inclined to turn his eyes to 
+other sights! The image is not always self-sufficient. It needs a specific 
+body of reference to catch and hold the passing glance. 
+
+M.G.: All this work of composition prompts the eye to 
+come and go. 
+
+p.a.: From the larger to the smaller. These paintings are intended to be 
+seen in two ways — both from a distance and close-up. Just as I made 
+them: first the center, then the margins. 
+
+M.G.: First the center, yes. I suppose you allow yourself a 
+pause between the two? 
+
+P.A.: Once the center is done I grant myself a moment of respite. I float 
+around or turn to other tasks; the break can last several days, after 
+which I begin working on the border; but it can also last several weeks 
+or months. In exceptional cases, even several years. No schedule, no 
+deadline. No obligation either. Agoraphobia Square (cat. no. zo) (a 
+painting, done in 1966, that gives a good idea of where I stood after the 
+twenty years I had remained faithfully wedded to oil painting) waited 
+for three years before receiving, in acrylic at last, the developments on 
+its frame. In any event, I observe the center before venturing into the 
+margins. But, as you know, I have also painted and I still paint a lot of 
+images without- marginalia. Evidently they are not a necessity each and 
+every time. 
+
+
+
+17 
+
+
+
+M.G.: What is your understanding of the notion of 
+"spontaneity" which played such an important role in 
+the theories of the Cobra movement? 
+
+P.A.: Spontaneity was the rallying cry of Cobra in contrast to the "pure 
+psychic automatism" favored, no doubt with some extra charge of 
+idealism, by Andre Breton. This "purity" was dismantled by Asger Jorn 
+in an article published in Cobra in 1949: "Discours aux pingouins" 
+("Speech to the Penguins"). Did Jorn want to convince the armless 
+man? 1 
+
+The action of painting leads the painter to an awareness of the material 
+nature of his craft, much more so than a writer who is never sufficiently 
+conscious of the material act of writing, of the tracing of words. This 
+notion was significantly amplified by Christian Dotremont, who de- 
+rived his logograms from it. 2 Marcel Havrenne' spoke of a poetry "in 
+which the script itself has its word to say." Both of them referred to the 
+impact of the physical act of writing on the imagination. Implicit in this 
+attitude is a mistrust of any idea that is too precise at the outset: it can 
+blind one to new ideas that might otherwise appear while work is in 
+progress. Everything significant occurs within this creative "mean- 
+while" (which is one of the mysteries of art). Before is irrelevant, we are 
+told. And after, we stand before a fait accompli, a definite result, defi- 
+nitely locked into its own moment in time, and which we call a painting. 
+
+M.c,.: So that, in this view, the term "spontaneity" refers 
+to a form of interaction between conception and execu- 
+tion, the manner in which the physical act of painting in- 
+flects the actual result. It implies a readiness to welcome 
+whatever may yet, quite unpredictably, occur. But I also 
+notice, in actual tact, beyond the polemical slogan 
+"spontaneity," a manner of paradoxical tension: on the 
+one hand this openness, availability, "spontaneity," and 
+on the other a demanding attitude, an order, a disci- 
+pline. Spontaneity, in this sense, does not imply a sur- 
+render to mere impulse .... 
+
+
+
+1 Asger Jorn (19 14-7?). The French tirle of the article mentioned 
+here hinges on a remote allusion: a variety of penguins is known as 
+"manchot" (without hands) in French because their wings are reminis- 
+cent of arms without hands. 
+
+2 Christian Dotremont (1912-79). Belgian poet and artist, cofounder 
+of Cobra in 1948 and inventor of the acronym (COpenhagen-BRus- 
+sels-Amsterdam). For logograms, see Abrupt Fable and Seismographic 
+Armful (cat. nos. 38, 93), made in collaboration with Alechinsky. 
+
+3 Marcel Havrenne (1912-57). Belgian poet who belonged to Cobra. 
+
+
+
+
+WithD- 
+1976 
+
+
+
+Abrupt Fable, Brussels, 
+
+
+
+pa.: The less demanding, the less visual person will indeed surrender- 
+the temptation is too great. 
+
+M.C.: And he will invoke spontaneity. 
+
+p.a.: As an extenuating circumstance! 
+
+
+
+M.G.: I bring this up because I gave the matter some 
+thought a few years ago, after a conversation I had with 
+Dotremont. It occurred to me then that there was an 
+abyss between what he actually meant by spontaneity 
+and the vulgar, unthinking meaning the term usually is 
+given. In Dotremont's case this "spontaneity" was 
+coupled with a considerable discipline. When he drew 
+his logogram he never allowed the idea of the text to 
+precede by any great length of time the actual act of set- 
+ting it down on paper. And not only that: if the result 
+did not satisfy him, he rarely made use of the same text a 
+second time but went on to invent another one. His 
+"spontaneity," consequently, was never devoid of self- 
+discipline, and his craft was the result of an interaction 
+between openness and stricture. 
+
+
+
+
+Bougii 
+
+
+
+P.A.: It's a strange thing: we create limits for ourselves. We invent a 
+game called "painting," governed by disciplines which, all told, are ex- 
+tremely demanding. The artist-legislator is also his own judge. He can- 
+not, however, easily lie to himself, to the extent that he can only feel 
+pleased or displeased by the line he has just drawn. So he has no other 
+choice but to strive after a perfection that cannot exist — "perfection is 
+death," said Jorn. And only in the long run can we measure the scope of 
+the disciplines we have imposed upon ourselves. Discipline! An ex- 
+travagant word to be coupled with such spacious freedom! 
+
+m.g.: As for the openness or availability we mentioned, 
+it is apparent in the very act by which the line is 
+drawn. 
+
+p.a.: And which the eye trails. 
+
+
+
+M.G.: And this is why we can easily recognize a line 
+drawn by Alechinsky. Your draftsman's script, like your 
+handwriting, belongs to you alone. And your graphic 
+
+
+
+idiom can also be recognized in the choice of a certain 
+format, a way of "centering," of organizing the work as 
+a whole. 
+
+p.a.: This concern with composition is the result of a handicap I have. I 
+am left-handed. Educators ordered me to hold my pen in my right hand, 
+the awkward one, but fortunately allowed me to clutch a pencil or 
+brush in my left one. Painting and drawing, as you can see, do not enjoy 
+the same status as writing. I was soon aware of the flow that runs from 
+right to left instead of in the direction followed by a reader's eye. Yet 
+this is the direction in which a viewer surveys a painting. Consequently 
+the situation, as far as I am concerned, is the following: I must allow a 
+free rein to my reverse dynamics, while making allowances for a few 
+features that will permit the viewer (myself included) to return to the 
+cursive flow derived from the act of reading. Hence my predilection for 
+the printer's shop, where I have spent so many hours looking into 
+Alice's mirror where all that has been reversed is again set right. 
+
+m.g.: So the eye runs in a set direction, not only when it 
+reads a text, but also when it takes in a picture. 
+
+p.a.: This direction is perceptible in the way the brush settles on the 
+paper, rests there and leaves it. Painters discover this if they are curious 
+enough to look at their painting in a mirror. On the other hand, being 
+quite accustomed to seeing our own features reversed, we dislike our- 
+selves in a photograph. A photograph is shocking to its subject. 
+
+m.g.: Have you, in any way, taken advantage of your 
+handicap? 
+
+P.A.: I would never have been so attentive to composition if I had the 
+blinding good fortune of being right-handed! 
+
+My own adventures with writing have made me aware of script in gen- 
+eral. I often view a painting as a mass of information. I discover the 
+hand and personality, hesitant or determined, sensitive or dreary, pre- 
+tentious, measured, captivating, precise, brutal, compassionate, refined, 
+open, flustered, sovereign, adorable, etc. All that, and much more be- 
+sides, is to be read in the lines of a painting. 
+
+
+
+m.g.: Do you perceive an affinity between your artistic 
+script and the Far Eastern technique of calligraphy? 
+
+pa.: Our perception of Far Eastern script doesn't go beyond its graphic 
+aspect. We don't understand what it is saying. But we discover a com- 
+parable graphic serpentine (our own manner of tying and untying a 
+line), if we take the trouble of holding a page we have written to the 
+light, and looking at it from behind, reversed, so that we can no longer 
+make out the written text. I sometimes write backwards with my left 
+hand. In 1955 1 traveled to Japan to study the calligraphers and film 
+them at work on sheets of paper laid out on the floor or placed flat on a 
+low table. In any event, I have chosen to use the same equipment and 
+have acquired a passionate love for paper. 
+
+But the precepts of a master must necessarily be disappointing. "What 
+should one do to become a great calligrapher?" And the immediate an- 
+swer is: "Sit upright and breathe properly." And Bonnard too, advising 
+a young painter, says no more than: "Always have a clean rag." 
+
+A calligrapher or a writer can get a kind of satisfaction from tracing an 
+entire sentence or text at one go. Their state of mind is different from 
+that of a painter who traces a form here or there on his canvas, then 
+stands back to judge the effect before continuing. The calligrapher does 
+not pause. He writes cursively and appreciates the formal beauty arising 
+out of his tool, his paper, the movement of his hand inflected by the 
+literary content. A painter does not transmit words; his drawings have 
+no connection with syntax. 
+
+M.G.: Have you noticed a change in your script as time 
+goes on? 
+
+P.A.: Indeed, a hand armed with a brush acquires practice, encounters 
+surprises and improves with time. A line that expresses at once the art- 
+ist's idea, his moments of hesitation, the shortcuts of his thoughts and 
+of his decisions, his energy with its phases of acceleration and of subsid- 
+ing pleases me more than any exaggeratedly neutral one. 
+
+M.G.: And all of this is apparent before us, here in a 
+broken line, or there in the hatchmarks that define a 
+frame. 
+
+P.A.: In vital chaffings, pauses, wrenches that are, one must hope, per- 
+ceptible, in the imprint of the brush that reveals the power of a forceful 
+gesture or the delicacy of a caress. 
+
+
+
+m.g.: What sort of brushes do you use? 
+
+pa.: Preferably goat hair mounted on bamboo. Wolf fur too. Though 
+the so-called wolf may well be no more than some unfortunate dog! 
+"Wolf" naturally sounds more impressive. In any event the manufactur- 
+ers of Far Eastern brushes claim that they are made of the hairs of this 
+noble and dangerous creature. 
+
+
+
+m.g.: Looking at such works as Chromatic Buoy (cat. 
+no. 75), based on the rubbing of a circular bench, or 
+Street Pepper (cat. no. 81), based on rubbings of a cast- 
+iron manhole cover, a question comes to mind: Just 
+what kind of interest do you take in the symbolic value 
+of, say, the circle or the wheel? 
+
+p. A. : A painting can evoke different associations each time we look at 
+it — and consequently different ideas. Dotremont said: "A painting is a 
+ventriloquist's doll." This leads us to the literary problem of choosing 
+titles. 
+
+When it comes to thinking up a title, the general impression, a detail, 
+some circumstance unrelated to pictorial matters can provide a clue. 
+Each unknown painting must provoke its own title. This explains why 
+the "entitling painter" has almost more experience than a writer. 1 have 
+had to find titles for several dozen drawings at a go. "Be more specific, 
+please," says the title to the painter. 
+
+I have published several books with the word "title" on the cover. The 
+matter obviously preoccupies me. I wrote Titres et pains perdus in 
+1965; then Le test du titre, in which I published the responses of sixty- 
+one personalities I had asked to think up titles for six of my drawings. 
+And finally Le bureau du titre, a sequence of titles presented without 
+any corresponding pictures, so that they might be savored on their own. 
+As for my titreurs d'elite, 4 many of whom are now dead (Rene Magritte, 
+Jean Paulhan, Francois Truffaut . . . and so recently Joyce Mansour), 
+most of them, quite independently of one another, had found some sort 
+of common denominator. Much to my surprise! 
+
+
+
+4. This untranslatable pun combines the notion of tireur d'elite, a 
+sharpshooter, and titreur, a term coined by Alechinsky to signify a per- 
+son who finds a title for a painting. A titreur d'elite is consequently an 
+expert at inventing titles. 
+
+
+
+M.( , My question about symbolic or mythic content 
+was prompted by the fact that you quite recently chose 
+to produce a series of paintings dealing with circular 
+forms. 
+
+pa.: I've been involved with wheels for a long time, and making rub- 
+bings of them too. I even wrote a book entitled Roue libre for Albert 
+Skira in 1969. At that time I had not yet noticed the cast-iron manhole 
+covers in the streets, but I had painted Star and Disaster (cat. no. 19) 
+based on a pattern of concentric circles. 
+
+M.G.: As far as content is concerned, there are obviously 
+... 1 was about to say, "universal symbols." When 
+someone draws a circle he brings about, how shall 1 put 
+it, a sort of . . . 
+
+p. a.: Statement. 
+
+M.G.: I was thinking more of a state of mind. We collect 
+
+ourselves, our thoughts or feelings, inside a circle with a 
+
+certain degree of fascination. Stage directors are aware 
+
+of this and make good use of the inclination. So there is Bou S lva1 ' I9 , 7 ^ w ' th P 01 " 
+
+, /- 1 ■ 11 1 traits or Mickv and lorn 
+
+some irony in the act 01 taking manhole covers and turn- 
+ing them into mandalas. 
+
+P.A.: Derision, yes, but marked with a touch of admiration. A distortion 
+of derision. My admiration for the anonymous work of the foundrymen 
+has its share in this. I have been attentive to the variety of decorative 
+motives on these cast-iron plates which the French administration refers 
+to as "pieces du mobilier urbaui." This leads me back to recollections of 
+childhood (rubbing a com with a pencil) or to Max Ernst (Max, that 
+lucid child). They are technically rubbings. As it happens, they are also 
+evocative both of childhood and of China. 
+
+Is it so unusual to pay attention to these covers shaped like mandalas? A 
+man walking, Jean Dubuffet once observed, is more inclined to look at 
+the ground than straight ahead. Gravity plays its part. I took those ex- 
+tremely heavy plates that communicate with the catacombs of New 
+York, out of whose infernal depths gray fumaroles arise, and turned 
+them into solar wheels: suspended gates of hell! 
+
+Other enigmatic forms have come to squat in my paintings. "Universal 
+symbols" I am sometimes told, that also occur in sacred art. But in fact, 
+my own art is profane. I am an atheist, and insistent upon this fact, 
+
+
+
+
+though I do feel an affinity for such things, and am always stirred, for 
+instance, by Johann Sebastian Bach's Saint Matthew Passion — stirred, 
+but without hope. And hopelessly so. 
+
+M.G.: You keep your distance from content. 
+
+p.a.: It's more a matter of reserve. 
+
+M.G.: Of irony, perhaps, masking a modesty which in 
+turn masks a content? 
+
+
+
+P.A.: Long ago I elaborated a vocabulary made of images. I drew from 
+things laid out on my table next to the paper and the ink bottle — ex- 
+ceedingly humble things (if you will forgive the pathetic fallacy, of at- 
+tributing an attitude such as modesty to pebbles, roots and orange 
+peels). And then, emerging from them, like sequences of free associa- 
+tions or like puns, I saw all my lady-loves appear, and also the feathered 
+headgear of the Gilles dancers of the Carnaval de Binche (suddenly so 
+close to those of -the Mayas), and volcanic eruptions, spirals, volutes, 
+the meanders of a river turning into a lane, a shoelace, a necessary 
+snake. 
+
+
+
+M.G.: About this matter of content, I would rather say 
+that we are dealing with a symbolic material inherent in 
+society itself, of which a highly elaborate and formalized 
+version is found in the various religions. But this fund of 
+images is already present in the language we are taught, 
+in education and even in good manners. This thing we 
+call "culture" is a free and creative elaboration, by all 
+human societies, of a fund inherited from the animal 
+societies from which we are descended. (I have no use 
+for sociobiology, by the way, which Marshall Sahlins 
+has devastatingly criticized.) These societies also have 
+their symbolic order, as any ethologist can tell, rooted in 
+behavior. No society can function without it, but in our 
+own case it assumes much vaster proportions because it 
+takes the shape of a symbolic language which refers to 
+the meaning and value of all things. 
+This aspect can easily be neglected, no doubt because 
+our way of describing the world has favored the indi- 
+vidual self-perception, taking it in isolation and artifi- 
+cially placing it under glass. As Gavroche might have 
+said, it is, in a sense, la faute a Descartes — for Descartes 
+(but Locke too), based his philosophy on individual self- 
+awareness and thus sent into eclipse those aspects of this 
+awareness which arose out of the prehuman collectivity, 
+although they are, in fact, quite as fundamental as the 
+individual aspect. This has always been so, of course, 
+because we inherited this social ground, with its basic 
+behavioral symbolism (which has been studied by Kon- 
+rad Lorenz, among others) from our prehuman ances- 
+tors. We inherited it as a basic pattern, but we also 
+elaborated it (and continue to elaborate it) in a way that 
+allows us to designate goals and values beyond the im- 
+mediate and tangible ones that alone concern animal 
+societies. And it is primarily this ordering of a society 
+and its goals (inevitably through symbolic terms) that 
+constitutes the material of culture. . . . 
+
+The collective order of culture has its inhuman aspect 
+because it often commands a blindly tribal assent, but it 
+is also that which, in an entirely positive sense, goes 
+beyond the individual and represents the things for 
+which the individual is willing to give all of himself, and 
+even his life if necessary. It consequently commands 
+both the most immoral and the most ethical forms of be- 
+havior. In the latter case, it refers us to the values that 
+give life a substantiality and a meaning. And all of these 
+
+
+
+
+z6 
+
+
+
+can ultimately be condensed into, and signified by an en- 
+tirely rudimentary symbol, a circle, for instance. It is far 
+too easy to treat such things as though they were mere 
+speculative theory. Yet when someone draws a circle be- 
+fore us, under certain (theatrical or religious) cir- 
+cumstances, it can call to mind something that has a 
+bearing on a community or a communion — or again, 
+with negative implications, a casting of spells, a separa- 
+tion or, in a better sense yet, a reserved space, a "pas- 
+sage" towards transcendence, in other words towards 
+"what is not there" or "not yet there," though it is of 
+momentous importance to us: our life goal. And when a 
+person deals with forms, as you do, he is constantly 
+making use of such things, be it a circle, or a sequence of 
+images that suggest a narrative, even if the narrative, as 
+it happens in your work, has no definable content. 
+
+PA.: I was recently showing a friend some paintings composed of rub- 
+bings, Chromatic Buoy among them. And he declared that the trace of 
+these cast-iron entities appeared more important than the objects them- 
+selves, in the same way the hollow imprint of a vanished fossil becomes 
+more affecting than the actual fossil. The fossil is gone, the trace re- 
+mains. The negative concept is more intense than the positive one. 
+Whereupon he began to talk about Tantrism. I replied that as soon as 
+we see a circle anywhere Tantrism will inevitably be mentioned. 
+
+Yet walking through the flea-market years ago I had, despite my own 
+fathomless unknowing, been drawn to a Tantric image which I found so 
+beautiful that I carried it home with me. Had it been hanging on my 
+studio wall for so long that I no longer could see it? When people recog- 
+nize "universal symbols" in my work I sometimes recoil, as though the 
+association were undeserved. A reflex. As if to say: "I have nothing to 
+do with this." 
+
+m.g.: You are perhaps a bit wary of any interpretation 
+that might be suggestive of mysticism? 
+
+P.A.: The truth is that I enjoy coincidences. Nature and culture, in bits 
+and pieces, run through us with their symbols and obscurities, thus pro- 
+ducing various beneficial short-circuits. 
+
+m.g.: One might suppose that the "sacred symbols," at 
+the outset, refer to a form of experience that does not 
+necessarily derive from any set theory, nor any 
+dogma .... 
+
+
+
+2-7 
+
+
+
+P.A.: Looking at the Apocalypse tapestries in Angers I tell myself that in 
+those days 1 would have enjoyed (illusion!) drawing clouds and 
+monsters as crude and elegant as those. I recognize these same lines in 
+my own work. And when, for instance, I depict a sort of fortress wall 
+from another age, I should not be surprised if others begin to think of 
+more specific subjects I might not willingly touch upon myself, but 
+which appear according to the fancies of my brush .... 
+A painting is a revealing slip! 
+
+
+
+M.G.: Here is a painting that does not exactly have mar- 
+ginal comments. I would be inclined to see a narrative 
+sequence, after the fashion of polyptychs .... 
+
+P.A.: One might well diagnose a hypertrophy of marginalia complicated 
+by a disappearance of the center. 
+
+M.G.: Your marginalia have, a bit too easily, been com- 
+pared to the comic-strip form. I would prefer to see an 
+affinity with the narrative idiom of the quattrocento 
+frescoes. 
+
+p.a.: If any comic-strip style did influence me, it was the black and white 
+variety of yesterday, or even before: the medieval woodcut or again the 
+Dreams and Lies of Franco by Pablo Picasso, the father of us all. An ad- 
+mission which should only make orphans sneer! 
+
+
+
+
+z8 
+
+
+
+I came across some drawings and etchings of mine, done in 195 1 (in 
+Brussels) and 1952 (in Paris), which seem to anticipate a sequential ar- 
+rangement of images. But how could I have foreseen the Unfolded 
+Newspapers (see cat. nos. 3-6, 8), very much like the marginalia of Cen- 
+tral Park, a painting begun in New York after having discovered the 
+Park from the thirtieth floor, and seen the paths, rocks and lawns turn, 
+before my eyes, into the maw of a debonaire monster devouring yellow 
+cabs and pedestrians. "Don't cross Central Park at night?" As we 
+know! The painting, begun in New York, was finally completed in the 
+country, on the border of Normandy. 
+
+Frame by frame .... In Death and the Maiden, 1967 (cat. no. 12), I 
+built a sequence of frames like those of an animated cartoon (the pre- 
+della was an ancestor of the cartoon: the painter showed several scenes 
+or events connected with the main subject). In Circling the Matter (cat. 
+no. 13), done the same year, or in Past Unnoticed, 1981 (cat. no. 50), I 
+reproduced in the margins some details that appear in the center, details 
+that were enigmatic because of their very singularity. A repetition, with 
+amplifications, turns a singular image into a recognizable form. The 
+image calls for its double. 
+
+First the center was in color and the remarks generally in black and 
+white. Later on I reversed the process. The center would be in black and 
+white, in India ink, the margins in color. There were no more separate 
+frames but a single runway without visible beginning or end. This 
+changes the habits of composition. 
+
+M.G.: As in The Sphinx's Repressed Laughter of 1982 
+(cat. no. 53). The margins are done on paper sub- 
+sequently mounted on canvas. Do you always use the 
+same material? 
+
+P.A.: I vary the supports. In addition to paper from China, Japan, 
+Taiwan or Korea, I also use pages recovered from record books of past 
+centuries — accountant's sheets, notarized documents, old bills — Rus- 
+sian bonds, obsolete aerial navigation maps, etc., which calls to mind 
+the principle of the palimpsest. This recycling of old material gives me 
+the chance to find something touching: in the discovery of the everyday 
+preoccupations of a bygone age, preoccupations so similar to our own. 
+
+
+
+2-9 
+
+
+
+M.e..: We were discussing the interpretation of a painting 
+a while ago and you mentioned the "ventriloquist's 
+dummy." Does this metaphor imply that one should not 
+listen to what the dummy has to say? 
+
+P.A.: The definitions we add to an indefinite, indefinable yet to be de- 
+fined or already (momentarily) more or less identified image are derived 
+from daydreams, and each of us does not dream m the same way every 
+tune. You cannot bathe twice in the same image. Rather, it is the bather 
+who changes — but let's not go into that. 
+
+There is a tree, a quasi-landscape. Great lava flows, a mask in profile, a 
+torso wrapped in bandages. Have I sufficiently respected, sufficiently 
+clarified the intent of the line? Working in the labyrinth, I clutched the 
+thread which (as 1 perceived it) would lead me to the plausible dome of 
+a skull, or a slow spilling over of lava or of molten iron. Walkway is the 
+title that occurred to me after having finished the border of a painting 
+that reminded me of a suspended walkway. This refers to a twofold 
+reminiscence: one, a visit to the Pont-a-Mousson Foundry in Lorraine, 
+and two, the viewing of Fellini's E la nave va. Micky and I had been to a 
+dinner party and there we stood, both of us rather ridiculously over- 
+dressed, on the walkway beside a foundry Director in a double-breasted 
+suit, like the tourists in the movie looking down on the engine room — 
+on the inferno. (I had gone to Pont-a-Mousson in the hopes of finding 
+some nineteenth-century manhole covers, but in a foundry every scrap 
+of metal is melted down again.) This is merely intended to suggest 
+where a painting's title may be found, and by what devious ways. 
+Another day, I might only have distinguished a tree: Tree or Walkway, 
+one or the other can nonetheless impel one to say: "What do you know, 
+a myth!" 
+
+Bougival-Paris, September 1986 
+
+
+
+
+Bougival, 
+
+
+
+
+
+
+■3Pm 
+
+
+
+
+Works in the Exhibition 
+
+
+
+Unless otherwise noted, marginal drawings surround the central image on four sides. 
+
+4^ &lt;^?&lt;^/L&lt;.tzZ5£isc£z&gt; 
+
+
+
+
+33 
+
+
+
+
+Detail, marginal drawing for Central Park 
+
+
+
+M 
+
+
+
+Central Park, j 965 
+
+Acrylic with marginal drawings in India ink on paper mounted on 1 
+
+6} 3 Ax 76" (162 x 193 cm) 
+
+Collection of the artist 
+
+
+
+
+
+
+
+
+
+
+
+Detail, marginal drawing for Central Park 
+
+
+
+36 
+
+
+
+z. All in One Breath {he tout venant). 1966 
+
+India ink on paper, 2.4V2 x 35V2' (62.5 x 90 cm) 
+
+Collection Musee National d'Art Moderne, Centre Georges Pompidou, Paris. Gift of the artist 
+
+
+
+
+
+
+
+37 
+
+
+
+Unfolded Newspaper {Journal dephe). i960 
+
+India ink and wax crayon on paper, 24 x 55'/;" (62 x 90 cm) 
+
+Collection Jerome and Marlene Brody 
+
+Unfolded Newspaper (Journal deplie). 1966 
+India ink on paper, 2.4 ■'/« x 35 'At. " (62 x 89 cm) 
+Private Collection 
+
+
+
+
+38 
+
+
+
+5. Unfolded Newspaper (Journal deplie). 1966 
+India ink on paper, 2.4 Vs x 35V16 " (62. x 89 cm) 
+Private Collection 
+
+6. Unfolded Newspaper (Journal deplie). 1966 
+India ink on paper, 18 'A x 34W (46 x 88 cm) 
+Private Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 
+
+
+
+39 
+
+
+
+After Malevich (Apres Malevitch). 1966 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 
+
+55V2X 54" (141 x 137 cm) 
+
+Collection Stephane Janssen, Beverly Hills 
+
+
+
+pis Jllypl 
+
+glpia 
+
+
+
+SITO! 
+
+
+
+
+
+
+
+*2 ©i - 
+
+
+
+"$ 
+
+
+
+P 
+
+
+
+Unfolded Newspaper (Journal deplie). 1967 
+India ink on paper, i3 3 /s x 24" (34 x 61 cm) 
+Collection of the artist 
+
+
+
+
+41 
+
+
+
+Under Hire (Sous le feu). 1967 
+
+Acrylic with predella drawings in India ink on paper mounted on canvas, 
+
+95 \ j8 3 A" (114 x 199 cm) 
+
+l ollection Musee National d'Art Moderne, Centre Cieorges Pompidou, Pans. Purchase of the State 
+
+
+
+
+
+
+
+
+¥0M'K 
+
+
+
+vanJmmm 
+
+
+
+io. Drastic Cut (Coupe sombre). 1967 
+
+Acrylic with marginal drawings at left and right in India ink on paper mounted 1 
+39 3 /s x 96" (100 x 244 cm) 
+Collection Museum Ludwig, Cologne 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i ABornMother Fibre maternelle). 1967 
+Acrylic with marginal drawings in India ink on paper mounted on canvas 
+63V1X $i s "(i6ix 130cm) 
+Collection Mr. and Mrs. Melvin A. Golder 
+
+
+
+mm 
+
+
+
+
+
+
+i-sfjBjaef^', 
+
+
+
+
+
+
+
+[ z. Death and the Maiden (La jenne fille et la mort). 1967 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 
+54 x 54" (137 x 137 cm) 
+Collection Marion Lefebre 
+
+
+
+
+45 
+
+
+
+5 ( 'tiding the Matter (he tour de sujet). 1967-68 
+
+Acrylic on paper mounted on canvas with marginal drawings in India ink on paper 
+mounted on wood, 8z 3 Ax 142." (2.10 x 360 cm) 
+I'm iii 1. ollection, France 
+
+
+
+
+46 
+
+
+
+
+mm: ' 
+
+
+
+
+
+
+im 
+
+
+
+
+[_t Sources of Information (Sources d' information). 1968 
+Ink on paper, 38V* x z6 5 /s" (98 x 66.7 cm) 
+Private Collection 
+
+
+
+
+4 X 
+
+
+
+[5. Sources of Information (Sources d' information) . 
+Ink on paper, 38V8 x 2.6%" (98 x 66.7 cm) 
+Private Collection 
+
+
+
+l6. Sources of Information (Sources J' 111 formation). 15 
+Ink on paper, 38VS x z6 5 /s" (98 x 66.7 cm) 
+Private Collection 
+
+
+
+
+
+49 
+
+
+
+[7 Sources of Information (Son 
+Ink on paper, 38% x 26 V»" ( 
+Private Collection 
+
+
+
+[8. Sources of Information (Sources a" information). 
+Ink on paper, 38V8 x z6 s /s" (98 x 66.7 cm) 
+Private Collection 
+
+
+
+
+
+SO 
+
+
+
+[9 Star and Disaster (Astre et desastre). 1969 
+
+Acrylic with predella drawings in India ink on silver paper mounted on canvas, 
+61 x 61" (155 x t55 cm) 
+Collection Baroness Van Zuylen 
+
+
+
+
+51 
+
+
+
+z.0. Agoraphobia Square (Le carre des agoraphobes). 1966 and 1970 
+
+Oil on canvas (1966) with marginal drawings in India ink and acrylic mounted on paper 
+mounted on wood (1970), 54 x 55'/:" (137 x 141 cm) 
+Collection Joyce and Samir Mansour, Paris 
+
+
+
+
+5 2 
+
+
+
+2i. Tooth and Nail (Toutes griffes dehors). 1970 
+
+Acrylic with predella drawings in India ink on paper mounted on canvas, 
+
+72% x 90%" (184x230 cm) 
+
+Collection Nordjyllands Kunstmuseum, Aalborg, Denmark 
+
+
+
+
+53 
+
+
+
+Gone Up in Smoke (Parti en fumeej. 19- 1 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 
+53V2X 54" (136 x 137 cm) 
+Collection Pierre Hebey 
+
+
+
+
+5 A 
+
+
+
+•-3. So Many Windows (Autant de fenetres). 1971 
+
+Watercolor on paper mounted on canvas, ii5 3 /4 x 156" (2.94 x 396 em) 
+Collection of the artist 
+
+
+
+
+' 1 ' ' '"WXn 
+
+
+
+
+
+
+
+
+
+W0Wmw 
+
+
+
+
+
+
+
+iv -' - • .. 
+
+
+
+
+l 4 Boreality Borealite). m-i 
+
+Acrylic with marginal drawings in watercolor on paper mounted on canvas, 54 x ft 1 ' ' \„" (137 x r 57 cm) 
+
+C ollectum Guy Georges, Paris 
+
+
+
+
+
+
+
+&gt; , 
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+'■'■'^\h ^^h, 
+
+
+
+
+3«aE 
+
+
+&gt; a. 
+
+
+
+56 
+
+
+
+-5- Aztec Volcano (Volcan azteque). 1971 
+
+Acrylic with marginal drawings in watercolor on paper mounted on canvas, 
+
+61V4 x 79V2" (155.6 x zoz cm) 
+
+Peggy Guggenheim Collection, Venice. Gift, Enrico and Fiorella Chian, Venice, 19.S4 
+
+84-3*53 
+
+
+
+
+57 
+
+
+
+i6 Bird's-Eye View (Tour d' horizon). 1971 
+
+India ink on paper mounted on canvas with marginal drawings in India ink and acr 
+
+on old manuscripts, iuS'kx 153 V2" (300 x 390 cm) 
+
+Collection The Carnegie Museum of Art, Pittsburgh; The Henry L. Hillman Fund, 
+
+
+
+
+58 
+
+
+
+27. Delft Blue (Le bleu de Delft). 1972 
+Acrylic with predella drawings in v 
+■/S 3 A x ri8Vs" (200 x 300 cm) 
+Private Collection; on loan to Loui 
+
+
+
+color on paper mounted on canvas, 
+
+1 Museum of Modern Art, Humlebaek, Denmark 
+
+
+
+
+5") 
+
+
+
+iS Scj Sickness (i\Lil Jc mer). 19-2 
+
+India ink on paper mounted on canvas, 59 1 /: x 39" (151 x 99 1 
+(. iilkxtiiin ot the artist 
+
+
+
+
+60 
+
+
+
+19 The Blue Tree (L'arbre bleu). 197^1 
+
+Acrylic with acrylic predella on paper mounted on canvas, 71 x 61" (180 x 154 cm) 
+Collection Michel Fribourg, New York 
+
+
+
+
+6l 
+
+
+
+}o Redeemed Share (Action de jonissance). 1975 
+
+Acrylic on paper mounted on canvas with marginal drawings in Indi 
+94V2 x iog'/x" (204 x 277 cm) 
+Collection Lens Fine Art, Antwerp 
+
+
+
+documents, 
+
+
+
+
+
+
+
+
+s^^k 
+
+
+,• . 
+
+
+&lt;r ;~, ; 
+
+
+si 
+
+
+Ikil 
+
+
+mEt- 
+
+
+
+
+
+
+Ou 
+
+
+BctI ^ 
+
+
+
+
+^ 
+
+
+3 
+/ ** 
+
+
+
+
+
+
+3i. Come from Afar {Menu de loin). 1975 
+
+Acrylic with predeila drawings in India ink on paper mounted on canvas, 
+78 3 /4 x nS'/s" (zoo x 300 cm) 
+Collection of the artist 
+
+
+
+
+63 
+
+
+
+j2 The Sound of the Fall (Le bruit de la chute). 1975 
+
+Acrylic with predella drawings 111 India ink on paper mounted on canvas, 
+
+59 x 60 1 4" (151 x 1 53 cm) 
+
+( ollection Louisiana Museum of Modern Art, Humlebaek, Denmark 
+
+
+
+
+64 
+
+
+
+33- Bouches du Rhone Suite (Suite des Bouches du Rhone). 
+India ink on paper, 84V4 x 36V4" (215 x 92 cm) 
+Private Collection 
+
+
+
+34. Bouches du Rhone Suite (Suite des Bouches du Rhone). 
+India ink on paper, 84% x 36V4' (215 x 92 cm) 
+Private Collection 
+
+
+
+
+
+65 
+
+
+
+35 Bouches du Rhone Suite (Suite des Bouches du Rhone). 1976 
+India ink on paper, 84 'A x 36 l A" (2.1 5 x 91 cm) 
+Private Collection 
+
+
+
+Bouches du Rhone Suite (Suite des Bouches du Rhone). 1976 
+India ink on paper, 84V4 x 36V4" (215 x 92 cm) 
+Private Collection 
+
+
+
+
+
+L ,J? 
+
+
+
+
+37- Bouches du Rhone Suite (Suite des Bouches du Rhone). 1976 
+India ink on paper, 84V4 x 36V4" (215 x 92 cm) 
+Private Collection 
+
+
+
+
+
+
+
+
+
+
+
+L^f±^£ 
+
+
+
+67 
+
+
+
+Abrupt Falile (Abrupte fable). 1976 
+
+India ink and acrylic on paper mounted on canvas folding screen with logogram 
+
+by Christian Dotremont, iii 3 /» x 187" (284 x 475 cm) 
+
+(. ol lection of the artist 
+
+
+
+
+5^7 
+
+
+
+w 
+
+
+
+
+
+
+68 
+
+
+
+
+abrupte fable 
+
+d'etre d'herbe de verbe de sable de flots 
+
+a serpentements d'orage 
+
+tendre de fruit 
+
+a cheminements presque terrestres 
+
+a traces de presque pas 
+
+a presque rien d'avant 
+
+a developpements 
+
+en roue d'oiseau-lyre 
+
+a brusquement voter 
+
+de nuances ensemble 
+
+a la nuit d'un nuage 
+
+dore jusqu'au soleil 
+
+a depliures de cri 
+
+a bruissements de jour 
+
+a regards de chant 
+
+abrupt fable 
+
+of being of grass of words of sand of wave 
+
+of snakestorms 
+
+delicacy of fruit 
+
+pathways almost terrestrial 
+
+footprints of almost not 
+
+almost nothing of before 
+
+developments 
+
+fanned-out lyrebird style 
+
+suddenly flying 
+
+light and shade together 
+
+by cloudnight 
+
+golden through to sun 
+
+with cry's un foldings 
+
+with day's rustlings 
+
+with the gaze of song 
+
+
+
+(Translated by Michael Fineberg) 
+
+
+
+6 9 
+
+
+
+39. Fall (Chute). 1977 
+
+Acrylic with acrylic border on paper mounted on canvas, 41 x 25 ', 
+Private Collection, Paris 
+
+
+
+
+40. Sky Square (Carre de ciel). 1978 
+
+Acrylic with predella drawings in India ink on paper mounted on canvas, 44V2 x 39V2" (113 x 100 cm) 
+C oik-ction Mr. and Mrs. Sidney Mindhn 
+
+
+
+
+Depict, Describe (Depeindre, decrire). 1979 
+
+Acrylic on paper mounted on canvas with acrylic marginalia on old manuscripts, 
+
+59 x 78 3 /»" ( 1 50 x 2.00 cm) 
+
+Private Collection 
+
+
+
+
+73 
+
+
+
+/ Am /.;; (Jc suis loin). 1979 
+
+Acrylic with acrylic predella on paper mounted on canvas, 50 x 36W (1 27 x 92 cm) 
+
+Private Collection 
+
+
+
+
+43- In Octavo. 1979 
+
+Acrylic on paper mounted on canvas, 25V2 x 38" (65 x 96.5 cm) 
+Collection Marion Lefehre 
+
+
+
+
+75 
+
+
+
+44 Bedtime (Coucher). 1980 
+
+Acrylic with acrylic marginalia on paper mounted 1 
+Collection Meridian Partners, Inc., New York 
+
+
+
+5,36x43 (90 x110 cm) 
+
+
+
+
+76 
+
+
+
+f5 Awaking (Reveil). 1980 
+
+Acrylic with acrylic marginalia on paper mounted on canvas, 36 x 43" (90 x no cm) 
+Collection Meridian Partners, Inc., New York 
+
+
+
+
+46 After Us (Apres nous). [980 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 
+61 x 88'/2" (155 x 22s cm) 
+Collection of the artist 
+
+
+
+
+
+-■V 
+
+
+
+78 
+
+
+
+47- Legible Athens (Athenes en lecture). 1980 
+
+India ink on map mounted on canvas with acrylic predella on paper, 55V2 x 87" (141 x 111 cm) 
+Collection of the artist 
+
+
+
+
+4 8 Codex. 1 98 1 
+Acrylic with ac 
+Collection Sole 
+
+85 ?i8o 
+
+
+
+ic border on paper mounted on canvas, 60V2 x 118" (153.5 x 3°° cm ) 
+on R. Guggenheim Museum, New York. Gift, Mr. Jerome Brody, 1985 
+
+
+
+
+80 
+
+
+
+%&lt;). Unlimited Responsibility (Responsabilite illimitee). 1981 
+
+Acrylic on paper mounted on canvas with predella drawings in India ink on documents, 
+6o 5 /s x 6o 5 /s" (154 x 154 cm) 
+Courtesy Galerie Maeght Lelong, Paris 
+
+
+
+
+50. Past Unnoticed (Le passe inapercu). 1981 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 
+
+102 Vs x 185" (zo6 x 470 cm) 
+
+Collection Mr. and Mrs. N. Richard Miller 
+
+
+
+
+
+§3 
+
+
+
+The Break (La faille . 198] 
+
+\^r\ Ik (in paper mounted on canvas with marginal drawings in India ink on maps 
+
+- i i x 94' z" (185 x 140 cm) 
+
+Collection The State Museums of the Grand-Duchy of Luxembourg 
+
+
+
+
+84 
+
+
+
+52. A Taste of the Abyss (Le gout de gouffre). 1980-82 
+
+Acrylic with border drawings in India ink on paper mounted on canvas, 
+60V4 x 94V2" (153 x 240 cm) 
+Collection of the artist 
+
+
+
+
+85 
+
+
+
+5 3 The Sphinx 's Repressed Laughter (Le reprime ricanement du Sphinx) .1982 
+
+India ink with acrylic border on paper mounted on canvas, 73 l A x 1 11'A" (186 x 286 cm) 
+Collection of the artist 
+
+
+
+
+86 
+
+
+
+54- The Dog King (Le chien rot). 1982 
+
+India ink with acrylic border on paper mounted on canvas, 81V2 x 81V2" (207 x 207 cm) 
+Collection of the artist 
+
+
+
+
+87 
+
+
+
+55 Exquisite Words (Mots exquis). 1981 
+
+India ink on map with predella drawings in India ink on paper, 52 
+Collection General-Ma|or Aviateur P. de Groof, Brussels 
+
+
+
+51V2" (134 x 131 cm) 
+
+
+
+
+56. Icy Eye f( )eil de glace). 1982 
+
+India ink with marginal drawings in India ink on map, 42 7 /s x 57V2" (109 x 146 cm) 
+Courtesy Galerie Maeght Lelong, Paris 
+
+
+
+
+
+
+
+
+^ 
+
+
+
+
+pp. 90-91 57. Geographic Theater (Theatre gcographiquc). 1983 
+
+Acrylic and India ink with marginal drawings in acrylic and India ink on map, 
+10- x 191 VV (2.72 x 487 cm) 
+Private Collection 
+
+
+
+
+58. Gust of Wind (Bourrasque). 1981-83 
+
+India ink with acrylic border on paper mounted on canvas, io9 7 /s x 193V4" (279 x 492 cm) 
+Private Collection 
+
+
+
+
+93 
+
+
+
+59 Three-Leaf Clover (Trifle a trots feuilles). 1983 
+
+India ink with acrylic border mounted on canvas, 39 Vs x 59" (100 x 1 50 cm) 
+Private Collection 
+
+
+
+
+94 
+
+
+
+6o. Power of the Tree (Jeu d'arbre). 1983 
+
+India ink on paper mounted on canvas with acrylic marginali, 
+
+71V4 x 87" (182 x zzi cm) 
+
+Courtesy Galene Maeght Lelong, Paris 
+
+
+
+i paper mounted on wood, 
+
+
+
+
+95 
+
+
+
+(M Clearing (Clairien 
+India ink with acr 
+
+Collection Norm.! 
+
+
+
+tier on paper moun 
+i m.i Br; iiii.ni 
+
+
+
+70 7 /s x i i - ! 4" ( 1 So x 3 50 cm) 
+
+
+
+
+96 
+
+
+
+62 BnJgchi\hl : I etc Jc punt). 1983 
+
+India ink and acrylic with acrylic border on map mounted on canvas, 
+
+15V2X 40V2" (65 x 103 cm) 
+
+Collection Mr. and Mrs. Michel David-Weill, New York 
+
+
+
+
+6}. Surprise Journey (Voyage surprise). 1983 
+
+Acrylic on map with acrylic predella on paper, 36Y8 x 35V2" (93 x 90 cm) 
+Collection J. P. Ledeur, Paris 
+
+
+
+
+99 
+
+
+
+64 Cardinal Forest (Foret cardinale). 1981-84 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 
+34V16X 73 1 /4"(8 7 x 186 cm) 
+Private Collection 
+
+
+
+
+65. Little Snail (Petit escargot). 1984 
+
+India ink with acrylic border on paper mounted on canvas, 
+98 3 A x 137V4" (250 x 350 cm) 
+Courtesy Galerie Maeght Lelong, Paris 
+
+
+
+
+
+
+
+66 Occupied Window (Fenetre occupee). i 
+India ink w ith acrylic border on paper i 
+21 ' -. \ I- 1 j" s4 \ 44 cm 
+Private Collection 
+
+
+
+Green Cold (Or vert). 1984 
+India ink with acrylic horde 
+2.C 8 x 20" (60 x 51 cm) 
+Private C ollection 
+
+
+
+paper mounted on canvas, 
+
+
+
+68 ( )rifice. 1984 
+
+India ink with acrylic border on paper mounted on canvas, 
+23 Vs x 20" (60 x 5 1 cm) 
+Private Collection 
+
+69 Later (Plus tard). 1984 
+
+India ink with acrylic border on paper mounted on canvas, 
+21 'a x 1- 1 4" (54 x 44 cm) 
+Private Collection 
+
+70. Mineral Victory (Victoire minerale). 1984 
+
+India ink with acrylic border on paper mounted on canvas, 
+23 s /s x 20" (60 x 5 1 cm) 
+Private Collection 
+
+71. Wheel of Earth and of Shadow (Roue de terre et d'ombre). 1984 
+India ink with acrylic border on paper mounted on canvas, 
+
+23 Vs x 20" (60 x 51 cm) 
+Private Collection 
+
+
+
+
+
+
+ig^-~***msm* 
+
+
+
+
+
+AM ii^ 
+
+
+
+
+
+
+103 
+
+
+
+7 i Principal Wheel (Roue principal) . 1984 
+
+India ink with acrylic border on paper mounted on &lt; 
+61V16 x 45" 1.," (1 56 x 116 cm) 
+Collection Michel Guy, Pans 
+
+
+
+
+104 
+
+
+
+73. On the Porch (Sur le perron). 1984 
+India ink with acrylic border on papei 
+Private Collection 
+
+
+
+;d on canvas, 39 3 /s x 39 3 /s" (100 x 100 cm) 
+
+
+
+
+105 
+
+
+
+-4 Fireflies (Lueitiles). 1984 
+
+India ink with acrylic border on paper mounted on canvas, ji'/x 
+Courtesy Galene Birch, Copenhagen 
+
+
+
+14WU85 x 284 cm) 
+
+
+
+
+106 
+
+
+
+75- Chromatic Buoy (Bouee chromatique). 1984 
+
+Acrylic and India ink with rubbing and acrylic border on paper mounted on canvas, 
+79 x 79" (200 x 200 cm) 
+Collection of the artist 
+
+
+
+
+107 
+
+
+
+-(&gt; Quadrillage. i M.S4 
+
+India ink with rubbing and acrylic border on paper mounted on canva 
+74 13 /i6 x 38'/V (190 x 97 cm) 
+Private Collection 
+
+
+
+
+77- Box and Skull (Boite et crane). 1985 
+
+India ink with acrylic border on paper mounted on canvas, 37V4 x 41V16" (95 x 105 cm) 
+Collection Mr. and Mrs. Melvin A. Colder 
+
+
+
+
+£S 
+
+
+
+109 
+
+
+
+78. The Forgotten Wool (La Lime oubliee). 1978-85 
+
+Acrylic with acrylic border on paper mounted on canvas, 
+85 x ^ 6 '■ 4 " (216 X 92 cm) 
+Private Collection 
+
+
+
+
+79- Blue Criterion (Critere bleu). 1978-85 
+
+Acrylic on paper mounted on canvas with marginal drawings in India ink on paper 
+mounted on wood, 81 x 59%" (268 x 152 cm) 
+Private Collection 
+
+
+
+
+8o. Soles' Rose Window (Rosace des semelles). 1985 
+
+India ink with rubbing and acrylic border in India ink on 
+paper mounted on canvas, 74 1 Vit. x 38 Vk," (190 x 97 cm) 
+
+
+
+Street Pepper d'nwre des rues). 1985 
+India ink with rubbing and acrylic border on paper 
+mounted on canvas, 74 "/if, x 3 8 Vi f," {190 x 97 cm) 
+Courtesy Galerie Maeght Lelong, Paris 
+
+
+
+
+
+Jz. Mill Wheel (Meule). 1985 
+
+Acrylic and India ink on paper w 
+io6 5 /i 6 x 114'/)" (270 x 290 cm) 
+Private Collection 
+
+
+
+th rubbing and prcdella drawings in India ink on paper, 
+
+
+
+
+113 
+
+
+
+;•, Stirring Water (Remuement d'eau). 19S5 
+
+Acrylic and India ink with rubbing and acrylic border on paper mounted on canvas, 
+
+78% \ -S'V (200 x 200 cm) 
+
+Collection Mr. and Mrs. J. Karel P. van Stuijvenberg, Caracas 
+
+
+
+
+84. The End of the Tunnel (he bout de tunnel). 1986 
+
+India ink with acrylic border on paper mounted on canvas, 37V2 x 37V2" (95 x 95 cm) 
+Collection Jacques Putman, Paris 
+
+
+
+
+
+
+
+**&amp;~^u0P*'*4&gt;&gt; ****** 
+
+
+
+115 
+
+
+
+85 Harpsichord {Clavecin). 198ft 
+
+Manufactured by Von Nagel, Paris, 1 986 
+
+In collaboration with Jm Kolaf: outside of lid, stand base, music st; 
+India ink and acrylic on paper mounted on harpsichord, 32I/2 x 93 \ 
+Collection ot the artist 
+
+
+
+id, lid prop 
+
+x 36"/,." (81.5 
+
+
+
+
+Il6 
+
+
+
+86 The Days Are Getting Longer (Les jours rallongent). 1986 
+
+Acrylic with marginal drawings in India ink on paper mounted on canvas, 106V4 x i96 7 /s" (270 x 500 cm) 
+Courtesy Galerie Maeght Lelong, Pans 
+
+
+
+
+Vocabulary (Vocabulaire). 1986 
+
+Temporary decorations for 4 Guggenheim Museum eleva 
+
+acrylic on paper mounted on canvas, 8 vertical elements, each 1 10 
+
+4 lintels, each 32."/i6 x 74" (83 x 188 cm) 
+
+
+
+
+
+mm wm 
+
+
+
+
+
+I2 3 
+
+
+
+p f jmmmmm ; ? ^mmm 
+
+
+
+i^rm 
+
+
+
+fjAffll 
+
+
+
+if SI 
+
+
+
+
+In print shop, Paris, during production 
+of Ting's It Life, 1964 
+
+
+
+125 
+
+
+
+PRINTS 
+
+
+
+126 
+
+
+
+Roots {Racines). 1952 
+
+From Hayterophilies, 1952—53, album containing 1 1 etchings 
+
+Etching, i4 7 /s x zi7s" (37.7 x 55.7 cm) 
+
+9/30 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86.3345.2 
+
+
+
+
+127 
+
+
+
+89 The* at's Walk Promenade du chat). 1961 
+Etching, [2x13 io.5 x 33.5 cm 
+
+S JO 
+
+Collection Solomon R. Guggenheim Museum, New York. Gift of the , 
+
+86 5346 
+
+
+
+
+128 
+
+
+
+90. Remarks Renuraues). 1960—63 
+
+Lithograph, 19% x 14W (50 x 36 cm) 
+
+55^5 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86.3350 
+
+
+
+
+91 Exprmntl Film. 1967 
+
+Lithograph, 3 1 *A x Z3 W (80.5 x 59 cm) 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+86 5356 
+
+
+
+
+filmexprmntlfilm 
+CASINO KNOKKE 
+
+25X11-1967 2-1-1968 
+02.13.41.55 050.614.71 
+
+
+
+
+92. Mrs. Felicity Milici (Madame Mtlici Felicite). 1971 
+Lithograph, 2.$Vi x 19" (65.5 x 48. 2. cm) 
+3/15 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+86.3367 
+
+
+
+
+93- Seismographic Armful (Brassee sismographique). 1971 
+
+Lithograph with logogram by Christian Dotremont, 33V2 x 14 Vis" (85.1 x 61 1 cm) 
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86 3370 
+
+
+
+
+brassee sismographique de gouffre 
+
+au fur et a demesure de nuit 
+
+a caresses de cohere d'encre 
+
+a va-et-vient de caprices de montee 
+
+stnante de roche 
+
+de stratigraphie de souffles 
+
+vers le haut d'astres 
+
+de matin brusquement cree reel 
+
+mais de toutes progressions de toutes couleurs 
+
+survenantes de toutes formes soulevees 
+de source encore se demultipliant de surgir 
+abruptement mats de'ja vers le jour sc multipliant de vivt 
+de visage en vision 
+
+de soleil en perle de serpentement en fete 
+de nature d'herbe en gerbe de volcan 
+en roseaux jusqu'a I'ocean si pimpant d'un ciel 
+en elancement de terre jusqu'au cri si vivace d'un arbre 
+et deja pourtant menace d'une forme de mort 
+que la vie meme refuse 
+par une nuit nouvelle 
+vers le haut du meme gouffre 
+non moins peuple de fables 
+vivaces a meme tout desespoir de source 
+
+de condition de vivre et quotidiennement revivre 
+vers le matin revenant reel cree 
+vers le premier cri a resurgir 
+a meme toutes formes et toutes couleurs 
+si ardentes toujours 
+qu'elles nous jettent a devenir 
+
+
+
+seismographic armful of emptiness 
+nightwise nightcrazy as and when 
+with caresses of ink and anger 
+come and go go as you flow upward 
+streaking rockpath 
+of breath stratigraphy 
+upward and starward 
+into morning created suddenly there 
+but from all progressions all colors 
+
+arising from all forms arisen 
+from origin still gearing down from surging 
+abruptly but already toward the day gearing up from living 
+from face to vision 
+
+from sun to pearl snakeloops to celebration 
+grass nature to volcanic sheaf 
+
+in reeds all the way to the ocean so spick and span from a sky 
+soaring up from earth all the way to a tree's cry 
+perennial and yet already threatened by a form of death 
+that life itself rejects 
+by a new night 
+
+to the highest reach of the same emptiness 
+no less peopled with fables 
+hardy m the midst of despair of origin of condition 
+
+of living daily reliving 
+toward the morning created returning real 
+toward the first cry to arise 
+in the midst of all forms all colors 
+so ardent still 
+they launch us into becoming 
+
+
+
+(Translated by Michael Fineherg) 
+
+
+
+g4 Mud Soiree Soiree Mini). 19-4 
+
+Occasioned by Mini's Sotli birthday celebration, 
+
+given by Anne Maeght, Pans 
+
+Lithographic print on cheesecloth, i6'sx 1 6 ' 2" (4 1 X41C 
+
+Collection Solomon R. Guggenheim Museum, New York. 
+
+Anonymous Gift 
+
+86 5374 
+
+
+
+95. Exprmntl Film. 1974 
+
+( )ngmal offset print, ii'.sx n 1 / (-9 x s9 cm) 
+Collection Solomon R. Guggenheim Museum, New York. 
+Anonymous Gift 
+86.3375 
+
+
+
+
+
+134 
+
+
+
+96. Direct Line (Ligne directe). 1976 
+Etching, 20 3 /s x 30" (51.8 x 76.2 cm) 
+9/12 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+86.3383 
+
+
+
+
+135 
+
+
+
+i)- Aijii.: Fortis (L'eau forte). [976 
+Etching, 14 ; 4 \ %-" (62 S \ 94 cm) 
+Artist's proof, 9 1 1 
+
+Collection Solomon R. Guggenheim Museum, New York. Gift of the artist 
+86.3384 
+
+
+
+
+I 3 6 
+
+
+
+98. Watchman's Path (Chemin de ronde). 1977 
+
+Linocut and lithograph, 24' Vk, x }6'/i" (63 x 92.7 cm) 
+
+137/150 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86.3387 
+
+
+
+
+137 
+
+
+
+Recycled Papers (Papiers traites). 1978 
+
+Paper folder containing title page and 6 lithographs 
+
+Folder, z6 3 A x 2.0 'V (68 x 52.. 4 cm); title page and lithographs, each 2.6' x x xd'ht" (67 x 52 cm) 
+
+56/99 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86 .3389.1-. 8 
+
+
+
+»HA»*»»%%fc% %%»%**»« 
+
+
+
+L 
+
+
+
+TtAitfs 
+
+
+
+.AA&lt;f Cr«T h\T&lt;;\\L 
+
+
+
+/&gt;AlW : 
+
+
+
+TtfAifti 
+
+
+
+\ ; J A/ 5 /r % Rj rfK'u*$&lt; T&gt;{*iTt?s 
+
+
+
+KAfVpafr, A I'/MtoWK'i? J 
+
+(Ui\ itiAiASiK f (HF0&lt;frfJ , 
+/Alii J &gt;}16 A* iVWtf&lt;? Bt J 
+
+
+
+3 /Aril I 
+
+
+
+
+
+138 
+
+
+
+fUt ijaAMA ******** ^u m» %«g 
+
+3 M!^j»T^y^^^ 
+
+
+
+
+
+* * www vrtm* tmr 
+
+
+
+r»ji »j*j%j»j»*%&gt;*%*%AA*fc 
+
+
+
+1 
+
+
+
+
+5 5 
+
+i 39 
+
+
+
+
+ioo Around the Falls (Autour des chutes), i 979 
+
+Etching and pochoir, 13 Vs x 58 3 /&lt;t" (59.4 x 98.4 cm) 
+
+
+
+Collection Solomon R. Guggenheim Museum, New York. Gift of the ar 
+86 539] 
+
+
+
+
+m&amp;m&amp;Kj 
+
+
+
+[40 
+
+
+
+ioi. Square by Square (Case par case). 1980 
+Etching, 67V4 x }6" (170x91.4 cm) 
+28/35 
+
+Collection Solomon R. Guggenheim Museum, New York. Gift of the 
+86.3393 
+
+
+
+
+ioz Scrambled Ephemerides (I phemerides brouillees). 198c 
+Etching, 73 1 4 \ 36V2" (186 1 x 91 8 cm) 
+
+
+
+Collection Solomon R. Guggenheim Museum, New York. Gift of the artist 
+86.3394 
+
+
+
+
+© 
+
+
+
+^^F^^^^W^^ITT^i 
+
+
+
+
+103. With Michel Portal (Avec Michel Portal). 1980 
+Lithograph, 14V16 x 12%" (36.7 x 32.5 cm) 
+9/10 
+
+Collection Solomon R. Guggenheim Museum, New York. 
+Anonymous Gift 
+86.3396 
+
+
+
+104. Predator (Predateur). 1982 
+
+Lithograph and etching, 3 6 Vk x 25 Vz" (917 x647 cm) 
+
+105/120 
+
+Collection Solomon R. Guggenheim Museum, New York. 
+
+Anonymous Gift 
+
+86.3398 
+
+
+
+
+
+V' V v v v^V 
+
+
+
+J 43 
+
+
+
+105. Jazz. [984 
+
+Lithograph, 59 ' -1 x 39 ' V ( 1 54 x 99 7 cm) 
+
+14/50 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86 3399 
+
+
+
+
+io6. Water (Eau). 1981—85 
+
+Color lithograph, Z9 3 /s x 2i 5 /s" (74.2 x 55 cm) 
+
+Presentation proof, 1/150 
+
+Collection Solomon R. Guggenheim Museum, New York. Complete edition, Gift in honor of the artist 
+
+84.3439 
+
+
+
+
+145 
+
+
+
+Water to the Skylight (L'eau a la lucarne). 1985 
+
+Lithograph, 63 x 47' V (160 x 1198 cm) 
+
+24/16 
+
+Collection Solomon R. Guggenheim Museum, New York. Gift of the ai 
+
+86.3403 
+
+
+
+
+46 
+
+
+
+Wheel of Writing (Roue d'ecriture). 1985 
+
+In collaboration with Michel Butor: facsimile of manuscript 
+
+Etching and pochoir with stamp cancelled with date of first issue, z6 x 19V4" [66 x 50 cm) 
+
+70/90 
+
+Collection Solomon R. Guggenheim Museum, New York. Anonymous Gift 
+
+86.3402 
+
+
+
+"1 
+
+
+
+Ir 
+
+
+
+
+J 
+
+
+
+147 
+
+
+
+
+Noel Arnaud, Alechinsky, Jorn, Ezio 
+Gribaudo and printers, printshop, 
+Fratelli Pozzo, Turin, 1968 
+
+
+
+CHRONOLOGY 
+
+
+
+Superieure d'Architecture et des 
+els; studies book illus- 
+
+
+
+1927 
+
+Born October 19 in Brussels to a Russian naturalized 
+Belgian father and a Walloon mother. Both parents were 
+doctors. 
+
+1944 
+
+Enters Ecole N 
+
+Arts Decoratifs, La Camb: 
+
+tration and typography. 
+
+1946 
+
+Reads and wanders. 
+First attempts at oil painting. 
+
+Attends first Carnaval de Binche, held in Hainaut, Bel- 
+gium, since World War II; he later draws inspiration 
+from this popular festival. 
+
+1947 
+
+Joins Jeune Peinture Beige group. 
+
+First one-man exhibition in Brussels, at Galerie Lou Cosyn 
+
+First etchings. 
+
+Trips to Morocco and Yugoslavia. 
+
+1948 
+
+Meets Michele Dendal (Micky). 
+
+First lithographs. 
+
+Stay in Pans. 
+
+1949 
+
+Meets Christian Dotremont in March in Brussels and 
+
+joins the group Cobra (COpenhagen-BRussels-Amster- 
+
+dam). With sculptors Olivier Strebelle and Reinhoud 
+
+and graphic artist Michel Olyff establishes a community 
+
+house, Les Ateliers du Marais, which becomes Centre de 
+
+Recherche Cobra. Through this center will pass Karel 
+
+Appel, Atlan, Pol Bury, Hugo Claus, Constant, Cor- 
+
+neille, Jan Cox, Oscar Dominguez, Peggy Guggenheim, 
+
+Edouard Jaguer, Asger Jorn, Willem Sandberg, Raoul 
+
+Ubac, Curt Valentin and others. 
+
+Marries Micky. 
+
+1950 
+
+Helene Jacquet Prize, La Louviere, Belgium. 
+
+Jeune Peinture Beige Prize (ex-aequo). 
+
+Lithographs for Derriere le Miroir, no. 32, Maeght, Paris. 
+
+Cobra moves: Appel and Corneille leave Amsterdam for 
+
+Paris; Jorn leaves Copenhagen for Suresnes near Paris. 
+
+Trip to Scandinavia. 
+
+
+
+
+Pierre and Micky Alechinsky, Dotre- 
+mont, Corneille and Doucet, Cobra 
+exhibition, Stedeh|k Museum, Amste 
+dam, 1949 
+
+
+
+149 
+
+
+
+1951 
+
+Dotremont and Jorn are hospitalized in Denmark for 
+pulmonary tuberculosis. 
+
+Organizes last Cobra exhibition, at Palais des Beaux- 
+Arts, Liege, and publishes "Abstraction faite" in tenth 
+and final issue of review Cobra. 
+Cobra movement dissolves. 
+Receives French Government scholarship. 
+Leaves Brussels to settle in Paris. 
+1952 
+
+Studies engraving with Stanley William Hayter at Atelier 
+17, Paris. 
+
+Corresponds with calligrapher Shiryu Morita, director 
+of review Bokubi (The Beauty of Ink) in Kyoto. Fre- 
+quently visits studio of Alberto Giacometti, whom he 
+has known since 1950. Art writer Jacques Putman, a 
+longtime friend, introduces him to Bram van Velde. 
+Draws from nature at Tourettes-sur-Loup (Alpes- 
+Mantimes): bamboo roots, branches and pebbles. 
+Birth of Ivan. 
+
+
+
+Joins organizing committee of Salon Octobre, Paris, which 
+includes Charles Estienne, Jean Messagier and others. 
+Jaguer entrusts him with technical direction of first issue 
+of Phases. 
+
+Draws "the writings of the tide" at Nieuport, Belgium. 
+With American sculptor Shinkichi Tajiri shows at 
+Kunsthandel Martinet, Amsterdam; catalogue preface 
+by Dotremont: L'arbre el I'arme. 
+
+
+
+1954 
+
+First one-man exhibition in Paris, at Galene Nina Daus- 
+set: Victor Brauner, Michel Butor, Max Ernst, Sam 
+Francis, Jacques Herold, Matta, Henri Michaux and 
+Jean Paulhan attend; catalogue preface by Dotremont: 
+"Language gets bogged down in Assemblies, colors in 
+Schools, but the poet speaks the pure meaning, and so 
+does the painter; I am thinking of Alechinsky. There is 
+something quite rare about this guy. He does not believe 
+that painting is any closer to life if it moves away from 
+painting itself." 
+
+Writes "Au-dela de l'ecriture" for Phases, no. z. 
+Meets Walasse Ting, who urges him to visit the Far East. 
+Paints Ant Hill, which James Johnson Sweeney will ac- 
+quire for Guggenheim Museum in 1957. 
+
+1955 
+
+Jorn, who is resettling in Paris, stays with him. 
+
+Embarks for Japan with Micky in September: Marseille, 
+Port-Said, Djibouti, Colombo, Singapore, Saigon, Ma- 
+nila, Hong Kong, Yokohama. 
+
+
+
+
+With Micky and cameraman Franci 
+Haar, Kyoto, 1955 
+
+
+
+150 
+
+
+
+1956 
+
+Dotremont organizes first "Cobra after Cobra" exhibi- 
+tion, at Galerie Taptoe, Brussels. 
+
+Opening of his film Calligraphie japonaise with Morita 
+and Toko Shinoda, shot the preceding year in Tokyo 
+and Kyoto (text by Dotremont, narrated by Roger Bhn, 
+music by Andre Souris and produced by Pierre Braun- 
+berger). 
+
+1957 
+
+Special Citation for Calligraphie japonaise at Interna- 
+tional Festival of Art Films, Bergamo, Italy. 
+At Henri Langlois's request, executes mural for Cine- 
+matheque francaise, Paris. 
+
+First large inks on crumpled paper mounted on canvas. 
+Collaborates on Andre Balthazar's and Pol Bury's re- 
+view Daily Bui (La Louviere). 
+
+1958 
+
+Becomes member of organizing committee of Salon de 
+Mai, Paris. 
+
+Joins Galerie de France, Paris, directed by Gildo Caputo 
+and Myriam Prevot-Douatte. 
+Birth of Nicolas. 
+1959 
+
+Sam Hunter includes him, together with Corneille, 
+Cesar, Eduardo Chillida, Alan Davie, Jean Degottex, 
+Roel D'Haese, Jorn, Robert Miiller, Antonio Saura and 
+Antoni Tapies, in European Art Today, at The Min- 
+neapolis Institute of Arts. 
+
+At invitation of Jorn and Paolo Marinotti participates in 
+Vitalita nell'arte at Palazzo Grassi, Venice. Paints large 
+canvases, including Vanish, gift of Julian and Jean Aber- 
+bach to Guggenheim Museum in 1967. 
+
+1960 
+
+Hallmark Prize, New York, for his painting Homage to 
+
+Ensor, i960. 
+
+John Lefebre opens a gallery in New York and shows 
+
+Cobra i&lt;)6o. 
+
+Installs and shares studios with Reinhoud in former vil- 
+lage school in La Bosse (Oise), France. 
+
+Draws after nature: orange peels (see Guggenheim In- 
+ternational Award, exh. cat., New York, 1964, pp. 98, 100). 
+
+1961 
+
+Citation of Honor for Calligraphic japonaise at Cultural 
+Film Festival, Tokyo. 
+
+First trip to New York. He works in the Chelsea Hotel, 
+later in Walasse Ting's studio. 
+
+
+
+Alechinsky, Davie, C. H. Pedersen and David Smith are 
+
+given one-man exhibitions at Pittsburgh International, 
+
+Carnegie Institute. 
+
+Les tireurs de langue: title and illustrations for short 
+
+stones of Amos Kenan, and paintings, drawings and 
+
+prints on the theme. 
+
+First one-man exhibition in a museum, Stedehjk 
+
+Museum, Amsterdam; catalogue preface by Putman: 
+
+"Aggressively. Because to be aggressive is to be absent, 
+
+and to be absent is to feel; and to feel is...." 
+
+First one-man exhibition in Munich, at Galerie van de Loo. 
+
+1962 
+
+First one-man exhibition in New York, at Lefebre Gallery. 
+
+With Dotremont, series of "drawing-words." With Ting, 
+
+the Alechings, "paintings for four hands." 
+
+Sends several pages on lost calligraphy to Paulhan, who 
+
+publishes them in La Nouvelle Revue Francaise (N.R.F., 
+
+no. 119). 
+
+1963 
+
+Andre Breton visits his studio. He had written to him 
+
+earlier: "That which I savor most in art is that which 
+
+you command, that power to entwine curves, that 
+
+clearly organic rhythm, that happy feminine submission 
+
+which you obtain from color, from light." 
+
+He and Jorn exchange work; Jorn donates prints, ink 
+
+drawings and paintings he obtains to his Silkeborg 
+
+Museum, Denmark. 
+
+Meets Joyce Mansour, many of whose books and poems 
+
+he will illustrate: Le Bleu des fonds, Astres et desastres, 
+
+Le Grand jamais, etc. 
+
+Meets Peter Bramsen, who soon becomes the printer of 
+
+almost all his lithographs at Ateliers Clot, Bramsen and 
+
+Georges, Paris. 
+
+First one-man exhibition of prints in Paris, at Galerie- 
+
+Librairie La Hune. 
+
+Settles in Bougival, near Paris. 
+
+1964 
+
+First one-man exhibition in Copenhagen, at Galerie 
+
+Birch, and in Amsterdam, at Galerie Espace. 
+
+Paints his largest oil to date, The Last Day, acquired by 
+
+Koninklijk Museum voor Schone Kunsten, Antwerp, in 
+
+
+
+With other artists contributes illustrations to Ting's 
+book 1 ( Life, a project that brings together the protag- 
+onists of Cobra and Pop Art, among other movements. 
+
+Classifies the 411 letters Dotremont had written him 
+since 1949. 
+
+With Appel and Ting appears in Encre, film on lithogra- 
+phy by Jean Cleinge. 
+
+
+
+151 
+
+
+
+One-man exhib 
+American collec 
+
+
+
+1965 
+
+Executes Central Park (cat. no. i ), his first acrylic paint- 
+ing with marginal remarks: the work from which the 
+concept of the present exhibition issues. 
+Increasingly abandons oil in favor of acrylic, and for 
+supports adopts paper, which he will learn to mount on 
+canvas. 
+
+including forty paintings from 
+s at The Arts Club of Chicago. 
+Stay in New York, interrupted by trip to Mexico. 
+Denoel, Paris, publishes his Titres et pains perdus. Notes 
+on disappearances, losses of meaning, transmission dif- 
+ficulties, blanks, wants and useless persistences. "The ti- 
+tles inscribed on the backs of paintings usually live with 
+their noses to the wall, in penitence." 
+
+Breton includes Central Park in the Xle (and last) Ex- 
+position Internationale dii Surrealisme, Paris. 
+
+1966 
+
+Triennial Prize for Printmaking in Belgium. 
+
+Prize, International Biennial of Printmaking, Krakow 
+
+(ex-aequo). 
+
+Unfolded Newspapers (see cat. nos. 3-6, 8), series of 
+
+narrative drawings which includes All in One Breath 
+
+(cat. no. 2) and for which he writes a commentary. 
+
+1967 
+
+First acrylic painting with a predella (a series of images 
+under the principal subject) Under Fire (cat. no. 9). 
+New work in graphics with help of Jean Clerte, whom 
+he knew at Atelier 17 m 1952: books, engravings and 
+lithographs. 
+
+Series of paintings, engravings and drawings on the 
+theme of Gilles, hero of the Carnaval de Binche, at 
+Stephane Janssen's Galerie La Balance, Brussels; cata- 
+logue preface by Pol Bury. 
+
+One-man exhibition of eighty-five drawings, the Ideo- 
+traces, at The Museum of Fine Arts, Houston. 
+
+1968 
+
+Marzotto-Europe Grand Prize for Painting, Valdagno, 
+
+Italy. 
+
+Sources of Information (see cat. nos. 14-18): inks with 
+
+multiple subjects. 
+
+Drawings on Butor's "tapuscnts": appropriation of the 
+
+author's rejects and rough drafts. Book-object with 
+
+Joyce Mansour: Le Bleu des fonds. 
+
+Drawing for Chateau Mouton-Rothschild label, 1966 
+
+vintage. 
+
+1969 
+
+First retrospective in Belgium, at Palais des Beaux-Arts 
+de Bruxelles, which travels to Denmark and Germany. 
+
+Trip to Canary Islands. 
+
+
+
+
+Bougival, 1968, one of the Star and 
+Disaster paintings in the background 
+
+
+
+152 
+
+
+
+
+Stars and Disasters (see cat. no. 19): diverse works evok- 
+ing spheres and wheels. In collaboration with Arman, 
+Indivisible Prints, which are dipped in resin. 
+
+Constructs a new studio in Bougival. 
+
+1970 
+
+Second Prize, Festival International de Peinture, Cagnes- 
+
+sur-Mer. 
+
+Luc de Heusch film Alechinsky d'apres nature (narrated 
+by Claude Rich, music by Michel Portal, Albina Produc- 
+tion, Paris). 
+
+With Jorn and Ting: "paintings for four hands." 
+Decorative panel for an Air France Boeing 747. The Vol- 
+canoes: Volcanalysis, Volcanology, etc. 
+Leaves organizing committee of Salon de Mai, Paris. 
+
+
+
+Paints Aztec Volcano (cat. no. 25), gift of Enrico and 
+Fiorella Chiari to Peggy Guggenheim Collection, Venice, 
+in 1984. 
+
+Trip to Norway. 
+
+Completes his book Roue libre, published by Skira, 
+Geneva, in which he discovers a key to Surrealism, lying 
+somewhere between Le Musicien de Saint-Merry by 
+Guillaume Apolhnaire and The Invisible ( )bject of 
+Giacometti, and which evokes Breton, Butor, Cobra, 
+Dotremont, Jorn, Ting, etc. 
+
+1972 
+
+Invites Dotremont to share the Belgian Pavilion with 
+him at XXXVI Venice Biennale, from which Peggv 
+Guggenheim acquires his painting Dressing Gown. 
+Yves Riviere classifies the 600 prints completed since 
+1946. 
+
+Bird's-Eye View (cat. no. 26), first painting with a black 
+and white ink drawing in the center and colored mar- 
+ginalia drawn on old manuscript pages (palimpsest prin- 
+ciple). 
+
+1973 
+
+Trip to Turkey. 
+
+First retrospective of drawings, at Musee Royal d'Art 
+Moderne, Brussels. 
+
+Krach: drawings and engravings on worthless stock cer- 
+tificates. 
+
+His L'Avenir de la propriete published by Yves Riviere, 
+Paris. 
+
+Death of his father. Death of Jorn at age 59. 
+
+1974 
+
+Trip to Lappland. 
+
+First retrospective of acrylic paintings, 1965-74, at 
+Mathildenhohe, Darmstadt, which travels in slightly dif- 
+ferent forms to Rotterdam, Paris and Zurich until 1975. 
+
+
+
+153 
+
+
+
+
+Fondation Maeght, Saint-Paul-de-Vence, 1974: left to 
+right and top to bottom, Nuna Farreras, Ubac, Dupin, 
+Farreras, Lelong, Daniele Bourgois, Framboise Simcek, 
+Tal-Coat, Elisabeth Dupin, Meurice, Alechinsky, Fre- 
+naud, Micky Alechinsky, Louisa Calder, Aguy Ubac, 
+Pilar Miro, Miro, Marguerite Maeght, Aime Maeght, 
+
+
+
+Helene Dupin, Nicole Meurice, Bazaine, Mako Gardy- 
+Artigas, Josep Luis Sert, Fiedler, Pol Bury, Palazuelo, 
+Muncha Sert, Pill Chilhda, Chilhda, Calder, Garache, 
+Frednkson, Gardy-Artigas, Adami, Camilla Adami, 
+Jean-Louis Prat, Christine Dupin, Diego Giacometti, 
+Genevieve Picon 
+
+
+
+154 
+
+
+
+At request of Minister Michel Guy, decorates a dinner 
+service, produced by Manufacture Nationale de Porce- 
+laine de Sevres, for Ministry of Culture, Paris. 
+
+1975 
+
+Burns 200 paintings which he considers unresolved. 
+
+Permanent Alechinsky Room at Louisiana Museum of 
+
+Modern Art, Humlebaek, Denmark. 
+
+Executes The Sound of the Fall (cat. no. 31) and other 
+
+paintings inspired by the movement of water. 
+
+1976 
+
+Andrew W. Mellon Prize (formerly Carnegie Prize) for 
+his entire oeuvre, Museum of Art, Carnegie Institute, 
+Pittsburgh. 
+
+Bouches du Rhone Suite (see cat. nos. 33-37), large 
+drawings on Taiwan paper, executed at Saint-Remy-de- 
+Provence. With Dotremont, mural for a Brussels metro 
+station. With Appel, works "for two brushes," col- 
+laborative inks, drawings and etchings. 
+
+1977 
+
+Retrospective of works 1946- — at Museum of Art, 
+
+Carnegie Institute, Pittsburgh. 
+
+A.M.G., Pans, and Abrams, New York, publish 
+Alechinsky: Peintures et ecrits, Alechinsky: Paintings 
+and Writings, with his "souvenotes," preface by Eugene 
+Ionesco: "Alechinsky is the painter-fisherman, the rod, 
+the hook, the water flowing in the river, and the fish, all 
+rolled up in one. Now it's struck me that I just stated 
+quite simply that this work synthesizes — no, I don't like 
+that word — brings together the interior and the exterior. 
+Begins drawings and watercolors on d'Arenberg family- 
+papers dating from 1 812— 45. 
+
+
+
+Retrospective of drawings 1952-78 at Musee National 
+d'Art Moderne, Centre Georges Pompidou, Pans. 
+Recycled Papers (cat. no. $^), lithographs on facsimiles 
+of discarded invoices. 
+
+Joins Galerie Maeght, Paris (Galerie Maeght Lelong 
+after 1982.). 
+
+
+
+With Pol Bury and Jean-Michel Folon, a campaign of 
+mockery directed against "surregionalism" in Belgium 
+
+
+
+Large etchings on Taiwan paper. 
+Death of Dotremont at age 56. 
+
+
+
+Trip to Mexico. In collaboration with Alberto 
+Gironella, drawings of bullfights. Retrospective of 
+drawings at Museo de Arte Moderno, Mexico City. 
+For the 150th anniversary of Belgium, with Hugo Claus 
+and Henri Pousseur creates a Gans Belgie-L'Oie beige, a 
+form of Snakes and Ladders. 
+
+
+
+First ink drawings on maps, then on obsolete airforce 
+operational navigational charts. 
+
+Retrospective at Kestner Gesellschaft, Hannover. 
+
+1981 
+
+Pierre Alechinsky: A Print Retrospective, The Museum 
+
+of Modern Art, New York. 
+
+Executes Past Unnoticed (cat. no. 50), his largest acrylic 
+
+painting to date. 
+
+With Matta, "Duo hthographique" for Joyce Mansour's 
+
+poem Le Grand Jamais, published by Maeght, Paris. 
+
+A group of watercolors and drawings is destroyed in a 
+
+fire at Calligrammes Gallery, Ottawa. 
+
+Paints Codex (cat. no. 48), gift of Jerome Brody to 
+
+Guggenheim Museum in 1985. 
+
+1982 
+
+Organizes first retrospective of Dotremont's work, Dor- 
+
+remont, peintre de I'ecriture, shown at Centre Culturel 
+
+de la Communaute Francaise de Belgique, Paris. 
+
+Works in ceramics with Hans Spinner at Fondation 
+
+Maeght, Saint-Paul-de-Vence, France. 
+
+Large India inks with colored borders mounted on 
+
+canvas. 
+
+1983 
+
+Professor of Painting at Ecole Nationale Superieure des 
+
+Beaux-Arts, Paris. 
+
+First paintings with rubbings of manhole covers. 
+
+1984 
+
+National Grand Prize of Arts and Letters for Painting, 
+Paris. 
+
+His Ensortileges, texts on Dotremont, James Ensor, Jorn 
+and Bram van Velde, published by Fata Morgana, 
+Montpellier. 
+
+Drawings on pages from nineteenth-century world atlas. 
+Peter &amp; Pierre, film by Ole Henning Hansen about a 
+printer and an artist — Bramsen and Alechinsky. 
+
+
+
+Creates a stamp for French Postal Service: a Writing 
+Wheel on a fragment of a manuscript by Butor (see cat. 
+no. 108). At request of Minister Jack Lang, decorates re- 
+ception room (walls, ceiling and rug; of Ministry of Cul- 
+ture, Paris. Album and Blue: ceramic mural for Musee 
+en Plein Air du Sart Tilman, University of Liege. 
+
+1986 
+
+Temporary decorations for elevator entrances on four 
+ramps of Guggenheim Museum (cat. no. 87), New York. 
+Death of John Lefebre, to whom Margin and Center is 
+dedicated. 
+
+
+
+155 
+
+
+
+u\ 
+
+
+fL 
+
+
+&lt;- ^m 
+
+
+
+
+*JGl** 1 
+
+
+
+
+i i^JIH 
+
+
+t»- 
+
+
+np I 1 -J 
+
+
+jipi^Hrjp 
+
+
+
+
+
+
+
+
+i iSS 
+
+
+P ^^H^^C 
+
+
+
+
+ifSwl 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arrival of Rooskens, Schierbeek, 
+Wolvecamp, Brands, Gotz, Corneille, 
+Doucet, Alechinsky, Tony Lucebert, El- 
+burg, Dotremont, Tajin, Kouwenaar, 
+Constant, Appel, Victor Nieuwenhuys, 
+Cobra exhibition, Stedelijk Museum, 
+Amsterdam, 1949 
+
+
+
+SELECTED EXHIBITIONS 
+
+
+
+GROUP EXHIBITIONS 
+"Indicates that prints only were shown 
+Palais des Beaux-Arts, Brussels , Jeune Peinture Beige, 
+October 25-November 9, 1947. Catalogue with text by 
+Paul Fierens 
+
+Galene Maeght, Paris , Les Mains eblouies, September 
+28-November 1, 1948 
+
+Stedelijk Museu m . Amsterdam , lere Exposition Inter- 
+nationale a" Art Experimental, ( Dbra, November [949. 
+Catalogue published in Cobra, no. 4 
+Galene Maeght, Pans , Les Mains eblouies, October 6- 
+30, 1950. Catalogue, Derriere le Miroir, no. 52, with 
+text by Michel Ragon 
+
+(. lurlottenhorg, Copenhagen , Spiralen, December 30, 
+1950-January 14, 1 95 1. Catalogue 
+Palais des Beaux-Arts. I lege , zeme Exposition Inter- 
+nationale d'Art Experimental, Cobra, October 6- 
+November 6, 195 1. Catalogue published in Cobra, no. 1 
+Museum of Fine Arts, Carnegie Institute, Pittsburgh , 
+The 19^2 Pittsburgh International Exhibition of Con- 
+temporary Painting, October 16-December 14, 1952. 
+Catalogue with text by Gordon Bailey Washburn 
+Stedelijk Museum, Amsterdam , Dertien belgische schil- 
+ders, October-November 1952. Catalogue 
+
+'Kunsthandel Martinet, Amste rdam, Quelques graveurs 
+contemporams: Autour de I' Atelier 17, November 26— 
+December 23, 1953. Catalogue with text by Stanley 
+William Hayter. Traveled to Palais des Beaux-Arts, 
+Brussels, January 9-20, 1954; t'Venster, Rotterdam, 
+February 27-March 27; Nordisk Kunsthandel, 
+Copenhagen, May 20-June; Gallena Numero, Florence, 
+December 16, 1954-January 5, 1955 
+
+
+
+Gallena Spazio, Rome , Caratteri della pittura d'oggi, 
+
+June 26— July 31, 1954. Catalogue with texts by Luigi 
+
+Moretti and Michel Tapie 
+
+Gallena Schettini, Milan . II gesto: rassegna inter- 
+
+nazionale delle forme libere, June 18-July 18, 1955. 
+
+Catalogue 
+
+Galene Taptoe, Brussels , Dotremont avec Cobra, July 
+
+31-September 26, 1956 
+
+Gemeentemuseum, The Hague , Hedendaagse Belgische 
+en Nederlandse Schilderkunst, Facetten 2, November 8, 
+1956-January 14, 1957. Catalogue with texts by W. A. 
+Beeren and R. W. D. Oxenaar 
+
+
+
+I 5 6 
+
+
+
+Musee National d'Art Moderne, Pans , Prix 
+Guggenheim 1956, November 28-December 16, 1956. 
+Catalogue. Traveled to Solomon R. Guggenheim 
+Museum, New York, as Guggenheim International 
+Award 1956, March 26-June 2, 1957, with checklist 
+with text by James Johnson Sweeney 
+Stedclijk Museum, Amsterdam , Phasen, May 10-June 
+10, 1957. Catalogue with texts by Francois Arnal, Jac- 
+ques Audiberti and Camille Bryen, Christian Dotre- 
+mont, Edouard Jaguer, Gherasim Luca, Lucebert, Lasse 
+Soderberg and the artist 
+
+Palais des l'c.iux Arts^Bnissels, (JiicUjini artistes beiges 
+depuis Ensor, April 12-September 30, 1958. Catalogue 
+with text by Paul Haesaerts 
+
+Exposition Univ crscllc de Bruxelles, L' Art Beige Con- 
+temporain, April 21-October 19, 1958 
+Solomon R. ( lUggcnhcim Museum , Ne w Y ork , Twenty 
+Contemporary Painters from the Philippe Dotremont 
+Collection, Brussels, March 31-May 24, 1959. Cata- 
+logue with texts by Paul Fierens and James Johnson 
+Sweeney 
+Centro Internazionale dclle Arti e del Costume, Palazzo 
+
+
+
+Grassi, Venice , Vitalitd nell'arte, August 8-October 4, 
+1959. Catalogue with texts by Paolo Marinotti, Henri 
+Michaux and Willem Sandberg. Traveled to Kunsthalle 
+Recklinghausen, West Germany, November— December; 
+Stedehjk Museum, Amsterdam, December 1959-Janu- 
+ary i960 
+
+The Minneapolis Institute of Arts , European Art Today: 
+3 j Painters and Sculptors, September 3 -October 25, 
+1959. Catalogue with texts by James Fitzsimmons and 
+Sam Hunter. Traveled to Los Angeles County Museum 
+of Art, November 1 i-December 20; San Francisco 
+Museum of Art, January 6— February 9, i960; North 
+Carolina Museum of Art, Raleigh, February 26-April 3; 
+National Gallery of Canada, Ottawa, April 20-May 24; 
+French &amp; Company, Inc., New York, June 7-August 
+13; The Baltimore Museum of Art, September 18- 
+October 16 
+
+V Bienal do Museo de Arte Moderna de S. Paolo, 
+Belgian Section, 1959. Catalogue with text by J. Van 
+Lerberghe 
+
+Parke Bernet Galleries, Inc., New York , The Arts of Bel- 
+gium 1920-1960, June 29-August 5, i960. Catalogue 
+with texts by R. Bodart, K. Jonckeere and J. Van Lerberghe 
+Lefebre Gallery, New York , Cobra i960: Alechinsky, 
+Cornetlle, Jorn, November 15-December 3, i960. 
+Catalogue with text by H. L. C. Jaffe 
+Hengelose Kunstzaal, Hengelo, The Netherlands , Ges- 
+talten, March 24-Apnl 24, 1961. Catalogue with text 
+by H. L. C. Jaffe 
+
+
+
+The Arts Club of Chicago , First Midwestern Exhibition 
+of Belgian Painters, September 28-October 28, 1961. 
+Catalogue with text by J. Van Lerberghe. Traveled to 
+The Art Gallery, University of Notre Dame, South Bend, 
+Indiana, November 19-December 17; The Toledo 
+Museum of Art, January 12-February 12, 1962; Con- 
+temporary Arts Center, Cincinnati, March 5— April 12; 
+The University Gallery, University of Minnesota, Min- 
+neapolis, April 16-May 14 
+
+Galerie Aujourd'hui, Pala is des Beaux-Arts, Brussels , 
+Cobra et apres, March 3 1— April 14, 1962. Catalogue 
+with text by Joseph Noiret 
+
+Seattle World's Fair , Art since i9\o: American and In- 
+ternational, April 21— October 21, 1962. Catalogue with 
+texts by Norman Davis and Willem Sandberg 
+Castello Cmquecentesco, L'Aquila, Italy , Alternatwi at- 
+tuali: Omaggio a Burri, |uly— August 1962. Catalogue 
+with texts by Antonio Bandera and Enrico Crispolti 
+Galerie Westing , Odense, Denmark , Dotremont: teg- 
+ninger skrif, boger og tegneord med Alechinsky, Appel, 
+Balle, Claus, February 16-25, 1963 
+
+Stedelijk Museum, Amsterdam , Schrift en beeld, May 3- 
+June to, 1963. Catalogue with text by Dietrich 
+Mahlow. Traveled to Staathche Kunsthalle, Baden- 
+Baden, June 14-August 4, 1963 
+Museum des 20. Jahrhunderts, Vienna , Idole und 
+Ddmonen, July 5-September 1, 1963. Catalogue 
+
+Centro Internazionale delle Am e del Costume, Palazzo 
+Grassi, Venice , Visione colore, July 6-October 6, 1963. 
+Catalogue with texts by Christian Dotremont and Paolo 
+Marinotti 
+
+Staathche Kunsthalle, Bade n-Baden , lllustrationen, Jan- 
+uary 21— February 27, 1964. Catalogue with texts by 
+Godula Buchholz and Dietrich Mahlow 
+kassel. West Germany, Docitmcnta III: Malerei, 
+Skulptur, Handzeichnungen, June 27-October 5, 1964. 
+Catalogue with text by Werner Haftmann 
+Museum voor Scheme Kunsten, Gent, Belgium , Figuratie 
+en defiguratiel Figuration et defiguration, July 10-Oc- 
+tober 4, 1964. Catalogue with texts by Bernard Dorival, 
+J. Geirlandt, Paul Haesaerts, Pierre Restany and Patrick 
+Waldberg 
+
+L'Oeil, Paris , L'Ecart absolu: Xle Exposition Inter- 
+nationale du Surrealisme, December 7, 1965-January 
+1966. Catalogue with texts by Andre Breton, Jose Pierre 
+and Jean-Francois Revel 
+
+Solomon R . Gug genheim Museum. New York , Euro- 
+pean Drawings, February 24-April 27, 1966. Catalogue 
+with texts by Lawrence Alloway and Thomas M. Mes- 
+
+
+
+157 
+
+
+
+scr. Traveled to University Gallery, University of Min- 
+nesota, Minneapolis, May 10—31; DeCordova Museum, 
+Lincoln, Massachusetts, June 26-September 4; Museum 
+of Art, Rhode Island School of Design, Providence, Sep- 
+tember 14-Octoher S; The National Gallery of Canada, 
+Ottawa, November 28-December 25; Milwaukee Art 
+Center, January 5-February 5, 196^; The High 
+Museum of Art, Atlanta, March 1— 3 1; Dallas Museum 
+of Fine Arts, April 1 5-May 1 5; Krannert Art Museum, 
+University of Illinois, Champaign-Urbana, May 28-June 
+25; The North Carolina Museum of Art, Raleigh. July 
+rj-August 20 
+
+The Public Education Association, Berkeley, California , 
+Seven Decades: Crosscurrents in Modern Art, 189 s— 
+1965, April 26-May 21, 1966. Catalogue with text by 
+Peter Selz 
+
+Museum Bovmans-van Beuningen, Rotterdam , Cobra 
+1948/51, May 20-July 17, 1966. Catalogue with text by 
+Willemi|n de Haas-Stokvis. Traveled to Louisiana 
+Museum of Modern Art, Humlebaek, Denmark, August 
+t9-October 2, with catalogue, special issue of Louisiana 
+Rcvx, with texts by W. de Haas Stockvis, Knud W. Jen- 
+sen, Dahlmann Olsen, Willem Sandberg, the artist et al. 
+Musee des Arts Decoratifs, Paris , Bande dessinee et fi- 
+guration narrative, April 1967. Catalogue with texts by 
+Gerald Gassiot-Talabot and Burne Hogarth 
+Ausstellungshallcn Mathildenhohe, Darmstadt, West 
+Germany, 2. Internationale der Zeichnung, July 16-Sep- 
+tember 10, 1967. Catalogue with text by Otto Stelzer 
+Centro Internationale delle Arti e del Costume, Palazzo 
+Grassi, Venice , Campo vitale: /nostra intemazionale 
+d'arte contemporanea, July 27-October 9, 1967. 
+Catalogue with text by Paolo Marinotti 
+Royal Dublin Society , Rose '67: The Poetry of Vision, 
+An International Exhibition of Modern Painting aiul 
+Ancient Celtic Art, November 1 3-December 30, 1967. 
+Catalogue with texts by Jean Leymarie, Willem 
+Sandberg and James Johnson Sweeney 
+Komnkhik Museum voor Schone Kunsten, Antwerp , 
+1947— 1967: Kontrasten, Schilderkunst in Belgie, Feb- 
+ruary 18-May 12, 1968. Catalogue with texts by W. 
+Vanbeselaere and the artist 
+
+National Gallery of Art, Washington, D.C. , Paintings 
+from the Albrigbt-Knox Art Gallery, Buffalo, New 
+York, May 19-June 21, 1968. Catalogue with text by 
+Gordon Mackintosh Smith 
+
+Kunstmuseum, Lucerne , Neue Formen expressionis- 
+tischer Malerei sett /950, July 28-September 22, 1968. 
+Catalogue 
+
+
+
+Kunsthalle, Darmstadt , Menschenbilder, September 14— 
+November 17, 1968. Catalogue with texts by Rolf- 
+Gunter Dienst, Arnold Gehlen, Werner Hofmann and 
+Wieland Schmied 
+
+Galerie La Balance, Brussels , Alechmsky, Appel, Cor- 
+netlle, Dotremont, Jorn, January 8-February 8, 1969. 
+Catalogue 
+
+' Tendances Contemporaines, La Louviere, Belgium , f 
+Affiches pour un Centenaire: Alechmsky, Pol Bury, 
+Folon, Mauncs Henry, Topor, June 7—24, 1969. 
+Catalogue with text by Ernest Pirotte (pseud, for Pol Bury) 
+Solomon R. Guggenheim Museum, New York , Selec- 
+tions from the Guggenheim Museum Collection 1900- 
+1970, May i-September 13, 1970. Handbook: Selec- 
+tions from the Guggenheim Museum Collection 1900- 
+1970, with texts by Thomas M. Messer and Louise 
+Averill Svendsen and interview of the artist by Jacques 
+Putman, published on occasion of exhibition 
+Museum of Art, Carnegie Institute, Pittsburgh , Pitts- 
+burgh International 19-0: Exhibition of Contemporary 
+Art, October 30, 1970-January 10, 1971. Catalogue 
+with text by Leon A. Arkus 
+
+The Royal Scottish Academy, Edinburgh , Edinburgh In- 
+ternational Festival 1971: The Belgian Contribution to 
+Surrealism, August 21-September 19, 1971. Catalogue 
+with texts by Peter Diamond, Gisele Ollinger-Zinque 
+and Roland Penrose. Traveled to Sophienholm Kgs, 
+Lyngby, Denmark, October 7-November 14 
+Bergens Kunstforening, Bergen, Norway , Cobra 1 Jag, 
+January --23, 19-2. Catalogue with texts by Gunnar 
+Jespersen and the artist 
+
+Grand Palais, Reunion des Musees Nationaux, Pans , 
+Douze am d'art contemporain en France: 1960—1971, 
+May-September 1972. Catalogue with texts by Daniel 
+Cordier, Maurice Eschapasse, Francois Mathey, Jacques 
+Putman, the artist et al. 
+
+Haus der Kunst, Munich , Welt Kulturen und moderne 
+Kunst, June 16-September 30, 19-2. Catalogue with 
+texts by Manfred Schneckenburger and Siegfried 
+Wichmann 
+
+Musee des Beaux-Arts du Havre, Le Havre , Michel 
+Butor et ses peintres, March 12-April 15, 19^3. Cata- 
+logue with text by Michel Butor. Traveled to Palais des 
+Beaux-Arts, Brussels, April 24-May 12; Musee Mas- 
+sena, Nice, June 19-July 22 
+
+Galena S. Mamede, Lisbon , Cobra: Alechmsky, Appel, 
+Jorn, June 1973. Catalogue with texts compiled by 
+Edouard Jaguer 
+
+
+
+158 
+
+
+
+\ 
+
+
+
+7t~*? '£*LJ£* *~ ~ 
+
+
+
+
+^ Nationalgal erig; Berlin, Hotnmage a Picasso, July n- 
+August 27, 1973- Catalogue with texts by Werner 
+Haftmann and Wieland Schmied 
+
+Museum ot hue Arts, t amebic Instit ute, Pittsburgh , Art 
+in Residence: Art Privately Owned in the Pittsburgh 
+Area, October 17, 1973-January 6, 1974. Catalogue 
+with text by Leon A. Arkus 
+
+''Modern Art in Prints: 1947-1972 (organized by The 
+Museum of Modern Art, New York), traveled in Aus- 
+tralia, April— September 1973; New Zealand, October 
+1973-January 1974; India, February-June; Iran, June- 
+July; Japan, September 1974-March 1975. Catalogue 
+with text by Riva Castleman 
+
+Gran d Pal ais, Reunion des Mn sees Natm naux, Pans , 
+Jean Paulhan a travers ses peintres, February 1— April 
+15, 1974. Catalogue with texts by Andre Berne-Joffroy, 
+Jean Leymarie and Jean Paulhan 
+
+Hotel de Ville, Brussels , Cobra '48 '51 '74, April 4—28, 
+1974. Catalogue with texts by Jacques Calonne, Cons- 
+tant, Christian Dotremont, Uffe Harder, Asger Jorn and 
+Christiane Rugemer 
+
+Chateau de Saint-Cirq-Lapopie, France , Aspects du sur- 
+realisme, July 14-October 1, 1974. Catalogue with text 
+by Jose Pierre 
+
+Stadti sche k imsthalle I &gt;u sseldor t, Surrcalitat—Hild- 
+realitat 1924-1974: In den unzahligen Bildern des Le- 
+bens, December 8, 1974-February 2, 1975. Catalogue 
+with texts by Andre Breton, Jurgen Harten and Bern- 
+hard Kerber. Traveled to Staatliche Kimsthalle Baden- 
+Baden, February 14— April 13 
+
+Galerie Mark, Zurich , 6 from &lt; lobra 1975, January 31— 
+February 22, 1975. Catalogue with text by Uffe Harder 
+Stedelijk Museum, Sint-Niklaas, Belgium , Cobra 197s, 
+September 21-October 26, 1975. Catalogue with texts 
+by Anne Choisez and Christian Dotremont. Traveled to 
+Maison de la Culture de Namur, Belgium, November 
+14-December 7 
+
+Los Angeles ( ountv Museum ot Art, European painting 
+in the seventies: new work by sixteen artists, September 
+30-November 23, 1975. Catalogue with text by 
+Maurice Tuchman. Traveled to St. Louis Art Museum, 
+March 16— May 9, 1976; Elveh|em Art Center, Madi- 
+son, Wisconsin, June 8-August 1 
+
+Museum of Fine Arts, Carnegie Institute, Pittsburgh , In- 
+augural Exhibition of the Heinz Galleries, October 25, 
+1975-January 4, 1976. Catalogue with texts by Leon A. 
+Arkus and David Rockefeller 
+
+Fondation Maeght, Saint-Paul-de-Vence, France , Daily 
+Bid and C°, February 7-March 7, 1976. Catalogue. 
+
+
+
+159 
+
+
+
+Traveled to Studio du Passage 44, Brussels, April 9-May 
+2.3; Neue Galerie, Aix-La-Chapelle, West Germany, 
+October 16-November 2.1 
+
+The Western A ustralia Art Cillery, Perth. Contempo- 
+rary Drawing, May 5—3 1, 1977. Catalogue with texts 
+by Lou Klepac and Bertram Whittle 
+Musee National d'Art Moderne, Centre Georges Pom- 
+pidou, Paris , Paris-New York, June i-September 19, 
+1977. Catalogue with texts by Pontus Hulten and the 
+artist 
+
+Kassel, West Germany , Documents 6, June 24-October 
+2, 1977. Catalogue with text by Wieland Schmied 
+Galerie Rus, Trondheim, Norway , Cobra 1948/1978, 
+September 14-October 8, 1978. Catalogue with text by 
+Per Hovdenakk 
+
+Musee d'Art Moderne de la Villc de Pans , Asger Jorn a 
+Silkeborg: le musee d'un peintre, October 14- 
+November 12, 1978. Catalogue with texts by Asger 
+Jorn, Jacques Lassaigne and Niels Matthiasen 
+Nationalgalene, Berlin , 1 Jahre m neuen Hans, De- 
+cember 11, 1978-January 21, 1979. Catalogue with 
+texts by Dieter Honisch and Stephan Waetzoldt 
+
+
+
+Fondacao Calouste Gulbenkian, Lisbon , Arte Belga de- 
+pots de 1945", November 1980. Catalogue with text by 
+Christian Dotn 
+
+
+
+5 Kunstroreningen, Copenhagen , Imprimerte Ittho- 
+grapbique Clot, Bramsen &amp; Georges, Paris, April 24- 
+July 1, 1979. Catalogue with texts by Charlotte Chris- 
+tensen and Antonio Saura. Traveled to Sonderiyllands 
+Kunstmuseum, Tender, Denmark, August 25— Sep- 
+tember 20; Alvar Aalto Museo, Jyaskvla, Finland, Sep- 
+tember 27-October 14; Son|a Hemes og Niels Onstads 
+Stiftelser, Hovikkoden, Norway, December 1, 1979- 
+January 15, 1980 
+
+Fondanon Maeght, Saint-Paul-de-Vence, France , Des- 
+sins de la Fondatton Maeght, March 29-May 31, 1980. 
+Catalogue with text by Jean-Louis Prat 
+Lefebre Gallery, New York , Salute to Belgium, April 1- 
+26, 1980. Catalogue with text by Luc de Heusch 
+Palais des Beaux-Arts de Bruxelles , Belgique — Pays- 
+Bas: convergences et paralleles dans I'art depuis 1945, 
+June 20— August 10, 1980. Catalogue with texts by 
+Christian Dotremont and Daniele Gillemon. Traveled to 
+Museum Boymans-van Beuningen, Rotterdam, Feb- 
+ruary 20— March 22, 198 1 
+
+Abbaye de S aint-S.um-siir-C.artemp e, France , 
+Boomerang: une quarantaine d'oeuvres inattendues 
+d'une quarantaine d'artistes contemporains, June 22- 
+August 17, 1980. Catalogue with texts by Alechinsky on 
+Karel Appel, Christian Dotremont, Asger Jorn, Rein- 
+houd, Walasse Ting, Bram van Velde and himself 
+
+
+
+Musee Nati onal d'Art Moderne, Centre Geo rges Pom- 
+pidou, Pans , Paris 1937- Paris 195 7: creations en 
+France, May 22-November 2, 1981. Catalogue with 
+texts by Agnes Anghviel de Beaumelle, Jean-Claude 
+Groshens and Pontus Hulten 
+
+\luseen del Stadt kohl, Wcstkunst. Zeitgennssiiche 
+Kunst seit 1919, May 30-August 16, 1981. Catalogue 
+with texts by Laszlo Glozer, Kaspar Koenig and Karl 
+Ruhrberg 
+
+Espace Lyonnais d'Art Contemporain, Lyon , Perma- 
+nence du regard surrealiste, June 30-September 22, 
+
+1 98 1. Catalogue with texts by Edouard Jaguer and the 
+
+Cialerie Birch, Den Fne L'dstilhngshvg nmg. I openha- 
+gen , Paris-Koebenhavn, September 5-20, 1981. Cata- 
+logue with text by the artist 
+
+Musee des Arts Decoratirs, Pans , I.' art en soie, January 
+14—30, 1982. Catalogue with text by the artist. Traveled 
+to Musee Historique des Tissus, Lyon, March 23- 
+Apnl 30 
+
+Fondation Maeght. Saint-Paul-de-Vence, France , L'Unt- 
+vers d'Aime et Marguerite Maeght, July 3 -October 3, 
+
+1982. Catalogue with texts by Andre Chastel, Jean Fre- 
+mon, Jean-Louis Prat and the artist 
+
+Rilksmuseum Twenthe, Enschede, The Netherlands , In- 
+formele Kunst 194^-1960, December 4, 1982-January 
+16, 1983. Catalogue with text by Willemi|n Stokvis. 
+Traveled to Dordrechts Museum, The Netherlands, Jan- 
+uary 29— March 1 3 
+
+Centre Culture! de la Communaute Franchise de Bel- 
+gique Wallonie-Bruxelles, Pans , Dotremont, peintre de 
+I'ecriture, avec Cobra, December 8, 1982-January 2, 
+
+1983. Catalogue with texts by Christian Dotremont, 
+Jean-Clarence Lambert and the artist 
+
+Musee d'Art Moderne de la Ville de Pans , Cobra 1948- 
+1951, December 9, 1982-February 20, 1983. Catalogue 
+with texts by Gilles Beraud, Bernadette Contensou and 
+Sylvain Lecombre. Traveled to Maison de la Culture, 
+Chalon-sur-Saone, France, March 4-April 17; Musee 
+des Beaux-Arts, Rennes, April 29-June 12 
+Musee Picasso, Chateau Grimaldi, Antibes , "Bonjottr 
+Monsieur Picasso," April 1983. Catalogue with texts by 
+Marie-Laure Bernadac, Gerald Gassiot-Talabot, Daniele 
+Giraudy and the artist 
+
+Solomon R. Guggenheim Museum, New York , Acquisi- 
+tion Priorities: Aspects of Postwar European Painting, 
+
+
+
+May zo-September n, 1983. Catalogue with text by 
+Thomas M. Messer 
+
+Galene de la Ganserhaus, Wasserhurg sui I nn, Austria , 
+Cobra-Spur-Wir-Geflecht-Kollektw-Herzogstrasse, July 
+31-September 15, 1983. Catalogue with text by 
+Eberhard Simons. Traveled to Galerie der Kiinstler, 
+Munich, November 9-December 2, 1984; Bonner 
+Kunstverein, February 7-March 17, 1985; Gesellschaft 
+fiir Aktuelle Kunst, Bremen, April 
+
+1 iiky (i Metropolitan I eien An Museum, \lo, /,■/;/ Art in 
+the West (organized by Solomon R. Guggenheim 
+Museum, New York), October i-December 23, 1983. 
+Catalogue with text by Thomas M. Messer 
+Centre National des Ar ts Plasti ci nes, Villa Arson, Nice , 
+Ecritures dans la peinture, April 6-August 31, 1984. 
+Catalogue with texts by Michel Butor, Michel Sicard 
+and the artist 
+
+Hirshhorn Museum and Sculpture Garden, Smithsonian 
+Institution, Washington, D.C. , Artistic Collaboration in 
+the Twentieth Century, June 9-August 19, 1984. 
+Catalogue with texts by Robert C. Hobbs, Cynthia Jaf- 
+fee McCabe and David Shapir. Traveled to Milwaukee 
+Art Center, November 18, 1984-January 15, 1985; J. B. 
+Speed Art Museum, Louisville, February 21-April 21 
+Tuchtabnk, Trier, West G e rman y. Europaiscbc Malcrci 
+der Gegenwart (Spuren und Zeichen), August 25- 
+November 18, 1984. Catalogue with texts by Lorenz 
+Dittmann, Eugene [onesco and Claus D. Kernig 
+De Zonnehof, Amersfoort, The Netherlands , Cobra: av- 
+entures collectives, September 18-October 18, 1984. 
+Catalogue with texts by Gilles Beraud, Constant, Chris- 
+tian Dotremont, Erik Nyholm, the artist et al. Traveled 
+to Frans Hals Museum, Haarlem, November 2, 1984- 
+January 6, 1985; Kunstindustrimuseet, Copenhagen, 
+January 17-February 17; Nordjyllands Kunstmuseum 
+Aalborg, Denmark, March 13— April 28; Salle Saint- 
+Georges, Liege, May 10-June 16; Maison de la Culture 
+de Tournai, Belgium, June 22-August 10 
+
+Museo de Arte Contemporaneo, Caracas , El 
+Movimento Cobra en la Coleccion Karel van Stuijven- 
+berg, September 1984. Catalogue with texts by Sofia 
+Imber, Jean-Clarence Lambert and Christiane Rugemer 
+Maison de la Culture Andre Malraux, Reims, France , 
+Oeuvres croisees — Michel Butor, November 21- 
+December 21, 1984. Catalogue with text by Michel 
+Sicard 
+
+Palais des Beaux-Arts de Charleroi, Belgium , Aittour de 
+la bande dessinee, January 12-March 3, 1985. Cata- 
+logue with texts by Laurent Busine, Jacques Lacarriere, 
+Gilbert Lascault and Jean-Hubert Martin 
+
+
+
+Solomon R. Guggenheim M useum, New York , Pain- 
+terly Visions, 1940-1984, June 28-September 3, 1985. 
+Brochure with text by Susan B. Hirschfeld 
+
+'Chateau de la Koihc-Jag u, Ploezal. France , Daily Bui 
+1955— 1985: 30 annees d'editions d'activite, July 7-Sep- 
+tember 30, 1985. Catalogue with texts by Pol Bury et al. 
+National Museum of Art, t )saka, J apan , Action et emo- 
+tion: peintures des annees 50, September 27-November 
+26, 1985. Catalogue with texts by Jean-Clarence Lam- 
+bert and Sylvain Lecombre 
+
+Museum of Art, F ort 1 auderdale. Florida, Masterworks 
+from the Meyer and Golda Marks Cobra Art Collection, 
+January 18-March 30, 1986. Catalogue 
+Hara Museum of Contemporary Art, Tokyo , Cobra: 
+Karel van Stuijvenberg Collection, Caracas, February 
+15— March 19, 1986. Catalogue with text by Sylvain 
+Lecombre 
+
+" City Gallery, Department of Cultural Affairs, New- 
+York , Books and Graphics of Cobra Artists, March 28- 
+April 26, 1986. Catalogue with text by Willemi|n 
+Stockvis 
+
+Louisiana Museum of Modern Art, Humlehaek, Den- 
+mark, Portrait of a Collector: Ste'phane Janssen, April 
+5-May 11, 1986. Catalogue with texts by Stephane 
+Janssen and Knud W. Jensen. Traveled to University Art 
+Museum, California State University, Long Beach, Janu- 
+ary 27-March 8, 1987 
+
+Galerie Artcurial, Paris, L'Aventurc surrealiste autour 
+d' Andre Breton, May 13-July 31, 1986. Catalogue with 
+text by Jose Pierre 
+
+Centre Lotois des Arts Cuntemporains, Musee de 
+Cahors, France , Changer la vue, July-August 1986. 
+Catalogue with text by Jose Pierre 
+
+Sala Mendoza, Caracas, Cobra sobre papel (Karel van 
+Stuijvenberg Collection), September 14-October 5, 
+1986. Catalogue 
+
+Philadelphia Museum of Art , Philadelphia Collects Art 
+Since 1940, September 28-November 30, 1986. 
+Catalogue with texts by Anne d'Harnoncourt, Ann 
+Percy and Mark Rosenthal 
+
+Konsthall Malmo, ( 'obra as Reflected by the Karel van 
+Stuijvenberg Collection, October 31-December 17, 
+1986. Catalogue with texts by Jean-Clarence Lambert 
+and Lasse Soderberg. Traveled to Taipei Fine Arts 
+Museum, January 10— March 15, 1987; Liljevalchs 
+Konsthall, Stockholm, June 12-September 6 
+Kunstforenmgen, Copenhagen, Fransk Visit, Galerie 
+Maeght Lelong besoger Kunstforeningen, November 
+14-December 14, 1986. Catalogue. Traveled to Gum- 
+
+
+
+l6l 
+
+
+
+mesons Konstgallen, Stockholm, January io-I 
+4. C987 
+
+Galene Espace, Amsterdam, Galerie Espace i&lt; 
+1986, November 16, 1986— January 1-, 1987 
+
+
+
+Galene Ja 
+
+
+
+Ostier, Pans, Les Sources Japonaises de 
+V art occidental, November 18, 1986— February 28, 
+1 98-. Catalogue with texts by Nelly Delay, Elisabeth 
+Ostier, Antoni Tapies, Gabnelle Van Zuylen, the artist 
+et al. 
+
+kunst Foru m, Se heli.leroi.le. Belgi um, Alechinsky: 
+lithographies etsen, December 6, 1986— February 1, 
+19S- 
+Au Theatre du Rond-Point, Cie Renaud-Barrault, Pans, 
+
+
+
+Sous le signe du Taureau, December 9, 
+2.5, E987. Catalogue 
+
+
+
+)8h-)a 
+
+
+
+ONE-MAN EXHIBITIONS 
+
+Oaiene 1 011 C osyn, Brussels, Pierre Alechinsky, April 
+
+15-14, 1947 
+
+Galene Apollo, Brussels , Fetes, trouble-fete, peintures, 
+
+etc., November 6-18, 1948. Catalogue with text by Luc 
+
+Zangne (pseud, for Luc de Heusch) 
+
+Le Diable par la Queue, Brussels, Alechinsky (with [an 
+
+Cox and Marc Mendelson), April 22-May 10, 1950 
+
+Kunsthandel Martinet, Amsterdam , L'arbre et I'arme 
+(with Shinkichi Tajiri), February-March 1953. Cata- 
+logue with text by Christian Dotremont 
+Gallena Schwarz, Milan, Alechinsky, October 18-31, 
+1954 
+Galene Nina Dausset, Pans, Alechinsky, November 19- 
+
+
+
+1954- Catalogue with text by Chr 
+
+
+
+December 1 5, 
+
+Dotremont 
+
+Palais des Beaux-Arts, Brussels , Alechinsky, March 26- 
+
+Apnl 10, 1955. Catalogue 
+
+N_ab]s &lt;_,allcr\ , I ok\o. \lechmsk\ . September 9-2 3, 
+
+
+
+Galene du Dragon, Pans , Alechinsky, May 15-30, 1956 
+Galene Espace, Haarlem , Alechinsky, January 18-Feb- 
+
+
+
+ruary 9, 1957 
+Galene Auiourd'hi 
+
+
+
+Brussels, Pierre Alechinsky: des- 
+
+
+
+sins, October 2.6— November 9, 
+
+
+
+Galene Michel Warren, Pans, Alechinsky, November 
+
+15— December 7, 1957 
+
+Galerie Michel Warren, Pans, Alechinsky (with Jean 
+
+Messagier and Bram van Velde), November 1 3-De- 
+
+cember 13, 1958. Catalogue 
+
+Institute of Contemporary Arts, London, Alechinsky, 
+
+1958 
+
+Kunsthalle Bern, 4 Metier: Tapies, Alechinsky, Mes- 
+sagier, Moser, September 26-October 25, 1959. 
+Catalogue with text by Franz Meyer 
+XXX Biennale di Venezia, Belgian Pavilion, July i960. 
+Catalogue with text by Franz Meyer 
+
+&lt; i.ilene I &gt;. Benadoi , I iene\ a, Alci hmsky, &lt; )ctober 1 yfto. 
+Catalogue with text by Jacques Putman 
+Kunstknng, Rotterdam, Alechinsky, peintures; 
+Reinhoud, sculptures, March 31— April 30, 1961. 
+Traveled to Stedeli|k Museum, Amsterdam, as 
+Alechinsky + Reinhoud, May 26-June 26, with 
+catalogue with text by Jacques Putman 
+Galerie van de Loo, Munich, Pierre Alechinsky: 
+Aquarelle und Tuschzeichnungen, October 1 3- 
+
+
+
+November 30, 1961. Catalogue with texts by Christian 
+Dotremont and the artist 
+
+Museum of Art, Carnegie Institute, Pittsburgh , The 
+1961 Pittsburgh International Exhibition of Contempo- 
+rary Painting and Sculpture, one-man exhibition, Octo- 
+ber 27, 1961-January 7, 1962. Catalogue with text by 
+Gordon Bailey Washburn 
+
+Lefebre Gallery, New York, Alechinsky: oils drawings 
+watercolors, February 17-March 24, 1962. Catalogue 
+with text by Walasse Ting 
+
+Galene de France, Paris , Alechinsky, May 2-28, 1962. 
+Catalogue with text by Jean-Francois Revel 
+Stedelijk Museum. Amsterdam , Que d'encre...wat een 
+inkt, January 18-March 4, 1963. Catalogue with dia- 
+logue between Jacques Putman and the artist 
+Stedelijk van Abbemuseum, Eindhoven, The Nether- 
+lands, Alechinsky, March 22-April 29, 1963. Catalogue 
+with text by Hugo Claus 
+
+Galene-Libraine La Hune, Pans , Alechinsky, May 8- 
+31, 1963. Catalogue with text by the artist 
+VII Bienal do Museo de Arte Moderna de S. Paulo 
+Alechinsky ,with Marchoul and Remhoud), 1963. 
+Catalogue with text by Edouard Jaguer 
+Galene de France, Pans , Remhoud, Alechinsky et Ting: 
+solo de sculpture et divertissement arrange pour pein- 
+ture a auatre mams. October 25— November 25, 1963. 
+Catalogue with text by the artist 
+
+Lefebre Gallery, New York . Alechinsky: recent icorks, 
+November 5-December 7, 1963. Catalogue with text by 
+Edouard Jaguer 
+
+Galerie Birch, Copenhagen , Alechinsky, January 9-23, 
+1964. Catalogue with text by Christian Dotremont 
+Instituto Torcuato di Telia, Museo de Artes Visuales, 
+Buenos Aires , Das artistas belgas: Alechinsky y 
+Reinhoud, March 18-April 12, 1964. Catalogue with 
+texts by Jorge Romero Brest and Edouard Jaguer 
+Galene Espace. Amsterdam , Alechinsky: Tekenmgen — 
+Grafiek, April 15-May 6, 1964 
+Gallena 11 Punto Arte -Moderna, Turin , Alechinsky, 
+opened May 8, 1964. Catalogue with text by Ernest 
+Pirotte (pseud, for Pol Bury) 
+
+The Arts Club of C hicago , Pierre Alechinsky, February 
+26-March 27, 1965. Catalogue with text by Jacques 
+Busse. Traveled to University Gallery, University of 
+Minnesota, Minneapolis, April 7-May 4; The Jewish 
+Museum, New York, May 1 5 -June 1 5 
+Lefebre Gallery, New York , Alechinsky: recent works, 
+April 13-May 8, 1965. Catalogue with dialogue be- 
+tween Jacques Putman and the artist 
+
+
+
+163 
+
+
+
+
+Stcddijk Museum, \msterdam. Met hnisky vi.ihch, 
+
+een kcuzc tut io&lt;; litho's en etsen gemaakt de jaren 
+
+1947—1965, February [7— March 1-, 1966. Catalogue 
+
+with text bj the artist 
+
+I. L. Hudson Gallery, Detroit , Alechinsky, &lt; '01 italic, 
+
+lorn, Reinhoud, March 2.3— April 16, 1966 
+
+La Medusa, Rome , Alechinsky, May-June 1966. 
+
+Catalogue with text by Enrico Crispolti 
+
+Galene I. a B alaiKc. Bru ssels , Alechinsky, Appcl, 
+
+Rcinhitud, September 22— October 1 s, i9ii'-&gt; 
+
+Galene de France, Paris , Alechinsky: ncurics lecentes, 
+
+Nov 
+
+
+
+The Mu 
+
+
+
+iber 9, [966— January 8, 1967 
+
+1 of Fine Arts, Houston , Wash Drawings h; 
+
+
+
+Pierre Alechinsky, April 6— May 3, 1967 
+Lefebre Gallery, New York , Alechinsky: recent works, 
+April 18-May 14, 1967. Catalogue with texts by 
+Jacques Putman and the artist 
+
+" Galcrie-Libraine l a Hnne, Paris , Alechinsky: 1111 en- 
+semble d'impressions, May 19-June 14, [967 
+
+' Galene van de Loo, Munich , Pierre Alechinsky: 10 
+jahre unpressionen oeuvrekatalog druckgraphik, Sep- 
+tember 27-October 23, 1967. Catalogue with text by 
+Yvon Taillandier. Traveled to Stadtische Kunstgaleric, 
+Bochum, West Germany, December 22, 1967— January 
+11, E968; Kunstverein Freiburg, March 24-Apnl 21 
+li.ilcne I 1 Pialaiue, l'.iussjs, 1'ierre Alechinsky: ,1 
+propos ile Bniche, November 16-Decemher 9, 196-. 
+Catalogue with text by Ernest Pirotte (pseud, for Pol 
+Bury) 
+
+'' Galene Moderne, Silkeborg, Denmark , Pierre 
+Alechinsky: So Grafiske Ai be]der, January 14-February 
+1, 1968. Catalogue 
+
+Galene de Fr an ce, Paris , Pierre Alechinsky: suite 
+acrylique avec quelques notes concomitantes, March 8- 
+23, 1968. Catalogue with text by the artist 
+Galene de l'A.P.I.A.W., Liege , Pierre Alechinsky: 
+Ideotraces, March 30-Apnl 10, 1968. Catalogue 
+Letebre Gallery, New York , The 11th Pierre Alechinsky 
+exhibition in the United States, November 5- 30, 1968. 
+Catalogue with text by Julio Cortazar 
+Galerie Birch, Copenhagen , Alechinsky, November 7— 
+16, 1968. Catalogue 
+
+Palais des B eaux Arts, Brussels , Pierre Alechinsky, Janu- 
+ary 7-February 2, 1969. Traveled to Louisiana Museum 
+of Modern Art, Humlebaek, Denmark, with catalogue 
+with texts by Luc de Heusch and Chris Yperman, Feb- 
+ruary 14-March 2; Kunstverein fur die Rheinlande und 
+Westfalen, Diisseldorf, as Pierre Alechinsky: Werke 
+
+
+
+ni&lt;;S- 1 i)i&gt;S, March 1 i-April 13, with catalogue with 
+texts by Karl-Heinz Henng, Luc de Heusch, Chris Yper- 
+man and the artist; Kunsthalle Bremen, West Germany, 
+as Pierre Alechinsky: Gemalde 1958-1968, June 5— July 
+13, with catalogue with texts by Jacques Putman, Jiirgen 
+Schultze and the artist 
+
+Galene de Montreal , Pierre Alechinsky, February 2.5— 
+Apnl 1 2, 1969. Catalogue with text by Pierre Descargues 
+The J. L. Hudson Gallery, Detroit , Pierre Alechinsky: 
+recent paintings, October 29-November 29, 1969. 
+Catalogue 
+
+London Arts Ciallerv , Alechinsky: astres et desastres, 
+February 19-March 19, 1970. Catalogue with text by 
+Julio Cortazar 
+
+Israel Museum, Jerusalem , Drawings and Prints by 
+Pierre Alechinsky, April-May 1970. Catalogue with 
+texts by Yona Fischer and the artist 
+Gallena Rotta, Milan , Alechinsky, April 23-May 23, 
+1970. Catalogue with text by Franco Russoli 
+Gallery Nippon, Tokyo , Alechinsky, Voss, Weiss, Sep- 
+tember 21-October 10, 1970. Catalogue 
+Letebre Gallery, New York , Alechinsky: recent paint- 
+ings and drawings, October 20— November 14, 1970. 
+Catalogue with text by the artist 
+Galene Birch, Gopenhagen , Alechinsky, le plaisir de 
+peindre, December 2-19, 1970. Catalogue with texts by 
+Borge Birch and Gunnar Jespersen 
+Grand Rapids Art Museum, Michigan , Paintings by 
+Pierre Alechinsky — Sculptures by Reinhoud, March 1 2- 
+Apnl 11, 1 97 1. Catalogue with texts by Fred A. Myers 
+and Jacques Putman 
+
+Gallen Haaken, Oslo , Pierre Alechinsky, September 4- 
+October 3, 1971. Catalogue 
+
+Lens Fine Art, Antwerp , Alechinsky, December 10, 
+1971-January 29, 1972. Catalogue with text by the 
+
+Letebre Gallery, New York , Alechinsky: recent paint- 
+ings and watercolors, March 7— April 1, 1972. 
+Catalogue with text by the artist 
+
+Maison des Jeunes et de la Culture-Novel and Annecy 
+Action Culturelle, Annecy, France , Pierre Alechinsky, 
+Ideotraces, 85 dessins originaux et publications diverses, 
+May 1-31, 1972. Catalogue with text by the artist 
+" Galene in d er Blutgasse, Vienna, Pierre Alechinsky, 
+May 23-June 10, 1972. Catalogue with text by Alfred 
+Schmeller 
+
+XXXVI Biennale di Veuezia, Belgian Pavilion, 
+Alechinsky, June-September 1972. Catalogue with texts 
+
+
+
+164 
+
+
+
+by Julio Cortazar, Joyce Mansour, Willem Sandberg, 
+Louis Scutenaire, Giorgio Soavi and the artist 
+
+( ..drill' ill' 1 i. ll in , I '.ill'.. M&lt;\ I'.'ir l:v ,i 1. 1 livjir. |.lliu.ir\ 
+25-March 18, 1973. Catalogue with text by Joyce 
+Mansour 
+
+" Galleria del Milione, Milan , Pierre Alechinsky. 
+L'Avenir de la Propriete, March 9— April 9, 1973 
+
+Galerie Birch, Copenhagen, Alechinsky, April 3—14, 
+1973. Catalogue with texts by Borge Birch and the 
+artist 
+
+Lefebre Gallery, New York , The l.efehre collection of 
+Pierre Alechinsky, September 18-October 13, 1973. 
+Catalogue with text John Lefebre 
+
+Lefebre Gallery, New York, Pierre Alechinsky: recent 
+paintings and watercolors, October 16-November 10, 
+
+1973. Catalogue with text by John Lefebre 
+Lens Fine Art, Antwerp , Alechinsky, November 15, 
+1973-January 12, 1974. Catalogue with text by Ivo 
+Michiels and the artist 
+
+Galerie Stephane |anssen, Brussels, Alcchinskx. ac- 
+ryliques aquarelles, November 23, 1973— January 26, 
+
+1974. Catalogue 
+
+Musee Royal d'Art Moderne, Brussels, Alechinsky: 
+cent vingt dessins, donation de I'artiste, December 14, 
+1973-January 6, 1974. Catalogue with texts by Fran- 
+cine-Claire Legrand and Philippe Roberts-Jones 
+Mathilden ho he, Darmstadt , Pierre Alechinsky, June 8- 
+July 21, 1974. Catalogue with text by Bernd krimmel 
+and the artist 
+
+Nordjyllands Kunstmuseum, Aalborg, Denmark, 
+Alechinsky, September 14-October 13, 1974. 
+Catalogue with text by Gunnar Jespersen 
+Museum Boymans-van Beuningen, Rotterdam , 
+Alechinsky, November 15, 1974- January 5, 1975. 
+Catalogue with texts by Roger Caillois, Amos Kenan, 
+Jacques Lassaigne and the artist. Traveled to Musee 
+d'Art Moderne de la Ville de Paris, February 5— April 6 
+
+:&gt; Le Miroir d'Encre, Brussels, Epreuves d 'artiste, 
+With Henri Michaux, Joyce Mansour, November 19-December 19, 1974. Catalogue 
+
+Elisa Breton, Musee d'Art Moderne de Galeria Turner, Madrid , Alechinsky, February 28- 
+
+la Ville de Pans, 1975 March ?I) I9?5 Catalogue with text by Antonio Saura 
+
+Kunsthaus Zurich , Pierre Alechinsky, April 27-June 1, 
+
+1975. Catalogue with texts by Michel Butor, Antonio 
+Saura, R. Wehrh and the artist 
+
+Galerie va n de Lou, Munich , Alechinsky I9~i, 
+December 4— 23, 1975. Catalogue 
+Maison de la Culture de Chalon-sur-Saone, France, La 
+terre et les volcans, Alechinsky, November 1975-Janu- 
+
+
+
+165 
+
+
+
+
+an t 97 6. ( atalogue with texts by Michel Butor, Jules 
+Verne, Alexandre Vialatte, the artist et al. Traveled to 
+Musee Municipal des Beaux-Arts, I ahors, France, [uly 
+
+z-September 4 
+
+* Alechinsky a I'imprimerie (organized hy Musee 
+National d'Art Moderne, Pans), traveled in France, 
+1975-79. (. atalogue 
+
+Galerie Birch, Copenhagen , Alechinsky: travaux rares, 
+March 3-12, 19-6. Catalogue 
+Lefebre Gallery, New York , "'The color of time" ;o 
+aquarelles and 4 large brushdrawmgi by Alechinsky, 
+March 9-April 10, 1976. Catalogue with text by Harrv 
+Torczyner 
+
+Arte Fiera 76, Galerie de France, Bologna , Alechinsky, 
+May 2.2.-30, 1976. Catalogue 
+
+' Saint Mary's University Art Gallery, Halifax , 
+Alechinsky, June 6-30, 1977- Catalogue 
+Galerie de France, Pans , Alechinsky: grandes encres et 
+petits tableaux, en compagme de quelques sculptures: 
+Reinhoud, June 7-July 30, 1977. Catalogue with text by 
+Freddy de Vree 
+
+Museum of Art, Carnegie Institute, Pittsburgh , 
+Alechinsky, October 28, 1977-January 8, 1978. 
+Catalogue with texts by Leon A. Arkus, Eugene Ionesco 
+and the artist. Traveled to Art Gallery of Ontario, 
+March 10-April 20 
+
+Lefebre Gallery, New York , Alechinsky, November 1- 
+December 3, 1977. Catalogue 
+
+Lens Fine Art, Antwerp , Pierre Alechinsky, December 8, 
+19-7-January 21, 1978. Catalogue 
+' Kaneko Art Gallery, Tokyo , Pierre Alechinsky, 1977. 
+Catalogue 
+
+Musee National d'Art Moderne, Centre Georges Potn- 
+pidou. Pans , Dessins d'Alechinsky, July 1 1- September 
+1 1, 1978. Catalogue with texts by Pierre Georgel, Mar- 
+cel Lecomte and the artist. Traveled to Dordrechts Mu- 
+seum, The Netherlands, September 23-November 12 
+Loranger Gallery, Toronto , Alechinsky, March 1 1- 
+April 20, 1978 
+
+Galerie de France, Paris , Appel et Alechinsky: Encres a 
+deux pmceaux, October 12-November 30, 1978. Appel 
+et Alechinsky: lucres a deux pmceaux et leurs poemes 
+par Hugo Claus, Yves Riviere-A.M.G., Pans, 1978, with 
+text by Christian Dotremont and poems by Hugo Claus 
+published as catalogue. Traveled to Musee d'lxelles, 
+Brussels, January 16- February 25, 1979; Musee des 
+Beaux-Arts, Ostend, 1979; Dordrechts Museum, The 
+Netherlands, May 1 i-|une 30; Louisiana Museum of 
+Modern Art, Humlehaek, Denmark, August 16-Sep- 
+
+
+
+tember 9; Amos Anderson Konstmuseum, Helsinki, 
+1979; Sonia Henies og Niels Onstads Stiftelser, Hovik- 
+koden, Norway, December 1979-Jaiiu.irv 1 5, [980; 
+Saint-Savin-sur-Gartempe, France, June 22-August 1 
+Galerie Van de Loo, Munich , Pierre Alechinsky: Vieux 
+papiers, November 1978. Catalogue with text by the 
+
+' Galerie Omme, Silkehorg, Denmark , Pierre Alechin- 
+sky: Graphik, February 1 --March 17, 1979 
+Galerie Espace, Amsterdam , Alechinsky, April --May 
+27, 1979- Catalogue 
+
+Galerie Birch, I openhagen , Alechinsky: "Articles 
+suivis, " April-May 1979. Catalogue 
+Galerie Rolf Ohse, Bremen , Pierre Alechinsky: Vieux 
+Papiers Aquarelles 1977—1978, May 4-June 9, 1979. 
+Catalogue with text by the artist 
+
+Chapelle de la Charite, Aries , Alechinsky &amp; Reinhoud, 
+June 30-September 16, 1979. Catalogue with text by- 
+Jacques Putman 
+
+Galerie Albertstrasse, Graz, Austria , Pierre Alechinsky, 
+September 1 3 -October 31, 1979 
+
+Lefebre Gallery, New York , Pierre Alechinsky: paint- 
+ings on paper and three monumental etchings, October 
+9-November to, 1979. Catalogue with text by Carlos 
+Fuentes 
+
+' Galerie L'Ollave, Lyon , Alechinsky: lithographies 
+recentes, January 10-February 2, 1980. Catalogue with 
+text by Jean Raine 
+
+" Sara Campbell Blatter Gallery, University of Houston , 
+Pierre Alechinsky: A Print Retrospective (organized by 
+The Museum of Modern Art, New York), January 1 1— 
+February 24, 1980. Catalogue with text by Riva Castle- 
+man. Traveled to San Jose Museum of Art, May 14- 
+June 29; Edwin A. Ulrich Museum of Art, Wichita State 
+University, September 24-November 2; Art Gallery of 
+Hamilton, Ontario, December 1, 1980-January 1 1, 
+1981; Montreal Museum of Fine Arts, February 27- 
+April 1 2; The Museum of Modern Art, New York, June 
+10-August 1 1 
+
+Museo de Arte Moderno, Mexico City , Pierre 
+Alechinsky, April 29-July 1980. Catalogue with texts 
+by Carlos Fuentes, Fernando Gamboa and the artist 
+Galerie Maeght, Paris , Travaux d'impression, prmci- 
+palement, March 5— April 30, 1980. Catalogue with text 
+by Georges Duby 
+
+Galerie Maeght, Zurich , Alechinsky, October 9- 
+November 30, 1980. Catalogue with texts by Eugene 
+Ionesco and the artist 
+
+
+
+166 
+
+
+
+Kestner Gesellschatt. Hannover , Pierre Alechinsky: Bil- 
+
+der, Aquarelle, Zeichnungen: eine Retrospektive, 
+
+November --December 7, 19 So. Caralogue with texts 
+
+bv Roger Caillois. Julio Cortazar. Christian Dotremont, 
+
+Carlos Fuentes, Carl Haenlein, Eugene Ionesco, Antonio 
+
+Saura and the artist 
+
+Lens Fine Art. Antwerp , Pierre Alechinsky, April z— May 
+
+17, 1981. Catalogue 
+
+Lefgbre Gallerv. N'ew York , Alechinsky, June 1 6-July 2, 
+
+September S-October io, 1981. Catalogue 
+
+Calligrammes Gallery. Ottawa , Alechinsky, June 25- 
+
+Julv27, I9S1 
+
+Galene Maeght. Paris . Alechinsky: encres stir cartes de 
+navigation et peintures de I'annee, October 8— Novem- 
+ber 16, 1981. Catalogue. Derriere le Miroir, no. 14-. 
+with texts by Jean Fremon and Antonio Saura 
+Letebre Gallery. New York . Pierre Alechinsky: ink over 
+maps 6~ charts, October 13-November 14, 1981. Cata- 
+logue with texts by James Johnson Sweeney and the 
+artist 
+
+' Louis Calder Memorial Library. Miami , Pierre 
+Alechinsky: A Print Retrospective, May 1— June 30, 
+1982. Catalogue 
+
+' Galeria Sloane Racotta. Mexico Citv . Alechinsky, June 
+17-July 9, 1982. Catalogue with texts by Alberto 
+Gironella and the artist 
+
+'' Galerie Moderne. Silkeborg. Denmark , Pierre 
+Alechinsky, October 2—30, 1982 
+
+Galene Birch. Copenhagen . Alechinsky: Flora Danica, 
+November 16— December 1, 1982. Catalogue with text 
+by Henrik Bramsen 
+
+Fondation Maeght. Saint- Paul-de-Vence. France . Appel 
+et Alechinsky: encres a deux pinceaux, peintures, etc., 
+December iS, 1982— January 30, 19S3. Catalogue with 
+texts by Christian Dotremont, Claude Esteban and the 
+artist and poems by Hugo Claus. Traveled to Musee 
+Saint-Georges, Liege, October 28-December 4, 1983 
+
+
+
+Museo Espanol de Arte Conternp* 
+
+
+
+Madrid, Pierre 
+
+
+
+Alechinsky, Alberto Gironella, "Al Alimon, " May 20- 
+June 1983. Catalogue with texts by Jose Allyon, Julio 
+Cortazar, Salvador Elizondo, Carlos Fuentes, Fernando 
+Gamboa, Octavio Paz, Juan Rulfo, Antonio Saura and 
+the artist 
+
+Galerie M, Hannover . Les Arrondissements de Paris, 
+November 10-December 18, 1983. Catalogue with text 
+by Jiirgen Schulrze 
+
+Galerie Espace. Amsterdam , Encrier de voyage, De- 
+cember 13, 1983-January 2.1, 1984. Catalogue with 
+texts bv Michel Butor and Michel Sicard 
+
+
+
+Letebre Gallery. New York . Alechinsky. February' 14— 
+March 1 7, 19S4. Catalogue with texts by Michel Butor, 
+Michel Sicard and the artist 
+Kaneko Art Gallery, Tokvo , Pierre Alechinsky, April 9- 
+
+
+
+Renault Art et Industrie, Abbave de Senanque, Gordes, 
+France , Alechinsky: encres et peintures 19S1-19S4, 
+May 22-September 3, 1984. Alechinsky: frontieres et 
+bordures. Editions Galilee, Pans, 1984, with texts by 
+Michel Butor, Michel Sicard and the artist, published as 
+catalogue 
+
+Galerie Maeght Lelong. FIAC, Grand Palais, Paris , En- 
+cres a bordures: Alechinsky, October 19—28, 1984. 
+Catalogue with text by Max Loreau 
+Le Mejan. Aries . Alechinsky: Pages et feuilles, April 13— 
+May 30. 1985 
+
+Galene Birch. Copenhagen . Pierre Alechinsky: pieces 
+uniques, May 2-15, 1985. Catalogue 
+Galerie van de Loo. Munich . Pierre Alechinsky: encrier 
+de voyage. May 2-June 5, 1985. Catalogue with text by 
+the artist 
+
+Gana Gallerv. Seoul . Alechinsky. May 10—18, 1985. 
+Catalogue 
+
+Maison de la Culture de La Rochelle et du Centre- 
+Quest, La Rochelle. France. Pi m Alechinsky. June 15- 
+August 31, 1985. Catalogue with texts by Claude 
+Hudelot and the artist 
+
+Musee d'Art et d'Histoire. Metz. France , Alechinsky: 
+encres et peintures a bordures. November 22— December 
+15, 1985. Catalogue with text by Pierre Descargues 
+Letebre Gallerv. New York . 1 j Years Eefebre Gallery: 
+Pierre Alechinsky, April i-May 17, 1986. Catalogue 
+with texts by Julio Cortazar and the artist 
+Galerie Maeght Lelong. Pans . Pierre Alechinsky: 
+Bouches et Grilles, April 29-July 27, 1986. Catalogue 
+with text by Pierre Descargues 
+
+' Arteurial. Pans . Alechinsky: epreuves devenues rares. 
+May 13— June 7, 1986 
+
+" Galleri Torso, Odense, Denmark . Alechinsky, June 7— 
+July 5 , 1986 
+
+Galerie Lea. Gredt. Luxembourg . Alechinsky, 
+November -—December 14, 1986 
+
+' Galene La Hune. Paris . Poemes a voir — jean Tardieu, 
+Pierre Alechinsky, January 13-February 11, 198- 
+Galerie Maeght Lelong. New York . Alechinsky. March 
+27-May 9, 19S- 
+
+
+
+167 
+
+
+
+SELECTED BIBLIOGRAPHY 
+
+
+
+BY THE ARTIST 
+
+Titrcs et pams perdus, Denoel, Pans, 1965 
+
+Identifies, Denoel, Paris, 1966 
+
+he Tout Veuant, Galeae de France, Paris, 1966 
+
+Le test dit titre, Eric Losfeld, Pans, 1967 
+
+Ting's Studio, Les Poquettes volantes, Daily Bui, La 
+
+Louviere, Belgium, 1967 
+
+Roue libre, Les senders de la creation, Albert Skira, 
+
+Geneva, 1971 
+
+L' Auenir de la propnete, Yves Riviere, Pans, 1973 
+
+Far Rockaway, Fata Morgana, Montpellier, 1977 
+
+Alechinsky: Peintures et ecrtts, Yves Riviere-A.M.G., 
+
+Paris, 1977, and Alechinsky: Paintings and Writings, 
+
+Harry N. Abrams, New York, 1977. Preface by Eugene 
+
+Ionesco 
+
+Le bureau du titre. Fata Morgana, Montpellier, 1983 
+
+Ensortileges, Fata Morgana, Montpellier, 1983 
+
+ILLUSTRATED BOOKS 
+
+Marcel Lecomte, Le Sens des tarots, E.N.S.A.A.D., 
+
+Brussels, 1948 
+
+Luc de Heusch, Les Metiers, E.N.S.A.A.D., Brussels, 
+
+1948. Reprinted Pans, 1979 
+
+Hugo Claus, Zander vorm van Process, Draak, Brussels, 
+
+1950 
+
+Christian Dotremont, Vues, Laponie, Brussels, 1957. 
+
+With Karel Appel, Corneille and Asger Jorn 
+
+Christian Dotremont, La Reine des murs, Galene de 
+
+France, Paris, i960 
+
+Christian Dotremont, Mot qui j'avais, Girard, Paris, 196 
+
+Amos Kenan, adapted by Chnstiane Rochefort, Les 
+
+tireurs de langae, Fratelli Pozzo, Turin, 196 1 
+
+Amos Kenan, A la gare, Grafica Uno, Milan, 1962 
+Andre Balthazar, La Personne du singulier, Daily Bui, 
+La Louviere, Belgium, 1973 
+
+WalasseTing, U Life, Kornfeld, Zurich, 1964. With 
+Karel Appel, Alan Davie, Asger Jorn, Roy Lichtenstein, 
+Robert Rauschenberg, Bram van Velde et al. 
+
+Joyce Mansour, Carre blanc, Le Soleil Noir, Paris, 1965 
+
+Communication: 16 manifestations d'hypertrophie cal- 
+ligraplnque. Daily Bui, La Louviere, Belgium, 1967 
+
+Francois Nourissier, De la mort, La Balance, Brussels, 
+1967 
+
+Julio Cortazar, Histoire des &lt; 'ronopiens et des Fameux, 
+Les Poquettes volantes, Daily Bui, La Louviere, Belgium, 
+
+
+
+Joyce Mansour, Le Bleu des fonds, Le Soleil Noir, Paris, 
+
+1968 
+
+Achille Chavee, .4;/ demeurant. Daily Biil, La Louviere, 
+
+Belgium, 1969 
+
+Michel Butor, Hoine-Voirie, Olivetti, Milan, 1970 
+
+Joyce Mansour, Astres et desastres. The London Art 
+
+Gallery, London, 1970 
+
+Louis Scutenaire, Pointes, Georges Visat, Paris, 1972. 
+
+Jean-Clarence Lambert, Laborinthe, Georges Fall, Paris, 
+
+1973 
+
+Roger Caillois, Un Mannequin sur le trottoir, Yves 
+
+Riviere, Paris, 1974 
+
+P. A. Benoit, Entre le police et I'index, P.A.B., Ales, 
+
+1975 
+
+Michel Butor, Rive de I'ammonite, Fata Morgana, 
+
+Montpellier, 1975 
+
+Yves Bonnefoy, Par experience, F.B., Paris, 1976 
+
+Michel Butor and Jean-Yves Bosseur, Materiel pour un 
+
+Don Juan, La Louve de l'hiver, Losnes, 1977 
+
+Jorge Luis Borges, Treize poetries, translated by Roger 
+
+Caillois, Fata Morgana, Montpellier, 1978 
+
+Marcel and Gabriel Piqueray, Monument Tobacco, 
+
+Y'ves Riviere, Paris, 1978 
+
+E.-M. Cioran, Vacillations, Fata Morgana, Montpellier, 
+
+1979 
+
+Andre Frenaud, La Vie comme elle tourne, Maeght, 
+
+Pans, 1979 
+
+Pol Bury, Le Derisoire absolu, Daily Bui, La Louviere, 
+
+Belgium, 1980 
+
+Joyce Mansour, Le Grand /annus, Maeght, Paris, 1981. 
+
+With Matta 
+
+Jean-Michel Reynard, Maint corps des cbambres, 
+
+Maeght, Paris, 198 1 
+
+Y'ves Bonnefoy, L'Excedante, F.B., Pans, 1982 
+
+Georges Duby, "Papiers traites," Calendrier 1984, La 
+
+Pierre d'Alun, Brussels, 1983 
+
+Jacques Dupin, De singes et de mouches, Fata Morgana, 
+
+Montpellier, 1983 
+
+Gilbert Lascault, Arrondissements, Reperes, Daniel 
+
+Lelong, Paris, 1983 
+
+Camille Bryen, Mots bavards, P.A.B., Ales, 1984 
+
+Michel Butor, Le Men rot, Reperes, Daniel Lelong, 
+
+Pans, 1985 
+
+Michel Butor and Michel Sicard, ABC de correspon- 
+
+dance, Reperes, Daniel Lelong, Pans, 1986 
+
+Jean Tardieu, Poemes a voir, RLD, Pans, 1986 
+
+Jean Tardieu, Carta Cant a, RLD, Paris, 1987 
+
+
+
+168 
+
+
+
+MONOGRAPHS 
+
+Luc Zangrie (pseud, for Luc de Heusch), Alechinsky, Les 
+
+Artistes libres, vol. i, Bibliotheque de Cobra, 
+
+Munksgaard, Copenhagen, 1950 
+
+Jacques Putman, Pierre Alechinsky, Fratclli Fabbn, 
+
+Milan, Odege, Paris, 1967 
+
+Alain Bosquet, Alechinsky, Le Musee de Poche, Pans, 
+
+1971 
+
+Les estampes de 1946 a 1972, Yves Riviere, Paris, 1973. 
+
+Catalogue raisonne 
+
+Freddy de Vree, Alechinsky, Kunstpocket, no. 3, Schel- 
+
+derode, Belgium, 1976 
+
+Jean-Clarence Lambert, Central Park, Yves Riviere, 
+
+Paris, 1976 
+
+Appel et Alechinsky: Encres a deux pinceaux et leurs 
+
+poemes par Hugo Claus, Yves Riviere-A.M.G., Paris, 
+
+1978. Preface by Christian Dotremont 
+
+Hugo Claus, Treize manieres de regarder un fragment 
+d' Alechinsky, Ziggurat, Antwerp, 1979 
+Michel Butor and Michel Sicard, Alechinsky: Frontieres 
+et bordures, Collection Renault Art et Industrie, Edi- 
+tions Galilee, Paris, 1984 
+
+Max Loreau, Alechinsky, Reperes no. 16, Daniel 
+Lelong, Paris, 1984 
+
+Michel Butor and Michel Sicard, Alechinsky dans le 
+texte, Editions Galilee, Paris, 1985 
+Pierre Descargues, Alechinsky, bouches et grilles, Re- 
+peres no. 29, Daniel Lelong, Paris, 1986 
+Lefebre Gallery 1960-86: Alechinsky, Suite of 18 
+catalogues, New York, 1986 
+
+ON COBRA 
+
+Willemi]n Stokvis, Cobra, De Bezige Bij, Amsterdam, 1974 
+Cobra 1948-1911, Jean-Michel Place, Paris, 1980. Re- 
+prints of publications and documents, including 
+"Cobra, qu'est-ce que c'est?," by Christian Dotremont 
+Jean-Clarence Lambert, Cobra: un art libre, Fonds Mer- 
+cator, Antwerp, Le Chene, Paris, 1983, and Cobra, 
+trans. Roberta Bailey, New York, Abbeville Press, 1983 
+Christian Dotremont, Isabelle, texts on Cobra 1948- 
+1978, La Pierre d'Alun, Brussels, 1985 
+
+
+
+Bougival, 1; 
+
+
+
+
+169 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+
+COLOR 
+
+Christian Andersen: cat. no. 74 
+
+David Aschkenas: cat. no. 40 
+
+Courtesy Norman and Irma Braman: cat. no. 61 
+
+Courtesy Musee National d'Art Moderne, Centre 
+
+Georges Pompidou, Paris: cat. no. 9 
+
+David Heald: cover, cat. no. 48 
+
+David Heald and Myles Aronowitz: cat. no. 29 
+
+Courtesy Lefebre Gallery, New York: cat. no. 43 
+
+Mirko Lion: cat. no. 25 
+
+Courtesy Louisiana Museum of Modern Art, 
+
+Humlebaek, Denmark: cat. no. 32 
+
+© 1987, Daniel J. Martinez: cat. no. 7 
+
+Courtesy Gallene Maeght Lelong, Paris: cat. no. 8 
+
+Eric Mitchell: cat. no. 1 1 
+
+© Andre Morain: 
+
+75. 8z 
+
+O. E. Nelson: cat. 
+
+Thomas Peder: 
+
+
+
+nos. 23, 3», 59, 4- 
+
+
+
+■ nos. 44, 45 
+and Poul Pedersen: cat. no. 21 
+
+
+
+BLACK AND WHITE 
+
+Myles Aronowitz: cat. nos. 89, 90, 92, 94, 98, 99, 100, 
+
+103, 108 
+
+David Heald: cat. nos. 88, 91, 93, 95, 96, 104, 106 
+
+Galerie de France, Paris: cat. no. 10 
+
+© Andre Morain: cat. nos. 4-6, 8, 19, 24, 26-28, 31, 4 
+
+57-60, 63, 66-72, 76, 77, 80, 81, 83, 84, 107 
+
+Courtesy Musee National d'Art Moderne, Centre 
+
+Georges Pompidou, Paris: cat. no. 2 
+
+Otto E. Nelson: cat. nos. 3, 12 
+
+Michel Nguyen, © Galerie Maeght Lelong, Paris: cat. 
+
+nos. 14-18, 65, 85, 87 
+
+
+
+Mounting of Past Unnoticed, Gust of 
+Wind in progress, Bougival, 1 98 1 
+
+
+
+THE SOLOMON R. GUGGENHEIM FOUNDATION 
+
+
+
+HONORARY TRUSTEES IN PERPETUITY 
+
+Solomon R. Guggenheim, Justin K. Thannhauser, Peggy Guggenheim 
+
+PRESIDENT Peter Lawson-Johnston 
+
+VICE PRESIDENTS The Right Honorable Earl Castle Stewart, Wendy L-J. McNeil 
+TRUSTEES Elaine Dannheisser, Michel David-Weill, Carlo De Benedetti, Joseph W. Donner, Robin Chandler Duke, Robert M. Gardiner, 
+John S. Hilson, Harold \\ McGraw, [r , Thomas M Messer, l'cnisc Saul, Willi. mi A- Schrcver, Bon mil' Ward Simon, Seymour 
+Shve, Peter W. Stroh, Stephen C. Swid, Rawleigh Warner, Jr., Michael F. Wettach, Donald M. Wilson, William T. Ylvisaker 
+ADVISORY BOARD Donald M. Blinken, Barrie M. Damson, Donald M. Feuerstein, Linda LeRoy Janklow, Seymour M. Klein, Hannelore Schulhof 
+SECRETARY-TREASURER Theodore G. Dunker 
+
+DIRECTOR ThomasM. Messer 
+
+SOLOMON R. GUGGENHEIM MUSEUM 
+
+D E P UT Y D I R E CT O R Diane Waldman 
+
+ADMINISTRATOR William M. Jackson 
+STAF F Vivian Endicott Barnett, Curator; I ivi Den m son, Susan B. Hirschtcld, Assistant ( urators; t arol Fuerstein, Fditor; Sonja Bay, 
+Librarian; Wars! fackson, Archivist; I liana Murphy, Assistant Editor; Sus.ni I lapgood, ( uratorial ( oordinator; Thomas Padon, 
+Nina Nathan Schroeder, Cornelia Lauf, Curatorial Assistants 
+Louise Averill Svciulscn, Curator Emeritus 
+
+Chene A. Summers, Registrar; Jane Rubin, Kathleen M. Hill, Associate Registrars; Lon Schafer, Registrar's Assistant; Saul 
+Fuerstein, Preparator; David M. Veater, Assistant Preparator; William Smith, Am Gonzalez Rivera, Preparation Assistants; 
+Huh bard Toombs, I cchnical Services ( oordin.iror; 1 cm Porolt. Assoc mil ( onscrv.iror, * .ilh.in Ms Mi 1 1. in. Jc.ui Rossion, 
+Assistant Conservators; Scott A. Wixon, ( )pexations Manager; Dennis Schoelerman, Assistant Operations Manager; Takayuki 
+Amano, Head Carpenter; David M. Heald, Photographer; Myles Aronowitz, Assistant Photographer; Regina O'Brien, 
+Photography Coordinator 
+
+Mimi Poser, Officer for Development and Public Affairs; Carolyn Porcelh, John T. Landi, Development Associates; Elizabeth K. 
+Lawson, Membership Associate; Holly C. Evarts, Public Affairs Associate; Shannon Wilkinson, Public Affairs Coordinator; 
+Linda Germg, Special Events Associate, Mildred Wolkow, I &gt;c\ r lopmenl l oordinator; C Lire Pauline Bell, Dcnise Bouche, 
+Membership Assistants; Sarah Everett 1 ee, Public Allans Assistant; Ann Varney, Development Assistant; Dawn Holt, Computer 
+Coordinator 
+
+Agnes R. Connolly, Auditor; Stefanie Levmson, Sales Manager; John Phillips, Assistant Saks Manager; Marguerite Vigliante, 
+Trade Sales Assistant; Maria Masciotti. Manager of t ate and ( a re ring; Fred Lee, Assistant Manager ot Cafe and Catering; Aim 
+Paul, Mail Clerk; Irene Mulligan, Switch board I Operator; Mvro Ri/nyk, Building Manager. Domingo Maklonado, Assistant 
+Building Manager; Robert S. I lot 7, t hie! ot Security ; 1 I bio Ainu ion, Marie Bradle) , Carlos Rosado, Assistant Security 
+
+Ann Kraft, Executive Associate; Jill Snyder, Administrative Coordinator; Julia Voigt, Assistant to the Administrator; Elisabeth 
+Hodermarskv, Administrative Assistant 
+LIFE MEMBERS Jean K. Beniamin, Irvin Blum, Mr. and Mrs. B. Gerald Cantor, Eleanor, Countess Castle Stewart, Mr. and Mrs. Barrie M. 
+
+Damson, Mr. and Mrs. Werner Dannheisser. ].icc|uclinc llrvtoos, William ( . Edwards, Jr., Donald M. leuersrein, Mr. and Mrs. 
+Andrew P. Fuller, Agnes Gund, Susan Morse Hilles, Mr. and Mrs. Morton L. Janklow, Mr. and Mrs. Donald L. Jonas, Mr. and 
+Mrs. Seymour M. Klein, Mr. and Mrs. Peter Lawson- Johnston, Mr .m^t Mrs. Alexander 1 iberman, Rook Met ulloch, Mr. and 
+Mrs. Thomas M. Messer, Mr. and Mrs. Robert E. Mnucbin, Mr. and Mrs Irving Moskovuv, Fli/.ibcrh Hastings Peterfreund, 
+Mrs. Samuel 1. Rosenman, Clifford Ross, Mr. and Mrs. Andrew M. Saul, Mr. and Mrs. Rudolph B. Schulhof, Mrs. Evelyn Sharp, 
+Mrs. Leo Simon, Mr. and Mrs. Stephen A. Simon, Sidney Singer, Jr., Mr. and Mrs. Stephen C. Swid, Mrs. Hilde Thannhauser, 
+Mr. and Mrs. Stephen S. Weisglass, Mr. and Mrs. Philip Zierler 
+INSTITUTIONAL Alcoa Foundation, Atlantic Richfield Foundation, The Owen Cheatham Foundation, Exxon Corporation, Ford Motor 
+
+PATRONS Company, Robert Wood Johnson Jr. Charitable Trust, Knoll International, The Kresge Foundation, L. A. W. Fund. Robert 
+Lehman Foundation, The Andrew Mellon Foundation, Mobil t corporation, Montedison ( .roup. Philip Morris Incorporated, 
+Regione Veneto, United Technologies Corporation 
+
+Institute ot Museum Services, National Endowment lor the Arts, National FiiLlowment tor the Humanities, New York State 
+Council on the Arts 
+
+
+
+173 
+
+
+
+Exhibition 87/1 
+
+5000 copies of this catalogue, designed by Malcolm Grear Designers 
+
+and typeset by Sehooley Graphics/Prime Line Phototype, 
+
+have been printed by Eastern Press in January 1987 for 
+
+the Trustees of The Solomon R. Guggenheim Foundation on the 
+
+occasion of the exhibition Pierre Alechinsky: Margin and Center. 
+
+
+
+I 74 
+
+
+
+' M*fflIN£T'A ECRM ^ Jf • " ^^ "^ ^^ / 
+
+PRATIQUES „ Mfcm®&gt;@tWty€LUl® ' / 
+
+" DACTYLiE " ui, i^/ ')?* I 
+
+, Boulevard Haussmarm 
+
+■ uugr. " DACTTUB PARIS » Par is , 1 e 7 Mar s 1 902 i 
+
+" 3 --" __ ■ 
+
+DOIT Monsieur L. de la BASTIDE 
+
+10, Place Saint Jean g 
+
+Chartres. f 
+
+'':'!-kal lafe d'une ^chine If / 
+
+•■t If 60 
+
+2f60 
+
+
+
+
+175 
+
+
+
+
+Rejected remarks, Bougival, 197] 
+
+
+
+176 
+
+
+
+
+
+
+A 
+
+
+
+A i. K. 
+
+
+
+N6973.A4A4 1987 c. 3 
+Pierre Alechinsky : 
+
+Alcchinskv. Pierre, 
+038654 
+
+
+
+
+
+14/ 
+
+
+
+Solomon R. Guggenheim Museun 
+
+ilir 
+
+
+
+r 
+
+
+
+MJLi 
+
+
+
+
+Ui/u/ilMljL 
+
+
+
+
+
+k 
+
+
+
+
+
+UUUsJLaUL* 
+
+
+
+
+
+
+
+Solomon R. Guggenheim Museum, New York 
+
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0052   0.0052      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0071   0.0019      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0091   0.0019     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0157   0.0066   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0159   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0860   0.0701              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=86;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

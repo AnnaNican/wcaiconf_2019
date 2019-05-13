@@ -1,0 +1,3559 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Kandinsky"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/kandinsky1945reba">Kandinsky</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/kandinsky1945reba">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+
+
+DINSK 
+
+
+
+
+
+Dedicated to the memory of three great men, 
+whose intuitive vision and integrity equalled 
+their knowledge and unerring devotion to art. 
+Their recent deaths impoverished France 
+and all those, to whom the upkeep of 
+aesthetic culture is of essential necessity. 
+
+TO THE INSPIRED ROBERT DELAUNAY 
+TO THE IDEALISTIC IVANHOE RAMBOSSON 
+TO THE NOBLE FELIX FENEON 
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/kandinsky1945reba 
+
+
+
+
+PUBLISHED BY THE SOLOMON R. GUGGENHEIM FOUNDATION NEW YORK 
+EDITED BY HILLA REBAY, CURATOR AND TRUSTEE, UPON THE OCCASION OF 
+
+THE KANDINSKY MEMORIAL EXHIBITION, MARCH 15TH TO MAY 15TH, 1945 
+
+IN THE MUSEUM OF NON-OBJECTIVE PAINTINGS, 24 EAST 54TH STREET, NEW YORK CITY 
+
+
+
+COPYRIGHT 1945 BY THE SOLOMON R. GUGGENHEIM FOUNDATION NEW YORK 
+SET IN FUTURA BY ATLANTIC TYPOGRAPHERS, INC. • NEW YORK CITY 
+PRINTED IN THE UNITED STATES OF AMERICA 
+
+
+
+
+
+3L-I.-IAO 
+
+
+
+
+WATERCOLOR, SKETCH BY KANDINSKY FOR COMPOSITION NO. 4 
+
+
+
+1911 
+
+
+
+IN MARCH 1911 KANDINSKY EXPLAINED ONE 
+OF HIS EARLY OBJECTIVE ABSTRACTIONS 
+COMPOSITION NO. 4 AS FOLLOWS: 
+
+1. Retrospective Definition. 
+Masses (of the weight) 
+
+Colour below in the middle -blue (contributes to the whole a cold sound). 
+
+upper right hand corner — split blue, red and yellow. 
+Lines left hand upper corner— black lines of horses (knotted). 
+
+lower right hand corner— stretched lines of the lying. 
+
+2. CONTRASTS 
+
+of the masses to the lines, of the definite to the vague, of knotted lines to colored knots. 
+And as the main contrast an angled sharp movement (battle) to the light cold sweet colors. 
+
+3. OVERFLOWINGS 
+
+of the color to the contours. The completed contour of the castle is reduced only through 
+the influence of the sky over the contour. 
+
+4. 2 CENTERS 
+
+1. of the knotted lines. 
+
+2. of the modelled angle of the blue which are separated through vertical black lines. 
+
+
+
+8 
+
+
+
+(spears). The whole composition is intended to be light with many sweet colors, which 
+often absorb each other; the yellow is also cold. 
+
+This light — sweet — cold, presents the main contrast in the picture by moving to an 
+angle (conflict). It seems that here this contrast (as compared with composition No. 2) 
+is still stronger and therefore appears harder, more distinct. 
+
+It possesses as an advantage, a more precise influence, and as a disadvantage a slightly 
+overdone precision. 
+
+As a basis are placed the following elements: 
+
+1. The consonants of inactive masses. 
+
+2. a quick movement of the parts directed mainly to the upper right hand corner. 
+
+3. the main movement in an angle is pointed toward the upper left hand corner. 
+
+4. the opposition of both directions (in the direction towards the right we notice the 
+flowing of smaller forms, the others flow to the left). 
+
+5. the consonants of the masses with the lines which lie open. 
+
+6. The contrasting of the smudged forms to the contours (also the line in the sense of 
+the line (apropos to No. 5) and as a contour where it is supposed to sound as a line. 
+
+7. The overflowing of the colors over the limits of the form. 
+
+8. The preponderance of the sound of the colors over the sound of the form. 
+
+9. Diffusions. 
+
+
+
+
+COMPOSITION NO. 4 
+
+
+
+1911 
+
+
+
+
+COMPOSITION NO. 6 
+
+
+
+1913 
+
+
+
+HOW KANDINSKY EXPLAINED COMPOSITION 
+NO. 6, ONE OF HIS LAST OBJECTIVE 
+ABSTRACTIONS IN EARLY MAY OF 1913 
+
+
+
+This picture I was bearing in mind for one and Va years. 
+And often it seemed to me that perhaps I would not 
+achieve it. The point of departure was the deluge. This 
+point of departure was a mirrored picture which I have 
+made rather more for my own pleasure. 
+
+Here different objective forms are given, which are 
+sometimes merry (it amused me to compose earnest 
+forms with amusing expressions), nudes, arches, ani- 
+mals, palms, flashes, rain, etc. 
+
+As the mirrored picture was ready, I found myself wish- 
+ing to work this theme over into a composition, and it 
+was rather clear to me in which way I would have to 
+do it. 
+
+But very soon this feeling disappeared, and I found 
+myself lost in objective forms which I painted so as to 
+make the comprehension of this picture more clear and 
+distinct. Instead of clearness, however, I found indis- 
+tinctness. 
+
+
+
+In several sketches I dissolved the objective forms and 
+in others I tried to achieve the impression in a more 
+abstract way. But this did not work either. 
+
+The reason for it was, that myself while being forced 
+to render the expression of the deluge, I did not listen 
+to the expression of the word "deluge." 
+
+Not the inner sound, but the exterior expression was 
+dominating me. Weeks passed and I tried again, but 
+still without results. 
+
+I also tried the already tested way of giving up for a 
+time the task, so as to be able to take a sudden look 
+at the sketches with fresh eyes. Then it was that I dis- 
+covered the correct approach but I was still unable to 
+separate the kernel from the shell: I remembered the 
+serpent which could not get out of its old skin. The skin 
+was very much dead, but it stuck to the serpent, which 
+in this case was the object. 
+
+In the same way for a year and a half there would 
+
+
+
+10 
+
+
+
+stick to me the element of the catastrophe of the deluge, 
+which is alien to the inner sense of the picture. 
+
+My mirrored picture was at that time on exhibition. 
+But it returned and as I saw it again, I was immediately 
+again where I was, when I had first completed that 
+mirrored picture. But I already had my doubts and 
+thought that I would never complete the big picture. 
+
+Nevertheless from time to time I would give a look at 
+the mirror picture which hung in my studio. And every 
+time I would react the same way, firstly by the colors 
+and then by the compositional work and then by the 
+form of design in itself which all was without any re- 
+lation to the object. 
+
+This mirrored picture appeared so separated from my- 
+self, that I was astonished I had painted it. However, 
+it made its impression on me, like many other things or 
+ideas; which have the power through their vibrations 
+to awaken in me purely artistic conceptions and which 
+brought me finally to the creation of a picture. 
+
+At last the day came when a quiet inner feeling made 
+me entirely sure of myself. I immediately produced 
+nearly without any corrections a definite last sketch, 
+which nearly practically seemed to satisfy me; and I 
+felt sure that under normal circumstances I would paint 
+this painting. As soon as I got the canvas I immediately 
+proceeded to the drawing. It went so fast that nearly 
+everything was satisfactory. 
+
+In two or three days the picture as a whole was there. 
+The struggle to master the canvas was over, therefore 
+if for some reason I would have to give up to paint, 
+the picture would still be there: the main work was done. 
+Then came the extremely delicate pleasant and never- 
+theless strenuous process of harmonizing the different 
+parts of the picture with each other. Formerly I would 
+have been much bothered where I found something 
+objectively wrong and would have felt obliged to 
+improve it. Yet the experience of years had taught 
+me, that sometimes the error \n a painting does not lie 
+in the space where we look for it. And that one makes a 
+right correction of the left hand lower corner only by 
+correcting something out of balance in the upper right 
+hand corner. If the left hand cup of the scales goes 
+down too low, the point is to put more weight on the 
+right hand cup and then the left one will soon rise its 
+weight all by itself. 
+
+The strenuous search in the picture of such right hand 
+cup, the trembling of the left one which occurs through 
+the smallest change in design and color in some place, 
+which cause vibrations to the whole of a painting. All 
+these infinitely alive, immensely sensitive elements in a 
+picture, if when correctly painted, evolve a third mo- 
+mentum of beauty and suflFering in the process of 
+painting. 
+
+Such infinitely small possibilities of weight which should 
+be used and which exercise such a strong influence on 
+the whole conception of the picture's marvelous exacti- 
+
+
+
+tude is the action of the hidden law, which through for- 
+tunate circumstances influences the artist and which he 
+obediently follows — all this appears as tempting, as 
+the first dynamic sketching of the big masses on the 
+canvas itself. 
+
+To each of these moments corresponds a certain tension. 
+And many a wrong or incompleted picture owes its sad 
+fate to the fact that wrong tensions were applied. 
+
+In this picture one sees two centers: 
+
+1. On the left the delicate, pinkish, slightly vague cen- 
+ter with feeble, uncertain lines in the middle. 
+
+2. On the right (slightly higher than the left one) the 
+rude, red-blue, a little out of key, with sharp, malignant 
+strong and very precise lines. 
+
+Between these two centers there is a third one (closely 
+to the left one) which only later on is discovered to be 
+a center, but on a final count will be considered as 
+the main center. 
+
+Here the pink and the white are mixed in a foam 
+which gives the impression of neither lying on the 
+canvas nor on any ideal plane. Rather it seems to 
+hang in the air and appears to be surrounded with 
+haze. Such an absence of a plane and an uncertainty 
+of distance may be observed for instance in Russian 
+steam baths. A human figure standing amid the steam 
+seems to be neither close nor far; it is "somewhere." 
+
+This "somewhere" of the main center produces the 
+decisive impression of the picture. I worked so much upon 
+this problem, until I attained what I was ceaselessly striv- 
+ing for from the first. And which I later incorporated into 
+the innerly desired form. The smaller form of this pic- 
+ture called for something very plain, yet broad 
+("largo") with respect to infiuence. For this purpose I 
+used long solemn lines, which I had already used in 
+Composition 4. 
+
+It was good to see the new way in which the previ- 
+ously used measure could be put to work. Those lines 
+are connected with those above them, which are in a 
+cross direction to the former and are thick and decisive. 
+The two systems of lines are in conflict with each other. 
+
+To soften the dramatic vibration of the lines, that is in 
+order to retouch their dramatically intruding element 
+(to put, so to say, a muzzle on this element), I placed 
+on the picture a display of a whole fugue of pink spots. 
+They give the great disturbance a certain calm and 
+provide an objective outlook to the whole drama. This 
+solemn and calm character is underscored also by the 
+various blue spots which contribute to an inner warmth. 
+The warm influence of this essentially cold color in- 
+creases again the dramatic element in an art which 
+thus again becomes noble and non-objective. 
+
+The entirely deep brown forms (especially in the upper 
+left hand corner) contribute a dull and very far 
+sounding note, which reminds one of hopelessness. 
+
+
+
+11 
+
+
+
+Green and yellow bring life to the soul and provide 
+it with the missing activity. I have also made decisive 
+use here of the smoothness and the roughness of the 
+canvas. This gives the spectator new experiences, even 
+if he comes close to the canvas. 
+
+In this way all the elements, even those in contradic- 
+tion to each other, are brought into complete inner 
+balance, so neither of them wins preponderance. 
+
+The original theme for the creation of the picture 
+(originally the deluge) is dissolved into an innerly pure. 
+
+
+
+independent, almost non-objective essence. Nothing 
+would be further from the truth than to brand-mark this 
+picture as the representation of an event. 
+
+A significantly acting objective destruction is in such 
+a way also a complete song of praise, a singular 
+sound, which resounds like a hymn of new revival, 
+which does follow every ruination. 
+
+
+
+May, 1913 
+
+
+
+
+12 
+
+
+
+
+13 
+
+
+
+
+6^v 
+
+
+
+14 
+
+
+
+ANALYSIS BY KANDINSKY ON HIS PAINTING 
+CALLED "THE WHITE EDGE," WHICH IS .PARTLY 
+ABSTRACT AND ALREADY PARTLY NON-OBJECTIVE 
+
+
+
+I have made many sketches for this picture, as well as 
+designs. The first sketch was made very soon after my 
+return from Moscow in December 1912. It was the re- 
+sult, OS is usually the case, of hard experiences in 
+Moscow, or to be more exact of impressions made by 
+Moscow itself. The first sketch was short and crowded. 
+But already in the second one I used "dissolution" of 
+colors and form-events in the right hand lower corner. 
+In the left hand upper corner I left the motive of the 
+"troika"* which I had conceived some time ago, and 
+which I had used in several other paintings. This left 
+corner had to be particularly simple, by which I mean, 
+that the impression thereof had to be gained directly 
+from the form. In the corner itself are white, indented 
+lines which express a certain feeling, which I am unable 
+to put into words. It may be that it evokes a feeling of 
+certain obstacles, which the troika is unable to over- 
+come. Described in this way the compositions acquire 
+a repulsive, wooden expression. For instance the gre6n 
+color awakens often (or sometimes) in the soul an echo 
+of summer vibrations. Freshness and clearness may, in 
+such a case, contribute to the harmony of this im- 
+pression. But it might become unpleasant, if this echo 
+should become too clear and distinct, so that instead of 
+reminding us of the summer season it would make us 
+think of summer "pleasures" such, as for instance, how 
+nice it would be to take off one's coat in summer without 
+catching cold. Thus, as a consequence, we should adopt 
+clearness and simplicity in the left hand upper corner 
+and a smudged dissolution with small and dull dissolu- 
+tions in the right hand upper corner. Likewise, as I often 
+do, I have made use of two centers, although they are 
+less independent here as for instance in Composition 6, 
+where it would be possible to make two pictures out 
+of one. 
+
+The center on left: a combination of standing forms 
+which is related to the second center; the use of pure, 
+very much resounding colors; the red slightly dissolved, 
+the blue absorbed inwards (presenting a strong centro- 
+filial movement.) Thus the means appear very simple, 
+quite uncovered and clear. 
+
+The second center to the right: bent, thick forms (which 
+cost me much work.) It has outward and inward pointed 
+hooks (rather white) which give to its melancholic bend 
+on energetic note of "inner simmering." 
+
+
+
+All this is submerged into dull blue tones (compara- 
+tively or perhaps even in an exaggerated way) which 
+only occasionally succeed in producing a sound and 
+which united together may contribute, to give to the 
+upper form a somewhat egg-shaped surrounding. It is 
+like a little realm by itself, which is not pasted on to an 
+alien body, but which rather blooms on it like a flower. 
+This somewhat egg-shaped form I have presented in a 
+general way, so as to make it clear and yet so as not 
+to be too conspicuous or insistant. I have for instance 
+shown its limits clearly at the top, and hazily below. 
+When following these limits with the eye one may ex- 
+perience many inner fluctuations, like those of waves. 
+Both centers are separated from each other, yet they 
+have a connection with each other, through the medium 
+of many more or less distinct forms, which are partly 
+plain spots, of green. This massing of the green I 
+have often applied quite unconsciously yet, as I see 
+it now, with a certain plan. I did not want to add to 
+the strong movement of this picture any further disturb- 
+ance. Much rather did I have the intention to show its 
+unrest by emphasizing the quiet. However, an over- 
+dose of green and especially of Paris-blue was 
+noticeable there (the frigidity of a dull sound) which, 
+later on and not without considerable effort, I tried to 
+eliminate from the picture. 
+
+My inner state of mind imposed on me the necessity of 
+choosing between the simplicity of the left side and 
+the two centers, and to apply a technique which I should 
+perhaps call the technique of pressure. I pressed the 
+brush against the canvas, which resulted in producing 
+small sharp angles and lumps. This seemed to be quite 
+correct and expedient — it seems that a certain tech- 
+nical disturbance, between the three described spots, 
+was necessary. 
+
+In the lower left hand corner then arises a conflict in 
+white and black, which is separated from the dramatic 
+clearness of the upper left hand corner, by the use of 
+Naples-yellow. I call the rolling of the indistinct black 
+spots in the white an "inner brooding in an unclear 
+form." 
+
+Similar to this is the opposed upper right hand corner, 
+which, however, already belongs to the white rim. The 
+work upon this white rim proceeded very slowly. All 
+sketches were of no use to me; although the separate 
+
+
+
+*A team of three horses. I designate by this name a system of three lines running along together with certain deviations, which are 
+bent towards the top. I came to this form by thinking of the lines on the backs of the horses in a Russian three-horse team. 
+
+
+
+15 
+
+
+
+forms finally became clear to me, I nevertheless could 
+not make up my mind to paint the picture. I was in 
+trouble. Week after week I contemplated the sketches 
+only to feel, that I was not ripe for the work. Years of 
+experience have taught me later, to use patience in such 
+cases, and not to try to break the task over my knee. 
+
+So it happened that only after nearly five months I 
+found myself again sitting in front of the second and 
+larger sketch and suddenly understood what was 
+missing: it was the white edge. I was even scared when 
+I understood the fact, but nevertheless went immediately 
+to the shop to order the canvas. The doubt about its 
+size took at least half an hour (length 160 ? 180 ? 
+200 ? ). 
+
+
+
+I tackled this white rim with the same capriciousness, 
+with which it had imposed itself on my mind. On the left, 
+below was the foundation; from here there rises up a 
+white wave which then falls abruptly down; on the 
+right of the picture the wave flows in a lazy snakelike 
+movement. On the top of the right side it forms a small 
+lake (in the spot, where the black brooding originates), 
+which disappears in the direction of the left hand 
+upper corner, so as to show itself for the first time in 
+the definite form of white hooks. 
+
+Due to the fact that this white rim proved to be the 
+solution of the whole picture, I have called by its 
+name the picture itself. 
+
+May 1913 
+
+
+
+ON THE WHITE EDGE 
+
+
+
+The "White Edge," painted in 1913, belongs to Kandin- 
+sky's most important lyrical paintings; and to a period 
+which he later on called his "dramatic one," due to the 
+extraordinary fateful happenings in his life, during the 
+years from 1910 to 1920. In 1937, speaking about the 
+lyrical paintings of this period, Kandinsky explained, 
+that never again could he paint these paintings, nor 
+express himself equally spontaneously and as deeply 
+emotional. That therefore these lyrical paintings were 
+unique in their intensity and directness of self expression. 
+The "White Edge," though partially abstracted from a 
+"troika motive" and somewhat inspired by "intellectual 
+reminiscence about summer impressions," derives its 
+importance from those parts of non-objective inventive- 
+ness, which bring to its rhythmic form and color element 
+a powerful triumph, beyond all intellectual, unpictorial 
+handicap from abstraction. 
+
+The possibility of a complete solution in any creative 
+organization of painting, depends on the consequent 
+development of the artistic problem; intuitively con- 
+ceived, and ordered cosmically with an intelligence, 
+freed of any tie from the intellectual unpictorial dictum. 
+
+The purity of a given space on a canvas, or on a paper 
+demands from the artist the upholding of this purity. 
+And a strict devotion to the imperative lawful consequent 
+development, which is in acordance with the first state- 
+ment of form and color on the virgin canvas. That the 
+beauty of this given space can be ruined by inorganic 
+intellectual abstraction of an objective or subjective 
+inspiration, or intelligently and reverently enriched with 
+creative invention, makes the difFerence between the 
+intellectual earthly conceived abstraction and the intelli- 
+gent, spiritually conceived non-objective creation. A 
+
+
+
+simple fact, which has not yet dawned upon the many, 
+who are intellectually handicapped but write on Art. Yet 
+this realization has imposed its essential truth on the 
+creative artist's consciousness. It involves a severe obli- 
+gation for reverent devotion to the law of a sublime and 
+prophetic task. 
+
+One of the reasons for the historic importance of the 
+"White Edge" is, that during the creation of this paint- 
+ing, Kandinsky evolved to the realization of this task 
+and its possibility. And so he overcame the objective 
+handicap, eliminating it with the powerful rhythm he 
+created in the construction of this painting, which is due 
+to its magnificent design and the masterful use of white 
+and black, as a color element. Also the contrast of the 
+rhythmic counterplay in the red motive, circling its own 
+melody around a green center motive, and the blue color 
+theme which is so soundly organized into its own lawful 
+rhythm, that it seems to hold the entire composifion 
+together. All this enchantingly embraced by a yellow 
+counter motive which, like a melody of infinite joyous- 
+ness, seems to satisfy itself with its expressive rhythm, 
+while surrounding organically the entire composition. 
+Almost like the tone of a clarinet, pursuing its flow of 
+delightful rhythmic harmony, which cheers the organiza- 
+tion of a symphony, to contrast the soft intensity of the 
+contrabass or cello's solemn andante. The law of counter- . 
+point in musical sound creation has its counterpart in 
+just as many lawful problems of form and color com- 
+position in non-objective painting. To which law the lay- 
+man need not pay any attention. His reaction should be 
+the faculty to enjoy the result of beauty and harmony, 
+as anyone can enjoy the heavenly blue of the enchanting 
+morning glory, swaying rhythmically in the wind, without 
+questioning its creation. 
+
+
+
+16 
+
+
+
+ON COMPOSITION NO. 8 
+
+
+
+Painted in 1923, ten years after the "White Edge," the 
+"Composition No. 8" which in 1932 Kandinsky called 
+his most important painting, shows clearly his develop- 
+ment to greater clarification of space and form precision. 
+Also, indicating the use of a light background, which 
+since 1919 has made possible to a great extent the 
+expression of the rhythmic form ideal of our time. In so 
+creating the need for a visionary or rather spiritual 
+dimension, which must be felt to be realized, and which 
+induces the onlooker to follow this visionary rhythm from 
+form to form, and to realize the dimension of a line to 
+harmonize with the balance of space surrounding it. 
+Also to feel the perfection of the rhythmic in-between, 
+which magically binds the entire creation to a unit of 
+endless vibrations for aesthetic enjoyment. It can be seen 
+from many angles, unlimited approaches and with 
+infinite possibilities of reaction. While the quiet influence 
+of non-objective paintings develops such reactions finally 
+in all those exposed to its growing influence. Due to this 
+influence, a non-objective painting is a most essential, 
+useful, practical creation for the advance of mankind. 
+
+In "Composition No. 8" the softly rounded lyrical line 
+motives are counter-played by the dramatic straight 
+lines and triangles, while the circle motives enfold them- 
+selves as contrasting centers in the vast unit. Here 
+Kandinsky already approaches what later he solved to 
+perfection in the paintings of 1935 "Pointed and Round" 
+and of 1936 "Rigid and Bent" (reproduced on pages 
+34 and 41). It is the excluding of the outside space, 
+beyond the frame, still so evident in the "White Edge." 
+Yet there the intense centrifugal force seems to rather 
+draw the outside into the inside of the painting's space 
+and to induce it deflnitely into its rhythmic content. In 
+"Composition No. 8" the master achieved already partly 
+
+
+
+a powerful feeling of largeness of space by almost 
+entirely staying inside the frame. 
+
+To avoid eccentric continuity and yet not create a boring 
+decoration or dull pattern, as most bring about, who 
+lack the ability to create the spirituality of rhythm, is 
+what provides the answer, whether such a painting is 
+Art or decoration. Only a concentric creation can bring 
+such spiritual rhythm in between its form variations. 
+
+Kandinsky's "Composition No. 8," painted in 1923, 
+belongs to the so-called "cold period," about which 
+Kandinsky wrote in 1936 to Hilla Rebay: "Most of the 
+paintings of this so-called 'cold period' which at first 
+were so violently attacked, are now already sold, and 
+so I have practically nothing left of it." In 1938 Kandinsky 
+stated that to call such a creative painting an "abstrac- 
+tion" was wrong, but that unfortunately this erroneous 
+term was now introduced. To this Hilla Rebay replied, 
+"It can be changed." As the word was the beginning of 
+creation, it should be respected for its meaning. How 
+can absolute forms become abstracted? Kandinsky also 
+said and wrote, that he had used the word "non-objec- 
+tive" already in 1910, in his first autobiography, and 
+that the denial in the word "non-objective" is needed at 
+a fime, when people are trained to detect objects as an 
+essential part of Art; they therefore wish to look for title 
+and subject, before even seeing a painfing as such. Yet 
+the denial in the word "NON" informs the onlooker at 
+once not to search for any earthly representation. This 
+intellectual reaction is clearly forestalled by the "NON," 
+while only those people are attracted whose artistic souls 
+search for art itself. In time to come this "NON" will not 
+be necessary, and these paintings can be simply called 
+creative paintings which they are. 
+
+
+
+
+^' 
+
+
+
+From 1914 to 1921 Kandinsky lived in Russia. Most of 
+the paintings from this epoch belong to the Russian 
+State and are not available at this time. 
+
+His autobiography written in 1910, and which follows, 
+appeared in a German edition by Herwarth Walden, 
+in 1913. 
+
+In 1918 while Kandinsky was in Moscow, the Depart- 
+ment of Pictorial Art of the Peoples Commissariat of 
+Education published a revised edition of it which also 
+contained an addition by Kandinsky; and which he 
+called "Text Artista." 
+
+This Autobiography as well as the Culture Plan of 1920 
+(Schematic Plan of Studies and Work of the Institute 
+of Art Culture) were both recently translated from the 
+Russian and are also published by the Solomon R. 
+Guggenheim Foundation, upon the occasion of the 
+Kandinsky Memorial Exhibition from March 15th to May 
+15th, 1945 in the Museum of Non-objective Paintings. 
+
+Located at 24 East 54th Street, it houses the collection 
+of the Foundation temporarily, until Frank Lloyd Wright 
+has erected the permanent Gallery on Fifth Avenue 
+and 89th Street after plans just finished, and which 
+is to be built soon after the war. 
+
+
+
+20 J 
+
+
+
+
+\:/y 
+
+
+
+21 
+
+
+
+
+Photograph taken by Hilla Rebay of her parents, 
+showing the inn in Rothenburg, where Kandinsky 
+painted and which he describes in his biography. 
+
+
+
+22 
+
+
+
+RETROSPECTS BY WASSILY KANDINSKY 
+
+
+
+The first colors that made a strong impression on me 
+were light, juicy green, white, crimson red, black and 
+yellow ochre. These memories go back to the third year 
+of my life. I saw these colors on various objects which 
+are not as clear in my mind today as the colors 
+themselves. 
+
+Like all children, I passionately loved to "ride horse- 
+back." For this purpose, our driver cut spiral stripes 
+into thin rods, removing both rinds from the first spiral 
+cut and only the top rind from the second, so that my 
+horse generally consisted of three colors; the brownish 
+yellow of the outer rind (which I did not like and which 
+I would have liked to replace by another), the juicy 
+green of the second layer of the rind (which I par- 
+ticularly liked and which, even when acquiring a with- 
+ered look, still had something fascinating for me) and 
+finally the ivory-colored wood of the stick itself (which 
+had a happy smell that made me want to lick it; but 
+soon it withered, which from the very start spoiled my 
+pleasure in this white). 
+
+It seems to me that shortly before my parents went to 
+Italy (where I, as a three-year-old, and my nurse were 
+taken along), my grandparents moved into a new 
+apartment, I have the impression that this apartment 
+was still completely empty, that is neither furniture nor 
+people were in it. In a room that was not large, there 
+was only a clock on the wall. I stood in front of it, all 
+alone, and enjoyed the white of the dial and the 
+crimson red of the rose painted on it. 
+
+My nurse, who hailed from Moscow, was very much 
+surprised that my parents were making such a long 
+trip, just to admire "broken down buildings and old 
+stones": "We have enough of these in Moscow." Of 
+all these "stones" in Rome I only remember an unsur- 
+mountable forest of thick pillars, this terrible forest of 
+the St. Peter's Cathedral from which, it appears to me, 
+my nurse and I could find no way out for a long time. 
+
+And then Italy is colored into two black impressions. I 
+drive with my mother in a black coach over a bridge 
+(water below — I believe dirty yellow): I was brought 
+into a kindergarten in Florence. And another black — 
+steps into black water, on it a terrible, black, long boat 
+with a black box in the center: we go on a gondola at 
+night. Here too I develop a gift which makes me 
+famous "all over Italy," as I cry from the bottom of 
+my heart. 
+
+It was a piebald horse (yellow ochre body and light 
+yellow mane) in a game of horse race, which I and my 
+cunt* liked particularly. Here a strict routine was ob- 
+
+
+
+served: once I was allowed to have this horse under 
+my jockeys, and once my aunt. My love for such horses 
+has not left me to this day. It is a pleasure to me to see 
+such a horse in the streets of Munich; it appears every 
+summer when the streets are sprinkled. It arouses the 
+sun living within me. It is immortal because it has not 
+become older in the fifteen years I have known it. It 
+was one of my first impressions when I moved to Munich 
+before this time — and the strongest. I stopped and 
+followed it with my eyes for a long time. And a half 
+unconscious, but happy promise, touched my heart. It 
+aroused the little lead horse that was living within me 
+and connected Munich with the years of my childhood. 
+This piebald horse, suddenly made me feel at home in 
+Munich. As a child I talked much German (my grand- 
+mother, from my mother's side, came from the Baltic). 
+The German fairy tales which I had so often heard as 
+a child, began to take life. The high, narrow roofs of the 
+Promenaden Platz and the Maximilian Platz, which have 
+disappeared in the meantime, the old Schwabing, and 
+particularly the meadow which I once discovered by 
+chance, transformed these fairy tales into reality. The 
+blue tramway passed through the streets, like the air 
+in a fairy tale, taking on life, making breathing light 
+and happy. The yellow letter boxes at the corners 
+sang their songs like canary birds. I welcomed the in- 
+scription " K u n s t - muehle" and felt that I was in a 
+city of arts, which to me was the same as fairytown. 
+These impressions were the basis of the mediaeval 
+paintings which I made later. Following good advice, I 
+visited Rothenburg ob der Tauber. I will never forget 
+the constant changing from the express to the local 
+and from the local to the trolley with the grass covered 
+rails, the thin whistle of the long-necked locomotive, 
+the clatter and whining of the tired rails, and with the 
+old peasant, with large silver buttons, who insisted on 
+talking to me about Paris, and whom I could hardly 
+understand myself. It was an unreal trip. I felt as though, 
+counteracting all laws of nature, a magic power was 
+drawing me into the past, frbm one country to the other. 
+I leave the small (unreal) station and passing over a 
+meadow, I enter the gate. Gates, ditches, narrow houses 
+which hold their heads together down the entire lane, 
+and look each other deep into the eye, the giant door 
+of the inn, leading direct into the dark, mighty dining 
+room, from the center of which heavy, wide dark, 
+oak stairs lead to the rooms, and the sea of bright 
+red roofs which I see through the narrow window. 
+It was rainy all the time. High, round rain drops sat on 
+my palette, teasingly reached out their hands to each 
+
+
+
+* Elisabeth Tichejeff, who had a great, unforgettable influence on my life and my entire development. She was my mother's eldest sister 
+and played a great part in my education. However, also many other people, with whom she came in contact do not forget her 
+enlightened spiritual being. 
+
+
+
+23 
+
+
+
+other from afar, shivered and shook, suddenly and un- 
+expectedly they united, forming thin, clever cords, run- 
+ning quickly and gaily among the colors, slipping into 
+my sleeves here and there. I do not know where these 
+studies have gone. They have disappeared. Just one 
+picture remained of this trip. That is "the old village" 
+which, however, I only painted after my return to 
+Munich from memory. It is sunny and I made the roofs 
+as bright a red as I could at the time. 
+
+In this painting too I really was chasing after a certain 
+hour which always remained and will remain the nicest 
+hour of the Moscow days. The sun is already low and 
+has reached its greatest power, for which it was search- 
+ing all day long, to which it aspired the entire day. 
+This picture does not last long: but a few more minutes 
+and the light of the sun becomes reddish from effort, 
+redder and redder, first cold and then warmer and 
+warmer. The sun melts all of Moscow into one spot 
+which, like a mad tuba vibrates the spirit — the entire 
+soul. No, this red unity is not the nicest hour! That is 
+only the last note of the symphony which brings every 
+color to highest life, which lets all of Moscow ring like 
+the fff of a giant orchestra and forces it to join in. 
+Pink, lavender, yellow, white, blue, pistachio green, crim- 
+son red houses, churches — each a separate song — 
+the raving green grass, the deeper murmuring trees, 
+or the snow, singing with a thousand voices, or the 
+allegretto of the branches, stripped of their leaves, 
+the red, stiff, silent ring of the Kremlin wall and above 
+that, towering, everything like a note of triumph, like 
+an all-forgetting Hallelujah the white long, delicately 
+earnest line of the Ivan Weliky Bell Tower. And on its 
+high, stretched neck, striving upwards in constant search 
+of the heavens, is the golden head of the cupola, shin- 
+ing between the golden and colored stars of the other 
+Moscow cupolas. 
+
+To paint this hour, I thought, would be the most impossi- 
+ble and highest joy of an artist. 
+
+These Impressions repeated themselves every sunny 
+day. They were a pleasure which touched me to the 
+bottom of my soul, rising to ecstasy. And at the same 
+time, they were a torture, because I felt that art as a 
+whole, and particularly my powers as compared to 
+nature, were far too weak elements. Many years had 
+to pass before I came to the simple solution, through 
+feeling and thinking, that the aims (thus also the means) 
+of nature and art are essentially, organically, by the 
+laws of science, different from each other — and that 
+they are equally large and equally strong. This solu- 
+
+
+
+tion which today guides my work, which is so plain and 
+simply natural, destroys the unnecessary torture of the 
+unnecessary task which deep inside of me I had set for 
+myself, though it could not be fulfilled. It did away with 
+this torture, and the pleasure in nature and art thus 
+rose to untroubled heights. Since that time I have been 
+able to enjoy these two world elements to their full. 
+A joy, paired with the stirring feeling of thankfulness. 
+
+This solution released me and opened new worlds to me. 
+Everything "dead" vibrated. Not only the stars, moon, 
+woods and trees serenaded by the poets, but also a 
+stump lying in an ash tray, a patient white trouser but- 
+ton looking up from a puddle in the street, a willing 
+piece of bark trailed through the grass by an ant's 
+strong teeth to a certain place and for a certain pur- 
+pose, a calendar sheet, towards which the well-known 
+hand is extended, to forcefully tear it from the warm 
+companionship of the other sheets remaining on the 
+pad — everything shows me its face, its inner being, 
+the secret soul, which remains silent more often than it 
+speaks. Thus every quiet and every moving point 
+or line became just as alive and opened up its soul 
+to me. That was sufFicient for me to "grasp" with all 
+my being and all my senses the possibility and the ex- 
+istence of that art which today in contrast to "objec- 
+tivity" is called "non-objectivity." 
+
+But at the time when I was attending college and could 
+use only my free time for painting, I searched, in spite 
+of an apparent impossibility, for a "color chorus" (as 
+I called it) which I could retain on canvas and which 
+had come to me directly from nature, stirringly forcing 
+itself onto my very soul. I made desperate efforts to 
+express the full power of this resounding — and in vain. 
+
+At the same time my soul was constantly kept vibrating 
+by other, purely human emotions, so that I knew no 
+quiet hour. It was the time of the creation of an all 
+student organization which was to embrace the stu- 
+dents not only of one university, but of all Russian 
+universities, and in the end also the Western European 
+universities. The struggle of the students against the sly 
+and unveiled University Law of 1885 continued con- 
+stantly. "Unrests," violations of the old liberal Moscow 
+traditions, the destruction by the ofFicials of organiza- 
+tions already in existence, our new organizations, the 
+subterranean thunder of the political movements, the 
+development of the initiative* of the students, created 
+constant new occurrences and thus made the soul sensi- 
+tive, receptive and particularly susceptive to vibrations. 
+
+
+
+*This own initiative is one of the happy, though much too little cultivated sides of a life pressed into rigid form. Every individual 
+(cooperative or personal) step brings results, because it shakes the rigidness of the state of life — irrespective of whether it shows 
+"practical" results or not. It forms the atmosphere of criticism of common occurrences which, through dull habit continue to harden the 
+soul and make it immovable. This is the reason for the dullness of the masses, about which freer spirits, always have reason to complain 
+bitterly. It was the intention to create the cooperative organizations in such a way, that their statutes were as loose as possible, so that 
+they would be more inclined to adjust themselves to anything new and not keep to precedence as much as was formerly the case. 
+Every organization is to be considered merely as a stepping stone to freedom, as a band which is still needed, but which is to be 
+as loose as possible and does not hinder the great strides to further development. 
+
+
+
+24 
+
+
+
+Luckily, politics did not completely embrace me. The 
+necessary power of absorption into the fine material, 
+called the "abstract," was practiced by me through 
+various forms of study. Besides the special field chosen 
+by me (economics which I studied under the guidance of 
+Prof. A. J. Tschuproff, the greatly gifted scientist, and 
+one of the most singular people that I met in my life) 
+other sciences powerfully attracted me, partly simulta- 
+neously, partly individually; Roman law (which en- 
+chanted me through its fine, conscious, highly refined 
+"construction," but which finally could not satisfy me, 
+the Slav, due to its cold, much too reasonable, unbend- 
+ing logic), criminal law (which particularly interested 
+me, and perhaps too much so, due to the then new 
+theory of Lombroso), the history of Russian law and the 
+law of the peasant (which in contrast to Roman law 
+won my great admiration and love as a release and 
+happy solution of the fundamental law*), the know- 
+ledge of ethnology, touching upon this study (which in 
+the beginning I thought would bring me to the soul 
+of the people). All these helped me to think in an 
+abstract manner. 
+
+All these sciences I loved, and to this day thankfully 
+remember the hours of enthusiasm, and perhaps inspi- 
+ration, which they gave me. However, these hours 
+faded upon my first contact with art, which alone had 
+the power of relieving me of the feeling of time and 
+space. The scientific work had never given me such 
+experiences, inner tension, creative moments. 
+
+Although, I found my powers too weak to feel justified 
+to dispense with my other duties and, as it appeared 
+to me at the time, to lead the unlimitedly happy life 
+of an artist. Besides, at that time, Russian life was par- 
+ticularly morose, my scientific works were appreciated, 
+and I decided to become a scientist. In economics, (the 
+subject chosen by me) I liked, besides the returns, only 
+the pure abstract form of thinking. Banking, the practi- 
+cal side of money matters were to me utterly repulsive. 
+However, there was nothing left to me but to also take 
+this part into the bargain. 
+
+At the same time I experienced two things which placed 
+a stamp on my entire life and which at that time stirred 
+me to the bottom of my soul. They were the French 
+Impressionistic exhibition in Moscow — particularly the 
+"hay stack" by Claude Monet — and a Wagner pres- 
+entation at the Hof Theater — Lohengrin. 
+
+
+
+Before that I knew realistic art only, really exclusively 
+Russian, often stood for a long time in front of Franz 
+Liszt's hand on his portrait by Repin, and the like. And 
+suddenly, for the first time, I saw a painting. The 
+catalogue explained to me that it was a hay stack. 1 
+could not recognize it. I felt embarrassed at this lack 
+of recognition. I also felt that the painter had no right 
+to paint so indistinctly. I had a dull feeling that the 
+object was missing in this painting. And I noticed with 
+surprise and consternation that the picture does not 
+only draw you, but indelibly impresses itself upon your 
+brain and unexpectedly, to its minutest detail, con- 
+stantly floats before your mind's eye. All this was un- 
+clear to me, and I could not draw the simple conse- 
+quences of this experience. The thing, however, that 
+was completely clear — was the unexpected power of 
+the palette, until now unknown to me, which surpassed 
+all my dreams. Painting acquired a fairytale-like power 
+and beauty. Unconsciously, however, the object as the 
+unavoidable element of a painting, was discredited. 
+All in all I had the impression that a small part of my 
+fairy-tale Moscow already existed on canvas.** 
+
+Lohengrin, however, appeared to me a full realization 
+of this Moscow. The violins, the deep notes of the con- 
+trabass, and particularly the wind instruments, to me 
+embodied the full power of the hour of dusk. In spirit 
+I saw all my colors — they stood in front of my mind's 
+eye. Wild, almost mad lines, appeared before me. I 
+did not dare use the expression that Wagner had 
+musically drawn "my hour." It became quite clear to 
+me, however, that art in general is much more powerful 
+than appeared to me and that on the other hand, 
+painting could develop the same powers that music 
+possessed. And the impossibility of myself discovering 
+these powers or at least finding them, embittered my 
+renunciation even more. 
+
+However, I was never, never strong enough to carry out 
+my duties in the face of everything, and I succumb to 
+the temptation that was only too great for me. 
+
+A scientific event, cleared one of the most important 
+impediments on this road. That was the further division 
+of the atom. The destruction of the atom to my soul was 
+equal to the destruction of the world. Suddenly the 
+heaviest walls broke down. Everything became uncer- 
+tain, tottering and soft. I would not have been surprised, 
+if a stone had dissolved in the air in front of me and 
+
+
+
+* After the "emancipation" of the peasants in Russia, the government gave them an economic self-administration which, unexpected to 
+most, awal&lt;ened the political instinct of the peasant and made him politically mature; also their own court where, up to certain limits, 
+judges chosen by the peasants settled disputes and were allowed to punish criminal acts. And here the people found the human 
+principle, to punish small offenses severely, and severe ofFenses lightly, or not at all. The peasant's expression for this is: "According 
+to the man." That is there was no rigid law made (for example, as in the Roman law — particularly jus strictum I) but a very flexible and 
+liberal form, which was not decided by appearance but solely by the spirit. 
+
+** The "Light and Air Problem" of the impressionists interested me very little. I always found that Intellectual conversations over this 
+problem, have very little to do with painting. The theory of the Neo Impressionist, which in the end talked about the effect of color and 
+left air alone, appeared much more important to me. In spite of that I first felt dully, and later consciously, that every theory which is 
+based on exterior means, represents only an individual case, at the side of which many other cases can exist by the same right; still 
+later I realized that the exterior grows from the inside, or is born dead. 
+
+
+
+25 
+
+
+
+became invisible. Science seemed to me to have been 
+destroyed; its most important basis was but an illusion, 
+on error of the scientists, who did not build their celes- 
+tial structures in enlightened light, with a steady hand, 
+stone by stone, but were rather feeling for truth, un- 
+guided in the dark, and blindly misinterpreted one 
+item as another. 
+
+As a child already I knew the tormenting, happy hours 
+of inner tension, promising to take on an incarnate form. 
+These hours of inner trembling, unclear longing, calling 
+for something we cannot understand, exercising pres- 
+sure on the heart during the day, filling the soul with 
+unrest, and during the night causing us to live through 
+fantastic dreams, full of horrors and joys. Like many 
+children and adolescents, I tried to write poems, which 
+I tore up sooner or later. I can remember that drawing 
+killed this condition, that is, it allowed me to live outside 
+of time and space, so that also I did not feel myself 
+anymore. My father* at an early age discovered my 
+love for drawing and allowed me to take drawing 
+lessons, when I was still in high school. 
+I remember, how I loved the material itself, how the 
+colors and crayons were particularly attractive, beau- 
+tiful and alive to me. I derived lessons from the mistakes 
+I made, almost all of which still affect me with their 
+original power. As a very small child I used water color 
+for a piebald horse; everything was finished, except 
+the hoofs. My cunt, who helped me paint had to leave, 
+and suggested, that I wait with the hoofs until she re- 
+turned. I remained alone in front of the unfinished pic- 
+ture and tormented myself with the impossibility of 
+putting the last bits of color on the paper. This last 
+piece of work seemed so simple to me. I thought, that 
+if 1 would make the hoofs real black, they would surely 
+be absolutely true to nature. I put as much black on the 
+brush as I could. One moment — and I saw four black, 
+disgusting, ugly spots, utterly foreign to the paper, on 
+the horse's feet. I felt desperate and horribly punished ! 
+Later I well understood the Impressionists' fear of black 
+and still later it cost me actual spiritual fear to put pure 
+black on a canvas. Such a child's misfortune casts a 
+long, long shadow on many years of its later life. 
+Further great impressions which I gathered during my 
+years at college and which again affected me for many 
+
+
+
+years, were the Rembrandts in St. Petersburg's Hermitage 
+and the trip to the Government District of Wologda, 
+where I was sent as ethnologist and jurist by the Im- 
+perial Institute for natural history, anthropology and 
+ethnography. I had a double duty: To study the peas- 
+ants' criminal law among the Russian people (to find 
+out the principles of primitive law) and to collect from 
+the fisher and hunter tribes of the gradually disappear- 
+ing Syrians, the remnants of their heathen religion. 
+Rembrandt deeply moved me. The great division of 
+Light and Dark, the blending of the secondary tones 
+into the larger parts, the amalgamation and consolida- 
+tion of these tones into these parts, which give a great 
+double effect at any distance, immediately remind- 
+ed me of Wagner's trumpets, opening to me en- 
+tirely new possibilities, super-human effect of the color 
+itself and particularly the intensifying of the power by 
+means of constellation, that is contrasts. I saw that every 
+large space in itself contained nothing mystic, that each 
+of these surfaces immediately betrayed its derivation 
+from the palette, but that this space actually achieved 
+a mystic power through the other space opposing it, so 
+that at first impression its derivation from the palette 
+appeared doubtful. However, it was not within my na- 
+ture to immediately apply a means observed. Uncon- 
+sciously I approached the strange pictures as I now 
+approach "nature"; I greeted them with respect and 
+deep joy, but felt that this was a power still strange 
+to me. However, on the other hand I felt rather uncon- 
+sciously that this great division of Rembrandt's gave 
+his pictures a quality which to that date I had never 
+seen. I felt that his pidures "lasted long" and explained 
+this to myself as being due to the fact that first I had 
+to constantly explore one part, and then the other. 
+Later I understood that this pariition or division magic- 
+ally produces an element which originally appeared 
+strange and inaccessible to painting — time**. 
+The paintings which I painted in Munich ten to twelve 
+years ago, were to receive this quality. I only made 
+three or four such paintings, during the course of which 
+I wanted to put an "endless" number of at first hidden 
+color tones into every part. They first had to appear 
+completely hidden***, particularly in the dark, and only 
+as time went on, show themselves to the carefully watch- 
+
+
+
+* With unusual patience my father, during my entire life, allowed me to follow my dreams and whims. When I was ten years old he tried 
+to have me assist him in making a choice of schools for me, between Real Gymnasium and the Latin Gymnasium; by describing the 
+differences between the two schools, he helped me to make my choice as Independently as possible. For many years he liberally 
+assisted me financially. When my life changed, he spoke to me as an older friend and never exercised the least bit of force upon me 
+in important matters. His principles of education were full confidence and friendly relations with me. He knows how thankful I am to him. 
+These lines should be a guide to parents who often try to forcefully push their children (particularly those gifted artistically) from their 
+proper walk of life and thereby make them unhappy. 
+**A simple case of the application of time. 
+
+*** During this time I acquired the habit of noting down individual thoughts. Thus was born "On the Spiritual in Art, "unconscious to me. 
+The notes piled up during a period of ten years at least. One of my first notes on the beauty of color in a painting, is the following: 
+"The splendor of color in a painting must strongly draw the observer towards it, and at the same time it must hide the deep rooted 
+essence." I meant the essence of painting, but not as yet in pure form (as I see it now), but the feeling, or the feelings of the artist, 
+which he expresses in painting. At that time I still labored under the delusion that the observer faces the painting with an open soul and 
+tries to hear a language known to him. There are such observers (that is no delusion), only they are just as rare as gold dust in the 
+sand. There are even some observers who, although they have no personal relation to the language of the painting, will face it and allow 
+it to take ahold of them. I have met such people during my life. 
+
+
+
+26 
+
+
+
+ing observer, first unclear and testingly, growing more 
+and more, with increasing "unearthly" power. 
+
+To my great surprise 1 found that I was working along 
+Rembrandt's principle. That was an hour of bitter dis- 
+appointment and gnawing doubt as to my own powers, 
+the doubt of a possibility of finding my own means of 
+expression. Soon it also appeared "too cheap" to me 
+to incarnate the element I loved most at that time, in 
+such a manner — the hiding, the time and the weird 
+unearthly. 
+
+At that time I worked particularly hard, often until late 
+at night, when I was interrupted in my work by complete 
+exhaustion and had to go to bed quickly. Days during 
+which I had not worked (seldom as they were !), I con- 
+sidered lost and tormented myself because of them. 
+When the weather was even fairly good, I painted one 
+or two hours every day, particularly in the old Schwab- 
+ing which at that time gradually developed into a part 
+of Munich. During the time of my disappointment in the 
+studio work and when I was painting from memory, I 
+particularly painted a lot of landscapes which, how- 
+ever, did not give me much satisfaction, so that later on 
+I only made paintings of a very few of them. I did not 
+consider the feeling of travelling with a paint box, with 
+the sensation of a hunter in my heart, as responsible, 
+as the painting of pictures in which at that time I already 
+semi-consciously, semi-unconsciously searched for the 
+composition. The word composition moved me 
+spiritually, and 1 made it my later aim in life to paint 
+a "composition". The word itself affected me 
+like a prayer. It filled me with awe. When painting 
+sketches, I let myself go. I thought little of houses and 
+trees, with my spatula I cut colored stripes and spots 
+on the canvas and let them sing as loud as I could. In 
+me the hour before dusk in Moscow resounded, in my 
+eyes was the strong, colorful scale of the Munich light 
+atmosphere, thundering in its shadows. Later, parti- 
+cularly at home, always deep disappointment. My 
+colors appeared too weak to me, too flat; the entire 
+study — a resultless effort to catch the power of nature. 
+How queer it was for me to hear that I was exaggerat- 
+ing the colors of nature, that this exaggeration makes 
+my paintings incomprehensible and that my only sal- 
+vation would be to learn to "break colors." The Munich 
+critics (who partly, particularly at first, were very 
+favorable towards me*), tried to explain the "splendor 
+of my colors" as due to Byzantic influence. 
+
+The Russian critics (who almost without exception at- 
+tacked me with unparliamentary expressions) found that 
+I was deteriorating under the influence of Munich Art. 
+At that time I saw for the first time how wrong, unin- 
+formed and unrestrained most critics go to work. That 
+
+
+
+explains the cold-bloodedness with which intelligent 
+artists accept the worst articles about themselves. 
+
+The inclination to "hide," to be hidden, saved me from 
+the detrimental side of folk art which I saw for the first 
+time in my travels in the Government District of Wologda, 
+on its true soil and in its original form. First I took the 
+train with a feeling that I was travelling to another 
+planet, then I travelled by boat for a few days along 
+the quiet and self-absorbed River Suchona;then in a 
+primitive coach through endless forests, between col- 
+ored hills, via swamps and sand deserts. I travelled 
+all alone, which was favorable to absorbing myself in 
+the surroundings and myself. During the day there was 
+often a scorching heat, and during the night a freezing 
+cold. I often think with thankfulness of my drivers 
+who constantly wrapped me warmer into my travelling 
+rug, which slid down repeatedly, due to the shaking 
+and jumping of the coach, which had no springs. I came 
+to villages where the entire population was suddenly 
+clad in grey, from top to bottom, and who had yel- 
+lowish-greenish hair and faces, or whose costumes 
+showed a multiple of colors, making them appear like 
+colored, living pictures running around on two legs. 
+I shall never forget the large houses, covered with 
+wood cuts. In these wonder houses I experienced some- 
+thing that has not repeated itself since. It taught me to 
+move into the picture, to live in the picture. I still 
+remember how I stepped into the room the first time 
+and instantly stopped, overcome by the unexpected 
+picture. The table, the benches, the large oven, so im- 
+portant in a Russian peasant house, the closets and 
+every article were painted with colored, large orna- 
+ments. Folk art on all the walls; a hero, representing a 
+symbol, a battle, a painted folk song. The "red" corner 
+("red" is ancient Russian and means the same as "beau- 
+tiful") completely and closely covered with painted and 
+printed pictures of saints; in front of this, a small red 
+hanging lamp, which burned and flourished like a 
+knowing, discreetly low talking, modest, for and in itself 
+living proud star. When flnally I entered the room, I felt 
+myself surrounded on all sides by the painting, into 
+which I had thus penetrated. The same feeling was 
+dormant in me up to that time, unconsciously, when I 
+was in the churches in Moscow, and particularly in the 
+main dome of the Kreml. During my next visit to these 
+churches, after my return from this trip, the same feeling 
+within me became fully clear and alive. Later I often 
+had the same experience in the Bavarian and Tyrolean 
+Chapels. Of course, every time the impression was 
+colored entirely different, because completely differ- 
+ent parts formed this impression: Church ! Russian 
+Church! Chapel! Catholic Chapel! 
+
+
+
+* Even today my critics can see talent in my older paintings, which is a proof of their weakness. In later ones, and the latest, they find 
+confusion, a dead end road, a decline and often deceit which is a good proof of the constantly increasing power of these paintings. Of 
+course, here I do not speak of the Munich critics alone: for them — with few exceptions — my books are malicious bungling. It would 
+be too bad, if this judgment were different. 
+
+
+
+27 
+
+
+
+1 did much sketching of these tables and various orna- 
+ments. They were never paltry and were painted so 
+strongly that the object dissolved within them. This 
+impression, too, became clear to me only much later. 
+
+Probably for no other reason than through these im- 
+pressions, my further wishes took shape within me, 
+objectives of my own power. I have for many years 
+looked for the means of letting the observer "walk" 
+into the painting, to force him to the self-erasing dis- 
+solution with and within the picture. 
+
+Sometimes I even succeeded: I saw it in the observer. 
+From the unconsciously intended effect of painting on 
+the painted object, which can dissolve itself through 
+such painting, I further developed my ability of 
+overlooking the object also within the painting. 
+Much later, when I was already in Munich, I was en- 
+chanted by an unexpected view in my studio. 
+
+It was the hour of approaching dusk. I returned home 
+with my paint box after making a study, still dreaming 
+and wrapped into the work completed, when suddenly 
+I saw an indescribably beautiful picture, imbibed by an 
+inner glow. First I hesitated, then I quickly approached 
+this mysterious picture, on which I saw nothing but 
+shapes and colors, and the contents of which I could 
+not understand. I immediately found the key to the 
+puzzle: it was a picture painted by me, leaning against 
+the wall, standing on its side. The next day, when there 
+was daylight, i tried to get yesterday's impression of 
+the painting. However, I only succeeded half-ways: on 
+its side too, I constantly recognized the objects and 
+the fine finish of dusk was lacking. I now knew fully 
+well, that the object harms my paintings. 
+
+A frightening abyss, a responsible load of all kinds of 
+questions confronted me. And the most important: what 
+should replace the missing object? The danger of orna- 
+mentation stood clearly before me, the dead make- 
+believe existence of schematical forms could only 
+repulse me. 
+
+Only after many years of patient working, strenuous 
+thinking, numerous careful attempts, constantly devel- 
+oping ability to purely and non-objectively feel artistic 
+forms, to concentrate deeper and deeper into this end- 
+less depth, I arrived at the artistic forms, with which 
+I am now working, at which I am now working and 
+which, I hope, will develop much further. 
+
+It took very long before the question "What should 
+replace the object?" received a proper reply from 
+within me. Often I look back into my past and am 
+desolate to think how much time I have lost in answering 
+this question. I have only one consolation: I could never 
+get myself to use a form which was created within me 
+through the application of logic — not purely feeling. 
+I could not think up forms and I am repulsed when I see 
+such forms. All forms that I ever used came "of their 
+own accord," they appeared in finished form before 
+my eyes, and it was only up to me to copy them, or 
+
+
+
+they already shaped themselves, while I was working, 
+often surprising me. As the years went by, I have 
+learned to somewhat control this ability of shaping. 
+I have trained myself not to just let myself go, but to 
+check and guide the force workinig within me. As the 
+years went by I learned to understand that working 
+with a quickly beating heart, with pressure on the chest 
+(and thus later aching ribs) and tension of the entire 
+body, cannot suffice. It can, however, only exhaust the 
+artist, not his task. The horse carries the rider with 
+strength and speed. But the rider leads the horse. 
+Talent brings the artist to great heights with power 
+and speed. 
+
+The artist, however, guides his talent. That is the ele- 
+ment of the "conscious," the "calculating" in his work, 
+or what else you wish to call it. The artist must know 
+his talent through and through and, like a smart busi- 
+nessman, not let the smallest part rest unused and 
+forgotten. He must rather utilize, develop every single 
+piece up to the maximum possibility existing for him. 
+This training, development of talent, requires great 
+ability to concentrate, which on the other hand tends 
+to diminish other abilities. I observed this clearly on 
+myself. I never had a so-called good memory: I was 
+particularly always unable to memorize numbers, names 
+and even poems. The tables of multiplication always 
+offered me unsurmountable difficulties, which I have not 
+overcome to this date and which got my teachers des- 
+perate. From the very start I had to utilize the optical 
+memory. Then it went better. In the state examination 
+in statistics I quoted an entire page of figures only be- 
+cause in the excitement I saw this page in front of me. 
+Thus, already as a boy, I was able to, at home, paint 
+by heart paintings, which had particularly fascinated 
+me in exhibits, as far as my technical abilities per- 
+mitted. Later I often painted a landscape better "by 
+heart" than from nature. Thus I painted "The Old 
+Village" and later made many colored Dutch and 
+Arabian drawings. Thus, in a long street I could name 
+all stores, without making a mistake, because I saw 
+them in front of me. Fully unconsciously I constantly 
+saturated myself with impressions and at times so in- 
+tensively and so incessantly, that I felt how my chest 
+was cramped and breathing became heavy. I became 
+so overtired, overstuffed, that I often thought with envy 
+of clerks, who could rest completely after their work. 
+I longed for dull quiet, for eyes, which Boecklin called 
+"porter's eyes." However, I had to see constantly. 
+A few years ago I suddenly noticed that this ability 
+had decreased. First I was very much frightened, but 
+later I understood that the powers which enabled con- 
+stant observation had been guided along other roads, 
+due to my improved ability to concentrate, and that 
+they fulfilled other purposes, much more important to 
+me now. My ability to absorb myself with the inner life 
+of art (and thus also my soul) increased so intently, that 
+I often passed outside objects without noticing them, 
+something that could not have happened before. 
+
+
+
+28 
+
+
+
+As far as I understand, I did not mechanically force 
+myself to this ability — it always lived organically 
+within me, but in embryonic form. 
+
+As a thirteen or fourteen year old boy I bought a paint 
+box with oil colors with money I had slowly saved up. 
+The feeling I had at that time — or better: the ex- 
+perience of the color coming out of the tube, is with 
+me to this day. One pressure of the fingers and cheer- 
+ing, solemn, meditating, dreaming, wrapped up in 
+themselves, with deep seriousness, with bubbling roguish- 
+ness, with a sigh of relief, with the deep sound of sor- 
+row, with obstinate — power and resistance, with re- 
+silient softness and devotion, with tenacious self-control, 
+with pathetic unstabieness of balance, one after the 
+other of these unique beings that we call colors, ap- 
+peared — each alive within itself, independent, equipped 
+with all kinds of qualities for further independent life. 
+And willing at any moment, to submit to new combina- 
+tions, to mix among themselves and create endless rows 
+of new worlds. Some lied there as already exhausted, 
+weakened, hardened, dead forces, living reminders of 
+past possibilities, not decreed by fate. As in strife, as 
+in battle fresh forces appear from the tube, replacing 
+the old ones. In the center of the palette there is a 
+unique world of remnants of colors already used, wan- 
+dering far from this source to build the necessary 
+creations on canvas. Here is a world which arose from 
+the will, to create the pictures already painted and by 
+coincidence, the obscure game with forces unknown to 
+the artist. And I owe much to these coincidences: they 
+have taught me more than any teacher or master. I 
+studied them often with love and admiration. The 
+palette, (consisting of the elements mentioned and which 
+in itself is a "creation," often more beautiful than any 
+masterpiece), be praised for the pleasures which it 
+grants. Often it appeared to me that the brush which 
+with unbending will power tore pieces from this living 
+color creation, brought forth musical notes as it tore 
+away the pieces. Sometimes I heard a hissing of the 
+mixing colors. It was like an adventure that you could 
+hear, in the secret kitchen of the mysterious alchemist. 
+
+Later I heard that a very famous artist had said (I do 
+not remember who it was) "In painting one look at the 
+canvas, half a look at the palette and ten at the 
+model." It sounded very nice, but I soon found that in 
+my case it would have to be the other way around: 
+Ten looks at the canvas, one at the palette, half a look 
+at nature. Thus I learned to fight with the canvas, to 
+learn to know it as a creature resisting my wish (dream) 
+and to forcefully submit it to my wish. First it stands 
+there like a pure, chaste virgin with clear eye and with 
+heavenly joy — this pure canvas which itself is as beau- 
+
+
+
+tiful as a painting. And then comes the wishful brush 
+conquering it here and there and finally with all its 
+energy, like a European colonist penetrating the wild 
+virgin nature which no one to date has touched, using 
+the axe spade, hammer and saw to shape her accord- 
+ing to his wishes. I gradually learned not to see the 
+I obstinate, white tone of the canvas, to notice it only as 
+a matter of seconds (to check myself), instead of see- 
+ing in it the tones that are to replace it — thus one 
+thing slowly followed another. 
+
+Painting is a thundering collision of different worlds in- 
+tended to create the new world v/ithin and out of their 
+strifes. This new world is the painting. Technically every 
+masterpiece is created as the cosmos was — through 
+catastrophies which in the end create a symphony, a 
+symphony of spheres from the chaotic noise of the 
+instruments. The creation of masterpieces is the cre- 
+ation of worlds. 
+
+Thus these feelings of colors on the palette (and also 
+inside the tubes, which resemble humans rich in soul but 
+modest looking, who suddenly in case of need uncover 
+and utilize their powers so far hidden) became spiritual 
+experiences. These experiences became the bases of 
+the ideas which already began to consciously collect 
+themselves within the past ten to twelve years and 
+which lead to the book "On the Spiritual in Art." This 
+book wrote itself more than I wrote it. I wrote down 
+certain experiences which, as I found later, had a cer- 
+tain organic connection. I felt increasingly and con- 
+stantly clearer that it is not the "formal" that is important 
+to art, but the inner desire (content) which imperatively 
+decides the formal. A step in this direction — which, 
+however, took a disgracefully long time, was the prob- 
+lem of solving the question of art on the basis of inner 
+necessity, which was capable of overthrowing all known 
+rules and barriers at any time. 
+
+Thus to me the realm of art constantly departed more 
+and more from the realm of nature, until I could handle 
+both, as two completely difFerent realms. This I accom- 
+plished fully only this year. 
+
+Here I might touch on a recollection which at the time 
+of its occurrence was a source of pain to me. When I 
+came to Munich from Moscow, with the feeling of a 
+resurrection, the forced labor behind me, the enjoyable 
+labor before me, I soon encountered a limitation to my 
+freedom which, at least for a time, though in a new 
+form, made me a slave — working from a model. 
+
+I saw the then very famous school of Anton Azbe* 
+closely crowded. Two or three models "sat for heads" 
+or "stood as nudes." Pupils of both sexes and various 
+nationalities, crowded around these ill smelling, indif- 
+
+
+
+* Anton Azbe was a gifted artist and a rare and kind person. Many of his numerous students studied with him free of charge. His 
+constant reply to the excuse that someone could not pay, was "Just work dilligently !" He apparently had a very unhappy life. You 
+could hear him laugh, but never see it; the corners of his mouth were hardly raised, his eyes always remained sad. I do not know 
+whether anyone knew the secret of his solitary life. And his death was just as solitary as his life; he died all alone in his studio. 
+In spite of his very great income he left only a few thousand Marks. Only after his death it became known ,how liberal he had been. 
+
+
+
+29 
+
+
+
+ferent, expressionless, generally unprincipled, beings, 
+malting 50 to 70 pfennigs per hour; carefully, with a 
+quiet, hissing noise, they covered the paper or canvas 
+and tried to anatomically, constructively and characteris- 
+tically copy these beings, that did not concern them in 
+the least. By cutting over the lines, they tried to bring 
+out the connection of muscles, by utilization of special 
+technique of space and line, they tried to model the 
+nostril, the lips, to build the entire head along the 
+"principle of the ball" and, as appeared to me, they 
+did not think of art for a moment. The principle of lines 
+in a nude sometimes interested me very much. Some- 
+times, hov/ever, it was repulsive to me. In some positions 
+of certain bodies I felt a repulsive effect of lines and 
+energetically had to force myself to reproduce them. 
+I was almost always fighting myself. Only outside, on 
+the street, I could breathe freely again. Often I suc- 
+cumbed to the temptation, of staying away from school 
+and with my paint box catch the Schwabing, the English 
+Garden or the Isar parks, according to my own con- 
+ception. Or I stayed at home and tried to paint a pic- 
+ture by heart, from studies or imagination. These paint- 
+ings did not have too much to do with the laws of 
+nature. Colleagues therefore often thought me lazy or 
+not too gifted, something that sometimes hurt me deeply 
+because I clearly felt within me the love for my work, 
+the diligence and the gift. Finally I isolated myself in 
+these surroundings, felt like a stranger and with all the 
+more intensity absorbed myself in my wishes. 
+
+However, I considered it my duty to attend the course 
+in anatomy, something that I did conscientiously — even 
+twice. The second time I heard the temperamental and 
+vivacious course by Prof. Dr. Moillet. I drew the prepa- 
+rations, wrote down the lectures, smelled the air of the 
+corpses. However, I unconsciously felt annoyed when I 
+heard of the direct connection between anatomy and 
+art. It even insulted me — just as I once felt insulted at 
+a correction, that the trunk of a tree "must always be 
+shown as connected to the ground." There was no one 
+there who might have helped me over this feeling, the 
+entanglement in this darkness. It is true, that I never 
+approached anyone with my doubts. I find to this day 
+that such doubts must be solved alone within the soul; 
+otherwise one would desecrate one's own strong solution. 
+However, I soon found, that every head, even though 
+it may appear very "ugly" at the start, is a complete 
+beauty. The natural law of construction, which is mani- 
+fested so completely and indisputably in every head, 
+gave the head this sign of beauty. I often stood in front 
+of an "ugly" model and said to myself: "How smart." 
+And it is endless wisdom that is portrayed in every 
+detail; every nostril, for example, arouses in me the 
+same feeling of admiration as the flight of a wild duck, 
+the connection of the leaf and the tree, the swimming 
+of the frog — the beak of the pelican, etc., etc. This 
+feeling of admiration for beauty, for wisdom I also 
+received immediately in Prof. Moillet's lectures. 
+
+
+
+I had a dull feeling that I was sensing secrets of a realm 
+of its own. However, I could not connect this realm with 
+the realm of art. I visited the old Pinakothek and no- 
+ticed that not a single one of the great masters had 
+achieved the exhaustive beauty and wisdom of the 
+natural model: nature itself remained untouched. It 
+appeared to me at times that it was laughing at these 
+efforts. Much more often, however, it appeared "divine" 
+to me in an abstract sense: it wrought its creation, it 
+went /7s way to its aims which disappear in the mist, it 
+lived within its realm, and I was strangely outside of it. 
+What is its relation to art? 
+
+When some of my colleagues saw the work I had done 
+at home, they termed me a "colorist." Some maliciously 
+called me the "landscape painter." Both hurt me, al- 
+though I realized the justification of these terms. All the 
+more so! I actually sensed that I felt much more at 
+home in the realm of colors than in that of drawing. 
+I did not know how to help myself in the face of this 
+threatening evil. 
+
+At that time Franz Stuck was "the foremost painter in 
+Germany" and I went to him — unfortunately only 
+taking my school work. He found everything pretty 
+badly distorted and suggested that I work for a year 
+in the drawing class at the academy. I failed in the 
+examination, something that only made me angry, but 
+did not discourage me. In this examination drawings 
+were passed which I rightfully considered stupid, un- 
+talented and void of any knowledge. After working at 
+home for a year I went to Franz Stuck for the second 
+time — this time only taking along drafts of drawings 
+and paintings which I had not as yet been able to 
+complete; I also took a few studies of landscapes. He 
+accepted me for his painting class and when I asked 
+him about my drawing, I was told that it was expres- 
+sive. Already when I did my first work at the Academy, 
+Stuck energetically opposed my "extravagance" of 
+colors and suggested that I first draw in black and 
+white, so that I might only study the form. He spoke 
+surprisingly lovingly of art, the play of forms, the blend- 
+ing of forms and gained my full sympathy. 
+
+I only wanted to learn drawing from him, because I im- 
+mediately noticed that he was little receptive to color, 
+and I fully submitted to his advices. In the final analysis 
+I remember this year of working with him, although I 
+sometimes became very angry, with great thankfulness. 
+Stuck always spoke very little and sometimes not very 
+clearly. After the corrections I sometimes had to think 
+a long time over his remarks — but later I almost always 
+found them good. With one single remark he did away 
+with my serious handicap of being unable to finish a 
+painting. He told me that I worked too nervously, that 
+I consume all the interest at the start and spoil the in- 
+terest by the dry part which comes too late. He said: 
+"I wake up with the idea: today I have a right to do 
+this or that." This "I have a right to do" uncovered be- 
+fore me Stuck's deep love for art and his high respect 
+
+
+
+30 
+
+
+
+for it as well as the secret of serious work. And at home 
+I finished my first painting. 
+
+For many more years, however, I was like a monkey in 
+a net: the organic laws of construction wrapped them- 
+selves around me in my desires and it was only through 
+great pain, effort and attempts that I was able to 
+overthrow this "wall around art." Thus I finally entered 
+the realm of art, which is a realm of its own, the same 
+as that of nature, science, political life, etc., guided by 
+and through its own laws and which, with the other 
+realms together, in the end form that great realm which 
+we can only dully divine. 
+
+Today is the great day of one of the manifestations of 
+this realm. The associations and connections of these 
+individual realms were illumined as by a stroke of 
+lightning: they come forth from the darkness unexpect- 
+edly, frightening but as a blessing. Never were they 
+so strongly connected, never so strongly divided. This 
+lightning is the child of the darkening of the spiritual 
+heavens which hung over us black, suffocating and 
+dead. Here the great epoch of the spiritual begins, 
+the manifestations of the soul. Father — Son — and 
+Holy Spirit. 
+
+As time went on and only gradually I realized that 
+"truth" in general, and particularly in art is not an X, 
+not an always incompletely recognized but immovable 
+eminence, but that this eminence is movable and is con- 
+stantly in slow motion. Suddenly it looked to me like a 
+slowly moving snail, that hardly appears to leave its 
+place and leaves a sticky trail behind it, to which 
+near-sighted souls are glued. Here too, I first noticed 
+this important factor in art, and later I also saw in this 
+instance that the same law governs the other realms of 
+life as well. This motion in truth is very complicated: 
+The untrue becomes true, the true becomes untrue, some 
+parts fall off like the shell from a nut; for this reason 
+some mistake the shell for the nut, and bestow on this 
+shell the life of the nut, many fight over the shell and 
+the nut/olls on. A new truth falls as if from the heavens 
+and looks so precise, so stiff and hard, appears so 
+endlessly high that some climb on it, as though they 
+were climbing a long wooden pole, and they are sure 
+that this time they have reached the heavens . . . until 
+it breaks and the climbers fall, like frogs into a swamp, 
+into the dark unknown. Man is often like a beetle, held 
+by the back; in silent longing he moves his little arms, 
+reaches out for every blade that is reached out to him 
+and constantly believes that this blade is his salvation. 
+During the times of my "unbelief" I asked myself, who 
+is holding me by the back? Whose hand is holding the 
+blade in front of me, and drawing it back again? Or 
+am I lying on my back on the dusty, unconcerned earth 
+and am reaching for the blades that are growing 
+around me of their own accord? How often, however. 
+
+
+
+did I feel this hand on my back, and then another that 
+pressed itself on my eyes, so that I was in the deep of 
+night while the sun was shining. 
+
+Art in many ways resembles religion. This development 
+does not consist of new discoveries which do away with 
+the old truths and call them aberrations (as appears to 
+be the case in science). Its development consists of cer- 
+tain illuminations, resembling lightning, of explosions 
+bursting like fire crackers in the sky and strewing a 
+"bouquet" of numerous luminous stars around them. 
+This illumination shows new perspectives in a bright 
+light, new truths which basically are nothing but the 
+organic development, the organic growing of old wis- 
+dom which is not overruled by the new, but continues 
+to live and produce as wisdom and truth. The new 
+branch does not make the trunk of the tree superfluous: 
+it makes the growing of the branch possible. Would 
+the New Testament be possible without the Old? 
+Would our period of the threshold to the "third" mani- 
+festation be possible without the second? It is the 
+branching out of the original trunk, in which "every- 
+thing commences." And the branching out, the further 
+growth and the further complication which often ap- 
+pears confusing and despairing, are the necessary 
+steps to the mighty crown; the steps, which in the final 
+analysis make the tree. 
+
+According to his own words, Christ did not come to 
+overthrow the old law. When He spoke: "It was said 
+unto you . . . and I say unto you . . ." he brought the old 
+material law as that which had become his spiritual 
+law. In contrast to man at the time of Moses, man had 
+become capable at that time to understand and feel 
+the laws "do not kill," "do not commit adultery," not 
+only in the direct material form, but also the abstract 
+form of the sin of thought, the spiritual sin. 
+
+The plain, precise and hard idea, therefore, is not 
+overthrown, but is used as a step to further awakening 
+ideas. And these further, softer and less precise, and 
+less material thoughts, are like further, softer, new 
+branches, which pierce new holes into the air. 
+
+On Christ's scale the truth is not placed as an exteriorly 
+rigid fact, but as an inner, flexible one. Here lies the 
+root of the further re-evaluation of values, which unin- 
+terruptedly, that is also today, slowly continues to 
+create and at the same time is the root of spirituality 
+which we also gradually achieve in the realm of art. 
+During our time in a strongly revolutionary form. In this 
+way I finally came to the conclusion that I did not con- 
+sider non-objective painting a cancellation of all former 
+art, but only a vitally important elementary division of 
+the one old trunk into two main branches* from which 
+other branches grow, and which are essential for the 
+formation of the green crown. 
+
+
+
+* By these two main branches I mean two different ways of handling art. The virtuoso manner (which music has known as a special 
+approach for a long time and which in literature is equal to the art of acting) rests on the more or less personal conception and on 
+
+
+
+the artistic, creative interpretation of "nature." 
+
+
+
+(over) 
+
+
+
+31 
+
+
+
+From the very beginning I felt this fact more or less 
+clearly and was always annoyed by claims that I was 
+trying to overthrow the old form of painting. In my 
+works I never felt this desire to overthrow: in them I 
+only felt the innerly logical, exteriorly organical, un- 
+avoidable continued growth of art. Gradually I realized 
+the former feeling of freedom and thus the unessential 
+demands I made of art, gradually disappeared. They 
+disappeared in favor of only one demand: the demand 
+of i n n e r life in a painting. Here 1 noticed to my sur- 
+prise that this demand grew on the basis which Christ 
+set up as a moral qualification basis. I found that this 
+conception of art is Christian and that at the same time 
+it embodies the necessary elements for the receptive- 
+ness of the "third" manifestation, the manifestation of 
+the spirit.* 
+
+However, I consider it just as logical, that the coloring 
+of the object in painting makes great demands on the 
+inner spiritual life of the purely artistic forms, that is 
+that a development on the part of the observer is abso- 
+lutely essential, and can under no circumstances be done 
+without. Thus the conditions are created which bring 
+forth a new atmosphere. In this atmosphere, much, much 
+later, pure art will develop which draws us with irre- 
+sistible attraction in the dreams which today evade us. 
+
+As time went on I realized that my slowly further de- 
+veloped (partly conquered) tolerance of other works, 
+did not harm me in any way, that on the contrary it is 
+very favorable to the one-sidedness of my efPorts. For 
+this reason 1 would like to partly limit, partly enlarge 
+on the statement "The artist should be one-sided" and 
+say: "The artist should be one-sided in his work." The 
+ability to experience the works of others (which, of 
+course, happens and must happen in an individual way). 
+
+
+
+makes the soul more sensitive, more capable of vibra- 
+tion, enriching, widening and refining it and making it 
+more capable of doing its own work. Experiencing and 
+feeling the work of others, in a broad sense is the same 
+as experiencing nature. May and can an artist be deaf 
+and blind? I would say that one approaches his work 
+with even happier spirit and even more quiet glow 
+when one sees that other possibilities (which are in- 
+numerable) in art are properly (more or less) utilized. As 
+regards me personally, I love every form which ori- 
+ginated from the soul's necessity, was created by the 
+soul. Just as I hate every form that was not born that way. 
+I believe that philosophy in the future besides studying 
+the nature of things, will also study its spirit with great 
+care. Then that atmosphere will be created which will 
+in general give man the ability to feel the spirit of 
+things, to, even though unconsciously, experience this 
+spirit just as today most men unconsciously experience 
+the exterior of things, which explains the public's en- 
+joyment of representational art. This, however, enables 
+men in general to experience the spiritual in the ma- 
+terial things and later experience the spiritual in ab- 
+solute things. And through this new ability, which will 
+be in the sign of the "spirit," the enjoyment of absolute 
+art is developed. 
+
+My book "On the Spiritual in Art" and also "The Blue 
+Rider" had for its main objective the awakening of this 
+ability of experiencing the spiritual in the material and 
+in absolute things, an ability which will be absolutely 
+necessary in the future and will make possible endless 
+observations. The desire of arousing this blessed ex- 
+perience in those who were not already enjoying it, 
+was the main object of the two publications.** 
+
+
+
+(An important example — the portrait.) Nature is here also intended to mean an already existing work, created by someone else: the 
+virtuose masterpiece which grows out of this, belongs to the same class as a picture painted "from nature." As a rule, artists up to now, 
+suppressed the desire of painting such virtuose paintings, something that should be regretted. The so-called copy also belongs in this 
+class: the copyist tries to come as close to the foreign piece of work, as a very careful conductor treats a foreign composition. 
+
+The other category is the composition, where the work for the greater part, or exclusively, comes "from within the artist," as has 
+,for hundreds of years been the case with music. In this direction, painting has caught up with music, and both have a growing tendency 
+of creating "absolute" masterpieces, that is fully "objective wopks," which resemble the works of nature and as separate, individual 
+beings, grow "by themselves." These works are closer to that art which lives in the absolute and maybe they alone are designed to 
+represent this absolute art. 
+
+*ln this sense the Russian peasant law, previously mentioned, is also Christian and opposed to the heathen, Roman right. With daring 
+logic the inner qualification can be explained thus: this act is not a crime when committed by this man, while in general and in the 
+case of other people, it would be considered a crime. That is: In this case a crime is not a crime. And further: There is no absolute 
+crime. (What a contrast to nulla poena sine lege!) Still further: Not the deed (the actual), but the root (the abstract) creates the bad 
+(and good). And finally: Every deed is irrelevant. It stands on the border. The will gives it the push — it falls to the right, or to the left. The 
+exterior flexibility and the inner precision is greatly developed in this case among the Russian people and I do not believe that I 
+exaggerate, when I recognize a great ability in this direction among the Russians. 
+
+It is therefore not surprising, that nations, who have developed along the lines of the often valuable principles of the formal, outwardly 
+very precise Roman law and spirit, (remember the jus strictum of former periods) shake their heads at Russian life or strongly criticize it. 
+In superficial observation, this life which appears extraordinary to the strange eye, merely manifests the outer flexibility, which is 
+considered unruliness, because the inner precision lies at a depth. That is the reason why the free thinking Russians show much more 
+understanding of other nations than is shown to them. In many cases this understanding turns to enthusiasm. 
+
+**My "Spiritual on Art" was written and had been ready in my desk drawer for several years. The possibilities of putting the "Blue 
+Rider" in practice, did not work out. Franc Marc opened the practical way for the first book. He also supported the second through 
+his fine, understanding and talented spiritual cooperation and help. 
+
+
+
+32 
+
+
+
+The two books were and are often misunderstood. They 
+are taken as "programs" and their authors are de- 
+scribed as theorists, artists who have become entangled 
+and perished in brain work. 
+
+Nothing, however, was further from me, than to appeal 
+to the intellect, to the brain. This task would have been 
+premature at this time and will confront the artists as 
+the next, most important and unavoidable aim (step) 
+in the further development of art. Nothing can and will 
+be dangerous anymore to the established spirit which 
+has taken strong roots;therefore the much feared mental 
+work in art will also not be able to harm it. 
+
+After our before-mentioned trip to Italy and after a 
+short return to Moscow, when I was barely five years 
+old, my parents and my aunt, Elisabeth Tichejeff,to whom 
+I owe as much as to my parents, had to move to Southern 
+Russia (Odessa) for reasons of my father's health. Here 
+I later attended the Gymnasium but always felt a tem- 
+porary guest in this city, which was strange to my en- 
+tire family. We never lost the wish" of being able to 
+return to Moscow and this city developed a longing in 
+my heart similar to that described in Tschechoff's "Three 
+Sisters." From my thirteenth year on, my father took 
+me with him to Moscow every year; and when I was 
+eighteen years old, I finally moved there with the feel- 
+ing that I had at last returned to my home. My father 
+hails from Eastern Siberia where his forefathers were 
+banished from Western Siberia for political reasons. 
+He was educated Jn Moscow and learned to love this 
+city no less than his home. His deeply human and loving 
+soul understood the "soul of Moscow" as well as the 
+Moscow exterior. It is always a pleasure to me to hear 
+when, for example, with solemn voice, he enumerates 
+the numerous old churches, calling them by their won- 
+derful old names. Doubtlessly, an artistic soul speaks 
+
+
+
+here. My mother was born in Moscow and embodied 
+in her the qualities which to me meant Moscow: ex- 
+terior striking, through and through earnest and strict 
+beauty, noble simplicity, endless energy, a combination 
+of great nervousness and striking majestic quiet and 
+heroic self-control, combining tradition with true liberal- 
+ism. Briefly — inhuman form the "white-stoned," "golden- 
+haired" "Mother Moscow." Moscow: the duplicity, the 
+complicacy, the greatest flexibility, the collision and 
+confusion in its outer appearance which in the end forms 
+an own, uniform portrait, the same qualities in inner 
+life, something that the strange eye cannot understand 
+(that is the reason of the many, many contradicting 
+opinions of foreigners regarding Moscow), which is so 
+extraordinary and in the end so simple — this entire 
+interior and exterior Moscow I consider the root of my 
+artistic ambitions. It is my artistic tuning fork. I have the 
+feeling that it was always thus and that as time went 
+on and due to the exterior formal advances I con- 
+stantly painted this "model" only with constantly stronger 
+expression, in fully new form and am painting it today. 
+The excursions which I have made here and there, off 
+this road, on the whole did not harm me, a few dead 
+signs, where I was exhausted and which I sometimes 
+felt represented the end of my work, on the whole were 
+starts and pauses, which enabled the next step. 
+
+In many things I must condemn myself, but to one I 
+always remained true — the inner voice, which de- 
+cided on my aim in art and as a result of which I hope 
+up to the last hour. 
+Munich, June 1913. KANDINSKY 
+
+
+
+Published 1913 in the Sturm edition: Kandinsky by 
+Herwarth Walden. 
+
+
+
+
+[» 
+
+
+
+33 
+
+
+
+
+POINTED AND ROUND 
+
+
+
+1935 
+
+
+
+34 
+
+
+
+
+WASSILY KANDINSKY 
+
+
+
+in 1938 
+
+
+
+35 
+
+
+
+WASSILY KANDINSKY 
+
+
+
+It is no exaggeration to affirm, that Kandinsky remained 
+most rigorously logical to himself of those painters 
+whose watchword at the start of the 20th Century pro- 
+claimed a renewal in the Art of painting. He achieved, 
+to an absolute degree, the pictorial revolution about 
+which there were so many discussions at the end of 
+the 19th Century. 
+
+Nevertheless, one is forced to realize that this profound 
+prophet and most thorough of theorists of the move- 
+ment of post-impressionistic revolt, remained less known, 
+and even today not yet listened to, than a number of 
+painters, who vulgarized his theories. While with the 
+help of commerce (so much avoided by Kandinsky) 
+they let their superficial mass production easily become 
+accessible to visitors through exhibitions in museums. 
+This very vulgarization was accompanied by an in- 
+credible concert of imprecations, insults, jeers, cries of 
+indignation, and even threats, of which one hears today 
+only belated echoes, diminished and without importance. 
+
+In the end, this renewal was only a regeneration of 
+form, a new organization of matter, a simple autopsy 
+of the third dimension; where form-problems were con- 
+sidered unconventionally and the surfaces were granted 
+a new value. No need to underestimate the consider- 
+able share of aesthetics which these artists contributed 
+to the patrimony of painting, it must be admitted that 
+their efforts toward an absolute art, favored a priori 
+the validity of the invisible reality as soucre of rhythmic 
+inspiration and as the subject of creation. If we should 
+recall that the word "Abstraction" indicates an opera- 
+tion of the mind by which we consider a particular 
+element of the so-called reality, we could even say, 
+that these painters were realists in the measure in 
+which they visionarily were inspired by such a reality, 
+in the degree of their personalities. 
+
+It is the domain of "pure effusion" which Kandinsky 
+chooses for his field of operation. For him, art "belongs 
+to the spiritual life." The problem of the painter is not 
+to reflect nature through the prism of his personality, 
+but to exteriorize intuitively the prism itself, where the 
+feelings are born, the evolutions of the artist, those 
+"vibrations of the human soul," in which Kandinsky sees 
+the most important source of aesthetic creation. The 
+story element, the charm of style in a painting are 
+non-pictorial accidents, the consideration of which be- 
+longs to an entirely different domain. Creative paint- 
+ings touch the spectators' heart, otherwise than by what 
+ordinarily is experienced, with objective paintings. It 
+is by its "inherent ordered" Rhythm that a Non-objective 
+canvas ought to move the one who looks at it, so as to 
+rouse the emergence of spiritual affinities between his 
+soul and that of the painter. What painting has to say 
+
+
+
+cannot be expressed in words, nor ranked in a material 
+category. A sort of osmosis on the mental plane ought 
+to take place, through which the spectator identifies 
+himself spiritually with the creator of such paintings. 
+Kandinsky cannot help scoffing at those who are in- 
+capable of this attitude. In his book, "On the Spiritual 
+in Art" (complete text in the works of the All Russian 
+Art Conference, St. Petersburg 1913) he writes: "Our 
+materialistic age has produced a type of spectator or 
+'connoisseur,' who is not content to put himself opposite 
+a picture and let it say its own message. Instead of 
+allowing the inner value of the picture to work on him, he 
+worries himself by looking for 'closeness to nature,' or 
+a 'meaning' or 'temperament,' or 'handling,' or 'Tonality,' 
+or 'perspective,' or what-not. His eye does not probe the 
+outer expression to arrive at the inner meaning." In 
+short, each picture is a challenge to the sensibility of 
+the spectator, daring him to join the painter on the 
+immaterial plane, which is his, and to taste the same 
+spiritual joys. In a letter, Kandinsky specifies the attitude 
+he asks of the public, explaining that the spectator must 
+learn to look at a picture as the graphic expression of 
+a spiritual force, and not as a representation of objects. 
+(A. J. Eddy, "Cubists and Post-Impressionism".) 
+
+Thus painting is the direct expression of a state of 
+mind, that is to say, a complexity of intuitive creative 
+feelings, varied and sometimes even contradictory; 
+conditioned by the formation of the artists' intelligence. 
+While certain progressive elements induce his life's 
+evolutionary advancement, through tragic or happy 
+influences, which reacting in profound intensity evolve 
+into strength the outline of his growing personality, this 
+entirety of spiritual conditions could not find its formal 
+equivalent in the earthly realm. To exteriorize it, by 
+applying it to natural forms, would be to corrupt it, 
+deprive it of innermost qualities and reduce it to such 
+small proportions as could be momentarily a surprising 
+and, at best, a news item. 
+
+The real problem of a painter is not that of the photo- 
+grapher, who strives to reproduce something he finds 
+worth to hold down, merely stamping it with^his trade- 
+mark of a personal choice in his pictorial selection. The 
+creative painter is somewhat similar to the musician, 
+who feels no task reproducing the sounds he hears 
+around him, but who, on the contrary, exteriorizes only 
+the creative rhythm while making audible such har- 
+monies, the painter makes such rhythm visible. A hearer 
+"will like" or "will not like" a piece of music, according 
+to whether or not it will find sympathetic echoes in his 
+soul. In any event, primarily the musician realizes his 
+expression of emotions in their pure state. He^finds the 
+means to communicate his intimate experiences to others 
+
+
+
+36 
+
+
+
+without having recourse to any static pretense of reality, 
+so as to sublime his intensities. While the painter was 
+forced to this by public need — before, at last, pho- 
+tography gave him the spiritual freedom enjoyed by 
+the musicians. In the case of the painter, this freedom 
+is expressed with the means of the elements of his art. 
+The composing of forms, tone values, colors, space 
+dimensions, which are combined according to their 
+pictorial counterpoint, relative only to the spiritual 
+sensibilities of the artists' creative receivership. 
+
+The creative painter of today cannot be satisfied by 
+representation, however artistic, in his desire to express 
+his inner life. He does not envy any more the ease of 
+freedom in music's incorporeal art. As so evidently the 
+painting's superior expression of inventive imagination 
+is more profound, more visionary and consequently of 
+far stronger, more lasting and ordering influence. With 
+rhythmic law of constructive counterpoint, he sets in 
+motion harmonies of color and form, in the given space. 
+In order to clarify the existing correlations of such in- 
+tense concentration of feeling and its pictorial creation, 
+Kandinsky tried in his treatise and culture programs to 
+undertake a profound study of the theoretic and tech- 
+nical elements of his art, to which he was almost too 
+close to see its importance. He was interested in the 
+fact that a classical French landscape painter of the 
+XIX Century, Henri Rovel, had declared "the laws of 
+harmony of painting and of music to be the same." 
+("Tendances Nouvelies," No. 35, quoted in "On the 
+Spiritual in Art.") Kandinsky was led to discover and 
+formulate the ideal, which constitutes the essential 
+of his art and renders the value to his theories on 
+painting. The revelation and use of the pictorial 
+counterpoint induces progress and opens the gate to 
+the contact with the infinite. 
+
+In music as in painting exists the rule of counterpoint 
+with which to create the lawful form element. Perfection 
+of such counterpoint in a Non-objective painting, rich of 
+thematical variety, provides it with the true mark of 
+genius. Without it, such a canvas presents just a collec- 
+tion of patterns or accidental sketches which are of 
+as much significance to art, as some accidental sounds 
+produced on a piano could be to a symphony. Also 
+into this category belong symmetrical decorations which 
+are as far from a creative invention as scales are able 
+to produce a sonata. It is by organization of the 
+subtle interaction, thc^t harmonious aesthetic coherence 
+gives evidence and power to any essential, spirited 
+message. It allows a painter to give the true measure 
+of his innermost evolution. In objective painting, this 
+integration, an aesthetic pleasure in itself, is not sought 
+for. Its results of research amplify the banality of 
+eternally boring repetition, and repetition of objects 
+depicted endlessly. The correlation which is estab- 
+lished in the mind of the spectator between the subject 
+of the picture and his own experience or memory of 
+that subject is not of any lasting interest. Therefore, 
+
+
+
+the representational painting over and over again tells 
+the same old story of landscapes, portraits, endlessly 
+banal still-lifes, which even could there be a change, 
+cannot but for a short moment hold our attention to 
+prevent the usual yawning, with which our reaction, 
+to pictorially so over-crowded existence has now- 
+adays become identified. The divine result of our 
+escape into the loftier realms of imagination, to eternal 
+relief, releases us to a spiritual freedom of endless 
+interest; here the varieties of frequencies are con- 
+stantly new, effective on those not blinded by earthly 
+boredom, of curiosity without surprises left. The non- 
+objective painting's unending possibilities of basic form 
+problems are beyond the static still-life of portraits. 
+Artistic forms have done away with the untruth of 
+pretense in perspective, deceit so easily taught, so 
+contrary to pictorial elements. 
+
+The spiritual element of counterpoint in creative paint- 
+ing constitutes the acme of aesthetic value. Kandinsky 
+defines thus its divers components: "The concord or 
+discord in various elements of a picture, the handling 
+of groups, the combination of veiled or openly ex- 
+pressed appeals, the use of rhythmical and unrhyth- 
+mical, of geometrical or non-geometrical forms, of con- 
+tinuity or separation — all these things constitute ma- 
+terial for counterpoint in painting." ("The Art of 
+Spiritual Harmony.") 
+
+In Kandinsky's work this counterpoint is undeniably the 
+dominant quality which gives to his pictures their force 
+of cohesion. It allows forms, extremely rich in their 
+almost unending variety, colors of strikingly daring or 
+dull tonality, to coexist in the space encompassed by a 
+frame. According to an inner rhythm, in which each of 
+these elements finds its relation to its neighbors, so as 
+a creation it is as unique as every human being. It is 
+the spiritual presence of such counterpoint, which gives 
+to Kandinsky's canvases this spiritual quality of validity, 
+whether past, present or future as this eternal value, 
+based on the immortality of all true aesthetic manifes- 
+tations of the soul. 
+
+Non-objective painting possesses the peculiarity of 
+evading the rules of past epochs. It obeys to the 
+superior law of the universe, the existence of which for 
+the artist has the power of sensorial postulate. Through 
+the omniscience of the artists' intuition and the subtlety 
+of his sensibility, he directs his faculties of exterioriza- 
+tion towards the spiritual domain which in reality is 
+theirs, of the degree in which they have assimilated the 
+ineffable mechanism, and which Kandinsky expressed, 
+by saying: "That which has no material existence can- 
+not be subjected to a material existence nor can it be 
+subjected to any material classification." Therefore, 
+that which belongs to the part of its spiritual message 
+in the picture, can only be received and realized by 
+the onlooker's feeling in meeting the artist's message 
+half way — by the simple message "to be enjoyed." 
+To be liked by some or disliked by others does not 
+
+
+
+37 
+
+
+
+change the superiority of Bach's music. Nor does the 
+personal likes or dislikes of critics or the public af- 
+fects the value of any art. 
+
+It is interesting to recall the chance incident, which set 
+Kandinsky on the track of his theory of Non-objective 
+painting. That evening in 1905, as he was entering 
+his studio, his gaze drawn to a picture in a dark 
+corner of the room. It conveyed great beauty, an al- 
+most mystical harmony of colors and surface. Kandinsky, 
+coming close to it, discovered that the picture was 
+standing sideways, consequently, what appealed to 
+him so much was no result of subjective influence, 
+evidently the purely pictorial effect of elements, there- 
+fore, could result in such really magical enjoyment. 
+This episode had a decisive influence in the evolution 
+of Kandinsky's painting. 
+
+What he had visualized before hazily now suddenly 
+became clear to his mind. At last he knew and felt 
+how he must paint; free of objective hindrance, so 
+harmful to the pictorial element. He now understood 
+that the object had no place in his pictures. 
+
+To eliminate it entirely was the stepping stone, to what 
+was to become soon the theoretic and practical renewal 
+of his art, if not of art itself. 
+
+Kandinsky wrote in 1935 to Hilla Rebay "It has always 
+been my convinction that this kind of painting at least 
+has no less possibilities than the objective — rather 
+more! I think absolutely: more! 
+
+"The great differences of the pictures must appear 
+sufficient even to the most 'stubborn skeptic' to shake 
+the mental prejudice against absolute form. Of course, 
+if the skeptic wishes to see. One can, if one wishes, be 
+blind even with open eyes. There are no remedies 
+against this. That in the evil conditions of our days, 
+culture and art suffer most, is more than correct. Luckily 
+we are not the only ones who see this clearly. Here 
+and there one hears voices today who speak energet- 
+ically of the lost feeling of honor, the disappearance 
+of the thirst for spirit, the devastating lack of interest 
+in matters of culture. Yet, today such voices are "voices 
+in a desert." As an unconvertible optimist 1 feel and 
+believe, that in the end their hopes will win. 
+
+When? is another question. Yet we are branded as 
+whimsey individuals and impractical people. But with 
+time soft drops of water work holes into the hard stone. 
+If we bear in mind that the present crisis is not only a 
+bank, economic and business crisis, but mainly a psy- 
+chosis, the soft drop turns into a hard drop and the 
+hard stone into a soft stone. Even this crisis is only a 
+small part of the much deeper reaching spiritual crisis." 
+
+"The creative power of us artists, which seemingly 
+today 'passes by life itself,' already today, like the 
+drop of water, gradually rebuilds the spiritual world. 
+I am not ashamed to make such a statement. So, long 
+live the future, long live 1935." 
+
+
+
+Kandinsky's interest in art and the things of the mind 
+had been awakened early in him by his father, who 
+was gifted with a real talent for drawing, and by 
+Elizabeth Tichejeff, his mother's older sister, to whom 
+he owes so much for his interest in music, folklore, literature 
+and "the profound essence of the Russian people." 
+
+For this reason Rural law especially interested him: To 
+study it he made a trip to the Northeast, to inform him- 
+self on pagan religion of the Syrienes. His travel im- 
+pressions in this picturesque Russian countryside, his 
+visits to peasant houses, with their brilliantly colored 
+interiors as his reactions to the vivid colors of the 
+Kremlin fill his eyes with the play of variations in 
+luminous or mysterious colors, which still may be found 
+in his early canvases. 
+
+At the termination of his law studies, Kandinsky got 
+the title of Attache of Jurisprudence at the Court of 
+Justice in Moscow. The University of Dorpat (Tartu in 
+Esthonia) offered him a professorship. The year is 
+1896; Kandinsky was thirty years old; he was at the 
+turning point of his life. So he took an irrevocable de- 
+cision: He abandoned a safe career and left for Munich 
+to study painting, "putting a final period to long studies 
+of preceding years." 
+
+Already in those days, the atmosphere of Munich was 
+very troubled. The struggle against modernism in 
+artistic expression was in full swing. Kandinsky first 
+studied at the school of Anton Azbe, who "of Slav 
+origin, was a gifted painter and a man of rare qualities 
+of the soul." He remained there two years, then he 
+finally was admitted to the Royal Academy in Munich 
+to study under Franz V. Stuck, who had the reputation 
+of being "the first draftsman of Germany." But the 
+instruction he received did not satisfy him. In 1902, he 
+opened his own art school, which he closed soon to 
+undertake a series of travels. These brought him in 
+contact with the many sides of movements by modern 
+painters in European countries. He thus familiarized 
+himself with Seurat, van Gogh, Cezanne, Matisse, 
+Delaunay, Gleizes, Picasso and other painters, between 
+1903 and 1908. In turn he visited Tunisia, Italy, Paris, 
+Berlin. His paintings did not show any marked influence 
+by the innovations of contemporary artists nor did they 
+reflect the atmosphere of countries through which he 
+passed. Kandinsky was so completely Russian that even 
+his later landscapes attested to the durable impression 
+caused by the variety of colors of his native land, 
+while other canvases showed by their almost primitive 
+style how close he was to the intensity of Russian folk's 
+art expression. 
+
+So he returned to Munich, where soon after occurred 
+the magical incident of the picture at dusk and through 
+it the realization of the superfluousness of the object 
+in any painting. It took two years in getting fully 
+crystallized. The canvases of this period, although still 
+abstractions of objects, use these primarily as structural 
+elements, while form and color dominated their ob- 
+
+
+
+38 
+
+
+
+jective inspiration. In 1910, he finished "Ueber das 
+Geistige in der Kunst," translated into English "On the 
+Spiritual in Art," a theoretical treatise on art. In it he 
+establishes the philosophical basis of Non-objective 
+painting; and it was published in 1912 in Munich, only 
+two years later, and 1914 in London, though incomplete. 
+
+The period from 1910 to 1914 is the one of the "Der 
+Blaue Reiter," ("Blue Rider") the name of a group de- 
+voted to the renewal of painting, which was formed by 
+Kandinsky, and in the orbit of which gravitated painters 
+like Franz Marc, August Macke, Paul Kiee and Jawien- 
+sky. At that time, about 1911, he exhibited his first 
+entirely Non-objective canvas and wildest controversy, 
+lies, insults, were started. While his renown was begin- 
+ning to spread among those, who were interested in 
+creativeness or opposed to it, his canvases started 
+feverish comments everywhere at their exhibitions. 
+
+The Armory show of 1913, a nucleus from the famous 
+Sonderbund exhibition in Cologne of 1912, brought to 
+New York by Marie Sterner, showed for the first time 
+also Kandinsky 's paintings, for one of which Alfred 
+Stieglitz paid $800, a sacrifice to him at that time, 
+when he became the first in the U. S. A. to own one of 
+these great paintings. These created a sensation, also 
+afterwards in Chicago, as later in London's Albert Hall. 
+There two improvisations by Kandinsky and a landscape, 
+were described as the best paintings there; the critic 
+added "the landscape is easier to interpret, but that 
+is all, and more." 
+
+Subsequently Kandinsky's "Improvisations" became 
+more definite, more logically ordered and more closely 
+knit in feeling and structure, as well as more surprisingly 
+beautiful in their opposing colors, more precise in their 
+equilibrium. Yet to call them "pure visual music," was a 
+term which Kandinsky disliked. 
+
+Yet the intense spontaneity of organized force in such 
+vast contrast to the lyrical tenderness of these paintings, 
+creates a vivid interplay. An artistic expression which 
+in later years is prevented, due to his advance in the 
+science of counterpoint, yet his theoretical research de- 
+veloped other problems in the Realm of space precision 
+and the composition so essential to the infinite appeal 
+of the paintings' serene quietitude. The period from 
+1922-1928 people called his cold period and again 
+he was abused for it. Soon enough these paintings 
+were in possession of private collectors who began to 
+realize his unerring strife for pictorial perfection. 
+
+Between 1914 and 1921, Kandinsky had lived in Russia. 
+Circumstances prevented him from doing much work, 
+and it is only by their darker colors that we distinguish 
+his canvases of the period 1914 to 1919, while all 
+these paintings contain the same lyrical poetry. In 1919 
+he finds, simultaneously used in her paper paintings 
+from Alsace by Hilla Rebay, and what later Bauer used 
+in his white fugue, the intense precision of intricate space 
+dimension, induced by the use of a cruel white or (as 
+
+
+
+Kandinsky did) of very light backgrounds. Such cruel 
+white does not permit the ease of modulating tone 
+values between forms, which hide vague tonal indecisions 
+of the realistic era paintings. 
+
+In 1918, Kandinsky was named member of the Art 
+Section of the People's Commissariat of Public Educa- 
+tion and professor of Aesthetic Science at the Academy 
+of Fine Art in Moscow. In 1919, he became Director of 
+the Museum of Pictorial Culture and as such founded 
+the Institute of Artistic Culture for which he wrote the 
+culture plan. In 1920, he was named professor at the 
+University of Moscow. In 1921 he created the Academy 
+of Artistic Science, of which he became Vice-President. 
+Also at this time did he organize for the government a 
+group of 43 museums destined to diffuse popular 
+culture. 
+
+Late in 1921, Kandinsky returned to Berlin, where at 
+the Wallerstein Gallery he exhibited canvases with 
+these light backgrounds and delicate colors often 
+sharply contrasted by decided black, as a constructive 
+counterpoint. Since 1923, he taught at the well-known 
+Bauhaus, first established in Weimar, later in Dessau. 
+When the authorities ordered its closing in 1933, 
+Kandinsky left that city via Berlin to finally settle down 
+in Paris, where he remained up to his recent death, 
+December 13th, 1944. 
+
+The pictures of the 1922-1928 period show the variety 
+of Kandinsky's talent. His painting frees itself more 
+and more by seeking and finding his inspiration entirely 
+in the sensibilities of the balance of space and that 
+of the absolute vision, which he recently called a con- 
+crete one after having taken complete possession of 
+his medium to express the intricacies "of pictorial tech- 
+niques." More and more Kandinsky's paintings give 
+evidence of his technical mastership. His continual 
+research to increase the infinite possibilities of Non- 
+objective painting never failed to proclaim the rhythmic 
+form ideal, which replaced the static one of the past. 
+That profound spontaneity with which he had created 
+from 1910-1919 extraordinarily rare masterpieces; of 
+such lyrical magic, as the famous "White Edge," the 
+gorgeous "Black Lines," "Red Spot," "Light Picture," 
+"White Center," as well as his compositions and 
+"Improvisations," with which his reputation attained 
+such immediate height. In his last years, height may 
+have easily returned to him when due to the sufiFerings 
+from the war turmoil, such deep emotions may have 
+been revived once his mastership of technique and 
+space-balance had freed him again, so as to enable 
+him to spontaneous intuitive reaction as a possibility. 
+Also as a possibility to overcome the deprivation and 
+terror of war, to which his very last years had been 
+exposed. His last paintings, from 1938-1944, unknown 
+to us here due to war-conditions, quite possibly 
+express again a great lyrical intensity. They were ex- 
+hibited in Paris in November and December, 1944, 
+during Kandinsky's last grave illness. This "enormously 
+
+
+
+39 
+
+
+
+successful" exhibition had to be extended after his 
+death, which occurred on December 13, 1944. 
+
+The profound truth of his theories impress to a grow- 
+ing degree, those, who are able to feel aesthetic 
+enjoyment through his paintings. The prophetic nature 
+of these paintings evokes and proclaims a spiritual 
+ideal which is to dominate a new era. When intuitive 
+evolution proclaims the right of mankind, it enters vision- 
+arily into the absolute domain of universal order, 
+directing culture to advance into the absolute, equalled 
+by civilization's increasing attainment to ease life on 
+the material side. 
+
+This constitutes the beginning of a new epoch of 
+Humanity, to which such a master as Kandinsky was 
+the unerring prophet. Aesthetic culture's practical 
+side is the one above all vicissitudes of social cross- 
+currents, which helps to break up materialistic urge, 
+until its enlightened spiritual reality is found to be the 
+unerringly safe and only protection of mankind. 
+
+Naturally, Kandinsky was profoundly conscious of the 
+revolutionary and messianic character of his art. To him, 
+the true artist is endowed with "a secret power of vision" 
+which makes him the standard bearer for all those, who 
+believe in the spiritual evolution of humanity. "Painting 
+is an art," he declares, "and is not a vague production, 
+transitory and isolated, but a power which must be 
+directed for the improvement and refinement of the 
+human soul." (On the Spiritual of Art.) He is violently 
+opposed to esoterism in art, which intends to monop- 
+olize the universal value of beauty, for the benefit of 
+a few intellectualists or a clique of false aesthetics. He 
+rebukes them for having lost sight of the educational 
+role of art and, having no message to impart, to extol 
+the importance of the exterior aspect of the work. "The 
+artist must have something to say, for mastery over 
+form is not his goal, but rather the adapting of form to 
+its inner meaning." (On the Spiritual of Art.) And to 
+those who try to divorce the artist from the time in 
+which he lives, Kandinsky says that their theory of "art 
+for art" is precisely, "this neglect of inner meaning" by 
+which "art becomes purposeless" because of "vain 
+squandering of artistic talent." 
+
+
+
+"Every work of art is the child of its age," is the affir- 
+mation by which Kandinsky starts one of his books. The 
+needs and aspirations of each epoch are reflected, 
+with diverse exact degrees, in contemporary aesthetic 
+manifestations. But these are not necessarily intelligible 
+to a great number of people, whose education, origin 
+or background have conditioned them to hang on to 
+an artistic conception out of date long ago and far 
+removed from present human evolution. The artist is 
+not really in advance of his age, as is currently said; 
+it is only the public who has not caught up with him. 
+For the creative artist, who by a super-normal percep- 
+tion is permitted to grasp and express clearly the yet 
+obscure, reacts particularly sensitive to his intuitive con- 
+tact with universal force which artistically expresses the 
+Creator of the All. To precisely diffuse the revelation 
+with which prophetically Kandinsky was favored, re- 
+sults in the realization that all that was the truth for 
+him, is bound to become the truth for All. As Kandinsky 
+said, "art which is capable of educating further, springs 
+equally from contemporary feeling. It is not only the 
+echo and mirror of it, but also has a deep and powerful 
+prophetic strength." (On the Spiritual of Art.) The 
+artistic appreciation of cosmic order beyond objective 
+representation gives to Non-objective painting the 
+capacity of extending such spiritual influence, which 
+increases with the passage of time — in sharp contrast 
+to any representation of everlastingly repetitious, 
+boring objective paintings which reached their last 
+limits; and are now being left behind. 
+
+Spiritual Resurrection through art responds in general 
+to the highest human ideals. Open to the influence of 
+harmony and balance it already opposes congealed 
+dead representation in their pretense of reality, hence- 
+forth without secrets. To give way to the dynamic 
+exteriorization of the absolute, in its fvital beautiful 
+essence. The so satisfied needs of empirical know- 
+ledge reveal the pure joys of intuitive perception. 
+For all that and for still more, future generations will 
+become more grateful than we can be to this great 
+master. We already feel indebted to him who was able 
+to rise above human nature, to probe with passion, 
+confidence and courage the mysterious waves of the 
+soul: Wassily Kandinsky. 
+
+
+
+
+40 
+
+
+
+
+
+
+CO 
+
+
+
+
+z 
+
+Ul 
+
+CO 
+
+Q 
+Z 
+&lt; 
+
+9 
+O 
+
+
+
+
+TING AS A PURE ART 
+
+
+
+BY WASSILY KANDINSKY 1914 
+
+
+
+CONTENT AND FORM: 
+
+The work of art consists of two elements: the inner 
+and the outer. The inner element, taken individu- 
+ally, is the emotion of the artist's soul. The emotion has 
+the ability of creating a basically corresponding 
+emotion in the observer's soul. 
+
+As long as the soul is connected with the body, it can 
+as a rule receive vibrations only through the medium 
+of feeling. The feeling, therefore, is a bridge from the 
+non-material to the material (Artist) and from the ma- 
+terial to the non-material (Observer). Emotion — 
+Feeling — Work of Art — Feeling — Emotion. 
+
+The inner element of a work of 
+art is its content. Thus spiritual vibration 
+must exist. If this is not the case, a work of art cannot 
+be created. That is, only a pretense can be created. 
+
+The inner element, created by the vibration of the 
+soul, is the content of the work of art. Without an inner 
+content no work of art can exist. 
+
+So that the content which first lives in an "abstract" 
+form maylbe shaped into a work of art, the second 
+element — the exterior — must serve to make it con- 
+crete. For this reason the content looks for a means of 
+expression, a "material" form. 
+
+Thus the work of art is an inseparable amalgamation 
+of the inner and outer element, the content and form. 
+
+The decisive element is that of the content. The 
+form is the material expression 
+of the abstract content. 
+
+The choice of the form is therefore decided by the 
+inner spiritual necessity which is the 
+only real unchanging law of art. 
+
+A work of art, which has been created in the afore- 
+mentioned manner is "beautiful." Thus a beauti- 
+ful work of art is a legitimate 
+combination of the two elements 
+of the inner and the outer. 
+
+This combination makes the work of art homogenous. 
+The work of art becomes an object. As a painting it 
+is a spiritual organism which, like all material organ- 
+isms, consists of many individual parts. These individual 
+parts, taken separately, are lifeless, like a cut-off 
+finger. The life of the finger and its appropriate effect 
+is dependent on its lawful connection with the other 
+parts of the body. The legitimate com- 
+bination is the construction. 
+
+Like the work of art, the work of nature is subject to 
+the same law: the law of construction. The individual 
+parts only become alive through the whole. 
+
+
+
+The endless number of individual parts in painting are 
+divided into two groups: 
+
+The drawn form and 
+The painted form. 
+
+The systematic and proper com- 
+bination of the individual parts 
+of both groups results in the 
+painting. 
+
+NATURE. 
+
+When we apply these two definitions (component parts 
+of the work of art and particularly the painting) to 
+individual works, we encounter the apparently coin- 
+cidental existences of strange component parts in the 
+painting. That is so-called n a t u r e . In our two 
+definitions nature was not assigned a place. How did 
+it get into the painting? 
+
+The origin of painting is the same as that of any other 
+art or any human act. It was purely practical. 
+
+If a savage hunter follows the game for days, he is 
+prompted by hunger. 
+
+If a royal hunter today goes on a chase, he is prompted 
+by pleasure. While hunger is a material value, is the 
+pleasure here an aesthetic value? 
+
+If a savage makes artificial noises for a dance, he is 
+prompted by sexual instinct. 
+
+When modern man goes to a concert, he does not 
+look for a practical auxiliary means in music, but for 
+pleasure. 
+
+Here too, the original physico-practical instinct has 
+become aesthetic. That means, here the original physi- 
+cal need has become a spiritual need. 
+
+In this refinement (or spiritualization) of the 
+simplest practical (or physical) means two results can 
+be observed throughout: the segregation 
+of the spiritual element from the physical and its 
+further independent development, thus 
+creating various forms of art. 
+
+Here, very gradually and constantly more and more 
+precise, the above-mentioned laws (of content 
+and form) interpose and finally create a 
+pure art from any transitory art. 
+That is a quite logical, natural growth, like the growth 
+of a tree. 
+
+PAINTING 
+
+The same procedure is noticed in p a i n t i n g . 
+First period. Origin: practical desire to retain 
+the perishable physical. 
+
+
+
+42 
+
+
+
+Second period, Development: the gradual 
+segregation from this practical purpose and the 
+gradual predominance of the spir- 
+t u a I element. 
+
+Third period, Aim: The reaching to the higher step 
+of p u r e a r t ; in it the remnants of practical 
+desire are completely segregated. It speaks in an 
+artistic language from spirit to spirit and is a realm 
+of artistic spiritual beings (subjects). 
+
+In today's position of painting we can 
+notice all three indications in various constellations 
+and degrees. The indication of development (the 
+second period) is the decisive one, i.e.: 
+
+First period: Realistic Painting (Realism 
+is understood here as it traditionally developed up 
+into the nineteenth century): Predominance of the in- 
+dication of origin — the practical desire, the perish- 
+able physical to be retained (portraits, landscapes, 
+painting of history in a direct sense). 
+
+Second Period: Naturalist Painting (in 
+the form of Impressionism, Neo Impressionism and 
+Futurism), the segregation from the practical purpose 
+and the gradual predominance of the spiritual element 
+(from Impressionism through Neo Impressionism to 
+Futurism constantly greater segregation and constantly 
+greater predominance). 
+
+In this period the inner desire to give the spiritual 
+exclusive importance is so intense, that the impressionist 
+"Credo" already says "The important thing in art is 
+not the 'what' (by which is not meant the artistic content 
+but nature) but the 'how'." 
+
+Apparently so little importance is attached to the last 
+remnants of the first period (Origin) that nature as 
+such is no longer fully considered. Apparently nature 
+was only considered the starting point, an excuse for 
+giving expression to the spiritual content. In any event, 
+these component parts of the "Credo" were already 
+recognized and proclaimed by the Impressionists. 
+
+In reality, however, this "Credo" is only a "pium 
+desiderium" of the painting of the second period. 
+
+If the choice of the object (nature) were immaterial 
+to this form of painting, it would not have to look for 
+any "motives". Here the object demands the treatment, 
+the choice of form does not remain free 
+but is dependent on the object. 
+
+If we exclude the objective (object) from a painting 
+of this period and thus leave only the purely artistic 
+in the painting, we immediately notice that this 
+objective (object) forms a kind of support without 
+which the purely artistic structure (construction) breaks 
+down due to lack of forms. Or it is found that after this 
+exclusion only completely indefinite, coincidental artistic 
+forms (in an embryo state), unable to exist by them- 
+
+
+
+selves, remain on the canvas. Thus in such painting 
+nature (the "what" in this sense of painting) is not 
+coincidental, but important. 
+
+This exclusion of the practical element, the objective 
+(nature) is only possible if this component part is sub- 
+stituted by another important component. And that is 
+the purely artistic form which can give the painting 
+the power of independent life and is capable of 
+lifting the painting to the height of a spiritual object. 
+It is evident that this important component part is the 
+above described and defined construction. 
+
+This substitute we find in the third period which is 
+beginning today: Compositional painting. 
+
+According to the beforementioned schedule of three 
+periods, we have therefore arrived at the third period, 
+which was designated as the aim. 
+
+In compositional painting which is 
+today developing in front of our eyes, we immediately 
+see: The distinguishing marks of the attainment of the 
+higher step in pure art, in which 
+the remnants of practical desire can be completely 
+segregated and speak a purely artistic language 
+from spirit to spirit, and which is a realm of graphical- 
+spiritual essence. 
+
+It will immediately be clear and unquestionable to 
+anyone, that a painting of this third period which has 
+no support in a practical purpose (of the first period) 
+or the spiritual content objectively supported (of the 
+second period), can only exist as a constructive being. 
+
+The today strong (and constantly stronger) appearing, 
+conscious or subconscious, effort of replacing the object 
+by construction, is the first step to the commencement 
+of pure art for the final attainment, for which the past 
+periods of art were unavoidable and legitimate. 
+
+Thus I have tried briefly to schematically discuss the 
+entire development and particularly the situation of 
+today. 
+
+That is why so many gaps had to be left open. That 
+is why I have mentioned nothing of detours and devia- 
+tions which are unavoidable in any development, such 
+as the side branches on a tree, though it is lifted to 
+the sky. 
+
+The further development which painting is facing, will 
+also suffer many contradictions, deviations — as was 
+experienced in music, which we today already know, 
+as pure art. 
+
+The past has taught us"^that the development of 
+humanity consists of the spiritualization of many values. 
+Among these values art occupies the first place and 
+painting is traveling the road which leads it from the 
+practical adequate to the spiritual adequate. From 
+the objective to the creative composition. 
+
+
+
+43 
+
+
+
+
+iS" 
+
+
+
+44 
+
+
+
+INDEX 
+
+a 
+
+page 
+
+Analysis on his "Composition No. 4" by Wassily Kandinsky, written in March 1911. 8 
+
+Analysis on his "Composition No. 6" by Wassily Kandinsky, written in early May 1913. 10 
+
+Analysis on "The White Edge" by Wassily Kandinsky, written in late May 1913. 15 
+
+The Period of 1910-1920, and the importance of "On The White Edge." 16 
+
+On the difference of Abstract and Non-Objective Painting and on "Composition No. 8." 18 
+
+Notes on Kandinsky 20 
+
+Retrospects by Wassily Kandinsky, written in 1910, 
+
+published by Herwarth Walden in a Sturm Edition 1913, of a monograph called "Kandinsky." 23 
+
+Wassily Kandinsky, written Spring and Fall 1944, completed after Kandinsky's death December 13th, 1944. 36 
+
+Painting as a pure Art by Wassily Kandinsky from: Expressionisms 1918, Sturm Edition. 42 
+
+
+
+REPRODUCTIONS IN BLACK AND WHITE 
+
+COMPOSITION No. 4 (1911) oil on canvas 160cm x 250cm Location unknown 9 
+
+COMPOSITION No. 6 (1913) oil on canvas 195cm x 300cm Property of the Soviet Government 10 
+
+
+
+REPRODUCTIONS IN COLOR 
+
+Watercolor, 1911, sketch to the "Composition No. A," 
+
+taken from the "Blue Rider," edited 1912 by Kandinsky. 8 
+
+The following paintings are owned by the Solomon R. Guggenheim Foundation, New York, 
+and permanently on view at the Museum of Non-objective Paintings, New York. 
+
+THE WHITE EDGE (1913) oil on canvas 55 x 75 17 
+
+COMPOSITION No. 8 (1923) oil on canvas 54 x 78 19 
+
+EXTENDED (No. 533, 1926) oil on wood 37 x 17 Cover 
+
+POINTED AND ROUND (1935) oil on cardboard 27 x 19 34 
+
+"RIGID AND BENT (1936) oil and sand on canvas 45 x 64 ^ 41 
+
+45 
+
+
+
+i&gt;C^ 
+
+
+
+
+&gt; 
+
+
+
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0055   0.0055      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0076   0.0021      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0131   0.0055     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0180   0.0049   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0184   0.0003    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0918   0.0734              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=91;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

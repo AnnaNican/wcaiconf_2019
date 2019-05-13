@@ -1,0 +1,2605 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Michael Singer"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/micsinger00wald">Michael Singer</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/micsinger00wald">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>MICHAEL SINGER 
+
+
+
+u &gt; 
+
+
+
+
+u-"~» 
+
+
+
+.— 
+
+
+
+I 
+
+
+
+
+f 
+
+4 
+
+
+
+
+
+
+
+
+
+
+MICHAEL SINGER 
+
+
+
+MICHAEL SINGER 
+
+
+
+b\ Diane Waldman 
+
+
+
+Plus exhibition 
+has been made possible 
+h\ Funds pro\ ided l&gt;\ 
+Barbara and I )ona!d .Inn. is 
+.iikI ,i grant from the 
+New York Si.it.- ( louncil 
+on tin- \rls 
+
+
+
+Solomon l\ Guggenheim Museum, New York 
+
+
+
+Library of Congress Cataloging in Publication Data 
+
+Waldman, Diane. 
+Michael Singer. 
+
+Bibliography: |&gt;|&gt;. 8 1 -82 
+
+1. Singer. Michael, 1945- — Exhibitions. I. Singer, 
+Michael. 1945- . II. Solomon R. Guggenheim Museum. 
+
+III. Title. 
+
+N6537.S56A4 1984 709'.2'4 84-1422 
+
+ISBN 0-89207-045-5 
+
+
+
+( lover 
+
+foreground: 
+
+'Cloud Hands Ritual Series 1983. 1985 
+( rranite and fieldstones, J(&gt; \ 105 \ 6 V 
+Collection of the artist, courtesj 
+Sperone Westwater, New York 
+
+background: 
+
+l-'irst Gate Ritual Series 19X2. 
+
+I982(cat. no. Mi) 
+
+Installation s lew. artist's studio. Vermont 
+
+
+
+Published In 
+
+The Solomon \\. ( ruggenheim Foundation, New York, 198 I 
+
+© The Solomon K. Guggenheim Foundation, New \ork. l')8 I 
+
+
+
+TRUSTEES 
+
+
+
+ADVISORY BOARD 
+
+
+
+THE SOLOMON K . GUGGENHEIM FOUNDATION 
+
+HONORARY TRUSTEES IN PERPETI I I 1 
+
+Solomon R. Guggenheim, Justin K Thannhauser, Peggy Guggenheim 
+
+president Peter (). L.awson-Johnston 
+VICE PRESIDENT The Right Honorahle Karl Castle Stewart 
+
+Anne L. Armstrong, Elaine Dannheisser. Michel David-Weill. Joseph \\ Dormer. Rohm (Chandler Duke. Robert 
+M. Gardiner. John Hilson, Harold VV Mc(iraw. Jr., Wendy L-J. McNeil. Thomas M. Messer, Seymour Sine. 
+Michael P. Wettach, William T. Ylvisaker 
+
+Barrie M. Damson. Susan Morse I lilies, Morton L. Janklow, Barbara Jonas, Denise Saul. Ilannelore Schulhof, 
+Stephen C. Swid 
+
+
+
+SECRETARYTREASl'RER Theodore (J. Dunker 
+STAFF Aili Pontynen. Assistant Secretary; Joy N. Fearon, Assistant Treasurer; Veronica M. O'Connell 
+
+DIRECTOR Thomas M. Messer 
+SOLOMON R. GUGGENHEIM MUSEUM 
+
+
+
+STAFF 
+
+
+
+LIFE MEMBERS 
+
+
+
+IN^ I III I IMS u. PATRONS 
+
+
+
+DEPUTY DIRECTOR Diane Waldman 
+ADMINISTRATOR William M. Jackson 
+
+Vivian F.ndicott Bamett. Curator; Lisa Dennison. Susan B. Hirschfeld, Assistant Curators; Carol Fuerstem. Editor; 
+
+Sonja Bay. Librarian; Ward Jackson. Archivist; Susan M. Taylor, Curatorial Coordinator; Lewis Kachur, Curatorial 
+
+\ssistant 
+
+Louise Averill Svendsen. Curator Emeritus 
+
+Cherie A. Summers. Registrar; Jane Rubin, Associate Registrar; Guillermo Alonso, Assistant Registrar; Stephanie 
+Stitt. Registrar's Coordinator; Saul Fuerstein. Preparator; William Smith. David M Veater, Myles Aronowitz, 
+Preparation Assistants; Pamela M. Cartmel, Technical Services Coordinator; Leni Potoff. Associate Conservator; 
+Elizabeth Estabrook. Conservation Coordinator; Scott A. Wixon, Operations Manager; Tony Moore, Assistant 
+Operations Manager; Takayuki Amano. Head Carpenter; Carmelo Guadagiio. Photographer; I )avid M. I bald. 
+Associate Photographer; Hollv Fullam. Photographv Coordinator 
+
+Minn Poser. Officer for Development and Public Affairs; Carolyn Porcelh. Ann Kraft. Development \ssoi lates; 
+Richard Pierce. Public Affairs Associate; Elizabeth K. Lawson. Membership Associate; Deborah J (ireenberg. 
+Public Affairs (Coordinator; Linda Gering. Development Coordinator; Veronica 1 lerman. Membership \ssistant 
+
+.•\giies R. Connolly, Auditor; Stefame Levinson. Sales Manager; Robert Turner. Manager, ( Cafe and ( Catering. Maria 
+
+\1.im intti. \ssistant Cafe Manager; Fred Lee. Assistant I C,iie Manager-Kitchen Preparation; (Catherine V\ Briggs, 
+
+Information; ( !hristopher ( I 'Rourke. Building Superintendent; Robert S Flotz. Set unt\ Supcrv isur. F.lbio Almirnn. 
+Marie Bradley. Assistant Security Supervisors II; John (Carroll, \ssistant Security Supervisor I 
+
+Rebecca 1 1 Wright. Jill Snyder, Administrative Wsistanls; Faith R S( lioniii k. \ssistant to the \dministratnr 
+
+Eleanor, Countess Castle Stewart, Mr. and Mrs. Barrie M Damson, Mi and Mrs Werner Dannheisser, William I 
+
+Edwards. Jr.. Mr. and Mrs \ndrcw P Fuller. Susan Morse Hilles, Ml and Mrs Morion I. Janklow. Mr and Mrs 
+
+Donald L. Jonas, Mr. and Mrs. Peter () Lawson-Jolmston, Mrs s uell Rosenman, Mi andMrs \n&lt;lnw M 
+
+Saul, Mr. and Mrs. Rudolph B. Schulhof, Mrs. Evelyn Sharp, Mra Leo Simon. Mr andMrs Stephen \ Simon, 
+
+Sidnej Singer. Jr.. Mr. and Mrs Stephen C Swid, Mrs Hilde 'I h.i mi ha user 
+
+Alcoa Foundation. Atlantic Ri&lt; hfield Poundation, Exxon ( '■&lt; rporation, Robert Wood Johnson Jr &lt; lharitable Trust, 
+
+Knoll International, Mobil ( Corporation. Philip Morns [m orporated 
+
+National Endowment for ihe Arts. National Endowment for the Humanities, Nets York State ( ouncilon the \ns 
+
+
+
+LENDERS TO THE EXHIBITION 
+
+
+
+Diane and Steven Jacobson, New York 
+Barbara and Donald Jonas, New York 
+Paine Webber Inc., New York 
+Felice and Edward J. Boss, New York 
+Michael Singer 
+Sidney Singer 
+
+Yale University Art Gallery, New Haven 
+
+Sperone Westwater, New York 
+
+
+
+\Ck\OU LEDGE \IK\TS 
+
+
+
+This exhibition would not have been possible without the support of Barbara and I )onald Jonas and 
+the assistance ol the New ^ork State Council on the Arts, for which I am deepk grateful. I am also 
+indebted to the National Endowment for the Vrts, Barbara and Donald Jonas and Diane and Steven 
+Jacobson for donating Funds lor the purchase In the Guggenheim Museum of Singer's Ritual Series 
+80, 81, 1980-81 . Ms si lucre thanks are expressed to those w ho have generouslj lent drawings to the 
+show and have therein significantl) contributed to its success. Acknowledgement is also due to 
+Sperone Westwater lor its important help in realizing the catalogue. 
+
+On behalf of Michael Singer I would like to thank .lake Colgan at ( irauiie Importers Inc., Barre, 
+Vermont: William Ma re row at Vermont Structural Slate Co., Inc., Fair Haven, Vermont; and Don 
+LaCroix at Dorse\ Memorials, \mhersl. Massachusetts, lor their special attention. The artist's ap- 
+preciation is also expressed to those who have assisted him. including Dick I )ax is. Chris George, 
+David Greenblatt, Tom Korns, Chris LaRosa, David Poses. Steven Siegel, Mark Shapiro and I )arrj I 
+
+Zeltzer. I lis special acknowledgement is made to \l«-&lt; Martin lor technical advice. 
+
+I greatlx value the efforts 'of Guggenheim Museum stall members towards the realization of both 
+the exhibition and the catalogue and would like to single out those who have been most centralh 
+involved. M\ special gratitude is owed to Susan Taylor, Curatorial Coordinator, who has worked 
+intelligent!) on all phases of the project; Carol Fuerstein, Editor, for her perceptive editing of the 
+catalogue; Diana Murphy, Editorial Assistant: Guillenno Alonso. Assistant Registrar; and BJquita 
+Stoutzker. 
+
+Finally, m\ deep appreciation is extended to Michael Singer; working with him has been both 
+an enjoyable and rewarding experience. 
+
+D.W 
+
+
+
+MICHAEL SINGER 
+by Diane Waldman 
+
+
+
+The first sculptures by Michael Singer to receive major exposure were exhibited at the Guggenheim 
+Museum in Ten Young Artists: Theodoron Awards in 1971 (cat. nos. 1,2). They consisted of steel or 
+milled wood beams placed in delicate, precarious balance. Although the works seemed casual in 
+construction, the equilibrium upon which they were based was the result of thoughtful deliberation, 
+experimentation and change. These apparently contradictory characteristics have continued to 
+preoccupy Singer over a thirteen-year span, during which time he has produced an impressive body 
+of indoor and outdoor sculpture, an accomplished series of drawings, site-related photographs and, 
+most recently, a portfolio of etchings and lithographs. 
+
+Central to the development of Singer's sculpture has been an exploration of the principles of 
+balance, movement and of the nature of materials. As I stated in the lexl accompanying the Theo- 
+doron exhibition: 
+
+To maintain a stable position in a straightforward manner. Singer has aligned a series of individual 
+units into constructions in which each segment is mutually interdependent on every other one. The 
+
+work is complicated to a further degree: nearly all his sculptures have the capacity for movement: 
+as a result a potential for disorder is imminent since no two poised elements are joined together. 
+Although Singer uses a number of different materials — wood, steel, rattan, etc. — he manipulates 
+them all to conform to a common vision. He imbues a weighty, solid material like steel with properties 
+of flexibility and lightness, thus making it appear no heavier than the rattan, whereas the rattan 
+seems equal in weight to the steel. 
+
+The act of motion within a single piece necessitates the presence of a participant ... [possibly] a 
+mere chance situation in which the piece is touched accidentally, for example, by the wind. II- 
+though the weight is evenly distributed, any overly forceful action can threaten the controlled state 
+of equilibrium,... With the introduction of motion there is a heightened awareness of the nature 
+of the material — as it is and as it is transformed into another context through a transcendence 
+of the medium. ' 
+
+The work ol these formative years evolved out ol the Minimalist aesthetic, which then dominated 
+advanced artistic circles. The cool aloofness thai characterized Minimalism is epitomized by Carl 
+Andre's floor- related pieces and Robert Morris's equally understated pale plywood sculptures. Sub- 
+sequently, Richard Serra challenged the Minimalist disengagement ol sculpture from spectator bv 
+proposing a more direct confrontation between viewer and object in his lead-prop pieces. The in- 
+fluence of Minimalism is visible in Singer's work in his choice of such materials as steel, bricks or 
+milled wood and in his reliance on these materials to dictate form. Yet Singer's sculpture lacked the 
+extremely rational ordering, the uniform emphasis and stability that characterized Andre's floor 
+pieces and Morris's sculpture, and the sootv, griltv aggressiveness of Sena's more Flamboyant work. 
+
+
+
+6g. 1 
+
+Robert Morris 
+
+Installation view, plywood sculptures, Green 
+
+Gallery, New York, 1964 
+
+
+
+
+Vlread) discernable in Singer's art of thai period was an interest in issues thai would clearly distin- 
+guish Ins st\le trom the reductivist mode ot the Minimalists &lt;&gt;l \ndre's and Morris's generation ol 
+the mid- l'Mids. which filtered down into the work of Sena and his colleagues. It was evidenl thai 
+Silver differed not onlv from his immediate predecessors hut also from his contemporaries sin h as 
+George Trakas, Alice Ay-cock and Man Miss, whose work was architectonic, and other artists whose 
+overriding emphasis on gesture resulted in the virtual exclusion ol formal considerations. Clearly 
+
+Singer shared with other young sculptors an interest in material and pro( ess. | lowever, his ai lite 
+
+feeling for form, his striving to achieve the essence of simplicity, the poetii evocation of an art, which, 
+
+even m its earliest stages, questioned the validity ol an expression based exi lusively on aestheth 
+
+issues and SOUghl to resolve the contradictions among man. culture and nature, set his work apart 
+and mark it as unique. 
+
+Iii order to place Singer's work in perspective, it is essential to recapitulate certain events thai 
+preceded Ins emergence .is a young -&lt; ulptor in the 1970s In the mid-1960s a numbei ot important 
+shows, notably Morris's exhibition at the Green Gallery in late 1964 (fig 1) and Vndre's installation 
+of sand-lime bricks at Tibor de Nag) in 1966 (Gg. 2), had a radical impacl on subsequent develop 
+
+
+
+fig. 2 
+
+Carl Andre 
+
+Installation view, sand-lime bricks. Equivalents, 
+
+Tibor de Nagy Gallery, New York, 1966 
+
+
+
+fig. 3 
+
+Carl Andre 
+
+144 Pieces of Steel. 1967 
+
+Hot rolled steel 
+
+Formerly Stroller Collection, Darmstadt, West 
+
+Germany 
+
+
+
+
+
+10 
+
+
+
+Bg. I 
+
+Richard Serra 
+
+Splashing. 1968 (destroyed) 
+
+Lead 
+
+
+
+
+incuts in sculpture. Morris's simple geometric plywood forms with their pale graj uninflected surfai es 
+had mi interna] relationships but instead related to the viewer and the surrounding space. Andre's 
+allover works (both the brick installations and the later metal-plate pieces [fig. i|) were, in his own 
+words, as level as water. These emphaticall) Hat pieces, set directl) on the ground, identified the 
+floor as their plane. The sculpture Morris and \ndre showed in these exhibitions w.is centra] to the 
+development of the Minimalist aesthetic. 
+
+Vlthough artists such as \ndre and Morris, as well as Donald Judd, Dan Flavin and Sol I ew ill 
+
+continued to make important contributions, In the late 1960s \&lt; ger sculptors, including Sena. 
+
+Bruce Nauman and Keith Sonnier, began to react against what appeared to be the excessive l"i- 
+malism and geometry ol Minimalism. Sena and others experimented with gesture and process; in 
+their work a slhli ol emphasis emerged, .is emotional and spontaneous responses began to predom- 
+inate over careful!) considered rational concepts and cool logii . In a momentous exhibition, \ine 
+
+at Castelli, held at the Castelli Warehouse in 1968, Serra showed Splashing (fig. li arresting 
+
+wall -and floor- related environmental piece made espei iall) for the spa&lt; e Serra i reated it l&gt;\ throw- 
+ing molten lead against the wall, thus emphasizing ai lion in a m &gt; re&lt; ailing Polloi k and the 
+
+
+
+II 
+
+
+
+fig. 5 
+
+Richard Serra 
+
+Right Angle Prop. 1969 
+
+Lead antimony 
+
+Collection Solomon R. Guggenheim Museum. 
+
+
+
+New York. Gift, The Theodoron Foundation. 1968 
+
+
+
+
+\2 
+
+
+
+Action Painting of the late 1910s and the 1950s. More typical of Serra's works of the period were 
+his lead-prop pieces in which gravity, balance and wall and floor planes were integral compositional 
+elements (li^. 5). I le used materials such as lead antimony whose raw look and malleability, which 
+enabled him to roll planar configurations into curved or tubular forms, offsel an otherwise unyielding 
+geometry. Since the components were extremel) heavy and were literally props, two unattached 
+units dependent upon one another lor stability, they brought an element ol extreme precariousness 
+to the work and constituted a threat to the spectator and an imposition upon the environment. 
+
+lake Serra. Singer chose to balance his pieces tenuously. I lowever, because Singer's sculptures 
+rest fairly (lose to the floor, the element of danger present in Sena's work is virtually nonexistent. 
+Singer's interest in balance appears to have been stimulated not only by Sena's example but also to 
+have evolved in response to issues that had been confronted by many Iwcnlietb-cenlurv sculptors. 
+
+Brancusi's various formulations ol the Endless Column ol 1918 to ca. 1920 have no bases. They 
+
+represent bis rejection ol the traditional separation ol figure and base — a problem that was further 
+addressed in David Smith's sculpture from the 1950s on. lor example Cubi \\l //. 1965 (lii;. 6), 
+
+\nibonv ( laro's ground-related painted-steed constructions ol the earl) 1960s, such as Midday, I960 
+
+
+
+fig- 6 
+
+David Smith 
+
+Cubi Will 1965 
+
+Steel 
+
+Collection Solomon \\. Guggenheim Museum. 
+
+New York 
+
+
+
+
+fig. 7 
+
+Anthom Caro 
+Midday. I960 
+
+Steel painted yellow 
+
+Collection The Museum of Modern Art, New York. 
+
+Mr. and Mrs. Arthur Wiesenburger Fund 
+
+
+
+
+(fig. 7). and Andre's floor-hugging brick and metal-plate pieces of the mid- 1960s. In the late 1960s 
+and carls 1970s, as artists redefined sculpture, balance, propping, stacking and alignment were 
+among the means the) favored to articulate form. Thus, in his earl) work Balance \\H . Spring l'*7l 
+
+(cat. no. 1 ). Singer uses stacked lead fire-bricks as the support structure lor his milled wooden beams; 
+these, in turn, are counterbalanced In additional bricks that act as weights to stabilize the sculpture. 
+
+For a young artist like Singer the period of the kite I'lbils to earl) l ( )70s represented both an vm\ 
+and a beginning: the rational, formalist approach was winding down, giving way to an idiosyncratic, 
+highl) subjective vision. \n antiformalist attitude towards materials and structure predominated 111 
+young artistic circles. Largel) abandoned, or so it appeared, were mam ot the issues th.it engaged 
+sculptors during the 1950s: the articulation of figure and base, of truth to materials, of appropri- 
+ateness of sculpture to place. Wood. lead, rubber, rope, cotton batting, Masonite, fabric, barbed wire, 
+leaves, hemp, gravel, ashes, sandbags, were scattered, strewn, random K assembled on the one hand, 
+or propped, stacked, aligned into a semblance of architectonic order on the other. 
+
+1 low ever. Singer was from the outset more selective than most voun^ artists of the period m his 
+choice of materials. \nd his evident sense of the appropriateness of his materials came from an 
+understanding ot place. In New ^iork. where he lived and worked on the Lower Kast Side. wood. 
+steel and brick seemed most fitting for pieces related to an urban setting. Yel other materials — 
+rattan and bamboo — fascinated him as well. Singer recalls iism^; rattan and bamboo as earl) as 
+1 ( )(&gt; ( ). Inspired bv his direct experience of the saltwater marshes of Long Island, where he grew up. 
+and National Geographic articles about Thor Heyerdahl and the people of Lake Titicaca, Peru, 
+Singer began to assemble grasses from the marshes and truck them to the studio. 
+
+Singer explains: 
+
+Heyerdahl theorized that ancient Egyptians mid Peruvians took ocean voyages in enormous reed 
+boats. I lis theory is partly based on the [net that both of these cultures built similar papy rus bout-,. 
+
+It was tin' reeds that fascinated me. I wanted to gather reeds and hunch them a\ a material to look 
+at in the studio. In available reed in this region is phragmites, which I gathered from the Long 
+Island saltwater marshes. I used jute rope to hind thick and thin hum lies of /he reeds 
+
+Singer located the bamboo and rattan he needed lor his experiments in warehouses in \evv x mk 
+and New Jersey. He speaks of the seminal importance of his encounter with the story of Heyerdahl's 
+journe) across the Vtlantic in a reed boat and the desi upturn ol the Peruvian i ulture 
+
+There is a remarkable harmony between the people of Lake Titicaca, Peru, and their environment 
+These people lire off the papyrus reeds that grow m the region. The) create floating islamls from 
+these reeds. Their houses, boats and food suppb also come from these reeds, then mythology reflects 
+their dependence on the reeds and the enormous lake I wanted to understand this kind of harmonious 
+
+relationship of vision and life-style &lt;»/ " ( ulture to its environment. I "&gt; 
+
+
+
+Works such as Balance XXIV are very much about the city and the barriers, grids and confined 
+spaces that typify an urban environment. Yet Singer's use of rattan and bamboo and the tripod forms 
+he created with these plants in the 1970s clearly indicate that he was not entirely satisfied with the 
+city as a source of inspiration or with materials appropriate to an urban site. 
+
+The questioning of his situation was in part inspired by his contact with Allan Kaprow, who had 
+come to Cornell in the spring of 1964, during Singer's freshman year at the university. During the 
+late 1950s and early 1960s, Kaprow had a wide artistic influence, generating ideas and sparking 
+experimentation in a variety of media. Singer performed in one of Kaprow's most notable 1 lappen- 
+ings, "Household": he was so impressed with Kaprow that he received permission to leave Cornell 
+during his junior year to study with the artist at Stony Brook University on Long Island. Kaprow 
+subsequently introduced Singer to Marcel Duchamp and Joseph Cornell. While he greatly admired 
+all three, Singer recognized that their direction was not his own. However. Kaprow represented an 
+alternative to formalists such as Mondrian and Giacometti, whom he had studied at college, and to 
+painting, which he had pursued as an undergraduate. And ultimately it was the example of Kaprow, 
+who continually experimented, who was concerned with chance, with time, with process and ma- 
+terials rather than with the finite object, that prompted Singer to remove himself from an art world 
+and a city he found stifling and distracting to the seclusion of the country. 
+
+Although Singer continued to maintain his own loft on the Lower Last Side, he established his 
+primary residence in a small town in Vermont in 1971. Singer's approach to his new environment 
+was tentative. He began by placing one of the large steel balance sculptures he had brought from 
+New York in the fields near his rented house. Then he started to alter the configurations of the piece 
+Singer recalls: 
+
+
+
+■i-^ 1 
+
+
+
+I found myself making changes and then looking at the work through a camera. It dawned on me 
+that I needed the camera to re-create the framework of the w&lt;dls of my city studio and that I was 
+being strongly influenced by the urban vision and experience that I had just left. 
+
+It was an important lesson for me to realize that in this different natural environment vision isn't 
+blocked, there are no grids. In the pastoral (aid wooded landscape of I ermont, vistas open to valleys 
+and mountains, and it's the atmosphere that veils and reveals the hills over great distances. It was 
+this natural environment that I wanted to understand. 
+
+In Singer's first years &lt;&gt;l living away from the city he was primarily preoccupied with two envi- 
+ronments: the beaver bogs (cat. no. ()) in Marlboro, Vermont, where he worked from 1971 to 1971. 
+and the saltwater marshes of Long Island. I hiring the three winters Singer worked in the bogs, he 
+observed the ecology of the site and die work patterns ol the heavers there, and his sculpture resulted 
+Id from his consideration of the shifting forces of nature. As he says: 
+
+
+
+In the bog the working material was the trees. I cut &lt;lc&lt;ul trees and rigged n/&gt; all kinds of devices to 
+move them through the woods, to build a structure with them. The guiding principle of these struc- 
+tures uas balance. Each "situation" would be completed when the set of trees, leaning on one another. 
+uas balanced to a point of weightlessness, a point where, through the use of stumps r/s fulcrums. 
+one could gently touch a part of this structure and feel the entire assemblage move. 
+
+I wanted this to look accidental, unintended, as though a work oj nature. There ivu\ to be no human 
+presence: perhaps because I was still trying to understand what my own presence in this natural 
+environment should be. I cut trees so they would split as though a windfall caused such an occurrem e. 
+I painted many of the cut ends to conceal the whiteness of the raw wood. It became an absolute rule 
+that there should be no sign of human presence. Part of my obsession about the absence of humans 
+in these works came from the shame I felt about being part of a culture that has systematically 
+destroyed the natural environment. Western culture views man at the top. controlling nature, apart 
+from it. 1 1 hen nature is conquered, confined, controlled, man is safe. In order to experience and learn 
+from the natural environment I felt the need to yield to it. respect it. to observe, learn and then work 
+with it. This early rule that I had. to not allow my presence in the work, was helpful in this yielding 
+and learning process. Eventually I accepted my role m the environment as more than observer, 
+manager, researcher. I understood this roll 1 as an artist. 
+
+Singer remained committed to the concept of working alone in nature. Although it now appears 
+rudimentan in view ol his recent development, tliis work brought him into Ins first direcl contact 
+with nature. IK accepting nature and its innate laws, he was allowing the surroundings to act on 
+him rather than imposing himself on the environment. In this important resped alone he differed 
+from many of his contemporaries who, working within the idiom of Earthworks, had simply imposed 
+studio-related art onto the landsi ape. These sculptures eventual!) predicted the works that weir to 
+come. More importantly, making them gave Singer an opportunity to learn about his materials and 
+a chance to work out process in a private rather than public context. 
+
+During the period he worked in the hea\er bog, Singer also studied the saltwater marshes ol 
+
+Long Island. Mere he was intense!) involved w nh the vastness of the space .n\t\ with the ecological 
+patterns of the marsh in relation to the life cycle of the area. \lread\ apparent was the concern with 
+
+ritual and Oriental prototypes thai was to remain a major preoc i iift.it The sense of balance and 
+
+peace, the spiritual aura of the works evokes Far Eastern sources and ritual objects. Vs he had earlier 
+
+formed grasses into hunches in his studio, now he shaped bundles ol phragmites (marsh reedsl into 
+
+curves; these he set into bamboo structures that he placed like totemii markers 111 the great open 
+landscape. The structures were positioned so the) c aught the ever-&lt; hanging patterns ol light thai 
+moved across the landscape. Singer note's that the "strui lures be&lt; ame instruments foi me in watt h 
+
+and learn ahoul m\ relationship to this pi 
+
+
+
+IK 
+
+
+
+That Singer is concerned with the different qualities of light and materials specific to individual 
+sites is indicated by his deliberate decision to work in Vermont and Long Island, two very different 
+locations. This concern is manifested also in the variations he has introduced into pieces executed 
+in a number of other places. He responded to both the materials and climates of each area. Thus 
+in the beaver bogs of Marlboro or in Saratoga Springs, New York (where he executed Ritual Balance 
+Scries [cat. no. 11] during July 1975 as his first commission for a public site). Singer worked with 
+indigenous materials such as hemlock. The massive configurations of these pieces are appropriate 
+to the rugged terrains and extreme climatic conditions prevalent there. For Balance Ritual Scries 
+(cat. no. 8), executed in Coral Gables, Florida, in the winter of 1972-75, he used bamboo, which he 
+located growing on private property. The Florida sequence is similar to the pieces conceived for the 
+saltwater marshes, as the bamboo is more supple than hemlock; both the materials and the climate 
+that supports them occasioned a more fragile, attenuated linearity than that dictated by northern 
+materials and locations. The bamboo and reed works are like drawings in the landscape and resulted 
+in a rather complex piece, Marsh Ritual Series (cat. no. 9), which he produced in October of 1975 
+for Heckscher State Park on Long Island. Marsh Ritual Series is comprised of fourteen units of 
+phragmites and bamboo scattered across an approximately fifty-acre saltwater marsh. The elements 
+were barely visible in the generous expanse of the landscape, but the spectator slowly began to 
+discern the individual parts and then to perceive the whole, and the work was ultimatel) and cu- 
+mulatively impressive. Although the piece was destroyed by a storm shortly after completion, it was 
+important for Singer: working on it he was more involved with learning about nature's processes 
+than with creating a finite piece for a temporal situation. Fquallv significant, it gave rise lo Ritual 
+Series 12/21/71 (cat. no. 10), the first of an impressive body of drawings. 
+
+Singer's drawings, like his sculptures, evoke both nature and ritual. The early drawings, especially 
+Ritual Series, 12/21/73 and the others that directly followed the Marsh Ritual Series, are, like the 
+sculptures, spare in their configurations; they capture the essential delicacj of the marsh reeds, the 
+linear grace and fluidity ol bamboo and the feeling ol the light, air and space ol the sites that inspired 
+both bodies of work. In the drawings, as in his sculptures. Singer refers lo actual passages in the 
+landscape — to a stand ol trees, a pond, the saltwater marshes — as well as lo more intangible, 
+epheiner.il phenomena — haze, mist, smoke, rain, eddies, rushing water, tides — and lo I he seasons 
+themselves. I le also occasionally alludes lo the process ol working — a motif, lor example, anchors 
+
+a scries ol images lo the page at the same lime il evokes an axe shape bill his vocabulary ol forms 
+
+springs from his feelings about nature rather than from a need lo describe il. In this respecl. h 
+images recall those of Arshile Gorkj whose landscape drawings reveal the niyslerv and magic, the 
+poetry of the natural world. As (iorky began lo "look into the grass,'' lo observe in minute delail 
+the forms of flowers, leaves, insects, lo watch the wind as it ruffled the tall grasses, to feel the heat, 
+the sun, the shadows, so Singer has experienced the elements ol nature, lake Gorky, who elicited 
+from nature a new vocabulary ol forms, Singer is shaping Ins own verv personal bod\ of images. 
+
+
+
+s 
+
+
+
+Tlit' two artists share a passion for revealing the underlying forces and elemental forms of nature. 
+(Jorkv's imagery, however, is Surrealist-inspired; his explorations of nature and inner states ol ex- 
+istence are laden with Freudian symbolism and erotic content. Singer's perceptions ol nature evolve 
+from within himself and are given form through reference to Oriental culture and primitive ritual. 
+
+Whereas Singer's Sculptures are all large scale, his drawings m.i\ he relatively small (less than 
+
+two feel wide or high), medium in size (approximately fiftj In fort) inches) or huge extended hori- 
+zontals or verticals (measuring forty-five l&gt;\ ninety-six inches in either direction). I le works with 
+charcoal combined w ith chalk, paper collage and gouache on paper. Uthough the draw m^s are fluid 
+
+and appear to he spontaneous, the) are in fact the result of prolonged deliberation and reworking. 
+Indeed, the collage elements are made of drawings that have been ripped and (ill apart and pasted 
+together again. The charcoal, chalk and gouache provide line, shape and color, while the layer ol 
+collaged papers adds both a real three-dimensional element and an illusion of space. The vertical 
+forms in the drawings, like those in the sculptures, evoke lotemic images as well as actual passages 
+in the landscape. In addition to vertical forms. Singer frequentl) uses elliptical or oval shapes in 
+conjunction with an active calligraphy, which has a superficial resemblance to Abstract Expressionist 
+handling. \\ bile the drawings are sweeping and gestural and mav at first seem impetuous, thev are 
+unified hv the same sure equilibrium thai prevails in the sculpture. For Singer's sense of measure 
+and order is as fundamental to his work as is his need to capture the pulse of nature, the sense of 
+the Heeling moment. 
+
+During Januarj and February of 1975 Singer worked on the Glades Ritual Series l'&gt;7&gt; (cat no. 
+I 5), an installation in the Everglades Nation, il Park m Florida. The site was a vast, open glades area, 
+which was under water from Mav through November hut was drv enough to work in during the 
+winter. Like parts of the Western Kedwood forests or the hush in Australia, il is &lt; onstanllv heset hv 
+fire, which actuallv contributes to the ecological balance of the area. Ill fact, .1 bnishfire had swept 
+through the area shortlv before Singer began to work there. The fire had left the grass I haired and 
+the limestone ground visihle. alterations in the environment that ultimate!) were reflected in his 
+work, hi addition, water erosion caused sinkholes to appear in the limestone, and Singer used these 
+holes to dictate where he plaice I his bamboo structure. The Glades Ritual Series t97S was the most 
+successfull) resolved of Singer's land-related works to that date, for it captures the ephemeralit) ol 
+
+nature and ol its materials (phragmites, pile rope and hamh I stands in complete li.n no &gt;n\ 
+
+with the landscape in which it e\isis. I [ere for the Inst time the artist sited his work in a parti&lt; ular 
+
+direction, lie oriented the piece on an east-west axis, will ess from the wist \s a result, the 
+
+Spectator's point of View and pen eption ol light was i out rolled: when seen in the morning the work 
+
+was bai kht: hv the end of dav it was full) illuminated. 
+
+Singer observed the Everglades site during the summei before he worked on the Glades Ritual 
+Series 1975. The landsi ape reflections he saw in the ponds ( reated hv the summei floods inspired 
+
+him to seek a new situation lot his outdool s ( nipt lire. The result ol this quest is the I il\ Pond III /mil 
+
+
+
+Series 7/75 (cat. no. 18), an extended horizontal piece he built in Harriman State Park in New York 
+in July 1975. Like Balance XXIV and Centering Balance (cat. nos. 1,3), both 1971, the Lily Pond 
+Bitnal Series 7/75 is about span, balance, horizontally and place. Although it is approximately eighty- 
+five-feet long, the construction seems modest in relation to the very large pond, the extravagant 
+foliage that rims it and the equally extravagant shadows cast in the water. And like the Marsh Ritual 
+Series, 1975, and the Sangam Ritaal Series 4/76, 1976 (cat. nos, 9,19), it is so understated that it 
+seems to merge with the landscape. Only after prolonged viewing is the spectator able to isolate the 
+delicate tracery of the structure from its surroundings. Singer has remarked that the work of the 
+mid- to late- 1970s illuminates the environment for him and for the spectator, for the sculpture 
+reveals itself as the result of our perception of the landscape. 
+
+Other equally successful works of the period are the First Gate Ritual Series of 197b (cat. no. 21), 
+an installation for the Nassau County Museum of Fine Art in Roslyn, New York, and a similar piece 
+of the same title made for the Docurnenta 6 of 1977. Both are two-part constructions that elaborate 
+upon line, light and reflections. And probably because their park settings are more cultivated and 
+their ponds more distinct in shape than Singer usually chooses, both seem more substantial and 
+more independent than the earlier work. As Singer began to work in public locations, aware thai 
+his pieces would be seen for long periods of time, he became increasingly concerned with their 
+durability and with access to them. This represented a substantial departure from his earlier attitude, 
+wherein the human presence was not considered and the works were the basis lor private experiences 
+between artist and nature. In his use of oak and rock here, the artist is introducing materials that 
+presage a new direction in his work. Yet the two-part pieces retain a characteristic sense of equilib- 
+rium that mediates between the shifting forces of the water as well as an equilibrium sustained by 
+the thrusts and counterthrusts within the work. More important, the configurations of these two 
+sculptures recall ancient Egyptian and Peruvian reed boats and thus pay homage to the culture that 
+inspired both I leyerdahl and Singer himself. 
+
+Singer notes that stones and bricks were used exclusively to counterbalance the other elements 
+in the works of the early 1970s. Later, in his first gallery piece, Ritual Balance Series I2/7S of 1975 
+(cat. no. 17), for example, the stones are used both as foundation — as architectural elements — and 
+as referents to the stones the beavers placed in their dam. The eroded, solt-edged bricks in the work 
+suggest both architectural construction and the weathering process of nature. Singer elaborates on 
+the increasingly complicated functions ol his materials: 
+
+In the pieces between 1975 and 1980 I used stones as a foundation and as a structural element 
+between the wooden beams (both curved and straight), helping to create the physical tension that 
+held these wooden elements together. As these sculptures became more complex there was an am- 
+biguity about whether the stone supported the wood or did the wood exist to support the stone. The 
+20 interdependence of the two was physical — structural and visual. 
+
+
+
+In later work such as First date Ritual Scries. 1980 (cat no. 36), shown in Zurich and at the 
+
+Rinirliiiii Museum in Sarasota: 
+
+
+
+'*-&gt;■ 
+
+
+
+/The rocks/ become a presence apart from their structural Junction. The ambiguity between wood 
+
+and stone lessens. The tcood clearly supports certain Stones. I sense these stones as symbols containing 
+references to mountain, river, cloud, natural elements. 
+
+I take long walks to look for stones that come from trails, fields and streams. Once I have the stones 
+I place them in the studio where I spend a long tune determining which edges should be cut. I 
+categorize the stones visually — vertical, horizontal, diagonal, round, sharp, weathered by the air. 
+time honored 
+
+Singer's outdoor sculpture has progressed through three distincl phases. I luring the first, which 
+
+corresponded to the three \ears he worked in the beaver bogs in Marlboro and the Long bland 
+saltwater marshes, he was preoccupied with working in. learning from and adapting to nature. 1 hiring 
+the second he made pieces that helped him see nature and define place. Bj l')7 ( ) he was creating 
+sculpture that was interdependent with place. Intimations of this interdependence are already present 
+in Rog Ritual Series 6 78, a piece executed in a beaver bog in 1978 in Marlboro. However this harmonj 
+was not lullv realized until First Gate Ritual Series 4 77. made tor DeWeese Park in Dayton I (at. no. 
+28). Singer believes that the site pushed him further in ibis direction than he had gone before. It 
+challenged him to integrate the experience of the beaver bogs with that of the saltwater marshes. 
+With this piece he introduced phragmites and bamboo into a rugged terrain reminiscent ol the 
+Vermont landscape. Singer's exploitation ol light, shadow. Ins sensitivity towards density, mass. 
+volume, line, texture and color, both in the environment and in the forms he created made this bis 
+most sin ccsslul outdoor work to thai date. 
+
+Concurrent with his development ol outdoor sculpture. Singer concerned himself with indoor 
+pieces. In two transitional pieces executed in his Now York studio in 1974-75 (cat nos. 13,1 ll. he 
+attempted to readjust to the urn hanging confines ol the studio or galler\ without sacrificing the 
+meaning ol the sculpture ol the lour preceding years 
+
+In 1 ( )7~) he accomplished this readjustment when he created the above-mentioned Ritual Ralam e 
+Series for the Greene Street space of the S p&lt; -rone Westwatei Fischer Gallery. This work. Sangam 
+Ritual Series 7 77 of 1 ( )77 and First date Ritual Series in 78oi 1978 (&lt; at nos. 2(&gt;._&gt;7i were « on. eived 
+for specific indoor sites. Ritual Balance Series was i ,i rein IK placed .md ht. with meticulous c on sid - 
+
+eration of the specifics of the (ireene Street gallerj Spate. It was Singer's objective 1" allow the 
+
+spectator to navigate the entire circumference ol the piece, which measures twelve In sixteen h\ 
+sixteen feet, and thus be able to perceive the whole as well as the individual paits Ibic Singei 
+retained a continuity with Ins previous work, m particular in the emphasis nn equilibrium. Iml he 
+brought to the piece a new sense n! p]a&lt; e l&gt;\ at knowledging the interioi site in the arth ulation ol 21 
+
+
+
+the wall and floor planes and in the leanness of the construction, which was entire!) appropriate to 
+the spareness of the gallery. The interplay of line and curve, of color and textures, the natural 
+elements — wood, phragmites, bamboo and stones — and the configuration of the whole are gracefully 
+accommodated to the space. I lowever, the piece was not a mere reflection of the interior, but was 
+invested with a powerful spiritual aura, an independent magical presence. 
+
+By the summer of 1979, consideration of mass and gravity began to replace the concern with the 
+more temporal qualities of air, light, water in Singer's work. He remarks: 
+
+At this time, and now, I notice the stone walls, stone outcroppings and ledge. I'm impressed with 
+stories about how the settlers of this region straggled to clear the haul of the stones only to find more 
+forced to the surface each war by winter frost. I observe the geology underlying nature's structures, 
+the layering of the foundations of the earth, the deeper structures creating the contours. 
+
+In keeping with the new emphasis on the permanent and enduring, stone began to replace marsh 
+reeds and bamboo, and the foundations of the sculpture assumed a more significant role. First in 
+the outdoor sculpture, later in the indoor, stone — ancient, lull ol historical and mythological as- 
+sociations — became the symbol of the eternal. 
+
+The ambiguity in the relationship between wood and stone that had existed in the earlier work 
+gradually was eradicated, as the wood was shown clearly to support certain stones. In works of the 
+early 1980s Singer constructed wooden platforms whose central function was to contain and em- 
+phasize stones. The stones begin to lake on a significance beyond their structural meaning: they 
+become symbols of natural elements — rocks, streams, cloud formations, hi Ritual Series SO SI, 1980- 
+81 (cat. no. 40), the rocks have been selected and altered to enhance symbolic allusions. The most 
+recent compositions are made entirely ol stone: they are denser and more complex than the pre\ ions 
+work, yet retain the sense of balance and completeness of their precursors. 
+
+Recently the drawings, as well as the sculptures, have become denser, more compact. There are 
+I ewer references to illusionistic landscape depth, and energj seems to How closer to the picture plane. 
+The earlier drawings are linear and open: space Hows Ireeh around forms and there is a sense of 
+shallow three-dimensional space. I lorizonlal and vertical forms seem ordered into an allover pattern 
+b\ an implied grid. Now, however, in the draw nii;s. as in the sculptures, there is a sense ol enclosure. 
+Forms, which tend to be self-contained and isolated, are beginning to assume a ritualistic meaning, 
+as Singer's vocabulary lakes on a new metaphorical quality. 
+
+Apparent in the early as well as the recent drawings is Singer's painterly sensibility , w Inch reveals 
+
+itsell in Ins v it tiiousiiv, Ins consummate ability to manipulate line, plane, straight edge and curve, 
+
+to control thick and thin contour, gesture and color. Whereas slaleliness prevails in the sculpture, 
+
+and the drawings are marked by immediacy and intimacy, the works ill the two mediums are linked 
+
+22 by their characteristic thoughtfulness, More importantly they are unified by the absolute consistency 
+
+
+
+of Singer's commitment to interpreting the majestic, immutable forms ol nature and its elemental, 
+underlying forces. 
+
+Singer has recently favored slate and granite. The inner core of First Gate Ritual Series 1982 (cat. 
+
+no. f~) is slate and the outer structure and "natural" rocks or fieldstnnes are granite. The (loud 
+Hands Ritual Series and Seven Worm Ritual Series, hoth 1983-84 (cover [foreground], cat. no. 1-8), 
+are comprised entirelv ol granite: Cloud I lands is gra\ and white stone I nun Vermont; the exterior 
+
+of Seven Moon is a dark, almost charcoal, graj rock from Pennsylvania (ailed "Mist"; the i 
+
+structure is a light graj granite from Vermont. Shite results when layers ol silt containing vegetation 
+and organisms are subjected to heat and pressure. The fossil materials an- obliterated during the 
+process, hut leave trace-- in the form of streaks and imperfections. ( iranite is an igneous rock, formed 
+from molten matter deep within the earth: its minerals crystallize as the rock cools. Singer has 
+explained wh\ these rocks appeal to him. I le sa\s he chooses slate lor its innate layering, "because 
+of the process that it has gone through, it seems like a rock that is more 'alive.'" I low ever, for Singer, 
+"granite is the most enduring and stable stone. It is this quiet, serene sense ili.u attracts me." 
+
+I larmonj and order, simplicity and balance inform the granite and slate sculptures, .is lhe\ do 
+
+Ins previous work. Even in as earl) a piece as Balance \ \/l . Spring 1971, there is a pervasive calm, 
+
+a simplicity and equilibrium that is at odds with hoth the characteristics of the sculpture of his peers 
+and with the nature ot the cit\ . Central to all his work too has been a powerful sense of ritual and 
+myth, which serves to unifj Ins allusions to man and nature. That Singer's objective is to capture a 
+feeling ol the rituals ol nature is indicated in his discussion ol the (Hades Ritual Scncw 
+
+I hinll a structure using materials indigenous to the area. It teas to become the symbol lor a rilual. 
+The ritual took place throughout the day at different moments — once alien the stria litre seemed 
+
+to ditch the tow (loads &lt;/-. they passed through it: once when the light silhouetted the piece against 
+the pineland forest illuminating it intensely for a moment: and again, when the full moon on the 
+eastern horizon coincided with the setting sun. causing die piece to slant- with lite colors of the 
+reflected light The piece provided the apparatus for the rituals of any given day to tide plate. ' 
+
+I I ere the artist (oik lies upon a com ept that underlies much ol his work — th.il the site lias magi I al. 
+
+ritualistic significance. This idea is reflected in Ins titles — not onlj Glades Ritual Series hut also 
+Sangam Ritual Series of l ( )7i). whic h refers to a site in India where a shrine marks the jun&lt; lion ol 
+rivers. Beginning with works such as First date Ritual Series of 1979 and 1980 (see cat nos. 32,38), 
+Singer saw mythic connotations in the landsi ape; later, in indoor sculptures ol 1982 su&lt; h as ( 'loud 
+Hands Ritual Series 1982, Ritual Series 7/82 1 Ritual Series 1982 (cat nos 1-2,43,45) Singei con- 
+tinued to evoke the same sense ol ritual in nature. In the new slate ami granite pieces, Singei has 
+
+extended the original concepts without losing sight ol nature now da- magi&lt; em. males from the 
+self-contained work itself, and does not depend on the environmental &lt; ontexl 23 
+
+
+
+Singer's newest structures resonate with a spiritual aura usually associated with religious art. 
+This aspect of his work calls to mind oriental precedents — as well as Barnett Newman's Stations of 
+the Cross, 1966, abstract paintings that express deep spiritual meaning and mythic content. Indeed, 
+both sources have had a profound impact on his imagination. In much of the work executed since 
+19M0, there is a feeling of self-containment. These are low structures whose "walls" act, not as 
+barriers as they do in Western architecture, but as gates that lead into the interior, evoking fences 
+and gates of Shinto shrines. The walls and the platforms that connect them introduce us into a 
+sequence of measured spaces. These magical enclosures evoke ritualistic associations and encompass 
+a universe that is part nature, part myth. As Joseph Campbell has said, rituals are organizations of 
+mythological symbols, and by participating in the drama of the rites one is brought directly in touch 
+with these symbols. "The function of ritual ... is to give form to human life." ' Through his arresting, 
+evocative sculpture and drawings Michael Singer gives significance and form to both life and art. 
+
+FOOTNOTES 
+
+1. Diane Waldman, Ten Young Artists: Theodoron Awards, exh, cat.. The Solomon R. Guggenheim Museum, New York. I')71. 
+n.p. 
+
+2. Unpublished notes by the artist. December 1983. Ml succeeding rein, irks l&gt;\ the artist are from the same source, unless 
+otherwise noted. 
+
+5. Statement in Michael Auping, Common Ground: Five Artists m tl&gt;c Florida Landscape, exh. cat., The John and Mable 
+Ringling Museum of Art, Sarasota. Florida. 1982. p. 52. 
+
+I. Ibid., p. 53. 
+
+5. Joseph Campbell, Myths to Live By, New York, l')72. p. 1-3. 
+
+
+
+24 
+
+
+
+Indicates sculpture included in the exhibition 
+All drawings except nos. 10. 1^. 25 and 54 
+
+are included in the exhibition 
+
+
+
+1. Balance \\/l Spring 1971 
+Wood and lead fire-bricks, 10 x 216 • 288 
+
+Collection of the .ntist 
+
+
+
+
+Installation view, 
+
+Ten Young Artists: Theodoron Awards, Solomon R. 
+
+Guggenheim Museum, New York, 1071 
+
+
+
+2. left: Limit Balance III. 1071 (destroyed) 
+Steel I beams, 336 x I HO x 36" 
+
+right: Unit Balance I. 1071 
+Wood, 48 x 108 x 60" 
+
+( )ollection ol the iirlist 
+
+
+
+3. Centering Balance. 1971 
+
+Steel beams and bricks, 120" long 
+Collection Solomon R. Guggenheim Museum 
+New York 
+
+
+
+
+
+27 
+
+
+
+4. Situation Balance Series I. 1971 
+Marlboro, Vermont 
+
+
+
+5. Situation Balance Series 11. 1971 
+Hemlock trees 
+Wilmington, Vermont 
+
+
+
+28 
+
+
+
+
+
+J"» 
+
+
+
+30 
+
+
+
+
+(&gt;. Situation Balance Series Beaver Bog. 1 1 *7 1 - 7^ 
+Hemlock trees and jute rope 
+Marlboro. Vermont 
+
+
+
+
+'.I 
+
+
+
+^1 
+
+
+
+
+7. Ritual Balance Scries Pelham Hay Park. 
+June 1972 
+
+Phragmites, bamboo and jute rope 
+Supported by a grant from CAPS 
+Bronx. New York 
+
+
+
+8. Balance Ritual Series. Winter L972-73 
+
+Bamboo, jute rope and roi kv 
+
+Coral Gables. Florida 
+
+
+
+
+V, 
+
+
+
+
+34 
+
+
+
+9. Marsh Ritual Series. October l ( »r&gt; 
+Phragmites, bamboo and jute rope 
+
+Supported l&gt;\ B grant from CAPS 
+
+Heckscher State Park. East Islip. Long Island 
+
+
+
+10. Ritual Series 12/21 73. 1973 
+
+Paper collage, charcoal and chalk on paper 
+
+IX x is" 
+
+Collection of the artist 
+
+
+
+
+
+
+
+36 
+
+
+
+
+11. Ritual Balance Series. July 1975 
+Hemlock trees 
+
+Supported by a grant from C ^PS 
+Saratoga Performing Arts Center. Saratoga Springs. 
+New York 
+
+
+
+12. Ritual Series 1974. 1974 
+
+Paper collage, charcoal and chalk on paper, 
+
+-")! x tar 
+
+Collection of the artist 
+
+
+
+
+57 
+
+
+
+13. Ritual Balance Series 1974. 1974 (destroyed) 
+Bamboo, phragmites and jute rope 
+Installation view, Ludlow Street studio 
+
+
+
+14. Ritual Balance Series 1975. Fall 1975 (destroyed) 
+Bamboo, pbragmites and jute rope 
+Installation view, Ludlow Street studio 
+
+
+
+
+7 )H 
+
+
+
+
+Vi 
+
+
+
+15. Glades Ritual Series 197S. 1975 
+Phragmites, jute rope and bamboo 
+Everglades National Park, Homestead. Florida 
+
+
+
+
+II 
+
+
+
+16. Ritual Series 11/7/74. 1974 
+
+Paper collage, charcoal and chalk on paper, 
+
+51 x 43" 
+
+Collection of the artist 
+
+
+
+
+\1 
+
+
+
+17. Ritual Balance Series 117). 1975 
+Phragmites, rocks, bricks and wood. 
+144 x 192 x 192" 
+Collection Australian National (&gt;allcr\. (Canberra 
+
+
+
+
+r. 
+
+
+
+18. Lily Pond Ritual Series 7/15. July 1975 
+Bamboo and jute rope 
+
+Harriman State Park, Harriman. New York, 
+Courtesy of Palisades Interstate Park Commission 
+
+
+
+
+
+
+
+. 
+
+
+
+. &lt;i » 
+
+
+
+* 
+
+
+
+
+
+
+44 
+
+
+
+
+I i 
+
+
+
+19. Sangam Ritual Series 4/76. 1976 
+Bamboo, phragmites and jute rope 
+Chesapeake Bay Center for Environmental 
+Studies, Edgewater, Maryland 
+
+
+
+
+l(&gt; 
+
+
+
+20. Ritual Series 4/3/76. 1976 
+
+Paper collage, charcoal and chalk on paper. 
+
+42 x 82" 
+
+Collection Neuberger Museum, State Universitj oi 
+
+New York at Purchase 
+
+
+
+
+21. First Gate Ritual Series. 1976 
+Oak and rocks 
+
+Nassau County Museum of Fine Art, Roslyn, 
+New York 
+
+
+
+
+1-8 
+
+
+
+
+I'l 
+
+
+
+22. foreground: First Gate Ritual Series Part II. 1978 
+Wood, stones and phragmites, 108 x 156 X 180" 
+Collection of the artist 
+background: cat. no. 26 
+
+Installation view, Haydenville, Massachusetts, 
+studio 
+
+
+
+
+50 
+
+
+
+
+
+
+&gt;'■). First Gate Ritual Series I U) 76. 1976 
+
+Paper collage, charcoal and chalk on paper, 
+
+r. x 84' i" 
+
+Collection Paine Wchher Inc.. New York 
+
+
+
+
+24. Ritual Study SB 1/76. 1976 
+
+Paper collage, charcoal and chalk on paper, 
+
+21 x 47'A" 
+
+Collection Sidney Singer 
+
+25. Sangam Study 10/11/76. 1976 
+
+Paper collage, charcoal and chalk on paper, 
+
+21 x 47 W 
+
+Collection Mr. and Mrs. Judd Weisberg 
+
+
+
+*26. Sangam Ritual Series 9/77. 1977 (detail) 
+Pine, rocks, phragmites and jute rope, 
+168 x 456 x 216" 
+
+Collection Solomon R. Guggenheim Museum, 
+New York, Gift, Sidney Singer, 1983 
+
+
+
+
+52 
+
+
+
+
+27. First Gate Ritual Series 10/78. 1978 
+
+Wood, stones and phragmites, 108 x 156 x 180" 
+Collection Fort Worth Art Museum. Texas 
+
+
+
+28. First Gate Ritual Series 4/79. 1979 
+Bamboo and phragmites 
+
+DeWeese Park, Dayton, City Beautiful Council. 
+Dayton, Ohio 
+
+
+
+
+54 
+
+
+
+
+
+
+
+) ) 
+
+
+
+29. Ritual Series 6/12/76. 1976 
+
+Paper collage, charcoal and chalk on paper. 
+
+47¥» x 46%" 
+
+Collection Barbara and Donald Jonas. New York 
+
+
+
+
+56 
+
+
+
+50. Ritual Series II 9, 78. 1 ( »7S 
+
+Paper collate, charcoal and chalk on paper, 
+
+TVs x i re- 
+collection of the artist 
+
+
+
+
+
+
+
+31. Ritual Series 5/79. 1979 
+
+Spruce branches and jute rope 
+Wilmington, Vermont 
+
+
+
+
+58 
+
+
+
+52. First Gate Ritual Series 7 79. 197 1 ) 
+
+Oak. phragmites, rocks, jute rope and spruce 
+
+branches 
+
+\\ ilmmirton. Vermont 
+
+
+
+
+
+
+
+33. Ritual Series 1/2/79. 1979 
+
+Paper collage, charcoal and chalk on paper. 
+
+59 'A x 43%" 
+
+Collection Yale University Art Gallery, New Haven. 
+
+Gift of Mr. and Mrs. Robert F. Shapiro. BA 1950, 
+
+in honor of Robert F. Shapiro's 25th class reunion 
+
+
+
+
+()() 
+
+
+
+54. Seven Moon Ritual Series I 21 79. 1979 
+Paper collage, charcoal and chalk on paper. 
+57V6 x H" 
+Collection Solomon R. Guggenheim Museum, 
+
+New ^ork. \non\mousgift, 1983 
+
+
+
+
+-.1 
+
+
+
+35. First Gate Ritual Series 2/80. 1980 
+Oak and rocks. 53 x 144 x 15b" 
+Courtesy Sperone Westwater, New York 
+
+
+
+
+62 
+
+
+
+36. First Gate Ritual Series 1980. 1980 
+Pine and rocks, 60 x 114 x 163" 
+Courtesj Sperone Westwater, New York 
+
+
+
+
+
+
+
+57. Ritual Series 8/19/81. 1981 
+
+Paper collage, charcoal and chalk on paper. 
+50 'A- x 58'// 
+Private Collection 
+
+
+
+58. First Gate Ritual Series 5/80. 1980 
+Pine, rocks and spruce branches 
+Riehen. Switzerland 
+
+
+
+
+64 
+
+
+
+
+
+
+X. 
+
+
+
+■ 
+
+
+
+39. Seven Moon Ritual Series 7/2 5/80. 1980 
+
+Paper collage, charcoal and chalk on paper, 
+
+39 'A x 84'A" 
+
+Collection Diane and Steven Jacobson, New York 
+
+
+
+'+0. Ritual Series 80/81. 1980-81 
+
+Wood and rocks, 58 '/&gt; x 207 x 217" 
+Collection Solomon R. Guggenheim Museum. 
+New York, purchased with the aid of funds from the 
+National Endowment for the Arts in Washington, 
+D.C., a Federal Agency; matching funds contrib- 
+uted by Barbara and Donald Jonas and Diane and 
+Steven Jacobson 
+
+
+
+
+(&gt;() 
+
+
+
+4 1 . Cbud Hands Ritual Series 80/81. 1 980-8 1 
+Pine, ash and rocks, 57 x 171 Vfc x 201" 
+Collection Louisiana Museum of Modern Art. 
+Humlebaek, Denmark 
+
+
+
+
+()K 
+
+
+
+
+
+
+42. Cloud Hands Ritual Series 1982. 1982 
+Fungus and algae on pine and rocks, 
+40 x 168 x 96" 
+Courtesy Sperone Westwater, New York 
+
+
+
+
+H. Ritual Srrirs 7S2. l l )S_&gt; 
+
+Hocks and wood with earth and straw, 
+
+Mi x Ii2 x 72" 
+
+Courted Sperone Westwater, New York 
+
+
+
+
+44. Ritual Series 11/27/81. 1981 
+
+Paper collage, charcoal and chalk on paper. 
+
+51 x 39" 
+
+Collection Felice and Edward J. Ross, New York 
+
+
+
+
+72 
+
+
+
+\5. Ritual Series 1982. 1982 
+
+Pine and rocks, 48 x ISO x [44" 
+Courtes) Sperone Westwater, New York 
+
+
+
+
+
+
+
+46. Seven Moon Ritual Series J/16/82. 1982 
+
+Paper collage, charcoal and chalk on paper. 
+
+50 x 38" 
+
+Courtesy Sperone Westwater, New York 
+
+
+
+
+74 
+
+
+
+•17. First Gate Ritual Series 1982. IMS J 
+
+Granite, -l.iic and fieldstones, 30 x Mix 7. 
+Collection of the artist, courtesj Sperone 
+Westwater, New 'lork 
+
+
+
+
+
+
+
+*+8. Seven Moon Ritual Series /'AS')'. 1983 (detail) 
+Granite and fieldstones, tt x 240 x 72" 
+Collection of the artist, courtesy Sperone 
+Westwater. New York 
+
+
+
+
+76 
+
+
+
+Seven Moon Ritual Series 1983. 1983 
+
+
+
+
+
+
+
+BIOGRAPHY 
+
+
+
+Born in Brooklyn. New York, 1945 
+
+Cornell University, Ithaca, New York, 1963-67, BFA 
+
+Yale University Norfolk Program, Norfolk, Con- 
+necticut, 1966 
+
+Butgers University, New Brunswick, New Jersey, 
+graduate study, 1968 
+
+Theodoron Award, Solomon B. Guggenheim Mu- 
+seum, New York, 1971 
+
+CAPS Grant, New York State Council on the Arts, 
+1972 
+
+Artist in Residence, State University ol New York 
+Convocation, Skidmore College, Saratoga Springs, 
+1973 
+
+National Endowment for the Arts Fellowship, 1974 
+
+Artist in Residence, Everglades National Park. 
+Homestead, Florida, 1975 
+
+Artist in Residence, Palisades Interstate Park, Bear 
+Mountain, New York, 1975 
+
+John Simon Guggenheim Foundation Fellowship. 
+1976-77 
+
+CAPS Grant, New York State Council on the Arts, 
+1979 
+
+Building Arts Grant, National Endowment for the 
+Arts, 1980 
+
+
+
+7K 
+
+
+
+GROl 1' EXHIBITIONS 
+
+
+
+Ail Resources Center, W hitney Museum of Ameri- 
+can Art, Work from the Whitney Museum's IrtRe- 
+sourtes Center, June 9-July 19, l ( i7o 
+
+Hudson River Museum, Yonkers, New York, Light 
+and Environment, December 1970 
+
+Finch College Museum of Art, New York, Projei ted 
+1/7. Artists at Work. March 13-May _'. 1971 
+
+Solomon K. Guggenheim Museum, New York, Ten 
+Young Artists: Theodoron [wards, September 24- 
+November 7. 1 l * 7" 1 . Traveled to Hopkins Center, 
+Dartmouth College, Hanover. \c\\ Hampshire, 
+January 7-31, 1972; Contemporary Arts Center, 
+Cincinnati, -April 6-May l&gt;; I niversity of Alabama, 
+Tuscaloosa, .lime 5-Jul) 3; La Jolla Museum ol 
+Contemporary Art, California, August 31- 
+October 8; Vancouver Art Gallery, British ( lolum- 
+bia, Canada, November I 1-December I I. Cata- 
+logue with texl l&gt;\ Diane Waldman 
+
+Solomon H. Guggenheim Museum, New York, Mu- 
+seum Collection: Recent American Irt, May I l-Sep- 
+
+tember 7. I l l7~&gt; 
+
+The Renaissance Society al the I niversiry ol Chi- 
+cago, Ideas on Paper, Ma) 2 -June 6, I'M) 
+
+Nassau (aiiinH Museum of line Art, Roslyn, New 
+York. Sine Sculptors: On the Ground, In the Unier. 
+Offthe Wall, May 2-July 25, 1 ( &gt;7(&gt; 
+
+Newcomb College, Tulane I niversity, New Orleans, 
+Drawing Today in \ew )t&gt;rk. September 2-23, 1976. 
+Traveled to SewaU Art Gallery, Rice I niversiry, 
+I louston, October 8-November l (| : Southern Meth- 
+odistl niversiry, Dallas, January 10-February I". 
+1977; I niversitj Art Museum. I niversiry ol Texas 
+at Austin, March 1- April 1; Oklahoma ArtCenter, 
+Oklahoma City, April I5-May 15; Dayton Art Insti- 
+tute, June 3- August J I ( Catalogue with texl l&gt;\ Pa- 
+tricia Hamilton and Check Boterl 
+
+Kassel, West Germany, Dm umenta 6, June 24- 
+October2, 1977. Catalogue with text by Manfred 
+Si hneckenburger 
+
+lie.u Mouni.un Inn. Bear Mountain, New VuL. 
+irtists in Residence 1975, 1976, 1977,Octobei 
+November 6, 1977. Catalogue with text by Man 
+
+( rUSSOW 
+
+
+
+1 1 m II mil Gallery, i ireenwit h Library, i ionnei in ut, 
+( Hi! Indre, I &gt;&lt;m Flavin, Donald Judd, Rii hard 
+Ijong, Brenda Miller. Michael Singer, February 2- 
+26, 1978 
+
+Sperone Westwater Fisi her, New York, Pnm m^^ 
+and Other Works on Paper, February 18-28, 1978 
+
+Sperone Westwatei Fischer, New York, June9- 
+September 23, 1978 
+
+rbuchstone Gallery, New York, Si ulptors' Draw- 
+ings, January 6-31, l ( '7 ( &gt; 
+
+Bell Art Gallery, List Art Center, Brown I niversiry, 
+Providence, Rhode Island. Invitational, February I- 
+24, 1979 
+
+Whitney Museumol American Art, New York, 1979 
+Biennial Exhibition, February 6- April 8, 1979 
+
+Albright- Knox Art ( Jallery . Buffalo, Eight Si ulptors, 
+March I6-April29, 1979 Catalogue with text by 
+I )ouglas ( i. Si hull/ 
+
+Wenkenpark Riehen Basel. Riehen, Switzerland, 
+Skulptur im 20. Jahrhundert, May 10-Septembei I l. 
+1980. Catalogue with text by Reinhold I lohl 
+
+\\\/\ Biennale di Venezia: Drawings — The Plural- 
+ist Decade, opened June 1 . 1980. Catalogue. I Va\ - 
+eled to Institute ol ( lontemporary Art, I niversity ol 
+Pennsylvania, Philadelphia, Drawings — The Plu- 
+ralist Decade, Octobei l-November9 &lt; atalogue 
+with text In Janet Kardon 
+
+Fort Worth Art Museum, Texas, lycock/Holste 
+Singer, November I '&gt;. 1980-January I 1981 
+
+Solomon B Guggenheim Museum, New V&gt;ik. 
+Contemporary [rnericans Museum Collection and 
+Recent icquisitions, Januar) _'_'- April 12, 1981 
+
+The Aldrich Museum of ( ontemporary Art, Ridge- 
+field, Connecticut, \eu Dimensions in Drau ings 
+1950 1980, May 2-Septembei 6 1981 ( atalo 
+w 1 1 1 1 text h\ Rit haul Anderson 
+
+Kunsthaus Ziii i( h, Wi '/"&gt;&lt; &lt;( Ritual m dei Kim\i iter 
+I, line. June 5-August 23 1981 &lt; atalogue with 
+texl 1&gt;\ Erika Billetei 
+
+Heckscher Museum, Huntington, New \&lt;nk '• 
+Decades Collecting, June 21-Juh 26 1981 
+
+
+
+
+
+
+ONE-MAN EXHIBITIONS 
+
+
+
+Sew all Art Gallery, Rice University, Houston, I ar- 
+iants: Drawings by Contemporary Sculptors, Decem- 
+ber .2-1 2. 1981. Traveled to Art Museum of South 
+Texas. Corpus Christi, December 31, 1981-January 
+28, 1 982: Newcomb College, Tulane University, 
+Now Orleans. February 9-19; The High Museum of 
+\rl. Atlanta. March 26-May 2. Catalogue with texl 
+by Laura W. Russell 
+
+Wiirtembergischer Kunstverein Stuttgart. Natur- 
+Skulptur, 1981. Catalogue with texl In Andreas 
+Vowinkel 
+
+( iitx Gallery, New York. Made in New York, 
+February 1-17, 1982 
+
+Summit Art Center, Summit. New Jersey, Drawing 
+—New Directions, March 17-AprilS. 1982 
+
+National Museum of American Art. Washington, 
+DC, iwards in the I isualArts /, May 7-Augusl 8, 
+1982. Traveled to Des Moines Art Center. Novem- 
+ber 8-December 2(&gt;: Denver Art Museum, February 
+2-March 22. 1983. Catalogue 
+
+The John and Mable Ringling Museum of Art, Sar- 
+asota. Florida, Common Ground: hive Irtists in the 
+Florida Landscape, May I l-.luK 18, 1982. Cata- 
+logue with texl In Michael Auping. Text reprinted 
+m Ringling Museums, vol. 1"). June 1982 
+
+The Gallery of the Equitable Life Assurance Society 
+
+ol the I .S.. New York, Selections from [wards in the 
+I ism, I Irts I. \|&gt;nl I 1-28, 1983 
+
+Sperone Westwater, New York. Men, Saurnan, 
+Singer, Venezia, May I I -.hmc IS. |'),s~) 
+
+Solomon R. Guggenheim Museum. New York, Re- 
+cent Acquisitions, July 22- September 25, 1983 
+
+Sperone Westwater, New York, December 10, 1983- 
+January 7. 1984 
+
+/ilka ( Jailer \, Wesleyan University, Middletown, 
+( lonnecticut, Large Drawings, January 26-March 9, 
+1 98 I. Catalogue with ie\i l&gt;\ .lean Iv Feinberg 
+
+
+
+Sperone Westwater Fischer. New York, December 
+d. 1975-January 3, 1976 
+
+Wadsworth Atheneum, Hartford. Michael Singer: 
+MATRIX 24. September 1 L-November 30, 1976. 
+
+Catalogue with text by Andrea Miller-Keller 
+
+I )alr\ inple (Jailers . Smith College Museum of \rt. 
+Northampton. Massachusetts. Works hv Michael 
+Singer, February 18-March Id. 1977. Catalogue 
+with text by Lucy Lippard 
+
+Art Museum of South Texas. ( lorpus Christi. July 
+1-September f. 1977 
+
+Neuberger Museum, State I niversitj of New York 
+at Purchase. Michael Singer: Sculpture and Draw- 
+ings, September 25, 1977-January I. 1978. Cata- 
+logue with text by Peter Rottmann 
+
+School of Visual Arts. New York, March 5-24, 1979 
+
+Portland Center for the \ isual \rts. Oregon, Ma\ 
+l-.lune 10, 1979 
+
+University Art Museum. UCLA, Berkeley, Michael 
+
+Singer: MATRIX 25, August-October 1979. Cata- 
+logue with text h\ Michael Auping 
+
+The Renaissance Society at the University of Chi- 
+cago, Michael Singer: New Work, May 18-June 21, 
+1980. Pamphlet with text by Jean E. Feinberg 
+
+Galerie Zabriskie, Paris. Michael Singer: Ritual Se- 
+ries Photographs and Drawings, Vpril 21-May 23, 
+1 98 1 
+
+
+
+.1. \\ alter Th 
+
+
+
+in \rt ( fallen . New ^ i 
+
+
+
+1983 
+
+
+
+HO 
+
+
+
+KIBI.KHiH \IMI . 
+
+
+
+John Russell, "Michael Singer Blertds Nature with 
+Art .it a Show Here," The \ew York Times, Decem- 
+ber27, 1975, p. II 
+
+\pi il Kingsle) . "Sculpture ( id-. New Energ) ," 
+SoHo Weekly Veu&gt;s, Januar) I. 1*I7(&gt;. |&gt;. 16 
+
+Tara Collins, "Michael Singer," \rh Magazine, vol. 
+50, Februar) 1976, p. I I 
+
+Nancy Grove [review], Irts M agazuie, vol. 50, 
+Pebruarj l'i7i&gt;. p. 20 
+
+Barbara Zucker [review], Irt \ews, vol. 75, 
+Februar) 1976, pp. I mil-' 
+
+\l.in Gussow, "Let's Put the L.md m Landscapes," 
+The \cu York Times, Section 2. Man h I I. 1976, 
+pp. 1,29 
+
+Nam \ I'm iic ! it -\ iew |. Irtforum, vol. \1\ . March 
+l'»7(). pp. 71-72 
+
+Snv.in Super. " Art lor the ( hitdoors," Mewsda) . 
+\|.nl "ill. IM7(&gt;. |)|&gt;. I \. ~)\ 
+
+Benjamin Forge) , "Art Is V\ here You Find It; Even 
+in the Marshlands," Washington Star, Ma) I I. 
+l976,pp.Cl,C4 
+
+Donald Kuspit [review], Irtin Imerica, vol 64, 
+July-August l')7(). pp. mi. Hi") 
+
+Carter Ratcliff [review], \rtforum, vol. \\. 
+October 1976, p. 63 
+
+""\ oil bespielt," Der Spiegel, Februar) 28, I' 1 / /. 
+
+p. K.I 
+
+Elizabeth Baker, "Report from kassel Dm umenta 
+\ I. \n m Imerica, vol. 65, September-! October 
+1977, p. I") 
+
+"The Younger Generation; \ Cross Sei tion," 
+\ri in Imerica, vol 65, September-Octobei 
+
+IM77. p. 'in 
+
+David L. Shirey, \ &lt; &gt;ne-S&lt; ulpture Show at the 
+Neuberger," The Seu York Times, Novembei 20, 
+1977 
+
+Kate Linker. "\lu h.iel Singei \ Position In and 
+On, Nature," \rts Magazine, \o\. &gt;2. Novembei 
+1977, pp. 102-104 
+
+Jeanne Siegel, "Notes on the "~»i •■ i&lt; ol &lt; lutdooi 
+Sculpture at Documenta 6, \rts Magazine, vol &gt;-. 
+Novembei 1977, p 132 
+
+
+
+Benjamin Forgey, " \i i out ol nature whii h is about 
+nothing hut nature," Smithsonian, vol. 8, Januai \ 
+
+1978, pp. 62-69 
+
+Mark Stevens, "Browser's I lelighls," Mewsweek, vol. 
+XCII, Novembei 13, 1978, p 105 
+
+John Russell. "Michael Singer," The \ew York 
+Times, November I 7. 1978, p C19 
+
+Bee Maeve, "The ( Jailer) Connection," ( &gt;&lt; ular, vol 
+"&gt;. Fall 1978, pp. 60,65 
+
+Benjamin Forge) . " \i i In and I II Nature," Horizons 
+I S I. n&lt;&gt;. 28, 1978, |.|i 60-65 
+
+Frances Beatty, "Whitne) Winter Biennial," \n 
+World,vo\. 3, Februar) 16-March 16, 1979 
+pp. I, 12 
+
+Robert I (ughes, "Round up at the Whitne) ( lorral," 
+Time, vol. 1 I"). Februar) 26, 1979, pp. 72-73 
+
+Lindsa) Stamm Shapiro. "Mil had Singer," Craft 
+Horizons, vol. \\\l\. Februar) 1979, p. ~&gt;l 
+
+Margaret Sheffield, "Natural Strut tine- 
+\h&lt; hael Singer's Si ulpture and I drawings, 
+Irtforum, vol. 17,Februar) 1979, pp. 18-51 
+
+\\ illiam Zimmer, " Art Foi the Me I Jecade," SoHo 
+IL,A/i News, March I. 1979, pp. 39, II 
+
+Sharon Edelman, "S&lt; ulpture Show Weaves Art and 
+Architecture," l&gt;till&lt;il&lt;&gt; I i ening Vew $, Man h 20, 
+
+1979, Sei Hon l\. p "&gt;7 
+
+Rii hard I luntington, " Albright Si ulpture Exhibit a 
+Treat," Buffalo Courier Express, April L 19 
+
+Walt Mi ( laslin, "Just getting there is hall the run," 
+Journal Herald (Dayton), April II. I979.p 19 
+
+Rii hard Whelan, I lis. erning trends at the \\ hit- 
+ney," \n Sews, vol. 78, April 1979, pp Sl - 
+
+Wade Saunders, ' Art, Ini ITie Whitney's 1979 
+Biennial," Irtin \merica, vol 67. May-June 19 
+
+P 99 
+
+Thomas Albright, "Disintegrating s &lt; ulpture and 
+Relii s, San / ram /w &gt;• f hronit /&lt;-. Seplembi 
+1979 
+
+Suzaan Boettgei l&gt;&lt;nl\ ( alifomian,\a\ 1 • • 
+Septembei 21 1979 p I I 
+
+Ritual Series /&lt; m, vol &gt; I ■ ■- \&gt; 
+
+pp &gt;' 
+
+
+
+Kl 
+
+
+
+PUBLIC COLLECTIONS 
+
+
+
+Kenneth Baker. "I [ewing to the line: Sculpture for 
+meditation," The Boston Phoenix, February 12. 
+1980. Section 3, p. 12 
+
+0ystein I Ijort, "Mot en ny sensibilitet: Naturen i 
+konsten-konsten i naturen." Paletten, 2/80, Gote- 
+borg, Sweden, |)|). 30-32 
+
+Bill Marvel, "I Inlikely trio puts on stunning show," 
+Dallas Times Herald, November 28. 1980, pp. 1,6 
+
+Nathan Knohler. The i isual Dialogue, New York, 
+1980, pp. 21 1-213 
+
+Peter Blum. "Michael Singer: Das Kunstwerk in tier 
+Natur-Die Naturals Kunstwerk.";//;. no. (&gt;. 1981, 
+pp. 60-70 
+
+John Caldwell, "Contemporai \ Artists in Summit 
+Exhibit," The New York Times. March 28, 1982, 
+p. C8 
+
+Deborah C. Phillips, "Michael Singer," Artnews, 
+vol.81, March 1982, pp. 208-209 
+
+Donald B. Kuspit, "( laves and Temples," irt in 
+America, vol. 70, \|&gt;: il 1982, pp. 129-133 
+
+Mania Corhino. "Common Ground: 5 Artists m the 
+Florida Landscape." Sarasota I liriilil-Trihinie, May 
+
+l ( t. 1982, p. IC 
+
+Kurt Loft, "Five Artists Find Common Ground in 
+New Exhibit at Ringling Museum," The Tampa 
+Tribune, June 16, 1982, pp. II). 21) 
+
+Marsha Fottler, "Contemporary Sculpture Shows 
+Respect for Surroundings," Herald Tribune, June 
+25, 1982, p. IC 
+
+Carter Ratcliff, "A Season in New York," I// Inter- 
+national, vol. \\\. September-October l')82. 
+pp. 57-58 
+
+.lean E. Feinberg, "Michael Singer: Ritual Series," 
+Arts Magazine, vol. 57, June l ( &lt;8~&gt;. pp. 69-73 
+
+
+
+Albright-Knox Art Gallery. Buffalo 
+
+Australian National Gallery, Canberra 
+
+The Chase Manhattan Bank Collection. New York 
+
+Fort Worth Art Museum 
+
+Solomon R. Guggenheim Museum. New York 
+
+Louisiana Museum of Modern Art. Humlebaek, 
+1 Jenmark 
+
+The Metropolitan Museum of Art. New York 
+
+The Museum of Modern Art. New A oik 
+
+O'Melvenj &amp; Myers, Los Angeles 
+
+Paine Webber Inc.. New York 
+
+The Prudential Insurance Company ol America. 
+
+Newark 
+
+Joseph E. Seagram &amp; Sons Inc., New York 
+Yale University \rt Gallery, New Haven 
+
+
+
+K2 
+
+
+
+l'lio ro(;u \i&gt;hi&lt;: ciu'.Diis 
+
+
+
+( 'olor 
+
+Joseph de( ,,u Id: i .ii no. 1 7 
+
+Courtesj Louisiana Museum, I lumlebaek, 
+I lerunark: c at. no. 1 1 lefl 
+
+Michael Singer: cat. no. _'&gt; s 
+
+David Stansbury: i .11. nos. K), 1-8 left and i i^hi 
+
+Black and White 
+
+Kutlolph Bun khardt, courtesj Leo Castelli Gallery, 
+New York: fig. I 
+
+Bevan I )a\ ies: i .it no. 25 
+
+Chris George: cat nos. 20, 23, 24, 26, 29 
+
+Robert I'.. Mates: fig. 6 
+
+Peter Moore, New York: lit; 5 
+
+Courtesj The Museum oi Modern \ii. New York: 
+fig. 7 
+
+Michael Singer: cat nos. 1-9, Ii- 1"). 18, 19,21,38 
+
+Photo and copyright I larrj Shunk, courtesj Leo 
+( lastelli Gallery, New York; fig. I 
+
+David Stansbury: cat nos. 10, I-'. 16, 22, 27, 30- 
+
+37, 39, Hi. II right- H&gt; 
+
+
+
+
+
+
+Exhibition H4/2 
+
+3,000 copies cil this catalogue, designed In Malcolm 
+Grear Designers and typeset 1&gt;\ Schoolej Graphics, 
+have been printed 1&gt;\ Eastern Press in March L98 I 
+for the Trustees ol The Solomon H. Guggenheim 
+Foundation on the occasion of the exhibition 
+Mn Intel Sinner. 
+
+
+
+84 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0046   0.0046      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0063   0.0017      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0081   0.0019     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0116   0.0034   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0117   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0826   0.0709              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=82;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

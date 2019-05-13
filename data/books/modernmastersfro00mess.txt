@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Modern masters from the collection of the Solomon R. Guggenheim Museum"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/modernmastersfro00mess">Modern masters from the collection of the Solomon R. Guggenheim Museum</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/modernmastersfro00mess">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>FROM THE COLLECTIOIV OF 
+
+
+
+THE SOLOMOX H. CJUGCiEXHEIM MLSEL.M 
+
+
+
+TKTJSTEES 
+
+HASJtY F. GTJGGEN^HEIM, P'RESir)E&gt;rT 
+
+AUBERT E. THIEI^E, VTCE PEESIDEJiTT 
+
+EC. H. AR?fASO&gt;r, VICE PRESIDEJiTT, AKO? Ar)Zvn:&gt;nSTILA.TI02^ 
+
+THE COTJIfTESS CASTILE STEWAitT 
+
+aiKS. HARRY F. GTJGGE^THEIii: 
+
+A. CHATDTSTCEY Ss'EVVUISr 
+
+MRS. HEJ^RY OBRE 
+
+illSS HIXi^A REBAY, DIRECTOR EMERITUS 
+
+DAJS'iEX, catto:n^ rich 
+
+aUCHAEL F. WETTACH 
+
+:medlex g. b. wheu?ley 
+
+CARL ZIGKOSSER 
+
+
+
+The exhibition program at the Solomon It. Guggenheim 
+Museum draws upon two source categories: loans from 
+other museums, collectors, artists and galleries on the 
+one hand, and holdings of the Museum Collection on the 
+other. The current exhibition entitled MODERN MAS- 
+TERS falls within the latter group. 
+
+The Guggenheim Museum, collection of painting, sculp- 
+tare and graphic art is much too extensive to be shown 
+in its entirety. Consequently, our selections, presented 
+from time to time, entphasize one particular aspect or 
+are formed around a central idea that calls for the in- 
+clusion of specific tvorhs of art. 
+
+The INAUGURAL SELECTION wliich was on view when 
+the new Frank Lloyd Wright building opened in 1959 
+was of an introductory character and ranged freely 
+across the entire Collection. ACQUISITIONS: 1953-1961, 
+presented here last spring, limited itself to post-war 
+painting and specifically to many of the significant pur- 
+chases made during the directorship of James Johnson 
+Sweeney. In the 310SPERN MASTERS choice, the empha- 
+sis shifts to the classics of the modern movement, ac- 
+quired largely during the lifetime of the Founder and 
+during the administration of the 31useum's first Direc- 
+tor, the Baroness liilla Rebay. 
+
+The purpose of this exhibition, further, is to stress areas 
+of concentration and to shotv a few artists in depth. 
+Brancusi, Picasso, Leger, Gleizes, Delaunay, 3Sondrian, 
+Chagall, Modigliani, Mare, Feininger and Seurat are 
+therefore represented by not fewer than five works each, 
+while in the instances of Klee and Gleizes, as tnany as 
+thirteen works are used to illustrate the strong repre- 
+sentation of each of these masters in the Museum's Col- 
+lection. 
+
+In this connection, it should be pointed out that the 
+Kandinsky group — separately installed and not car- 
+ried in this checklist — is in keeping with the concept 
+determining the 3IODERN MASTERS exhibition and that 
+the 22 works on view may be regarded as part of it. 
+
+Thomas M. Messer, Director 
+
+
+
+PAINTIJIG 
+
+
+
+PIERRE BONNARD 1867-1947 
+
+DINING ROOM ON THE GARDEN. Before 1933. Oil on canvas, 50 x SSVs' 
+
+
+
+GEORGES BRAQVE 1882- 
+
+PIANO AND LUTE. 1910. Oil on canvas, 36V8 x IdVs". 
+VIOLIN AND PALETTE. 1910. Oil on canvas, 36V4 x 167/s". 
+
+
+
+PAUL CEZANNE 1839-1906 
+
+THE CLOCKMAKER. 1895-1900. Oil on canvas, 36V4 x 28^/4 
+
+
+
+MARC CHAGALL 1889- 
+
+THE SOLDIER DRINKS. 1912. Oil on canvas, 43 x 371/4". 
+
+BURNING HOUSE. 1913. Oil on canvas, 41V8 x 47 V4". 
+
+PARIS THROUGH THE WINDOW. 1913. Oil on canvas, 52V8 x 54V4' 
+
+BIRTHDAY. 1915-23. Oil on canvas, 31V8 x 39 Vs". 
+
+GREEN VIOLINIST. 1918. Oil on canvas, 773/ x 42^/4". 
+
+
+
+ROBERT DELAVNAY 1885-1941 
+
+ST. SEVERIN. 1909. Oil on canvas, 44V8 x 35 Vs". 
+EIFFEL TOWER. 1910. Oil on canvas, 79 V4 x 545/8". 
+THE CITY. 1911. Oil on canvas, 57V8 x 441/8". 
+WINDOWS (SIMULTANEOUS COMPOSITION, 2ND MOTIF, 1ST PART) 
+
+1912. Oil on canvas, 213/4 x 18V8" 
+CIRCULAR FORMS. 1912? Oil on canvas, 50/8 x 76/8". 
+
+
+
+LYON EL FEINiNGER 1871-1956 
+
+GELMERODA IV. 1915. Oil on canvas, 39/8 x 31 W. 
+SUNSET ON THE SEA, I. 1927. Oil on canvas, I6V4 x 33/4". 
+CLOUD. 1936. Oil on canvas, 19 x 15/4". 
+DUNES, EVENING. 1936. Oil on canvas, 19 x 3OV2". 
+
+
+
+ALBERT GLEIZES 1881-1953 
+
+LANDSCAPE. 1912. Oil on board, 14/4 x 17/8". 
+
+PORTRAIT OF AN ARMY DOCTOR. Tout, 1914. Oil on canvas, 47/4x37// 
+
+BROOKLYN BRIDGE. 1915. Oil on canvas, 40/8 x 40/8". 
+
+COMPOSITION. Netv York, 1915. Oil on board, 28/4 x 28/4". 
+
+ON BROOKLYN BRIDGE. New York, 1917. Oil on canvas, 63/4 x 51". 
+
+ON A MUSIC HALL SINGER. New York, 1917. Oil on board, 40 x 29/4". 
+
+STUNT FLYING. New York, 1917. Oil with sand on board, 40 x 29%". 
+
+
+
+JVAX GRIS 1887-1927 
+
+ROOF TOPS. 1911. Oil on canvas, 20/8 x 13//'. 
+STILL LIFE. March 1916. Oil on canvas, 18/8 x 15". 
+Gift, Katherine S. Dreier Estate, 1953. 
+FRUIT BOWL. February 1917. OU on wood, 21/8 x 12%". 
+FRUIT BOWL ON CHECKERED CLOTH. November 1917. Oil on wood 
+
+31/4 X 21/8". 
+
+
+
+PAVL KLEE 1879-1940 
+
+RED BALLOON, VI 179. 1922. Oil on gauze mounted on board, I21/2 x I2V4". 
+OPEN BOOK, E6. 1930. Oil on canvas, HVs x 16 Y4". 
+
+ROLLING LANDSCAPE, NO. 682. 1938. Mixed media on canvas, I53/4 x 21^8". 
+SEVERING OF THE SNAKE. 1938. Tempera on burlap, 20 V2 x 15 V2". 
+
+
+
+FERNAND LEGEK 1881-1955 
+
+SMOKERS. 1911. Oil on canvas, 51 x 37V8". 
+
+NUDE MODEL IN THE STUDIO. 1912. Oil on burlap, 5OV4 x 38 Vs". 
+
+VARIATION OF FORM. 1913. Oil on burlap, 39 x 491/4". 
+
+VARIATION OF FORM. 1913. Oil on burlap, 18 x 24". 
+
+MURAL PAINTING. 1924-25. Oil on canvas, 71 x 31 Vs". 
+
+WOMAN HOLDING A VASE. 1927. Oil on canvas, 57 Vs x 383/8". 
+
+
+
+FRANZ MARC 1880-1916 
+
+WHITE BULL. 1911. Oil on canvas, 393/4 x 531/3". 
+
+BOS ORBIS MUNDI. 1913. OU on canvas, 27/8 x 55/8". 
+
+YELLOW COW. 1911. Oil on canvas, 553/8 x 747/8". 
+
+THE UNFORTUNATE LAND OF TYROL. 1913. OU on canvas, 52 x 79". 
+
+STABLES. 1913-14. Oil on canvas, 29/8 x 62/4". 
+
+BROKEN FORMS. 1914. Oil on canvas, 44/8 x 331/". 
+
+
+
+AMEDEO MODIGLIANI 1884-1920 
+
+NUDE. Paris, 1917. Oil on canvas, 283/4 x 453/4". 
+
+PORTRAIT OF STUDENT. 1917? Oil on canvas, 24/8 x I8I/4". 
+
+YELLOW SWEATER. 1919? Oil on canvas, 393/8 x 251/2". 
+
+
+
+
+Chagall: Green Violinist. 1918. 
+
+
+
+
+Delaunay: St. Severin. 1909. 
+
+
+
+
+Gleizes: Portrait of an Army Doctor. 1914. 
+
+
+
+
+Klee: Red Balloon, VI 179. 1922. 
+
+
+
+
+Leger: Smokers. 1911. 
+
+
+
+
+Marc: The Unfortunate Land of Tyrol. 1913. 
+
+
+
+
+Picasso: Mandolin and Guitar. 1924. 
+
+
+
+
+Modigliani: Yellow Siveater. 1919? 
+
+
+
+
+
+
+Brancusi: Sorceress. 1916. Oak Base. 1920. 
+
+
+
+Mondrian: Blue Chrysanthemum. 
+
+
+
+PIET MONDRIAN 1872-1944 
+
+COMPOSITON 7. 1913. Oil on canvas, 417/8 x 45". 
+COMPOSITION 8. 1914. OU on canvas, 37 V4 x 217/8". 
+COMPOSITION. 1916. Oil on canvas and wood strip, 47/4 x 29/2". 
+COMPOSITION 2. Paris, 1922. Oil on canvas, 217/8% 21/3". 
+
+
+
+PABLO PICASSO 1881 - 
+
+STILL LIFE. 1908. Oil on canvas, 28/4 x 257/8". 
+ACCORDIONIST. Ceret, 1911. Oil on canvas, 5I/4 x 35/4". 
+LANDSCAPE. Ceret, 1911. Oil on canvas, 25/8 x 19/4". 
+
+BOTTLE AND GLASS. 1911-12. Oil on paper mounted on canvas, 25/8 x 19/4 
+MANDOLIN AND GUITAR. Juan-les-Pins, 1924. Oil with sand on canvas, 
+
+56/8 X 79/4". 
+
+
+
+HENRI ROUSSEAU (Le Douanier) 1844-1910 
+
+ARTILLERYMEN. Circa 1895. Oil on canvas, 31/4 x 39//'. 
+FOOTBALL PLAYERS. 1908. Oil on canvas, 39/2 x 31/8". 
+
+
+
+GEORGES-PIERRE SEURAT 1859-1891 
+
+FARM WOMEN AT WORK. 1882. Oil on canvas, IS/s x I8/4" 
+SEATED WOMAN. 1883. Oil on canvas, 15 x I8/4". 
+HORSE. 1883? Oil on canvas, 12/4 x Id/s". 
+FARM LABORER WITH HOE. 1884. OU on canvas, 18/s x 22" 
+
+
+
+SCULPTURE 
+
+
+
+JiEiliV ARP 1887- 
+
+GROWTH. 1938. Marble, 391/2" high. 
+
+CONSTANTIN BRANCVSI 1876-1957 
+
+MUSE. 1912. Marble, 17 1/2" high; wood base 29" high. 
+
+Gift, Arde Bulova, 1958. 
+SORCERESS. 1916. Wood, 39V8" high; limestone base, SVs" high. 
+OAK BASE. 1920. Oak, three sections, 38 Vs" high. 
+ADAM AND EVE. 1921. Chestnut, one section, old oak, two sections, 
+
+88I/2" high; limestone base, 5V4" high. 
+KING OF KINGS. Food, IW/s" high. 
+MIRACLE. 1936. Marble, 43" high; base of two limestone sections, 21 Ys" high. 
+
+JACQUES LIPCHITZ 1891 - 
+
+RETURN OF THE CHILD. 1941. Granite, 45 Va" high. 
+
+JOAN MIRO AND JOSEPH LLORENS ARTIGAS 
+
+PORTICO. April 1956. Ceramic, nine sections, 98" high. 
+
+AMEBEO MODIGLIANI 1884-1920 
+HEAD. 1912? Limestone, 25" high. 
+
+HENRY MOORE 1898- 
+
+FIGURE. 1956-60. Elmwood, 111" high. 
+
+
+
+WATERCOIORS, DRAWINGS 
+
+
+
+LYONEL FEINMNGER 1871-1956 
+
+MOONLIT. September 22, 1923. Watercolor and ink, 10 x 14". 
+LUNEBURG II. 1933. JFatercolor and ink, 17 x 14". 
+TUG. 1941. Watercolor and ink, I2V2 x 19". 
+
+
+
+ALBERT GLEIZES 1881-1953 
+
+STUDY 1 FOR "PORTRAIT OF AN ARMY DOCTOR". Toul, 1915. 
+
+Ink, 7^A X 6". 
+STUDY 4 FOR "PORTRAIT OF AN ARMY DOCTOR". Toul, January 1915. 
+
+Ink, SVs x 71/8". 
+STUDY 5 FOR "PORTRAIT OF AN ARMY DOCTOR". Toul, 1915. 
+
+Pencil, 95/8 x 73/8". 
+STUDY 7 FOR "PORTRAIT OF AN ARMY DOCTOR". Toul, 1915. 
+
+Ink with crayon, 9Y4 x 7y8". 
+STUDY FOR "DOWNTOWN". New York, 1916. Gouache, 24^/4 x ISVs". 
+TARRYTOWN. New York, 1916. Gouache, 24 Vs x 18 W. 
+
+
+
+PAUL, KLEE 1879-1940 
+
+CONTACT OF TWO MUSICIANS, 93. 1922. Mixed media on gauze, 18 x 12"; 
+
+gouache on paper mount, 2514 x 19". 
+AGING VENUS. 1922. Gouache, ink, collage, llYs x 231/8"; gouache on 
+
+board mount, 13 x 23V8". 
+TROPICAL GARDENING, VI 55. 1923. Watercolor and ink, 7% x 18"; 
+
+gouache on paper mount, 9y8 x 2214". 
+BIRD IN NOVEMBER, 156. 1923. Watercolor and ink, UVs x I71/2"; 
+
+gouache on paper mount, 18% x 23%". 
+THE FORTRESS OF CALVI, U.6. 1927. Ink and crayon, im x WA" ; 
+
+paper mount, 17 Vs x 23". 
+THE CLOWN EMIGRATES, K 9. 1931. Ink, 17 x MVs" ; paper mount, 
+
+255/8 X 195/8". 
+TWO WAYS, V 16. 1932. Watercolor, I2V4 x m/a" ; paper mount, 
+
+171/2 X 24". 
+THREE YOUNG COUPLES, qu 6. 1932. Gouache and ink, 87/8 x 145%"; 
+
+paper mount, 121/i x 171/8". 
+POMONA GROWING UP, K.13. 1937. Oil on paper mounted with cloth strips, 
+
+215/8 X I4V4"; paper mount, 25 V8 x 19/8". 
+
+
+
+FRANZ MARC 1880-1916 
+
+RED DEER. 1913. Gouache, 16/8 x 13 W. 
+
+ST. JULIEN L'HOSPITALIER.1913. Gouache with ink and gold, 17/8 x 15/8". 
+
+HORSE ASLEEP. 1913? Gouache and charcoal, 15/8 x I8V2". 
+
+BLUE HORSES. 1914? Gouache and ink, 7% x 51/4". 
+
+PRIMAL BEASTS. 1914? Gouache and ink, 15/2 x 18/8". 
+
+
+
+AMEDEO MODIGLIANI 1884-1920 
+
+BEATRICE HASTINGS. 1915? Pencil and conte crayon, 12 x 75/8". 
+
+
+
+PIET MONDRIAIV 1872-1944 
+
+BLUE CHRYSANTHEMUM. Watercolor, 10 Vs x SVs". 
+CHRYSANTHEMUM. Pencil, 10 x lUA". 
+
+
+
+PABLO PICASSO 1881 - 
+
+WOMAN WITH GUITAR. 1914. Pencil, 25 x I8Y4". 
+NUDE. 1941. Ink, 15V8 x 12". 
+
+
+
+KURT SCnWITTERS 1887-1948 
+
+MERZ 163, WITH WOMAN, SWEATING. 1920. Collage mounted on 
+
+paper mat, llVs x 8^/^". Gift, Katherine S. Dreier Estate, 1953. 
+
+MERZ 133, PALE. 1921. Collage mounted on paper mat, 12Vs x 8V2". 
+
+Gift, Katherine S. Dreier Estate, 1953. 
+MERZ 199. 1921. Tempera on paper and cloth collage, 7ys x 5y8". 
+
+Gift, Katherine S. Dreier Estate, 1953. 
+
+
+
+GEORGES-PIERRE SEVRAT 1859-1891 
+
+CAMPSTOOL. 1881-82. Conte crayon, 6% x 4V8". 
+PLACE DE LA CONCORDE, WINTER. 1882-83. 
+
+Conte crayon and chalk, 9V8 x 12V8". 
+CHILD IN WHITE (STUDY FOR "A SUMMER SUNDAY ON THE 
+GRANDE JATTE"). 1884. Conte crayon and chalk, 12 x 91/4". 
+MONKEY, SITTING UP (STUDY FOR "A SUMMER SUNDAY ON 
+
+THE GRANDE JATTE"). 1884. Conte crayon, 6Y4 x 8V8". 
+THE CLIPPER. 1887. Conte crayon, 914 x I2V2". 
+GATEWAY. 1887. Conte crayon, 93/4 x 12 V4". 
+DOOR. 1888. Conte crayon, 8^/4 x 12 V4". 
+
+
+
+STAFF 
+
+
+
+Director 
+
+Curator of Education 
+
+Assistant Curator 
+
+Activities Secretary 
+
+Registrar 
+
+Public Relations 
+
+Conservation 
+
+Photography 
+
+
+
+Thomas M. Messer 
+
+Louise Averill Svendsen 
+
+Daniel Robbins 
+
+Shelia More Ogden 
+
+Arlene B. Dellis 
+
+Peter Pollack and Donna Butler 
+
+Orrin Riley and Saul Fuerstein 
+
+Robert E. Mates 
+
+
+
+Business Administrator 
+Building Superintendent 
+Head Guard 
+
+
+
+Glenn H. Easton, Jr. 
+Peter G. Loggin 
+John J. Teeling 
+
+
+
+Exhibition '61/4 
+
+
+
+August-October 1961 
+
+
+
+2000 copies of this checklist, designed by Herbert Matter 
+
+have been printed by Sterlip Press, Inc. 
+
+in August 1961 
+
+for the Trustees of The Solomon R. Guggenheim Foundation 
+
+on the occasion of the exhibition 
+
+'Modern Masters from the Collection of The Solomon R. Guggenheim Museum" 
+
+
+
+THE SOLOMOi-V K. Gl ^GEXIIEIM MI SEIM 
+
+
+
+I071 FIFTH AVEiXUE, NEW VOHK 2«, X.Y 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0049   0.0049      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0069   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0088   0.0019     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0125   0.0037   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0127   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0825   0.0698              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=82;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

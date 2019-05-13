@@ -1,0 +1,2932 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Omaggio a Jean Hélion : opere recenti : = Homage to Jean Hélion : recent works : Venezia, primavera 1986, Collezione Peggy Guggenheim"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jeanhlion00hlio">Omaggio a Jean Hélion : opere recenti : = Homage to Jean Hélion : recent works : Venezia, primavera 1986, Collezione Peggy Guggenheim</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jeanhlion00hlio">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Omaggio 
+a Jean Hélion 
+
+
+
+Homage 
+
+to Jean Hélion 
+
+
+
+Opere recenti 
+
+
+
+Recent Works 
+
+
+
+&amp; 
+
+
+
+r i i 
+
+
+Il II 
+
+
+
+
+1 .f 
+
+
+ti^J S 
+
+
+/ 
+
+
+"| JM . 
+
+
+t^K Til 
+liB&amp;— .... . 
+
+
+4 
+
+
+
+
+Lm^^t ^È 
+
+
+^m l* ^\ 
+
+
+\ ^^* 
+
+
+'^sl J^^^l: 
+
+
+-■=^HL^/ l 
+
+
+
+
+
+&lt;&lt; 
+
+
+
+Digitized by the Internet Archive 
+
+in 2012 with funding from 
+
+Metropolitan New York Library Council - METRO 
+
+
+
+http://archive.org/details/jeanhlionOOhlio 
+
+
+
+Jean Hélion 
+
+
+
+In copertina: 
+Chute, 1982 
+(cat. n. 17) 
+
+Cover: 
+Chute, 1982 
+(cat. no. 17) 
+
+
+
+Omaggio a Jean Hélion 
+
+Opere recenti 
+
+
+
+Homage to Jean Hélion 
+
+Recent Works 
+
+
+
+A cura di Fred Licht 
+
+con l'assistenza di Todd Porterfield 
+
+
+
+Edited by Fred Licht 
+Todd Porterfield, Assistant 
+
+
+
+Venezia, Primavera 1986 
+Collezione Peggy Guggenheim 
+
+
+
+Venice, Spring 1986 
+
+Peggy Guggenheim Collection 
+
+
+
+Jean Hélion, nato nel 1901+, e oggi compreso nel 
+gruppo dei grandi artisti ottantenni viventi quali 
+Henry Moore, Salvador Bali, Willem de Kooning , 
+eRufino Tamayo, una generazione che ha assunto 
+nella nostra mente una statura leggendaria. Come 
+ì suoi pari, Hélion ha un trascorso creativo che 
+affonda le sue radici nel periodo compreso tra le due 
+guerre mondiali, per poi manifestarsi con nuove 
+intuizioni ed un rinnovato linguaggio figurativo 
+dagli anni immediatamente successivi allaguerra 
+in poi. Come fa notare F red Licht, nel saggio 
+del catalogo che accompagna questa mostra, Hélion 
+non rientra in alcuna categorizzazione tradizionale 
+proprio perché trascende sia i confini esistenti 
+tra arte europea e americana, sia quelli che spesso 
+separano l'astrattismo dalV arte figurativa. Mentre 
+V appartenenza a un luogo geografico o ad una 
+nazione si può considerare un fatto puramente di 
+destino, solo parzialmente soggetto ad un controllo, 
+le caratteristiche stilistiche e formali di un artista 
+sono essenzialmente il frutto di scelte volontarie, o 
+diciamo, gli inevitabili risultati di un processo di 
+maturazione che rifiuta soluzioni ormai vuote di 
+significato. Quindi l'arte di Hélion ci ricorda che se 
+la pittura nella sua funzione semiologica è sempre 
+astratta, d'altro lato non può essere riconosciuta 
+come arte se non rispecchia livelli di realtà 
+visivamente comprensibili. L'arte di artisti in età 
+avanzata, premesso che abbia, come quella 
+di Hélion, mantenuto la sostanza, è di natura 
+particolare. Come tutti noi, pittori e scultori 
+contemporaneamente guadagyiano e perdono via via 
+che procedono nella vita. I contrasti decisamente 
+accesi della giovinezza di Rembrandt lasciarono il 
+posto ad una rappresentazione grave e in qualche 
+modo mediata, per assumere verso la fine della sua 
+vita una sottile diversificazione dei toni e dei colori 
+che esprimeva le esperienze accumulate attraverso 
+superfici luminose, liberate da ogni traccia di 
+manierismo. Allo stesso modo l'ormai anziano 
+Kandinsky, durante il suo ultimo esilio, parigino, 
+si lasciò alle spalle ogni riferimento dogmatico per 
+tendere ad una fusione quasi giocosa delle sue 
+precedenti convinzioni. 
+
+Siamo stati indotti a presentare qui "Omaggio a Jean 
+Hélion" dall'importanza e dall'eccezionale qualità 
+delle opere realizzate negli ultimi anni dall'artista. 
+La nostra decisione è stata rafforzata dalla 
+
+
+
+Jean Hélion, born in 190£, is today one ofthegreat 
+octogenarians among such surviving artists as 
+Henry Moore, Salvador Doli, Willem de Kooning, 
+and Rufino Tamayo, a generation that in our minds 
+assumes legendary status. Like his peers, Hélion has 
+a creative past that reaches deeply into the period 
+between the two world wars to emerge with new 
+insights and afresh imagery during the immediate 
+postwar years and thereafter. As Fred Licht points 
+out in the catalogue essay that accompanies this 
+exhibition, Hélion eludes conventional 
+categorisation by trayiscending the borderlines 
+between European and American art as well as those 
+often separating abstraction from representation. 
+While geography and nationality may be considered 
+a matter of fate and only partially subject to 
+deliberate control, stylistic arid formal attributes 
+with an artist are, to a high degree, matters of 
+decision, or let us say, inevitable results of a 
+maturing process that will reject alternatives that 
+have lost their meaning. Hélion' s art thus reminds 
+us that painting in its semiologie function is always 
+abstract, while on the other hand never recognizable 
+as art unless reflective of visually comprehensible 
+levels of reality. The art of aged artists, provided it 
+has like Hélion 's retained its substance, is of a 
+special kind. Like all of us, painters and sculptors 
+simultaneously gain and lose as they progress 
+through life. Rembrandt's starkly effective contrasts 
+of his youth gave way first to a serious, somewhat 
+muted imagery, to assume toward the end of his life, 
+a subtle differentiation of tone and color that 
+conveyed his accumulated wisdoms through 
+shimmering surfaces freed from every trace of 
+self -consciousness. Similarly, the old Kandinsky in 
+his last, Parisian exile left behind him dogmatic 
+concerns as he moved toward an almost playful 
+fusion of earlier convictions. 
+"Homage to Jean Hélion" is presented here with 
+strong commitments to the validity and exceptional 
+quality of the work completed by the artist during 
+recent years. Our decision was also predicated upon 
+the fact that Hélion' s late oeuvre is little known, 
+having appeared in bits and pieces but never to our 
+knowledge as an identifiable entity. Its modest scale 
+suggested its placement in the "barchessa" of Palazzo 
+Venier dei Leoni. The painter's one time marriage to 
+Peggy Guggenheim's late daughter Pegeen adds to 
+
+
+
+consapevolezza che l'opera tarda diHélion epoco 
+conosciuta, già presentata in modo frammentario, 
+ma, a nostra conoscenza, mai come entità realmente 
+identificabile. Le dimensioni ridotte della mostra 
+hanno suggerito il suo allestimento nella barchessa 
+di Palazzo Veyiier dei Leoni. Il fatto che il pittore fu 
+sposato con la figlia di Peggy Guggenheim, 
+Pegeen, rappresenta una ragione supplementare 
+per mostrare le sue opere sotto gli auspici 
+del Guggenheim. 
+
+Ma rimane ancora da precisare che tutti i prestitiper 
+questa mostra provengono da Jean Hélion o da Karl 
+Flinker, suo amico e gallerista per molti anni. 
+Il Guggenheim esprime qui la sua gratitudine ad 
+entrambi come a Fred Licht, curatore di questo 
+"Omaggio a Jean Hélion". 
+
+
+
+our mind a further reason for the presentation of his 
+work under Guggenheim auspices. 
+It remains to be stated that all loans to this exhibition 
+come to us either from Jean Hélion or from Karl 
+Flinker his friend and dealer for many years. 
+The Guggenheim's gratitude is herewith expressed 
+to both, as well as to Fred Licht who curatedthis 
+"Homage to Jean Hélion". 
+
+
+
+Thomas M. Messer 
+
+Direttore della Fondazione Solomon R. Guggenheim 
+
+
+
+Thomas M. Messer 
+
+Director of The Solomon R . Guggenheim Foundation 
+
+
+
+Mori ami, lepeintre abstrait Jessie Reichek, s'est 
+plaint à moi Merde sa crainte qu'un motif n'impose 
+au spectateur une facon de voir et depenser, n 'altère 
+sa liberie. J'accepterais volontiers cette pensée 
+chinoise sije ne croyais qu'en donnant à chanter 
+aux yeux du spectateur on les soulage au lieu de les 
+accabler. Mais que dire de ce monde contradictoire, 
+pauvre et violent, grimagant et luxurieux sinon que 
+toute forme est ungeste, un signal d'un sensprofond 
+qui court aufond de toute chose comme une rivière 
+souterraine. 
+
+A la fin de ma vie, après avoir beaucoup chanté la 
+splendeurdes citrouilles et l'érotisme des chapeaux 
+dans les bras de Vun ou sur la tète de I' autre, j e me 
+rassure en croyant qu'on ne chante qu'une chose: la 
+vie, train deplaisirs autant que de soucis mais où 
+l'artiste s'ingénie à ce que les premiers triomphent. 
+Si la beauté n'excusepas tout, elle est ce que Vonpeut 
+en tirer de moins nefaste. Chaque objet du monde est 
+un cri, chaque ètre déambule comme un danseur sur 
+une musique qu'il entend aufond de lui. J'aipeinten 
+rouge des culottes qui ne l'étaientpas et en violet des 
+femmes qui étaient nues parce que telle était ma 
+bonne humeur, telle était ma facon de chanter 
+le bonheur de fune et de V autre. J'ai cherché à ne 
+jamais trahir le signe des choses, à Vaiguiser, au 
+contraire, aussi loin que tries sens pouvaient aller 
+avec I'espoir qu'en ce point là, du moins, j'avais fait 
+le monde plus large pour tous. 
+Crier que les toits s'en vont à perpétuité au-delà de 
+mon atelier de Paris comme une mer conduisant à 
+toutes lesjoies du rythme, à toutes les cascades de 
+lumières et d 'ombres, ce n'estpas ignorerque sous 
+ces toits se cachent, peut-ètre, des misères et, 
+pourquoipas, des bonheurs qui se veulentdiscrets. 
+C'est résumer toutes les choses dans un chant. 
+Comme les oiseaux quiperchentjustement sur ces 
+toits ou sur les portées musicales desfils électriques, 
+n'aurais-jeproféré qu'un cui-cu de bonheur dans 
+le vacarme assourdissant de la vie quotidienne que 
+je n'aurais pas perdu mon temps. 
+Void des citrouilles et des cuisses, des chevelures et 
+desgestes, partout, dans lesfenètres, sur les bancs. 
+Chacun de nous voltige comme une note dans ce que 
+je veux ètre une symphonie malgré la contradiction 
+journalière desfaits. Atroces ou amusants, 
+ces derniers qui maculent la face desjournaux 
+n'empèchent pas leur angle de sourire. En des temps 
+
+
+
+depauvreté singulièrej'aipeint l'ceuf-sur-le-plat que 
+j'allais manger. Tout froid qu'il fut devenu, je n'y ai 
+jamais manque réchauffé par le soleil auquel il 
+ressemble un petit peu dans un Ut de nuages. Pitre 
+done, j e veux bien, s'il s'agit defaire rire le monde: 
+toi et moi que les ans, les maladies et les soucis 
+accableraient si l'on ne savait recourir atout instant 
+au salut par la beauté. 
+Voici, du moins, ce que j'ai essay é. 
+
+Jean Hélion 
+
+Bigeonnette le 21+ Mai 1985 
+
+
+
+PS. Je voudrai óterde ce texte tout ce quipourrait 
+sonnertriomphant. Lepeintre a l'orgueil depousser 
+un cri dejoie devant choses et gens avec une humilité 
+profonde. Là corde sa vérité. 
+
+
+
+Jean Hélion 
+
+
+
+8 Se la lingua potesse funzionare polifonicamente , 
+si potrebbe sperare di scrivere con successo 
+dell'importanza di Jean Hélion, poiché i suoi 
+contributi sono molteplici e si sviluppano in chiavi 
+molto diverse. Sebbene la pittura abbia sempre 
+rappresentato il suo interesse principale, i ruoli 
+critico e storico da lui interpretati meritano quasi 
+tanta attenzione quanto la sua pittura. L'Hélion 
+artista ha creato un cospicuo insieme di opere 
+eccellenti; il critico ha scritto alcune delle 
+pubblicazioni più importanti degli anni Trenta e i suoi 
+taccuini (la maggior parte dei quali sono conservati 
+alla Bibliothèque Nationale di Parigi) sono fonte per 
+una nuova e autorevole osservazione approfondita, 
+non solo delle sue opere ma anche dell'intero sviluppo 
+dell'arte dagli anni Trenta in poi. Come figura 
+storica, egli è uno dei protagonisti principali 
+del grande dramma che ha mescolato le tradizioni, 
+le energie e gli ideali europei a quelli americani. 
+Questi tre ruoli dovrebbero essere considerati 
+simultaneamente, poiché sono interdipendenti 
+nella vita di Hélion. 
+
+L'artista, il critico e il personaggio storico si 
+sostengono e si caricano l'un l'altro così 
+integralmente, che lo scrivere di Hélion viola il 
+complicato equilibrio delle sue varie gesta. È la prosa 
+stessa che obbliga a separare le diverse sfere di 
+azione e a parlare di esse in modo sequenziale, invece 
+di presentarle allo stesso momento. La maggior parte 
+dei visitatori di questa esposizione proveranno, 
+prima o dopo, un certo malessere che accompagna 
+sempre il fatto di dover riconoscere di aver mal 
+interpretato la realtà. Le affermazioni audaci delle 
+immagini, in apparenza visivamente immediate, 
+sembrano tendere ad una assimilazione egualmente 
+immediata dei colori, delle forme e dei ritmi. Non ci si 
+mette troppo a capire, comunque, che ci viene chiesto 
+di più e che dobbiamo seguire un'altra chiave. 
+Scendono in gioco le percezioni critiche della mente 
+di Hélion e, proprio quando stiamo cominciando 
+a ordinare la nuova dimensione della sua opera, 
+scopriamo di doverci intonare tuttavia ancora 
+ad un'altra voce della fuga: la relazione dell'opera di 
+Hélion con la storia dell'arte è evidente nel momento 
+in cui diventano manifeste le risposte dell'artista 
+a Fouquet, a Poussin e a qualsiasi novero di artisti 
+pertinenti e disparati. Qui non è coinvolto solo il 
+passato, ma anche il presente (è possibile pensare 
+
+
+
+If language could be made to work polyphonically , 
+one could hope to write successfully of Jean Hélion's 
+importance. For Hélion's contributions are manifold 
+and develop in very diverse keys. Though painting 
+was always his dominant concern, his criticism and 
+his historic role deserve almost as much attention as 
+his paintings. The artist Hélion has produced an 
+immense body of work of the finest quality. The critic 
+Hélion contributed some of the most important 
+publications of the 1930s and his notebooks (most of 
+them now housed in the Bibliothèque Nationale in 
+Paris) are a source of new and influential insight not 
+only into his own work but into the whole nature of 
+art from the 1930s on. As a historical figure he is one 
+of the essential protagonists in the great drama that 
+compounded European with American traditions, 
+energies and ideals. These three roles should be 
+considered simultaneously because they are 
+interdependent in Hélion's life. 
+Artist, critic and historical personage sustain and 
+charge each other so integrally that writing about 
+him violates the complicated balance of Hélion's 
+diverse achievement. One is forced by prose to 
+separate the various spheres of action and speak 
+of them sequentially instead of presenting them 
+simultaneously. Most visitors to the present 
+exhibition will sooner or later feel a certain malaise 
+which always accompanies the recognition of having 
+misread the evidence. The bold, seemingly direct 
+visual statements of the images seem to demand an 
+equally direct visual assimilation of colors, forms and 
+rhythms. It isn't long however, before we realize that 
+there is more that is demanded of us and that we must 
+modulate into another key. The critical perceptions 
+of Hélion's mind come into play and just as we are 
+beginning to adjust to the new dimension of his work 
+we discover that we must attune ourselves to yet 
+another voice in the fugue: the relationship of 
+Hélion's work to the history of art becomes evident as 
+the artist's responses to Fouquet, to Poussin and to 
+any number of germane and disparate artists become 
+manifest. Not only the past is involved here but also 
+the present (is it possible to look at Hélion's work 
+without remembering that Lichtenstein is an avowed 
+admirer of the older master?) and probably the future 
+as well. Only the very casual visitor will limit himself 
+to cherishing the stimulating exuberance of Hélion's 
+figurative imagination. We, like the artist who never 
+
+
+
+all'opera di Hélion senza ricordare che Lichtenstein è 
+un suo ammiratore dichiarato?), e forse anche il 
+futuro. Solo il visitatore casuale si limiterà a serbare 
+in cuore l'esuberanza stimolante della fantasia 
+figurativa di Hélion. Noi, come l'artista che non ha 
+mai creduto nell'improvvisazione e ha rifuggito le 
+prime impressioni, dobbiamo prima riconoscere la 
+grande potenza visiva dei suoi quadri e quindi tornare 
+a loro, dopo aver esplorato il più vasto contesto 
+teorico, intellettuale e storico da cui si sono evolute le 
+opere individuali. Poussin, un artista molto ammirato 
+da Hélion, scelse come suo motto la frase: «Je n'ai rien 
+negligé». Ci si sente sfidati alla vista dell'arte 
+di Hélion, dalla sua reale energia e dalla sua probità 
+costante che ci portano a seguire l'aspirazione 
+di Poussin, e a non lasciare alcunché di negletto al fine 
+di contribuire ad avvicinarci di più a questi quadri che 
+sono allo stesso tempo così immediati ed enigmatici. 
+Uno sguardo alla biografia di Hélion indica 
+immediatamente che egli è più profondamente 
+e più disinvoltamente "engagé" di molti suoi 
+contemporanei. Nella sua carriera, egli ha subito 
+le conseguenze della sua probità che ne ha fatto 
+un artista scomodo, pungolandoci sempre 
+col voler esaminare le nostre reazioni invece 
+di accontentarsene semplicemente. È sempre stato 
+ammirato, ma di un'ammirazione avara. Sapere che 
+Hélion ha mantenuto la sua posizione di artista 
+onorato e inattaccabile, senza essere effettivamente 
+legato da alcun contratto a una galleria commerciale, 
+negli anni tra il 1946 ed il 1975, durante l'apice del 
+boom finanziario del mercato artistico, significa 
+sapere molte cose su di lui. 
+L'episodio più clamoroso e anche più difficile della 
+carriera di Hélion, un episodio che ha coinvolto il suo 
+onore da un punto di vista tanto morale quanto 
+estetico e pratico, fu il suo ritorno, famoso e spesso 
+equivocato, alla pittura figurativa, nel 1938 circa, 
+dopo essere stato per un decennio una delle figure 
+principali nelle prime file degli artisti astratti. Oggi è 
+tanto sbagliato interpretare questa evoluzione verso 
+il figurativo, come una realizzazione profetica 
+dell'arte figurativa degli anni Sessanta e Settanta, 
+quanto lo era ieri interpretare "l'abiura" di Hélion 
+dell'arte non figurativa come un atto di tradimento. 
+Né profezia né tradimento motivarono, verso la fine 
+degli anni Trenta, i sorprendenti cambiamenti 
+nell'arte di Hélion. Le energie, comprese nella 
+
+
+
+trusted improvisation and shied away from first 
+impressions, must first recognize the high visual 
+potency of his paintings and then return to them after 
+having explored the larger intellectual, historical, 
+theoretical context from which the individual works 
+evolved. Poussin, an artist much admired by Hélion, 
+chose "Je n'ai rien negligé" as his motto. One feels 
+challenged by the sight of Hélion's art, by its 
+authentic energy and its constant probity, to follow 
+Poussin's aspiration and neglect nothing that might 
+contribute to bring us closer to these paintings which 
+are at once so forthright and so enigmatic. 
+A glance at Hélion's biography indicates immediately 
+that he is more un-selfconsciously and more deeply 
+"engagé" than most of his contemporaries. In his 
+career he has suffered the consequences because his 
+probity has made him an uncomfortable artist who 
+always prods us to insist on examining our responses 
+instead of simply enjoying them. He has always been 
+admired but the admiration has been grudging. To 
+know that Hélion retained his position of honored and 
+unassailable artist without being contractually 
+affiliated with a commercial gallery during the years 
+1946-1975, that is to say during the hey-day of the art 
+market's financial boom, is to know a great deal 
+about him. 
+
+The most clamorous and also the most difficult 
+incident in Hélion's career, an incident which 
+involved his honor on a moral as well as an esthetic 
+and a practical level, was his famous and frequently 
+misunderstood return to figurai painting circa 1938 
+after being for a decade one of the most central 
+figures in the front ranks of abstract artists. It is as 
+wrong today to interpret this evolution towards the 
+figurai as a prophetic realization of figurative art in 
+the sixties and seventies as it was wrong yesterday to 
+interpret Hélion's "abjuration" of non-figurative art 
+as an act of treason. Neither prophecy nor treason 
+motivated the startling changes in Hélion's art as the 
+thirties drew to a close. The energies implied in the 
+geometry of his earlier paintings had come to 
+maturation until the suspenseful, clenched forms 
+burst open just as a sharply outlined and hard bud is 
+superseded by the irregular and tender shapes of the 
+blossom. Hélion stated as much in a retrospective 
+entry in his notebook of 1948: "De 1936 à 1939 j'ai 
+essayé de contraindre mes compositions abstraites 
+et les elements qui les formaient, à se charger de la 
+
+
+
+io geometria delle sue prime opere , si maturarono 
+nel momento in cui le forme, serrate e piene di 
+incertezza, si aprirono violentemente, proprio come 
+le forme tenere e irregolari del fiore prendono il posto 
+del duro bocciolo dai profili netti. Hélion ha affermato 
+altrettanto in una scheda retrospettiva del suo 
+taccuino del 1948: «De 1936 à 1939 j'aiessayé de 
+contraindre mes compositions abstraites et les 
+elements qui les formaient, à se charger de la qualité 
+des figures du monde que j'avais toujours ambitionné 
+de peindre. Une sphere devait maintenant resignifier 
+une tète; un cylindre resignifier un bras; un rectangle 
+rebàtir un mur; une transparence refaire l'eau. Si 
+bien que je me suis retrouvé, fin 1938 ou en '39, face à 
+des elements dont l'abstraction éclatait partout: où 
+l'image du monde bourgeonnait sourdement. Je m'en 
+suis apergu et je suis retourné au motif». Le sue 
+lettere ed i suoi taccuini provano che egli era 
+consapevole che sarebbe stato equivocato, sia dagli 
+artisti astratti che da quelli figurativi e dai critici e 
+mecenati di ambedue le fazioni. La sua decisione di 
+pittore aveva la stessa fermezza con la quale più tardi 
+egli, nel 1939, lasciò l'America per unirsi alle forze 
+armate francesi, proprio nel momento in cui un gran 
+numero di artisti francesi stava escogitando mezzi 
+diversi per trasferirsi al sicuro a New York. L'onore 
+di Hélion è sempre stato garantito sia dalla sua arte 
+che dalla sua vita. 
+
+Probabilmente non è del tutto fortuito che Hélion 
+abbia introdotto l'elemento figurativo nella sua opera 
+nel periodo in cui visse e operò in America. Il suo 
+trasferimento negli Stati Uniti era solo motivato in 
+parte da circostanze personali. Il vero impulso dietro 
+questa mossa era la necessità di trovare una nuova 
+prospettiva. La consapevolezza di partecipare a uno 
+specifico momento storico, il suo riconoscimento della 
+crescente importanza di una collaborazione fruttuosa 
+e intensa tra Europa e America, erano profondi e 
+richiedevano un'azione concreta. Non si può fare a 
+meno di chiedersi se avrebbe potuto trovare la forza e 
+la libertà per cambiare decisamente dall'astratto al 
+figurativo pur rimanendo in Francia. . . sebbene la sua 
+arte figurativa fosse in un qualche modo più francese 
+di quanto lo fosse stata la sua arte astratta. Possiamo 
+essere certi, comunque, che la sua decisione, come la 
+sua stessa presenza ebbero un impatto presso i critici 
+e gli artisti americani il cui peso è ancora sconosciuto. 
+Proprio come il ruolo di Peggy Guggenheim nel 
+
+
+
+qualité des figures du monde que j'avais toujours 
+ambitionné de peindre. Une sphere devait 
+maintenant resignifier une téte; un cylindre 
+resignifier un bras; un rectangle rebàtir un mur; une 
+transparence refaire l'eau. Si bien que je me suis 
+retrouvé, fin 1938 ou en '39, face à des elements dont 
+l'abstraction éclatait partout: où l'image du monde 
+bourgeonnait sourdement. Je m'en suis apergu et je 
+suis retourné au motif. 
+
+His letters and his notebooks prove that he knew full 
+well that he would be misunderstood by both the 
+abstract and the figurative artists and by critics and 
+patrons of each camp. His decision as a painter had 
+the same steadfastness with which he left America 
+late in 1939 to join the French armed forces at just 
+the time that a great number of French artists were 
+casting about for ways and means to bring them 
+safely to New York. Hélion's honor is always pledged 
+on intersecting planes of his art and of his life. 
+It is probably not altogether fortuitous that Hélion 
+reintroduced the figurai element into his work while 
+living and working in America. His coming to 
+America was only partly motivated by personal 
+circumstances. The real impulse behind the move 
+was the need for a new vantage point. His 
+self-knowledge as a participant in a specific historical 
+moment, his recognition of the growing importance 
+of a fruitful and intense interrelationship between 
+Europe and America was profound and demanded 
+concrete action. One cannot help but wonder whether 
+he would have found the force and the freedom for the 
+decisive change from abstraction to figuration if he 
+had stayed in France. . . even though his figurative art 
+was, in many ways, more French than his abstraction 
+had been. We can be sure however, that his decision 
+as well as his very presence had an impact on 
+American artists and American critics, the extent of 
+which still remains to be measured. Just as the role of 
+Peggy Guggenheim in the rapprochement between 
+American and European traditions has not been fully 
+understood, so Hélion's role awaits greater 
+definition. Not an easy task, for he saw America with 
+the sensibility of a Frenchman, and assessed the 
+meaning of his French heritage with the avid 
+searching character of an American. His 
+cosmopolitan attitude in art (reconciling rather than 
+opposing abstraction and figuration) as well as his 
+cosmopolitan nature where national traditions are 
+
+
+
+Figures jumelles. 1938. 
+Chicago Art Institute, 
+Dono Peggy Guggenheim. 
+Chicago Art Institute, 
+Gift, Peggy Guggenheim. 
+
+
+
+
+11 
+
+
+
+riavvicinamento tra le tradizioni americane e quelle 
+europee, non è stato del tutto compreso, così quello di 
+Hélion deve essere definito maggiormente. Non è un 
+compito semplice, poiché egli vide l'America 
+con la sensibilità di un francese e valutò il significato 
+della sua eredità francese con il carattere avido e 
+indagatore di un americano. Il suo atteggiamento 
+cosmopolita nell'arte (che riconcilia piuttosto che 
+opporre l'astrazione alla figurazione) e nella sua 
+natura, in cui rientrano tradizioni nazionali, 
+contribuisce a fare di lui un artista "difficile", 
+nonostante l'apparenza chiara e immediata della sua 
+pittura. Siamo noi i difficili, naturalmente, perché 
+preferiamo trattare di categorie più facilmente 
+distinguibili. 
+
+Già con Figures jumelles, il suggerimento di figure 
+compatte tenute in equilibrio contro uno sfondo 
+ritmicamente sincopato, comincia a suggerire 
+sensazioni di narrazione pur essendo una delle forme 
+meccaniche in conflitto. Figure tombée è l'ultima 
+affermazione eroica della fase puramente 
+non-figurativa di Hélion. Sia il titolo che l'immagine 
+
+
+
+concerned contribute to make him a "difficult" artist 
+in spite of the overt and forthright appearance of his 
+paintings. The "difficulty" is ours, of course, because 
+we prefer to deal with easily distinguishable 
+categories. 
+
+Already with Figures jumelles the suggestion 
+of compact figures held in equilibrium against a 
+rhythmically syncopated background begins to take 
+on suggestion of narrative even if the narrative is one 
+of mechanical forms in conflict. Figure tombée is the 
+last heroic statement of Hélion's purely 
+non-figurative phase. Both title and image indicate 
+associations with tumbled monuments. . . rather like 
+the pagan idols that miraculously fell from their 
+pedestals as the Holy Family passed on its flight into 
+Egypt. The paintings that follow (heads kept from 
+portrait-like expressiveness by the 
+quasi-architectural composition of eyelids, shadows 
+cast by trenchant noses and especially by the rigid 
+enframement of straw boaters [Edouard]) are 
+preliminary steps guided by reminiscences of Léger 
+to the bold Au cyclists. The directions of the 
+
+
+
+12 Figure tombée, 1939. 
+Collezione dell'artista. 
+Collection of the artist. 
+
+
+
+^^^^ 
+
+
+
+
+• 
+
+
+
+
+
+
+
+indicano associazioni con monumenti in rovina, 
+abbastanza simili agli idoli pagani che caddero 
+miracolosamente dai loro piedestalli, nel momento 
+del passaggio della Sacra Famiglia nella sua fuga 
+verso l'Egitto. I quadri che seguono (teste a cui 
+manca l'espressività del ritratto, a causa della 
+composizione quasi architettonica delle palpebre, 
+ombre di nasi aguzzi e di rigide incorniciature di 
+pagliette [Edouard]) sono passi preliminari (guidati 
+da reminiscenze di Léger) verso il coraggioso 
+Aucycliste. 
+
+Le direzioni delle figure, i gradi diversi di energia 
+emessi sulla traccia delle loro direzioni, l'impressione 
+di un destino nascosto dietro l'aspetto coesistente di 
+figure apparentemente disparate e spersonalizzate, 
+contribuiscono a dare un'idea immediata di narrativa 
+in attesa, che deve essere raccontata per comunicare 
+un nostro importante riconoscimento. Tutte le prove 
+ci sono di fronte: si sono organizzate tramite la 
+mediazione dell'artista, ma la soluzione di come e 
+perché questi colori, queste forme e queste figure 
+siano state messe assieme, dipende solamente da noi. 
+
+
+
+figures, the different degrees of energy released by 
+the figures, the impression of a destiny hidden behind 
+the concurrent appearance of seemingly disparate 
+and depersonalized figures also contribute to an 
+immediate impression of narrative in suspense, 
+narrative in need of being told for the sake of an 
+important recognition on our part. All the evidence is 
+there before us. It has organized itself through the 
+artist's mediation but the resolution of how and why 
+these colors, these forms and these figures have come 
+together awaits our own decision. We can break the 
+spell by attempting interpretations or we can submit 
+to the spell and become part of what we see. Both 
+possibilities are equally tempting and both of them 
+are undertaken at our own risk. In either case it pays 
+to take Hélion's titles seriously and to become 
+familiar with his dominant themes. 
+The present exhibition, organized two years after the 
+grandiose and comprehensive exhibition of Hélion's 
+work in Munich, was conceived as an act of homage to 
+the artist's last phase and includes only works of the 
+last five years. Years, that is, during which it became 
+
+
+
+— - 
+
+
+
+Edouard 1939. 
+Collezione David Hélion. 
+Collection David Hélion. 
+
+
+
+
+13 
+
+
+
+Au cycliste, 1939. 
+Centre Georges Pompidou, 
+Musée d'Art Moderne. 
+
+
+
+
+14 Possiamo rompere l'incantesimo tentando delle 
+interpretazioni o possiamo sottometterci ad esso e 
+diventare parte di ciò che vediamo. Entrambe le 
+possibilità sono ugualmente allettanti ed entrambe 
+sono intraprese a nostro rischio. È doveroso, 
+comunque, prendere seriamente i titoli di Hélion e 
+familiarizzare con i suoi temi principali. 
+Questa esposizione, organizzata due anni dopo la 
+grandiosa e completa mostra delle opere di Hélion 
+a Monaco, è stata pensata come atto di omaggio 
+all'ultima fase dell'artista e include solo opere degli 
+ultimi cinque anni. Anni, cioè, durante i quali fu 
+chiaro che la cecità sopravvenuta avrebbe messo fine 
+molto presto alla sua carriera artistica. Si era deciso, 
+in un primo momento, di esporre solo la porzione più 
+intima della produzione di Hélion, cioè le sue opere su 
+carta. Questo aspetto rimane la caratteristica 
+preponderante dell'esposizione anche se, all'ultimo 
+momento, sono state inserite cinque tele per 
+illustrare lo sviluppo dei temi e per chiarificare 
+l'importanza del formato e del mezzo negli anni 
+della piena maturità di Hélion. La portata del nostro 
+materiale fu perciò necessariamente limitata, 
+così che rimasero solo i soggetti fondamentali della 
+gamma iconografica di Hélion. In considerazione 
+di queste circostanze, le complessità dei temi correnti 
+di Hélion sono state in un qualche modo condensate 
+arbitrariamente in categorie: l'artista e il suo 
+modello, la gente nelle strade, nature morte. . . 
+Queste divisioni sono grossolane e non prendono in 
+considerazione il fatto che le "nature morte" spesso 
+condividono la suspense proprio della "gente nella 
+strada", mentre si potrebbe anche obiettare che 
+"artista e modello" sia il tema di tutte le opere di 
+Hélion. Tuttavia ricorrono delle notazioni visive, 
+come frasi musicali ricorrenti, che modificano il loro 
+significato nel momento in cui vengono introdotte 
+sia come motivi conduttori centrali o come 
+accompagnamenti di mutevoli melodie dominanti. 
+Il significato di un oggetto talmente innocuo come 
+un cappello o un ombrello (cat. n. 8), varia 
+costantemente nella forma e nel contenuto. La zucca, 
+grande e succulenta, sembra avere qualche volta 
+degli ipertoni di sessualità femminile, di abbondanza 
+e di fertilità, talvolta anche delle connotazioni sociali, 
+essendo ortaggio della gente umile e sempre dotato 
+di una cromaticità formale radiosa ed elastica (cat. n. 
+10). Seppur nella gamma relativamente ristretta 
+
+
+
+clear to the artist that encroaching blindness would 
+soon put an end to his career as painter. It was first 
+decided to exhibit only the most intimate portion of 
+Hélion's production, i.e. works on paper. This aspect 
+remains the preponderant emphasis of the exhibition 
+even though ultimately five paintings on canvas were 
+included in order to illustrate the development of 
+themes and to clarify the importance of format and 
+medium in Hélion's maturest years. Our material 
+was therefore necessarily restricted in scope so that 
+only the most fundamental subjects of Hélion's 
+iconographic range remained. Given these 
+circumstances the complexities of Hélion's current 
+themes have been somewhat arbitrarily condensed 
+into categories: the artist and his model, people 
+in the street, still life, etc. These divisions are coarse 
+and do not take into account the fact that the "still 
+lifes" frequently partake of the suspense inherent 
+in "people in the street" while it could also be argued 
+that all Hélion's pictures deal with the theme of 
+"artist and model". Still, certain visual notations 
+recur, like recurrent musical phrases, altering then- 
+meaning as they are introduced either as central 
+leitmotifs or as accompaniments against changing 
+dominant melodies. The meaning of so innocuous 
+an object as a hat or an umbrella (cat. no. 8) varies 
+constantly in form and content. The large and 
+succulent gourd appears sometimes with overtones 
+of feminine sexuality, abundance, fertility, 
+sometimes with a social shading as the vegetable 
+of humble folk and always as an elastic, radiant 
+color-form (cat. no. 10). 
+
+Still, even in the relatively restricted range of still 
+life, Hélion has found unusual expressive scope. 
+While most of the still lifes belong to a profoundly 
+French tradition that is eloquent of a full-blooded but 
+restrained joy at rendering an object with the same 
+self-evident perfection with which nature had 
+created it, there nevertheless emanates from these 
+pictures an austere speculation on mortality. This 
+sense of the tragically ephemeral speaks clearly from 
+the Dindes: Page (cat. no. 13) in which the fowl is 
+seen from different vantage points but also from 
+different focal points so that its ultimate 
+disappearance is cleary foreshadowed. Most 
+poignant and most startling of the late still lifes 
+however is the Holocaustes (cat. no. 2) which 
+conveys a bewildering look at the potential violence 
+
+
+
+della natura morta, tuttavia Hélion ha trovato una 
+portata espressiva insolita. Malgrado da questi 
+quadri emani un'austera meditazione sulla mortalità, 
+la maggior parte delle nature morte appartiene a una 
+tradizione profondamente francese che è eloquente di 
+una gioia sanguigna, ma contenuta, nel trasporre un 
+oggetto con la stessa perfezione lampante con cui la 
+natura lo ha creato. Questo senso del tragico effimero 
+appare chiaramente in Dindes: Page (cat. n. 13), in 
+cui il volatile è visto da prospettive diverse, ma anche 
+da diversi punti focali, cosicché la sua scomparsa 
+finale ne è chiaramente presagita. La più possente e 
+sorprendente delle ultime nature morte comunque, è 
+Holocaustes (cat. n. 2) che esprime uno sguardo 
+sconcertante davanti alla violenza potenziale della 
+vittima che morendo spera ancora di vendicarsi con la 
+stessa crudeltà che aveva subito. 
+Seguendo il temperamento, e lo stato d'animo o il 
+momento storico, si sarà portati a preferire uno o 
+l'altro dei molti temi di Hélion. Il pubblico del 1986 
+potrà probabilmente essere più attratto dalle 
+composizioni figurative. Certamente la sincera 
+insistenza di stampo baudelairiano, con la quale 
+Hélion ci presenta i gesti eroici della nostra epoca (il 
+nostro modo di camminare, il modo in cui i nostri abiti 
+sottolineano o nascondono l'espressione gestuale), 
+tutto ciò è destinato ad affascinarci proprio come 
+forse irriterà i nostri figli e delizierà i nostri nipoti. 
+La natura espressiva della tavolozza di Hélion, a mio 
+avviso, è anche incline a ritrovare la sua efficacia 
+suprema nelle composizioni figurative, sebbene 
+anche una natura morta come Chaises et coiffures 
+(cat. n. 3) sia altrettanto emblematico di questa 
+qualità. Coincidenze casuali, ma galvanizzanti come il 
+garbo, simile quasi al rapimento con il quale viene 
+percepito l'incidente della caduta (come avviene nelle 
+scene di strada; cat. nn. 16,17), sono combinate in 
+Duo àia eravate jaune (cat. n. 34), la cui genealogia 
+storica include il Déjeuner sur l'erbe di Manet e il 
+giorgionesco Concert champétre. Una figura 
+maschile dormiente, ma completamente vestita, 
+occupa il registro inferiore del quadro. Sopra questa, 
+una figura femminile nuda, di un radioso colore lilla, è 
+in piedi, incorniciata dall'infisso della finestra: tiene 
+in mano un vaso di fiori e sembra volerlo appoggiare 
+sul davanzale. L'opposizione vestito-nudo è 
+combinata dall'uniformità del colore dell'insieme 
+femminile (un colore che riconcilia le principali 
+
+
+
+of the victim still hoping in death to retaliate 
+its own anguish. 
+
+According to temperament or mood or historical 
+moment, one will incline towards a preference for one 
+or the other of Hélion's many themes. For the 
+audience of 1986, the figurai compositions may very 
+well have the greatest attraction. Certainly the 
+downright Baudelairian insistence with which Hélion 
+introduces us to the heroic gestures of our own day 
+(the way we walk, the way our contemporary dress 
+emphasizes or hinders gestural expression) all that is 
+bound to fascinate us just as it will probably irritate 
+our children and delight our grandchildren. The 
+expressive nature of Hélion's palette , it seems to me , 
+also tends to find its climatic effectiveness in the 
+figurai compositions, although a still life like Chaises 
+et coiffures (cat. no. 3) is just as emblematic of this 
+quality. Haphazard but galvanizing coincidences as 
+well as the trance-like gentleness with which the 
+accident of falling is perceived (as it is in the street 
+scenes cat. nos. 16, 17) are combined in Duo à la 
+eravate jaune (cat. no. 34) whose historical genealogy 
+includes Manet's Déjeuner sur l'herbe and the 
+Giorgionesque Concert champétre. A sleeping but 
+fully dressed male figure occupies the lower register 
+of the painting. Above him a naked female of a 
+radiant lilac hue stands framed in a window 
+casement. She holds a pot of flowers in her hands and 
+seems about to place it on the sill. The clothed-naked 
+opposition is compounded by the uniform color of the 
+female (a color which reconciles the chromatic 
+dissonances of the composition) set against the 
+antagonistic red-brown lilac of the male. The 
+gestures, too, are polarized: the recumbent male 
+embraces himself. He is enclosed and isolated by his 
+dream while the dreamed figure (reminiscent of the 
+artist-model theme) proffers a pot of flowers. Her 
+outward bound gesture as well as her compositional 
+relationship with the window-embrasure make of the 
+woman an expansive element (both visually as well as 
+in content) which is balanced against the contractive, 
+isolated form and color-scale of the male. 
+To me, the Requiem II (cat. no. 14) is a summation of 
+all Hélion's most obsessive themes. We have here a 
+grand synthesis of the themes of "falling", of "artist 
+and model" (cat. no. 19), of the hallucinatory accident 
+(cat. no. 17) and finally of the nature morte with an 
+emphasis on mortality (cat. no. 13). The painting is a 
+
+
+
+15 
+
+
+
+16 dissonanze cromatiche della composizione) opposta 
+alla relazione rosso-marrone-lilla della figura 
+maschile. Anche i gesti sono polarizzati: il maschio 
+supino si abbraccia. Il suo sogno lo racchiude e lo 
+isola, mentre la figura sognata (ricordo del tema 
+artista-modello) si sporge verso un vaso di fiori. 
+Il di lei gesto volto verso l'esterno e la sua relazione 
+compositiva con la strombatura, fanno della donna un 
+elemento espanso (sia visivamente che nel contenuto) 
+in equilibrio con la forma isolata, tendente 
+a contrarsi, e con il bilanciamento cromatico 
+del maschio. 
+
+Requiem II (cat. n. 14) rappresenta, dal mio punto di 
+vista, la sommatoria di tutti i temi più ossessivi di 
+Hélion. Vi troviamo un grande riassunto di temi quali 
+"la caduta", "artista-modello" (cat. n. 19), "incidente 
+allucinante" (cat. n. 17) e infine "nature morte" 
+avendo l'immagine un'enfasi sulla mortalità (cat. n. 
+13). Il quadro è uno scherzo omerico creato in un'età 
+che non è, genericamente parlando, né omerica né 
+scherzosa. La banale superstizione dello specchio 
+in frantumi è un accompagnamento sinistramente 
+ridicolo dell'atto finale dell'auto-riconoscimento. La 
+strana inclusione delle gambe e dei piedi dell'artista, 
+mentre sta guardando per caso i pezzi dello specchio 
+caduto, prova che l'illusione del viso riflesso è 
+superiore alla realtà. Rimbalziamo tra realtà 
+enigmatica e illusione rivelatoria fino a che riusciamo 
+a conciliare l'ansia, nel momento in cui si ha la 
+percezione dell'atto creativo dell'artista. Il quadro 
+rientra in una tradizione particolare degli autoritratti 
+rappresentata dal Parmigianino, Rembrandt, Van 
+
+
+
+Gogh e Munch. Tutti questi artisti sono antenati 
+legittimi di Hélion per aver dimostrato il coraggio 
+di considerarsi alla stregua di una natura morta. 
+La luce, che nelle astrazioni di Hélion proveniva 
+sempre da una fonte nascosta, deriva nelle sue ultime 
+opere direttamente dai colori e diventa illuminazione 
+nel senso metafisico. Tanto la luce, quanto lo 
+straordinario equilibrio dinamico della composizione 
+lineare, tendono assieme tutte queste polarità 
+spirituali e visive. Le peintre piétiné (cat. n. 19) oLe 
+palmier de Magouche (cat. n. 11) come la maggior 
+parte delle altre opere dei primi anni Ottanta, hanno 
+come soggetto la luce, le figure consolanti (la modella, 
+sebbene il titolo la descriva nell'atto di calpestare 
+l'artista, sembra farlo con grande tenerezza, 
+tenendolo sveglio anziché fargli del male) e 
+ricapitolano lo sforzo perpetuo di Hélion alla ricerca 
+di un equilibrio tra ricezione passiva (la gioia del 
+vedere) e creatività attiva (la gioia di contribuire alla 
+gloriosa molteplicità della vita). Nell'introduzione 
+dello stesso Hélion a questa esposizione, il distacco 
+dalla lotta interiore ed esteriore rispecchia la libertà 
+con cui egli mescola fantasia e disciplina nei suoi 
+ultimi quadri. Immaginoso, profondamente tragico e 
+tuttavia trionfante: c'è un qualche cosa della 
+Tempesta di Shakespeare in queste immagini, 
+mentre Hélion, del tutto cosciente della sua visione 
+acutamente limitata, abbandona consapevolmente 
+le problematiche di una vita votata senza 
+compromessi alla pittura. 
+
+
+
+FredLicht 
+
+
+
+Luglio 1985 
+
+
+
+Homeric joke created in an age that is, generally 
+speaking, neither Homeric nor jocular. The trivial 
+superstition of the broken mirror is a ludicrously 
+sinister accompaniment to the final act of 
+self-recognition. The odd inclusion of the artist's legs 
+and feet as he accidentally glimpses down at the 
+fallen mirror prove the illusion of the reflected face 
+to be superior to reality. We ricochet between 
+enigmatic reality and revelatory illusion till the 
+suspense is reconciled by our ultimate perception of 
+the artist's creative act. The painting stands in the 
+grand tradition of artists' self-portraits of which 
+Parmigianino, Rembrandt, Van Gogh and Munch are 
+among the greatest protagonists. And all these 
+artists are Hélion's legitimate ancestors in having 
+had the courage to regard themselves in the guise 
+of still life. 
+
+Light, which in Helion's abstractions always came 
+from a concealed source, emanates in his later works 
+directly from the colors and becomes illumination in 
+the metaphysical sense. It is the light as well as the 
+extraordinarily dynamic equilibrium of the linear 
+composition which holds all these spiritual and visual 
+
+
+
+polarities together. Le peintre piotine (cat. no. 19) or 17 
+Le palmier de Magouche (cat. no. 11) as well as most 
+of the other works of the early 80s deal specifically 
+with light, with consoling figures (the model, though 
+the title describes her as trampling the artist, seems 
+to do so with great tenderness, nudging him awake 
+rather than inflicting pain) and recapitulates Hélion's 
+lifelong effort to find an equilibrium between passive 
+receptivity (the joy of seeing) with active creativity 
+(the joy of contributing to the glorious multiplicity of 
+life). In Hélion's own preface to this exhibition, the 
+detachment from inner and outer strife mirrors the 
+freedom with which he mingles fantasy and discipline 
+in his last pictures. Fanciful, profoundly tragic and 
+yet triumphant there is something of Shakespeare's 
+Tempest in these images as Hélion, fully aware of his 
+sharply limited eyesight, consciously relinquishes 
+the concerns of a dedicated lifetime. 
+
+
+
+FredLicht 
+
+
+
+July 1985 
+
+
+
+18 Tutte le opere esposte sono 
+state messe a disposizione 
+grazie alla cortesia dell'artista 
+e del suo agente, Galerie Karl 
+Flinker, Parigi. 
+
+I titoli delle opere in catalogo 
+sono mantenuti in francese, 
+lingua originale , a causa di 
+significativi ma intraducibili 
+giochi di parole. 
+
+
+
+All exhibited works have been 
+made available courtesy of the 
+artist and of his agent, Galerie 
+Karl Flinker, Paris. 
+
+Because many of Hélion's titles 
+are significant but 
+untransatable puns, the 
+original French has been 
+retained throughout. 
+
+
+
+Suite pucière 1 
+
+1977 
+
+
+
+Guazzo, matita e pastello 
+su carta, 
+75x108 cm 
+
+
+
+Gouache, pencil and pastel 
+on paper, 
+75x108 cm 
+
+
+
+20 
+
+
+
+
+&gt; M- 
+
+
+
+Holocaustes 
+
+1977 
+
+
+
+Pastello e guazzo su carta, 
+75,5 x 110,5 cm 
+
+
+
+Pastel and gouache on paper, 
+75,5 x 110,5 cm 
+
+
+
+
+21 
+
+
+
+Chaises et coiffures 
+
+1980 
+
+
+
+Pastello e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1983, Salisburgo, 
+Galerie Academia. 
+
+
+
+Pastel and ink on paper, 
+32x44 cm 
+
+Exhibitions: 1983, Salzburg, 
+Galerie Academia. 
+
+
+
+22 
+
+
+
+
+Festival d'hiver 
+
+1980 
+
+
+
+Acquerello e inchiostro 
+su carta, 
+44x32 cm 
+
+
+
+Watercolor and ink on paper, 
+44 x 32 cm 
+
+
+
+
+23 
+
+
+
+Thè à la f ontaine 
+
+1980 
+
+
+
+Pastello e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1980, Skyros 
+(Grecia), Galerie Flinker. 
+
+
+
+Pastel and ink on paper, 
+32 x 44 cm 
+
+Exhibitions: 1980, Skyros 
+(Greece), Galerie Flinker. 
+
+
+
+24 
+
+
+
+
+V5L io fKy»&gt;J jjs^ 
+
+
+
+Musique 
+
+1981 
+
+
+
+Pastello e inchiostro su carta, 
+31 x44cm 
+
+
+
+Pastel and ink on paper, 
+31x44 cm 
+
+
+
+
+25 
+
+
+
+Poursuite 
+
+1981 
+
+
+
+Pastello, inchiostro e guazzo su 
+
+carta, 
+
+23,5x30 cm 
+
+
+
+Pastel, ink and gouache 
+on paper, 
+23,5 x30 cm 
+
+
+
+26 
+
+
+
+
+
+
+
+Un Bowler Hat pour 
+Edouard 
+
+1981 
+
+
+
+Acrilico su tela, 
+195 x130 cm 
+Esposizioni: 1983, La 
+Rochelle, Maison de la Culture; 
+1983, Parigi, Galerie Flinker. 
+
+
+
+Acrylic on canvas, 
+195 x130 cm 
+Exhibitions: 1983, La 
+Rochelle, Maison de la Culture; 
+1983, Paris, Galerie Flinker. 
+
+
+
+
+27 
+
+
+
+Trois trombones 
+
+1981 
+
+
+
+Pastello su carta, 
+75 x 110 cm 
+
+
+
+Pastel on paper, 
+75 x 110 cm 
+
+
+
+28 
+
+
+
+
+10 
+
+
+
+Modèles choisis 
+
+1981 
+
+
+
+Pastello e inchiostro su carta 
+44 x 32 cm 
+
+Esposizioni: 1983, Parigi, 
+Galerie Flinker. 
+
+
+
+Pastel and ink on paper, 
+44 x 32 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker. 
+
+
+
+
+29 
+
+
+
+11 
+
+
+
+Le palmier de Magouche 
+
+1981 
+
+
+
+Pastello, inchiostro, guazzo 
+e acquerello su carta, 
+32 x 45 cm 
+
+
+
+Pastel, ink, gouache and 
+watercolor on paper, 
+32x45 cm 
+
+
+
+30 
+
+
+
+
+12 
+
+
+
+Quelques Pensées 
+pour Hans Arp 
+
+1981 
+
+
+
+Guazzo e pastello su carta, 
+75xll0cm 
+
+Esposizioni: 1985, Ginevra, 
+Galerie des Bastions. 
+
+
+
+Gouache and pastel on paper, 
+75 x 110 cm 
+
+Exhibitions: 1985, Geneva, 
+Galerie des Bastions. 
+
+
+
+
+31 
+
+
+
+13 
+
+
+
+Dindes: Page 
+
+1981 
+
+
+
+Pastello, acquerello 
+e inchiostro su carta, 
+75x1 10 cm 
+
+Esposizioni: 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+Pastel, watercolor and ink 
+on paper, 
+75 x 1 10 cm 
+
+Exhibitions: 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+32 
+
+
+
+
+14 
+
+
+
+Requiem II 
+
+1982 
+
+
+
+Acrilico su tela, 
+89x130 cm 
+
+Esposizioni: 1984, Berlino, 
+Galerie Poli; 1984, Brema, 
+Kunsthalle; 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+Acrylic on canvas, 
+89x130 cm 
+
+Exhibitions: 1984, Berlin, 
+Galerie Poll; 1984, Bremen, 
+Kunsthalle; 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+
+33 
+
+
+
+15 
+
+
+
+Jeux 
+
+1982 
+
+
+
+Pastello e inchiostro su carta, 
+32 x 45 cm 
+
+
+
+Pastel and ink on paper, 
+32 x 45 cm 
+
+
+
+34 
+
+
+
+
+/M*&gt;\ fi 
+
+
+
+16 
+
+
+
+La belle chute 
+
+1982 
+
+
+
+Acquerello, pastello 
+e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1983, Parigi, 
+Galerie Flinker. 
+
+
+
+Watercolor, pastel and ink 
+on paper, 
+32x44 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker. 
+
+
+
+
+35 
+
+
+
+n*lvC\ fz. 
+
+
+
+17 
+
+
+
+Chute 
+
+1982 
+
+
+
+Acrilico su tela, 
+«9x130 cm 
+
+
+
+Acrylic on canvas, 
+89x130 cm 
+
+
+
+36 
+
+
+
+
+18 
+
+
+
+Livres Disques 
+
+1982 
+
+
+
+Acquerello e pastello su carta, 
+44x32 cm 
+
+Esposizioni: 1984, Seoul, 
+Galerie Seoul. 
+
+
+
+Watercolòr and pastel on paper 
+44 x 32 cm 
+
+Exhibitions: 1984, Seoul, 
+Galerie Seoul. 
+
+
+
+
+37 
+
+
+
+19 
+
+
+
+Le peintre piétiné 
+
+1982 
+
+
+
+Pastello e inchiostro su carta. 
+44x32 cm 
+
+Esposizioni: 1983, Berlino, 
+Galerie Poli; 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+Pastel and ink on paper, 
+44 x 32 cm 
+
+Exhibitions: 1984, Seoul, 
+Galerie Seoul; 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+38 
+
+
+
+
+20 
+
+
+
+Les grands motifs 
+
+1982 
+
+
+
+Pastello e inchiostro su carta, 
+44x32 cm 
+
+Esposizioni: 1983, Parigi, 
+Galerie Flinker; 1984, Lione, 
+Musée des Beaux- Arts, "Arts 
+sansécole"; 1984, Seoul, 
+Galerie Seoul. 
+
+
+
+Pastel and ink on paper, 
+44x32 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker; 1984, Lyon, 
+Musée des Beaux-Arts, "Arts 
+sans école"; 1984, Seoul, 
+Galerie Seoul. 
+
+
+
+
+39 
+
+
+
+Dernier symbol e 
+
+1982 
+
+
+
+Pastello e inchiostro su carta, 
+44x32 cm 
+
+Esposizioni: 1984, Seoul, 
+Galerie Seoul; 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+Pastel and ink on paper, 
+44x32 cm 
+
+Exhibitions: 1983, Berlin, 
+Galerie Poll; 1985, Issoire, 
+Centre Culturel J. Brel. 
+
+
+
+40 
+
+
+
+
+22 
+
+
+
+La sieste 
+
+1982 
+
+
+
+Pastello e inchiostro su carta, 
+44 x 32 cm 
+
+Esposizioni: 1983, Berlino, 
+Galerie Poli. 
+
+
+
+l 'astel and ink on paper, 
+44x32 cm 
+
+Exhibitions: 1983, Berlin, 
+Galerie Poll. 
+
+
+
+
+41 
+
+
+
+23 
+
+
+
+La relevé de la figure 
+tombée 
+
+1982 
+
+
+
+Acquerello, inchiostro 
+e pastello su carta, 
+32x44 cm 
+
+Esposizioni: 1983, Parigi, 
+Galerie Flinker. 
+
+
+
+Watercolor, ink and pastel 
+on paper, 
+32x44 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker. 
+
+
+
+42 
+
+
+
+
+24 
+
+
+
+Les couchants 1 
+
+1982 
+
+
+
+Pastello e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1983, Berlino, 
+Galerie Poli. 
+
+
+
+Pastel and ink on paper, 
+32x44 cm 
+
+Exhibitions: 1983, Berlin, 
+Galerie Poll. 
+
+
+
+
+43 
+
+
+
+25 
+
+
+
+Feu aunu: Page 
+
+1982 
+
+
+
+Guazzo, pastello e inchiostro 
+su carta, 
+75 x 110 cm 
+
+Esposizioni: 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+Gouache, pastel and ink 
+on paper, 
+75x100 cm 
+
+Exhibitions: 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+44 
+
+
+
+
+26 
+
+
+
+Portrait de Famille 
+
+1982 
+
+
+
+Acquerello e inchiostro 
+su carta, 
+48x34 cm 
+
+Esposizioni: 1983, Parigi, 
+Galerie Flinker. 
+
+
+
+Watercolor and ink on paper, 
+48x34 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker. 
+
+
+
+- •' '■"•' ' P" 
+
+
+
+
+45 
+
+
+
+27 
+
+
+
+Chose vue encore 
+
+1983 
+
+
+
+Guazzo e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1983, Parigi, 
+Galerie Flinker; 1985, Issoire, 
+Centre Culture! J. Brel. 
+
+
+
+Gouache and ink on paper, 
+32 x 44 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker; 1985, Issoire, 
+Centre Culture! J. Brel. 
+
+
+
+46 
+
+
+
+
+28 
+
+
+
+Les trois crieurs 
+
+1983 
+
+
+
+Pastello, acquerello e feltro 
+su carta, 
+31x44 cm 
+
+
+
+Pastel, watercolor and felt pen 
+on paper, 
+31x44 cm 
+
+
+
+
+47 
+
+
+
+29 
+
+
+
+Hurlement 
+
+1983 
+
+
+
+Guazzo , inchiostro e pastello Gouache , ink and pastel 
+
+su carta, on paper, 
+
+31x44 cm 31x44 cm 
+
+
+
+48 
+
+
+
+
+30 
+
+
+
+Couple cycliste I 
+
+1983 
+
+
+
+Pastello e acquerello su carta, 
+32 x 44 cm 
+
+Esposizioni: 1984, Muséede 
+Mons (Belgio), "L'art et le 
+sport"; 1985, Issoire, Centre 
+CulturelJ. Brel. 
+
+
+
+Pastel and watercolor 
+on paper, 
+32 x 44 cm 
+Exhibitions: 1984, 
+Musée de Mons (Belgium), 
+"L'art et le sport"; 1985, 
+Issoire, Centre Culturel 
+J. Brel. 
+
+
+
+
+49 
+
+
+
+31 
+
+
+
+Ban-Dits 
+
+1983 
+
+
+
+Pastello su carta, 
+
+32x44 cm 
+
+Esposizioni: 1983, Parigi 
+
+Galerie Flinker; 1985, Issoire, 
+
+Centre CulturelJ. Brel. 
+
+
+
+Pastel on paper, 
+32x44 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker; 1985, Issoire, 
+Centre CulturelJ. Brel. 
+
+
+
+50 
+
+
+
+
+32 
+
+
+
+La ville 
+
+1983 
+
+
+
+Pastello, acquerello 
+e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1983, Berlino, 
+Galene Poli. 
+
+
+
+Pastel, watercolor and ink 
+on paper, 
+32 x 44 cm 
+
+Exhibitions: 1983, Berlin, 
+Galerie Poll. 
+
+
+
+
+51 
+
+
+
+33 
+
+
+
+Les ret rou vailles 
+
+
+Guazzo e inchiostro su carta. 
+
+
+Gouache and ink on paper. 
+
+
+1983 
+
+
+62 x 50 cm 
+
+
+62 x 50 cm 
+
+
+
+
+Esposizioni: 1984, Monaco, 
+
+
+Exhibitions: 1984, Munich 
+
+
+
+
+Staedtische Galene im 
+
+
+Staedtische Galene im 
+
+
+
+
+Lenbachhaus; 1984-1985, 
+
+
+Lenbachhaus; 1984-1985. 
+
+
+
+
+Parigi, Musée de la Ville de 
+
+
+Paris, Musée de la Ville 
+
+
+
+
+Paris. 
+
+
+de Paris. 
+
+
+
+52 
+
+
+
+
+34 
+
+
+
+Duo à la eravate jaune 
+
+1983 
+
+
+
+Acrilico su tela, 
+147 x97 cm 
+
+Esposizioni: 1983, Parigi, 
+Galene Flinker; 1984, Venezia, 
+Biennale; 1984-1985, Parigi, 
+Musée de la Ville 
+de Paris. 
+
+
+
+Acrylic on canvas, 
+147 x97 cm 
+
+Exhibitions: 1983, Paris, 
+Galerie Flinker; 1984, Venice, 
+Biennale; 1984-1985, Paris, 
+Musée de la Ville de Paris. 
+
+
+
+
+53 
+
+
+
+35 
+
+
+
+Relevailles 
+1983 
+
+
+
+Pastello, acquerello 
+e inchiostro su carta, 
+32x44 cm 
+
+Esposizioni: 1984, Monaco, 
+Staedtische Galerie im 
+Lenbachhaus; 1984-1985, 
+Parigi, Musée de la Ville 
+de Paris. 
+
+
+
+Pastel, watercolor and ink 
+on paper, 
+32x44 cm 
+
+Exhibitions: 1984, Munich, 
+Staedtische Galerie im 
+Lenbachhaus; 1984-1985, 
+Paris, Musée de la Ville 
+de Paris. 
+
+
+
+54 
+
+
+
+
+36 
+
+
+
+Suite vaniteuse 
+et trotti bonnière 
+
+1983 
+
+
+
+Acrilico su tela, 
+
+162 x130 cm 
+
+Esposizioni: 1984, Monaco, 
+
+Staedtische Galerie im 
+
+Lenbachhaus. 
+
+
+
+Acrylic on canvas, 
+162 x130 cm 
+
+Exhibitions: 1984, Munich, 
+Staedtische Galerie im 
+Lenbachhaus. 
+
+
+
+
+Referenze fotografiche Photographic Credits 
+
+Art Institute of Chicago Art Institute of Chicago 
+
+Centre Georges Pompidou, Centre Georges Pompidou, 
+
+Parigi Paris 
+
+Jean Dubout, Parigi Jean Dubout, Paris 
+
+
+
+Ad eccezione dell'esposizione 
+tenuta al Centro Culturale J. 
+Brel di Issoire nel 1985, l'opera 
+di Jean Hélion non è stata 
+oggetto di altre mostre sin 
+dal 1984, data questa di una 
+retrospettiva su larga scala 
+che ha avuto luogo presso 
+la Staedtische Galerie im 
+Lenbachhaus, Monaco di 
+Baviera. Il catalogo di questa 
+esposizione («Jean Hélion - 
+Abstraktion und Mythen des 
+Alltages», Monaco, 1984) è 
+talmente completo nel suo 
+dotto apparato da non 
+giustificarne un'ulteriore 
+pubblicazione in questo 
+volume. È consigliabile, per chi 
+è interessato ad esaminare una 
+bibliografia completa relativa 
+a Jean Hélion, la consultazione 
+del catalogo di Monaco, una 
+copia del quale è a disposizione 
+presso il bancone del museo. 
+
+
+
+With the exception of the 
+exhibition held at the Centre 
+Culturel J. Brel at Issoire 
+in 1985, there have been no 
+exhibitions of Jean Hélion's 
+work since 1984, the date 
+of a large-scale retrospective 
+at the Staedtische Galerie im 
+Lenbachhaus, Munich. The 
+catalogue of this exhibition 
+(«Jean Hélion - Abstraktion 
+und Mythen des Alltages», 
+Munich, 1984) is so complete in 
+its scholarly apparatus, that no 
+purpose would be served by 
+reprinting it in the present 
+catalogue. All visitors who 
+wish to find a complete 
+bibliography concerning Jean 
+Hélion are advised to study the 
+Munich catalogue. A copy is 
+available for consultation at the 
+Museum desk. 
+
+
+
+La Fondazione Solomon R. Guggenheim è grata alla Regione 
+Veneto per il suo contributo annuale che è indispensabile 
+per l'attività culturale della Collezione Peggy Guggenheim. 
+
+Il prolungamento della stagione di apertura della Collezione Peggy 
+Guggenheim avviene grazie a una donazione della United 
+Technologies Corporation . 
+
+L'apertura gratuita della Collezione Peggy Guggenheim il sabato 
+sera è promossa dal Gruppo Montedison. 
+
+La Fondazione Solomon R. Guggenheim ringrazia ! Alitalia 
+per il generoso contributo annuale. 
+
+
+
+Fondazione Solomon R. Guggenheim 
+
+
+
+Garanti Onorari in perpetuo 
+
+Solomon R. Guggenheim, Justin K. Thannhauser, Peggy Guggenheim. 
+
+Presidente 
+
+Peter 0. Lawson-Johnston 
+
+Vice Presidente 
+
+The Right Honorable Earl Castle Stewart 
+
+Garanti 
+
+Anne L. Armstrong, Carlo De Benedetti, Elaine Dannheiser, 
+Michel David-Weill, Joseph W. Donner, Robin Chandler Duke, 
+Robert M. Gardiner, John S. Hilson, Harold W. Mcgraw Jr. , 
+Wendy L. -J. McNeil, Thomas M. Messer, Seymour Slive, 
+Peter W. Stroh, Stephen, C. Swid, Michael F. Wettach, 
+Donald M. Wilson, William T. Ylvisaker. 
+
+Tesoriere 
+
+Theodore G. Dunker 
+
+Direttore 
+
+Thomas M. Messer 
+
+
+
+Collezione Peggy Guggenheim 
+
+
+
+Comitato consultivo 
+
+Claude Pompidou, Presidente; Danielle Gardner, Presidentessa 
+onoraria; Marella Agnelli, Co-Presidentessa onoraria; Hedy Maria 
+Allen; Pietro Barilla; Alexander Bernstein; Mary Bloch; 
+Carlo Bonomi; Contessa Ida Borletti; Conte Bernardino Branca; 
+Bruno Buitoni: The Right Honorable Earl Castle Stewart; Enrico 
+Chiari; Jack Clerici; Marialuisa de Romans; Gabriella Golinelli; 
+Giuliano Gori; Milton Grundy; Jacquel Hachuel; James 
+Harmon; Lady Nikka Hulton; Evelyn Lambert; Achille 
+Maramotti; Leonardo Mondadori; Umberto Nordio; Contessa 
+Fanny Rattazzi; Antonio Ratti; Denise Saul; Angela Schimberni; 
+Hannelore Schulhof; Anna Scotti; James B. Sherwood; 
+Joan Straus; Gianni Varasi; Kristen Venable; Robert Venable; 
+Felice Gianani, Sindbad Vail, Membri onorari. 
+
+Collaboratori 
+
+Philip Rylands, Amministratore; Giosetta Capriati, Ondine 
+de Buoi Vizzani e Anna Rita Fuso, Ufficio Sviluppo e Relazioni 
+Esterne; Renata Rossani, Segretaria dell' Amministrazione; 
+Laura Micolucci, Contabile; Paul Schwartzbaum, Consulente 
+alla Conservazione. 
+
+Patrocinatori Istituzionali 
+
+Regione Veneto, United Technologies Corporation, Montedison, 
+Alitalia. 
+
+
+
+Design: F. G. Confalonieri 
+Redazione: Alessandra Sacchi 
+Traduzione: Clarenza Catullo 
+
+
+
+Questo volume è stato This volume was printed in 
+
+stampato nel mese di febbraio February 1986 by Arti 
+
+1986 dalle Arti Grafiche delle Grafiche delle Venezie, 
+
+Venezie di Vicenza, Gruppo Vicenza. Gruppo Mondadori. 
+
+Mondadori, per i "Trustees" for the Trustees of The 
+
+della Fondazione Solomon R. Solomon R. Guggenheim 
+
+Guggenheim. Foundation. 
+
+Stampato in Italia - Printed Printed in Italy 
+in Italy 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0053   0.0053      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0072   0.0018      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0088   0.0016     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0155   0.0068   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0157   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0934   0.0777              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=93;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

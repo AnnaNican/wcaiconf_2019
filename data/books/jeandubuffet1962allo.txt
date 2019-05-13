@@ -1,0 +1,2639 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jean Dubuffet : 1962-66"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jeandubuffet1962allo">Jean Dubuffet : 1962-66</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jeandubuffet1962allo">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>JEM DUBUFFET 
+1962-66 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, NEW YORK 
+
+
+
+©1966, The Solomon R. Guggenheim Foundation. New York 
+Library of Congress Card Catalogue Number 66-28456 Printed in the United States of America 
+
+
+
+THE SOLOMON R. GnGGESHEIM FODNDATION 
+
+
+
+TRUSTEES 
+
+
+
+HARRY F. GUGGENHEIM, PKESIDKNT 
+
+
+
+ALBERT E. THIELE, VICE PRESIDENT 
+
+
+
+H.H. AENASON, VICE PRESIDENT, ART ADMINISTRATION 
+
+
+
+PETER O. LAWSON-JOHNSTON, VICE PRESIDENT, BUSINESS ADMINISTRATION 
+
+
+
+ELEANOR, COUNTESS CASTLE STEWART 
+
+
+
+DANA DRAPER 
+
+
+
+A. CHAUNCEY NEWLIN 
+
+
+
+MRS. HENRY OBRE 
+
+
+
+DANIEL CATTON RICH 
+
+
+
+MICHAEL F.WETTACH 
+
+
+
+MEDLEY G. B. WHELFLEY 
+
+
+
+CARL ZIGROSSER 
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/jeandubuffet1962allo 
+
+
+
+Originality, contrary to popular notions, does not come from strained and eccentric 
+gestures, but is the result of a probing attitude and of courage. The probing is applied 
+to an inherited vision which, always in need of skeptical reevaluation, requires abrupt 
+replacement when it outlives its truthfulness. Courage is needed to challenge reigning 
+assumptions and to confront and admit the evidence of one's own insights. 
+
+Jean Dubuffet, in this proper sense of the word, is among the most probing, courage- 
+ous and therefore original artists of our time. Setting himself against a preponderant 
+esthetic orientation that is founded on the Greco-Roman ideal of beauty, he rein- 
+forced, perhaps with more consistency and relentlessness than anyone before him, a 
+sensibility that saw in prehistoric expression a more relevant precursor for the art of 
+our time. Far from exhausting himself in this massive effort he subsequently found 
+the strength for constant self-renewal, abandoning his own gains as he immersed 
+himself again and again in new searches that bore no certain promise of results. 
+
+The VHourloupe phase which constitutes the core of Dubuffet's work since 1962 is 
+only the most recent of such periodic renewals. One may recall the already well-known 
+sequences of the African Landscapes of 1948, the Corps de Dames of 1950, the Fleur 
+de Barbe series of 1959, and the Materiologies of 1960 to mention a few of the 
+clearly identifiable contents and corresponding form images that preoccupied 
+Dubuffet in the past. These and other phases of Dubuffet's work were seen in the full 
+retrospective exhibition at the Museum of Modern Art in 1962 when the New York 
+public was given an. opportunity to follow the artist's development from his virtual 
+beginnings in the early 1940's to the current idiomatic departure. VHourloupe which, 
+separated from the long lineage of Dubuffet's previous work, is placed under a 
+magnifying glass in this exhibition, constitutes a radical break with earlier modes and 
+furnishes a dramatic example of Dubuffet's capacity for self-renewal. It is a phase that 
+preoccupied the artist longer and more intensively than any previous one, allowing 
+him to give expression to a rich diversity of thought within the defined framework of 
+a particular formal premise. 
+
+The artist has followed the exhibition plan with attentive interest thereby contributing 
+importantly to the selection that was carried out by Lawrence Alloway, the Guggen- 
+heim Museum's Curator. 
+
+Thomas M. Messer, Director 
+
+
+
+ACKNOWLEDGEMENTS 
+
+
+
+/ am grateful to Jean Dubuffet for discussing in detail ivith me the choice of works for this 
+exhibition. Ursula Schmitt of the Dubuffet Secretariat in Paris was helpful. I wish to thank 
+Diane Waldman for the bibliography; Susan Tumarkin, editor of the catalogue; and Jane 
+Umanoff for arranging the transportation of the works. My special thanks are due to Mary 
+Grigoriadis for her work on every phase of both the exhibition and the catalogue. 
+
+L.A. 
+
+
+
+LEPERS LIST 
+
+
+
+Mademoiselle Carmen Bebiano, Paris 
+
+Mr. and Mrs. George Block, Hong Kong 
+
+Mr. and Mrs. Leigh B. Block, Chicago 
+
+Suzanne Cizey, Paris 
+
+Mr. and Mrs. Ralph F. Colin, Jr., Neiv York 
+
+Edouard Cournand, New York 
+
+Mr. and Mrs. Miles Fiterman, Minneapolis 
+
+Robert Fraser, London 
+
+J.-F. Jaeger, Paris 
+
+Dr. and Mrs. Arthur E. Kahn, New York 
+
+Max Loreau, Brussels 
+
+The Kate Maremont Foundation, Chicago 
+
+Trevor F. Peck, Montreal 
+
+Mr. and Mrs. Elias M. Pinto, New York 
+
+The Pinto Collection, Paris 
+
+Jean Planque, Paris 
+
+Mr. and Mrs. Otto Preminger, Neiv York 
+
+David Talbot Rice, London 
+
+Mrs. Sidney Solomon, Neiv York 
+
+Mr. and Mrs. W . B. Dixon Stroud, West Grove, Pennsylvania 
+
+L'Etat francais 
+
+The Archives for Decorative Art, University of Lund, Sweden 
+
+The Dallas Museum of Fine Arts, Dallas 
+
+Stedelijk Museum, Amsterdam 
+
+Galerie Beyeler, Basel 
+Galerie Jeanne Bucher, Paris 
+Robert Elkon Gallery, New York 
+Robert Fraser Gallery, London 
+Saidenberg Gallery, New York 
+
+
+
+II 
+
+
+
+TWENTY THIRD PERIOD OF MY WORKS ^d^^ 
+
+(July 1962 to June 1965) 
+
+
+
+This new series begins without transition in July 1962 with the small book entitled UHour- 
+loupe, which was followed by a series of about fifteen gouaches with collage and another of 
+elements (personnages) painted in gouache on paper to be cut out and used in compositions 
+of this kind. 
+
+The theme of urban sites (Paris street) which had occupied me in the preceding months, 
+continued to appear often in these gouaches (Street with Pipe Smoker, Houses of One's 
+Own, Continuum of the City and numerous others. There were some, however, like Hunt 
+Scene or the figures of dogs (Dog 2, Dog 6) that were far from this subject. 
+
+The same theme of urban streets, treated for so long, is more marked in the five gouaches of 
+the Paris Plaisir group, done in November 1962. to which a sixth was added very late, in 
+May 1964. 
+
+At this time, there was only one painting produced [Run the Streets, the site of which still 
+relates, although very allusively, to the street) . 
+
+After a three month interruption (occupied by the installation of the collections of TArt Brut 
+returned from the U.S.A. and by the editing of various texts) there appeared in February 1963 
+a series of a dozen gouaches, several again incorporating collage, which break completely with 
+the theme of urban life and present almost unidentifiable personnages or objects relatable to 
+the drawings in the small book of UHourloupe (House with two trees, Locus putatus, etc.). 
+
+Two small paintings (Transit and Exploits and Glories) are in the same vein as these gouaches 
+(February 1963) ; however the following paintings, also made during February, (The Street 
+Shatters Euthusiasm and many others, including the large painting Puppet City, then in May. 
+Legend of the Street) return to the theme of the streets of Paris, in the vein of the Paris 
+Plaisir gouaches and far from the spirit of L/Hourloupe. 
+
+In March 1963. two paintings Uneven and Ambling and The Rich Fruit of Error were done 
+with others in the same new vein in which the style of L'Hourloupe is affirmed and the theme 
+of the Parisian street is completely eliminated. 
+
+A series of a dozen gouaches, in May and June 1963 (the group of Theater of Vagaries, then 
+Crease in the Log, Discharging of the Error, Drudging Camel, The Aberrater, etc.) expands 
+L'Hourloupe. The systematic blue and red stripes used until now will be joined by a second 
+style to be developed for many years concurrently with the first. 
+
+
+
+12 
+
+
+
+It is this second line of l'Hourloupe which is manifested in many of the paintings made in the 
+following months (Clean Up Sonny, "Mouchon Berloque", Opera Sconce, and then in July, 
+Being and Seeming and The Life of the Family.) 
+
+In contrast, belonging to the first style, and coming more directly in the line of the painting 
+Uneven and Defective were the two paintings done in July. Bank of Ambiguities and Err and 
+Deviate. 
+
+Isolated personnages standing against a black background were done in June and July, like 
+The Couriers; there are also paintings composed of more parts (in the same vein as the 
+gouaches like Street with Pipe Smoker) in which personnages figuring in the delirious writing 
+of the small book L'Hourloupe are arbitrarily inserted in scenes treated in a different and 
+more immediately allusive manner. This is the case with The Pastoral Life I and The Gay 
+Knowledge. 
+
+In August and September 1963. some works were painted in \ence which may be con- 
+sidered foreign to the cycle of L'Hourloupe. like Landscapes of the Straits of Dover, The 
+Automobile on the Black Road, relatable to small country landscapes (gouaches and paint- 
+ings) of 1943. and also one isolated painting (Paris the Festival). These in addition to the 
+series of Paris Plaisir gouaches mentioned above, the paintings made in February (The Street 
+Shatters Enthusiasm and others of the same group, and Puppet City) and those made in May 
+(Center City and Legend of the Street), are linked to the Paris Circus style and not to that 
+of l'Hourloupe. 
+
+A return to the line properly called l'Hourlope occurred in October 1963 and has been pur- 
+sued without interruption in all the works of the following months and until this day (The 
+Tide of l'Hourloupe, The Cosmopolite, Bench of Prosperity, etc.) . 
+
+From January 1964 (Parade of Objects) objects and utensils appeared (drawings in marker 
+in February, drawings in chinese ink or marker in April), and The Chair and L'Hourloupe 
+Cab were painted in April. 
+
+These objects and utensils (Counterpoint to the Tools, Society of Tools) constitute the con- 
+stant theme of most of the works done from May until October. Listed below are the objects 
+which individually give rise, in the following months, to groups of paintings: 
+
+the typewriter 
+the lamp and the scale 
+the fishing boat 
+the wheel barrow 
+the bed 
+
+Mention must be made of two paintings of July (with which several gouaches are associated) 
+showing houses of Etaples (Vogue of Television in the Picard and The Fantastic Village). 
+
+From October to December 1964. recourse to objects ceased for a period and people inserted 
+in landscapes (The Bolter, Red Beret, Nimble and Rescuing Hand, Married Couple Making a 
+Visit) or isolated figures (Old Man with a Cane, The Doleful One) are treated constantly. 
+
+
+
+13 
+
+
+
+
+Jean Dubuffet. Page from L'Hourloupe, 1963. (actual size) 
+
+In February, the objects and utensils are manifested again and the new themes treated in 
+this framework are: the tap 
+
+the washbasin 
+
+the open book 
+
+the clock 
+
+Simultaneously with the works concerning these objects, from March to June 1965, gouaches 
+and paintings were executed destined for large ceramic decorations for the Faculte des 
+Lettres de Nanterre. 
+
+
+
+Translated by Mary Grigoriadis 
+
+
+
+15 
+
+
+
+INTRODUCTION 
+
+
+
+by Lawrence Alloway 
+
+
+
+Dubuffet's account of the Twenty-Third Period of My Works records the develop- 
+ment of L'Hourloupe since its sudden beginning in July 1962. As he points out, other themes 
+persisted even as the possibilities of L'Hourloupe flourished, and by mid-1963 completely 
+absorbed him. Imagery of the preceding period, Paris Circus, continued, though modified 
+by the shift in his outlook: the scenes which began in a gay celebrative spirit ended in a 
+more spectral, comparatively estranged, style. There are overlaps, too, in the mingling of 
+earlier and new periods, with the insertion of the new figures into soft fields held over from 
+the earlier work. (In addition, in October 1962, Dubuffet executed one of his Materiologies.) 
+The present exhibition does not sample every one of Dubuffet's moves during the period, 
+but aims to isolate the dominant elements in his new work. The bulk of his recent work is in 
+this style and the momentum which has produced an abundance of work in the past four 
+years is keyed to the imagery and concepts of L'Hourloupe. 
+
+To Dubuffet's descriptive chronology we can add the fact that the paintings, as well 
+as the drawings, are dated to the day. Thus the transformation of known forms and the 
+emergence of new ideas can be traced with unusual exactness. Dubuffet's copious produc- 
+tion puts the spectator who follows the contour of the work in time in a position to share the 
+ongoing process of work as well as the spectacle of each completed work singly. Dubuffet has 
+taken care that where possible L'Hourloupe should be shown in detail, with a kind of 
+lavishness geared to his own productivity. It is essential, for a close view of an artist, to be 
+able to make cross-references within a period, so that an internal standard emerges, derived 
+from the work in question. We can see the mutual exchange of media-switches, intensification 
+of some possibilities and forgetfulness of others (and the latter's sudden return). The large 
+scale showing of the earlier L'Hourloupe and late Paris Circus at the Palazzo Grassi, in 
+1964, for example, is a model for the present exhibition. Instead of the traditional humanist 
+idea of high selectivity revealing master-works, we have a concept of the total show. 1 If a 
+retrospective is like an archipelago, the tops of a mountain range showing above water, a 
+total show investigates one of the mountains all over. 
+
+The sketches in the initiatory book L'Hourloupe are crisp and neat, counter to the 
+popular expectation of Dubuffet's work as being brutal and shaggy. Each page of the book 
+carries an emblem, derived from a duck, coffee pot, hunter, gendarme, umbrella, cow, mos- 
+quito, etc., and surrounded by ironically aberrant inscriptions, such as Moucetic for 
+moustique and J eandarme for gendarme. The book is prophetic, both in iconography and in 
+
+
+
+16 
+
+
+
+style. The drawings are made with red and blue ballpoint pens; in place of the emphases 
+possible with a split nib, the succession of pauses and replenishments, the ball-point gives a 
+hard, unaccented, continuous line. In 1964 the drawings with markers develop the unaccented 
+line further; the evenly plump track of a felt pen. strongly but softly, produces a quasi- 
+streamline. Pitchers and rifles, houses and scissors, have the thick, animistic look of General 
+Motors automobiles of the late 40s. By March 1963, after some preliminary gouaches of single 
+figures, the style to be called L'Hourloupe is clearly stated in Uneven and Ambling and The 
+Rich Fruit of Error. In these, as in other early L'Hourloupe paintings, hard outlines, direc- 
+tional stripes, and a palette restricted to red, white, and blue (and black) were used to create 
+all-over fields. The personnages 2 are always present but meshed and camouflaged in the 
+linear continuum. Is it necessary to remark that Dubuffet is never an abstract painter? Not 
+only do his figures exist within the webs of L'Hourloupe. but even his least accented all-over 
+works are conceived as parts of an existing world. 3 
+
+There are two types of all-over painting in the earlier L'Hourloupe period, though 
+both exemplify the kind of organization that Dubuffet defined in connection with another 
+artist : "the center of the picture is everywhere all at once ; all being is center". 4 First is the 
+hard-contoured, directionally-striped group ; second the equally packed, but more variously 
+colored, more phantasmogoric, group, including Crease in the Log and Virtual Virtue. 
+Gnomic heads and shredded bodies make focal points in the grinding milieu. The paint of 
+this sub-series within the group of all-over paintings has creamy weight and a sensuous color 
+play, unlike the restricted palette of the, in my opinion, dominant sub-series. The crowded 
+streets, the well-inhabited facades of the houses in the Paris Circus paintings, are unlike these 
+works in that the location, the human place, is never in doubt. Here are crowds whose 
+origin, except in the creative act. is blocked to us. The title, Virtual Virtue, is one of those 
+which, as Max Loreau has pointed out, "lead expressly, insistently, to the Kingdom of the 
+Virtual"/' Thus, what is being proposed, in these virulently manic crowd paintings, seems 
+to be a shift away from the unadulterated humanity of Dubuffet's earlier work. Without any 
+diminution of the figurative element, the work seems to connect less intimately with the 
+human. If this is so, we have to find a form different from the primal imagery of Dubuffet's 
+main work though not. on the other hand, non-figurative. 
+
+One group, then, with brightly-colored faces in the jumble, is lyrical, though with 
+hints of claustrophobia in the swarms of forms. The other group has a sinuous but rigid 
+linearism, with adjacent areas interlocking like jealous countries, neither able to relax the 
+pressure first. Whereas, in the past, Dubuffet seemed to work outwards, in a slow stretch or 
+an impatient lunge, from the center of a glob of material, here he lays contours down on the 
+canvas, as hard as cables, drawn taut from point to point. The colors are red. white, and blue, 
+shading off into purples and violets, sometimes like the color of hung meat. The density of the 
+stripes and their directional play produce a kind of frozen abundance, very different from 
+the earth-flesh cluster of colors and textures of his preceding work. The all-over composition 
+of this first phase of L'Hourloupe became less important through 1964 and 1965 with an 
+important exception. The big paintings of 1965. Epokhe and Nunc Stans, the largest that 
+
+
+
+17 
+
+
+
+Dubuffet has made, return to the pulverized personnages, the camouflaged crowds. In Nunc 
+Stems, for instance, numerous figures are rife, clear in preparatory sketches, but plunged 
+into ambiguity in the painting itself. Given the mood of these paintings, their concealment is 
+more like ambush than acquiescence to formal requirements. 
+
+James Fitzsimmons has pointed out, in the best whole view of the artist that has yet 
+been written, that Dubuffet's color derives from the "natural colors, of stone, old walls, bark, 
+sand, heather, of metals and minerals, of clay, autumn leaves, humus and wet earth, of flesh 
+and grass and the bleached colors of the desert". 6 This color range from flesh to earth char- 
+acterizes most of his work from 1945 to the early 60s; therefore his recent reliance on red 
+and blue in L'Hourloupe is a drastic change, greater, in fact, than neatness and precision 
+of form. Dubuffet's development has alternated between the amorphous and the crystalline, 
+between Matter Painting and the sharply defined Tableaux d'assemblage, 1955-56. The latter 
+works, done after he moved to Vence. were described by Fitzsimmons as "equivocal . . . orna- 
+mental gardens". 7 The precise arrays of small forms, cut from prepared canvases, echoed 
+the dry stony ground of Vence in their clarity. In this respect the crystalline imagery of 
+Dubuffet is like the amorphous; neither are separated from common human experience. The 
+encrusted portraits of Mirobolus, Macadam et Cie., 1945-46, are concerned with human 
+identity at the level of survival and historical time, not with individual gesture and personal 
+time. The Corps de Dames, 1951, are splayed bodies, the torso like an island from which 
+arms and legs sprout like flowers or roots. The sexual nudes, like his primal portraits (all 
+male ) , and his close-ups of "the foot of the wall" in Vence. are part of Dubuffet's power of 
+pulling everything he touches, the ferocious and the formless, into the human reach of art. 
+
+This policy of copious rehumanization. in opposition to the formal preoccupations of 
+much earlier 20th century art, extends through his work from 1944 to 1962 without a break. 
+The reason one hesitates to say it was present earlier is owing to the fact that it was only in 
+1942, at the age of 41. that Dubuffet finally adopted the role of artist, after aborted earlier 
+attempts. Within two years, his personal and technical experiences coincided to form the 
+sustaining ground for two decades of extraordinary work. The reasons that one raises the 
+doubt as to whether the work of the past four years is really comparable in meaning must be 
+argued now. 
+
+Dubuffet. with his dislike for the forms of classically-descended art. has organized 
+an alternative to it by more means than that of his art, though that would have been enough. 
+To oppose the Renaissance-derived idea of professionalism in the artist, he devised the theory 
+and began the collection of FArt Brut. L'Art Brut is the art of children, prisoners, mediums, 
+schizophrenics, and intense provincials, anybody who is pre-art, sub-art. or beyond art defined 
+as a professional activity. In 1947 Dubuffet's collection opened in Rene Drouin's Gallery as 
+the "Foyer de l'Art Brut", moved to a pavillion in Gallimard's garden, and then, in 1951, 
+was moved to the United States. Alfonso Ossorio housed the collection, by now consisting of 
+about a thousand objects, at East Hampton. In the winter of 1962-63. Dubuffet brought the 
+collection back to Paris, organized a kind of private museum for it, and began the publica- 
+tion of a series of monographs based on the artists, largely written by himself (see bibliog- 
+raphy nos. 3-8). 
+
+
+
+18 
+
+
+
+The kind of art Dubuffet collects under the term Art Brut is familiar as part of the 
+20th century expansion of the term art into the general environment. This operation has 
+taken many forms, one of which is the promotion of anthropological and psychotic material 
+by means of a capacious rather than a restrictive esthetic. 8 Dubuffet's early work, because it 
+was rugged and raw. was often compared to l'Art Brut, either because critics were unfamiliar 
+with unprofessional art or because they were carried away by the word "brut". At any rate. 
+l'Art Brut does not consist of savage and simple images, the awful imagery of a primordial 
+mind erupting in art; on the contrary, psychotic and lay art is more usually the product of 
+compulsion and systematic delusion. It is not the violence of a psychotic, which occurs in 
+this world, as Dubuffet has pointed out in conversation, that shapes his art. On the contrary, 
+psychotic and lay art tend to create an alien realm by means of a complex self-referring 
+system. It is an order that is closed to us, an order with hidden co-ordinates, that character- 
+izes Art Brut. Such is the work which Dubuffet has been studying and writing on in the past 
+four years. In fact, we can now guess why Dubuffet, to whom the collection had become 
+onerous in 1951. should now want it under his hands again. It relates to the recent develop- 
+ment in his work, with its move from the gestural and the textural to the systematic and the 
+linear. In fact, it was after the drawings of July 1962, for the book UHourloupe, that 
+Dubuffet's interest in the collection intensified. 
+
+The reflex by which order is regarded as classical, by which systems are invested 
+with inevitability, is blocked by Dubuffet. The world of L'Hourloupe is logical but artificial, 
+systematic but arbitrary. The decorative quality is like the clenched order of the schizophrenic 
+artist, whose uncheckable logic works against our environment, neither with nor out of it. 
+The outlining is the cloisonnee of alienation. L'Hourloupe is a turning away from the world 
+and the construction of a fantastic alternative to where we are: a parallel world produced 
+by elaboration and repetition of pattern. Writing about L'Hourloupe, Dubuffet defended 
+painters who are unconcerned to illuminate reality, which is, in one form or other, the usual 
+ultimate exploration of art's purpose. "Perhaps because they are impelled by nature to crea- 
+tion rather than to understanding or possibly because they have so little trust in the notion of 
+truth that the idea seems futile, they decide to present (and present themselves) things which 
+do not exist . . . can not a man in all legitimacy choose, once at least— and why not, perhaps, 
+once for all?— not truth (a shifting thing anyway), but change and delusion?" (For "they", 
+read Dubuffet.) This sounds remote from the reactions of critics who regarded L'Hourloupe 
+as an affirmation of decorative style. In fact, bright color and linear patterning are a screen 
+which Dubuffet has wrenched into fresh meanings. The formal elaboration of these paintings 
+is an obstacle to identification, a withdrawal from the pervasive humanity of the earlier work. 
+Stereotyped patterns and a horror vacui makes the new work deceptively bright and lyrical. 
+It is this basis of L'Hourloupe in the arbitrary and the compulsive that separates Dubuffet's 
+planar shapes from Cubism, though a resemblance has been suggested by some critics. 
+
+The large painting Parade of Objects, early 1964, and drawings of single objects 
+after that, begin the second phase of L'Hourloupe. This phase was indicated in the 
+UHourloupe book, but the direction of the succeeding paintings had postponed their devel- 
+
+
+
+19 
+
+
+
+opment. Among the personnages and animals were a coffee pot and an umbrella. In addition 
+to the all-over figure compositions, Dubuffet painted a number of all-over still-lifes (such as 
+Carnival of Objects and Counterpoint to the Tools, 1964), but the main emphasis is on single 
+objects. These objects, bulking large in the painting, are the opposite of the status symbols 
+of mid-century affluence. Tap. bottle, wheelbarrow, bed. are all objects that have grown 
+anonymously from repeated similar use, rather than having been, as it were, suddenly formed 
+by individual design. (Sears Roebuck not Olivetti or Eames).The wash-basins, though modern 
+in design (note the tap fittings) , loose their newness in the chunky pattern which camouflages 
+detail. The basin is structurally like a mortared wall made of irregular stones and bricks. 
+Like the earlier tables of the artist (1951). incidentally, the wash-basins, beds, and gas 
+stoves are closely identified with the canvas area, the outer limits of the image never far from 
+the picture's edges. In seeing the painting we confront the object wholistically at the same 
+time. 
+
+These objects share with Dubuffet's early work a common anthropomorphism: the 
+human contour is everywhere. The "face" of the clock is just that; coffee-pots resemble ges- 
+turing personnages; the tap. on a huge scale, releases human correspondences usually con- 
+cealed by our hands. These objects are isolated on a black ground. The endless stress of the 
+all-over paintings is arrested by these images, which are like monumentalized segments of 
+the artist's fertile continuum of matter. An essential step in establishing a connection of the 
+objects with their users, ourselves, is the device of enlarged dimensions. The dilated bottle, 
+with its honeycombed interior, becomes an analogue of our body and its contents, thus echo- 
+ing Dubuffet's earlier organic imagery. The Utopian Utensils, as Dubuffet calls them, might 
+appear to be the product of a Rabelaisean power of fusing the everyday and the fantastic, the 
+common and the gigantic. 
+
+In these works Dubuffet has, in effect, replaced the still life by the object. Still life, 
+as defined in the early twentieth century, was especially valued because of the neutrality of 
+the articles. The use of pots and pans, books and clocks, left the artist free to concentrate 
+on problems of organization, without being distracted by meanings beyond the purely formal. 
+The objects of Dubuffet. on the contrary, possess both human sources and body analogies. 
+Instead of the interrelationship of "pure" forms, the humanity of objects seems inescapable. 
+Hence the importance of the single object which is monumentally present and yet complex 
+in implication, as an alternative to a formal view of the still life as relational. To Roger Fry. 
+for instance, the still life was a tranquil realm, from which all non-esthetic factors were ban- 
+ished. We can see much of Dubuffet's work as an alternative to this hygenic concept of objects. 
+His sense of vital life has found validation in both the Sahara Desert and the streets of Paris. 
+
+Within the massive contours of the pseudo-Rabelaisean objects, the mighty pots, 
+the taps for giants, however, there is little of that flow of primal and intimate textures that 
+evoked common human experience. As these objects dilate and solidify, they become not 
+more intimate but more alien. Their distance is not the detachment of a formal view of still 
+life which intervenes between us and the recognized objects. Within the familiar contour 
+everything spreads into a web of divisions and color patches that block our initial responses. 
+
+
+
+20 
+
+
+
+Instead of continuous matter, there is a labyrinth; instead of the primal field, there is a puzzle 
+that jumbles and divides the object. The utensils, as common objects, are large, there, pres- 
+ent, but the qualifying "Utopian" indicates a counter possibility. The Utopian is that which is 
+conceptual, unreal, and, at least for the present, unusable. It is the Utopian element which 
+signifies the alienation, the estrangement, which characterizes the period of L'Hourloupe. 
+
+Typical images of Dubuffet have persisted through the new period, of course, among 
+them the theme of the single personnage. bust, half-length, or seated. Whereas his earlier 
+figures, spreading like pancakes before us or facing us like monoliths, supported empathic 
+links with ourselves, the recent figures are counter-empathic, made of hard fins and mineral 
+petals, like unfitting armor. The bodies bend and curve in ways that violate our own body- 
+image. Thus they resemble the Utopian Utensils which seem, at first, common, but then open 
+into arbitrary labyrinthine patterns that block recognition and kinship. The "hard" style of 
+L'Hourloupe suits the monolithic object with an equivocal humanity and. of course, all-over 
+painting, better possibly than the single figure. The single figures with their sinister, ornate 
+crusts, seem too openly bizarre, like knights and warriors dressed to kill, whereas their pur- 
+pose, and their definition, is more ambigious and complex in the all-over paintings. Dubuffet's 
+art balances the quotidian and the fantastic ; he can be fantastic without affectation or fancy, 
+and realistic without valuing the conventions of naturalism. The Castle of Bottles is one of 
+the few pieces in which a metaphoric reference seems in excess of the realistic basis. On the 
+other hand, the series of Houses, all of which are swung around the stone of the threshold, 
+centers on a convincing metaphoric function. The point of entry is like the sex in one of the 
+Corps de Dames, making the house into a fantastic, inhabitable body. 
+
+The relation of the real and the fantastic, previously geared to vital phenomena, is 
+changed in L'Hourloupe. Dubuffet proposes a new de-humanization of art. not like that of 
+Ortega which is only art's autonomy distancing the world. The new work is a speculation on 
+order itself as a self- referring system, separated from the organic world by the eloquence of 
+alienation. 
+
+
+
+21 
+
+
+
+FOOTNOTES 
+
+
+
+1. The total show is not a retrospective, (which of necessity is usually a purified sample) but an almost 
+complete showing of some coherent unit of an artist's life. Another example of this hitherto unknown 
+fullness of information, would be the so-called Picasso Museum of Antibes, before it was depleted. 
+The documentation of Guernica (dated sketches, work photographs) in which total data on the forma- 
+tion of one work is available is comparable. "Total" is not literally true, but it means revealing enough 
+of everything relevant to seriously typify a defined area in an artist's life. A concept of density replaces 
+a belief in key-works and high moments. 
+
+2. The French word personnage is kept throughout the titles (otherwise translated) . A personnage is, 
+in dictionary usage, "a personnage. great person, somebody", more, that is to say, than a "personne". 
+The overtones of Surrealist usage are appropriate, here, with Personnage holding hints of an appari- 
+tional shock and irrational being. 
+
+3. Apropos of his series of lithographs, Phenomena, tablets and slabs of evenly diffused marks, Dubuffet 
+wrote: "a fragment of some sort detached from a continuous element, substances belonging to the 
+realm of geography, geology, descriptive physics, biochemistry .. .my poetico-geography" (Philadel- 
+phia Museum of Art. The Lithographs of Jean Dubuffet. November 18, 1964-January 10, 1965.) It is im- 
+portant to stress the fundamentally allusive and referential character of Dubuffet's work, if one is to 
+respond to his sense of scale. Given his different premise his scale is quite different from, and unrelated 
+to, all-over paintings by American abstract artists. 
+
+4. Jean Dubuffet. "Commentary". Ivan Albright Retrospective Exhibition, Art Institute of Chicago, 1964. 
+
+5. Bibliography no. 16. 
+
+6. James Fitzsimmons. "Jean Dubuffet: a short introduction to his work". Quadrum, 4. Brussels, 1957, 
+pp. 27-50. 
+
+7. Ibid. 
+
+8. The definition of esthetics as pure visual display, unencumbered by meaning, has become increasingly 
+restrictive in current art criticism. The alternative to a reductive esthetics, which functions to exclude 
+as much as possible, is a copious esthetics, more descriptive than prescriptive. It would have to take 
+in not only such extensions of the definition of art as l'Art Brut, but also iconography, and compound 
+or mixed art forms, such as opera, movies, happenings. 
+
+9. Bibliography no. 2. 
+
+
+
+22 
+
+
+
+WORKS I\ THE EXHIBITION 
+
+
+
+Media Description: Oil and vinyl paintings are on canvas unless otherwise stated: 
+ink and gouache drawings are on paper unless otherwise stated. 
+All measurements are in inches ; vertical precedes horizontal measurement. 
+Dorics marked * not exhibited. 
+
+
+
+1. PERSONNAGE. July 27, 1962. 
+Gouache and collage. 26% x 19%' 
+Collection D.B.C.. Paris. 
+
+
+
+12. VIRTUAL VIRTUE. June 25. 1963. 
+Oil, 38% x 51%". 
+Lent bv Saidenberg Gallerv, New 'lork. 
+
+
+
+2. PROFILE OF HEAD. July 29, 1962. 
+Gouache and collage. 19% x 14%". 
+Collection Mr. and Mrs. George Block. Hone: Kong 
+
+
+
+13. OPERA SCONCE. Julv 4. 1963. 
+Oil. 31% x 39%". 
+Collection Suzanne Cizev. Paris. 
+
+
+
+3. DOG. August 2, 1962. 
+
+Gouache and collage. 19 V2 x 26%' 
+Lent bv the artist. 
+
+
+
+14. BANK OF AMBIGUITIES. Julv 17. 1963. 
+Oil, 59 x 76%". 
+Lent bv the artist. 
+
+
+
+4. PERSONNAGE. August 30. 1962. 
+Collage, 26% x 12y 4 ". 
+Collection Mr. and Mrs. Otto Preminger, New- York. 
+
+*5. TREMOLO IN THE EYE. October 1962. 
+Chinese ink, 8% x 6%". 
+
+6. USUAL OBJECTS._ February 7, 1963. 
+Gouache, 13% x 19%". 
+
+Lent by the artist. 
+
+7. UNEVEN AND AMBLING. March 7. 1963. 
+Oil, 38% x 51%". 
+
+Collection Jean Planque, Paris. 
+
+8. THE RICH FRUITS OF ERROR. March 12. 1963. 
+Oil. 44% x 57V2". 
+
+Collection Max Loreau, Brussels. 
+
+9. I WILL OPT FOR ERROR. March 25. 1963. 
+Oil, 44%x57%". 
+
+Collection Mr. and Mrs. Elias M. Pinto, New York. 
+
+10. CREASE IN THE LOG. May 26. 1963. 
+Gouache. 19% x 26%". 
+
+Lent by the artist. 
+
+11. CLEAN UP SONNY. June 13, 1963. 
+Oil. 44% x 57%". 
+
+Lent bv the artist. 
+
+
+
+15. ERR AND DEVIATE. Julv 22, 1963. 
+Oil, 38% x 51%". 
+
+The Pinto Collection, Paris. 
+
+16. BEING AND SEEMING. Julv 25, 1963. 
+Oil. 38% x 51%". 
+
+Lent by Robert Fraser Gallery, London. 
+
+17. THE LIFE OF THE FAMILY. August 19. 1963. 
+
+Oil, 38% x51%". 
+Lent by the artist. 
+
+18. THE TIDE OF L'HOURLOUPE. October 11-23.1963. 
+Oil. 86% x 118". 
+
+The Pinto Collection, Paris. 
+
+:i 19. PERSONNAGE. November 24. 1963. 
+Ink, 8% x 5%". 
+
+20. PERSONNAGE. November 27. 1963. 
+Ink. 8%x5%". 
+Lent by Galerie Jeanne Bucher, Paris. 
+
+*21. PERSONNAGE. November 1963. 
+Ink, 8% x 5%". 
+
+22. PERSONNAGE. December 4, 1963. 
+Ink, 8% x 5%". 
+Lent bv the artist. 
+
+
+
+23 
+
+
+
+23. HOUSE. December 12, 1963. 
+Ink. 8V4 x 5%". 
+
+Lent by the artist. 
+
+24. THE FEASTER. January 12, 1964. 
+Oil and vinyl, 76% x 51V8". 
+
+Collection The Dallas Museum of Fine Arts. 
+Gift of Mr. and Mrs. James H. Clark. 
+
+25. PARADE OF OBJECTS. January 12, 1964. 
+Oil, 5iy 8 x76 3 /4". 
+
+Lent by Galerie Beyeler, Basel. 
+
+26. PITCHER. February 3, 1964. 
+Ink, 10 x 6%". 
+
+Lent by the artist. 
+
+27. DOLL. February 3, 1964. 
+Ink, 10x6 Ms". 
+
+Lent by the artist. 
+
+28. UTENSIL. February 3, 1964. 
+Ink, 10 x 6%". 
+
+Lent by the artist. 
+
+29. CARNIVAL OF UTENSILS. February 11, 1964. 
+
+Oii,5i 1 / 8 x63%". 
+
+Lent by Galerie Beyeler, Basel. 
+
+30. INCONSISTENCIES. February 18-March 8, 1964. 
+Vinyl, 51% x 307%". 
+
+The Pinto Collection, Paris. 
+
+31. CONJECTURES. March 12, 1964. 
+Vinyl on paper, 2578 x 39". 
+
+Collection Mademoiselle Carmen Bebiano, Paris. 
+
+
+
+34. I HURRY. March 27, 1964. 
+Oil, 76 3 /4x51 %". 
+
+Private collection, New York. 
+
+35. CHAIR. April 11, 1964. 
+Vinyl, 76% x 51%". 
+
+The Kate Maremont Foundation, Chicago. 
+
+36. SCATTERED OBJECTS. April 12, 1964. 
+Ink, 7% x 10%". 
+
+Lent by the artist. 
+
+37. BUST OF A WOMAN. April 16, 1964. 
+Ink, 13% x 8%". 
+
+Lent by the artist. 
+
+38. HOUSE. April 17, 1964. 
+Ink, 9% x 8%". 
+
+Collection Mr. and Mrs. Miles Fiterman, Minneapolis. 
+
+39. RIFLE IV. April 24, 1964. 
+Ink, 6% x 9%". 
+
+Lent by Galerie Beyeler, Basel. 
+
+40. TREE IV. April 26, 1964. 
+Ink, 13% x 9%". 
+
+Lent by the artist. 
+
+41. SCISSORS I. May 26, 1964. 
+Ink, 10% x 8%". 
+
+Lent by the artist. 
+
+42. COUNTERPOINT TO THE TOOLS. May 29, 1964. 
+Oil, 35 x 45%". 
+
+Lent by the artist. 
+
+
+
+32. THE NOTABLE. March 14, 1964. 
+Vinyl on paper, 26% x 19%". 
+Lent by the artist. 
+
+33. PERSONNAGE ON HIS BACK. March 1-19, 1964. 
+Ink, 10% x 8%". 
+
+Lent by Galerie Jeanne Bucher. Paris. 
+
+
+
+43. TYPEWRITER III. June 1, 1964. 
+Ink, 8% x 10%". 
+
+Lent by the artist. 
+
+44. TYPEWRITER I. June 29, 1964. 
+
+Oil, 39% x 31%". 
+
+Collection Trevor F. Peck, Montreal. 
+
+
+
+24 
+
+
+
+45. WHEELBARROW VI. July 11, 1964. 
+Ink, 10% x 8%". 
+
+Lent by Galerie Jeanne Bucher, Paris. 
+
+46. WHEELBARROW II. July 17, 1964. 
+Oil, 35 x 45%". 
+
+Lent by Saidenberg Gallery, New York. 
+
+47. WHEELBARROW VIII. July 18, 1964. 
+Ink, 10% x 8%". 
+
+Collection Mr. and Mrs. W. B. Dixon Stroud, 
+West Grove, Pennsylvania. 
+
+48. WHEELBARROW SEEN FROM ABOVE. 
+July 26. 1964. 
+
+Oil, 57 % x 44%". 
+
+Lent by Galerie Jeanne Bucher, Paris. 
+
+49. WHEELBARROW XIX. August 11, 1964. 
+Ink, 10% x 8%". 
+
+Lent by the artist. 
+
+50. BED I. August 16. 1964. 
+Vinyl, 76% x 51%". 
+
+Collection David Talbot Rice. London. 
+
+51. BED III. August 16, 1964. 
+Gouache. 12% x 8%". 
+Lent by the artist. 
+
+52. PERSONNAGE IV. October 22, 1964. 
+Ink, 10% x 8V4". 
+
+Lent by Saidenberg Gallery, New York. 
+
+53. PERSONNAGE XIII. October 28. 1964. 
+Ink, 10% x 8 a /4". 
+
+Lent by Robert Elkon Gallery, New York. 
+
+54. PERSONNAGE XXII. November 5, 1964. 
+Ink, 10% x 8V4". 
+
+Collection Dr. and Mrs. Arthur E. Kahn, New York. 
+
+55. PERSONNAGE XXV. November 7, 1964. 
+Ink, 10% x 8%". 
+
+Lent by the artist. 
+
+56. THE BRAWLER. November 18, 1964. 
+Vinyl, 51 %x38%". 
+
+Lent by Saidenberg Gallery, New York. 
+
+57. THE DOLEFUL MAN. January 5, 1965. 
+Oil, 39% x 31%". 
+
+Collection Mr. and Mrs. Leigh B. Block. Chicago. 
+
+
+
+60. FABULATION OF A WASHSTAND. 
+
+February 28. 1965. 
+
+Vinyl, 39% x 31%". 
+
+Private Collection, New York. 
+
+61. ILLUSTRATION OF A WASHSTAND. 
+March 4, 1965. 
+
+Vinyl. 31% x 39%". 
+
+Lent by Galerie Jeanne Bucher, Paris. 
+
+62. AMPLIFICATION OF A TAP. March 6, 1965. 
+Vinyl, 63% x 51%". 
+
+Collection Stedelijk Museum. Amsterdam. 
+
+63. PARISH FEAST. March 10. 1965. 
+Gouache, 19% x 26%". 
+
+Collection Mr. and Mrs. Ralph F. Colin, Jr.. New York. 
+
+64. MUTE ECHO. March 12, 1965. 
+Gouache. 19 % x 26". 
+
+Lent by the artist. 
+
+65. GOINGS AND COMINGS. March 16, 1965. 
+Gouache with vinyl mounted on canvas, 19% x 26%". 
+Collection J.-F. Jaeger. Paris. 
+
+66. NUNC STANS. March 23-24, 30-31. April 1, 1965. 
+Vinyl, gouache and collage mounted on canvas, 
+26% x\$2Vi". 
+
+Lent by The Archive for Decorative Art, 
+University of Lund, Sweden. 
+
+67. EPOKHE. April 10-17. 1965. 
+Vinyl on paper, 26% x 123". 
+
+Lent by Galerie Jeanne Bucher. Paris and 
+Galerie Beyeler, Basel. 
+
+68. PERPETUATION OF THE HOUR (CLOCK II). 
+April 23, 1965. 
+
+Vinyl. 51 %x 38%". 
+
+Lent by Galerie Beyeler. Basel. 
+
+69. TRAIN OF CLOCKS. April 24-28, 1965. 
+Vinyl, 49% x 158". 
+
+Lent by FEtat francais. 
+
+70. NUNC STANS. May 16-June 5. 1965. 
+Vinyl, 63% x323y 2 ". 
+
+Lent by Galerie Beyeler. Basel and 
+Galerie Jeanne Bucher, Paris. 
+
+71. PLATES, UTENSILS. August 12, 1965. 
+
+Vinyl on paper mounted on canvas, 39% x 31%". 
+Lent by the artist. 
+
+
+
+58. WHARF. January 15, 1965. 
+Gouache, 16% x 24%". 
+Lent by the artist. 
+
+59. LEGENDARY FIGURE OF A TAP. 
+February 23, 1965. 
+
+Vinyl, 39% x 31%". 
+Lent by the artist. 
+
+
+
+72. CASTLE OF BOTTLES. September 2, 1965. 
+Vinyl on paper mounted on canvas, 31% x 37%' 
+Lent by Robert Elkon Gallery, New York. 
+
+73. CUP AND SAUCER. COFFE POT. PLATE, 
+SUGAR BOWL. September 12. 1965. 
+
+Vinyl on paper mounted on canvas, 19% x 26%' 
+Lent by Galerie Jeanne Bucher, Paris. 
+
+
+
+25 
+
+
+
+74. COFFEE POT, CUP AND SUGAR BOWL. 
+
+September 23. 1965. 
+
+Vinyl on paper mounted on canvas, 28% x 23%' 
+
+Lent by the artist. 
+
+
+
+REASONABLE FIGURE OF SCISSORS. 
+February 26, 1966. 
+
+Vinyl, 34 % x45%". 
+
+Lent by Saidenberg Gallery, New York. 
+
+
+
+75. THEATRICALIZATION OF OBJECTS. 
+December 12, 1965. 
+
+Vinyl on paper mounted on canvas, 63% x 23%". 
+Lent by Galerie Beyeler, Basel. 
+
+76. COFFEE POT III. December 16, 1965. 
+
+Vinyl on paper mounted on canvas, 41% x 27 %". 
+Lent by Galerie Beyeler, Basel. 
+
+77. COFFEE POT V. December 17, 1965. 
+
+Vinyl on paper mounted on canvas, 41 x 27 %". 
+Lent by the artist. 
+
+78. BOTTLE III. December 22, 1965. 
+Vinyl on paper, 40% x 26%". 
+
+Lent by Galerie Jeanne Bucher, Paris. 
+
+79. CUP OF TEA IV. December 27, 1965. 
+Vinyl, 51% x 38%". 
+
+Lent by Robert Fraser Gallery, London. 
+
+80. BOTTLE V January 2, 1966. 
+Vinyl, 67x31 %". 
+
+Collection Mrs. Sidney Solomon, New York. 
+
+81. CUP OF TEA V January 4, 1966. 
+
+Vinyl, 51 ¥4x31 %". 
+Lent by the artist. 
+
+82. DOMESTIC SITE WITH SWORDFISH. 
+INCA HEAD, AND SMALL ARM CHAIR 
+ON RIGHT. January 28, 1966. 
+
+Vinyl, 49% x 78%". 
+
+Collection Edouard Cournand, New York. 
+
+83. DOUBLE-BARRELLED GUN. February 3, 1966. 
+Vinyl, 49% x 78%". 
+
+Collection Robert Fraser, London. 
+
+84. MECHANICAL MUSIC. February 6, 1966. 
+Vinyl, 49% x 78%". 
+
+Lent by the artist. 
+
+85. L'HOURLOUPE GARDEN. February 14, 1966. 
+Vinyl, 45% x 35". 
+
+Lent by the artist. 
+
+86. PIANO. February 21, 1966. 
+Vinyl, 45% x 35". 
+
+Lent by Robert Fraser Gallery, London. 
+
+
+
+*89. ARMCHAIR. February 27, 1966. 
+Ink, 11% x 8%". 
+
+90. GAS STOVE II. March 1, 1966. 
+Vinyl, 45% x 35". 
+
+Lent by the artist. 
+
+91. SITE WITH PEASANT WOMEN. March 19, 1966. 
+Vinyl, 31% x 39%". 
+
+Lent by the artist. 
+
+92. HOUSE IV (WITH FRONT STEPS) . 
+March 30, 1966. 
+
+Vinyl, 57% x 44%". 
+Lent by the artist. 
+
+93. HOUSE V (WITH STEPS AND MANY ROOMS) , 
+April 8, 1966. 
+
+Vinyl, 57% x 44%". 
+Lent by the artist. 
+
+94. HEAD WITH CHIGNON. April 17, 1966. 
+Ink, 10% x 8%". 
+
+Lent by the artist. 
+
+95. VILLA 4. April 17, 1966. 
+Ink, 10% x 8%". 
+
+Lent by the artist. 
+
+96. CHAIR. May 25, 1966. 
+Ink, 10% x IV*". 
+Lent by the artist. 
+
+97. POT OF JAM. June 11, 1966. 
+Ink,9%x6%". 
+
+Lent by the artist. 
+
+98. COFFEE POT II. June 18, 1966. 
+Ink, 9%x6%". 
+
+Lent by the artist. 
+
+99. LADDER IV. June 22, 1966. 
+Ink, 9% x 6 %". 
+
+Lent by the artist. 
+
+100. TREE VI. June 29, 1966. 
+Ink, 9% x 6%". 
+
+Lent by the artist. 
+
+101. THE ANXIOUS ONE. July 3, 1966. 
+Ink. 9% x 6%". 
+
+Lent by the artist. 
+
+
+
+87. GAS STOVE I. February 23, 1966. 
+Vinyl, 45% x 35". 
+Lent by Galerie Jeanne Bucher, Paris. 
+
+
+
+102. VALISE IX. July 4. 1966. 
+Ink, 9% x 6%". 
+Lent by the artist. 
+
+
+
+27 
+
+
+
+
+Personnage. July 27, 1962. Gouache, 26% x 19%' 
+
+
+
+;: 5. Tremolo in the Eye. October 1962. Chinese ink, 8Vi x 6%' 
+
+
+
+
+3. Dog. August 2, 1962. Gouache, 19% x 26 : /4". 
+
+
+
+
+
+2. Profile of Head. July 29, 1962. Gouache, 19% x 10%". 4. Personnage. August 30, 1962. Collage, 25V4 x 12 1 A' 
+
+
+
+
+6. Usual Objects. February 7, 1963. Gouache, 13V4 x 19%". 
+
+
+
+
+7. Uneven and Ambling. March 7, 1963. Oil, 38V8 x 5P/8' 
+
+
+
+
+8. The Rich Fruit of Error. March 12, 1963. Oil, 44 7 /s x 57%' 
+
+
+
+
+10. Crease in the Log. May 26, 1963. Gouache, 19% x 26V4' 
+
+
+
+
+LI. Clean Up Sonny. June 13, 1963. Oil, 44 7 /s x 57%". 
+
+
+
+
+13. Opera Sconce. July 4, 1963. Oil, 31% x 39%". 
+
+
+
+
+18. The Tide of L'Hourloupe. October 11-23, 1963. Oil, 86%" x 118" 
+
+
+
+
+14. Bank of Ambiguities. July 17, 1963. Oil, 59 x 76%' 
+
+
+
+
+15. Err and Deviate. July 22, 1963. Oil, 38 Vs x 51 Vs". 
+
+
+
+
+16. Being and Seeming. July 25. 1963. Oil, 38% x 51%". 
+
+
+
+
+17. The Life of the Family. August 19, 1963. Oil, 38% x 51%' 
+
+
+
+
+
+22. Personnage. December 4, 1963. Ink, 8V4 x 5%". 23. House. December 12, 1963. Ink, 8V* x 5%". 
+
+
+
+
+39. Rifle IV. April 24, 1964. Ink, 6% x 9 7 /s". 
+
+
+
+30. Inconsistencies. February 18-March 8, 1964. Vinyl, 5lVa x 308*2' 
+
+
+
+
+31. Conjectures. March 12. 1964. Vinyl on paper, 25 Ts x 39". 
+
+
+
+
+
+The Feaster. January 12, 1964. Oil and vinyl, 76% x 51 Vs". 32. The Notable. March 14. 1961. Vinyl on paper, 26 x /2 x 19%' 
+
+
+
+
+36. Scattered Objects. April 12, 1964. Ink, Vfc x lO 1 /^'. 
+
+
+
+35. Chair. April 11, 1964. Vinyl, 76% x 51%' 
+
+
+
+;VWvi\$ 
+
+
+
+
+
+29. Carnival of Utensils. February 11, 1964. Oil, oV/s x 63%' 
+
+
+
+
+42. Counterpoint to the Tools. May 29, 1964. Oil, 35 x 45%' 
+
+
+
+
+
+37. Bust of a Woman. April 16, 1964. Ink, 13V4 x 2,Vi". 41. Scissors I. May 26, 1964. Ink, 10% x 8%' 
+
+
+
+
+
+38. House. April 17, 1964. Ink, 10 x 6%' 
+
+
+
+40. Tree IV. April 26, 1964. Ink, 13 V 4 x 9%' 
+
+
+
+
+
+43. Typewriter III. June 1. 1964. Ink, 8V 4 x 10%' 
+
+
+
+51. Bed III. August 16. 1964. Gouache. 12% x 8V 4 ' 
+
+
+
+
+
+45. Wheelbarrow VI. July 11. 1964. Ink. 10% x 8W 
+
+
+
+49. Wheelbarrow XIX. August 11, 1964. Ink. 10% x 8%". 
+
+
+
+
+ia 
+
+
+
+
+
+
+47. Wheelbarrow VI 11. July 18. 1964. Ink. 10% x 8 l A". 
+
+
+
+52. Personnage IV. October 22. 1964. Vinyl on paper, 10% x 8V4' 
+
+
+
+
+46. Wheelbarrow 11. July 17. 1964. Oil. 35 x 45%' 
+
+
+
+
+
+33. Personnage on His Back. March 1-19, 1964, Ink. 10%" x 8 x /4" 53. Personnage XIII. October 28, 1964. Ink, 10% x SYa' 
+
+
+
+
+
+54. Personnage XXII. November 5, 1964. Ink, 10% x 8V4". 55. Personnage XXV. November 7, 1964. Ink, 10% x 8Vi' 
+
+
+
+
+)9. Legendary Figure of a Tap. February 23, 1965. Vinyl, 39% x 31 7 /s' 
+
+
+
+
+58. Wharf. January 15, 1965. Gouache, 16% x 24%' 
+
+
+
+
+63. Parish Feast. March 10. 1965. Gouache, 19% x 26%' 
+
+
+
+
+«o 
+
+
+
+
+Q. 
+
+
+
+m 
+
+
+
+j^&lt; 
+
+
+
+M 
+
+
+
+&amp; 
+
+
+
+F3* 
+
+
+
+^ 
+
+
+
+osgo 
+
+
+
+SJS 
+
+
+
+^ 
+
+
+
+ft 
+
+
+
+ia 
+
+
+
+i€ 
+
+
+
+
+70. Nunc Stans. May 16-June 5, 1965. Vinyl, 63% x 323 %". (Reproduced in three parts.) , 
+
+
+
+
+64. Mute Echo. March 12. 1965. Gouache. 19% x 26' 
+
+
+
+
+65. Goings and Comings. March 16. 1965. Gouache with vinyl mounted on canvas, 19% x 26%' 
+
+
+
+
+91. Site with Peasant Women. March 19. 1966. Vinyl, 31% x 39%' 
+
+
+
+
+)9. Train of Clocks. April 24-28, 1965. Vinyl, 49 Yt x 158". 
+
+
+
+
+2. Castle of Bottles. September 2, 1965. Vinyl on paper mounted on canvas, 31 7 /s x 37%' 
+
+
+
+
+71. Plates, Utensils. August 12, 1965. Vinyl on paper mounted on canvas, 39% x 31%". 
+
+
+
+
+74. Coffee Pot, Cup, and Sugar Bowl. September 23, 1965. Vinyl on paper mounted on canvas, 28% x 23%' 
+
+
+
+
+73. Cup and Saucer, Coffee Pot, Plate, Sugar Bowl. September 12, 1965. Vinyl on paper mounted on canvas, 19% x 26%' 
+
+
+
+
+75. Theatricalization of Objects. December 12. 1965. Vinyl on paper mounted on canvas, 63% x 23%", 
+
+
+
+
+o 
+
+
+
+
+
+80. Bottle V. January 2, 1966. Vinyl, 67 x 31 Vz". 
+
+
+
+
+
+aq 
+
+
+
+
+82. Domestic Site With Swordfish, Inca Head, and Small Armchair On Right. January 28, 1966. Vinyl, 49V4 x 78%". 
+
+
+
+
+85. UHourloupe Garden. February 14, 1966. Vinyl, 35 x 45%' 
+
+
+
+
+83. Double-Barrelled Gun. February 3. 1966. Vinyl, 49 V* x 78%' 
+
+
+
+
+Reasonable Figure of Scissors. February 26. 1966. Vinyl, 34% x 45%' 
+
+
+
+
+o 
+
+
+
+
+ii 
+
+
+
+
+
+m Armchair. February 27, 1966. Ink, llVfe x 8%". 
+
+
+
+95. Villa 4. April 17, 1966. Ink, 10% x 8V4' 
+
+
+
+
+
+94. Head with Chignon. April 17, 1966. Ink, 10% x 8Vi' 
+
+
+
+101. The Anxious One. July 3, 1966. Ink. 97s x 6V2". 
+
+
+
+
+
+96. Chair. May 25. 1966. Ink. 10 7 /s x 7V4". 
+
+
+
+99. Ladder IK June 22. 1966. Ink, 9% x 6%' 
+
+
+
+
+
+97. Pot of Jam. June 11, 1966. Ink, 9% x 6y2' 
+
+
+
+100. Tree VI. June 29, 1966. Ink, 9% x 6% 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+bv Diane ^ aldman 
+
+
+
+The bibliography refers solely to the period of 
+L'Hourloupe, 1962-66. Writings and book illustrations 
+by Dubuffet are given first. The one-man exhibitions in 
+the third section are wholly devoted to L'Hourloupe : 
+those in the fourth section mix L'Hourloupe with other 
+periods. The reviews are a partial listing. 
+
+WRITINGS BY JEA&gt; DUBUFFET 
+
+
+
+1. UHourloupe, Paris, Noel Arnaud. Editions "Le petit 
+
+Jesus", no. 10. 1963. Calligraphic text and ball- 
+point drawings cut out and pasted together. 
+
+2. Foire aux Mirages, August 1964. Statement, catalogue 
+
+"L'Hourloupe". Galerie Jeanne Bucher, Paris. 
+December 1964. Reprinted in bibliography nos. 
+39.67.71. 
+
+References to the Compagnie de l'Art Brut publi- 
+cations (nos. 3-8) are restricted to Dubuffet "s writ- 
+ings: 
+
+3. L'Art Brut 1, Paris. Compagnie de l'Art Brut, 1964. 
+
+"Le prisonnier de Bale" fin collaboration with 
+Dr. Louis Lambelet I . pp. 7-25 : "Palanc l'Ecri- 
+turiste". pp. 27-47; "Les dessins mediumniques 
+de facteur Lonne". pp. 49-63: "Miguel Hernan- 
+dez", pp. 65-75: "Le lambris de Clement"', pp. 77- 
+112: "Heinrich Anton M.", pp. 131-143; "Hum- 
+bert Ribet", pp. 145-150. 
+
+4. L'Art Brut 3, Paris, Compagnie de l'Art Brut, 1965. 
+
+"Le Mineur Lesage", pp. 5-45; "Salingardes 
+lAubergiste", pp. 47-57: "Le Cabinet du Pro- 
+fessor Ladame". pp. 59-95: "Les Telegrammes de 
+Charles Jaufret", pp. 97-121. 
+
+5. L'Art Brut 4. Paris. Compagnie de l'Art Brut, 1965. 
+
+"Scottie Wilson" (in collaboration with Victor 
+Musgrave and Andrew de Maine), pp. 5-31; 
+"Guillaume" (in collaboration with Dr. Jean 
+Dequeker). pp. 57-81: "Paul End", pp. 83-99; 
+"Moindre l'Egyptologue"', pp. 101-127; "L'ecrit 
+du Comte de Bon Sauveur", pp. 129-137; "Jac- 
+queline", pp. 139-145. 
+
+6. L'Art Brut 5, Paris. Compagnie de l'Art Brut. 1965. 
+
+"Le Philateliste", pp. 5-19; "Broderies d'Elisa". 
+pp. 22-43: "Joseph Crepin". pp. 44-63; "Rose 
+Aubert", pp. 64-73; "Gaston le zoologue", pp. 74- 
+101. 
+
+7. L'Art Brut 6, Paris, Compagnie de l'Art Brut. 1966. 
+
+"La double vie de Laure". pp. 69-101 : "Simone 
+Marye \ pp. 103-121 : "Anai's". pp. 123-131 : "Robe 
+nuptiale et tableaux brodes de Marguerite", pp. 
+133-145. 
+
+8. L'Art Brut 7, Paris. Compagnie d lArt Brut, 1966. 
+
+"Haut Art DAJoi'se", pp. 7-21. 
+
+
+
+73 
+
+
+
+BOOK III! STIIATIOXN 
+
+
+
+ARTICLES AMI BOOKS 
+
+
+
+9. Mordicus, Ales, France. P. A. Benoit, 1962. Poems by 
+Kay Sage with ten drawings by Jean Dubuflet. 
+
+10. Le mirivis des naturgies, Paris, Edition du College du 
+
+Pataphysique. 1963. Text by Andre Martel. cal- 
+ligraphy and sixteen lithographs by Jean Dubuflet. 
+Printed by Jean Dubuflet. 
+
+11. Rhinozeros, Hamburg, K. H. Butziger, 1963, no. 8. 
+
+Calligraphic text in French and German by Jean 
+Dubuffet. 
+
+12. Tremolo sur Toeil, Veilhes. Lavaur, France, Gaston 
+
+Puel, 1963. Calligraphic text and drawings by 
+Jean Dubuffet. Printed by Jean Dubuffet. 
+
+
+
+13. Catalogue des travaux de Jean Dubuffet. Paris Circus, 
+
+Paris. Jean-Jacques Pauvert, 1965. vol. XIX. Intro- 
+duction by Max Loreau; illustrations, comments, 
+letters and statements by the artist: texts by 
+Renato Barilli, Hubert Damisch. Edith Boissonnas. 
+Bibliography. I Definitive book on the period pre- 
+ceding L'Hourloupe.) 
+
+14. arnaud, noel. "Les Jargons", Bizarre, Paris, nos. 32- 
+
+33. first quarter. 1964, pp. 117-118. 
+
+15. limbour, georges. "Jean Dubuffet: L'Hourloupe ou 
+
+de l'envoutement", XX siecle, Paris, vol. 26, no. 
+24, December 1964, pp. 33-40. 
+
+16. loreau, max. "Dubuffet et le voyage au centre de la 
+
+perception", Les Temps Modernes, Paris, no. 223, 
+December 1964, pp. 1018-1049; and no. 224. Jan- 
+uary 1965, pp. 1282-1313. 
+
+17. damisch, Hubert. "Filagramm-es : l'oeuvre. Fart, 
+
+Touvre d'art": "Methode seconde", Mercure de 
+France, Paris, vol. 352, no. 1215, January 1965. 
+pp. 100-113. 
+
+18. trucchi, lorenza. Jean Dubuffet, Rome, De Luca, 
+
+1965. 
+
+19. argan. G. c. "L'Antropologo Dubuffet", La Botte e il 
+
+Violino, Rome, January 1966, pp. 21-24. 
+
+20. Reprinted in Art and Artists, London, vol. 1, no. 
+1. April 1966. pp. 12-15. translation by G. Davis. 
+
+21. de mandiargues. andre pieyre. "Les 'ustensiles uto- 
+
+piques' de Jean Dubuffet", L'Oeil, Paris, no. 136, 
+April 1966, pp. 18-25. 
+
+22. rouve, pierre. ""The Tender Terrorist". Art and 
+
+Artists, London, vol. 1. no. 1. April 1966, pp. 16-19. 
+
+23. "Painting: Shock Treatment", Time, New York, April 
+
+22, 1966, p. 78. 
+
+24. hughes, Robert. "Dubuffet and the .Myth of Inno- 
+
+cence". Studio International, London, vol. 171, no. 
+877, May 1966, pp. 175-183. 
+
+25. "L'Index; Connaissance des Arts 1966", Connaissance 
+
+des Arts, Paris, no. 172, June 1966. p. 92. ("The 
+best living painters classified by a panel of ex- 
+perts". Dubuffet 24 voles, third place) . 
+
+26. Thompson, david. "London Commentary: Dubuffet's 
+
+'Hourloupe' paintings", Studio International, Lon- 
+don, vol. 172, no. 879, July 1966, pp. 31, 33. 
+
+
+
+74 
+
+
+
+OXE-MA\ EXHIBITIONS 
+
+
+
+27. L'Hourloupe di Jean Dubuffet, Centro Internazionale 
+delle Arti e del Costume. Palazzo Grassi. Venice. June 
+15-September 13. 1964. Text by Paolo Marinotti, "Con- 
+trosole". and Renato Barilli, "L'Hourloupe", Eng- 
+lish and French translations. 
+
+28. Reviews: dorfles, gillo. "Le Mostre a Palazzo Grassi 
+
+del Centro Internazionale delle Arti e del 
+Costume". Art International. Lugano, vol. 
+VIII. no. 4. May 1964. pp. 66, 71, 72. 
+
+29. sciortino, Giuseppe. "Mostra d'Arte in 
+Italia: Allegria di Dubuffet". La Fiera Let- 
+teraria, Rome, vol. 19, no. 27, July 5. 1964, 
+p. 4. 
+
+30. revel, jean-francois. "XXXII Biennale de 
+\enise: Triomphe du Realisme National- 
+iste". L'Oeil, Paris, nos. 115-116. July-Aug- 
+ust. 1964, pp. 7-8. 
+
+31. hodin, j. p. "The Master of L'Hourloupe", 
+The Arts Review, London, vol. 16. no. 17. 
+September 5-19, 1964, p. 23. 
+
+32. branzi. silvio. "Lettera da Venezia: A Pal- 
+azzo Grassi". Art International, Lugano, vol. 
+VIII. no. 7. September 25. 1964, pp. 61-62. 
+
+33. gassiot-talabot. gerald. "La Derniere Meta- 
+morphose de Dubuffet". Art Internationa!. 
+Lugano, vol. VIII, no. 7, September 25. 1964, 
+pp. 55-56. 
+
+34. bonnefoi. Genevieve. "Actualites : Jean 
+Dubuffet. le desorienteur", Les Lettres Nou- 
+velles, Paris, vol. 12, September-October, 
+1964. pp. 315-318. 
+
+35. deroudille. rene. "A Venise Sante et tonus 
+de 'L'Hourloupe' de Dubuffet". Aujourd'hui, 
+Paris, vol. 18, no. 47. October 19, 1964. 
+p. 42. 
+
+36. boissonnas, edith. "Les Arts: L'Hourloupe 
+de Jean Dubuffet", La Nouvelle Revue Fran- 
+caise, Paris, vol. 12. no. 144, December 1, 
+1964, pp. 1126-1127. 
+
+37. LIMBOUR, georges. "L'Hourloupe a Venise", 
+College de Pataphysique, Paris, no. 27, Jan- 
+uary 18. 1965, pp. 128-129. 
+
+38. L'Hourloupe gouaches: Jean Dubuffet, Galerie Claude 
+Bernard. Paris. December 1964. Text reprinted from 
+bibliography no. 17. 
+
+39. Jean Dubuffet: L'Hourloupe, Galerie Jeanne Bucher. 
+Paris. December 1964-January 1965. Text by Jean 
+Dubuffet. "Foire aux Mirages", English and German 
+translations. 
+
+
+
+40. Reviews: lacoste, michel conil. "Paris Commen- 
+
+tary: Dubuffet's Hourloupe— tour de force", 
+Studio International, London, vol. 169, no. 
+861. January 1965. pp. 30-32. 
+
+41. hahn. otto. "Lettre de Paris". Art Inter- 
+national, Lugano, vol. IX, no. 1, February 
+1965, p. 53. 
+
+42. moulin, raoul-jean. "L'Actuabte a Paris", 
+Cimaise, Paris, vol. 12, no. 72, February- 
+May. 1965. p. 83. 
+
+43. michelson, annette. "Paris Letter" Art 
+International, Lugano, vol. IX, no. 2, March 
+1965, pp. 39-40. 
+
+L'Hourloupe: Dubuffet. Saidenberg Gallery, New 
+York, January 4-February 12, 1966. 
+
+44. Reviews: Canada Y. john. "Art: Dubuffet 's World of 
+
+'Hourloupe* "". The New York Times, New 
+York. Saturday. January" 8, 1966. 
+
+45. genauer, emilv. New York Herald Tribune. 
+New York, Saturday, January 8, 1966. 
+
+46. willard. charlotte. "In the Art Galleries". 
+New York Post, New York. Sunday. January 
+30. 1966. p. 30. 
+
+47. levin, kim. Art News, New York, vol. 64. 
+no. 9. January 1966, p. 12. 
+
+48. Mitchell, fred. Pictures on Exhibit, New 
+York. vol. 29, no. 5, February 1966, pp. 14-15. 
+
+49. Roberts, Colette. "L'Hourloupe par Jean 
+Dubuffet", F ranee- Amerique, New York. 
+February 1966. 
+
+50. benedikt. Michael. "New York Letter", Art 
+International. Lugano, vol. X, no. 3. March 
+20. 1966. pp. 55-56. 
+
+51. Adrian, dennis. "New York", Artforum, Los 
+Angeles, vol. 4. no. 7. March 1966. p. 51. 
+
+52. jacobs, jay. "In the Galleries: Jean Dub- 
+uffet at Saidenberg", Arts, New York, vol. 
+40, no. 5. March 1966. pp. 57-58. 
+
+53. Nunc Stans, Epokhe, cycle de L'Hourloupe, Galerie 
+Jeanne Bucher, Paris, April-May. 1966. Text by 
+Charles Estienne, "Le Ring et la Salle". 
+
+54. Jean Dubuffet: Recent Paintings, Robert Fraser Gal- 
+lery. London. April 20-May 28. 1966. Text by Lawrence 
+Alloway. "Lstensiles Utopiques": and Andre Pieyre 
+de Mandiargues. bibliography no. 21 reprinted as "Les 
+Objets de L'Hourloupe". with English translation. 
+
+
+
+75 
+
+
+
+©&gt;E MAN EXHIBITIONS (INCLUDING I/HOURLOUPE) 
+
+
+
+55. Jean Dubuffet; Tekeningen, gouaches, Stedelijk Mu- 
+seum, Amsterdam, November 26, 1964-January 11, 1965. 
+Text by Max Loreau. 
+
+56. The Lithographs of Jean Dubuffet, The Philadelphia 
+Museum of Art. Department of Prints and Drawings, 
+Philadelphia, November 18. 1964-January 10, 1965. 
+Foreword, Evan Turner; preface, Kneeland McNulty; 
+text, N. Richard Miller; '"Notion of Beauty" (excerpt 
+from "Anticultural Positions", notes for a lecture at 
+the Arts Club of Chicago, December 20, 1951) , "Notes 
+on Lithographs", Jean Dubuffet. 
+
+57. Reviews: donohoe, victoria. "The Painter Who 
+
+Once Scandalized Paris : Art Should Never 
+Bore Us", The Philadelphia Enquirer, 
+Philadelphia, Sunday, November 8, 1964, 
+"Today". 
+
+58. donohoe, victoria. "Exhibition of Dubuffet 
+at Museum", The Philadelphia Enquirer, 
+Philadelphia, Sunday, November 22, 1964, 
+"Art News". 
+
+59. grafley, dorothy. "L'Art Brut", The Sun- 
+day Bulletin, Philadelphia, Sunday, Novem- 
+ber 22, 1964. 
+
+60. grafley, dorothy. "The Cult of Dubuffet". 
+Art in Focus, Philadelphia, vol. 16, no. 3, 
+December 1964, p. 1. 
+
+61. Jean Dubuffet, Galerie Beyeler, Basel. February 20- 
+April 30, 1965. Text by Jean Dubuffet, "Positions anti- 
+culturelles", see bibliography no. 56. 
+
+62. Reviews: c.h. "Basel: Jean Dubuffet: Galerie Bey- 
+
+eler", Werk, Winterthur, Switzerland, vol. 
+52, no. 4, April 1965, pp. 96-97 (supplement). 
+
+63. dienst, rolf-gunter. "Dubuffet als Kiinstler 
+und anti-Kiinstler; Eine Retrospektive in 
+der Basler Galerie Beyeler", Das Kunst- 
+werk, Baden-Baden, vol. 19, no. 1, July 
+1965, pp. 41, 44. 
+
+64. 100 Obras de Jean Dubuffet, Centro de Artes Visuales, 
+Instituto Torcuato Di Telia, Buenos Aires, May 1965. 
+Text by Francois Pluchart. 
+
+Jean Dubuffet, Gimpel &amp; Hanover Galerie, Zurich, 
+August 27-September 29, 1965. 
+
+65. Review: curjel, dr. hans. "Zurich: Jean Dubuffet: 
+
+Gimpel &amp; Hanover Galerie", Werk, Winter- 
+thur. Switzerland, vol. 52, no. 11, November 
+1965, pp. 269-270 (supplement) . 
+Jean Dubuffet, Galerie Rudolf Zwirner, Cologne, Octo- 
+ber 8-November, 1965. 
+
+
+
+66. Review: sommer, ed. "Benefit aus Deutschland", Art 
+
+International, Lugano, vol. X, no. 1, January 
+20, 1966, p. 77. 
+
+67. Jean Dubuffet Retrospective, Dallas Museum of Fine 
+Arts, Dallas, March 16-April 17, 1966, Text by Jean 
+Dubuffet. "Anticultural Positions", see bibliography 
+no. 56; "Landscaped Tables, Landscapes of the Mind, 
+Stones of Philosophy" (Excerpt from essay published 
+by Pierre Matisse Gallery. New York, for an exhibition, 
+February 12-March 1, 1952) ; "Memoir on the Develop- 
+ment of My Work from 1952" (excerpt from The Work 
+of Jean Dubuffet, The Museum of Modern Art, New 
+^ork. 1962) : "Image Fair", see bibliography no. 39. 
+
+68. Jean Dubuffet: Drawings, Institute of Contemporary 
+Arts, The Arts Council of Great Britain, London, 
+March 25-April 30. 1966. Text by Georges Limbour. 
+
+69. Reviews: laughton, bruce. "London Galleries: Du- 
+
+buffet Drawings", Arts Review, London, vol. 
+18. no. 6. April 2, 1966, p. 142. 
+
+70. Rosenthal, t. g. "Round the Art Galleries'", 
+The Listener, London, vol. 75, no. 1935, 
+April 28, 1966, p. 622. 
+
+71. Jean Dubuffet: Paintings, Tate Gallery, The Arts 
+Council of Great Britain, London, April 23-May 30. 
+1966. Text by Alan Bowness. Bibliography. 
+
+72. Review: lynton, norbert. "London Letter". Art In- 
+
+ternational, Lugano, vol. X, no. 6, Summer 
+1966, p. 105. 
+
+73. webb, Michael. "Painter Without Preoccupations", 
+Country Life, London, April 28, 1966, pp. 1114-1115. 
+
+74. Jean Dubuffet, Stedelijk Museum, Amsterdam, June 
+11-August 28, 1966. Version of the Tate Gallery exhibi- 
+tion, see bibliography no. 71. Text by Dubuffet (ex- 
+cerpts from various writings) . 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM 
+
+
+
+STAFF 
+
+
+
+Director 
+
+
+
+Thomas M. Messer 
+
+
+
+Curator 
+
+Associate Curator 
+
+Research Fellows 
+
+Librarian 
+
+Public Affairs 
+
+Membership 
+
+Registrar 
+
+Conservation 
+
+Photography 
+
+Custodian 
+
+
+
+Laivrence AUoway 
+
+Louise Averill Svendsen 
+
+Diane Waldman and Rose-Carol Washton 
+
+Mary Joan Hall 
+
+Everett Ellin 
+
+Carol Tormey 
+
+Alice Hildreth Goldman 
+
+Orrin Riley and Saul Fuerstein 
+
+Robert E. Mates 
+
+Jean Xceron 
+
+
+
+Business Administrator 
+
+
+
+Glenn H. Easton, Jr. 
+
+
+
+Administrative Assistant 
+Office Manager 
+Purchasing Agent 
+Sales Supervisor 
+Building Superintendent 
+Head Guard 
+
+
+
+Viola H. Gleason 
+Agnes R. Connolly 
+Elizabeth M. Funghini 
+Judith E. Stern 
+Peter G. Loggin 
+Fred C. Mahnken 
+
+
+
+PHOTOGRAPHIC CREDITS All photographs but the following were made by P. L. Thiessard, Nice, France : 
+
+Robert E. Mates, nos. 9, 12, 80. 
+
+
+
+Exhibition 66/5 October 1966— February 1967 
+
+3,000 copies of this catalogue 
+
+designed by Herbert Matter 
+
+have been printed by Sterlip Press 
+
+in September 1966 
+
+for the Trustees of The Solomon R. Guggenheim Foundation 
+
+on the occasion of the exhibition 
+
+"Jean Dubuffet: 1962-1966" 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0035   0.0035      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0049   0.0014      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0066   0.0017     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0099   0.0033   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0101   0.0001    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0779   0.0678              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=77;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

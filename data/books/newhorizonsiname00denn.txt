@@ -1,0 +1,4735 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "New horizons in American art : 1985 Exxon national exhibition"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/newhorizonsiname00denn">New horizons in American art : 1985 Exxon national exhibition</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/newhorizonsiname00denn">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>NEW H O R I 
+
+
+
+IN AMERICA 
+
+
+
+1985 EXXON 
+NATIONAL EXHIB 
+
+
+
+Solomon R. Guggenheim 
+Museum Library 
+
+
+
+NEW HORIZONS 
+IN AMERICAN ART 
+
+1985 EXXON 
+
+NATIONAL EXHIBITION 
+
+
+
+by Lisa Dennison 
+
+
+
+This exhibition is sponsored by 
+Exxon Corporation 
+
+
+
+Solomon R. Guggenheim Museum, New York 
+
+
+
+Library of Congress Cataloging-in-Publication Data 
+
+Dennison, Lisa. 
+New horizons in American art. 
+
+Sponsored by Exxon Corporation and held at the 
+Solomon R. Guggenheim Museum, New York. 
+
+Includes bibliographies. 
+
+1. Art, American— Exhibitions. 2. Art, Modern— 20th 
+century— United States— Exhibitions. 3. Exxon 
+Corporation— Art patronage— Exhibitions. I. Exxon 
+Corporation. II. Solomon R. Guggenheim Museum. 
+III. Title. 
+
+N6512.D38 1985 709'.73'07401471 85-14376 
+ISBN 0-89207-050-1 
+
+Published by The Solomon R. Guggenheim Foundation, 
+New York, 1985 
+
+© The Solomon R. Guggenheim Foundation, New York, 1985 
+
+
+
+ADVISORY BOARD 
+
+
+
+STAFF 
+
+
+
+The Solomon R. Guggenheim Foundation 
+
+HONORARY TRUSTEES IN PERPETUITY 
+
+Solomon R, Guggenheim, Justin K. Thannhauser, Peggy Guggenheim 
+
+PRESIDENT Peter Lawson-Johnston 
+
+VICE PRESIDENT The Right Honorable Earl Castle Stewart 
+
+Elaine Dannheisser. Michel David-Weill, Carlo De Benedetti, Joseph W Donner, Robin Chandler Duke, Robert M. 
+Gardiner, John S Hilson, Harold W. McGraw, Jr , Wendy L-J McNeil, Thomas M, Messer, Bonnie Ward Simon, 
+Seymour Slive, Stephen C, Swid. Michael F Wettach. William T. Ylvlsaker 
+
+Donald M Blinken. Barrie M. Damson, Donald M. Feuerstein, Linda LeRoy Janklow, Seymour M, Klein, Denise Saul, 
+Hannelore Schulhot 
+
+secretary-treasurer Theodore G Dunker 
+
+Aili Pontynen, Assistant Secretary; Joy N. Fearon, Assistant Treasurer 
+
+DIRECTOR Thomas M Messer 
+
+
+
+STAFF 
+
+
+
+LIFE MEMBERS 
+
+
+
+INSTITUTIONAL PATRONS 
+
+
+
+Solomon R. Guggenheim Museum 
+
+deputy director Diane Waldman 
+ADMINISTRATOR William M Jackson 
+
+
+
+Vivian Endicott Barnett, Curator; Lisa Dennison, Susan B, Hirschfeld, Assistant Curators; Carol Fuerstein, Editor; 
+Sonja Bay, Librarian; Ward Jackson, Archivist; Diana Murphy, Editorial Coordinator; Susan Hapgood, Nancy Spector, 
+Curatorial Assistants 
+Louise Averill Svendsen, Curator Emeritus 
+
+Cherie A Summers. Registrar; Jane Rubin, Associate Registrar; Kathleen M, Hill, Assistant Registrar; Stephanie 
+Stitt, Registrar's Coordinator; Saul Fuerstein, Preparator; William Smith, David M Veater, Ani Gonzalez Rivera, Prep- 
+aration Assistants; Hubbard Toombs, Technical Services Coordinator; Leni Potoff, Associate Conservator; Gillian 
+McMillan, Assistant Conservator; Elizabeth Estabrook, Conservation Coordinator; Scott A Wixon, Operations Man- 
+ager; Tony Moore, Assistant Operations Manager; Takayuki Amano, Head Carpenter; David M. Heald, Photographer; 
+Myles Aronowitz. Assistant Photographer 
+
+Mimi Poser, Officer for Development and Public Affairs; Carolyn Porcelli, Development Associate; Richard Pierce, 
+Public Affairs Associate; Elizabeth K. Lawson, Membership Associate; Shannon Wilkinson, Public Affairs Coordina- 
+tor; Linda Gering, Special Events Coordinator, Ann D. Garrison, Development Coordinator; Amy Sephora Pater, 
+Public Affairs Assistant 
+
+Agnes R- Connolly, Auditor; Judy A Ornstein, Accounting Assistant; Stefanie Levinson, Sales Manager, Robert 
+Turner, Manager, Cafe and Catering; Maria Masciotti, Assistant Cafe Manager; Fred Lee, Assistant Cafe Manager- 
+Kitchen Preparation; Robert S. Flotz, Chief of Security; Elbio Almiron, Mane Bradley, Carlos Rosado, Assistant Secu- 
+rity Supervisors 
+
+Ann Kraft, Executive Coordinator; Jill Snyder, Administrative Assistant; Faith R Schornick, Assistant to the 
+Administrator 
+
+Jean K. Benjamin, Mr and Mrs. B. Gerald Cantor, Eleanor, Countess Castle Stewart, Mr. and Mrs. Barrie M. Damson, 
+Mr. and Mrs Werner Dannheisser, William C. Edwards, Jr , Donald M Feuerstein and Jacqueline Dryfoos, Mr. and 
+Mrs Andrew P. Fuller, Agnes Gund, Susan Morse Hilles, Mr. and Mrs. Morton L Janklow. Mr. and Mrs. Donald L. 
+Jonas, Mr and Mrs Peter Lawson-Johnston, Mr and Mrs Alexander Liberman, Mr and Mrs Irving Moskovitz, Mr. 
+and Mrs Robert E. Mnuchin, Elizabeth Hastings Peterfreund. Mrs. Samuel I Rosenman, Clifford Ross, Mr. and Mrs 
+Andrew M. Saul, Mr and Mrs. Rudolph B Schulhof. Mrs Evelyn Sharp, Mrs Leo Simon, Mr and Mrs Stephen A. 
+Simon, Sidney Singer, Jr, Mr and Mrs. Stephen C. Swid, Mrs. Hilde Thannhauser, Mr. and Mrs Stephen S. 
+Weisglass, Mr and Mrs. Philip Zierler 
+
+Alcoa Foundation, Atlantic Richfield Foundation, Exxon Corporation. Robert Wood Johnson Jr. Charitable Trust, Knoll 
+International, The Kresge Foundation, Robert Lehman Foundation. The Andrew Mellon Foundation, Mobil Corpora- 
+tion, Philip Morris Incorporated, United Technologies Corporation 
+
+Institute of Museum Services, National Endowment for the Arts, National Endowment for the Humanities, New York 
+State Council on the Arts 
+
+
+
+LENDERS TO THE EXHIBITION 
+
+
+
+Phoebe Adams 
+
+Caroline and Stephen Adler, New York 
+
+Adler-Frasca, New York 
+
+Robert Arneson and Sandra Shannonhouse 
+
+Mrs. Joseph Ascher, New York 
+
+Chase Manhattan Bank, New York 
+
+Chemical Bank, New York 
+
+Douglas S. Cramer, Los Angeles 
+
+Mary Sharp Cronson, New York 
+
+Linda and Ronald F. Daitz, New York 
+
+Dannheisser Foundation 
+
+Mr. and Mrs. Gilbert M. Davidson, Clifton, New Jersey 
+
+David Deutsch, New York 
+
+Betsy and Mike Dingman 
+
+Alan Dinsfriend, Boston 
+
+Richard Ekstract, New York 
+
+M. Etcheverry, San Francisco 
+
+Robert A. Hauslohner 
+
+Sari and Jerry Joseph 
+
+Tobi Kahn 
+
+Mark Kloth 
+
+Mr. and Mrs. Franklin Konigsberg, Los Angeles 
+
+Rex Lau 
+
+Christian McGeachy, New York 
+
+Mr. and Mrs. Raymond D. Nasher 
+
+Manuel and Kate Neri, Benicia, California 
+
+Meg Perlman and Doug Garr, New York 
+
+Irene Pijoan 
+
+David P. Robinson 
+
+Margarete Schultz, New York 
+
+Jack and Connie Tilton, New York 
+
+Laila and Thurston Twigg-Smith 
+
+Stephen and Anne Walrod 
+
+
+
+Solomon R. Guggenheim Museum, New York 
+
+The Metropolitan Museum of Art, New York 
+
+The Pennsylvania Academy of the Fine Arts, 
+Philadelphia 
+
+Roswell Museum and Art Center, New Mexico 
+
+Walker Art Center, Minneapolis 
+
+Grace Borgenicht Gallery, New York 
+CDS Gallery, New York 
+Dolan/Maxwell Gallery, Philadelphia 
+Lawrence Oliver Gallery, Philadelphia 
+PPO-W, New York 
+
+Rena Bransten Quay Gallery, San Francisco 
+Ruth Siegel Ltd., New York 
+Althea Viafora Gallery, New York 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+Preface and Acknowledgements 
+
+Thomas M. Messer 
+
+Acknowledgements 
+
+Lisa Dennison 
+
+New Horizons in American Art 
+
+Lisa Dennison 
+
+
+
+30 
+
+
+Phoebe Adams 
+
+
+40 
+
+
+Anthony-Peter Gorny 
+
+
+48 
+
+
+Mark Innerst 
+
+
+58 
+
+
+Tobi Kahn 
+
+
+68 
+
+
+Mark Kloth 
+
+
+78 
+
+
+Rex Lau 
+
+
+88 
+
+
+Joan Nelson 
+
+
+98 
+
+
+Jim Peters 
+
+
+108 
+
+
+Irene Pijoan 
+
+
+119 
+
+
+Photographic Credits 
+
+
+
+PREFACE AND 
+ACKNOWLEDGEMENTS 
+
+
+
+Young talent shows, on both national and international levels, have been sporadically re- 
+curring components of the Guggenheim's exhibition schedule ever since the 1950s. But not 
+until Exxon assured their financial basis in 1978 did they become annual events. New 
+Horizons in American Art: 1985 Exxon National Exhibition thus follows within an established 
+sequence of periodic assessments in which special attention, alternately focused on the 
+American and foreign cultural theaters, is given to the work of artists young in years or at 
+least in reputation. Current production is thereby presented to museum visitors and, by way 
+of the accompanying catalogues, to a still wider public interested in extending the radius of 
+their awareness of contemporary painting and sculpture. Young American Artists (1978), 
+79 Artists: Emergent Americans (1981) and New Perspectives in American Art (1983), 
+punctuated during alternate years by selections of current British, Italian and Australian art, 
+constitute the broad view of new talent that the Exxon contributions have opened up for the 
+Guggenheim and its audience during the better part of the past decade. 
+
+Every one of the four American exhibitions, including New Horizons in American Art, has 
+displayed its own distinct character, if only because each was entrusted to a different curator 
+in order to encourage changing viewpoints within an existing institutional continuity. None- 
+theless, certain attributes were common to all four shows. Invariably, the search that even- 
+tually resulted in a highly condensed selection required a concentrated curatorial effort: the 
+sifting of hundreds of slides provided the basis for repeated visits to scores of studios, after 
+which the final decisions could at last be made. Invariably also, the search itself, which 
+necessarily yielded many more rejections than acceptances, encouraged the artists whether 
+or not they were ultimately included, and simultaneously provided the Museum and its 
+curatorial staff with firsthand information not otherwise obtainable. With respect to the final 
+result, the media more often than not have found much to argue with, frequently seeking 
+in these personal choices a representation of the Museum's ideological position that was 
+not in the organizers' minds. It has been important to us, on the other hand, to assure for 
+the Museum's permanent collection a number of annual purchases that would in time take 
+their place among the valued holdings in the area of contemporary art. The Exxon grants, 
+supplemented by help from other Guggenheim benefactors, have made such acquisitions 
+possible, and we here express our sincere thanks for this aid. And this year there is again 
+much to be grateful for to Exxon for its renewed support of this particular aspect of the 
+Museum's activity. 
+
+Lisa Dennison, who selected the nine artists represented in New Horizons in American 
+Art, is following in the footsteps of others who, whether as members of the Guggenheim's 
+curatorial staff or as guest curators with temporary missions, have previously carried out 
+analogous tasks. It is a pleasure to acknowledge her efforts herewith and to thank those 
+various staff members, singled out in Miss Dennison's prefatory remarks, who provided her 
+with the necessary advice and assistance. 
+
+Thomas M. Messer, Director 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+ACKNOWLEDGEMENTS 
+
+
+
+There are many individuals whose support and cooperation were essential to the realization 
+of this exhibition First and foremost, I am deeply grateful to Diane Waldman, Deputy Di- 
+rector, whose guidance and generous assistance on every phase of this project were in- 
+dispensable, and whose past Exxon National and International Exhibitions have served as 
+inspiring models for me. I would like to thank the numerous staff members of the Guggen- 
+heim Museum for their diligent efforts on the occasion of this show, in particular Lisa Yokana, 
+who worked closely and enthusiastically with me on all aspects of the exhibition and cat- 
+alogue; Diana Murphy, Editorial Coordinator, for her very thoughtful editing of the catalogue; 
+Carol Fuerstem, Editor, for her essential collaboration on the publication; and Stephanie 
+Stitt, Registrar's Coordinator, for assembling the show. 
+
+Among the many individuals throughout the country who offered insight and assistance, 
+I wish to acknowledge Stephanie Barron, Graham Beale, Julia Brown, Annette DiMeo Car- 
+lozzi, Judith Dunham, Howard Fox, Marge Goldwater, Sue Graze, Mary Jane Jacobs, Jane 
+Livingston, Marti Mayo, Eric McCready, Robert Murdock, Jock Reynolds, Phyllis Rosen- 
+zweig and Karen Tsujimoto. Sincere thanks are extended to the many gallery dealers who 
+were extremely helpful, including Rena Bransten, Margo Dolan, Lawrence Mangel, Kurt 
+Marcus, Wendy Olsoff, Ann Philbm, Penny Pilkmgton, Ruth Siegel, Clara Diament Sujo, 
+Althea Viafora and Michael Walls. 
+
+I would also like to express my appreciation to the public and private collectors who so 
+graciously lent to the exhibition. And finally, I add a special note of gratitude to the artists, 
+whose enthusiasm and commitment have made the experience of this exhibition such a 
+genuinely pleasurable one for me. 
+
+L.D. 
+
+
+
+NEW HORIZONS IN AMERICAN ART 
+
+
+
+by Lisa Dennison 
+
+Across the nation, there is a resurgence of pride in America. The feelings of pride and the 
+prosperity enjoyed by large segments of the population quite naturally touch many aspects 
+of contemporary culture, and indeed nourish our performing arts, popular music, film, lit- 
+erature and architecture. As the second half of the decade begins, the younger American 
+artist, like the general public, seems to be motivated by a strong sense of national identity. 
+And this sense of identity is in turn encouraging painters and sculptors to reconsider our 
+national artistic heritage. 
+
+The artist population is growing, stimulated by a greatly expanded art audience and a 
+booming art market which have focused more attention on museums, galleries and auction 
+houses than ever before. Nowhere is the support structure for emerging artists as strong 
+as in New York. Galleries are opening at a record pace, in particular in the East Village, 
+where, despite the shortcomings of small spaces and a sometimes disconcerting emphasis 
+on fashion, there are now many new opportunities for artists to exhibit their work. The 
+ramifications are both positive and negative: positive in that much of the work is very fresh 
+and exciting; negative because artists are often showing before they have had time to 
+develop a resolved body of work. Today's standards of success, fostered by an exaggerated 
+star system at the top of the younger artist population, have created a complex set of 
+expectations and pressures that surround the emerging artist. Indeed, in her controversial 
+book Has Modernism Failed?, Suzi Gablik denounces " . . .an art world transformed beyond 
+recognition by material prosperity." She claims that "success and security now play such 
+a central role in the American imagination, the inducements of a conformist society are 
+proving so great, that even artists have learned to strive along an imposed scale of careerist 
+values, mapping out their lives like military strategists ..." and pleads for an art that can 
+"reconstitute the moral will."' 
+
+Despite the competitiveness and emphasis on achievement encountered in the current 
+New York art world, the city nonetheless offers young artists a great number of opportunities 
+for attaining recognition and exposure to the most avant-garde aesthetics. It is not surprising, 
+therefore, that in recent years there has been a renewed influx of artists to this city, each 
+of whom imports a bit of the spirit of his or her previous milieu. Though this exhibition, for 
+example, appears to boast five New Yorkers, only two are natives; the other three, originating 
+in California, Minnesota and Pennsylvania, and often making lengthy stops along the way, 
+arrived here in 1981 and 1982. 
+
+A wide variety of aesthetic attitudes has prevailed throughout the first half of the eighties. 
+Yet the dominant style, Neo-Expressionism, is on the wane. Coming into sharper focus now 
+are other forms of expression: among these, figuration, historicism, appropriation, religious 
+imagery, abstraction and landscape painting all engage the attention of today's painters 
+and sculptors. 
+
+The figure, the primary vehicle of Neo-Expressionist painting, continues to be a powerful 
+force, sustained by an apparently insatiable appetite for narrative content in art. It is used, 
+however, in a wider range of contexts to convey meaning, to portray extremes of human 
+
+
+
+emotion and to comment upon broad areas of contemporary culture. There has also been 
+a shift from the personal mythologizmg and intense subjectivity of Neo-Expressionist paint- 
+ing to a more politically and socially oriented art that maintains a dialogue between the artist 
+and the powerful exterior forces that determine contemporary existence. The potent issues 
+addressed range from sexuality to advanced technology to the threat of nuclear annihilation. 
+Such an engagement with so many aspects of society has encouraged a style of "appro- 
+priation," whereby both the images and image-making strategies draw directly from their 
+sources in art history, popular culture and mass media. This idiom has a strong appeal for 
+artists who reject what they consider a frustrating quest for originality. Today, appropriated 
+imagery is more topical, more contextual than Pop Art and lacks the irony and wit that is 
+an important aspect of the commentary made by that movement of the sixties. 
+
+Side by side with a focus on contemporary concerns, artists express their desire to 
+establish links between the past and the present and to raise psychological and spiritual 
+issues. Consequently there is now a new historicizing tendency that has produced a broad 
+crop of "neo-isms" since Neo-Expressionism emerged, including Primitivism, Mannerism, 
+Romanticism and Surrealism. Unlike the direct borrowings or blatant quotations of appro- 
+priation, the spirit of past styles is infused into the new art form, rather than copied from it. 
+
+Religious imagery and iconography have also invaded much of contemporary art. Altar- 
+pieces, reliquaries, shrines, icons and panel paintings have provided new formats which, 
+when either simple and unadorned or encrusted with glitzy materials, can be intensely brutal 
+or highly precious. Subject matter, from crosses and crucifixions to saints and angels, 
+reinforces the religious connotations of much work today. Yet one wonders if there is indeed 
+a compelling religious motivation for contemporary art. It is Gablik's belief that "... the 
+essential inner attitude is missing — the devotional frame of mind. In addressing this issue, 
+of the way signs of ultimate meaning have been devalued by our culture to objects of 
+transitory and commercial interest. . . . that we are really addressing a much larger theme: 
+the failure, in our secularized age, of the moral and religious impulse. . . . " 2 Whether or not 
+the author is right in doubting the sincerity of religious symbols and iconography in current 
+art, there definitely is a renewed quest for the expression of spirituality in all genres. Fig- 
+uration, landscape and abstraction are vehicles today, as they have been throughout history, 
+to express this condition. What is unique now is the increasingly urgent desire to convey 
+spirituality in such a variety of contexts. 
+
+Currently, abstraction is steadfastly and intelligently holding its own amidst the barrage 
+of figuration, with the organic mode prevailing over the geometric. Despite the stylistic 
+diversity within abstraction, there are some common traits that lend a new vitality to the 
+genre. Small scale, which can impart a concentrated density, impact and energy to the 
+work, is gaining currency among both abstract and representational artists. The Utopian 
+vision and reductive modes of the abstract painters and sculptors who emerged in the mid- 
+sixties have inspired succeeding generations. However, in keeping with a general trend in 
+today's art, younger artists are emphasizing more narrative content in abstraction. They are 
+
+
+
+stressing a connection with the real world and are extending allusions, symbols and references. 
+
+Painting is the medium of the moment. Though many artists are working in sculptural 
+idioms, there is a preponderance of work that is either wall-related or installation-oriented 
+or that incorporates both painting and sculpture and can thus be defined as neither. However, 
+painting itself is becoming more sculptural, more object-like. As the scale of much painting 
+becomes smaller, artists more frequently frame their works, thus enhancing their object- 
+like quality. Additionally, artists are turning to less traditional materials and using encaustics, 
+plaster and collage elements to build out the surfaces of the paintings to the point where 
+some become high reliefs. For many artists, paint on canvas is no longer enough; their 
+forays into more sculptural concerns have encouraged them to work freely in both mediums. 
+
+There is one particular tendency in contemporary American art that deserves to be high- 
+lighted. Landscape painting is gaining momentum from coast to coast, and it is worthwhile 
+to examine some of the possible causes behind this phenomenon. In general, traditions 
+and values that are deep rooted in American society and culture have gained new relevance 
+for today's artists. Their attitude is an outgrowth not only of the new positive spirit and sense 
+of confidence in America, but perhaps also of the conservative political climate of the past 
+five years. It may be propelled as well by the precedent set by the younger generation of 
+European artists that came to our attention in the late seventies and early eighties: the 
+Italian Transavanguardia and the German Neo-Expressionists draw much of their inspiration 
+from the past. For the Italians, their cultural and artistic heritage is inextricably wedded to 
+the present; it is an inescapable part of the environment and education of the artist. As 
+Diane Waldman wrote in the introduction to the catalogue for the 1982 Exxon exhibition 
+/fa//ar? Art Now: An American Perspective, "The recovery of myth, the symbolic meaning 
+in performance ... the renewed preoccupation with alchemy are fundamental to even the 
+sparest form of expression in recent Italian art. These concerns, deep rooted in the Italian 
+heritage and imagination, are neither integral to our [American] culture nor germane to our 
+history and, thus, are not central to our art." 3 The concerns of the German Neo-Expres- 
+sionists are also grounded in their past — in art, culture, mythology, history and politics, 
+and the way that history in particular is transmitted and interpreted. 
+
+Because myth and allegory, which have nourished so much European art, are not a part 
+of the heritage of the American artist, the myths and symbols in much of our Neo-Expres- 
+sionist painting become so disconnected from their sources that the meanings of the works 
+themselves are drained of their power. Many artists are now seeking to substitute for sym- 
+bolism a more concrete and tangible reality. What sort of inspiration, then, can American 
+artists derive from the past? America's history is about its frontier, its enormous land. Its 
+monuments are its natural wonders — the Grand Canyon, Niagara Falls, the Great Lakes, 
+the vast forests, mountain ranges, prairies and deserts. Turning to the past or facing the 
+present, the prominence of our landscape is inescapable. 
+
+In the nineteenth century, this immense horizon became the horizon of American art; 
+landscape painting was the major innovation of that period. Through a portrayal of the 
+
+
+
+10 
+
+
+
+vastness and grandeur, the isolated, moody and often lonely aspects of nature, landscape 
+painting addressed spiritual ideas. It became the prime outlet for a romantic sensibility, 
+which was linked to the European Romantic tradition. Also embodied in the concept of 
+Romanticism was man's search for meaning and identity within the greatness and sublimity 
+of his surroundings. Thus, from the heroic vision and sweeping vistas of the Hudson River 
+School to the ensuing mysticism of the Luminists. landscape painting encompassed not 
+only the observation of nature but also drama, poetry, metaphysics and morality. 
+
+The notion of nature as a source of spiritual experience became more objectified and 
+universal in the early twentieth century. Among the early modernists in America, Marsden 
+Hartley, Arthur Dove and Georgia O'Keeffe found in European antecedents a source for 
+their own expression. They saw nature as vibrant, alive and immediate, and sought to 
+represent it in organic terms. Their reduction and indeed distillation of nature resulted in 
+shapes that were highly abstracted from the literal images, yet retentive of vestiges of the 
+original forms. Throughout succeeding decades, landscape continued to serve as a point 
+of departure for abstraction. Although the locus of inspiration for Abstract Expressionism 
+lay in the unconscious, the imagery ultimately suggests landscape. Robert Rosenblum has 
+traced the linkages between the Northern European Romantic tradition and Abstract 
+Expressionism, stating, for example, that "the genealogical table that can be constructed 
+for the erratic configurations and gigantic scale of Still's paintings would seem to lead back 
+through the history of Romantic landscape painting. The situation is also the same for much 
+of the work of Jackson Pollock, whose images, like Still's, may be abstract but nevertheless 
+elicit metaphors within a range of natural, organic phenomena. ..."' The identification with 
+nature felt by the Earthworks artists took them from the studio into the actual physical 
+landscape: the earth was their palette. Though the finite object and accessibility to the 
+viewer were sacrificed, nature became form, medium, content and place for these artists. 4 
+
+We are now at a point where landscape has reclaimed many of its traditional meanings 
+and values for younger artists. Landscape today elicits a variety of attitudes and is treated 
+in a wide range of styles, mediums and formats. It can be perceived or remembered, top- 
+ographical or imaginary. It can be nostalgic, dreamlike, otherworldly or visionary. It can 
+evoke the idea or sensation of landscape without having the look of landscape. 
+
+Artists today are not painting America, but their work draws its strength from America. 
+The physical qualities of the environment, native traditions and beliefs and contemporary 
+culture are inspiring forces for artists now. Throughout the country, artists echo a similar 
+refrain: it speaks of the traditional American desire to represent a sense of place. A "place" 
+is the product of an encounter between the artist and his or her surroundings. The process 
+of experiencing deeply is the catalyst that transforms any physical location into a place. To 
+claim a place as his or her own, the artist must isolate the particular qualities of the encounter 
+and express them through the medium of art. 
+
+The contemporary artist's concern with place may be symptomatic of the feared loss of 
+human values in our increasingly technologized and depersonalized society. In dealing with 
+
+
+
+11 
+
+
+
+landscape and the natural world, the artist can assert the value of those things in ourselves 
+and in our environment that we risk losing. In the past few years, there have been many 
+exhibitions devoted to the theme of the apocalypse. 6 If apocalyptic painting portended the 
+end of the world, paintings that invoke "place" would seem to make a more affirmative 
+statement about the possibility of restoring human values and the sanctity of our environ- 
+ment. Further, there appears to be a desire on the part of many artists to make a distinction 
+between real and fictive (for example, television and movie) spaces. The flimsiness and 
+vulgarity of the shopping malls and fast-food chains that have claimed so much of our 
+environment have sparked a yearning for genuine and enduring objects and experiences. 
+
+Artists' engagement with landscape today may also be due to its capacity to mediate 
+between figurative and abstract tendencies. With the figurative impulse so strong in art now, 
+artists may be reluctant to relinquish imagery drawn from the real world. Landscape retains 
+tangible references to reality, yet is an ideal conveyance of abstraction. Thus, younger 
+artists are continuing the historical dialogue between abstraction and landscape, and in so 
+doing, they establish the parentage of the early American modernists. 
+
+The association of artists today with the Romantic tradition may also account for the 
+current appeal of landscape. As mentioned above, one facet of Romanticism is the notion 
+of man's search for identity. Equally important, perhaps, is the focus of Romanticism on 
+emotional content. The themes of the spiritual landscape and human emotional drama that 
+intrigued the painters of the eighteenth and nineteenth centuries have a renewed appeal 
+for younger artists. Using imagery pertinent to our own time, they have revitalized Roman- 
+ticism to express spirituality and emotional content in their art. 
+
+Four of the nine artists in this exhibition work in a landscape tradition that looks back to 
+our American heritage but at the same time is responsive to the mood of the present. Though 
+the paintings of Tobi Kahn, Rex Lau, Mark Innerst and Joan Nelson are highly individual in 
+mood and meaning, they have in common a departure from more traditional mediums (oil 
+or acrylic on canvas) and their work draws strength and beauty from their technical inno- 
+vations. Additionally, all four artists speak of their desire to articulate, often metaphorically, 
+their intensely personal feelings about nature, reality and art. While others among the group 
+do not work specifically within a landscape genre, they do touch upon aspects of natural 
+phenomena: the organic forms in Phoebe Adams's sculpture draw direct inspiration from 
+nature; Mark Kloth has spoken of his abstract installations as landscapes; and Irene Pijoan's 
+primordial figures either literally emerge from stone or are set within highly abstracted land- 
+scapes. Jim Peters's figures project a mood of deep introspection and are situated in intri- 
+guing and ambiguous interior spaces, and Anthony-Peter Gorny's photographs explore both 
+the real world and the world of the imagination: although their work reveals approaches 
+different from those of the other seven artists, it is equally compelling in its expression of 
+the universal, the timeless and the metaphysical. 
+
+Tobi Kahn received his initial training in photography, and perhaps it is this grounding that 
+has enriched his admirable ability to select, order and crop his landscape images until they 
+
+
+
+12 
+
+
+
+take on a compositional "Tightness ." Working from photographs or from memory, the artist 
+strips landscape to its essential core so that it evokes place, always serene and meditative, 
+yet also serves as a vehicle for abstraction. These landscapes are about form, color, texture, 
+mood; in them, little attention is paid to topographical detail or description. Intuitive adjust- 
+ments of forms from smaller to larger scale, and the fluent draftsmanship that defines the 
+contours of these forms assure that the works are experienced as deeply by the viewer as 
+they are felt by the artist. Gently rolling hills, bulbous or sharply peaked mountains, triangular 
+or trapezoidal patches of sea, serpentine rivers and roads are powerful shapes which tightly 
+interlock on the surface of the canvas. As shapes, they are at once abstract and archetypal, 
+yet in the context of the whole, there is no mistaking their relationship to forms in the natural 
+world. 
+
+The ambiguity between abstraction and representation is deliberately cultivated by Kahn. 
+The artist is, in fact, a master at subverting traditional expectations. Horizon lines seem to 
+sit on the same plane as foreground forms; roads that recede in a Munchian fashion do not 
+create the illusion of deep space; bright colors, which usually move forward, are used in 
+backgrounds. Color does not conform to its expected associations either, causing us to 
+wonder, for example, if the curving pink path in Azba II (cat. no. 29) is a river or a road, an 
+enigma that remains unsolved. 
+
+Though the aforementioned pictorial devices may seem to emphasize the paintings' flat- 
+ness, this flatness is subverted by a pronounced sculptural quality. The artist's technique 
+enhances this volumetric sensation: Kahn prepares his ground with a chalky white acrylic 
+polymer, which gives the works a built-up, toothy surface texture. By working his paint in 
+one direction up to the boundary of the next form, the artist creates a sculptural ridge which 
+simultaneously reinforces the integrity of that form and makes it more volumetric. The frames, 
+too, which are conceived as part of the work and are painted in a dark hue that relates to 
+the tonalities of the compositions, stress the works' plastic dimension. 
+
+Kahn is a student of Josef Albers's color theories; he believes in the master's statement 
+that "In visual perception a color is almost never seen as it really is — as it physically is. 
+This fact makes color the most relative medium in art." 7 The manipulation of color for Kahn 
+is a deliberate and thoughtful process; the expressive power and poetry of the paintings 
+emanate first and foremost from the gentle pulsation of his exquisite close-valued hues. 
+The artist painstakingly layers his pigment, working from dark to light or light to dark, some- 
+times creating opaque areas of dark colors which are then successively lightened, and 
+sometimes rubbing black into lighter zones to impart a resonance and depth. Elsewhere, 
+areas of thinly applied washes retain an ethereal translucency. Color is not localized: one 
+hue may be subtly rubbed into a neighboring area to reinforce the essential harmony of the 
+whole. More recently, the artist has used metallic pigments that allude to natural ores or 
+imitate the effect of sunlight on water: these range from golden and coppery earth tones 
+to silvery whites and blues to shimmering greens and rich scarlets. Though there is no 
+discernible light source in Kahn's works, there is a magical interior luminosity that emanates 
+
+
+
+13 
+
+
+
+from the white ground and is enhanced by the delicate translucency of his veils of color. 
+
+Sculpture is a natural outgrowth of Kahn's concern with plasticity in his paintings. The 
+paintings from the late seventies and early eighties are often so compact and boxy that 
+they straddle the line between painting, sculpture and object. Recently, the artist arrived at 
+a means of unleashing some of the power and intensity of these works by enlarging his 
+scale and by conceiving of sculpture as separate from painting. The sculpture is at its most 
+potent in a series of wooden shrines that house smaller figurative statues, as in Brun (cat. 
+no. 30). Kahn speaks of searching for contemporary equivalents to ancestral religious shrines 
+in these works, and in their nonspecificity and haunting mysticality they communicate with 
+the viewer on a spiritual level. 
+
+Like Arthur Dove, whom he greatly admires, Kahn has sought to transcend the temporal 
+in his work. He, too, strives to transform nature so that it reflects a spiritual state of mind, 
+and in so doing he equivocates between abstraction and reality. Kahn also draws inspiration 
+from the formal qualities of the work of the American modernists: one is reminded of Hartley's 
+Maine seascapes, in particular the way his ocean and rock configurations interlock; or of 
+Dove's organic shapes which fill their shallow landscape background; or of O'Keeffe's con- 
+centration on the sensual in elemental natural forms, her celebration of the land as its own 
+monument, possessed of an inner pulse. There are strong affinities, too, with Milton Avery's 
+eloquent and lyrical landscapes of the fifties, which approach abstraction in their spare, 
+simplified forms, elegant line and soft and harmonious palette. Kahn acknowledges other 
+important influences as well: Alberto Giacometti, whose exaggerated attenuations of figures 
+have affected his own expressive distortions of nature; and the contemporary sculptor Martin 
+Puryear, whose reductivist aesthetic, organic forms and subtle handling of color he admires. 
+
+Rex Lau's vision, like Tobi Kahn's, is rooted in nature. Though on the surface Lau's stately 
+images seem emblematic — unspecific and generalized — they are in fact explicit forms 
+based on the artist's observations of his surroundings in Montauk, on the eastern tip of Long 
+Island. One critic relates his discussions with Lau regarding the genesis of the subject 
+matter: "The image for The Wind Demons [see cat. no. 42], for instance, came when he 
+looked out his window during a storm and saw a cedar tree bowing in the gale. He noted 
+that the wind was so fierce that it wouldn't allow the tree to spring out of its bend, in effect 
+'freezing' it in its torturous position. It was an epiphanic image, one that burned into his 
+mind and which he heightened into a compelling emblem through planar simplification and 
+a hieratically presented doubling.' " 8 
+
+The boulders that make up Montauk's dramatic coastline, the peaks of waves and the 
+barren trees of winter are images drawn from Lau's environment. These subjects, explored 
+singly and in combinations, are stripped to their essence and give structure to the work. 
+Repetition of forms, sensitivity to cropping and edge, an insistent frontality and luminous, 
+nondescriptive color catapult these paintings into the realm of abstraction. 
+
+The solid, sculptural quality of Lau's paintings is owed in part to the material upon which 
+they are executed: carved Hydro-stone bestows an actual three-dimensionality and weight 
+
+
+
+14 
+
+
+
+on his forms. This jagged and irregular shallow relief is particularly appropriate to the imagery 
+of craggy rocks and spiky, menacing trees. Enhancing the works' sculpturality is the elab- 
+orate facture of the surfaces: tiny incisions, crosshatchings and other scarring in the Hydro- 
+stone create a compelling immediacy, and also absorb and refract light as it dances across 
+these enlivened planes. Pushed up to the surface to claustrophobic effect, Lau's forms 
+confront the viewer head-on. Though Lau does not frame his works, he often creates a 
+framelike border that is either explicit or suggested by the edges of his forms, as in Cape 
+Fear and the Deep in the Forest series (cat. nos. 43, 47, 48). These "frames" have an 
+important function in terms of restoring a spatiality that is threatened by the forceful forward 
+movement of the imagery. 
+
+Lau applies his oil paint in layers, sometimes blending and subtly modulating them, some- 
+times retaining a lively brushy quality. In works such as Leaping Without Looking (cat. no. 
+46). color is highly saturated. In others, for example Deep in the Forest II (cat. no. 48), Lau 
+exploits complementary contrasts of red and green so that each vibrates intensely. And 
+where color is subtle and low-keyed, as in Petrified Forest (cat. no. 45), it projects a quiet, 
+introspective mood. Lau's forms, though compressed, breathe color and light, like Monet's 
+haystacks. His work speaks of color as derived from, but ultimately independent of, nature. 
+Through Lau's paintings we share his understanding of the powerful sensations that lib- 
+erated color can provoke as optical phenomenon and physical sensation. 
+
+By working in what can loosely be defined as series, Lau is free to explore the shifts in 
+meaning, mood and psychological impact created by changes in form, palette and com- 
+position. The different pairings of trees in the various versions of The Wind Demons and 
+Deep in the Forest, for example, impart to the works an air of fantasy and mystery that 
+recalls Metaphysical and Surrealist painting. A similar effect occurs in certain works by 
+Kahn, such as Azin I (cat. no. 25). Though neither artist juxtaposes unrelated objects, their 
+tree and mountain forms can have a figural presence, a persona that recalls the allusions 
+of inanimate forms to human beings in paintings by de Chirico and Magritte. Shifts in palette 
+also suggest shifts in time of day, ranging from bright and revealing daylight to mysterious 
+and romantic night. The sinister quality of the green and orange sawtooth-edged trees in 
+The Wind Demons is tempered in other versions executed in soft, pastel tones of lavenders 
+against pink, for example. On the other hand, in Untitled Seascape (Large Pink Wave) (cat. 
+no. 44), rendering the sharp, pointed crests of waves in a candied pink does little to mitigate 
+the implication of nature's annihilating powers. What this proves is that there are no formulas 
+to be applied here — the emotional expression of each work results entirely from the inter- 
+action of that particular combination of elements. 
+
+Like Kahn, Lau is concerned with essences and distillations. He, too, shares a spiritual 
+kinship with Hartley and Dove. In particular, Hartley's strongly colored bulky forms with their 
+ragged edges seem to have inspired Lau. And Dove's deep feelings about nature as the 
+wellspring of his images are undoubtedly shared by the young artist. Though Lau's obser- 
+vations of nature are extremely personal, their universal qualities are unmistakable. His 
+
+
+
+15 
+
+
+
+simultaneous truth to nature and to painting is a rare accomplishment that enriches our 
+viewing experience. 
+
+Joan Nelson's stark and haunting landscapes are reductive in color and imagery, yet rich 
+in nuance and poetry. Unlike Kahn and Lau, Nelson does not strip nature to its essences, 
+nor does she celebrate the inherent beauty of forms in the natural world. Her spare com- 
+positions emanate a profound sense of desolation; there is an unsettling and inexplicable 
+emptiness in these unpeopled environments. 
+
+In 1984, the artist abandoned oil on canvas for egg tempera on plaster or Masonite. 
+Though tempera is not a medium used widely by contemporary artists, Nelson has been 
+able to coax great subtlety and refinement from this technique by building up thin layers of 
+wash. Smooth and glistening white gesso underpainting and the irregular and wavy surface 
+of a thin layer of plaster provide grounds on which the artist glazes a narrow but exceedingly 
+rich range of monochromatic pigments. A close study of these colors reveals blacks, ochers, 
+sepias and rich sienas, and surprising blushes of pinks or oranges in the mottled skies. 
+Nelson recently has expanded her palette to include a pale and ethereal turquoise blue 
+which reads as a diaphanous film in paintings such as Untitled (cat. no. 56). In 1985, Nelson 
+also began using encaustic, either inlaying solid-colored wax to "draw" the image, or ap- 
+plying alternating layers of wax and oil paint until the image emerged in its final state. The 
+surface quality of the wax, uneven and sometimes pitted or scarred, renders these easel- 
+scale paintings tactile and sensuous. 
+
+Architecture is the primary subject of these "scapes." Nelson is not concerned with de- 
+scriptive detail, but rather with the formal properties of her subjects and the sensations that 
+her minimal and poetic renditions of them evoke. Though the artist generally eschews 
+identifying architectural features, the volumes of her forms are often inobtrusively punc- 
+tuated by windows, chimneys, balconies and stairways. Nelson's settings are unlocalized 
+and isolated from particular contexts. They range from the type of place one might encounter 
+in a dream, to images that have a more striking familiarity yet elude definition. The artist 
+paints from her imagination, from reality and from photographs, rearranging her sources to 
+remove them from the realm of specificity. What is conveyed are generic subjects: we may 
+think of barns, industrial buildings, dwellings and walls. Beyond that, the mystery remains. 
+The articulation of these forms when transferred into paint is the only reality that ultimately 
+concerns us. 
+
+The absence of people in these barren environments raises ominous questions, prompt- 
+ing one critic to see the works as having an apocalyptic message. 9 This is perhaps an 
+unintended result, not a direct aim of the artist. What seems more important is the concern 
+with the simultaneous beauty and ugliness of manmade forms in our environment. Nelson 
+approaches her compositions like an abstract painter, setting up a series of formal problems 
+which she resolves in the working process. Many of the paintings are extremely minimal in 
+their imagery; the artist thus focuses our attention on the juncture of ground and sky, on 
+the volumes and angularities of the forms or on the arrangement of lights and darks. In 
+
+
+
+16 
+
+
+
+others, the creation of a deep space through geometric and perspectival devices is a primary 
+concern Nelson's structures are rarely depicted frontally; most often, our perspective is 
+from above or below, and the buildings are sited so that we read the corner intersection of 
+their two faces rather than their facades. Buildings often jut into the picture plane as dra- 
+matically foreshortened wedge-shaped volumes, so that the orthogonal lines of their top 
+and bottom edges converge at a vanishing point on the horizon. Indeed, these exaggerated 
+raking diagonals, defined by buildings, roads, walls, telephone poles or railway tracks, have 
+become a hallmark of the artist's style. 
+
+Like the work of the Precisionist painters Charles Sheeler and Charles Demuth, Nelson's 
+architectural landscapes are realistic at base, but controlled by geometric simplification and 
+stripped of detail to the point where they become abstract in their impact. Yet Nelson infuses 
+her paintings with a warmth and surface richness that removes them from a Precisionist 
+aesthetic. We are also reminded of Edward Hopper's depictions of urban and rural America, 
+and the silence, detachment and loneliness they exude. The essentially geometric organ- 
+ization of his picture planes, his sensitivity to light and the static quality of his images find 
+parallels in Nelson's art. However, the poetic evocations of Nelson's mysterious universe, 
+and the intermingling of dream and memory with reality are uniquely her own. 
+
+The exquisite landscape paintings of Mark Innerst convey great power and intensity on 
+a diminutive scale. The specificity of the images he chooses to record contrasts sharply 
+with the unnamed places in Nelson's world. Even his titles reinforce this particulanzation: 
+Brooklyn Seen from the East River Park or The Mississippi (New Orleans, LA). Innerst 
+either culls his sublets from photographs of his environment — such as the central Penn- 
+sylvania landscape of his youth, or the view from his East Village rooftop — or appropriates 
+them from sources as diverse as television, medical journals, issues of National Geographic 
+and dioramas at the American Museum of Natural History. Though they often retain the 
+look of their photographic sources, the paintings are not meant only to be representations 
+of external reality; on the contrary, in their complex layering of both technique and meaning, 
+they consistently transcend mere observation. 
+
+In the work of Kahn. Lau and Nelson, landscape, while an end in itself, also serves as a 
+point of departure for abstract invention. This dialogue between representation and abstrac- 
+tion is present in Innerst's paintings as well, but instead of progressing from realistic to more 
+abstract, universal images, he reverses the process. His intricate working method entails 
+laying an acrylic ground of one saturated color or a geometric pattern of several colors. He 
+then builds up layers of translucent oil glaze to achieve a high degree of finish that recalls 
+the look of the photographic source. Though the underpaintmg is for the most part obscured, 
+portions are allowed to remain visible as specific forms, patches of color or brilliant strips 
+of light in the completed work. This separation of form and color refers to the mechanical 
+process of printmakmg, a medium in which the artist has been trained. 
+
+Innerst constructs elaborate frames for his works, sometimes incorporating fragments of 
+old frames or moldings. These frames, which the artist considers part of the works, often 
+
+
+
+17 
+
+
+
+double the pieces' sizes. They are not merely artistic conceits; rather, they further develop 
+the associations of the images, echoing and enriching the temperament of the works. As 
+one critic has written, they "limit the works and reinforce their evocative isolation, diminishing 
+them in scale, serving to make them, like Cornellian boxes, places of reverie and contem- 
+plation, defined spaces of magic."' 
+
+Innerst imbues even the most banal subject with drama and exoticism. Confronted by 
+Brooklyn Seen from the East River Park (cat. no. 24), we might think we are viewing one 
+of Canaletto's Venetian scenes rather than the bland industrial horizon of Brooklyn's riv- 
+erfront. The expressive painterliness, the intense and fiery orange light, passionate color, 
+low horizons and awe-inspiring skies conjure up mystical and otherworldly associations that 
+make Innerst an indisputable heir to the Romantic tradition. Moreover, the air of nostalgia 
+and threat of change or impending disaster that we perceive in certain works, even the 
+gruesome imagery in Untitled (Miscreant) and the landscape of skulls and bones in Cat- 
+acomb (cat. nos. 18, 20), refer as well to nineteenth-century Romantic attitudes toward 
+nature. 
+
+Yet this work is a curious hybrid of many Romantic sources. Innerst draws upon elements 
+of the European Romantic tradition, encompassing, for example, the Barbizon School paint- 
+ers' direct study of nature and Corot's more poetic approach. One also sees a fusion of the 
+Hudson River School painters' romantic realism based on nature with the Luminists' con- 
+centration on the descriptive and expressive qualities of light. There is a pronounced Amer- 
+ican quality to Innerst's penchant for flat landscapes with low horizon lines and palpable 
+light that recall the work of Sanford Robinson Gifford, John Frederick Kensett and Fitz Hugh 
+Lane. In particular, the subjective and dreamlike expression of George Inness's visionary 
+landscapes, his intimate conception of nature, painterly handling of form and intensity of 
+hue seem pertinent, as do Martin Johnson Heade's highly charged nocturnal skies. 
+
+Innerst makes references to his sources with great deliberateness; indeed this intentional 
+historicizing seems part of the cultivated artifice of the whole. But these allusions are sincere, 
+stemming from a deeply personal response to his subjects. The artist does not dilute the 
+power of his sources by working in a diminutive scale; rather, he reconciles a heroic and 
+epic quality with the intimacy and poetry of his own vision. 
+
+Figuration in contemporary art resembles landscape painting in its diversity and the 
+extreme degree to which the artists' emotions are a shaping force in the creative process. 
+Both Jim Peters and Irene Pijoan employ the figure and place it in narrative contexts that 
+are ambiguous and enigmatic, but tantalizingly real. 
+
+Jim Peters s work keeps its meanings mysteriously uncertain through an unusual mixture 
+of imagery drawn from the realms of reality and dreams. His private interior landscapes are 
+tinged with eroticism and unexplained tensions between male and female. These deeply 
+psychological themes center around the image of the female, whom the artist seems to 
+view with both sympathy and antipathy. In Against the Grid and Night Cottage (cat. nos. 
+61 , 62), it appears that the naked female is being cruelly punished, pressed up against the 
+
+
+
+18 
+
+
+
+cold tile wall. Yet In Doxology (cat. no. 63) the suggestion of a halo above the still naked 
+female's head hints at her deification. Peters insets smaller and equally ambiguous narrative 
+panels within many of the larger works. This dislocation of scale is discontinuous with the 
+imagery as a whole, and further confounds its meaning. We wonder, for example, whether 
+the panel at the bottom left in Untitled (Reclining Figure) (cat. no. 65) depicts a view into 
+another room, or provides a clue to the cause of the terrified look on the woman's face. 
+Through the use of plexiglass panels Peters increases the tension and erotic, dreamlike 
+associations of the works. Painted on both sides and affixed to portions of the canvas, they 
+function as windows and thereby add a voyeuristic note, making us feel as if we have gained 
+access to a scene that we were not intended to witness. 
+
+Though Peters is allusive in his imagery, he is extremely direct in his technique. His 
+paintings frequently incorporate collaged objects, ranging from photographs (often the same 
+one is used in different paintings) that either retain their integrity or are painted over, to bits 
+of wood, tin and other detritus the artist scavenges in Provincetown. An old sink cover 
+becomes a powerful framing element in Against the Grid, and Untitled (Reclining Figure) 
+is painted on a splayed shower stall. Often Peters paints on small panels which he then 
+groups together to form the final image of the work: this accounts for the irregular contours 
+and unusual surfaces of certain pieces and, in some cases, for the dislocations of meaning 
+as well. Found objects have also inspired three-dimensional compositions, such as Decision 
+and Summer (cat. nos. 59, 60), that are highly simple and direct, yet instilled with the same 
+mystery as the monumental paintings. 
+
+Peters frequently uses a triptych arrangement, whose associative link with altarpieces 
+cannot be coincidental. Religious undercurrents are found throughout Peters's oeuvre, in 
+the contemporary altarpiece format of Untitled (Reclining Figure) — whose subject also 
+reminds us of a reclining Buddha; in the modern-day angel as well as the very title of 
+Doxology; and in the strange resemblance to a confessional of the enclosure at the lower 
+right in The Gift (cat. no. 64). A crucifixion image occurs in a different version of Against 
+the Grid and An Italian Honeymoon can be interpreted as a contemporary rendition of the 
+Expulsion from the Garden of Eden. 
+
+In paintings such as Doxology we can find references to a few of the many artists Peters 
+admires: the decorative tracery of railings against flat planes of color recalls Henri Matisse, 
+and the architectonic color structure is reminiscent of Richard Diebenkorn. Though their 
+explicit detail and shock effect is relatively reduced, many of Peters's works bring to mind 
+the tableaux of Edward Kienholz. Peters's agglomeration of materials from the everyday 
+world onto the surfaces of the canvases, and his use of the connotative powers of these 
+materials to heighten the meanings of his narratives, certainly hark back to Kienholz's 
+chillingly real constructions. Perhaps most important to Peters is the work of Gregory Gil- 
+lespie, the American artist whose painstakingly executed realistic paintings possess an 
+intense visionary quality. Gillespie's clarity of detail and method of setting elaborate mini- 
+ature panels into the surfaces of his paintings have parallels in Peters's work. Further, the 
+
+
+
+19 
+
+
+
+dreamlike narratives of figures engaged in disquieting confrontations, the unresolved ten- 
+sions and the mood of religious allegory are similarly invoked by the younger artist. 
+
+Like Jim Peters, Irene Pijoan depicts private and ambiguous narratives that center on the 
+human figure. She has experimented with a wide range of styles and techniques, beginning 
+with nestlike sculptures constructed of found objects and progressing to plaster-covered 
+pillow sculptures, to expressionistic figurative paintings on abstract shaped pieces of styro- 
+foam and later to sculpture in stone, bronze and wax, often embedded with high- or low- 
+relief portraits modeled in encaustic. Most recently, the artist has synthesized many of these 
+approaches in a striking group of encaustic-relief and oil paintings that draw on both the 
+physical immediacy and power of her sculpture and the sensuality, drama and lyricism of 
+her paintings. 
+
+The human figure first entered Pijoan's art in the guise of portraiture. Working from pho- 
+tographs of herself and of close friends, in these pieces the artist alternates between a 
+fresco technique and a modeled-encaustic relief which is sometimes affixed to stone. The 
+portraits are rooted in direct, intent observation of the external person. This exterior may 
+be subject to expressive deformation: in works such as House Guest (cat. no. 67), Man- 
+neristic distortions are applied in the physiognomic rendenng. Yet Pijoan infuses her figures 
+with a melodramatic quality as well, so as to emphasize isolation and emotional introspec- 
+tiveness. In accordance with her belief that "a face is merely a shell encompassing a million 
+thoughts past and future,"" Pijoan imbues these portraits with great psychological depth. 
+
+The artist extended many of the concerns addressed in the portraits in a series of more 
+vigorously modeled figures set within exotic and vague terrains. Earth tones make up the 
+overall palette of these pieces, and the irregular surfaces, built up with plaster, are lush and 
+painterly. The works conjure up strong primordial associations, which are enhanced by the 
+primitively carved, bald and naked figures crouched in animalistic poses. The fetal-like 
+positions of the figures and the human forms emerging from stone in such works as Mes- 
+opotamia and Streams (cat. nos. 69, 70) evoke images of birth and raise questions about 
+mans origins. 
+
+Primitivism is deliberately cultivated by the artist, who speaks of her love of paleolithic 
+art, in particular the cave paintings, which hold a special fascination for her. It is not sur- 
+prising, then, that her enigmatic narratives have the ritualistic overtones that are associated 
+with much prehistoric and primitive art, and that the irregular surfaces of her canvases recall 
+the uneven topography of ancient cave walls. 
+
+In recent works such as Glacier and Ransom Earth (cat. nos. 71, 72), precisely carved, 
+luminous encaustic figures rise in relief from rich grounds of plaster and oil paint. The figural 
+elements are hauntingly real as they extend into our domain, yet they are otherworldly and 
+ethereal, too. The pale, translucent surfaces of their flesh palpitate with life, and indeed 
+become the focal points of the compositions. In Glacier, the highly finished figure is sus- 
+pended in a no-man's land between heaven and earth This figure s polished surface creates 
+a vital tension with the rawness of the environment and the cruder carving of the other 
+
+
+
+20 
+
+
+
+figures. Whereas the earlier portraits achieved their expressivity through distortions of fea- 
+tures and mien, the full figures, though faceless, are equally expressive in their contorted 
+and balletic poses. 
+
+Italian art, from the frescoes at Pompeii to the paintings of the Italian Primitives to the 
+Renaissance and Mannerist periods, has provided considerable inspiration for the artist. 
+Ransom Earth, like many of Pijoan's works, recalls Giotto in its narrative power, depiction 
+of space, the strength and simplicity of the highly plastic forms and the serene mood. Indeed, 
+the finely executed Leonardesque figure in the upper right acts in counterpoint to the pre- 
+dominant Italian Primitive style of the piece. A similar drawing style prevails in Church and 
+Stale (cat. no. 73), and its rich red tonalities evoke the Pompeian frescoes that the artist 
+has seen on several trips to Italy. 
+
+The undefined grounds in Pijoan's work lack even so much as references to architecture, 
+natural landmarks or any other signs that would give us a clue to time or place. As one critic 
+has noted, these works illuminate "states" rather than events. 12 States of being or becom- 
+ing, states recalling primitive existence in their emotional urgency, states that relate to inner 
+experience and memory are the focus of this artist's imagination and creativity. 
+
+All the artists discussed so far have in some way explored the boundaries between 
+painting and sculpture. Phoebe Adams is a sculptor, and though her works seem to indicate 
+painterly concerns — in their relationship to the wall, suggestion of calligraphic drawing and 
+richly colored patinas — they remain strictly in the realm of sculpture in their conception and 
+realization. 
+
+In this decade, the rich tradition of bronze sculpture has provided new impetus for many 
+artists. Their search for an expanded range of materials has brought sculptors to reconsider 
+the time-honored medium of bronze and to seek ways of investing it with a new vitality. In 
+keeping with recent expressionist tendencies in art, sculptors have exploited bronze for the 
+expressive possibilities of its form, color and surface texture. Phoebe Adams is one of a 
+small number of artists who work exclusively in bronze. In her exploration of the medium, 
+she has developed fresh and captivating forms and patinas. Her works are all unique casts, 
+and each investigates a new and different set of challenges that she creates for herself. 
+
+Adams's work is abundant in references to the real world, especially to organic and 
+biomorphic forms and natural phenomena and processes. Allusions to amoebas and the 
+undersea world in trailing tentacles and fronds, to flora and fauna in such works as Pointed 
+Trap (cat. no. 1 ), to the flow of water in Headlong Fall, to human organisms and body parts 
+in The Nerve Cell and / Can Fear That, Too attest to the works' relationship with the natural 
+world. At the same time, however, the pieces are abstract and metaphoric, suggesting 
+movement and states of being — opening and closing, sprouting and growing, orbiting and 
+gyrating. 
+
+The wall is an essential counterpoint to Adams's forms, and the relationship of the sculp- 
+ture to this vertical surface receives vigilant attention. In many works, the point of attachment 
+is a primary consideration: the orbit of The World (cat. no. 5), for example, begins and ends 
+
+
+
+21 
+
+
+
+with the light lapis-colored ball on the wall. This anchor point is all the more important 
+because it keeps in check the floating impression created by the piece. Whereas some 
+works seem buoyant, others obey the laws of gravity in their orientation. The wall also 
+provides a backdrop for the play of shadows; it is activated by these distorted echoes of 
+the sculptures' protruding elements. 
+
+Like free-standing sculpture, this work addresses traditional problems of volume, mass, 
+balance and proportion. It intrudes into the viewer's space not by sitting on the floor but by 
+projecting from the wall, declaring itself emphatically, at first frontally, and then more coyly 
+in its irresistible invitation to peer around and within. The artist is extremely sensitive to the 
+twists and turns of forms, to angles of projection, to the views of the inside or underneath. 
+
+Adams enlivens her sculptures with a range of variegated colors and textures achieved 
+in the casting, chasing and patination processes. She endows some works with a bumpy 
+and prickly skin (cat. nos. 4, 9), whereas others are stippled or corrugated (cat. nos. 5, 6). 
+The combination of these different textures in the same piece is provocative and inspired. 
+Half Laugh (cat. no. 6), for example, sports a pleated upper portion, a midsection that is 
+activated by closely packed ridges and a flatter yet subtly modulated lower section that 
+recalls the time-worn surface textures of antique artifacts. Indeed, many of the patinas 
+generate such archaeological associations. The astounding array of colors the artist achieves 
+is, for the most part, that traditionally obtained from bronze, though imbued with great depth, 
+complexity and nuance. Golds, greens, turquoises, blacks and rusts predominate. Even the 
+surprising reds and whites do not seem artificial, owing partly to the fact that these colors 
+are found in the material and not applied to it. Though Adams's work may call to mind Nancy 
+Graves's polychromed bronzes, it is very different. Adams does not polychrome her pieces, 
+and her hues are rich and deep in contrast to Graves's strident colors. Additionally, Adams 
+casts her sculptures whole or in sections, whereas Graves's process is additive, involving 
+the agglomeration of casts of found objects and plant materials to form the final image. 
+
+Adams's oeuvre comprises a range of classical to baroque (or what the artist has called 
+"eccentric") forms and colors. Songbird (cat. no. 2), for example, recalls a Greek amphora 
+in its shape. The reverse "S" curve of this work has an elegant sway, an exaggerated 
+contrapposto that is echoed in Half Laugh. The "eccentric" works are often tougher and 
+less lyrical; for their impact they depend on spiky and jagged forms, quivering drawings in 
+space and great loops of bronze that thrust out from the wall. Whether flat or three-dimen- 
+sional, geometric or organic, angular or rounded, the parts of each sculpture are artfully 
+orchestrated to achieve a lively rhythm and graceful fluidity. 
+
+Mark Kloth gathers found objects and materials into environmental installations that are 
+at once dramatic, spiritual and contemplative. His alteration of his spaces is total, incor- 
+porating painting, drawing and light, so that the sum of the piece transcends the meaning 
+of the parts. Kloth's background is in performance art, and the theatrical nature of the 
+medium is indeed brought to bear in his installations — in their staging, lighting and manip- 
+ulation of space. 
+
+
+
+22 
+
+
+
+In his earliest work, Kloth explored the notion that creative activities and processes focus 
+attention on the artist. Physical participation in the work was a responsibility that Kloth 
+transferred from himself to the viewer when he began creating installations. The viewer's 
+participation — entering and moving through and around the piece — was vital to experi- 
+encing the work. In Penumbra, a 1981 installation (cat. no. 33), for example, the artist built 
+an igloo-like structure from stacked newspaper "bricks." In a darkened basement, with only 
+the igloo and a small cart spotlighted, the viewer was invited to lie face-up on the cart, and 
+to pull himself or herself hand over hand by a rope along a track into the igloo. Within the 
+solitude of the environment, the viewer saw patterns of diffused light and heard the muffled 
+echoes of his or her own voice. Only by approaching the piece in this manner and by entering 
+its essential core could the viewer partake of the complete experience. 
+
+The ramifications of this piece are far-reaching within the artist's oeuvre. The architectural 
+concept of building by stacking, and the use of ephemeral materials such as paper as 
+construction elements, became leitmotifs for Kloth. The igloo in Penumbra conveyed a 
+strong sculptural presence, and such central elements, constructed by the artist, were 
+essential to subsequent installations as well. The light source, always visible, and the shad- 
+ows cast by it also became integral to Kloth's work. 
+
+In Encore, a 1 983 installation (cat. no. 34), the primary sculptural element was composed 
+of a cylindrically rolled sheet of copper covered with asphalt; an intricate webbing of thin 
+steel strips crowned the work. The process of stacking and arranging these strands to form 
+a nestlike web recalls similar processes in nature — the weaving of a bird's nest, for example. 
+While most of Kloth's imagery is abstract, it nonetheless retains a referential and symbolic 
+element; thus in Encore the nest form was strongly suggestive of a haven or sanctuary. A 
+powerful beam of light acted as a directional signal, drawing the viewer to the work's core. 
+Attracted by the hallucinatory glow, the viewer walked through a wide chalk ring inscribing 
+the sculpture, and as he or she stepped out again and traveled around the "nest," his or 
+her track marks replicated the pattern of the steel tracery. Within the circle of illumination, 
+the viewer was projected into the work and thus became part of it. The notion of focusing, 
+expressed through either the use of light or the placement or juxtaposition of elements, is 
+a strong undercurrent that runs throughout Kloth's oeuvre. 
+
+If we were to remove one of the steel members of the central element in Encore, the 
+piece would fall apart like a house of cards. This vulnerability is completely antithetical to 
+our conception of the properties of steel. In a similar play on antithesis, Kloth confounds 
+our expectations by often constructing the walls and ceilings of his installations of newspaper 
+covered with black casein — thus employing a fragile material for a structural function. This 
+tenuous line between strength and vulnerability, between permanence and impermanence, 
+is a dominant concern of the artist. Indeed, his installations are always disassembled ulti- 
+mately — the final proof of their ephemerality. 
+
+Kloth considers his work to be a dialogue. There is, to be sure, an intimate interchange 
+among parts in his installations. But this dialogue first takes place between the artist and 
+
+
+
+23 
+
+
+
+his world: Kloth scavenges his environment, collecting those articles that speak to him in 
+both an aesthetic and an informative way, such as rusted drainpipes, the core of a baseball, 
+a piece of a boiler, a roll of roofing material. The manner in which these manmade materials 
+have been transformed through their use, and their revelation of a past appeal to the artist 
+He lives with these objects in his work space, and in so doing receives from them suggestions 
+for new incarnations. Through simple or complex manipulation and recombinations, these 
+articles are transformed so that their abstract qualities rather than referential ones prevail. 
+
+The realization of an installation is an intuitive process for Kloth. In Blindfolds and Pas- 
+sages (cat. no. 35), the artist stacked cobblestone blocks in four graduated rows, feeling 
+obliged to create a wall at the suggestion of the material. He then thought about movement 
+through the wall and the metaphoric meanings of "breaking through," of overcoming life's 
+hurdles. Long, thin metal strips resembling hay punctured this wall, and five charred paper 
+cylinders straddled it. The resulting configuration was that of a cross, which enhanced the 
+spiritual associations of the work. This reference to religion is not unique in Kloth's oeuvre: 
+indeed, the central image of many of his pieces has an altarlike character. Color appeared 
+for the first time in the artist's work in Blindfolds and Passages, on four panels of highly 
+saturated red, green, violet and yellow placed on the four walls. The arms of the cross 
+directed the viewer's attention to these "stations," simultaneously diffusing and emphasizing 
+its centralized force. 
+
+The introduction of color has had important repercussions in two more recent pieces, 
+and indicates a possible direction for the future. In Bridging Paths and Passing Stage, (cat. 
+nos. 39, 40), the artist has rubbed an intense chrome yellow into the canvas portions of the 
+sculptures, so that the light sources are synonymous with the objects themselves. The 
+circular rubbing of the pigment reinforces the theme of "focusing inward" or "honing in" that 
+recurs throughout Kloth's oeuvre. The power of these works also rests in their nature as 
+discrete objects, and as such they are strongly heraldic, even totemic. Yet the elements of 
+chance and intuition are still inherent in the creative process: the metal drainpipes are found 
+objects with preexisting forms and functions, but in each work Kloth himself makes the 
+canvas into a cone by shaping it and stapling it to the wall. It therefore has no existence 
+without the wall, and is as ephemeral as the installation itself. Though separate pieces, 
+when installed together in a room Bridging Paths and Passing Stage have a unified impact 
+on the viewer. Forced to the center of the room by intense color and the points of the cones, 
+the viewer takes over the role of "essential core" formerly reserved for inanimate objects, 
+a radical yet entirely logical shift in direction for the artist. 
+
+Kloth's installations partake of an oriental tradition in the serenity and contemplativeness 
+of his formal arrangements. The work also invites comparison with that of the Italian Arte 
+Povera artists who sought to discover and extol the intrinsic magical worth of the elemental 
+forces of nature — earth, air, fire, water, light and minerals. Kloth is also drawn to the 
+sensitivity to and manipulation of materials in the work of Joseph Beuys and Anselm Kiefer. 
+
+Kloth's environments are strongly evocative of landscape. We feel that he is seeking to 
+
+
+
+24 
+
+
+
+replicate a sense of place in his art, to make a record of an encounter between himself and 
+his surroundings. To recall the experience of coming to a place, of concentrating on it and 
+of the place holding onto us is part of the artist's intention in these installations. Kloth's work 
+is at once physical and metaphysical. It retains both purity and clarity of purpose. 
+
+The making of art is for Anthony-Peter Gorny a passionate concern, one that encom- 
+passes all aspects of his life. As one critic has so aptly noted, it is a kind of secular religion 
+for this artist." Gorny's art is a search for meaning; he believes in the artist's ability to extract 
+meaning from what he or she sees and experiences. Yet at the same time he questions the 
+possibility of attaining absolute meaning, knowing finally that paradox, inconsistency and 
+change are basic conditions of human existence. 
+
+The key (if indeed there is a key) to Gorny's art and thought is contained in his dianstic 
+journals. These books are contemporary equivalents of illuminated manuscripts; they are 
+magnificent objects, each unique, made by him of his own handmade papers and bound 
+with colored endpapers embedded with a glorious array of leaves, flowers and pods. Though 
+sometimes embellished with drawings or photographs, the books are mostly |ammed with 
+the artist's thoughts, ideas and feelings, either jotted down in note form or elaborated upon 
+as prose poems. On these pages, subjects as diverse as literature, art criticism, film, video 
+and the artist's own work are explored with uncanny honesty; they are a wellspring for both 
+the images and techniques that Gorny uses in his art. 
+
+Gorny's oeuvre comprises drawings, handmade books, lithographs, photographs and 
+sculpture; though each is treated as a separate and equally important discipline, the works 
+overlap in iconography and style. The lithographs (cat. no. 1 3) display a meticulous balance 
+of tone, nuance of texture and intricacy of line. Sometimes the artist prints on both sides of 
+translucent Japanese paper, so that the layering of image and meaning takes on added 
+complexity and ambiguity. The richness of detail in the lithographs is awe-inspiring. Man- 
+nerist distortions in drawing, cryptic mirror writing reminiscent of Leonardo's, ambiguous 
+spatial effects, unexpected viewpoints and juxtapositions, art-historical references and a 
+wry humor contribute to the idiosyncratic quality of these pictorial diaries. 
+
+References to ecclesiastical art and architecture abound in Gorny's oeuvre. The hand- 
+made books, which have painted and carved wood or cast-bronze covers, recall medieval 
+manuscripts. The bronze bookcover The Golden Book: The Root of All Evil (cat. no. 14) is 
+reminiscent of fifteenth-century Florentine bronze baptistery doors in the way that the bas- 
+relief figures emerge powerfully from the metal. A photographic installation entitled Alter a 
+Plan of Duccio's Maesta (cat. no. 15) was conceived to replicate the format of the high altar 
+of the Cathedral of Siena. Though translated into a modern-day context with themes of 
+violence, nuclear destruction and white-collar crime, the spirit of the fifteenth-century mas- 
+terpiece is magically preserved in Maesta. The simultaneous monumentality of the whole 
+and intimacy of the individual panels of the Sienese source is retained in Gorny's work. So, 
+too, is the hierarchical ordering of images (the central panel depicting the Madonna en- 
+throned is replaced in Gorny's work with a brutal rape scene), narrative detail and elaborate 
+
+
+
+25 
+
+
+
+iconography. However, Gorny deliberately neutralizes the topical and violent character of 
+his staged scenarios, in his words "cooling off" their reality to the point where they are 
+"stillborn." 
+
+The allegorical predella panels at the base of the Sienese altar appear again in a later 
+work by Gorny, Transitivity Volumes 7-5 (cat. no. 10). Like the journals, these five large 
+bookworks — handmade books encased in large sculptural frames — resemble illuminated 
+manuscripts; each is a contemporary book of hours in its wealth of information and rich 
+detail. The almost jewel-like front covers of layered rhoplex, pigment and carbon transfer 
+are reminiscent of Romanesque art which, though often crudely embellished, achieves a 
+high degree of elegance. The ornamented frames, which are cast in polyester resin from 
+old frames and feature elaborate bas-reliefs of objects related to the volumes' themes, recall 
+the foliated borders in illuminated manuscripts. Installed on a wall with their Predella Diptych 
+panels of photographs beneath them (cat. no. 11), they truly become a contemporary 
+altarpiece. 
+
+Gorny spent a year studying in Siena, and it is therefore not surprising that Italian art and 
+architecture from the late Romanesque period through the present have had a major impact 
+on his work. Profoundly influential is fifteenth-century Sienese painting, which the artist 
+knows not only from his travels, but also from visits to the extensive collection of the Phil- 
+adelphia Museum of Art. The rich narrative quality of this north Italian art, the beautiful and 
+somewhat primitive drawing, the realistic — yet not mimetic — qualities and the manner of 
+capturing the essence of relationships and gestures are elements that Gorny seeks to 
+translate into his lithographs and photographs. 
+
+The photographs that comprise Maesta and the Predella Diptych panels are like small 
+theatrical pieces in their composition and imagery. Just as a play can be performed again 
+and again, some of these photographs are reused by Gorny in other contexts, such as It's 
+Another Thing Altogether, a book that he published in1 978. These tableaux explore personal 
+as well as universal images in contrived, Magritte-like situations which the artist stages in 
+his studio. They are distillations of many of the thoughts recorded in his diaries, and are 
+replete with verbal and visual puns. His props are objects drawn from the real world that 
+evoke poetic responses in him. He writes in his journal of the possibility of a sacra con- 
+versazione between these inanimate objects. 
+
+There is an intense Surrealist quality to these photographs, and to some of the lithographs 
+as well. The Surrealists' random and unexpected juxtapositions of objects are paralleled in 
+the juxtapositions of images within Gorny's individual photographs, and in the combination 
+of photographs into a larger oeuvre. Gorny insists, however, that despite the seeming ran- 
+domness, the connections that exist in and among these works are strong and rational. 
+Another goal of the Surrealists was to replenish poetic imagery through the illogical juxta- 
+position and combination of words. The interplay of language and narrative in Gorny's work 
+has a precedent in this Surrealist tradition. His oeuvre is filled with marvelous aphorisms 
+of his own invention ("Nuclear Burns/Litter. Which is Worse, Paper or Plutonium?") that 
+
+
+
+26 
+
+
+
+cause us to rethink the meaning of words or of the visual images to which they are attached. 
+
+The Surrealists believed the unconscious to be an essential source for art and life. Gorny 
+differs slightly in this regard as his ideas, while often recorded in his writings in a stream- 
+of-consciousness fashion, are not probed in dreams, but in a conscious and deliberate 
+search within himself. His images are very much grounded in visual events and in the 
+associations they trigger, and in art-historical sources ranging from Classical to Byzantine 
+to Romantic. Gorny stresses that it is the spirit of past art, not the look of it, that he seeks 
+to capture. 
+
+The techniques Gorny employs reinforce the Surreal quality of his photographs. Picto- 
+grams, double images, sharp contrasts of light and dark, inverted perspective, altered scale, 
+stop-action photography, blurring, scratched negatives and extreme points of view are pro- 
+vocative devices with which he challenges our perceptions. Additionally, the grainy textures, 
+soft focus and selenium toning which endows the prints with a warm, purple cast impart a 
+romantic, nineteenth-century aura to the photographs. 
+
+Gorny's art, like Joseph Cornells, is acutely personal. The complex layering of imagery 
+and meaning in the young artist's work also recalls the mystery and metaphor found in the 
+American Surrealist's shadow boxes and collages. Like Cornell, Gorny has made his art 
+his world, and his art becomes a poetic theater, reflecting that world. 
+
+Though the nine artists in this exhibition do not represent an identifiable movement or school, 
+one feature is salient when we consider them as a group That is their extraordinary achieve- 
+ment in reconciling often opposing concerns in art: painting and sculpture, abstraction and 
+representation, the secular and the spiritual, the private and the universal. These artists 
+often turn to the art of the past for stylistic and technical inspiration. Yet in looking toward 
+the future, they all achieve a clarity of expression that signals exciting new directions on 
+the ever-changing horizon of American art. 
+
+
+
+27 
+
+
+
+Footnotes 
+
+1 . Suzi Gablik, Has Modernism Failed 9 , New York and 
+London, 1984, pp. 59, 60, 127. 
+
+2. Ibid., p. 92. 
+
+3. Diane Waldman, Italian Art Now: An American 
+Perspective, 1982 Exxon International Exhibition, exh. 
+cat. New York. 1982. p. 9. 
+
+4. Robert Rosenblum, Modern Painting and the Northern 
+Romantic Tradition: Friedrich to Ftothko, New York, 1975, 
+p. 203. 
+
+5. Diane Waldman, "New Dimensions/Time-Space: Western 
+Europe and the United States," in Guggenheim 
+International Exhibition 1971, exh. cat., New York, 1971, 
+p. 16. 
+
+6. In her foreword to the catalogue The End of the World: 
+Contemporary Visions of the Apocalypse, The New 
+Museum of Contemporary Art, New York, 1984, p. 9, Lynn 
+Gumpert cites the following shows in New York alone: 
+7984 and Atomic Salon, Ronald Feldman Fine Arts; 
+Apocalyptic Visions, Galene Bellman; The War Show, Fine 
+Arts Center. State University of New York at Stony Brook; 
+and Dangerous Works, Parsons School of New York. 
+
+7. Josef Albers, Interaction of Color, New Haven and London, 
+1971, p 1. 
+
+8. Stephen Westfall, introductory essay to Rex Lau: Paintings 
+and Works on Paper, 1983-1985, exh. cat.. New York, 
+1985, n.p 
+
+9. Vivien Raynor, "Joan Nelson," The New York Times, 
+February 8, 1985, p. C32. 
+
+10. Richard Martin, "Mark Innerst," Arts Magazine, vol. 59, 
+October 1984, p 2 
+
+1 1 . David Bell, "Santa Fe Notes," Artspace, vol. 6, Fall 1982. 
+p. 62. 
+
+12. Christopher French, "Unions of Paint and Form.'/Artweefc, 
+vol. 15. May 19, 1984. p. 5. 
+
+13. Edward J. Sozanski, "Pursuing Art as a Kind of Secular 
+Religion." The Philadelphia Inguirer, May 15, 1984, p. 4E 
+
+
+
+28 
+
+
+
+CATALOGUE 
+
+
+
+PHOEBE ADAMS 
+
+
+
+Statement by the artist 
+
+An Example: I had a personal loss; one com- 
+mon to most of us, but I didn't have a name for 
+the feeling of that experience. I made an 
+image of flying wings that don't work, pro- 
+pelled by a symmetrical form that also no 
+longer works; it sags. The sculpture con- 
+notes its own history. 
+
+There have always been crevices of west- 
+ern art that are not concerned with any brand 
+of heroicism. This is my lineage. I look at the 
+outside world for particulars, for specifics 
+that are clues. Similarly, I look at my internal 
+landscape. Movement, form, growth, color, 
+these parts of natural structures exist out- 
+side our conceptions of the picturesque and 
+political usefulness. That these sculptures 
+are informed by the oddities of nature is nec- 
+essarily true because that is what I see. The 
+urgency to make an object is to give an ac- 
+count of unnamed experiences, the unspeak- 
+able feelings gleaned from peripheral vision. 
+
+
+
+Selected Group Exhibitions 
+
+Philadelphia Art Alliance, Art in Boxes, May 21 -June 
+24, 1979. Catalogue 
+
+Moore College of Art, Philadelphia, Opens Friday, 
+April 1980 
+
+College of Art, Maryland Institute, Baltimore, Sculpture 
+80: National Invitational Show, June 1 980 
+
+Stockton State College, Pomona, New Jersey, in 
+conjunction with Marion Locks Gallery, Philadelphia, 
+Regional Trends in Sculpture, October 26-November 
+13,1981 
+
+Philadelphia Art Alliance, S/300, June 1 6-July 31 , 1 982 
+
+Morris Gallery. Pennsylvania Academy of Fine Arts 
+Museum, Philadelphia, Sophia's House, January 14- 
+February 28, 1 983. Catalogue with text by Judith Stein 
+
+Matthews Hamilton Gallery, Philadelphia, Small Scale 
+Sculpture, February 1984 
+
+Institute of Contemporary Art, University of 
+Pennsylvania, Philadelphia, Made in Philadelphia 6, 
+March 1 0-April 6, 1 984. Catalogue with text by Ned 
+Rifkin 
+
+Lawrence Oliver Gallery, Philadelphia, June 21 -August 
+11,1984 
+
+Tyler School of Art, Temple University, Philadelphia, 
+Faculty Exhibition, February 12-March 7, 1985 
+
+
+
+Born in Greenwich, Connecticut, May 1 , 1 953 
+
+Philadelphia College of Art, B.F.A., 1976 
+
+Graduate Assistantship, State University of New York, 
+Albany, 1976-78 
+
+Skowhegan School of Painting and Sculpture, Maine, 
+1977 
+
+State University of New York, Albany, M.A., 1978 
+
+Visual Art Fellowship, Pennsylvania Council on the 
+Arts, 1982, 1985 
+
+Associate Professor, Tyler School of Art, Temple 
+University, Philadelphia, January 1985-present 
+
+Lives and works in Philadelphia 
+
+
+
+Selected One-Woman Exhibitions 
+
+Nexus Gallery, Philadelphia, February 3-28, 1981 
+
+Lawrence Oliver Gallery, Philadelphia, September 
+21 -October 20, 1984 
+
+Grace Borgenicht Gallery, New York, April 26-May 21 . 
+1985 
+
+
+
+Selected Bibliography 
+
+Edward J. Sozanski, "Art: More New Talent at the 
+I.C. A.," The Philadelphia Inquirer, March 13, 1984, 
+p.7F 
+
+Thomas Gartside, "Made in Philadelphia 6." The New 
+Art Examiner, vol. 1 1, June 1984, p. 18 
+
+Edward J. Sozanski, The Philadelphia Inquirer, 
+September 27, 1984, p. 6E 
+
+Miriam Siedel. The New Art Examiner, vol. 12. 
+February 1985. p. 57 
+
+
+
+30 
+
+
+
+
+Pointed Trap. 1983 
+
+Bronze with patina, 15 x 13x5'/2" 
+
+Collection The Metropolitan Museum of Art. New 
+York 
+
+
+
+31 
+
+
+
+
+Songbird. 1 983 
+
+Bronze with patina. 1 5 x 1 2 x 9 Vi?" 
+
+Private Collection 
+
+
+
+32 
+
+
+
+
+3 Spanning Time. 1983 
+
+Bronze with patina, 26 x 26 x 19" 
+
+Courtesy Lawrence Oliver Gallery, Philadelphia 
+
+
+
+33 
+
+
+
+
+Wink. 1984 
+
+Bronze with patina, 19x16x16" 
+
+Collection Betsy and Mike Dmgman 
+
+
+
+34 
+
+
+
+
+5 The World. 1984 
+
+Bronze with patina, 10x14x6" 
+Private Collection 
+
+
+
+35 
+
+
+
+
+6 Half Laugh. 1985 
+
+Bronze with patina. 39 x 24 x 13" 
+
+Collection The Pennsylvania Academy of the Fine 
+Arts; Henry D. Gilpin Fund 1985 
+
+
+
+36 
+
+
+
+
+7 That's Enough. 1985 
+
+Bronze with patina, 25 x 1 9 x 1 5" 
+
+Courtesy Grace Borgenicht Gallery, New York 
+
+
+
+37 
+
+
+
+
+What Remains. 1985 
+Bronze with patina, 34 x 41 x 29" 
+Collection Mr, and Mrs. Gilbert M, Davidson, 
+Clifton, New Jersey 
+
+
+
+38 
+
+
+
+
+
+
+r- 
+
+
+
+
+9 Sweeping View. 1985 
+
+Bronze with patina. 38 x 40 x 1 6" 
+Collection of the artist 
+
+
+
+39 
+
+
+
+ANTHONY-PETER GORNY 
+
+
+
+Statement by the artist 
+
+
+
+SYMPATHY OF ALL THINGS 
+
+We were here We did this 
+Once what the Ancients called 
+"Sympathy of all things" 
+
+Some twilight objects here 
+inanimate really 
+Live with us intimate 
+animated beings 
+charged intelligent sincere 
+
+Vested with votive force 
+glow surviving time zones 
+hope dreamwish dread failure 
+
+Carry on silent subtle 
+reflection conversation 
+contemplation still 
+after our vanishing 
+limited memory 
+
+Born in Buffalo, May 3. 1 950 
+
+University of Siena and Istituto del'Arte, Siena, Italy, 
+1970-71 
+
+State University of New York, Buffalo, Summers 1 970, 
+1971 
+
+State University of New York, College at Buffalo, 
+BRA, 1972 
+
+School of Art, Yale University, New Haven, M.F.A., 
+1974 
+
+Associate Professor of Art, Tyler School of Art, Temple 
+University, Philadelphia, 1974-82 
+
+Faculty Member, Graphics Department, Pennsylvania 
+Academy of Fine Arts, Philadelphia, 1 982-85 
+
+Individual Artist Fellowship, Pennsylvania Council on 
+the Arts, 1983 
+
+Artist in Residence, School of Fine Arts, Indiana 
+University, and The Echo Press. Bloomington, April 
+1983 
+
+Artist in Residence, University of Costa Rica, San 
+Jose, January 1985 
+
+Instructor, Pratt Graphics Center, New York, Summer 
+1985 
+
+Travels frequently between Philadelphia and Buffalo 
+
+
+
+Selected Group Exhibitions 
+
+National Collection of Fine Arts Gallery, Library of 
+Congress, Washington, D.C., Twenty-second National 
+Exhibition of Prints, September 23-December 8, 1973 
+
+Frednkstad, Norway, Norsk Invitational Print Biennale, 
+August 15-October 1, 1974. Catalogue 
+
+Barcelona, Premier International Biennale de Obra 
+Grafica, September 28-October 31,1 974. Catalogue 
+
+Pratt Graphics Center Gallery, New York, The Printed 
+Quilt, April 10-May 20, 1975. Catalogue 
+
+Albnght-Knox Art Gallery, Buffalo, Thirty-fifth Annual 
+Western New York Exhibition, May 9-June 15, 1976. 
+Catalogue 
+
+National Collection of Fine Arts Gallery, Library of 
+Congress, Washington, D.C., Twenty-third National 
+Exhibition of Prints, May 23-September 7, 1 975. 
+Catalogue 
+
+Swarthmore College, Pennsylvania, Four 
+Photographers, October 1976 
+
+The Brooklyn Museum, New York, 30 Years of 
+American Pnntmaking, November 20, 1976-January 
+30, 1 977 Catalogue with text by Gene Baro 
+
+Hong-Ik University, Seoul, Forty-eighth International 
+Exchange Exhibition, 1976 
+
+Municipal Museum, Cracow, Seventh Cracow 
+International Print Biennale, March-April 1978. 
+Catalogue 
+
+Alvar Aalto Museum, Jyvaskyla, Finland, Second 
+International Exhibition of Prints, June 27-September 
+9, 1978. Catalogue 
+
+NAME. Gallery, Chicago, September 7-29. 1979 
+
+New England Foundation for the Arts Visual Arts 
+Touring Program, Cambridge, Massachusetts 
+(organizer). Re: Pages. An Exhibition of Artists' Books. 
+Catalogue with text by Gary Richman. Traveled 
+September 1980-August 1981 
+
+The Brooklyn Museum, New York, Contemporary 
+American Drawing in Black and White, November 22. 
+1 980- January 1 8, 1 981 . Catalogue with text by Gene 
+Baro 
+
+Charles Burchfield Center, State University of New 
+York, Buffalo, The Art of the Printmaker, November 
+1980- January 1981 
+
+The Print Club, Philadelphia, 56th Annual International 
+Print Exhibition, December 2, 1 980-January 3. 1 981 
+Catalogue with text by Gene Baro and George Krause 
+
+Lerner-Heller Gallery. New York. The Great American 
+
+
+
+40 
+
+
+
+Fan Show, May 2-June 1 2. 1 981 Catalogue with text 
+by Virginia Fabbri Butera. Traveled to Reynolds-Minor 
+Gallery, Arlington, Virginia 
+
+The Brooklyn Museum, New York, 22nd National Print 
+Exhibition, October 1 -November 1 981 . Catalogue with 
+text by Gene Baro 
+
+The Print Club, Philadelphia, 57th Annua! international 
+Print Exhibition, November 3-28, 1 981 . Catalogue with 
+text by Peter C Bonnell and Alan Fern 
+
+Associated American Artists Gallery, Philadelphia, The 
+New Image, October 2-30, 1 983 
+
+The Brooklyn Museum, New York, The American Artist 
+as Prmtmaker; 23rd National Print Exhibition, October 
+27-December 14, 1983. Catalogue with text by Barry 
+Walker 
+
+The Noyes Museum, Oceanville, New Jersey, 
+Impressions: Experimental Prints, June 5-September 
+16, 1984. Traveled to Institute of Contemporary Art, 
+Richmond, Virginia 
+
+Pratt Graphics Center, New York, Prints Ensuite, 
+January 1 3-March 3, 1 985. Catalogue with text by 
+Andrew Stasik. Traveled to Albany Academy Gallery, 
+New York 
+
+Selected One-Man Exhibitions 
+
+Jane Haslem Gallery, Washington, D.C., February 
+
+15-March5, 1977 
+
+Nexus Gallery, Philadelphia, Private, May 8-26, 1979 
+
+Nexus Gallery, Philadelphia, V.V., October 17- 
+
+November8, 1980 
+
+Jane Haslem Gallery, Washington, D.C., New 
+
+Lithographs, May 1981 
+
+Olin Gallery, Roanoke College, Virginia, Photographs, 
+September 1 5-October 2, 1981 
+
+Jeffrey Fuller Fine Arts, Philadelphia, Lithographs 
+from the B-M-F-V-V Cycle, January-March 1982 
+
+Nexus Gallery, Philadelphia, Votives, February 1982 
+
+Morris Gallery, Pennsylvania Academy of Fine Arts 
+Museum, Philadelphia, The Sympathy of All Things, 
+May 3-June 1 7, 1 984. Catalogue with text by Judith 
+Stein 
+
+Jane Haslem Gallery, Washington, DC, The 
+Sympathy of All Things, November 27, 1984-January 
+6,1985 
+
+Museo de Arte Costaricense, University of Costa Rica, 
+San Jose. January 6-February 1 0, 1 985. Catalogue 
+with text by Guido Saenz 
+
+
+
+Selected Bibliography 
+
+By the Artist 
+
+It's Another Thing All Together, 
+independent publication, Philadelphia, 1978 
+
+On the Artist 
+
+Jean Reeves, "Ten Young Artists in a Show of High 
+Quality,'' The Buffalo Evening News, August 17, 1973, 
+section II, p. 24 
+
+Nancy Tobin Willig, "Ten Young Buffalonians Show 
+Works," The Buffalo Courier Express, August 19, 
+1 973, magazine section, p. 5 
+
+David Tannous, "Anthony Gorny Is a Master of Sorts," 
+Washington Evening Star, March 3, 1 977 
+
+"Zwyczajny Swiat (Ordinary Life)" (Cracow), Pro/ekt: 
+Magazine of Visual Art and Design, vol. 1 24, March 
+1978, pp. 29-30 
+
+Maryanne Conheim, "The Art Boom," The 
+Philadelphia Inquirer, May 1 5, 1 978, pp. A1 -2 
+
+Ann Werstein, "Crisp Photographs Show Life's Fuzzy 
+Edge," Roanoke Times and World News, September 
+28, 1980, p. E6 
+
+Jonathan Katz, "Are You Listening?," The Philadelphia 
+Bulletin. October 26, 1980, section II, p. 8 
+
+Victoria Donahoe, "A Twin Bill to Make You Doubly 
+
+Glad You Went," The Philadelphia Inquirer, October 
+
+31,1 980, weekend magazine, p. 30 
+
+Richard Huntington, "Preferring Education Over Art," 
+
+The Buffalo Courier Express, December 1 7, 1 980, 
+
+p. C6 
+
+Ben Forgey, "Artists Take a Fresh Look at History," 
+
+The Washington Post, May 29. 1981 , p. C3 
+
+Virginia Fabbri Buttera, "The Fan as Form and Image 
+in Contemporary Art," Arts Magazine, vol. 55. May 
+1981, pp. 88-92 
+
+John Russell, "American Painters Are Now 
+Pnntmakers Too," The Philadelphia Inquirer, 
+November 20, 1983, p. H29 
+
+Edward Sozanski, "Pursuing Art as a Kind of Secular 
+Religion," The Philadelphia Inquirer, May 15, 1984, 
+p. E4 
+
+Vivien Raynor, Three Exhibitions at the Noyes 
+Museum," The New York Times, September 2, 1984, 
+p. 22 
+
+
+
+41 
+
+
+
+
+
+
+10 Transitivity Volumes 1-5. 1983-85 
+
+Handbound books of artist-made paper; covers, 
+rhoplex and dried pigment on linen on gessoed 
+Masonite panels, carbon transfers; frames, cast 
+polyester resin 
+
+Volume 1 ; Nature, 56 x 45 x 6" 
+
+Volume 2: Domesticated, Frenzied and Extinct, 
+56 x 39 x 6" 
+
+Volume 3: Human, 56 x 45 x 6" 
+
+Volume 4: Human Inventions, Applied Science, 
+56 x 39 x 6" 
+
+Volume 5: Principles of Perfection, 56 x 39 x 6" 
+
+Courtesy Dolan/Maxwell Gallery, Philadelphia 
+
+
+
+1 1 Predella Diptych. 1 972-76 
+
+2 panels of 22 silver gelatin prints each; each 
+panel, 12 x 120"; each print, 5 x8" 
+
+Courtesy Dolan/Maxwell Gallery, Philadelphia 
+
+
+
+
+42 
+
+
+
+
+
+
+
+Igi^&amp;LiiiiaKiniHBi^jgii^^sgaji^ige 
+
+
+
+i iHK^iaiiiiiiikiESiara^isaBiiBB 19 ' 
+
+
+
+43 
+
+
+
+12 What's Going On' 1984 
+
+Verso, graphite on artist-made paper, 38 x 28" 
+Courtesy Dolan/Maxwell Gallery, Philadelphia 
+
+
+
+
+Marriage (A.F.I.). 1978-81 
+
+
+
+Kisses like handshakes and handshakes as Kisses. 1 978-81 
+
+
+
+13 all works on pp. 44-45: 
+1978-82 
+
+Lithograph on paper, sheet, 22 V&amp; x I6V2" 
+Courtesy Dolan/Maxwell Gallery, Philadelphia 
+
+
+
+
+44 
+
+
+
+
+Polyptych (Why, of course its a cross). 1978-82 
+
+
+
+
+Wh io only some bruises heal? (Unclear Nuclear). 1 978-81 
+
+
+
+
+For Those who still would. 1 978-80 
+
+
+
+Paperiace (Broken Halos) . 1 978-82 
+
+
+
+
+45 
+
+
+
+
+1 4 The Golden Book: The Root of All Evil. 1 984 
+
+Bronze bookcover for B-M-F-V- V (Bene Merenti 
+Fecit Vivus Vivo [Made well for the deserving, 
+those who are alive)), 25 x 19 x 3" 
+
+Collection Robert A. Hauslohner 
+
+
+
+46 
+
+
+
+
+
+BSH^@BlE 
+
+
+
+
+^ $S 
+
+
+
+15 After a Plan of Duccio's Maesta. 1981-82 
+
+Arrangement of 51 silver gelatin prints of varying 
+dimensions, total 96 x 120" 
+
+Courtesy Dolan/Maxwell Gallery, Philadelphia 
+
+
+
+47 
+
+
+
+MARK INNERST 
+
+
+
+Statement by the artist 
+
+Amidst irresistible technology, artistic hy- 
+bridization, and mandatory appropriation, a 
+well-considered painting on a single support 
+seems as clear and unfettered an expression 
+as a person could hope for. 
+
+
+
+Born in York, Pennsylvania, February 26, 1957 
+Kutztown State College, Pennsylvania, B.F.A., 1980 
+Lives and works in New York 
+
+Selected Group Exhibitions 
+
+The City Gallery, New York, Downtown! Uptown, May 
+1981 
+
+The Drawing Center, New York, Selections 75, 
+September 16-October 28, 1981 
+
+Hallwalls, Buffalo, Fictive Victims, September 18- 
+October 1 3, 1 981 . Catalogue with text by Valerie Smith 
+
+The Drawing Center, New York, New Drawing in 
+America, January 13-May 1, 1982. Catalogue. 
+Traveled to The Sutton Place Museum, London, 
+October 5-December 1 2; Galleria d'Arte Moderno 
+Dico'ca, Pisaro, Italy, January 22-February 27, 1983 
+
+White Columns, New York, Reallife Magazine, 1982 
+
+The Kitchen, New York, Benefit Show, May 15,1 983 
+
+Grace Borgenicht Gallery, New York, Invitational 
+Exhibition, June 1-30, 1983 
+
+Semaphore Gallery, New York, Otherviews, 
+September 10-October 8, 1983 
+
+Artists' Space. New York, Selections, October 1 -29, 
+1983 
+
+One Penn Plaza, New York, Newscapes. Land and 
+City/States of Mind, January 23-May 4, 1 984 
+
+The Museum of Art, Ft. Lauderdale, New Narrative 
+Painting: Selections from The Metropolitan Museum of 
+Art, February 9-26, 1 984. Catalogue with text by 
+William S. Lieberman 
+
+Nature Morte, New York, Civilization and the 
+Landscape of Discontent, April 1 -29, 1 984 
+
+Jeffrey Hoffeld Gallery, New York, Little Paintings, May 
+1 -June 9. 1984 
+
+Indianapolis Museum of Art, Painting and Sculpture 
+Today 1984. May 1 -June 10, 1984. Catalogue with text 
+by Helen Ferruli 
+
+
+
+The Museum of Modern Art, New York, An 
+International Survey of Recent Painting and 
+Sculpture, May 17-August 19, 1984. Catalogue with 
+text by Kynaston McShine 
+
+Holly Solomon Gallery, New York, The Innovative 
+Landscape, May 25-June 23, 1984 
+
+Larry Gagosian Gallery, Los Angeles. An Exhibition of 
+Painting and Sculpture from the Lower East Side, 
+June16-July21, 1984 
+
+Palazzo Ducale, Gubbio, Italy, New Landscape 
+Paintings, June 16-September30, 1984 
+
+Independent Curators Inc., New York (organizer), 
+Drawings After Photography, Allen Memorial Art 
+Museum, Oberlin College, Ohio, August 28-October 
+14,1 984. Catalogue with text by William Olander. 
+Traveling through June 1 986 
+
+Florida State University, Tallahassee, Natural Genre, 
+August 31 -September 30, 1 984. Catalogue with text by 
+Tncia Collins and Richard Milazzo 
+
+Institute of Contemporary Art, Boston, Currents, 
+September 6-November 4, 1 984. Catalogue with text 
+by David Joselit 
+
+Bucknell University, Lewisburg, Pennsylvania, 
+Contemporary Perspectives, October 5-November 25, 
+1 984. Catalogue with text by Barry Blmderman. 
+Traveled to Sordoni Art Gallery, Wilkes College, 
+Wilkes-Barre, Pennsylvania, December 9, 1984- 
+January6, 1985 
+
+Museo Rufino Tamayo, Mexico City, Nueva pmtura 
+narrativa: coleccion del Metropolitan Museum of Art, 
+Nueva York, November 6, 1984-January 4, 1985. 
+Catalogue with text by William S. Lieberman 
+
+
+
+Selected One-Man Exhibitions 
+
+The Kitchen, New York, May 1-29, 1982 
+
+Grace Borgenicht Gallery, New York, October 3- 
+November27, 1984 
+
+James Mayor Gallery, London, May 29-June 21,1 985 
+
+
+
+Selected Bibliography 
+
+Kim Levin. "Art Pix," The Village Voice. May 19-25. 
+1982, p. 76 
+
+Richard Milazzo, Wedge, pamphlet 6. November 1983. 
+n.p. 
+
+
+
+48 
+
+
+
+Robert L. Pincus. Los Angeles Times, June 22-28, 
+1984 
+
+Holland Cotter, "Civilization and the Landscape of 
+Discontent," Arts Magazine, vol. 58, Summer 1984, 
+p. 40 
+
+Michael Kohn, "Moma: an International Survey," Flash 
+Art, Summer 1984, pp. 62-63 
+
+Kim Levin, "Voice Choice," The Village Voice, October 
+17-23, 1984, p. 74 
+
+Richard Martin, "Mark Innerst," Arts Magazine, vol. 
+59, October 1984, p 2 
+
+Michael Kohn, Flash Art. January 1 985, p. 45 
+
+Ken Sofer [review], ARTnews, vol. 83, January 1985, 
+p. 150 
+
+Gerrit Henry, "Mark Innerst at Grace Borgenicht," Art 
+in America, vol. 73, April 1985, pp. 204-205 
+
+
+
+49 
+
+
+
+
+16 Pennsylvania. 1983 
+
+Oil on wood, two works, each 9% x 9%" 
+
+Collection The Metropolitan Museum of Art, 
+Edith C.Blum Fund, 1983 
+
+
+
+50 
+
+
+
+
+1 7 Monument to the 20th Division Gettysburg, PA . 
+1984 
+
+Oil on acrylic on board, 8% x 6V2" 
+
+Collection Chase Manhattan Bank, New York 
+
+
+
+51 
+
+
+
+
+
+1 8 Untitled (Miscreant) . 1 984 
+Acrylic on Masonite, 7 x 4%" 
+Private Collection 
+
+19 Peter Lone. 1984 
+Acrylic on board, 7% x 7%" 
+
+Collection Douglas S. Cramer, Los Angeles 
+
+
+
+52 
+
+
+
+
+20 Catacomb. 1984 
+
+Acrylic on board, 1 0% x 1 9%" 
+Private Collection, London 
+
+
+
+53 
+
+
+
+
+21 A Night to Remember. 1 985 
+Acrylic on board, 13 'A x 14 5 /e" 
+Private Collection. Monaco 
+
+
+
+54 
+
+
+
+
+22 View of Algiers from New Orleans. 1 985 
+Oil on acrylic on Masonite, 10x1 3%" 
+Collection Mr. and Mrs. Franklin Konigsberg, 
+Los Angeles 
+
+
+
+55 
+
+
+
+
+23 The Mississippi (New Orleans, LA). 1 985 
+Oil on acrylic on Masonite, 19%x21" 
+Private Collection, Los Angeles 
+
+
+
+56 
+
+
+
+
+24 Brooklyn Seen from the East River Park. 1 985 
+Oil on acrylic on board, 1 7Vi x 21 %" 
+Courtesy Grace Borgenicht Gallery, New York 
+
+
+
+57 
+
+
+
+T O B I K A H N 
+
+
+
+Statement by the artist 
+
+The surface always differs from what lies 
+within, just as the entrance to a cave appears 
+black, but, one step in, reveals a new world. 
+My goal is to take that step into the cave, to 
+find the hidden form. 
+
+As a photographer I saw the scene as compo- 
+sition, without detail, and as a painter I have 
+tried to capture that ambiguity between fact, 
+memory and imagination. The shapes I have 
+chosen are deliberately simplified into 
+archetypes of mountain, island, sea and sky. 
+Later I may find a human form in the mountain 
+and change the mountain to disclose both im- 
+ages. So, the actual mountain (the fact) is re- 
+membered as an archetype and then recast 
+into another form as well. 
+
+Sometimes I add shadows where, in reality, 
+none could be cast, to emphasize that land- 
+scape can also be read as a three-dimen- 
+sional image against a background— much 
+like the objects inside the shrines. The paint- 
+ings are then both landscapes, referring to 
+reality, and composites of free-floating 
+forms, otherworldly and seductive in their al- 
+lusiveness, their suggestion of something 
+you think you know. They are meant to evoke 
+a place you once visited but can no longer 
+quite recall, remote as dreams. 
+
+Born in New York, May 8, 1 952 
+
+Tel Aviv University, 1970-71 
+
+Travels extensively in Eastern and Western Europe, 
+Asia. Australia, New Zealand and the Middle East, 
+1970-present 
+
+Hunter College, New York, B.A., 1976 
+
+Estell Levy Award for Art, 1 976 
+
+Herman Muehlstein Foundation Graduate School 
+Award, 1976 
+
+Internship, Art Program, Pratt Institute, New York, 
+1977 
+
+
+
+Pratt Institute Fellowship, Brooklyn, 1978 
+
+Pratt Institute, Brooklyn, M.F.A., 1978 
+
+Ad|unct Lecturer, New York Technical College, City 
+University of New York, 1 978-85 
+
+Ad|unct Lecturer. Elizabeth Seton College, Yonkers, 
+New York, 1979-80 
+
+Artist in Residence, The Hebrew Arts School, New 
+York, 1979-present 
+
+Visiting Artist, Mishkendt Sha'Amanim, Jerusalem, 
+1985 
+
+Lives and works in Long Island City, New York 
+
+
+
+Selected Group Exhibitions 
+
+Naomi Givon Gallery, Tel Aviv, July 1980 
+
+Zolla Lieberman, Chicago, July 1 8-August 28, 1 980 
+
+Schlesinger-Boisante, New York, December 9, 1980- 
+January24. 1981 
+
+Queens Museum, Flushing, New York, Annual Juried 
+Exhibition, January 3-March 1 , 1981 . Catalogue with 
+text by John Perreault 
+
+Althea Viafora Gallery, New York, March 10-Apnl 5, 
+1982 
+
+Naomi Givon Gallery, Tel Aviv, September 1982 
+
+Robert Freidus Gallery, New York, The Horse Show, 
+May 17-June18, 1983 
+
+Harm Bouckaert Gallery, New York, The Saints, 
+September 7-October 8, 1 983 
+
+Oscarsson Hood Gallery. New York, From the Abstract 
+to the Image. January 1 0-February 4, 1 984 
+
+Suellen Haber Gallery, New York, Framed, February 
+11 -March 10, 1984 
+
+Civilian Warfare, New York, 2500 Sculptors Across 
+America, July 12-August 12, 1984 
+
+Althea Viafora Gallery, New York. Small Works. 
+September 1 1 -October 2, 1 984 
+
+Studio K, Long Island City, New York, Two Long Island 
+City Artists. May 5-June 9. 1 985 
+
+
+
+Selected One-Man Exhibitions 
+
+Debel Gallery, Jerusalem. January 7-28. 1978 
+
+Pratt Institute Gallery. New York. February 19-24. 
+1978 
+
+
+
+58 
+
+
+
+Fordham University, New York, March 1 1 -April 1 0, 
+1979 
+
+Robert Brown, New York, November 16-December6, 
+
+1980 
+
+Blumberg Harris, New York, December 2-14, 1981 
+
+Althea Viafora Gallery, New York, November 29- 
+December 20. 1 983; October 1 6-November 8, 1 984 
+
+Bernard Jacobson Ltd., Los Angeles, April 23-May 28, 
+1985 
+
+
+
+Selected Bibliography 
+
+Michael Brenson, "Art: Portraits of Artists as Seen by 
+the Artist," The New York Times, December 1 6, 1 983, 
+p. C30 
+
+Douglas Dreishpoon, "Tobl Kahn," Arts Magazine, vol. 
+58, January 1984, p. 7 
+
+Grace Glueck [review], The New York Times, 
+November 2, 1 984, p. C25 
+
+Douglas Dreishpoon, "Essence of Vision: The Art of 
+Tobi Kahn," Arts Magazine, vol. 59, January 1985, 
+pp. 81-83 
+
+Susan A. Harris, Arts Magazine, vol. 59, January 
+1985, p. 40 
+
+Meg Perlman, ARTnews, vol. 84, April 1985, pp. 143- 
+144 
+
+Kristine McKenna, "The Art Galleries," Los Angeles 
+Times, May 3, 1 985, part VI, p. 1 5 
+
+
+
+59 
+
+
+
+
+25 Azinl. 1983 
+
+Acrylic on board. 27 x 33V2" 
+Private Collection 
+
+
+
+60 
+
+
+
+
+26 Tagir. 1984 
+
+Acrylic on board, 28 x 36" 
+Collection Mary Sharp Cronson 
+
+
+
+61 
+
+
+
+
+27 Gutta. 1984 
+
+Acrylic on board, 27 x 35" 
+
+Collection Christian McGeachy, New York 
+
+
+
+62 
+
+
+
+
+
+
+
+■^HBH 
+
+
+
+28 tea//. 1984 
+
+Acrylic on canvas mounted on wood, 48 x 73 Vz" 
+Collection Solomon R. Guggenheim Museum, 
+New York 
+84.3213 
+
+
+
+63 
+
+
+
+
+29 Azball. 1984 
+
+Acrylic on canvas mounted on wood, 75 x 59" 
+Courtesy Althea Viafora Gallery, New York 
+
+
+
+64 
+
+
+
+
+30 Brun. 1985 
+
+Acrylic on wood, 21 x 1 1 x 9" 
+
+Collection of the artist; courtesy Althea Viafora 
+Gallery, New York 
+
+
+
+65 
+
+
+
+
+31 Giro III. 1985 
+
+Acrylic on canvas mounted on wood, 60 x 96" 
+Collection Linda and Ronald F. Daitz, New York 
+
+
+
+66 
+
+
+
+
+32 Rema. 1985 
+
+Acrylic on board, 54 x 39" 
+
+Courtesy Althea Viafora Gallery. New York 
+
+
+
+67 
+
+
+
+MARK KLOTH 
+
+
+
+Statement by the artist 
+
+
+
+My work is my voice. 
+I find my voice through my work. 
+
+Born in Minneapolis, August 26, 1954 
+
+Arizona State University, Tempe, B.F.A. (Sculpture), 
+1978 
+
+Graduate Assistantship — Sculpture, Virginia 
+Commonwealth University, Richmond, 1979-81 
+
+Virginia Commonwealth University, Richmond, M.F.A. 
+(Sculpture), 1981 
+
+Lives and works in Brooklyn 
+Selected Group Exhibitions 
+
+Scottsdale Center for the Arts, Arizona, First Annual 
+Traveling Box Show, March 1976, Traveled to Arizona 
+State University Gallery, Tempe 
+
+University of Colorado, Boulder, Xerox, Xerox, Xerox, 
+February 15-March 15, 1977. Catalogue 
+
+Phoenix College, Arizona. Invitational Sculpture 
+Exhibition, March 15-April 15, 1977 
+
+Mathews Center Gallery, Arizona State University, 
+Tempe, First Annual Wood-in- Art Competition, 
+September 25-October 23, 1977 
+
+University of Arizona Gallery, Tucson, Arizona Tri- 
+University Invitational Traveling Exhibition, November 
+1 3-December 4, 1 977. Traveled to Northern Arizona 
+University Gallery, Flagstaff, December 14, 1977- 
+January 1 5, 1 978; Mathews Center Gallery, Arizona 
+State University, Tempe, January 25-February 1 
+
+Yuma Center for the Arts, Arizona, Papermaking 
+Invitational, 1 978 
+
+Proposal Gallery, Baltimore, Black Boards, July 10-30, 
+1980 
+
+Anderson Gallery, Virginia Commonwealth University, 
+Richmond, Five Artists in Richmond, 1 980 
+
+Siegel Contemporary Art, New York, Nocturne, 
+September 13-October 1, 1983 
+
+General Electric Company, Fairfield, Connecticut, 
+Clothes, 1983 
+
+P.S.1 , Institute for Art and Urban Resources at The 
+Clocktower, New York, 34; 83-83, January 12- 
+February 12, 1984 
+
+Condeso Lawler, New York, Fall Show, September 
+8-29,1984 
+
+Ruth Siegel Ltd., New York, Salvo, September 1 1-29, 
+1984 
+
+
+
+Selected One-Man Exhibitions 
+
+Fine Arts Gallery, Arizona State University, Tempe, 
+Salvage, March 1976 
+
+1116 South Ash, Tempe, Arizona, performance. 
+Installed: An Installation, October 23, 1 977 
+
+Fine Arts Gallery, Arizona State University, Tempe, 
+performance, Three Days in a Strapped Room, 
+November 20-22, 1977 
+
+Fine Arts Gallery, Arizona State University, Tempe, 
+performance, In Tight: Strapped in a Mattress, 
+December 9, 1977 
+
+Faculty Parking Lot, Arizona State University, Tempe, 
+performance, Suspension: Fifteen Feet in the Air, May 
+15,1978 
+
+College of Art, Maryland Institute, Baltimore, 
+performance, Point/Void, October 1 6, 1 978 
+
+1 708 East Main, Richmond, Virginia, installation, 
+Penumbra, March 6-30, 1981 
+
+1 708 East Main, Richmond, Virginia, performance, 
+Echo, March 22, 1981 
+
+Anderson Gallery, Virginia Commonwealth University, 
+Richmond, installation (M.F.A. thesis exhibition). Dead 
+Man's Hand, April 30-May 15, 1981 
+
+PS. 1 , Institute for Art and Urban Resources, Long 
+Island City, New York, installation, Monument and 
+Moment, October 17-November 17, 1982 
+
+PS. 1 , Institute for Art and Urban Resources, Long 
+Island City, New York, installation, Encore, January 15- 
+February 15, 1983 
+
+Siegel Contemporary Art, New York, installation, 
+Blindfolds and Passages, March 30-April 23, 1 983 
+
+PS. 1 , Institute for Art and Urban Resources, Long 
+Island City, New York, installation, Stations of 
+Temperament, October 
+1 -November 1, 1983 
+
+The New Museum of Contemporary Art, New York, 
+installation, Blind Migration. . . Waves at Bay, 
+December 9, 1983-January 8, 1984 
+
+Ruth Siegel Ltd., New York, Works, February 20-March 
+9, 1985 
+
+Selected Bibliography 
+
+Ellen Lee Klein, "Arts Reviews," Arts Magazine, vol. 
+57, June 1983, p. 44 
+
+Grace Glueck [review], The New York Times. March 1 , 
+1985, p. C24 
+
+
+
+68 
+
+
+
+
+33 Penumbra (detail). 1981 
+
+Installation, 1708 East Main, Richmond. Virginia 
+Canvas-and-aluminum cart, newspaper bricks 
+stacked over a steel frame, steel track and nylon 
+rope 
+
+
+
+69 
+
+
+
+
+34 Encore. 1983 
+
+Installation, P.S. 1 , Institute for Art and Urban 
+Resources, New York 
+Casein, chalk and oil on newspaper walls; 
+asphalted copper sheet and steel 
+
+
+
+70 
+
+
+
+
+35 Blindfolds and Passages (detail). 1 983 
+
+Installation. Siegel Contemporary Art, New York 
+Casein and dry pigment on newspaper walls; dry 
+pigment, graphite, wax and polyurethane on 
+Homosote tiles; granite, steel and paper 
+
+
+
+71 
+
+
+
+
+36 Stations of Temperament. 1 983 
+
+Installation, PS. 1 , Institute for Art and Urban 
+Resources, New York 
+
+Casein and dry pigment on newspaper walls; 
+acrylic tape on concrete, burned fabric, asphalt 
+on copper, rubber-coated wire 
+
+
+
+72 
+
+
+
+
+37 Stations of Temperament (detail 
+
+
+
+73 
+
+
+
+
+74 
+
+
+
+
+38 Blind Migration. . . Waves at Bay. 1 983-84 
+
+Installation, The New Museum of Contemporary 
+Art, New York 
+
+Casein and dry pigment on newspaper walls, 
+asphalt on copper; steel, string and wax 
+
+
+
+75 
+
+
+
+
+39 Bridging Paths .1985 
+
+Metal, casein and dry pigment on canvas, 
+96x112x10" 
+
+Courtesy Ruth Siegel Ltd., New York 
+
+
+
+76 
+
+
+
+
+40 Passing Stage. 1985 
+
+Metal, casein and dry pigment on canvas, 
+113x68x23'/2" 
+
+Courtesy Ruth Siegel Ltd., New York 
+
+
+
+77 
+
+
+
+REX L A U 
+
+
+
+Statement by the artist 
+
+
+
+All of my current work comes from an obser- 
+vation of nature, in its many moods and con- 
+ditions. I hope to bring to this observation my 
+personal vision, and to make the best paint- 
+ing I can. 
+
+Born in Trenton, New Jersey, February 26, 1 947 
+The School of Visual Arts, New York, 1 966-69 
+Lives and works in Montauk, New York 
+
+
+
+Selected Group Exhibitions 
+
+New Jersey State Museum, Trenton, Art from New 
+Jersey, March 18-May 14, 1967 
+
+Anna Leonowens Gallery, Nova Scotia College of Art 
+and Design, Halifax, James Lee Byars, Rex Lau, April 
+1-3,1969 
+
+Riverside Museum, New York, Five Situations. October 
+3-November 10, 1969 
+
+Visual Arts Museum, The School of Visual Arts, New 
+York, Unnatural Practices, August 3-30, 1971 
+
+Parsons-Truman Gallery, New York, This Doesn't Look 
+Like a Work ot Art, April 20-May 1 5, 1 976 
+
+Truman Gallery, New York, December 13, 1977- 
+January7, 1978 
+
+Organization of Independent Artists, New York, 
+Constructs, April 15-May30, 1978 
+
+Parsons-Dreyfuss Gallery, New York, Landscape, 
+Seascape, Cityscape, December 4-22, 1978 
+
+Harm Bouckaert Gallery, New York, Edward Albee, 
+organizer, An Exhibition ot Painting and Sculpture by 
+Five Artists Who for Some Dumb Reason Don't Have 
+New York Galleries, January 6-31,1 982 
+
+Guild Hall, East Hampton, New York, Artists from The 
+Edward F. Albee Foundation, May 30-June 27, 1982. 
+Catalogue with text by Edward Albee 
+
+Siegel Contemporary Art, New York, An Installation of 
+Recent Works by Jerry Buchanan, David Craven, Rex 
+Lau, Sean Scully, March 2-26, 1 983 
+
+Siegel Contemporary Art, New York. Nocturne, 
+September 13-October 1, 1983 
+
+The Metropolitan Museum of Art, New York, Selection 
+of Recent Acquisitions by the Twentieth-Century Art 
+Department, September 15-November 30, 1983 
+
+
+
+The Hudson River Museum, Yonkers, New York, New 
+Vistas: Contemporary American Landscapes, January 
+1 5-March 11,1 984. Catalogue with text by Janice C. 
+Oresman. Traveled to Tucson Museum of Art, Arizona, 
+April 14-June8 
+
+The Museum of Art, Fort Lauderdale, New Narrative 
+Painting: Selections from The Metropolitan Museum of 
+Art, February 9-26, 1 984. Catalogue with text by 
+William S. Lieberman 
+
+Siegel Contemporary Art at Chicago International Art 
+Exposition 1984, Recent Works by Affiliated Artists, 
+May 10-15, 1984 Catalogue 
+
+Rahr-West Museum, Manitowoc. Wisconsin, A New 
+Look at American Landscape, June 1 7-July 15,1 984. 
+Traveled to Frumkm &amp; Struve Gallery, Chicago, 
+September 7-October 6; Turman Gallery, Indiana State 
+University, Terre Haute, October 1 1 -30 
+
+Ruth Siegel Ltd., New York, Salvo, September 1 1 -29. 
+1984 
+
+Museo Rufmo Tamayo, Mexico City, Nueva pmtura 
+narrativa: coleccion del Metropolitan Museum of Art, 
+Nueva York, November 6, 1984-January 4, 1985. 
+Catalogue with text by William S. Lieberman 
+
+Zilkha Gallery, Wesleyan University, Middletown, 
+Connecticut, 6 Painters, January 23-March 8, 1985 
+
+Usdan Gallery, Bennington College, Vermont, 
+Crossovers: Artists in Two Mediums, March 12-April 4, 
+1985 
+
+
+
+Selected One-Man Exhibitions 
+
+Parsons-Dreyfuss Gallery, New York, Hobo Signs. 
+February 1-19, 1977 
+
+Parsons-Dreyfuss Gallery. New York, Pranks of 
+Nature, March 13-31, 1979 
+Siegel Contemporary Art, New York, Rex Lau. "The 
+Wind Demons" and Other Recent Paintings, 1980- 
+1981, January 20-February 13, 1982 
+
+Siegel Contemporary Art at Chicago International Art 
+Exposition 1983. Rex Lau, May 19-21 . 1983 
+Catalogue 
+
+John Berggruen Gallery, San Francisco, Rex Lau, 
+Recent Work, July 14-August 13, 1983 
+
+Siegel Contemporary Art, New York. Rex Lau— 
+Paintings, 1981-1983, October 4-22. 1983 
+
+Nina Freudenheim Gallery, Buffalo, Rex Lau— Recent 
+Work, March 23-Apnl 24, 1985 
+
+
+
+78 
+
+
+
+Ruth Siegel Ltd., New York, Rex Lau: Paintings and 
+Works on Paper, 1983-1985, April 30-May 18, 1985. 
+Catalogue with text by Stephen Westfall 
+
+
+
+Selected Bibliography 
+
+David Bourdon, "Eroticism Comes in Many Colors," 
+The Village Voice, May 10, 1976, p. 128 
+
+Jill Dunbar, "The Trend from Thinking to Feeling," The 
+Wtfager, April 12, 1978, p. 10 
+
+William Zimmer, The Soho Weekly News, March 29, 
+1979 
+
+John Russell, "Rex Lau and Roxanne Blanchard," The 
+New York Times, February 5, 1982, p. C23 
+
+Barbara Delatiner. "Art Takes Shape at Albee Barn, " 
+The New York Times, May 30, 1 982, Long Island edition 
+
+Valentin Tatransky, "Group Show," Arts Magazine, vol. 
+56, May 1982, pp. 27-28 
+
+Amei Wallach. "Artworks of Albee's Barn," Newsday, 
+June 6. 1982, part II, pp. 4-5 
+
+Phyllis Braff, "From the Studio," The East Hampton 
+Star, June 17, 1982, section II, p. 7 
+
+Grace Glueck, "The Met Makes Room for the 
+Twentieth Century," The New York Times, September 
+18, 1983, section 2, pp. 27. 30 
+
+John Russell, "Rex Lau and Maria Scotti," The New 
+York Times, October 14, 1983, p. C23 
+
+Ellen Lee Klein, "Rex Lau," Arts Magazine, vol. 58, 
+December 1983, p 37 
+
+Jean E. Feinberg, "Rex Lau," Arts Magazine, vol. 58, 
+March 1984, p. 13 
+
+Janice C. Oresman, Chemical Bank: An Art Collection 
+in Perspective, New York, 1984, p. 30 
+
+Anthony Bannon, "In Plane Sight," The Buffalo News, 
+March 22, 1985, p. 5 
+
+Anthony Bannon. "Lau Captures Natural Beauty in 
+Linear Form," The Buffalo News, April 13, 1985, p. A12 
+
+
+
+79 
+
+
+
+
+41 December Nights. 1 983 
+Oil on Hydro-stone, 26 x 24" 
+Collection Chemical Bank, New York 
+
+
+
+80 
+
+
+
+
+42 The Wind Demons . 1 984 
+Oil on Hydro-stone, 26 x 24" 
+Collection Mrs. Joseph Ascher, New York 
+
+
+
+81 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIE w^ **-&amp;+- 
+
+
+
+
+
+
+^B *^\| 
+
+
+
+
+II I : '-~* 
+
+
+
+
+
+
+
+
+
+
+1 1 !■ 
+
+
+
+
+
+
+
+
+' 
+
+
+■ 4 
+
+
+r ^ &lt; 
+
+
+. * 1 
+
+
+
+
+
+
+B 1 ■ ■ ■ 
+
+
+
+
+
+
+■ W&lt; 
+
+
+
+
+91 ■ ' j4fl v 
+
+
+■ .J 
+
+
+M 
+
+
+
+
+
+
+■ I B 
+
+
+
+
+
+
+^^^^" 
+
+
+
+
+
+
+
+
+
+43 Cape Fear (second version) . 1 984 
+Oil on canvas. 72 x 64" 
+Courtesy Ruth Siegel Ltd., New York 
+
+
+
+82 
+
+
+
+
+44 Untitled Seascape (Large Pink Wave) . 1 984 
+Oil on Hydro-stone, 72 x 63" 
+Collection Laila and Thurston Twigg-Smith 
+
+
+
+83 
+
+
+
+
+45 Petrified Forest (second version). 1 985 
+Oil on Hydro-stone, 72 x 63" 
+Courtesy Ruth Siegel Ltd., New York 
+
+
+
+84 
+
+
+
+
+46 Leaping Without Looking (third version). 1984 
+Oil on Hydro-stone, 72 x 63" 
+Courtesy Ruth Siegel Ltd , New York 
+
+
+
+85 
+
+
+
+
+
+47 Deep in the Forest /. 1 985 
+Oil on Hydro-stone, 26 x 24" 
+Private Collection 
+
+48 Deep in the Forest II. 1 985 
+Oil on Hydro-stone. 26 x 24" 
+Courtesy Ruth Siegel Ltd., New York 
+
+
+
+86 
+
+
+
+
+49 Untitled Landscape. 1 985 
+Oil on Hydro-stone, 26 x 24" 
+Courtesy Ruth Siegel Ltd., New York 
+
+
+
+87 
+
+
+
+JOAN NELSON 
+
+
+
+Statement by the artist 
+
+There are human-constructed places which 
+exist seemingly without habitation by living 
+things. These insipid monuments to neglect 
+are, from inception, built for utility and 
+economy only; hence, any embellishment 
+becomes superfluous. 
+
+The attractive/repulsive quality of these 
+areas beckons my memory to visit them 
+again and again. Although I construct these 
+images from personal recollection, I feel that 
+they are universal, part of a collective 
+memory. 
+
+Born in Torrance. California, May 28, 1958 
+
+Washington University, St. Louis, B.F.A., 1981 
+
+Max Beckmann Memorial Scholarship, The Brooklyn 
+Museum, New York, 1981-82 
+
+Lives and works in Brooklyn 
+
+
+
+Selected Group Exhibitions 
+
+D.D.G., St. Louis, Choice, January 1-31, 1980 
+
+Nature Morte, New York, August Show, August 1 -31 , 
+1982 
+
+P-P-O-W, New York, Changing Group Show. July 6- 
+29, 1984 
+
+Saidye Bronfman Centre, Montreal, Easf Village at the 
+Centre, February 28-Apnl 14, 1985 
+
+Vorpal Gallery, San Francisco, May 1 6-June 1 6, 1 985 
+
+Grace Borgenicht Gallery, New York, Invitational 
+Exhibition, May 23-June 21,1 985 
+
+Piccadilly Gallery. London, P-P-O-W: Out of Context, 
+June25-July20, 1985 
+
+Jan Baum Gallery, Los Angeles, Minimal 
+Representation, July 9-August 24, 1985 
+
+
+
+One-Woman Exhibition 
+
+P-P-O-W, New York, January 1 6-February 1 0, 1 985 
+
+
+
+Selected Bibliography 
+
+Nicolas Moufarrege, "Group Show: Nature Morte," 
+Arts Magazine, vol. 57, October 1982, p. 19 
+
+Vivien Raynor [review], The New York Times, February 
+8, 1985, p.C32 
+
+Gary Indiana, "Invitational Exhibition," The Village 
+Voice, June 1 1 , 1985. p. 74 
+
+
+
+88 
+
+
+
+
+50 Untitled. 1984 
+
+Egg tempera and plaster on Masonite, 22 x 24" 
+Collection Sari and Jerry Joseph 
+
+
+
+89 
+
+
+
+
+51 Untitled. 1984 
+
+Egg tempera and plaster on Masonite, 40 x 48' V 
+Collection Dannheisser Foundation 
+
+
+
+90 
+
+
+
+52 Untitled. 1984 
+
+Egg tempera and plaster on Masonite, 36 x 48'A" 
+Collection Richard Ekstract, New York 
+
+
+
+91 
+
+
+
+
+53 Untitled. 1984 
+
+Egg tempera and plaster on Masonite. 48 x 38" 
+Courtesy P-P-O-W, New York 
+
+
+
+92 
+
+
+
+
+54 Untitled. 1985 
+
+Pigment and wax on hardboard, 1 8'/4 x 1 6" 
+Collection Alan Dmsfriend, Boston 
+
+
+
+93 
+
+
+
+
+55 Untitled. 1985 
+
+Pigment and wax on hardboard, 20 x 18" 
+Private Collection 
+
+
+
+94 
+
+
+
+
+56 Untitled. 1985 
+
+Pigment and wax on hardboard, 16x17" 
+Private Collection 
+
+
+
+95 
+
+
+
+
+57 Untitled. 1985 
+
+Pigment and wax on hardboard, 16% x 19" 
+Collection Mr. and Mrs. Raymond D. Nasher 
+
+
+
+96 
+
+
+
+
+58 Untitled. 1985 
+
+Pigment and wax on hardboard, 20 x 1 8" 
+Collection Caroline and Stephen Adler, New York 
+
+
+
+97 
+
+
+
+JIM PETERS 
+
+
+
+Statement by the artist 
+
+For me painting is running through the 
+streets of Manhattan trying to reach Mariel 
+Hemingway before she leaves the country... 
+or jumping fully clothed into the Seine as 
+Jules and Jim talk philosophy.. . or dressing 
+Viridiana in an old wedding dress searching 
+for what you can not have. 
+
+Born in Syracuse, New York, August 3, 1945 
+
+Trident Scholarship, United States Naval Academy, 
+1966-67 
+
+United States Naval Academy, Annapolis, Maryland, 
+B.A. (Nuclear Physics), 1967 
+
+Atomic Energy Commission Fellowship, 1967-69 
+
+Massachusetts Institute of Technology, Cambridge, 
+M.S. (Nuclear Engineering), 1969 
+
+Teaching Assistant, Mural Painting, College of Art, 
+Maryland Institute, Baltimore, 1976-77 
+
+Instructor, Children's Painting, Maryland Institute 
+Saturday School for Children, Towson, 1976-77 
+
+College of Art, Maryland Institute, Baltimore, M.F.A. 
+(Painting), 1977 
+
+Instructor, Drawing and Painting, Lyman Allyn 
+Museum, New London, Connecticut, 1977-82 
+
+Instructor, Children's Art, Expressive Arts Center, 
+Norwich, Connecticut, 1 977-82; T.V.C.C.A. (Thames 
+Valley Council for Community Action), New London, 
+Connecticut, 1982; Provmcetown High School, 
+Massachusetts, 1 983; Castle Hill Center for the Arts, 
+Truro. Massachusetts, 1984 
+
+Instructor, Painting, Connecticut College, New 
+London, Summers 1979, 1981 
+
+Instructor, Art Appreciation Art History, Mohegan 
+Community College, Norwich, Connecticut, 1 981 -82 
+
+Hudson D. Walker Fellowship, Fine Arts Work Center, 
+Provmcetown, Massachusetts, 1982-83; 1983-84 
+
+Instructor, Castle Hill Center for the Arts, Truro, 
+Massachusetts, 1984-85 
+
+Chairman, Visual Committee, Fine Arts Work Center, 
+Provmcetown, Massachusetts, May 1985-present 
+
+Lives and works in Provmcetown, Massachusetts 
+
+
+
+Selected Group Exhibitions 
+
+The Arts Tower Gallery, Baltimore, Three Figurative 
+Painters, October 1 977 
+
+School 33, Baltimore, Arts Tower Artists' Reunion, July 
+15-August14, 1979 
+
+College of Art, Maryland Institute, Baltimore, Graduate 
+School of Painting M.F.A. Show, April 1980 
+
+New Gallery, New London, Connecticut. Three New 
+London Artists, January 1981 
+
+Mohegan Community College, Norwich, Connecticut, 
+March 1982 
+
+Marisa del Re Gallery, New York, Ten Fellowship 
+Artists, January 1983 
+
+Slater Museum, Norwich, Connecticut, Drawings of 
+Seven Connecticut Artists, March 1983 
+
+East End Gallery, Provincetown, Massachusetts, 
+Gallery Artists. May 19-31. 1984 
+
+East End Gallery, Provincetown, Massachusetts, New 
+Figurative Painting, August 24-September 6, 1 984 
+
+College of Art, Maryland Institute, Baltimore, The Ten 
+Year Anniversary Show, January 25-February 22. 
+1985 
+
+Brockton Art Museum, Massachusetts, Southern 
+Exposure, March 31 -May 1 8, 1 985 
+
+Selected One-Man Exhibitions 
+
+Cummings Art Center. Connecticut College, New 
+London, November 1979 
+
+Hudson D. Walker Gallery, Fine Arts Work Center, 
+Provincetown, Massachusetts, April 23-30, 1983; 
+March 12-19, 1984 
+
+Selected Bibliography 
+
+John Yau, "Ten Fellowship Artists from the Fine Arts 
+Work Center in Provincetown," Arts Magazine, vol. 57, 
+April 1983, pp. 124-125 
+
+Margaret Ryan, "Association Hangs Colorful Show. " 
+The Advocate (Provmcetown, Massachusetts), March 
+8, 1984, pp. 4-5 
+
+"Young Artists at Association," The Advocate 
+(Provincetown, Massachusetts), May 31, 1984. p. 17 
+
+Mark Muro, "A Place to Create at the End of the 
+World," The Boston Globe. September 23, 1984. pp. 
+A49-50 
+
+E.J. Kahn III. "85 Faces to Watch in "85." Boston 
+Magazine, vol. 77, January 1985, pp. 1 12-121 
+
+
+
+98 
+
+
+
+
+
+
+
+
+59 Decision. 1984 
+
+Plastic, metal and oil paint, 8x8x8" 
+Courtesy CDS Gallery, New York 
+
+
+
+99 
+
+
+
+
+60 Summer. 1983 
+
+Oil on cardboard, sandpaper and plastic, 
+6% x 9&lt;/ 4 x 2'/ 2 " 
+
+Courtesy CDS Gallery, New York 
+
+
+
+100 
+
+
+
+
+
+
+
+
+
+
+61 Against the Grid. 1 983 
+
+Oil on photograph, wood and Formica, 
+20x4iy 2 x3" 
+
+Courtesy CDS Gallery, New York 
+
+
+
+101 
+
+
+
+
+62 Night Cottage. 1984 
+
+Oil on canvas, wood, cardboard and glass. 
+36 x 34 x 2" 
+
+Courtesy CDS Gallery, New York 
+
+
+
+102 
+
+
+
+
+63 Doxology. 1 984 
+
+Oil on wood, tin, canvas and glass, 
+78 x 72 x 8" 
+
+Courtesy CDS Gallery, New York 
+
+
+
+103 
+
+
+
+
+64 The Gift. 1985 
+
+Oil on wood. tin. plexiglass and canvas, 96 x 96 x 8' 
+Courtesy CDS Gallery, New York 
+
+
+
+104 
+
+
+
+
+65 Untitled (Reclining Figure) . 1 985 
+
+Oil on wood, tin, plexiglass and canvas, 
+
+68x108x8" 
+
+Courtesy CDS Gallery, New York 
+
+
+
+105 
+
+
+
+
+66 The Supplicant. 1 985 
+
+Oil and wax on metal, wood, paper and glass. 
+
+68 x 70 x 2" 
+
+Courtesy CDS Gallery. New York 
+
+
+
+106 
+
+
+
+IRENE PIJOAN 
+
+
+
+Statement by the artist 
+
+As a painter I observe, and connect the 
+within to the without. 
+
+Paintings are purposes gone askew; positing 
+differs from intent. The making is a vehicle 
+for an interminable dialogue between uttered 
+and utterer. 
+
+My job is to be fluid, with specificity. An at- 
+tempt at finding balance in vertigo. 
+
+Paintings: a bright one born at night, like 
+plankton; one the sight of an escape, another 
+of an excavation, another one, mulch. In this 
+unbandaged march, memory and desire are 
+of little bearing. Truth is of the moment only. 
+
+Born in Lausanne, Switzerland, November 1 1 , 1953 
+
+First Prize, California State Annual Exhibition, 
+Sacramento, 1977 
+
+University of California, Davis, B.A., 1978 
+
+Scholarship and Purchase Award, Skowhegan School 
+of Painting and Sculpture, Maine, 1 979 
+
+Regents' Graduate Fellowship, University of California, 
+Davis, 1979-80 
+
+University of California, Davis, M.F.A., 1980 
+
+Travels in Guatemala and Mexico, 1980 
+
+Guest Lecturer, University of Georgia, Athens, 1980- 
+81, 1981-82; Wake Forest University, Winston-Salem, 
+North Carolina, 1 981 -82; Roswell Museum and Art 
+Center, New Mexico, 1982; Humboldt State University, 
+California, and California College of Arts and Crafts, 
+Oakland, 1985 
+
+Artist in Residence, Ford Foundation Grant, University 
+of Georgia, Athens, 1980-81 
+
+Instructor, Drawing and Independent Projects, 
+University of Georgia, Cortona, Italy, Summer 1981 
+
+Travels in Switzerland and Italy, 1981 
+
+NEA/SECCA Southeast VII Fellowship Award. 
+Winston-Salem, North Carolina, 1981 
+
+Artist in Residence, Roswell Museum and Art Center, 
+New Mexico, 1981-82 
+
+Individual Artist Grant, National Endowment for the 
+Arts, 1982-83 
+
+
+
+Instructor, Painting and Drawing, and Graduate 
+Adviser, San Francisco Art Institute, 1 983-present 
+
+Travels in Italy and Greece, 1984 
+
+Lives and works in Rodeo, California 
+
+
+
+Selected Group Exhibitions 
+
+Basement Gallery, University of California, Davis, 
+installation with Martha Cain, For Ourselves/What It Is, 
+May 1-15, 1977 
+
+California State Fair Grounds, Sacramento, California 
+State Annual Exhibition, July 1 0-August 20, 1 977. 
+Catalogue 
+
+Artists' Contemporary Gallery, Sacramento, Group 
+Sculpture, February 4-March 2, 1978 
+
+University of California, Davis, installation with Liz 
+Jennings, Rocks, January 1 5-25, 1 980 
+
+Richmond Art Center. California, March 1 -25, 1 980 
+
+The Nelson Gallery, University of California, Davis, 
+thesis exhibition, June 7-30, 1 980. Traveled to The 
+Gorman Museum, Davis, California, July 7-30 
+
+Lester Gallery, Inverness, California, Gaylen Hansen 
+and Irene Pi/oan, September 3-30, 1980 
+
+The Oakland Museum, California, New Affirmations, 
+September 16-November 23, 1980 
+
+University of Georgia, Athens, Three Artists in 
+Residence, May 3-27, 1 981 
+
+Allan Stone Gallery, New York, Talent, June 2-30, 1981 
+
+University of Georgia, Cortona, Italy, Faculty 
+Exhibition, August 3-12, 1981 
+
+Laguna Beach Museum, California, February 2-28, 
+1 982. Catalogue with text by John Fitzgibbons 
+
+Southeastern Center for Contemporary Art, Winston- 
+Salem, North Carolina, SECCA VII, April 3-May 3, 
+1982. Catalogue with text by Lee Hansley. Traveled to 
+Greenville County Museum, North Carolina, July 2-27 
+
+Soraban Gallery, Wellfleet, Massachusetts, July 2-27, 
+1982 
+
+Emmanuel Walter Gallery, San Francisco Art Institute, 
+Works by Faculty, January 19-February 5. 1983 
+
+Gille Mansillon Gallery, Santa Monica. Twelve 
+California Artists, May 8-June 3, 1 984 
+
+Wake Forest University, Winston-Salem, North 
+Carolina, Rockefeller Retrospective, September 7- 
+November 2, 1 984. Catalogue with text by Victor 
+Faccinto 
+
+
+
+108 
+
+
+
+Sheldon Memorial Art Gallery, University of Nebraska, 
+Lincoln, San Francisco Bay Area Artists, September 9- 
+October 29, 1 984, Catalogue with text by George 
+Neubert 
+
+Hearst Art Gallery. St, Mary's College, Moraga, 
+California, Sculptural Paintings, January 9-February 
+10, 1985 
+
+
+
+Selected One-Woman Exhibitions 
+
+Acme Gallery, Sacramento, November 5-30, 1977 
+
+NCD Gallery, Sacramento, July 1 4-August 7, 1 978 
+
+Gallery Paule Anglim, San Francisco, October 6-30, 
+
+1981 
+
+Eason Gallery, Santa Fe, July 1 -30, 1 982 
+
+Roswell Museum and Art Center, New Mexico, 
+September 12-October 10, 1982. Catalogue with text 
+by Wesley Russnell 
+
+American River College, Sacramento, February 8- 
+March3, 1983 
+
+The Quay Gallery, San Francisco, May 1 -June 2, 1 984 
+
+De Saisset Museum, Santa Clara University, 
+California, Worksfrom 1981-1982, May 3-31, 1984 
+
+
+
+Ed March, San Francisco Examiner, October 10, 1981 
+
+Faith Heller, Wtnston-Salem Journal, April 5, 1982, 
+p. 22 
+
+Wendy Wilson, "Irene Pijoan Ceramic Portraits," 
+Artlines, August 1982, p. 37 
+
+David Bell, "Santa Fe Notes." Artspace, vol. 6. Fall 
+1982, p. 62 
+
+Christopher French, "Unions of Paint and Form," 
+Artweek, vol. 15, May 19, 1984. p. 5 
+
+Dorothy Burkhart, "Hot Art for Summer," San Jose 
+Mercury News, June 1 , 1 984, p. D1 
+
+Carol Fowler, "Sculptural Paintings Show Aspects of 
+Both," Centra Costa Times, January 29, 1 985 
+
+"Sculptural Paintings," Westart, January 25, 1985, p. 4 
+
+
+
+Selected Bibliography 
+
+Charles Johnson, "Starting a Cruel Promising," The 
+Sacramento Bee, June 13, 1976, p. 53 
+
+Charles Johnson, "A Continuing Non-Tradition," The 
+Sacramento Bee, February 20, 1977, p. 57 
+
+Charles Johnson, "Local Sculpture," The Sacramento 
+Bee, February 17, 1978, p. 62 
+
+Victoria Dalkey, The Sacramento Bee, July 25, 1978 
+
+Pat Osfeld and Jams Heple, Suttertown News, July 20, 
+1978, p. 6 
+
+Victoria Dalkey, The Sacramento Bee, May 1979 
+
+Christopher French, "Richmond Art Center 
+Acknowledges U.C.D.," The California Aggie, March 4, 
+1980, p. 4 
+
+Del McColm, "Strong Grad Show," Daws Enterprise, 
+June 13, 1980, p. 6 
+
+Andy Brumer, "Four Affirmations." Artweek, vol. 1 1 , 
+October 1980, p. 12 
+
+Charles Shere, Oakland Tribune, October 12, 1980 
+
+
+
+109 
+
+
+
+
+67 House Guest. 1 982 
+
+Encaustic, plaster, oil on stone, 
+10x10x7" 
+
+Collection Roswell Museum and Art Center, 
+New Mexico 
+
+
+
+110 
+
+
+
+
+68 Nameofa Town. 1982 
+
+Encaustic, relief and oil on stone, 
+9x10x5" 
+
+Collection Manuel and Kate Nen, Benicia, 
+California 
+
+
+
+111 
+
+
+
+
+
+69 Mesopotamia 1984 
+
+Plaster, wax and polystyrene on wood. 
+8x 16x2'/2" 
+
+Collection M Etcheverry. San Francisco 
+
+70 Streams. 1984 
+
+Plaster, wax and polystyrene on wood. 
+
+20 x 26 '/ 2 " 
+
+Collection Robert Arneson and Sandra 
+
+Shannonhouse 
+
+
+
+112 
+
+
+
+
+71 Glacier. 1984 
+
+Plaster, encaustic and pigment on wood, 
+56 x 1 07'/2 x 3" 
+
+Collection of the artist; courtesy Rena Bransten 
+Quay Gallery, San Francisco 
+
+
+
+113 
+
+
+
+
+72 Ransom Earth. 1985 
+
+Plaster, encaustic and pigment on wood, 
+
+66x88'/ 8 x4" 
+
+Collection of the artist; courtesy Rena Bransten 
+
+Quay Gallery, San Francisco 
+
+
+
+114 
+
+
+
+
+73 Church and State . 1 985 
+
+Pastel on distemper on wood, 68 x 85" 
+Collection Stephen and Anne Walrod, Berkeley 
+
+
+
+115 
+
+
+
+
+74 The Cities on the Ceiling. 1 985 
+
+Pastel, oil and distemper on wood. 
+
+66% x 89 x 2Va" 
+
+Collection of the artist, courtesy Rena Bransten 
+
+Quay Gallery. San Francisco 
+
+
+
+116 
+
+
+
+
+75 The Counsel. 1 985 
+
+Plaster, encaustic, oil and pastel on wood, 
+78 x 79 x 4'/ 2 " 
+
+Collection of the artist; courtesy Rena Bransten 
+Quay Gallery, San Francisco 
+
+
+
+117 
+
+
+
+118 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+Color 
+
+Larry Berkow: cat. no. 29 
+
+Rameshwar Das: cat. no. 46 
+
+D. James Dee: cat. no. 27 
+
+AN Elai: cat. nos. 60, 64, 65 
+
+M. Lee Fatherree: cat. nos. 71, 74, 75 
+
+David Heald and Myles Aronowitz: cat. nos. 10, 14, 28 
+
+Mark Kloth: cat. no. 33 
+
+Joe Maloney: cat. no. 31 
+
+Robert Reck: cat. no. 67 
+
+Adam Reich: cat. nos. 50, 55, 56 
+
+Earl Ripling: cat. nos. 39, 42, 45, 47, 48 
+
+Norman Sherfield: cat. nos. 34, 36, 38 
+
+Sarah Wells: cat. nos. 2, 7, 8, 18, 19, 22-24 
+
+Sarah Wells; courtesy of The Pennsylvania Academy 
+
+of the Fine Arts: cat. no. 6 
+
+Black and White 
+
+Gregory Benson: cat. nos. 3, 9 
+
+Larry Berkow: cat. nos. 26, 30 
+
+Rameshwar Das: cat. nos 43, 49 
+
+D. James Dee: cat. nos. 17, 25, 35 
+
+Ali Elai: cat. nos. 59, 61-63 
+
+M. Lee Fatherree: cat. nos. 68-70, 72, 73 
+
+Anthony-Peter Gorny: cat. no. 13 
+
+David Heald and Myles Aronowitz: cat. nos. 11, 12, 15 
+
+Ariel Jones: cat. no. 66 
+
+The Metropolitan Museum of Art, New York: cat. no. 16 
+
+Janet Neuhauser: cat. no. 32 
+
+Adam Reich: cat. nos. 51-54, 57, 58 
+
+Earl Ripling: cat. nos. 40, 41 , 44 
+
+Norman Sherfield: cat. no. 37 
+
+Sarah Wells: cat. nos. 1 , 4, 5, 20, 21 
+
+
+
+119 
+
+
+
+Exhibition 85/7 
+
+4,000 copies of this catalogue, designed by 
+Malcolm Grear Designers and typeset by 
+Schooley Graphics /Harlan Typographic, have 
+been printed by Eastern Press in September 
+1985 for the Trustees of The Solomon R. 
+Guggenheim Foundation on the occasion 
+of the exhibition New Horizons in American 
+Art: 1985 Exxon National Exhibition. 
+
+
+
+Solomon R Guggenheim Museum Library 
+
+
+
+
+210 
+
+
+
+120 
+
+
+
+. 
+
+
+
+N6512 .D38 1985 
+
+New horizons in American art 
+
+Dennison, Lisa. 
+
+011210 
+
+
+
+NSS12 .D38 1985 
+
+New horizons in American art 
+
+Dennison, Lisa 
+
+011210 
+
+
+
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0050   0.0050      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0069   0.0019      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0106   0.0037     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0155   0.0049   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0157   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0967   0.0810              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=96;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

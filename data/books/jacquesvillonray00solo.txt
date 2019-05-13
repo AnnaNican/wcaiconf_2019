@@ -1,0 +1,2575 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jacques Villon, Raymond Duchamp-Villon [and] Marcel Duchamp, 1957. January 8 to February 17, the Solomon R. Guggenheim Museum, New York; the Museum of Fine Arts of Houston, March 8 to April 8"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jacquesvillonray00solo">Jacques Villon, Raymond Duchamp-Villon [and] Marcel Duchamp, 1957. January 8 to February 17, the Solomon R. Guggenheim Museum, New York; the Museum of Fine Arts of Houston, March 8 to April 8</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jacquesvillonray00solo">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>(S^Zt^t, 
+
+
+
+A^A 
+
+
+
+&amp;-£-*. 
+
+
+
+
+^^U^Y p^cyLa^^f 
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/jacquesvillonrayOOsolo 
+
+
+
+
+Marcel Duchamp, Jacques Villon, Raymond Duchamp-Villon, Puteaux, igi: 
+
+
+
+JACQUES VILLON 
+
+
+
+RAYMOND DUCHAMP-VILLON 
+
+
+
+MARCEL DUCHAMP 
+
+
+
+r 957 
+
+
+
+January 8 to February 17 
+
+The Solomon R. Guggenheim Museum, New York 
+
+The Museum of Fine Arts of Houston 
+
+March 8 to April 8 
+
+
+
+Printed in Switzerland by StSmprli &amp; Cie., Berne, 1956. 
+
+
+
+Foreword 
+
+
+
+There is one feature which is strikingly characteristic of the art of the three brothers Jacques 
+Villon, Raymond Duchamp -Villon and Marcel Duchamp. Juan Gris, the most rationalistic, 
+but at the same time one of the greatest of the cubist painters, used to say : ' One must 
+be inexact, but precise.' This is one of the essential qualities of poetry. It is what gives the 
+effect of poetry to painting and sculpture. It is the common factor—perhaps the only one— 
+which links the very dissimilar work of these markedly different artists. 
+At the same time, however, this maintenance of the 'inexact, but precise' in the art of these 
+three brothers has its roots in a basic similarity of approach. Each in his own way sought 
+to work out a tightly reasoned mode of pictorial or sculptural expression. 
+Each seemed particularly careful to avoid any concession on his part to the emotions. Art 
+for all three was fundamentally intellectual, scientific and only secondarily sensuous. 
+Jacques Villon saw painting as 'a method of prospecting, a manner of expression. With color 
+as bait/ with drawing as the fisherman^s line, painting, he has stated, ' brings up from the 
+unknown, inexhaustible depths, possibilities barely suspected; it leads them step by step to 
+the plane of human consciousness, and there, with subtlety, this tenuous material crystallizes'. 
+This 'step by step' progress with Villon involves the conception of color on the part of the 
+artist 'as a weight in the scale of the emotions' which increases 'when Red, Blue and Yellow are 
+in the required balance as dictated by the chromatic scale'. 'Colors become values which 
+through their interplay... produce a state of receptiveness.' Villon's science of expression 
+
+
+
+goes further to involve an adaptation of Leonardo's theories in his Treatise on Painting on 'the 
+influence of the pyramid': 'This is the art of painting by pyramids, the forms and colors of 
+the observed objects. I say "by pyramids", for there is no object however small which is 
+not larger than the point where these pyramids meet. Therefore, if you take the lines at the 
+extremities of each body and if you continue them to a single point, they will converge into 
+the pyramidal form.' 'By superimposing on the painting this pyramidal form,' Villon adds, 
+'one gives it a density in which the interaction of echoing colors produces depth— a depth 
+creating space.' 
+
+Raymond Duchamp -Villon, the sculptor brother, in a letter to Walter Pach in January 191 3, 
+discussing what would be necessary if a style reflective of the period were to be found for 
+contemporary architecture, explained his viewpoint that we should not try to adapt the forms 
+and lines of even the characteristic objects of our time. This he felt 'would only be a trans- 
+position of these lines and forms to other materials and therefore an error'. We should 
+rather fill our minds tirelessly 'with the relationships of these objects among themselves in 
+order to interpret them in synthetic lines, planes and volumes which shall, in their turn, 
+equilibrate in rhythms analogous to those which surround us\ 
+
+This was Duchamp -Villon's science of expression through which he attempted to achieve 
+his precision of correlation and at the same time avoid exactitude. We have a clear illustration 
+of it in his last major work The Horse. 'At the beginning, the problem,' as Mr. Pach points 
+out, 'had been that of movement— the gallop or trot of the horse.' Innumerable naturalistic 
+studies were made. 'Then came the allusion, more and more evident to the machine and to the 
+analogy of the two forces. . .' This grew from version to version until the realization of the 
+final sculpture which is inexact both as an image of a horse and as an image of a machine, 
+but which, in its fresh organization of precise sculptural relationships stands as an independent 
+composition of forms suggesting both horse and machine. 
+
+Finally in Marcel Duchamp's La Mariee mise a nu par ses celibataires, meme we find no pretention 
+whatsoever to exactitude, but a strict and demanding precision in every millimeter of sur- 
+face to the point of satirizing scientific precision through the nonsensical physical science 
+
+
+
+of the Large Glass — its 'Pataphysique', as Duchamp himself has said, employing Alfred Jarry's 
+word. But this base of nonsensical physical science in the organization of the iconography 
+serves a purpose in Duchamp's glass similar to that which the anecdotal order provides in 
+Lewis Carroll's Alice and Through the Looking Glass. Possibly there is even an added relationship 
+in the chess player habit of mind in both Carroll and Duchamp. 
+
+This is the ground on which the work of the three brothers Villon, Duchamp -Villon and 
+Marcel Duchamp have their closest link, this consciousness of the importance for art to be 
+' inexact, but precise ' and their realization of this in their work. 
+
+But beyond this all three have made their individual contributions to the esthetic shape of 
+our age. 
+
+Jacques Villon, the oldest, is in a sense the youngest of the three— both in the spirit of his 
+latest work and in his productivity. Although Villon was associated with the cubists as early 
+as 191 1 his work has always kept a distinctive, personal character. His fugal concept of color 
+composition gives his canvases a much more lyric tone than that of his colleagues of the great 
+years of the movement. They are more luminous, less architectural in organization. And possibly 
+his emphasis on light effects is what gives his paintings today the air of youthfulness, of con- 
+temporaneity in our period. 
+
+Another feature of Villon's cubism notably personal to him is the sensibility of his portraits. It 
+is doubtful if any cubist portrait can compare in sentimental evocation or humanity of sug- 
+gestion with Villon's Portrait of his Father, 1924, to name only one of a long series of eloquent 
+portrayals. 
+
+In The Horse Duchamp -Villon has left one of the master works of European sculpture of the 
+first two decades of the twentieth century. It achieves the metaphor in sculpture in a way that 
+few artists have excelled. It pointed to a new field of expression that its creator was amply fitted 
+to explore had he had the opportunity to do so. The small sketch Portrait of Professor Gosset, 
+barely more than an artist's note, done just before his death hinted at the direction in which 
+the power, drama and sense of form which he embodied in his 1911 Baudelaire might have 
+been carried to new heights. But The Horse in itself remains a life work and a period's achievement. 
+
+
+
+Of the three brothers Marcel Duchamp perhaps left the deepest impress on his time. In 
+fact few painters in any period have contributed as widely to the intellectual texture of their 
+time as Duchamp has. As a painter his achievement was concluded by 191 5, but as an artist 
+in a much wider sense his work goes on today. His earliest official showings took place in 
+the cubist years before the first World War; his Young Man in a Train, Nude descending a Stair- 
+case, King and Queen surrounded by Swift Nudes, were painted in the years Futurism was still not 
+too far in the past to have its interest; his 'ready-mades' were disclosed to a mystified world 
+when Dada was striving energetically for less profoundly disturbing effects. Between the 
+demise of Dada and the flowering of surrealism Duchamp was looked to as a leader, even as he 
+was when it was necessary to find someone to inspire and direct the installation of the Sur- 
+realist exhibition in Paris in 1938 and in New York in 1942. 
+
+Painting is only one aspect of art in Duchamp's view. 'I have always had a horror of being 
+a "professional" painter,' he will explain. 'The minute you become that you are lost.' This is 
+a temptation to which Duchamp has never succumbed. For all that he remains in one sense 
+a painter's painter— or more correctly an artist's artist. He feels that since the time of Im- 
+pressionism the visual creations of painters for the greater part have had no deeper commu- 
+nication than to the retina of the observer. Impressionism, fauvism, cubism, abstract art have 
+all been 'retinal' painting. 'Their preoccupations have all been physical, the reactions of colors 
+and the like, always relegating to second place intellectual responses.' 
+
+What Duchamp felt was needed in the twentieth century was new hospitality to the mind on 
+the part of the artist and the public. Painting was more than a mere physical experience. The 
+sensuous was part but not the first part nor the greater part of a work of art or of its 
+appeal. 
+
+The recall of the intelligence to painting and sculpture— a fuller and richer art was Marcel 
+Duchamp's ideal. He felt that 'taste' had too long ruled tyrannously without right. 'The great 
+aim of my life,' he has said, 'has been a reaction against taste'. 
+
+The great merit of surrealism in Duchamp's opinion is that it attempted to go beyond a simple 
+satisfaction of the eye— 'the halt at the retina'. But he adds, T did not want to be understood 
+
+
+
+as saying that it is necessary to recall the anecdote in painting. Men such as Seurat and Mon- 
+drian were not mere "retinals", even though to a superficial view they may have had the air 
+of being so.' 
+
+— Nor was Duchamp himself in his paintings before he turned to 'ready-mades' and his Large 
+Glass; nor Duchamp -Villon in his Baudelaire or The Horse; nor Jacques Villon in any of 
+his fullest work— his best portraits, /&lt;?//, or his abstractions of the early twenties. All three when 
+they succeeded in being 'inexact, but precise', penetrate deep beyond the retina to that area 
+of judgment which alone can enjoy and appreciate the tension between the inexact and the 
+precise in a work of art. 
+
+James Jo hnso n Sweeney 
+
+
+
+
+Jacques Villon «Soldicrs on the March » 191 3 Oil 25 5 / fi X3 6 V4" 
+
+
+
+Galcric Louis Carre, Paris 
+
+
+
+
+Jacques Villon «Game» T919 Oil 36 1 / 4 X28 3 / 4 
+
+
+
+Galcric Louis Carre, Pari 
+
+
+
+
+Jacques Villon «GalIop» 1921 Oil I7 3 /4X 3i 7 /s 
+
+
+
+Galerie Louis Carre, Paris 
+
+
+
+
+Jacques Villon « Color perspective)) 1921 Oil 2I 3 / 8 X28 5 / 8 " Collection The Solomon R.Guggenheim Museum, New York. Gift, Kathcrinc S. Drcicr Estate 
+
+
+
+
+Jacques Villon «Withdra\val» 1921 Oil 28 3 / 4 X36 1 / 4 " 
+
+
+
+Galcrie Louis Carre, Paris 
+
+
+
+
+- 
+
+Jacques Villon ((Portrait of Artist's Father* 1924 Oil zi'/oXici 
+
+
+
+Collection The Solomon R. Guggenheim Museum, New York 
+
+
+
+
+
+Jacques Villon « Space » 1932 Oil 45 5 / 8 X35' 
+
+
+
+GaJcrie Louis Carr£, Paris 
+
+
+
+
+Jacques Villon «Blindman's Buff» 1942 Oil 3i 7 /8X25 5 /s" 
+
+
+
+Collection Mr. and Mrs. c harks X.ulok. MiKv.iukc 
+
+
+
+
+
+
+
+
+Jacques Villon « Self Portrait » 1942 Oil 36 1 / 1 X25 5 / 8 
+
+
+
+Collection Mr. and Mrs. Francis Stccgmullcr, New York 
+
+
+
+Silent journey 
+
+
+
+For Villon, Cubism meant the conquest of a purity impossible to attain without that interior 
+struggle which both the Impressionists and the Fauves were unwilling to make. He sponta- 
+neously made the most effective criticism of their weaknesses. The world with its first day 
+freshness which they all tried to recreate was not made of soft vapours and effervescent patches. 
+Throughout this whole period Villon avoided needless temptations and closed himself up in 
+a meditation, the spirit of which was already determined by his austere palette, where grays 
+predominated. 
+
+After the war in which he served in a camouflage unit— the destiny of painters— Villon came 
+back to a rather lonely life. Engraving assured his financial independence and he continued 
+his researches which tended to increase the spiritual intensity of the painting. The ten years 
+from 1923 to 1933 were devoted to probing deeply into these problems; his concern to de- 
+fend the inherent quality of the work led him to join those artists whose rule is to avoid any 
+anecdotal element, knowing that 
+
+« Le sens trop precis rature 
+Ta vague litter at ure ». 
+
+But the moment when Villon yielded to this extent to the charms of abstraction was also the 
+moment when he surrendered to color and cultivated a sumptuousness which until that 
+moment he had disdained. 
+
+
+
+He studied the chromatic circle and classified the effective shades into a hierarchy which later 
+was to govern his reactions as a painter. Few careers show so surely that the real problem 
+for the painter is to know how to adapt himself to his discoveries. 
+
+In his last period, after 1935, Villon, still withdrawn from the hubbub of artistic life, but 
+with a complete mastery of his expression transposed in it new experiences, the most precious 
+of which was a prolonged contact in 1940 with the countryside of the southwest. According 
+to his way of putting it, 'he touched the earth once again'. The harvests, the vintage, the 
+complete georgic cycle which revolves round bread and wine— just as Villon's art revolves 
+round an interest in primary structures and simple colors— now add the final touch of their 
+generosity to the painter's felicitous conquests. 
+
+A career that is the frank and discreet career of a master of bygone days ; who was it who 
+said of Villon, 'He is another Corot' ? This is profoundly illuminating when one compares the 
+lucid statements of Villon with what Poussin, another Norman sure of himself, wrote in a 
+letter. 'My natural disposition forces me to seek and cherish orderly things, avoiding con- 
+fusion which is as contrary to my nature as is light to obscure gloom.' 
+
+Patterns of design 
+
+The themes of the painter are those of us all : the only difference is that of style and intention. 
+An interior may be a palpitation of lights around a piano, on whose keyboard lies an open 
+
+
+
+book: nothing subsists in the elements indispensable for evoking the world of the musician, 
+and to inscribe it within the painting, a rhythm restored by another rhythm. The essential 
+operation, the painter's very own act, is this feeling of loftiness, this sudden capture of dis- 
+tance in which the knowledge of the artist supports his will unequivocally. A black inkpad 
+on a mahogany desk, an armchair before the hearth... the scene is for him only a certain 
+projected force which will animate the painting with a presence as elusive as one may wish, 
+but indestructible. 
+
+Chance gives the furnishings of a room an air of cohesion which reminds one of the char- 
+acteristics of the human face and the features of a landscape : it is this which holds the 
+painter and which he sublimates with complete liberty. 
+
+But Villon is less attentive to moments of repose and contemplation than to scenes of move- 
+ment. Poussin, Seurat worked with a similar predilection at organizing difficult scenes, such 
+as did not lend themselves naturally to unity : bacchanales or Sunday crowds. The circus, 
+with its small, multi-colored, bouncing universe, has never ceased to interest him. The ease 
+of the acrobat and of the bare back rider implies a long practice in dislocation and recovery, 
+in which the artist recognizes his own preoccupations. With an almost fraternal tenderness 
+he adorns them with his purest colors and encloses them within his most eloquent lines, as 
+though to represent— what in reality he does represent — the workings of the world. 
+Finally, the human face and landscape have become his major themes. Before his own image 
+
+
+
+in a mirror, caught in the imperious network of reflections, true and false at the same time, 
+man eagerly questions himself. And the calm undertaking of Villon, the certainty of his anal- 
+yses, the luminosity of the precious diamond on which he works, is the answer to the grav- 
+ity of the question. In the portrait of his father, in his self-portraits, he has brought the 
+most astonishing visions of man to a century which fears them, and which he dominates 
+through this special privilege. But, like Poussin and Seurat, he has finally allowed himself to 
+be convinced of the superiority of the landscape to the still life and even the portrait : trees, 
+houses, mountains, the sky, the earth enact a drama or a fairy tale and are characters in it. 
+From it is released a dynamism which has only to be expressed. In the life of the country- 
+side everything is related, is a challenge, an exhilaration; the composition is an incessant 
+movement 'like a battle'. 
+
+Villon gathers and restores the rhythm of this violence and succession in a way that is almost 
+epic in these series inspired by 'treading the corn' in the Tarn-et-Garonne and by 'threshing' 
+in Normandy. The accent is so liturgical, the light is so pure and intense, that we find the 
+true symbol of elementary life, as if Villon had wished to restore the primitive significance 
+which colors had in the Middle Ages and which they still have in song— red the fire, blue 
+the sky, green the water, ashen the earth; the others only the result of their mixing. 
+This is triumphal art, this festive painting, proceeds from an admirably pure and deliberate 
+draughtsmanship; network of haunting aud regular lines weaves the delicately graded shadows, 
+
+
+
+but between the meshes leaves place for light. It spreads out swift and undulating fasces 
+which could unfold the universe; a piece of bread, the contour of a cheek are simply its acci- 
+dents. The lines take their places, run by, bind all together untiringly, as in the invisible 
+studio where the scene is created. The artist, circumspect, fearful, authoritative, keeps the law 
+and spreads the woof. The result is a song of the Fates, a continual gossip on life, but one 
+which follows a simple and austere rule which makes it loyally bow to the eternal. It is not 
+surprising that one of these drawings portrays a skull, calm and mineral in the tradition of 
+the 'memento mori' of the classics, a spiritual symbol which, like the power of destiny, puts 
+everything in its proper place by a pure act of attention. 
+
+It has been justly said of Seurat that the systematic spirit so evident in the geometry of his 
+forms, the regular minutiae of his brush stroke, was not in his case at the service of his pride. 
+Lacking the basic and, so to speak, protective assertion of the harmonic rule that he set him- 
+self, the artist would not succeed in making nature give way : for nature surrenders to science 
+what does not speak to the sensations. 'I was the cubist impressionist,' says Villon, 'and I 
+believe that I remain that. Perhaps less cubist, less impressionist, more I do not know what 
+and what I am still seeking.' But in his work we have the answer. It is that he has found it 
+in the celebration of the royal wedding of abstraction and sensibility that perpetuates the 
+
+legitimate dynasty of French Art. 
+
+Rene -Jean 
+
+From Jacques Villon on l' Art G/orieitx. Paris, Louis Carre, 1948 
+
+
+
+Observations by Jacques Villon 
+
+
+
+What is painting? 
+
+Painting is a way of prospecting, a form of expression. With color as bait, with drawing as 
+the fish line it pulls up from the inexhaustible gulf of the unknown, possibilities only sur- 
+mised and brings them by successive efforts to the plane of human consciousness. There with 
+subtlety it crystallizes them from the unsubstantial. It expresses the perfume, the spirit, the 
+soul of things of which science only catalogues and explains the outward appearance. 
+
+
+
+How does painting express itself? 
+
+I have just said, by color within an exacting pictorial structure. 
+
+Everyone is familiar with the statement of Maurice Denis in which he stressed the fact that 
+
+a painting before being a 'war horse' or a 'nude woman' is essentially a flat surface covered 
+
+with colors assembled in a certain order. 
+
+The Impressionist painters consulted the scientists and little by little pure color came into 
+
+its own and from the purely decorative realm it entered by the front door into -A.rt. 
+
+It was a revelation, for color unconcerned with natural tones seeks to express itself by its 
+
+own means; to express sentiments, no longer sensations. 
+
+Color is a weight of the scale that weighs the emotions; and this weight increases as Red, 
+
+Blue, Yellow take their places out of a need for equilibrium which the color cycle dictates 
+
+to them. 
+
+
+
+Colors become values which through their interplay from the moment of the first chord pro- 
+duce a state ol receptiveness. That state allows the spirit to be carried along by a constrained 
+elan and to succumb to the spell of a work while espousing the rhythm which has controlled 
+its elaboration. Rhythm is the vital design showing through all things. 
+During the construction of the picture and in combination with the first outlines, an influence 
+intervenes which, after da Vinci, might be called 'the influence of the Pyramid'. 
+'This is the art of painting, by means of pyramids, forms and colors of observed objects. I say 
+"by pyramids", for there is no object however small, which is not larger than the point where 
+these pyramids meet. Therefore, if you take the lines at the extremities of each body, and if 
+you continue them up to a single point, they will have converged into the pyramidal form.' 
+By superimposing on the painting this pyramidal vision, one gives it a density in which the 
+interaction of echoing colors play about in depth— a depth which creates space. 
+You may say : But does not this wealth of color lead to mere fugues ? That can be argued ; 
+for instance, abstract art is a case in point. It gives the artist, if not the spectator, the pleasure 
+of a commander-in-chief maneuvering his battalions of colors. 
+
+It is also logical to use this wealth of color to magnify all possible themes borrowed from 
+life. For it is life that supplies the hand which notes them down, the eye which classifies 
+these arabesques which retain only the essentials of the themes. It is life which is the true 
+backbone— the keystone of the picture which in its turn becomes a being in its own right— a 
+thing in its own right, no longer an open window. 
+
+All these reflections are, of course, only reflections ; the main thing, for creating masterpieces 
+is to have genius; one should, however, not disdain these notions; they prevent taste from 
+becoming the sole master. 
+
+To sum up, for me, the picture is a creation in which the subject— the pretext furnished by 
+a perceived rhythm, expressive of our unconscious life brought to the level of consciousness- 
+is translated into areas of color, into a hierarchy of colored planes ; the whole is bound to- 
+gether by an arabesque, closely incorporated into the basic division of the canvas where all 
+elements are brought into balance. 
+
+From Jacques Villon. Editions de Beaune, Paris, 1950 
+
+
+
+r w 
+
+
+
+
+,.■ .&lt;■* ■■ t . ■••■.■''.■ 
+
+
+
+, flt'ffom 
+
+
+
+Jacques Villon « Landscape with Black Cedar » 1946 Oil i}Xi6Vs" 
+
+
+
+Collection Mr. and Mrs. William D.Vogel, Mihvaukc. 
+
+
+
+
+Jacques Villon « Cherry Tree in Bloom » 1943 Oil 28 :l / 4 X 23 6 /s" Collection Mr. and Mrs. Ira Huipt, New York 
+
+
+
+
+Jacques Villon «Garden in Party Dress» 1948 Oil 2i 1 / 4 X28 3 / 4 " 
+
+
+
+Galerie Louis Cai 
+
+
+
+
+Jacques Villon « The Little Machine Shop» 1946 Oil 31'/., • 45" s " 
+
+
+
+The Phillips Collection, Washington, D.C. 
+
+
+
+
+
+Jacques Villon « Large Mowing-machine with Horses » 1950 Oil 38V4X57 1 /! 
+
+
+
+Collection Richard Zeisler, New York 
+
+
+
+
+Jacques Villon «Portrait of the Artist (Lc matois) » 1949 Oil 39 3 / 8 X 28 3 / 4 
+
+
+
+:. Institute, Pittsburgh 
+
+
+
+
+Jacques Villon «Bircl Cage» 1955 Oil i8 l / 8 Xzi B /a" 
+
+
+
+Galerie Louis Carre, Pari 
+
+
+
+
+Jacques Villon «Bouvard and Pecuchet» 195-5 Oil 2iV 4 X28 3 / 4 " 
+
+
+
+Galcric Louis Carre, Paris 
+
+
+
+
+Jacques Villon « Along the Park» 1955 Oil 25 s 8 X 3i 7 /s" 
+
+
+
+Galcrie Louis Carre, Pari 
+
+
+
+Biographical Notes 
+
+
+
+Jacques Villon 
+
+
+
+1875 31 July, born at Damville (Eure), Gaston Duchamp studied at 
+
+the lycee in Rouen, began studies of law 
+1894 To Paris, in the Atelier Cormon 
+1 894-1910 Drawings for weekly newspapers, V Assiette au Beurre, 
+
+Le Courrier Francais, etc.- Lived in Montmartre from 1895-1906, 
+
+made engravings in black and in color 
+
+1904 Associate member of Salon d'Automne, member of the Com- 
+mittee until 191 1 
+
+1905 Rouen, first exhibition (with Raymond Duchamp-Villon), Galerie 
+Legrip 
+
+191 1 Adherence to cubism 
+
+1 91 2 Co-founder of the Section d'Or 
+
+Exhibited in first Section d'Or.Galerie La Boetie, Paris 
+
+191 3 Participated in New York Armory show: 
+
+Trees in Bloom; Little Girl at Piano; Study for Young Woman; Study 
+for Puteaux, No. 1 ; Study for Puteaux, No. 2; Study for Puteaux, 
+No. ); Study for Puteaux, No. 4; Study for Little Girl at Piano; 
+Young Woman 
+
+1 914 2 August, mobilized, sent to the front in October 
+19 16 Exhibition in Christiania (Oslo), Norway 
+
+1919 Demobilization 
+
+1919-1922 First abstract period 
+
+1922 One-man show, Societe Anonyme, New York 
+
+Exhibition with Louis Latapie, Galerie Povolozky, Paris 
+
+1921-1930 Engravings in color after the work of modern masters 
+
+1925 Last exhibition of Section d'Or, Galerie Vavin-Raspail, Paris 
+
+1928 Exhibition, Brummer Gallery, New York 
+
+Exhibition of engravings in color after modern masters, Galerie 
+Bcrnheim-Jeune, Paris 
+
+1930 Abandons engraving reproductions to devote himself exclusively 
+to painting 
+Exhibition, Brummer Gallery, New York 
+
+1933 Beginning of present period - return to direct study, color pre- 
+dominating. Exhibition, Arts Club of Chicago 
+
+
+
+1934 Exhibition, Marie Harriman Gallery, New York 
+
+1935 Exhibition, Petit Palais, Paris 
+
+1936 Trip to America 
+
+1937 International exhibition in Paris. Two diplomas of honor. One 
+gold medal (painting and engraving) 
+
+Named chevalier de la Legion d'honneur 
+1939 First Salon des Realites Nouvelles, Galerie Charpentier, Paris 
+1942 Exhibition with the sculpture of Duchamp-Villon, Galerie de 
+
+France, Paris 
+
+1944 Exhibition, Galerie Louis Carre, Paris 
+
+1945 Exhibition of Duchamp, Duchamp-Villon, Villon, Yale Uni- 
+versity Art Gallery 
+
+1948 Exhibition, Royal Museum of Fine Arts, Copenhagen 
+Exhibition, Galerie Louis Carre, Paris 
+Participation in Venice Biennale 
+
+1949 Exhibition, Louis Carre Gallery, New York 
+Exhibition, Institute of Contemporary Art, Boston 
+Exhibition, Arensberg Collection, Art Institute, Chicago 
+Grand Prix, for engraving, exhibition, Lugano, Switzerland 
+
+1950 Exhibition, Phillips Gallery, Washington, D.C. 
+Exhibition, Delaware Art Center, Wilmington 
+Venice Biennale, Salle Jacques Villon 
+
+First prize, International Exhibition of Pittsburgh, 
+Carnegie Institute 
+
+195 1 Exhibition, Musee National d'Art Moderne, Paris 
+
+1952 Exhibition, Arts Club of Chicago 
+
+1953 Exhibition, Rose Fried Gallery, New York 
+
+1955 Exhibition, Musee Toulouse-Lautrec, Albi 
+
+Exhibition, Lucien Goldschmidt, New York, publication Virgil's 
+Bucolics, ill. by Villon, 25 full color lithographs 
+Exhibition, Galerie Louis Carre, Paris 
+Exhibition, Grace Borgenicht Gallery, New York 
+
+1956 Venice Biennale, first prize for painting 
+Exhibition, Drawings, Galerie Louis Carre, Paris 
+
+
+
+Raymond Duchamp-Villon 
+
+
+
+
+Raymond Duchamp-Villon «Large Horse» 1914 Bronze 39V high 
+
+
+
+Galerie Louis CarrS, Pari 
+
+
+
+Raymond Duchamp-Villon was born at Damville (Eure) in 1876. His maternal grand- 
+father, E. Nicolle, had devoted his life to engraving 'the hundred bell-towers' of the 
+old Norman city of Rouen, and it was doubtless from this grandfather that Duchamp- 
+Villon drew inspiration for his career. In any case, having finished his medical studies 
+and having reached the age of twenty-six, hefelt himself irresistibly attracted toward 
+sculpture, an art in which he had indeed had a passionate interestfora long time. His 
+elder brother, Jacques Villon, had already abandoned the practice of law in order 
+to devote himself to painting and, in Marcel Duchamp, the youngest of the three 
+brothers, the same vocation had declared itself. The points of contact among the 
+three young men served only to accentuate the independence of their characters, 
+and if they saw the evolution of their period too clearly for them to take opposing 
+courses, their differences of concept still resulted inclear-cut distinctionsamong 
+them, as every observer can see. A respectful sympathy did reign among the three, 
+but not to the point of preventing Duchamp- Villon's remark that 'We are the severest 
+critics of one another'. 
+
+During the first part of his life as an artist, he had shared the admiration in which 
+Rodin was held by all the younger generation, but he soon understood the need 
+to turn away from the line laid down by the sculptor of the Impressionist School. 
+And so, between 1904 and 1906 we see Duchamp-Villon wrestling with the problem 
+of directing his work to a more solid base than sensibility to the luminous surface. 
+He suppresses the delicacies of modeling for the sake of the great planes which 
+determine structure; he studies the relationship of figures— one with another, and 
+with the forms that surround them. For us, who seethe succession of his researches, 
+the man is already hi m self in these first efforts, just as the young Corot and the young 
+Cezanne foretell the work they will do later in life. 
+
+From 1907 to 1910 date sculptures like the Old Peasant and the Girl Seated in 
+
+which, even while he seeks outthe essential directions of the planes, the artist uses 
+
+
+
+rounded surfaces. In 1910, thanks to the efforts of the young Cubist group, he comes 
+to understand how much he can accentuate the form and prevent any ambiguity as to 
+its relationship with nature by respecting the clean and cutting edges that one sees 
+in the Torso of a Man and, even more, in the Dancers of the following year (1911). 
+
+Still, with his natural faculty of remaining faithful to himself, it is at the same time that 
+he executes the bust of Baudelaire, where the qualities of both types of work com- 
+plete each other harmoniously. Not until two years later, in the series of bas-reliefs: 
+the Cat, the Parrot and above all in that magnificent panel of the Lovers does he 
+let himself go on to the use of separated planes which he recomposes according to 
+the needs of the space in which they are to exist and according to a conception still 
+further liberated from the imitation of nature. In this we see an effect of the work 
+with architecture that Duchamp-Villon had undertaken the preceding year (1912). 
+
+One more step leads us to the Seated Woman of 1914, and the evolution touches 
+its culminating point in the Horse, on which the sculptor was engaged when the 
+war was declared, and which was to remain the subject of his meditations through- 
+out his time in the army. Numerous drawings and studies of the subject were to 
+modify his original conception, and they permitted him, during a furlough, to arrive 
+at the execution of the definitive model. It is the last complete work of his career, for 
+we must consider the Cock— for all its conciseness— as a return to ideas expressed 
+three years previously. As to the small heads and portraits executed in the year 
+before his death, they were regarded by him as mere studies. 
+
+Sculpture was what interested Duchamp-Villon almost exclusively. Yet his activity 
+extended to results too important to let them pass unmentioned, even in a brief 
+examination. He had made serious studies of medicine, and when the war broke 
+out he was attached as aide-major to the 11th Regiment of Cuirassiers. After 
+having assured the service of the hospital of Saint-Germain-en-Laye, he was sent 
+to the front, and it was during his time in the trenches that he contracted the fever 
+which, after two years of suffering, brought on his death in 1918, only a few days 
+before the armistice. 
+
+'In the notes of his that we have found,' wrote Jacques Villon, 'some are related to 
+the conception of a Center of Surgical Instruction. Our poor friend manifested, 
+during as before the war, a tremendously active brain.' One seesthe proof of this 
+observation in the published extracts from his letters, in that so witty and so original 
+piece, Les Semaphores, which he wrote in collaboration with Jean Keller, and 
+above all in his study of the Variations in Consciousness. But the most remarkable 
+thing that Duchamp-Villon conceived, aside from his sculpture, was unquestion- 
+ably his work in architecture. 
+
+It is necessary to consider this not as an isolated and personal thing, but as one 
+closely bound up with the tendencies of his generation. The moment of impression- 
+istic analysis having passed, the school which succeeded it, guided merely by its 
+sensibility, had contributed all that it was capable of adding to our ideas, and so 
+
+
+
+the men who, in 1912, were preoccupied with arriving at realizations, were proceed- 
+ing to a new synthesis. From every side there came demands for a modern archi- 
+tecture, one that would serve as a frame and as scaffolding for the various arts, and 
+thus permit their cohesion in a logical group. Duchamp-Villon, whose letter of 
+January 16, 1913, will give a clear-cut explanation of his ideas on this subject, was 
+chosen as the man to create, at the Autumn Salon of 1912, an architectural setting 
+which should bring together painters, sculptors, and the artists who worked in 
+glass and with furniture. This choice was due to the character of his talent, in the 
+first place, but we have also to see in it a testimony to the esteem in which he was 
+held by his colleagues. The fact was that Duchamp-Villon was known as a man 
+whose spirit was one of irreproachable probity. While holding to well-defined and 
+clear opinions as to the tendencies of his period, he had always been hostile to 
+those manifestations of mean and self-seeking politics which too often govern 
+exhibitions. Duchamp-Villon was therefore completely designated to inspire con- 
+fidence in men working in isolation, and to furnish them with the means for creating 
+that collective movement which was becoming felt as an imperious need. 
+
+The architecture which was to concentrate all the scattered efforts had to remain 
+within the limits set by practical possibilities of realization. But the important thing, 
+above all and basically, was to satisfy the needs of a form corresponding to con- 
+temporary conditions of thought and construction. On these points the letter pre- 
+viously cited contains important definitions. The general aspect of this Facade 
+for a Residence, so appropriate for the modern streets of French and indeed 
+foreign cities, was devoid of any element which might shock a spectator uninitiated 
+in the more interesting ideas which governed the work; on the contrary, many 
+visitors to the Salon were naturally attracted to the series of rooms forming the 
+interior of the building because of this architecture which was so distinctly new — 
+and yet 'legible' and reassuring, through its success in incorporating the Cubistic 
+forms in a practical building. 
+
+None the less, Duchamp-Villon had obtained this effect without the slightest sacri- 
+fice of the ideas which he considered important. On the contrary, new possibilities 
+opened up before him the further he advanced in his work. 'It is almost droll,' he 
+said, 'the pleasure I have in arranging simple square blocks, one with another, 
+until I have found a true relationship of forms and of dimensions.' And then the 
+satisfaction he felt that day when, having noticed a drop of water that had frozen 
+on the outside of his house, he stylized it into the little triangle which decorates 
+the balustrade on the first floor of his Facade for a Residence. Thus each form 
+had its origin in observation of nature or in the movement of thought and, at the 
+same time, in the system of aesthetic organization whose development was being 
+pursued by his generation. How clearly we see in this the direction taken by the 
+great architectures of the past! 
+
+
+
+A second architectural work, one which unfortunately remained merely as a model 
+(a very complete model, however) was prepared forthe building of a college. Several 
+passages in the artist's letters deal with this work, which already offered sure indi- 
+cations of originality and certitude that go far beyond those which distinguished 
+his first effort. Duchamp-Villon's purpose was to attain a style open to all men, and 
+one whose general idea — which will remain his creation — should be utilizable for 
+the most diverse constructions. Before a photograph of one of those formidable 
+groups of New York skyscrapers, he exclaimed that he was seeing the cathedral of 
+the future. When 1 said, on a certain occasion, that Duchamp-Villon lives and will 
+live, even for those who were not acquainted with him, I was thinking of the people 
+who, more and more, are moving on to a conception like his; the people who see 
+the possibilities of realizing that conception, and especially those who see the 
+interest there would be in doing so. The style he bequeathed to us is, as a matter 
+of fact, accessible to other artists, and even while I am engaged in writing these 
+lines, men in different countries, very far one from another, are struggling to incor- 
+porate the living ideas of the sculptor-architect in constructions which must express 
+the existence of a modern world. 
+
+And yet it is to sculpture that we must return in order to appreciate the highest value 
+of Duchamp-Villon's art. He himself returned to it with great satisfaction after having 
+accomplished the architectural work imposed by his comrades of the Salon. His 
+mind had developed in the intervening time, and in the Lovers one observes not 
+alone a conception of sculpture purer and more evolved than what he had had pre- 
+viously, but also depths of tenderness and of strength which he had not attained 
+before reaching this work. With the Seated Woman he again attacks the problem 
+of sculpture in the round, and the work is an essay on the nature of solids such as 
+he had not written at any earlier time. 
+
+And still it was for a more complete and definitive expression that he was preparing 
+himself, when he came to the Horse. The works of Duchamp-Villon are, all of 
+them, the result of long preparations; they are a summing up of varied and repeated 
+studies. But not one of his sculptures appears to have been the object of deeper 
+meditation than the Horse. The number of models marking all the stages traversed 
+by this work indicates the development of his idea, from studies of a predominantly 
+realistic nature, which nearly always were this sculptor's point of departure, down 
+to the drawings announcing the end of the research by showing the almost purely 
+mechanistic form ulain which Duchamp-Villon saw the equivalent, outside of nature, 
+for the movement of the animal. Jacques Villon noted in a letter, 'During the war, 
+having come to a better understanding of the horse (as a doctor attached to a 
+regiment of Cuirassiers, he had become an accomplished horseman) he had not 
+ceased to envisage the work he had begun, and it is by dozens that we find the sketches 
+which modified his first model'. 
+
+
+
+At the beginning, the problem had been that of the movement— the gallop or trot— 
+of the horse. Then came the allusion, more and more evident, to the machine and to 
+the analogy of the two forces as the characteristic of the thought of our time. And 
+while the animal and the machine were merging into a sort of projectile (that was 
+the word chosen by Henri Matisse, when speaking to Duchamp-Villon, a short time 
+after the outbreak of the war), the ensemble was acquiring, more and more, a mo- 
+numental quality— which is to be seen, however, even in the first models. 
+
+At the same time, the surface modelling was disappearing, to leave bare the big 
+planes as they played together in a fashion at once moving and logical. A definitive 
+execution in steel was to have given the final amplitude to this aspect of the piece. 
+From whatever angle one looks at it, the equilibrium keeps up to an equal degree, 
+the profiles fly to their summit with lines as living as flames, or dart back in perspec- 
+tive—as well controlled as the movement of an orchestra; the surfaces continue 
+each another or accentuate each other masterfully, great alternations of light and 
+shade are organized— dramatic and sonorous: Duchamp-Villon had carried through 
+to full success a work for which no parallel had existed before. It was a thing of our 
+period, and one with that hard and healthy beauty which justifies a period. 
+
+And yet the life of this artist was far, very far, from having given everything. In con- 
+trast with men like Masaccio, among the masters of the past, orSeurat.amongthose 
+of our time, Duchamp-Villon is not of those artists who have had intimations of 
+their death and who have concentrated within a few years a development to attain 
+which others require three or four times the same span. With his sober nature, his 
+power of calculating and his need to build on a sound foundation, Duchamp-Villon's 
+way of constructing might be said to be that of the pyramids; if the work he has 
+left is unshakable and impressive, we must recognize, unfortunately, that the pro- 
+duction he counted on to continue it is lacking, and will remain lacking forever- 
+whatever the influence of the sculptor on the later men. His death, then, seems to 
+have nothing in common with a tragedy built up and regulated according to the 
+law of poets, proceeding as they do with logic and with compensating movements; 
+his death incorporates directly with all that is tragic in life, whose logic is to be 
+discerned by no one. 
+
+We are still very near to the man ; and we feel too vividly the bitterness of our I oss 
+to be able to say what would have been the consequences of his evolution if he had 
+lived on. Not that we can have any doubt as to a succession of fine works, for if we 
+can deduce one thing as certain from his production, it is that we could still have 
+expected much from him, and we know well that our conviction on this point is not 
+due either to the great charm of his personality or to our grief over his disappear- 
+ance. It is his whole work that makes us thus sure, and the question is whether the 
+future will be able to reach the depths of the lesson he gave from study of his finished 
+
+
+
+works. Time will be needed, perhaps (we recall Seurat, for example, and his not 
+being appreciated at his true value until many a year after his death) but it is per- 
+missible to hope that the oncoming generations will know how to profit by the ideas 
+defined by Duchamp-Villon. 
+
+And we will not avoid uttering an opinion on his accord with the long line of artists 
+of his country. Their essential quality is to bear within them the feeling for art which 
+the past has transmitted to them and to give it new forms. This is again the prime 
+characteristic of Duchamp-Villon. Place his Torso of a Man beside one of those 
+figures of warriors from the tympanum of Aegina at the Munich gallery. The French 
+sculptor knew them only by reproductions if he knew them at all, but no one will fail 
+to be impressed by the relationship of mind which brings him so close to the Greek 
+sculptor who announces the end of the archaic age. Long before the present time, 
+Barye had made us feel the family likeness between modern French sculpture, and 
+that of the archaic Greeks; Duchamp-Villon worthily continues the lesson of the 
+older man. 
+
+But another school of the past furnishes us even more reasons to believe in the 
+value of the contemporary sculptor. Compare that magnificent head of Baudelaire 
+with the immortal figures on the Portail Royal of Chartres— it is the same art des- 
+cending to us across the centuries, the same science of the planes as that which 
+made up the strength of the Gothic sculptors— and the love which led Duchamp- 
+Villon to honor the great poet of his period caused him to express in this face a 
+sentiment of fateful grandeur in which the masters of the cathedrals might have 
+recognized themselves. Look again at the bas-relief of the Lovers and see whether 
+thelogicofthedesigndoesnot have the quality of inevitability of the cathedral itself. 
+And as to that quality of renewal in the form which belongs to the essence of things 
+for the French artist, the Horse and indeed the entire work of the sculptor's matu- 
+rity are there to prove that he has the right to be considered as an innovator quite 
+as much as he is a conserver. 
+
+He is in his work and will be known through it. It was through the work that many 
+(including the writer of these lines) were drawn to the man himself. Before the sober 
+and often uncommunicative externals of works of art, it is still possible to reach 
+intuitions as to the personal qualities of the individuals who created those works; 
+those who can do so may still cross the abyss separating the artist from even the 
+men nearest to him; for persons of such insight there will also be accessible the 
+kindness, the honesty, the gay humor and the calm fervor that we knew so well in 
+our great friend. 
+
+Walter Pach 
+From « Raymond Duchamp-Villon, sculpteur.» Povolozky, Paris, 1924 
+
+
+
+
+Jacques Villon « Portrait of R. Duchamp -Villon » T91I Oil Ij'^XIO 1 /," Collection Music National d'Art Moclcrnc, Paris 
+
+
+
+Excerpts from a letter to Walter Pach 
+
+
+
+January 16th, 1913 
+
+... I do not believe that an epoch wholly creates its aestheticism. It finds the germ 
+of it in the arts of preceding generations which prepared it quite unconsciously. 
+There remains a considerable work to be accomplished in order that the idea, 
+blindly conceived— but ready to live, be developed and in its turn leave fruitful seed. 
+
+In the special case of architecture, the attempts made in France since the XVIIIth 
+Century have not resulted in style. The buildings have the marks of the different 
+periods of the XlXth without our being able to work out from them a well-defined 
+tendency — as characteristic, for example, as that of furniture in the first half of the 
+same century. That confirms me in my opinion that in an epoch of floating ideas and 
+aspirations there can be no definitive or durable monument. It would seem that the 
+balance between the political mechanism and the free functioning of the machinery 
+of thought should favor the beginning of the XXth Century, and that there should 
+really be a great desire, in our time, to give its true setting to the new social organi- 
+zation. For the need of such a setting makes its elf felt through the confusion amidst 
+which decorative art is struggling. You have well demonstrated that the aesthetics 
+of the XlXth Century was dominated by painting, and that from it alone must come 
+forth the new principles of the other arts— everybody feels this, and Cezanne will 
+be looked on, from this point of view, as the best worker for the renascence in France. 
+
+If we examine the civilizations of Egypt, Greece, Rome and France, we are struck 
+by the unity that governs every manifestation of their spirits from the attitude of the 
+living being to the monument — passing through furniture, costume and articles of 
+common use or of luxury. 
+
+In our day what could be more inconsistent, more of an anachronism, than a dress- 
+suit in a Louis XV boudoir, or an electric tram on the square before the palace of 
+
+
+
+Versailles? If, in certain cases these meetings are inevitable, they should be the 
+exception, and disappear so to speak, in normal surroundings. The dress-suit and 
+the tramway are of our time; we owe them an appropriate frame, and on the 
+conception of it their aspect will have its influence for the relationship is 
+evident between the forms that clothe life and the aesthetic formulas of the same 
+epoch. 
+
+It is, I think, from this fact that we should inspire ourselves in establishing a new 
+architectural setting — not that we should try to adapt the forms and lines of even 
+the characteristic objects of our time, which would only be a transposition of these 
+lines and forms to other materials and therefore an error — but rather that we should 
+tirelessly fill our minds with the relationships of these objects among themselves 
+in order to interpret them in synthetic lines, planes and volumes which shall, in their 
+turn, equilibrate in rhythms analogous to those which surround us. 
+
+We are the victims today of our unbridled activity, and our existence ceaselessly 
+turned toward the morrow is forcedly rapid and, so to speak, cutting. Our movements 
+are jerky, our voluntary gestures without emphasis; the spectacles sought for by our 
+eyes are all of motion, and the words that our minds prefer express most in the 
+least time. From this aspect of our surroundings and many others there works out, 
+for me, a predominance of the straight line over the curved line, a predominance 
+pushed to the point of tyranny. At the same time, as a reaction against our era of 
+business, where money is the sovereign master, it seems to me that simplicity, 
+austerity even, are the indispensable virtues, and that our idea of the beautiful 
+should be clothed in them. An art which establishes itself on these bases is ne- 
+cessarily in absolute contradiction not only with the received ideas of the present, 
+but with those of the past, for this past is also, at many points, the contrary of our 
+present. 
+
+You will now understand better under what influence my searches for an archi- 
+tectural setting were made. It is the influence unconsciously felt by every true artist 
+of the new generation. The power of the machine imposes itself and we scarcely 
+conceive living beings any more without it. We are strangely moved by the rapid 
+brushing by of men and things and we accustom ourselves without knowing it to 
+perceive the forces of the former through the forces they dominate. From that to 
+an opinion of life in which it appears to us simply under its form of higher dynamism 
+there is only a step, which is quickly made. . . 
+
+Raymond Duchamp-Villon 
+
+
+
+
+Raymond Duchamp-Villon «Torso of a Young Man" 1910 Bronze 21'/." high 
+
+
+
+Salerie Louis Carre, Paris 
+
+
+
+
+Raymond Duchamp-Villon «Baudelaire» 1911 Bronze \5*U" high 
+
+
+
+Galerle Louis Carrd. Paris 
+
+
+
+
+Raymond Duchamp-Villon Maggy» 1912 Bronze 287«" high 
+
+
+
+Galerie Louis Carrfe. 
+
+
+
+
+Raymond Duchamp-Villon «Cat» 1913 Concrete 25" diameter 
+
+
+
+Collection The Solomon R. Guggenheim Museum. New York Gift, Katherlne S. Dreier Estate 
+
+
+
+
+Raymond Duchamp-Villon «Lovers» 1913 Bas-relief Lead 267&lt;x39 3 /» 
+
+
+
+6alerie Louis CarrS, Pari 
+
+
+
+
+Raymond Duchamp-Villon « Seated Woman" 1914 Bronze 27'/» ' high Yale University Art Gallery, Collection of the Soclete Anonyme 
+
+
+
+
+Raymond Duchamp-Villon «Horse and Rider» 1914 Bronze 11 1 /*" high 
+
+
+
+Galerie Louis Carr6. Paris 
+
+
+
+
+Raymond Duchamp-Villon u Head of Horse» 1914 Bronze 15 3 /. high The Louise and Waller Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+Biographical Notes 
+
+
+
+Raymond Duchamp -Villon 
+
+
+
+1876 5 November, born Damville (Eure) 
+
+1918 7 October, died military hospital, Cannes 
+
+c. 1898 Studied medicine for three years before turning to sculpture 
+Abandoned medicine to devote himself to sculpture, self- 
+taught 
+
+1901 First exhibition, Societe Nationale des Beaux-Arts, Paris 
+
+1901-1908 In annual exhibitions of Societe Nationale 
+
+Worked first under the influence of Rodin, then Maillol 
+
+First important sculpture, Old Peasant ; second, a large torso 
+
+of female nude 
+
+1905 Associate member of the Salon d'Automne, later member of the 
+Comite 
+Exhibited annually at Salon d'Automne until 1913 
+
+1908 Salon d'Automne: Song (plaster) 
+
+Portrait of a Young Girl (bronze) 
+
+1909 Salon des Independants: Old Peasant (stone bust) 
+
+Portrait of a Child (plaster) 
+Salon d'Automne: Girl seated (bronze) 
+Song (wood) 
+
+1910 Salon des Independants: Portrait of a Man (marble) 
+Salon d'Automne: Pastorale (plaster) 
+
+In adjoining homes at Puteaux, he and Jacques Villon began 
+open-house Sundays 
+
+1911 Baudelaire (bronze) 
+
+Salon d'Automne: Wood Nymph (bronze) 
+
+Baudelaire (plaster bust) 
+Beginning of Cubist influence on his work 
+
+1912 Joined Cubists 
+
+Began studies to result in Horse 
+Exhibited with Section d'Or 
+
+Salon d'Automne: Facade for a Residence, architecture and 
+sculpture 
+
+
+
+1913 Salon d'Automne: Bas-relief (plaster) 
+
+Bust (plaster) 
+
+Sculpture, bas-reliefs, architecture of the 
+
+ensemble Andre Mare 
+Return to more personal expression after communal work 
+Lovers (bas-relief) 
+The Rider (bronze) first version of Horse 
+
+1913 Armory Show, N.Y.: Facade for a Residence (plaster) 
+
+Torso (plaster) 
+Girl of the Woods (plaster) 
+Dancer (plaster) 
+Baudelaire 
+Worked on architectural sculpture for a college in Connecticut 
+
+1914 Horse, final version (bronze) 
+Seated Woman (bronze) 
+Exhibited Prague, Berlin, Ghent 
+
+Joined French Army, doctor to 11th Cuirassiers 
+
+1916 During World War I, contracted blood poisoning 
+
+Did Portrait of Professor Gosset (his doctor) during illness 
+
+1918 Died, Cannes 
+
+Left unfinished manuscript, Variations de la connaissance 
+pendant le travail d'art 
+
+Retrospective Exhibitions: 
+
+1917 Independent Artists, N.Y. 
+
+1919 Salon d'Automne, Paris 
+
+1921 Exhibited henceforth with Societe Anonyme, N.Y. 
+
+1926 Retrospective des Independants, Paris (6 works) 
+
+1929 Brummer Galleries, N.Y. 
+
+1931 Galerie Pierre, Paris 
+
+1942 Galerie de France, Paris (with brothers Jacques Villon and 
+
+Marcel Duchamp) 
+1945 Yale University Art Gallery, New Haven, Conn, (with Jacques 
+
+Villon and Marcel Duchamp) 
+
+
+
+Marcel Duchamp 
+
+
+
+
+M»t**i (/ilk, 
+
+
+
+Jacques Villon « Portrait of Marcel Duchamp» 1 95 1 Oil 57 1 .'.X44'/8 
+
+
+
+Collection Niels Onst:id, New York 
+
+
+
+Lighthouse of the Bride 
+
+
+
+Buildings flung under a grey sky turning to pink, very slowly — it is 
+in a troubled and anguishing style of conquest, where the transitory 
+conflicts with the pompous — all this has just arisen in no time at some 
+extreme point of the globe and there is nothing that can prevent it, 
+besides, from melting for us at a distance into the most conventional 
+scene of modern adventure, gold prospectors or others, as the early 
+years of the movies have helped to fix it: haute ecole, luck, the fire 
+of feminine eyes and lips; though in this instance it is a purely mental 
+adventure, I get easily enough this impression of the greatness and 
+the indigence of 'cubism'. Whoever has once caught himself in the 
+act of believing the doctrinal affirmations from which this move- 
+ment draws authority, of giving it credit for its scientific aspirations, 
+of praising its constructive value, must in fact agree that the sum of 
+research thus designated has been but a plaything for the tidal wave 
+which soon came and put an end to it, not without upsetting from 
+base to summit, far and wide, the artistic and moral landscape . This 
+
+
+
+landscape, unrecognizable today, is still too troubled for anyone to 
+pretend that he can rigorously untangle the deep causes of its 
+torment: one is generally content to explain it by referring to the 
+impossibility of building anything stable on socially undermined 
+foundations. However expedient may be this manner of judging, 
+which happily recalls the artist to a just appreciation of his limitations 
+(the more and more necessary transformation of the world is other 
+than that which can be achieved on canvas), I do not think that it 
+should absolve us from studying the process of formation of the par- 
+ticularly hollow and voracious wave which I have just mentioned. 
+From the strictly historical point of view, it is very important, in 
+order to bring this study to a proper conclusion, to consider attentively 
+the place where the very first characteristic vibrations of the phe- 
+nomenon chose to be recorded, in this instance the general disposition 
+of this or that artist who has proven himself on this occasion to be 
+the most sensitive recording instrument. The unique position of 
+Marcel Duchamp at the spearhead of all ' modern ' movements which 
+have succeeded each other for the last twenty-five years was, until 
+quite recently, such as to make us deplore that the externally most 
+important part of this work, from 1911 to 1918, rather jealously 
+guarded its secret. If the ' tidal wave ', which was later to be so vastly 
+disrupting, could have once begun to swell, one had certainly come 
+to think that Duchamp must, from the start, have known much 
+about its resources, and one suspected him rather of having opened 
+for it some mysterious valve. But one scarcely hoped to be some day 
+more fully enlightened as to the part Duchamp had played. Therefore 
+the publication, in October 1934, of ninety-four documents assembled 
+by him under the title: La Mariee mise a nu par ses celiba- 
+taires, meme, which suddenly overturned before us this wave and 
+afforded us a glimpse of all that is most complex in its enormous 
+machinery, could not fail to pass for a capital event in the eyes of 
+all who attach any importance to the determination of the great 
+intellectual motives of our day. 
+
+In a text that was destined to stress the most unfortunate aesthetic 
+calculation, Edgar Allan Poe, after all, once expressed an admirable 
+decision that has ever since been shared by all artists worthy of 
+that title and still constitutes, though perhaps unconsciously for 
+the majority of them, the most important of all directives. Poe 
+wrote indeed that originality, except in minds of the most unusual 
+vigor, is in no way, as many seem to believe, a matter of instinct 
+and intuition; to find it, one must generally seek it laboriously and, 
+though a positive merit of the highest order, it is achieved rather 
+by the spirit of negation than by the inventive spirit. 
+
+Without prejudging the degree of 'unusual force' which precisely 
+can be the mark of a spirit such as Duchamp's, those who have been 
+
+
+
+introduced to him to any extent will feel no scruples in recognizing 
+that never has a more profound originality appeared more clearly 
+to derive from a being charged with a more determined intention of 
+negation. Does not all the history of poetry and ait for the last 
+hundred years strengthen in us the conviction that we are after all 
+less sensitive to what we are told than to what we are spared, for 
+instance, from repeating? There are various means of repeating, 
+from pure and simple verbal repetition, so inept, like for instance 
+' blue skies ' — which, when I come across it as soon as I open a book 
+of poems, relieves me, with good reason, from the need to become 
+aware of the context — passing through repetition, in the sphere of 
+art, of the subject treated, fallaciously excused by the new manner 
+of treatment, or repetition of the manner, fallaciously excused by 
+the novelty of the subject, to repetition, in the sphere of human 
+existence, of the pursuit of some artistic 'ideal' which requires con- 
+tinuous application, incompatible with any other form of action. 
+Where else, if not in the hatred we feel for this eternal repetition, 
+can we seek the reason for the increasing attraction exercised on 
+us by certain books which are so strangely self-sufficient that we 
+consider their authors have discharged their indebtedness: Les 
+Chimeres, Les Fleurs du Mai, Les Chants de Maldoior, Les 
+Illuminations? Is it not, besides, reassuring and exemplary that, 
+at this price, some of these authors also considered themselves 
+free from debt? Absolute originality, from refusal to refusal, ap- 
+pears to me to lead inevitably to Rimbaud's conclusion: ' I am a thou- 
+sand times the richest, let us be as miserly as the sea.' This refusal, 
+pushed to the extreme, this final negation which is of an ethical 
+order, weighs heavily on all debates arising from a typically modern 
+artistic production. Nothing can prevent the abundance of this pro- 
+duction, in a given artist, from being, until this attitude changes, 
+its very drawback. Originality nowadays is narrowly connected with 
+rareness. And on this point, Duchamp's attitude, the only one that 
+is perfectly uncompromising, whatever human precautions he may 
+surround it with, remains, to the more conscious poets and painters 
+who approach him, a subject of confusion and envy. 
+
+Marcel Duchamp limits to approximately thirty-five the number 
+of his activities in the field of plastic production, and even then he 
+includes among them a series of achievements that an insufficiently 
+sophisticated critical attitude would refuse to consider in one class: 
+I mean, for instance, the act of signing some characterless large 
+decorative panel in a restaurant and, generally speaking, that which 
+constitutes the most obvious (and what might be the most daz- 
+zling) part of his activities of twenty years: the various specula- 
+tions in which he became involved through his preoccupation with 
+those ready-mades (manufactured objects promoted to the dig- 
+
+
+
+nity of objects of art through the choice of the artist) by means of 
+which, from time to time and with complete contempt for all other 
+media, he very proudly expressed himself. But who can truly say 
+how much it may mean, to those who really know, a signature 
+that has been used openly in such a parsimonious manner? An 
+intense and fascinating light is cast by it, no longer only on the 
+narrow object that it generally locates, but on a whole process of 
+intellectual life. This process, a most peculiar one indeed, can 
+achieve its full meaning and become perfectly understandable only 
+once it has been reunited to a series of other processes, all of a causal 
+nature and not one of which we can afford to ignore. And all this 
+means that one's understanding of Duchamp's work and the fact 
+that one foresees its furthest consequences can only be the result of 
+a deep historical understanding of the development of this work. 
+And because of the prodigious speed with which this work de- 
+veloped, the very limited number of Duchamp's public utterances 
+would make it necessary to enumerate them all without omitting 
+any. I am, however, forced here to list only his more characteristic 
+works. 
+
+Duchamp's Coffee-grinder (late 1911) indicates the start of the 
+purely personal development that interests us; compared to the 
+guitars of the cubists, it takes on the appearance of an infernal 
+machine. The years 1911 and 1912 indeed already reveal the full 
+extent of Duchamp's dissidence, a dissidence that affirms itself 
+brilliantly as much in the subject-matter as in the manner of his 
+paintings; and one should note that the major part of his more 
+purely pictorial work falls into these limits of time (Sad young 
+man in a train. Nude descending a staircase. King and 
+queen surrounded by swift nudes, King and queen crossed 
+by swift nudes. Virgin, The passage from the virgin to the 
+bride. Bride). It was as early as the end of 1912 that Duchamp 
+suffered the great intellectual crisis that progressively forced him to 
+abandon this mode of expression which seemed vitiated to him. The 
+practice of drawing and painting appeared to him as a kind of 
+trickery that tended towards the senseless glorification of the 
+hand and of nothing else. The hand is the great culprit, so how can 
+one consent to be the slave of one's own hand? It is inaccept- 
+able that drawing and painting should today still stand 
+where writing stood before Gutenberg came. To delight 
+in color, which is all based on enjoyment of the sense of smell, 
+is as wretched as to delight in line, which is based on enjoy- 
+ment of the hand's sense. The only solution, under such conditions, 
+is to unlearn painting and drawing. And Duchamp has never 
+abandoned this purpose since that date; this consideration ought, 
+I believe, to be enough to induce one to approach with a very special 
+
+
+
+interest the gigantic purpose to which, once such a negation had 
+been formulated, he nevertheless devoted his strength for over ten 
+years: it is into the details of this purpose that the publication of 
+these documents initiated us, a purpose unequalled in contempo- 
+rary history and which was destined to be achieved in the huge 
+glass (an object painted on transparent glass) entitled La Mariee 
+mise a nu par ses celibatahes, meme and left unfinished 
+in New York. In this work it is impossible not to see at least the 
+trophy of a fabulous hunt through virgin territory, at the frontiers 
+of eroticism, of philosophical speculation, of the spirit of sporting 
+competition, of the most recent data of science, of lyricism and of 
+humor. From 1913 to 1923, the year when Duchamp finally 
+abandoned this work, all the paintings, whether on canvas or on 
+glass, that would have to be included in a catalogue of his works are 
+but research and fragmentary attempts to achieve the various parts 
+of La Mariee mise a nu. Such indeed is the case of the Choco- 
+late-grinder, of the Glissiere or Slide, of the Neuf moules 
+malic, all of 1913, as well as of the 1914 Chocolate-grinder and 
+the glass To be watched closely with one eye ior almost an 
+hour of 1918, which latter is a variation on the Oculist witnesses 
+that likewise are part of the general description. At most, one might 
+class as a partial exception to this rule the composition entitled 
+Tu m', where there appear, on the right, the three standard stops 
+that are included here in the composition with two ready-mades, 
+on the one hand (an enamelled hand and a ceiling-brush), and on 
+the other hand with the shadows cast by three other ready-mades 
+brought close together (a bicycle wheel, a corkscrew and a coat- 
+hanger). 
+
+A falling back on these ready-mades, after 1914, began to sup- 
+plant, for Duchamp, all other forms of self-expression. It will be 
+of great interest, some day, to explain the full meaning of all these 
+projects, each so rigorously unexpected, in this respect, and to try 
+to unravel the law whereby they progress. I can only recall now the 
+Pharmacy of 1914, conceived in Rouen when Duchamp saw a 
+snowscape (he added to a water-color, of the 'winter calendar' 
+type, two tiny characters, one red and the other green, walking 
+towards each other in the distance); also the ceiling of Duchamp's 
+studio in 1915, bristling with objects such as coat-hangers, combs, 
+weathercocks, all accompanied by some discordant inscription that 
+served as a title or a caption (a snow-shovel was titled, in English, 
+In advance oi the broken arm); Duchamp's birthday present 
+to his sister, which consisted in suspending by its four corners, 
+beneath her balcony, an open geometry-book destined to become the 
+plaything of the seasons; the rebus composed of a nursemaid and a 
+lion's cage (Nous nous cajolions); the latrine exhibited in 1917 
+
+
+
+at the New York Independents Show under the title Fountain, 
+and which Duchamp was forced to withdraw after the opening, as a 
+result of which he resigned from the Association; his adding, in 
+1919, a moustache to the Gioconda (LHOOQ); his 1921 window 
+entitled Fresh Widow which was a pun on the sound's ambiguous 
+similarity with French Window (this consisted of a small win- 
+dow, manufactured by a carpenter after Duchamp's instructions, 
+whose glass panes are covered with leather so that they become 
+leather panes that must be polished) ; his 1922 window, a replica of 
+the earlier one, but this time with a wooden base where bricks are 
+drawn and with glass panes streaked with white like those of new- 
+ly-built houses (La bagarre d'Austerlitz); his little 1923 bird- 
+cage filled with pieces of white marble cut to look like cubes of 
+sugar and through whose top there emerged a thermometer (Why 
+not sneeze?); his design for a perfume bottle, Belle haleine — 
+Eau de voilette; his 1925 bond on the Monte Carlo roulette 
+(Moustiques domestiques demi-stock) ; finally Duchamp's 
+door, described for the first time in the summer 1933 issue of 
+Orbes as follows: 'In the apartment entirely constructed by Du- 
+champ's hands, there stands, in the studio, a door of natural wood 
+that leads into the room. When one opens this door to enter the 
+room, it then closes the entrance to the bathroom, and when one 
+opens it to enter the bathroom, it closes the entrance to the studio 
+and is painted with white enamel like the interior of the bath- 
+room. ('A door must be either open or closed' had always see- 
+med to be an inescapable truth ; but Duchamp had managed to con- 
+struct a door that was at the same time both open and closed.) One 
+should also list contemporary with this series of activities that do 
+not back continuity, on the one hand some optical research intended 
+to be particularly applicable to movies, to which category belongs 
+his famous cover design for an issue of Minotaure, as well as two 
+different versions of a moving sphere on which a spiral is painted 
+(the first version belongs to 1921 and the second, Rrose Selavy 
+et moi nous estimons les ecchymoses des Esquimaux aux 
+mots exquis, belongs to 1925-26), and, on the other hand, some 
+verbal research in which he was more actively and particularly en- 
+gaged around 1920 (some puns by Marcel Duchamp were published 
+in the fifth issue of the new series of Litterature, October 1922 
+as well as on the front inside cover of Pierre de Massot's The 
+wonderful book, in 1924). 
+
+To this day, no cataloguing of this sort has been attempted; I there- 
+fore feel that my own may suffice, temporarily at least (until some- 
+body chooses, as is proper, Duchamp's ready-mades as the sub- 
+ject of a thesis, and even this would not exhaust the topic). But we 
+still have to consider rather closely, likewise for the first time, 
+
+
+
+Marcel Duchamp's monumental work beside which all his other 
+works seem to gravitate almost like satellites, I mean La Mariee 
+mise a nu pat ses celibataires, meme. The collection of docu- 
+ments that Duchamp published some years after abandoning this 
+work in an unfinished state casts some appreciable light on its 
+genesis, though this light itself cannot be truly enjoyed without 
+some additional information. To recognize the objective value of 
+La Mariee mise a nu, one requires, in my opinion, some 
+Ariadne's thread that one would seek in vain among the thickets, 
+whether written or drawn, that are contained within this strange 
+green box of published documents. And it is necessary first to go 
+back to a reproduction of the glass object before one can identify 
+the various elements that constitute the whole, before one can be- 
+come aware of their respective parts in the functioning of the whole. 
+
+I. Bride (or female hanged body) reduced to what one might 
+call its skeleton in the 1912 canvas that bears this title. — 2. Ins- 
+cription lor the top (made out of the three pistons lor droits 
+surrounded by a kind of milky way). — 3. Nine malic moulds, 
+or Eros machine, or Bachelor machine, or Cemetery lor 
+uniiorms and liveries (state trooper, cuirassier, policeman, 
+priest, bellhop, department-store delivery-man, flunkey, morti- 
+cian's assistant, station-master). — 4. Slide (or chariot or sleigh, 
+standing on runners that slide in a gutter). — 5. Water mill. — 
+6. Scissors. — 7. Sieve (or drainage slopes). — 8. Chocolate- 
+grinder (bayonet, cravat, rollers, Louis XV chassis). — 9. Re- 
+gion of the splash (not shown). — 10. Oculist witnesses. — 
+
+II. Region of the gravity manager (or gravity caretaker, not 
+shown). — 12. Pulls. — 13. Bride's clothes. 
+
+The above described morphological analysis of the Mariee mise 
+a nu allows a very summary idea of the physiological data which 
+determined its elaboration. Actually, we find ourselves here in the 
+presence of a mechanistic and cynical interpretation of the pheno- 
+menon of love : the passage of woman from the state of virginity to 
+that of non-virginity taken as the theme of a fundamentally a-senti- 
+mental speculation, almost that of an extra-human being training 
+himself to consider this sort of operation. Here the rigorously 
+logical and expected are married to the arbitrary and the gratuitous. 
+And one very soon abandons oneself to the charm of a kind of 
+great modern legend where everything is unified by lyricism. I will 
+limit myself again to facilitating one's reading of it by very briefly 
+describing the relationship with life that seems to me to unite the 
+thirteen principal component parts of the work that I have just 
+enumerated. 
+
+The bride, by means of the three nets above her (the draft pistons) 
+exchanges orders with the bachelor machine, orders that are 
+
+
+
+transmitted along the milky way. For this, the nine malic moulds, 
+in the appearance of waiting, in red lead, have by definition 're- 
+ceived' the lighting gas and have taken moulds of it; and when 
+they hear the litanies of the chariot recited (the refrain of the 
+bachelor machine), let this lighting gas escape through a given 
+number of capillary tubes placed towards their top (each one of 
+these tubes, where the gas is drawn out, has the shape of a 
+standard stop, that is to say the shape that is adopted, as it 
+meets the ground, by a thread one meter long that has previously 
+been stretched horizontally one meter above ground and has then 
+been suddenly allowed to fall of its own accord). The gas, being thus 
+brought to the first sieve, continues to undergo various modifica- 
+tions in its state until in the end, after passing through a kind of 
+toboggan or corkscrew, it becomes, as it comes out of the last 
+sieve, explosive fluid (dust enters into the preparation of the 
+sieves: dust-raising allows one to obtain four-month dust, six- 
+month dust, etc. . . . Some varnish has been allowed to run over this 
+dust in order to obtain a kind of transparent cement). During the 
+whole of the operation just described, the chariot (formed of rods of 
+emancipated metal) recites, as we have seen, its litanies ('Slow 
+life. Vicious circle. Onanism. Horizontal. Tin for cans, ropes, wire. 
+Wooden pulleys for eccentrics. Monotonous fly-wheel. Beer pro- 
+fessor.') while at the same time performing a to-and-fro motion 
+along its gutter. This movement is determined by the regulated fall 
+of the bottles of Benedictine (whose density oscillates) 
+that are axled on the water-mill's wheel (a kind of water jet comes 
+in a semi-circle from the corner above the malic moulds). Its effect 
+is to open the scissors, thus producing the splash. The liquid gas 
+thus splashed is thrown vertically; it goes past the oculist witnesses 
+(the dazzling of the splash) and reaches the region of the pulls 
+(of gunfire) corresponding to the reduction of the objective by an 
+'average skill' (a schematic version of any object). The gravity 
+manager, lacking, ought to have been balanced on the bride's dress 
+and thus suffered the countershock of the various episodes of a 
+boxing bout taking place beneath him. The bride's dress, through 
+whose three planes the mirroric return of each drop of the dazzled 
+splash takes place, was intended to be conceived as an application of 
+the Wilson-Lincoln system (that is to say by making the most of 
+some of the refractory properties of glass, after the manner of those 
+portraits 'that, seen from the right, reveal Wilson, then, seen 
+from the left, reveal Lincoln'). The inscription for the top, supported 
+by a kind of flesh-colored milky way, is obtained, as we have seen, 
+by means of the three draft pistons that consist of three perfect 
+squares cut out of bunting and are supposed to have changed their 
+shape as they flapped in the wind. Through these pistons are trans- 
+mitted the orders that are intended to reach the pulls and the splash, 
+
+
+
+in the last of which the series of bachelor operations reaches its 
+conclusion. One should observe that the chocolate-grinder (whose 
+bayonet acts as a support for the scissors), in spite of the relatively 
+important space that it occupies in the glass, seems to be specially 
+intended to qualify bachelors concretely, by applying the funda- 
+mental adage of spontaneity: 'a bachelor grinds his own choco- 
+late'. 
+
+This commentary has but one object, to furnish a spatial basis for 
+the orientation of anyone who questions the image of La Mariee 
+mise a nu and allows himself to be intrigued to the point of 
+classifying according to some order the loose papers of the magni- 
+ficent 1934 box. But to this commentary one should add several 
+others: philosophical, poetical, expressing faith or suspicion, novel- 
+istic, humorous, etc. Probably only the erotic commentary on La 
+Mariee mise a nu cannot be ignored now. Fortunately, this com- 
+mentary exists: written by Duchamp himself, it consists of a ten- 
+page text that anyone who wants can today afford to seek and find 
+among the ninety-four documents in the green box. I quote it too 
+briefly, but may this extract inspire some reader to study the whole 
+admirable document and thus reward him for the effort I have de- 
+manded of him when introducing him to the analytical details that 
+alone could initiate him into the life of this kind of anti-picture: 
+
+'La Mariee mise a nu par ses celibataires. 2 principal ele- 
+ments: — 1. The Bride. — 2. The Bachelors. . . As the bachelors are 
+intended to serve as an architectonic base for the Bride, the latter 
+becomes a kind of apotheosis of virginity. A steam-engine on a 
+masonry pediment. On this brick base, a solid foundation, the 
+bachelor machine, all grease and lubricity (to be developed). — Just 
+where, as one still ascends, this eroticism reveals itself (and it must 
+be one of the major cogs of the bachelor machine), this tormented 
+cog gives birth to the desire-part of the machine. This desire-part 
+then changes its mechanical status, from that of a steam engine to 
+that of internal combustion engine. And this desire-motor is the 
+last part of the bachelor machine. Far from being in direct contact 
+with the Bride, the desire-motor is separated from her by a gilled 
+cooler. This cooler is to express graphically that the Bride, instead of 
+being a mere asensual icicle, warmly rejects, not chastely, the 
+bachelors' rebuffed offers. . . In spite of this cooler there exists no 
+solution of continuity between the bachelor machine and the Bride. 
+But the bonds will be electrical and will thus express her being 
+stripped: an alternating process. If necessary, short circuit. 
+
+
+
+form to the laws of the equilibrium of weights, a bright metal stan- 
+chion might nevertheless represent the virgin's attachment to her 
+girl-friends and her parents. . . Basically, the Bride is a motor. 
+But before being a motor that transmits timidity-power, she is this 
+very timidity-power which is a kind of petrol, a gasoline of love 
+that, distributed among the very weak cylinders, within the reach 
+of the sparks of its constant life, serves to achieve the final flowering 
+of this virgin who has reached the goal of her desire. (Here the 
+desire-cog will occupy less space than in the bachelor machine. It is on- 
+ly the string that binds the bouquet.) The whole graphical stress leads 
+up to the cinematic blossoming which, determined by the electrical 
+stripping of the clothes, is the halo of the Bride, the sum-total of her 
+splendid vibrations. Graphically, it is not at all a matter of symbolis- 
+ing in a lofty painting this happy goal, the Bride's desire; but more 
+clear in all this blossoming, painting will be an inventory only of the 
+elements of this blossoming, elements of the sex-life imagined by 
+the desiring Bride. In this blossoming, the Bride reveals herself in 
+two appearances: the first is that of her being stripped by the bache- 
+lors, while the second is that of the Bride's own volitional imagina- 
+tion. On the coupling of these two appearances of pure virginity, 
+on their collision, all the blossoming depends, the higher whole and 
+crown of the composition. Therefore one must elaborate: firstly, 
+the blossoming in the stripping by the bachelors; secondly, the 
+blossoming in the stripping imagined by the Bride; thirdly, once 
+these two graphical elaborations have been achieved, one must 
+find their reconciliation which must be the blossoming without any 
+causal distinction.' 
+
+I think it is unnecessary to insist on all the absolute novelty that is 
+hidden within such a conception. No work of art seems to me, up to 
+this day, to have given as equitable scope to the rational and the 
+irrational as La Mariee mise a nu. And even its impeccable dia- 
+lectical conclusion, as one has just seen, assures it an important 
+place among the most significant works of the twentieth century. 
+What Marcel Duchamp, in a caption to be found amongst his notes, 
+has called a glass delay, 'a delay in all the general sense that is 
+possible, a glass delay as one says a prose poem or a silver cuspi- 
+dor,' has not finished being a landmark whereby one can truly 
+classify everything that artistic routine may yet try to achieve 
+wrongly as advance. It is wonderful to see how intact it manages 
+to keep its power of anticipation. And one should keep it luminously 
+erect, to guide future ships on a civilization which is ending. 
+
+
+
+'The Bride. — In general, if this Bride motor must appear as an 
+apotheosis of virginity, that is to say of ignorant desire, white desire 
+(with a point of malice) and if it does not graphically need to con- 
+
+
+
+Andre Breton 
+
+From Minotaure, No 6. Paris, 1935. 
+
+
+
+Rendezvous du Dimanche 6 Fevrier 1916 a l h 3/U apres-midi 
+
+
+
+porte, des maintenant par grande 
+quantite, pourront faire valoir le 
+clan oblong qui, sans oter aucun 
+traversin ni contourner rnoins 
+de grelots, va remettre. Deux 
+fois seulement, tout eleve voudrait 
+traire, quand il facilite la 
+bascule disseminee; mais, comme 
+quelqu'un demonte puis avale des 
+dechirements nains nombreux, soi 
+compris, on est oblipe d'entamer 
+plusieurs grandes horloges pour 
+obtenir un tiroir a bas age. 
+Conclusion: apres maints efforts 
+en vue du peigne, quel dommageJ 
+tous les fourreurs sont partis et 
+signifient riz. Aucune demande 
+ne nettoie 1' ignorant ou scie 
+teneur; toutefois, etant donnees 
+quelques cages, c'eut une 
+profonde emotion qu'executent 
+toutes colle3 alitees. Tenues, 
+vous auriez manque si s'etait 
+trouvee la quelque prononciation 
+
+
+
+Ut. 
+
+
+
+)hU\h 
+
+
+
+
+
+
+H 
+
+
+
+flatten 
+
+
+
+'izoiid tttwrtimun^tmJ ar^ 
+
+
+
+*io$i&gt;nci- am d-^tw sulfa &lt;// wufat 
+
+
+
+/itJSJ/u/ /rrt, ru^ t g||gjj|£ fUJ/t . 
+
+
+
+* Tdtc cLc^C^ fkyik^cjL^trry-^ 
+
+
+
+
+
+
+
+fuzsitnJuf-c . 
+
+
+
+Feinture de precision, beaute d 1 indifference 
+
+
+
+
+Marcel Duchamp ((The Chess Players » 1910 Oil 45x57Va" The Louise and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp «The Artist's Father» 1910 Oil 36 3 /»x28'/e 
+
+
+
+The Louise and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp « Yvonne and Magdeleine torn in Tattersi) 1911 Oil 23'/2- 28V&lt;." The LouUe and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp « The Sonata » 1911 Oil 57x4472" 
+
+
+
+The Louise and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp « Nude Descending a Staircase, No. 1» 1911 Oil 37 3 / 4 x 23V2" 
+
+The Louise and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp ((Portrait of Chess Playerso 1911 Oil 39 3 /« x 39 3 A 
+
+
+
+The Louise and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp «Le Passage de la Vierge a la Marieen 1912 Oil 23 3 /a&gt; 21'/* 
+
+
+
+Collection The Museum of Modern Art, New York 
+
+
+
+
+Marcel Duchamp «The Bride I) 1912 Oil 35 l /»x21 3 /a The Louise and Walter Arensberg Collection, Philadelphia Museum of Art 
+
+
+
+
+Marcel Duchamp « Why not sneeze Rose Selavy ?» 1921 Ready-made V h " high The Louise and Walter Arensberg Collection, Philadelphia Museum or i 
+
+
+
+
+Marcel Duchamp ((Chocolate Grinder, No. 2 » 1914 Oil 25'/2X21'/«" The Louise and Walter Arensberg Collection. Philadelphia Museum of Art 
+
+
+
+Biographical Notes 
+
+
+
+Marcel Dachamp 
+
+
+
+1887 28 July, born Blainville, near Rouen 
+
+brother of painters Jacques Villon, Suzanne Dachamp, and sculptor 
+
+Raymond Duchamp-Villon 
+
+attended school, Rouen 
+
+librarian, Bibliotheque Ste. Genevieve, Paris 
+1904 studied painting, Academie Julian, Paris 
+
+1910 painting, Portrait of Father, exhibited Salon d'Automne 
+first Chessplayers 
+
+1911 formally joined Cubists 
+
+first sketches and first oil for Nude Descending a Staircase 
+
+The Coffee Grinder 
+
+painted Portrait of Chess Players 
+
+1912 Nude Descending a Staircase, No 2 exhibited with Section d'Or, Paris 
+painted The King and Queen Surrounded by Swift Nudes 
+Munich: The Virgin, The Bride 
+
+1913 Cemetery of Uniforms and Liveries, first pencil study 
+Boxing match. Chocolate Grinder, No 1 
+
+Armory Show, New York: The King and Queen Surrounded by Swift 
+Nudes 
+
+Portrait of Chess Players 
+Nude Descending a Staircase 
+Nude (sketch) 
+
+1913 Water Mill within Glider (in Neighboring Metals), first painting 
+on glass 
+
+1914 Paris, painted Bachelors 
+
+created first 'ready-mades', Pharmacy; bottle-rack 
+Chocolate Grinder, No 2 
+
+1915 left Paris for New York 
+
+1915-1923 worked on glass, La mariee mise a nu par ses celibataires, 
+meme 
+
+1916 Nude Descending a Staircase, No 3, made especially for Walter and 
+Louise Arensberg 
+
+ready-made. Ball of twine 
+
+ready-made, Girl with Bedstead (Apolinere Enameled), 1916-1917 
+
+founding member of the Society of Independent Artists, Inc. 
+
+
+
+1935 
+
+1937 
+
+
+
+published reviews, The Blind Man, Rong-wrong 
+
+sent ready-made Fountain, porcelain urinal, to first exhibition of Independent 
+
+signed it R. Mutt, rejected by executive committee, from which he resigned 
+
+quasi-Dada group with Picabia, Man Ray, Jean Crotti 
+
+mural painting, Tu m' 
+
+to Argentina 
+
+to Paris, ready-made vial, 50 cc. Air de Paris 
+La Joconde with moustache: LHOOQ -visual and literal pun 
+New York, with Katherine S. Dreier, organized the Society Anonyme, first museum 
+of modern art 
+
+birth of ROSE SELAVY in New York 
+
+Revolving Glass (Apareil Rotatif, Optique de Precision) 
+New York, with Man Ray, published one issue of New York Dada 
+constructed object Why not sneeze? 
+
+Paris, exhibited in international exhibition organized by Dadaists, Galerie Montaigne 
+began creation of anagrams, word games 
+
+left La mariee mise a nu ■ ■ ■ unfinished, to devote himself to chess and 
+experiments in optics 
+associated with the surrealists, Paris 
+produced film, Anemic Cinema 
+Paris 
+
+wrote book on chess 
+
+organized exhibition of modern art for Societe Anonyme, Brooklyn Museum 
+-1927 installed Brancusi exhibit, Brummer Gallery, New York, and Arts Club of 
+Chicago 
+
+started making roto-reliefs 
+
+made the Box, portfolio containing 93 documents in facsimile 
+bookcover for Jarry's TJbu Roi, bookbinding executed by Mary Reynolds 
+first one-man show, Arts Club of Chicago 
+published Rrose Selavy: Oculisme de Precision 
+organized surrealist exhibition in New York with Andre Breton 
+published suitcase with reproductions, Boite-en-valise 
+
+■1944 New York, with David Hare, Andre Breton, Max Ernst, edited VW, surrealist 
+review 
+
+International surrealist exhibition, Paris; contributed 'Rain Room' and 'Labyrinth' 
+made cover for catalogue 
+became American citizen 
+
+
+
+Selected Bibliography 
+
+
+
+Jean Adhemar. Jacques Villon. Oeuvre grave. Louis Carre, Paris, 1954. 
+
+Guillaume Apollinaire. Les peintres cubistes. Figiii'ere, Paris, 191 ). 
+
+Dore Ashton. Jacques Villon, 'Father oj modern printmakiug '. Art 
+
+Digest, New York, September if, tor;. 
+
+Jacqueline Aubert et Charles Perussaux. Jacques I 'Won; catalogue de 
+
+son ceuvre grave. Editions Paul P route, Paris, 19 jo. 
+
+Andre Ereton. Le surrealisms et la peinture. Brentano's, New York, 
+
+'94J- 
+
+Andre Breton. Anthologie de 1' humour uoir. Editions du Sagittaire, Paris, 
+
+1940. 
+
+Collection of the societe anonyme. Catalogue. Yale University Art 
+
+Gallery, New Haven, 19JO. 
+
+Pierre Courthion. Decomposition et recomposition de I'espace. AA' e si'ecle, 
+
+Paris, January 19 J2. 
+
+Bernard Dor ival. Les etapes de la peinture franfaise contemporaine, I ~ol. II. 
+
+Paris, 1944. 
+
+KatherineS.Dreier. Western Art and the new Era. NewYork, Brentano' s , 
+
+192). 
+
+Arthur Jerome Eddy. Cubists and Post-Impressionism. Chicago, A. C. 
+
+Ale Clurg e~ Co., 1914. 
+
+Charles Estienne. Jacques I 'Won. Art d'aujourd'hui, Paris, December 1949. 
+
+James Fitzsimmons. Jacques \ 'Won. Arts and Architecture, Los Angeles, 
+
+September 19;). 
+
+Waldemar George. Jacques Villon et le cubisme francais. Le Peintre, 
+
+Paris, February ij, 19JI. 
+
+Cleve Gray. Jacques I 'Won. Profits No. }. Paris, April 19J3. 
+
+George Heard Hamilton. Duchamp, Duchamp-X 'Won, Villon. Bulletin 
+
+of the Associates in Fine Arts at Yale University, New Haven, March 1945. 
+
+George Heard Hamilton. The Dialectic of later Cubism: Villon's 
+
+Jockey. Magazine oj Art, New York, November 1048. 
+
+Jacques Lassaigne. E/oge de Jacques Villon. Manuel Bruker, Paris, 19; f. 
+
+
+
+Jacques Lassaigne. Developpement de Feeuvre de Jacques Villon. Histoire de 
+
+la peinture moderns, Skira, Geneve, Paris, 19JO. 
+
+Jacques Lassaigne. Jacques Villon on la Constance. Revue de la Pense'e 
+
+franfaise, New York, Montreal, November 1910. 
+
+Andre Lhote. Cubisme. Art d'aujourd'hui, Paris, March 19 jo. 
+
+William S. Lieberman. Jacques I 'Won: His graphic Art. The Museum of 
+
+Modern Art, New York, I9J&gt;- 
+
+Rene Massat. Jacques Villon. Cahiers d'Art, Paris, lf}i. 
+
+Jerome Mellquist. Jacques Villon, Maitre de Puteaux. Documents, No. 3, 
+
+Geneve, December 19JO. 
+
+Jerome Mellquist. Jacques \ 'Won. L'Oeil, Lausanne, February 19JJ. 
+
+Raymond Mortimer. Jacques Villon. Horizon, No. XII, London, August 
+
+&gt;94&gt;- 
+
+Walter Pach. I Won. Societe Anonyme, New York, 1921. 
+Walter Pach. The Masters oj Modern Art. B. IF". Huebsch, New York, 
+1924. 
+
+Walter Ykcw. Queer Thing, Painting. Harper, New York, 19)8. 
+Walter Pach. Thus is Cubism cultivated. Art News, New York, May 1949. 
+Maurice Raynal. Peinture moderne. Skira, Geneve, Paris, New York, 19;). 
+Rene- Jean. Jacques I Won. Collection «Initier», Brauu, Paris, 194,. 
+Rene- Jean. Devant les tableaux de Jacques I 'Won. Arts de France, Paris, 
+February 1948. 
+
+Henri-Pierre Roche. Souvenirs sur Marcel Duchamp. La Nouvelle 
+Revue Franfaise, Paris, June 19 j). 
+
+Winthrop Sargeant. Dado's Daddy. Lije Magazine, NewYork, April 28, 
+I9!2. 
+
+Toti Scialoja. Jacques Villon. L' ' Immagine, Rome, 1948. 
+Lionello Venture La peinture contemporaine. Ulrica Hoepli, Milan, n. d. 
+View. Marcel Duchamp Number. New York, March 194J. 
+Jacques Villon, Lyonel Feininger. Preface by James S. Plant. Institute 
+of Contemporary Art, Boston, 1949. 
+
+
+
+Acknowledgement 
+
+
+
+In addition to those who have made this exhibition 
+possible through their generous loans, thanks are also 
+and in particular due to Marcel Duchamp. The idea 
+of grouping the work by the three brothers was his. 
+We are also indebted to him for the plan and design 
+of the catalogue as well as the choice of the texts. 
+His advice in the selection of the exhibits and help in 
+assembling them have made the exhibition a realization. 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0050   0.0050      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0070   0.0019      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0092   0.0022     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0129   0.0037   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0131   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0853   0.0722              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=85;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

@@ -1,0 +1,6105 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Paul Klee, 1879-1940 : a retrospective exhibition"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/paulklee1879klee">Paul Klee, 1879-1940 : a retrospective exhibition</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/paulklee1879klee">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+
+
+
+
+
+' 1" I 
+
+
+F" -pr,- -— jpp«_p —^ 
+
+
+
+
+i / 
+
+
+P 1^ j 1 
+
+
+
+
+
+11 
+
+1 
+
+
+f 
+
+
+
+
+111 
+
+
+
+
+■M 
+
+
+^^^r 
+
+
+
+
+I 
+J 
+
+
+| 
+
+
+
+
+• •^^ 
+
+
+
+
+
+
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/paulklee1879klee 
+
+
+
+PAUL KLEE 
+1879 1940 
+
+
+
+A RETROSPECTIVE EXHIBITION 
+
+
+
+ORGANIZED BY THE SOLOMON R. GUGGENHEIM MUSEUM 
+IN COLLABORATION WITH THE IMSADENA ART MUSEUM 
+
+
+
+© 1967, The Solomon R. Guggenheim Foundation, New York Library of Congress Card Catalogue Number: 67-19740 
+
+Printed in the United States of America 
+
+
+
+PARTICIPATING IIVSTITITIOWS 
+
+
+
+PASADENA ART MUSEUM 
+
+SAN FRANCISCO MUSEUM OF ART 
+
+COLUMBUS GALLERY OF FINE ARTS 
+
+CLEVELAND MUSEUM OF ART 
+
+WILLIAM ROCKHILL NELSON GALLERY OF ART, KANSAS CITY 
+
+BALTIMORE MUSEUM OF ART 
+
+WASHINGTON UNIVERSITY, GALLERY OF ART. ST. LOUIS 
+
+PHILADELPHIA MUSEUM OF ART 
+
+
+
+Paul Klee stated in 1902: "I want to do something very modest, to work out 
+by myself a tiny formal motif, one that my pencil will be able to encompass without 
+any technique..."'. Gradually he intensified his formal and expressive range, proceeding 
+from the tested to the experimental, toward an ever deepening human awareness. Because 
+of his intensive concentration upon each new beginning, categories fall by the wayside 
+and efforts to divide Klee's work into stable groupings remain unconvincing. Even styl- 
+istic continuities are elusive and not easily discernible. There is nothing in the develop- 
+ment of his art that resembles, for example. Kandinsky's or Mondrian s evolution from 
+a representational toward a non-objective mode. Nor is it possible to speak of "periods" 
+in the sense in which this term has assumed validity with Picasso. Despite the frequent 
+recurrence of Klee's images and the occasional repetition of his own form constellations, 
+the sense of newness that one experiences with him from work to work is extraordinarily 
+acute. It is as if his creative motor started anew with each painting, watercolor, draw- 
+ing, or print. 
+
+Proliferation and lack of rigidity is also the rule in Klee's choice of materials 
+and techniques. Media merge into one another, and the very use of designations like 
+"'painting," "watercolor," or "drawing," lose their meanings. How often do we find in 
+his meticulous records the summary designation "Farbbogen," i.e. "colored sheet", and 
+how often, did he lavish every care of execution upon the light watercolor medium 
+while leasing in a state of sketchy fluidity works executed in weightier techniques. 
+Klee's impartiality to technical subdivisions enjoins us to view his work without imped- 
+ing references to false technical hierarchies. It is for this reason that Klee's painting is 
+presented together with watercolors, gouaches, and a few drawings, prints, and his 
+characteristic mixed techniques. 
+
+In the absence of stylistic and technical uniformities an approximate chronology 
+became the self-evident framework for the presentation of this show. It begins at the 
+turn of this century, when the preparatory essays of an immensely gifted youth have 
+already given way to a resolutely maturing talent. The chronology continues through 
+Klee's first significant contacts with the advanced guard of his time and touches upon 
+that interesting transformation from illustrator-draftsman to colorist-painter— a trans- 
+formation that comes to a dramatic conclusion upon the return from his North African 
+sojourn at Kairouan when he exclaims triumphantly, "I am a painter." In his full 
+maturity Klee's work gives evidence of the painstaking articulation that coincides with 
+his theoretical and didactic pursuits at the Bauhaus and of that grave, resigned state of 
+mind that follows his withdrawal from Nazi Germany when intense forebodings of 
+death and the far reaches of the human intuition assume pictorial form. 
+
+
+
+A large number of the most coveted works are included in this exhibition, 
+prepared for presentation in leading American museums. That this was possible is due 
+to the extreme generosity of lenders in this country and abroad who often, despite stated 
+misgivings, allowed Klee's work to be seen in full strength. Among lenders none was 
+more capable of translating such generous inclinations into effective support than Felix 
+Klee, the artist's son, who extended his unstinting help. Nor could a comparable concen- 
+tration have been achieved without the readiness of Director Hugo Wagner and his 
+Trustees at the Paul Klee Foundation in Bern to dismantle, for the duration of the show, 
+the permanent Klee gallery and to reach deeply into their precious holdings to aid this 
+retrospective survey. To single out other than these two principal contributors would 
+quickly lead beyond the confines of a brief acknowledgment. It must suffice, therefore, 
+to point to the separate listing of lending individuals and institutions in the following 
+pages of this catalogue. 
+
+It is my pleasant prerogative, however, to acknowledge the extensive assistance 
+received from a number of distinguished collaborators. In the United States. Dr. Louise 
+Averill Svendsen, Curator of the Guggenheim Museum, has worked most consistently to 
+assure the success of the exhibition. She was importantly assisted by Frau Dr. Katalin 
+von Walterskirchen of the Kunstmuseum in Bern, particularly in the time-consuming 
+task of checking available data and furnishing scholarly documentation. Linda Konheim 
+edited the catalogue. Dr. Charlotte Weidler, whose long acquaintance with Paul Klee 
+and his work established her valuable credentials, acted as a guide and consultant during 
+the prolonged sifting of all Klee material considered for this showing. James Demetrion. 
+Curator and now Acting Director of the Pasadena Art Museum, who traveled widelv in 
+behalf of this presentation, made essential contributions to the selection and the nego- 
+tiation of loans. Finally, Miss Jane Wade provided many a useful lead during the initial 
+orientation, particularly among New York collectors. 
+
+In Europe, special thanks are due to Arnold Riidlinger, Director of the Kunst- 
+halle in Basel. His familiarity with and access to collections throughout Switzerland 
+and his active part in soliciting loans has importantly enriched the exhibition. Felix Klee 
+went beyond his generosity as a lender to advise and guide us. Also of great importance 
+to the exhibition was Professor Will Grohmann's participation. Through his intimate 
+acquaintance with Paul Klee's writing, selected passages could be related to works in 
+the exhibition. The use in this catalogue of the concluding pages of Will Grohmann's 
+Paul Klee and its presentation here in a new context amounts to a simple recognition of 
+the finality with which Professor Grohmann summarizes the essence of Klee's art. 
+
+Thomas M. Messer. Director 
+
+
+
+LEPERS TO THE EXHIBITION 
+
+
+
+Walter C. Goodman, Belvedere, California 
+
+George Danforth, Chicago 
+
+Mr. and Mrs. Charles W. Engelhard, New York 
+
+Dr. and Mrs. Robert Engle, San Marino, California 
+
+Earle W. Grant, San Diego, California 
+
+Mr. and Mrs. Benjamin Hertzberg, New York 
+
+Mrs. Kay Hillman, New York 
+
+Marian Willard Johnson, New York 
+
+Nina Kandinsky, Neuilly-sur-Seine, France 
+
+F. K., Bern 
+
+Miss Jenifer Kellen 
+
+Mr. and Mrs. Henry T. Kneeland, Bloomfield, Connecticut 
+
+Ursula and Frank Laurens. Cincinnati 
+
+Mr. and Mrs. Arnold H. Maremount. Winnetka. Illinois 
+
+Morton D. May. St. Louis 
+
+Mr. and Mrs. Hans Neumann, Caracas 
+
+William S. Picher. Belvedere, California 
+
+Mrs. Picher Purcell, Chicago 
+
+Dr. and Mrs. Israel Rosen, Baltimore 
+
+Siegfried Rosengart, Lucerne 
+
+Mr. and Mrs. Daniel Saidenberg, New York 
+
+Steven D. Saidenberg, New York 
+
+F. C. Schang, New York 
+
+Mrs. Rose C. Shere, Chicago 
+
+Mrs. Helen Serger, New York 
+
+Rolf Stenersen, Oslo 
+
+Christoph and Andreas Vowinckel, Cologne 
+
+Albright-Knox Art Gallery, Buffalo 
+
+Allen Memorial Art Museum, Oberlin College, Obetlin, Ohio 
+
+The Art Museum, Princeton University 
+
+The Baltimore Museum of Art 
+
+Berner Kunstmuseum, Paul Klee-Stiftung 
+
+City Art Museum of St. Louis 
+
+Kunsthaus. Zurich 
+
+The Minneapolis Institute of Arts 
+
+Pasadena Art Museum 
+
+Philadelphia Museum of Art 
+
+San Francisco Museum of Art 
+
+The Solomon R. Guggenheim Museum, New York 
+
+Victoria and Albert Museum, London 
+
+Wadsworlh Atheneum. Hartford 
+
+Washington University, St. Louis 
+
+Flair Gallery. Cincinnati 
+Galerie Claude Bernard, Paris 
+Galerie Beyeler, Basel 
+Galerie Rosengart, Lucerne 
+
+Galerie Rellee Zictil. r. /ill ic'h 
+
+
+
+10 
+
+
+
+PAUL KLEE 
+
+
+
+BY FELIX KLEE 
+
+
+
+A great event, this large exhibition of works by Paul Klee now shown in the United States! Its special 
+importance lies in the very rich selection from public and private collections, both in Europe and America. As 
+everyone knows who has studied the Klee literature, there are many works that have been rarely shown, and 
+even some that have never been exhibited at all. They will now be seen and the public will be able to compare 
+them with works that already have achieved varying degrees of popularity. Indeed, this show promises to create 
+a unique moment as the great variety of Klee themes are brought within a single harmonious framework. 
+
+Interest in the work of Klee began in the United States soon after the end of the first World War. Many 
+American collectors acquired Klee's works, and a few of them, like G. David Thompson of Pittsburgh, sub- 
+sequently were to part with their treasures. By a curious fate these paintings then returned to Europe again 
+where 88 of them now constitute the largest Klee collection in the Federal Republic of Germany at the Nord- 
+rhein-Westphalen Museum in Diisseldorf. 
+
+This interest did not arise altogether spontaneously. It was stimulated by the pioneering efforts of a 
+few connoisseurs. The four most outstanding of these were J. B. Neumann, Karl Nierendorf and Curt Valentin, 
+all ex-Berliners, as well as Emmy Galka Scheyer, who had come from Brunswick. They not only sold Klee's 
+works but felt a sense of mission in promoting "their" Klee. I wish to give credit to these pioneers today to 
+honor them in friendship. 
+
+The seed they sowed was soon to bear the fruits. Through a large number of publications, the 
+American public became highly responsive to and familiar with his work. But although Klee now is known 
+throughout the world and we think of him in a cosmopolitan context, his art remains deeply rooted in the soil 
+of Europe. My father, it must be remembered, spent half of his life in the German-speaking part of his native 
+Switzerland, and the other in Germany. His entire being and his philosophy are therefore thoroughly linked 
+with the best in German culture. The very titles of his works are inseparable from his German origins. There 
+are puns, free plays on words and fantastic coinages of terms which, in translation, lose true meaning and their 
+relatedness to a particular milieu. 
+
+Klee's development was at first slower than that of his colleagues, but then he rose to sharp heights. 
+He noted jubilantly on April 17, 1914 about his work: "I now abandon work. It penetrates so deeply and so 
+gently into me. I feel it and it gives me confidence in myself without effort. Color possesses me. I don't have 
+to pursue it. It will possess me always, I know it. That is the meaning of this happy hour: Color and I are one. 
+I am a painter." 
+
+His dream-and-fairy-tale motifs exude magic and, above all a delicate atmosphere which ensnares us 
+to this day. This is particularly true of the works of his last years at Bern, especially those after 1936, when an 
+incurable disease made him aware that little time was left to him. He concentrated his energies on making 
+the most essential statements. As he freed himself, in thought, from the mortal world, the format of his paint- 
+ings on canvas grew larger, the drawings more forceful, the technique more differentiated. His final pictures look 
+as if they were "possessed by demons" (Klee's own phrase from a letter he addressed to me. ) 
+
+In 1956 the Art Museum in Bern had the most comprehensive Klee exhibition to date— 574 works, of 
+which 200 came from the United States. Now, eleven years later, we have again a major Klee show, resulting 
+from intense efforts on both continents. Indeed, as the years pass since my father's death, his unusual world 
+opens up to us with ever increased significance. Here I recall what my mother said about father long before he 
+had become well-known: "Like St. John in the Isenheim Altar Piece of Grunewald, men one day. will point to 
+Paul Klee". 
+
+December 1966 
+
+Translated by Alfred Werner 
+
+
+
+11 
+
+
+
+I\TRODUCTIOi\ 
+
+
+
+BY WILL GROHMANN 
+
+
+
+What kind of man Klee really was is not easy to say in retrospect. He held the 
+world at arm's length, so to speak, was extremely reticent, and there is no judging him by 
+the stand he took in human or artistic matters, as he hardly ever committed himself. If he 
+was looked up to by all as the final arbiter in conflicts and quarrels — and not only at the 
+Bauhaus — the reason was his absolute integrity, recognized even by those who lost suit in 
+his judgments. But he took no pride in this; on the contrary, it pained him to feel that his 
+associates at times questioned the depth of his sympathies and put him down as a "neutral 
+observer." This is exactly what he was, of course, but only for the sake of his art. A "cosmic 
+viewpoint" — and this was the position he chose for himself — was hardly calculated to 
+cement his ties with other men; in everyday life it amounted to a renunciation, and over 
+this he came to ponder deeply towards the end of his life. Did his work suffer from the 
+exclusion of Eros? The elemental and cosmogonic Eros surely was not missing in his work, 
+ranging through space and time, linking all forms of being. But the direct, personal Eros 
+cannot be found in Klee's work any more than in all the art of the twentieth century, which 
+is peculiarly "selfless" and free of private passions. Klee was not incapable of loving or 
+responding to love, but as "nothing lasts in this world," love to him was an ever incomplete 
+thing, a mere part of the eternal flux of things. An artist cannot attain to this "crystalline" 
+state without paying the price of "abandoning the self in his work." Genius, having once 
+tasted of the tree of knowledge, may no longer taste of the tree of life, wrote Jean Paul. 
+
+It would be a mistake, however, to think of Klee as living cut off from the world. 
+He knew the world for what it is. He was acquainted with evil but regarded it not as an 
+isolated phenomenon, but as part and parcel of the whole. Good and evil for him made up 
+the "moral sphere," and evil "has its share in generation and growth." When the "radically 
+evil" makes its appearance in his work, as it does every once in a while, it is compensated 
+for in such a way that a one-sided picture is rarely produced. Good men only dream what 
+evil men do; not that Klee's works are dreams, though sometimes they are; more often he 
+reacts consciously to the world as it impinges on him and "copes with it using his own 
+special endowment" (as he put it in his Jena lecture), so that in the end he achieves a 
+balanced, harmonious view. 
+
+
+
+The following passage is quoted with the kind permission of Will Grohmann anil his American pub- 
+lisher Harry N. Ahrams from Professor Grohmann's monograph PAUL KLEE published in New York 
+in 1955. 
+
+
+
+12 
+
+
+
+The artist has knowledge of everything, and with Klee the link between the inner 
+self and the outer world is more complete than with any of his contemporaries. He has been 
+called the greatest realist of our time, and that describes him well, although his realism is 
+concerned with the essence of things, rather than with their surface appearance. Group his 
+themes together and they encompass the universe, not only the plenitude of things but the 
+secrets of their birth and growth, the mystery of their innumerable sublunar and cosmic 
+linkages. His art mirrors almost every area of human thought ; he visualizes the rise, evolu- 
+tion, and fate of human, plant, and animal life, as well as their transformation into primeval 
+and potential states. The world of art itself becomes his subject, as do the world of music 
+and poetry, the whole realm of the exact sciences, physics and mathematics, geology and 
+cosmology, the vistas of history, and the intricacies of pure invention. Thus he could give 
+us a Bud as well as a Voice Cloth, a Cloister Garden as well as the Limits of Reason and 
+Coolness in a Garden of the Torrid Zone. He gave us daydreams and shocks, ghostly appari- 
+tions and buffoonery, definitions and equations. Whoever follows the trail blazed by Klee 
+is in for new experiences, new unsuspected truths. He leads the way through microcosm 
+and macrocosm, pointing out the stars, fraught as they are with the possibility of other 
+lives, other destinies, other truths. 
+
+Surely Klee was a painter, but he was also a naturalist, a philosopher, a poet; as 
+early as 1911 he had demanded these things of himself. His insight into nature was at times 
+more penetrating than that of specialists, and his "intuitive discernment" rivaled that of 
+Goethe. Philosophy for him was not just a branch of learning but a method of investigating 
+the interaction of phenomena. Poetry and music, however, were as much part of his own 
+being as painting. 
+
+The titles he gave his pictures are like small metaphorical poems whose intense 
+suggestive power enhances the themes he drew and painted. In coining them he coined many 
+a new word and. linguistically speaking, created new lands and cities, new plants and living 
+things. Best of all. and richest in invention, are the short phrases with which he sent his 
+creatures and creations on their way. Klee invented close to nine thousand such titles and 
+phrases, hardly ever repeating himself. (His total auvre numbers 8926 items.) 
+
+Many of the titles sparkle with wit, and the point of many pictures only becomes 
+clear when they are taken in conjunction with their titles. For it is not always easy to get 
+the drift of certain works from their forms alone, which playfully mask the meaning. 
+"Humor," wrote Goethe, "results from an imbalance between reason and the world of facts"; 
+and he recognized gay humor wherever reason abandons its rights and in good grace lends 
+itself to the jest. Such was Klee's brand of humor. Very often picture and title so complement 
+each other that the latter adds a further nuance to the work, stressing particular elements in 
+it. Occasionally the title does not quite succeed in suggesting the scope and depth of the 
+pictorial experience. A Light and Dry Poem (1938) adds an extra note to the picture itself, 
+while Right, Left (1938) detracts a little from it. Though the titles are only secondary, they 
+betoken a highly suggestive intermingling of painting and poetry. And Klee's linguistic 
+resources, the accuracy, the carrying power of his words and phrases, and the startling 
+combinations in which he puts them, are an essential feature of his art. 
+
+The subtle imagery of Klee's wit lies in the theme, in the design, or in both. When 
+he paints a Christian Sectarian (1920), he slightly overdoes every trait commonly attributed 
+to such men: the emaciated body, long flowing hair, watery eyes, spidery fingers, the cross he 
+wears round his neck. In Performing Animals (1921) it is the direct, childlike imagery and 
+the primitive quality of the forms that delights us. Even in early works, however, we find 
+another type of humor, based on "tension between forms." Thus Dr. Bartolo (1921) is a 
+puffed-up composition, while The Chair-Animal (1922) is a creature that behaves like a 
+
+
+
+13 
+
+
+
+piece of furniture. The delightful drawing. What Does It Matter to Me? (1928), though 
+dominated by several mathematical and spatial components, shows a small animal on a 
+stand in the foreground, looking for all the world like a doll in a child's crib: the presence of 
+the tiny creature, comically out of place here, throws a veil of good humor over the grave 
+complex of forms on which the picture as a whole is built. Thus a single detail holds the entire 
+work in balance. About 1930 Klee's sense of humor began to express itself even more strongly 
+in formal terms. Not that the worldly-wise humanity of his earlier work went entirely by the 
+board; in Halves, the Clown (1938), Poster for Comedians (1938), or X-let (1938) a gay 
+sense of contrast still pervades the picture, but the power of expression and the keen intelli- 
+gence with which lines and colors are interwoven are more strikingly in evidence than before. 
+We also have such drawings as Manageable Grandfather (1930) or Family Outing (1930), 
+where pure geometry rises to its most eloquent pitch and at the same time produces those 
+"playful, innocent flashes" that are the essence of humor. 
+
+Still more significant than this interaction of painting and poetry is the way Klee 
+mingled painting and music. He was an excellent musician himself, often playing for his own 
+enjoyment, and never at a loss to read and interpret a score. Though he did not compose, he 
+thoroughly understood the process of musical composition and was as much at home with 
+Igor Stravinsky's musical system as with Arnold Schonberg's twelve-tone scale. Bach, Mozart, 
+and Haydn were as familiar to him as the poems of Goethe to poetry lovers, and he knew prac- 
+tically every one of their works, some of them by heart. It was his way always to go back to 
+the underlying elements of things; he could profit as much from the study of music as he did 
+from painting, perhaps even more so; for where, in painting, could he find the exemplars 
+that might have helped him to solve the problems he had set himself? The analysis of graphic 
+representation in his Creative Credo not only gives us an outline of his methods as a painter, 
+but those of the creative artist in general, including the musician. The fact is that Klee's pro- 
+cedure is no different from that of the composer as he sets down note after note, goes on from 
+motif to theme, introduces a second theme, combines the two, and so on. His art being unique 
+of its kind, the musician is often described as a man with sixth sense. But every artist worthy 
+of the name is gifted with a sixth sense, and his creations are just as unique of their kind. 
+This is true of Klee, as it is of the old masters. The deeper we go into his work, the more we 
+realize how rich it is in unique, inexplicable forms of beauty— phenomena analogous to those 
+that lead us to attribute a sixth sense to the musician. 
+
+Music runs through the whole of Klee's work, not merely in such works with musical 
+titles as Fugue in Red (1921) or Pastoral (1927). Obvious musical features of his pictures 
+are their rising or falling rhythms, brief or broadly arching melodies, subdued or cheerful 
+keys, polyphonic or harmonic phrases, tonal and atonal counterpoint; we might even speak 
+of fugues and sonatas, chamber music, solo pieces, and so on. Despite his keen interest in 
+modern music, Klee's enduring fondness for Mozart was only natural in view of the deep 
+temperamental affinity between the two artists: the life of each, in fact, was so busily em- 
+ployed with painting in the one case and music in the other that neither had any time left for 
+the things that fill other people's daily lives. 
+
+Analogies are often drawn between Picasso and Stravinsky, and certainly each re- 
+flects the climate of the times. Reservations must be made, however, for Picasso's classical 
+period of about 1920 is not nearly so inevitable as that of Stravinsky. With Klee we arc less 
+inclined to look for such parallels; he stands as an exceptional case in this respect as well. 
+Music was so intimate a part of his being, transmuted into visual qualities whenever he stood 
+
+before his easel or drawing-board, that it seems to fl I through all his work. The effect of 
+
+many of his pictures is like a phrase or passage out of a symphonic whole: ami there are sets 
+of pictures— those painted in Egypt, for example— whose over-all effect is comparable to that 
+of a symphony. 
+
+
+
+14 
+
+
+
+If in the twenties Klee stirred up far less controversy than did the vanguard com- 
+posers of the day, the reason is. perhaps, that painting is a less "public" art than music and 
+does not impinge upon the consciousness of so large an audience. In the thirties, when the 
+challenge of his pictures might have been at its most provocative. Klee himself, almost im- 
+perceptibly, had reached an unassailable degree of maturity, with a body of work behind him 
+that disarmed his detractors. 
+
+After music and poetry comes a third determining factor in his work; the spirit of 
+the Near East. His trips to Tunis and Egypt are not the cause of this influence; they were the 
+natural outcome of his partiality for Near Eastern countries and Mohammedan culture in 
+general. Whether or not there are actual blood ties behind it, Klee's affinity with the Orient is 
+obvious. Without ever being on really familiar terms with life in these countries, Klee felt at 
+home there. Their echoes in his work ring true, like deep-seated reminiscences of the remote 
+past. There are compositions of his in which trees, ladders, and jugs at once bring to mind 
+the archaic characters of Babylonian writing tablets of the third millenium B.C. One of his 
+sketches from Kairouan resembles a sgraffito wall picture in the Parthian city of Dura- 
+Europus representing a caravan wending its way across the desert. Many of his still lifes in 
+the 1920s are built up of flowers, fish, and symbolic signs like the Alexandrian mosaics at 
+Tripoli (second century A.D.). His "sign-pictures" and "plant-script-pictures" have striking 
+affinities with Kufic inscriptions and manuscripts of the Koran. Going through Klee's paintings 
+and sketches, one is continually brought up short by such analogies with the remains of 
+ancient cultures, far too frequent to be the product of chance. Klee's way of combining 
+fountains, trees, mountains, birds, fish and so on corresponds to the Persian Hvarenah pic- 
+tures and to the symbolic landscape elements on the fagade of the Omayyad palace of 
+Mschatta, while his frequent use of broad curves on plane surfaces harks back to the ara- 
+besques of Islamic art. His interlacing of figures, plants, animals, signs, and script, his alter- 
+nation of ground and design, the way many of his forms seem to have neither beginning nor 
+end, thus inducing a kind of hypnotic spell— all these procedures have their counterparts in 
+the art of the Near East. The point here is not simply his continual use of Oriental themes, 
+but rather the thoroughgoing interpenetration of two different ways of thinking. And this we 
+find not only in a picture such as Arab Song (1932) , but in many others whose titles betray 
+no inkling of it, in festive scenes and pavilions decked out with flags, in exotic figures and 
+animals, in the actors and dancers of his theater pictures. 
+
+The invisible spiritual core of the Mohammedan religion, the eloquent symbol of 
+the void, appears in Klee's pictures as a state of self-fulfillment, and also as the very reverse: 
+the supra-personal, the magical. The angels and genii of Islam are more akin to the "messen- 
+gers" of Klee's world than Christian angels are. Above all, however, Klee, like the Moslem, 
+retains the fullness of worldly experience while overcoming the world, armed with serenity 
+and seriousness, faith and irony, knowledge of nature and belief in myths. The love of analogy 
+and parable, the revelation of the fundamental oneness of all things through the metamor- 
+phosis of forms, the kaleidoscopic interplay of nature, man, and eternity— all this we find in 
+Klee as we find it in the East. And the imagery, the approach to man and nature of the Persian 
+poet Hafiz is reflected in Klee's art just as it is in Goethe's West-East Divan. 
+
+"All art is a memory of age-old things, dark things, whose fragments live on in the 
+artist." Hence the archaic note struck in so much contemporary art, which gives free rein to 
+the uprush of the unconscious. So it is with Klee, whose work is rich in archaic forms and 
+
+
+
+15 
+
+
+
+overtones. Not that the conscious mind is by any means denied its due; Klee drew simultane- 
+ously on many levels of experience, and this fact in large part accounts for his complex, many- 
+faceted links with remote times and peoples throughout the world, for the basic psychic 
+patterns are the same nearly everywhere. But in his work even the elements he could not 
+assimilate play their part and lead to unexpected tensions and schisms. At such times the 
+world of the moment, the here-and-now, falls away, all that seemed certain and solid comes 
+to look extremely relative, and the plastic means employed hitherto no longer suffice, but 
+give way to a new vocabulary whose message is couched in ciphers and strange formulas. 
+
+It has been said that pictures of this kind are as exact as Einstein's equations. These, 
+too, are made up of ciphers; for the physicist their meaning is symbolic, they stand for far 
+more than mere mathematical certainty. Klee's pictures, despite their multitude of implica- 
+tions, are indeed exact; to establish his world, the painter drew his materials and means from 
+many sources— from nature study and intuition, from reality and dream, from mathematics 
+and music. Had he sought only the most comprehensive formula instead of the most exact, 
+why is it that in literally thousands of sketches— many of which have the character of blue- 
+prints or mathematical constructions— he labored to find the most sparing, most economical 
+form of expression? As Goethe's Theory of Color took its place besides the symbols of the 
+second part of Faust, so Klee's exact formal experiments, his pedagogical-scientific studies 
+and literary formulations, stand beside the symbolism of what I have termed his "central" 
+creations. This then is the fourth instance of a fruitful interpenetration of his painting with 
+an external factor, based on his gift of both scientific and intuitive insight. 
+
+What at present may strike us as inexplicable in Klee's art will yield a rich harvest 
+of enjoyment to later ages. The course of the plastic arts will merge with that of music and 
+poetry, to the enrichment of each. This has come about already in isolated cases; thus James 
+Joyce, Leon-Paul Fargue, Stravinsky, and Hindemith throw light on Klee as Klee illuminates 
+them. Here, too, science has a part to play, just as Klee's painting will in time be recognized 
+as an important contribution to human knowledge, for his art is not only a picture of our 
+world but also a diagnosis of its problems. 
+
+Klee's greatness lies in his unswerving single-mindedness. in the way he kept faith 
+with himself. He spared no effort and unflinchingly made the sacrifices called for at every 
+stage of his artistic evolution. Outward success meant nothing to him; he worked on as 
+always, heedless of the fame he had acquired, intent only on finding ever better solutions to 
+his artistic problems. His singleness of purpose, however, went hand in hand with serenity. 
+He accepted everything with composure, with complete self-possession, with good sense. 
+Never in better humor than when hard at work, never surer of himself than when immersed 
+in the mysteries of creation. 
+
+Not a few connoisseurs, frankly preferring the work he produced between 1920 and 
+1930 to that of his final decade, fail to understand what led Klee to sacrifice so much "beauty." 
+Having repeatedly seen it happen, Klee realized that even his closest friends often attached 
+overriding importance to pictures which, for him, had been mere steppingstones. Always he 
+trusted his inner voices and went his way. undeflected. His last works he must have regarded 
+as the ultimate fruition of his art. Yet he never repudiated what lay behind him. not even his 
+earliest works. How could he? He had built them up. stone by stone, and every one of them 
+was necessary for him. Who can say whether, in 1940, he was ready to depart? Klee had 
+known many phases, many metamorphoses; perhaps, toward the end. lie skipped a few stages 
+in order to achieve the harmony deatli holds in promise. 
+
+
+
+17 
+
+
+
+1879 Born at Miinchenbuchsee near Bern, December 8. 
+
+1898 Graduates from the Literarschule, Bern. 
+1898-1900 Studies in Munich at the Academy with Franz Stuck. 
+1901-1902 Travels in Italy. Returns to Bern May 7. 1902. 
+
+1905 Trip to Paris May 31-June 13. Begins glass-paintings. 
+
+1906 Marries Lily Stumpf, a pianist, and moves to Munich. Son Felix born 1907. 
+
+1911 First one-man show at the Thannhauser Gallery, Munich. 
+Establishes contact with the blaue reiter group. Meets Kubin, then 
+Macke, Kandinsky, Marc, Campendonk. Jawlensky, Werefkin, Miinter, Arp. 
+
+1912 Participates in the second blaue reiter exhibition at Hans Goltz Gallery in Munich. 
+Translates an essay by Delaunay for der sturm magazine, Berlin. 
+
+Second trip to Paris, April 2-18; visits Delaunay, Kahnweiler. Sees pictures by Picasso. Braque. Rousseau. 
+
+1913 Exhibits in the erste Deutsche herbstsalon, Berlin. 
+
+1914 Trip to Tunis and Kairouan, April 5-22 with Moilliet and Macke. 
+Begins to work mainly in watercolor. 
+
+1916-1918 Service in the German army. 
+
+1920 362 works exhibited at Hans Goltz Gallery. 
+
+Klee's schopferische konfession (creative credo) published by E. Reiss. 
+Appointed to faculty of the Weimar Bauhaus by Gropius on November 25. 
+
+1921 Moves to Weimar. 
+
+1923 Klee's wece des naturstudiums (ways of studying nature) published in the Bauhaus-Biicher series. 
+
+1924 First Klee exhibition in America (Societe Anonyme, New York) . 
+Founding of die blaue vier : Kandinsky, Klee, Feininger, Jawlensky. 
+
+1925 The padagogische skizzenbuch (pedagogical sketchbook) published in the Bauhaus-Biicher series. 
+The Bauhaus moves to Dessau. 
+
+Klee participates in the Surrealist exhibition. Paris. 
+First one-man show in Paris at Galerie Vavin-Raspail. 
+
+1926 Klee moves to Dessau. 
+
+1928 Trip to Egypt December 17 to January 17, 1929. 
+
+1929 One-man show at Flechtheim Gallery. Berlin for Klee's fiftieth birthday. 
+Exhibition shown at Museum of Modern Art, New York in 1930. 
+
+1931 Becomes a member of the Academy at Diisseldorf. 
+1933 Returns to Bern in December. 
+
+1935 Large Klee exhibition at the Kunsthalle. Bern and in Basel. 
+First signs of fatal illness. 
+
+1937 17 pictures by Klee in the Nazi exhibition of "Degenerate Art" in Munich. 
+102 of his works confiscated from public collections in Germany. 
+
+1938 Exhibits at the Buchholz (Curt Valentin) and Nierendorf Galleries. New York. 
+and at the Simon (Kahnweiler) and Carre Galleries. Paris. 
+
+1940 Exhibition of Klee works 1935-1940 at the Ziirirh Kunsthaus. 
+Klee paints his own Requiem. 
+Dies at Muralto-Locarno June 29. 
+
+
+
+18 
+
+
+
+
+SISTER OF THE ARTIST (SCHWESTER DES KUNSTLERS) . 1903. 
+
+Oil on board, IIV2 x 13" (29 x 33 cm.) . 
+
+Not signed. 
+
+Not in Klee catalogue. 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+19 
+
+
+
+WORKS IN THE EXHIBITION 
+
+
+
+"All the things an artist must be: poet, explorer of nature, 
+philosopher! And now I have become a bureaucrat as well 
+by compiling a large, precise catalogue of all my artistic 
+productions ever since my childhood." 
+
+
+
+All entries in this exhibition have been checked with records at the 
+Paul Klee Foundation in Bern. The catalogue numbers listed refer 
+to the notebook kept by the artist himself. The inventory numbers 
+refer to the collection of his son. Felix Klee. Klee's German descrip- 
+tions of the medium used have been translated into the closest pos- 
+sible English counterpart. Quotations from Klee's writings may be 
+traced to the following sources: tacerbucher von paul klee 1898- 
+1918, ed. Felix Klee. Cologne, M. DuMont Schauberg, 1957 (English 
+translation. Berkeley, University of California Press, 1964) ; 
+schopferische konfession, Berlin, E. Reiss. 1920: paul klee 
+by Will Crohmann, New York, Harry N. Abrams, Inc., 1955; and 
+unpublished letters and lecture notes of Klee in the possession of 
+Professor Will Grohmann. 
+
+
+
+20 
+
+
+
+
+1 (above) 
+
+UNTITLED (1 FISH, 2 FISH-HOOKS, 1 SMALL ANIMAL) 
+
+[OHNE TITEL (1 FISCH, 2 ANGELHAKEN, 
+
+1 KLEINES GETIER) ]. 1901. 
+
+Watercolor and ink on paper, 5% x 8V8" (14 x 20,6 cm.) . 
+
+Signed 1.1. "P.K." 
+
+Not in Klee catalogue. Inv. 1309. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+5 (below) 
+
+CONCERT OF THE PARTIES (DAS KONZERT DER PARTEIEN) . 1907. 
+
+Ink and watercolor on paper, 9V2 x 12%" (24,1 x 32,4 cm.) . 
+
+Signed and dated 1.1. "P.K. 07". 
+
+Klee catalogue no. 1907, 14. 
+
+Private Collection, Los Angeles. 
+
+Provenance: Dr. Heinrich Stinnes, Cologne. 
+
+Stuttgart Kunstkabinett, (Auction 1954). 
+
+Gallery Berggruen, Paris. 
+
+Frank Perls. Beverly Hills. 
+
+
+
+
+TT : r- 
+
+
+
+
+
+
+; V ^V, 
+
+
+
+
+21 
+
+
+
+
+
+
+M^C^s 
+
+
+
+1 1 
+
+
+
+:i 
+
+
+
+irF 
+
+
+
+3; 
+
+
+
+*8 
+
+
+
+i ft 
+
+'/ j .- .. - 
+
+
+
+
+
+
+
+
+
+W . j- 
+
+
+
+y* ! ; ' Obi I &lt;S &gt; -y»" i,i n i /'" 
+
+
+
+3» * 
+
+
+
+W- 
+
+
+
+«fl 
+
+
+
+X 
+
+
+
+■tiiU 
+
+
+
+6 (above) 
+
+BEATENBERG, THE HOTEL GARDEN 
+
+(BEATENBERG, DER HOTELGARTENj . 1909. 
+
+Ink on paper, 6% x 10%" (17,1 x 27 cm.) . 
+
+Signed l.r. "P. Klee"; signed, dated, and inscribed u.l. "Klee 1909, 48". 
+
+Klee catalogue no. 1909, 48. 
+
+Private Collection. 
+
+Provenance: Nierendorf Gallery, New York. 
+
+
+
+9 (below) 
+
+STEAMSHIPS IN THE HARBOR I DAMPFSCHIFFE IM HAFEN ) . 1911. 
+
+Ink on paper, 6% x 9%" ( 16,2 x 25 cm.) . 
+
+Signed r.c. "Klee"; inscribed in margin "Damschiffe im Hafen 4 1911". 
+
+Klee catalogue no. 1911, 4. 
+
+Collection Walter C. Goodman, Belvedere, California. 
+
+Provenance: Galerie Rosengart, Lucerne. 
+
+
+
+
+22 
+
+
+
+
+7 (above) 
+
+HOUSE AND FIELD (HAUS UND ACKER ) . 1909. 
+
+Oil on board, 12% x SVz" (32 x 21,5 cm.) . 
+
+Signed u.l. "Klee". 
+
+Not in Klee catalogue. Inv. 41. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+3 (below) 
+
+LANDSCAPE (LANDSCHAFT). c.1905. 
+
+Oil on board, 10 7 /s x 14%" (27,7 x 37 cm.) . 
+
+Not signed. 
+
+Collection The Art Museum, Princeton University. 
+
+Provenance: Estate of the artist. 
+
+Mathilde Klee. 
+
+Interart, Lucerne, 1952. 
+
+
+
+
+■^m^m00" m 'l^^t 
+
+
+
+23 
+
+
+
+
+4 (above) 
+
+WOMAN READING (DIE LESENDE) . 1906. 
+
+Ink with watercolor on paper, 9% x 8" (24,1 x 20,3 cm.) . 
+
+Signed and dated 1.1. "Klee 1906". 
+
+Collection Albright-Knox Art Gallery. Buffalo, New York, 
+
+Gift of A. Conger Goodyear. 
+
+Provenance: Galleries Mettler, Paris. 
+
+A. Conger Goodyear, Buffalo and New York. 
+
+
+
+13 (below) 
+
+OLD AND YOUNG (ALT UND JUNG) . 1913. 
+
+Oil on board, 9V4 x 11" (23,3 x 28 cm.) . 
+
+Signed, dated and inscribed u.l. "Klee 1913. 123" 
+
+Klee catalogue no. 1913. 123. 
+
+Lent by Galerie Rosengart, Lucerne. 
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+W 
+
+
+
+
+
+
+■ " ^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*• «x 
+
+
+'.^ ^^^r . 
+
+
+
+
+
+
+
+
+
+
+■ 
+
+
+
+
+
+
+
+24 
+
+
+
+
+
+
+
+
+/i 
+
+
+
+
+
+: 
+
+
+
+2Jw- 
+
+
+
+8 
+
+HANNAH, PROFILE I (HANNAH, PROFIL I) . 1910. 
+
+Watercolor and ink on paper, 7 x ^Vi" (17,8 x 10,8 cm.) . 
+
+Signed u.l. and c.r. "Klee"; inscribed on mount '"Hannah 1 66 1910" 
+
+Klee catalogue no. 1910, 66. 
+
+Collection F. C. Schang, New York. 
+
+Provenance : Curt Valentin, New York. 
+
+
+
+10 
+
+TWO LADIES (ZWEI DAMEN) . 1911. 
+
+Watercolor and ink on paper, 5 x 4" (12,7 x 10,2 cm.) . 
+
+Signed u.l. "Klee'"; inscribed on mount "2 Damen 1911 38'' 
+
+Klee catalogue no. 1911, 38. 
+
+Collection F. C. Schang, New York. 
+
+Provenance: Kissling. 
+
+J. B. Neumann, New York. 
+
+Clifford Odets. 
+
+
+
+
+11 
+
+STREET LAMPS (LATERNEN) . 1912. 
+
+Watercolor and ink on paper, 4% x 9 X A" (12,1 x 23,5 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "Laternen 1912 59" 
+
+Klee catalogue no. 1912, 59. 
+
+Lent by Galerie Rosengart, Lucerne. 
+
+Provenance : Miller, 1913. 
+
+
+
+25 
+
+
+
+
+
+16 
+
+WITH THE BLACK SPOTS (MIT DEN SCHWARZEN TUPFEN) . 1915. 
+
+Watercolor and ink on paper mounted on paper, 6V4 x 2%" (16 x 6 cm.) . 
+
+Signed l.r. "Klee"'; inscribed on mount "1915 251". 
+
+Klee catalogue no. 1915, 251. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+17 
+
+ALTAR WITH THE TWO MOONS 
+
+(ALTAR MIT DEN BEIDEN MONDEN) . 1917. 
+
+Watercolor on paper, 10% x 6%" (26 x 16,5 cm.) . 
+
+Not signed; inscribed on mount "1917 73". 
+
+Klee catalogue no. 1917, 73. 
+
+Collection LIrsula and Frank Laurens, Cincinnati. 
+
+Provenance: Stuttgart Kunstkabinett (Auction 1951). 
+
+
+
+
+
+15 
+
+TWO WATERCOLORS &gt;Z\\ El AQUARELLE). 1915. 
+
+Watercolor on paper. I. ell sheet I x I "s" i 10.2 \ 10,5 cm.) : right sheel 5% \ I "s" i I -i.K \ 10,5 cm.) . 
+Left sheet inscribed on mount "1915, 79"; rijzlil -beet signed u.r. "Klee". 
+Klee catalogue no. 1915, 79. 
+Collection Siegfried Rosengart, Lucerne. 
+
+
+
+26 
+
+
+
+
+12 (above) 
+
+A HOTEL (EIN HOTEL) . 1913. 
+Watercolor on paper. 9V4 x Wi" (23,5 x 21 cm.) . 
+Signed u.r. "Klee"; inscribed on mount "1913 120 Ein Hotel". 
+Klee catalogue no. 1913, 120. 
+
+The Baltimore Museum of Art, Nelson and Juanita Grief Collection. 
+Provenance : Interart, Lucerne, 1952. 
+Nelson Gurman. 
+
+
+
+14 (below) 
+
+ST. GERMAIN NEAR TUNIS (INLAND) 
+
+[ST. GERMAIN BEI TUNIS (LANDEINWARTS) ]. 1914. 
+
+Watercolor on paper, 8V4 x 12%" (21 x 31,1 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1914/217 
+
+St. Germain b. Tunis (Landeinwarts)." 
+
+Klee catalogue no. 1914, 217. 
+
+Collection Nina Kandinsky, Neuilly-sur-Seine. 
+
+Provenance : the artist. 
+
+
+
+t 
+
+
+
+
+27 
+
+
+
+
+19 (above) 
+
+LEAF OF MEMORY ABOUT A CONCEPTION 
+
+( ERINNERUNGS-BLATT AN EINE EMPFANGNIS ) . 1918. 
+
+Watercolor and ink on paper, 10% x 6%" (25,7 x 16,8 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "1918. 75 Erinnerungsblatt an eine Empfangnis" 
+
+Klee catalogue no. 1918, 75. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: Hans Goltz, Munich. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+22 (below) 
+
+SEXUAL AWAKENING OF A YOUTH 
+(SEXUELLE ERKENNTNIS EINES KNABEN) . 1918. 
+Watercolor on gesso-primed canvas. 9% x 9%" (23 x 24.3 cm.) . 
+Signed u.l. "Klee"; inscribed on mount "1918. 111". 
+Klee catalogue no. 1918. 111. Inv. 1121. 
+Collection F. K., Bern. 
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+
+28 
+
+
+
+
+18 
+
+ADVENTURE IN THE LECHAUEN (WITH THE SNAKE) 
+
+ERLEBNIS IN DEN LECHAUEN (M.D. SCHLANGE) . 1918. 
+
+Watercolor on gesso-primed paper, 6V8 x 9V*" (15,5 x 23,3 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "'1918. 1. Erlebnis in den Lechauen"' 
+
+Klee catalogue no. 1918, 1. 
+
+Collection Mr. and Mrs. Hans Neumann, Caracas. 
+
+Provenance: Hans Goltz, Munich, 1920. 
+
+Galerie Alfred Flechtheim, Diisseldorf. 
+
+Galerie Alex Somel, Diisseldorf. 
+
+
+
+
+
+21 
+
+THE TREE OF HOUSES (DER HAUSERBAUM) . 1918. 
+
+Watercolor and ink on chalk-primed gauze mounted on paper 
+
+mounted on board, 9Vs x 7%" (23 x 18,4 cm.) . 
+
+Signed u.l. "Klee": dated on mount "1918". 
+
+Klee catalogue no. 1918, 83. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+24 
+
+ABSTRACT WITH MOON CRESCENT 
+
+(ABSTRAKT MIT MONDSICHEL) . 1919. 
+
+Watercolor on chalk-primed paper mounted on paper, 
+
+5%x6" (14,6x15,2 cm.). 
+
+Signed u.r. "Klee"; inscribed on mount "1919 47". 
+
+Klee catalogue no. 1919, 47. 
+
+Collection Mrs. Helen Serger, New York. 
+
+Provenance: Marion Rosalsky. 
+
+
+
+29 
+
+
+
+
+20 
+
+FLOWER GARDENS OF TAORA (BLUMENGARTEN VON TAORA) . 1918. 
+
+Watercolor on chalk-primed paper; 2 sheets mounted side by side, 
+
+Left sheet 6% x iVz" (16,2 x 11,5 cm.) ; right sheet 6Vi x 5%" (15,9 x 13,4 cm.) . 
+
+Left sheet signed u.l. "'Klee"; inscribed on mount "1918, 77. Blumengarten von Taora" 
+
+Klee catalogue no. 1918, 77, as "Botanischer Garten v. Taora". 
+
+Collection Allen Memorial Art Museum, Oberlin College, Oberlin, Ohio. 
+
+Provenance: Renee Ziegler, Zurich. 
+
+Israel Neumann, Berlin. 
+
+Curt Valentin, New York. 
+
+Clifford Odets, New York. 
+
+
+
+
+
+23 
+
+ORGANIZATION (EINORDNUNC). 1918. 
+
+Watercolor and ink on paper mounted on board. 11% x 8%" (29.8 x 22,2 en 
+
+Signed 1.1. "Klee"; inscribed on mount "Einordnung 1918, 167". 
+
+Klee catalogue no. 1918, 167. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: Hans Coltz, Munich. 
+
+Galka E. Scheyer. Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+26 
+
+ILL FATE OF THE SHIPS (I \STERN DER SCH1FFE). 1919. 
+
+\\ atercolor on paper, 9 x 11" (22.9 x 28 cm.) . 
+
+Signed c.r. "Klee": dated and inscribed 1.1. "1919. 90. (Jnstern der Schiffe 
+
+Klee catalogue no. 1919, 90. 
+
+Collection Mr. and Mrs. Arnold II. Maremount, Winnetka, Illinois. 
+
+Provenance: F. C. Srliang. New Yirk. 
+
+Saidenberg Gallei v. New Vnk. 
+
+
+
+30 
+
+
+
+'Art does not render the visible; rather, it makes visible." 
+
+
+
+"For spatial art does not begin with a poetic mood or idea but with 
+the construction of one or more figures, with the harmonizing of 
+several colors and tones, or with, the devaluation of spatial relation- 
+ships and so on." 
+
+
+
+"Art plays an unwitting game with the ultimate things and achieves 
+them nevertheless." 
+
+
+
+"This is why I am again all on the side of satire. Am I to be com- 
+pletely absorbed by it once more? For the time being it is my only 
+creed. Perhaps I shall never become positive? In any case, I will 
+defend myself like a wild beast." 
+
+
+
+"Ingres is said to have ordered the motionless; I want to go beyond 
+pathos and order motion. (The neiv Romanticism.)" 
+
+
+
+31 
+
+
+
+
+25 
+
+TUNISIAN GARDENS (TUNESISCHE GARTEN) . 1919. 
+
+Watercolor on paper. 9V4 x 12%" (24.1 x 32 cm.) . 
+
+Signed l.r. "Klee": dated 1.1. "1919. 81". 
+
+Klee catalogue no. 1919, 81. 
+
+Pasadena Art Museum. Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer. Hollywood. California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+32 
+
+
+
+
+27 (above) 
+
+ROCKY LANDSCAPE WITH PALMS AND FIRS 
+
+(FELSENLANDSCHAFT MIT PALMEN UND TANNEN) . 
+
+Oil on board, 16% x 20V4" (42,5 x 51,5 cm.) . 
+
+Signed I.r. "Klee' . 
+
+Klee catalogue no. 1919, 155. Inv. 27. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+1919. 
+
+
+
+29 (below) 
+
+LANDSCAPE WITH 3 BLUEBIRDS 
+
+(LANDSCHAFT MIT 3 BLAUE VOGELN) . 1919. 
+
+Watercolor on chalk-primed canvas, 8V2 x UYs" (21,5 x 28,2 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount 1919. 189. 
+
+Klee catalogue no. 1919, 189. 
+
+Philadelphia Museum of Art. A. E. Gallatin Collection. 
+
+Provenance: A. E. Gallatin, New York. 
+
+
+
+
+33 
+
+
+
+
+28 (above) 
+
+THE MARIONETTE (MIT DER MARIONETTE) . 1919. 
+
+Oil on gesso-primed board, 14% x 12 7 /s" (37,5 x 32,5 cm.) . 
+
+Signed and dated 1.1. "Klee 1919 159". 
+
+Klee catalogue no. 1919, 159. Inv.33. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+
+
+30 (below) 
+
+LANDSCAPE OF THE INDUSTRIAL SECTION 
+(LANDSCHAFT AUF DEM INDUSTRIE GEBEIT) . 1920. 
+Oil transfer drawing on paper mounted on paper, 9Vi x 12%" (.23.5 x 31,1 cm.) . 
+Signed u.r. "Klee"; dated 1.1. "1920 8". 
+Klee catalogue no. 1920, 8. as "Industrielle Landschaft". 
+Private Collection. California. 
+Provenance: Hans Goltz, Munich, 1920. 
+Gottfried Galston. 
+
+
+
+
+34 
+
+
+
+
+
+31 
+
+SUBURB OF RED HOUSES (ROTES VILLENQUARTIER) . 
+
+Oil on board, 14% x UVi" (36,2 x 31,1 cm.) . 
+
+Signed and dated 1.1. "Klee, 1920 74". 
+
+Klee catalogue no. 1920, 74. 
+
+Collection San Francisco Museum of Art. 
+
+Provenance: Gordon Onslow-Ford, Inverness, California, 1951. 
+
+
+
+36 
+1920. ROOM PERSEPECTIVE RED-GREEN 
+
+(ZIMMER PERSPEKTIVE ROT-GRUN) . 1921. 
+
+Watercolor and pencil on paper, 7 7 /s x 10%" (20 x 26,7 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1921/46. zimer perspektive rot/griin' 
+
+Klee catalogue no. 1921, 46. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+Estate of Galka E. Scheyer. 
+
+
+
+
+
+33 
+
+MR. JULES THE MAGICIAN 
+
+(MR. JULES DER ZAUBERKUNSTLER) . 1920. 
+
+Ink on paper mounted on board, TV* x HVs" (18,4 x 28,3 cm.) . 
+
+Signed l.r. "Klee"; inscribed c. "Mr. Jules;" 
+
+inscribed on mount "1920, 154 Mr. Jules, der Zauberkiinstler". 
+
+Klee catalogue no. 1920, 154. 
+
+Collection Steven D. Saidenberg, New York. 
+
+Provenance: Private Collection, Paris. 
+
+
+
+38 
+
+WALKING HAND IN HAND (SPAZIERGANG) . 1921. 
+
+Ink on paper mounted on board, 8% x 6 7 /s" (22,5 x 17,5 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1921/60". 
+
+Klee catalogue no. 1921, 60. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+35 
+
+
+
+
+
+32 
+
+BERTA. 1920. 
+
+Oil on paper, 12% x 10" (30,7 x 25,3 cm.) . 
+
+Signed, dated and inscribed u.l. "Klee, 1920 77, Berta' 
+
+Klee catalogue no. 1920, 77. 
+
+Lent by Galerie Rosengart, Lucerne. 
+
+
+
+40 
+
+BLACK BELL IN THE FOREST (SCHWARZE GLOCKE IM WALD) . 1921. 
+
+Watercolor and ink on paper mounted on board, 5% x 7%" (14,6 x 19,7 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1921/81 Schwarze Glocke im Wald". 
+
+Klee catalogue no. 1921, 81. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood. California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+
+
+34 
+
+THE GATE TO HADES (DAS TOR ZUM HADES) . 1921. 
+
+Oil transfer drawing with watercolor on paper mounted on board. 
+
+10% x 15%" (27,3 x 39 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1921/29 Das Tor Zum Hades.' 
+
+Klee catalogue no. 1921, 29. 
+
+Pasadena Art Museum. Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+35 
+
+TRIPLE PORTH \1T iO\E PERSON SEATED) 
+
+[TRIPELBILDNIS 'FINE PERSON SITZEND)]. 1921. 
+
+Watercolor and ink on paper. 5% \ ft's" 1 15 x 15,5 era, ' . 
+
+Signed c.r. "Klee". 
+
+Klee catalogue no. 1921, .".J. 
+
+Pasadena An Museum, Galka E. Scheyer Blue Four i Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer. Hollywood. California. 
+
+Estate ol Galka E. Scheyei 
+
+
+
+36 
+
+
+
+
+37 (above) 
+
+TRANSPARENT PERSPECTIVE (WITH THE PAVILION) 
+
+[TRANSPARENT-PERSPECTIVISCH (MIT DEM PAVILLON) ]. 1921. 
+
+Watercolor on paper mounted on board. lOVs x 11%" (25,6 x 29,6 cm.) . 
+
+Signed I.r. "Klee"; inscribed on mount "1921, 55 Transparent-perspectivisch S. Kl.". 
+
+Klee catalogue no. 1921. 55 as "Transparent-perspectivisch (m.d. Pavilion) ". Inv. 688. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+41 (below) 
+
+AUTUMNAL PLACE ( HERBSTLICHER ORT) . 1921 
+
+Watercolor on paper, 13 x 8 7 /s" (33 x 22,5 cm.) . 
+
+Signed l.r. "Klee". 
+
+Klee catalogue no. 1921, 104, as "Ansteigende Hauser im Herbst* 
+
+Collection Cristoph and Andreas Vowinckel, Cologne. 
+
+
+
+
+37 
+
+
+
+
+39 (above) 
+
+FUGUE IN RED (FUGE IN ROT) . 1921. 
+
+Watercolor on paper mounted on board, 10% x 14%" (24,5 x 37.3 cm.) . 
+
+Signed 1.1. "Klee" ; inscribed on mount "S.— CI 1921/69 Fuge in Rot". 
+
+Klee catalogue no. 1921, 69. Inv. 718. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+45 (below) 
+
+GROWTH OF PLANTS (PFLANZEN WACHSTUM) . 
+
+Oil on board, 21Y4 x 15 7 /s" (54 x 40,3 cm.) . 
+
+Signed and dated l.r. "Klee 1921/193". 
+
+Klee catalogue no. 1921, 193. 
+
+Collection Nina Kandinsky. Neuilly-sur-Seine, France. 
+
+Provenance: the artist. 
+
+
+
+1921. 
+
+
+
+
+38 
+
+
+
+
+
+42 
+
+RUNNER AT THE GOAL (LAUFER AM ZIEL) . 1921. 
+
+Watercolor and gouache on paper mounted on paper, 11% x 9" (30,2 x 23 cm.) . 
+
+Signed c.r. "Klee"; inscribed on mount "1921 105 Laufer am Ziel". 
+
+Klee catalogue no. 1921, 105. 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, 1948. 
+
+
+
+43 
+
+THE HOLY ONE ( DIE HE1LIGE ) . 1921. 
+
+Oil transfer drawing with watercolor on paper, 17% x 12%" (45,2 x 31,5 cm 
+
+Signed l.r. "Klee"; inscribed on mount "1921/107 Die Heilige 
+
+fur Emmy Scheyer in Freundschaft Weihnachten 1921 Kl". 
+
+Klee catalogue no. 1921, 107. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+39 
+
+
+
+
+
+49 
+
+FRIGHT OF A GIRL (SCHRECK EINES MADCHENS) . 1922. 
+
+Oil transfer drawing on paper, 12% x W»" (32.7 x 23.2 cm.1 . 
+
+Signed l.r. "'Klee"; inscribed on mount "1922/131 Schreck eines Madchens". 
+
+Klee catalogue no. 1922, 131. 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf. New York. 
+
+Estate of Karl Nierendorf, 1948. 
+
+
+
+51 
+
+FLOWER FAMILY V (BLUMEN F Will IE Y&gt;. 1922. 
+
+Watercolor on paper, 9% \ 6V4" (24,2 \ 16.5 cm.) . 
+
+Signed l.r. "Klee". 
+
+Klee catalogue no. 1922. 134. 
+
+Private Collection, ( lanada. 
+
+Provenance: Karl Nierendorf, New Y&gt;rk. l l M2. 
+
+
+
+40 
+
+
+
+
+48 
+
+PARTING AT EVENING (DIAMETRICAL GRADATIONS OF BLUE-VIOLET AND YELLOW-ORANGE) 
+
+[SCHEIDUNG ABENDS (DIAMETRAL-STUFUNG AUS BLAUVIOLETT UND GELBORANGE) ]. 1922. 
+
+Watercolor on paper mounted on board. lSVs x 9%" (33,4 x 23 cm. ) . 
+
+Signed LI. "TClee"; inscribed on mount "S.C1 1922 79 Scheidung Abends". 
+
+Klee catalogue no. 1922, 79 as "Scheidung Abends (diametral-Stufung aus blauviolett und gelborange) ". Inv. 690. 
+
+Collection F. K., Bern. 
+
+Provenance : the artist. 
+
+Lily Klee, Bern. 
+
+
+
+41 
+
+
+
+
+50 
+
+MAID OF SAXONY ( MADCHEN AUS SACHSEN) . 1922. 
+
+Oil and foil on oil-primed muslin monnleH on board. 12% x 7" I 32 x 17.8 cm. 
+
+Signed I.e. "Klee"'; inscribed on mount "1922 132 Madchen aus Saclisen". 
+
+Klee catalogue no. 1922, 132. 
+
+Pasadena Art Museum. Galka E. Scheyer Blue Four Collodion. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer. Hollywood. California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+42 
+
+
+
+
+i 
+
+
+
+r .. 
+
+
+
+
+^)ii . , ~u':.i_ 
+
+
+
+...... . - . 
+
+
+
+44 
+
+AQUARIUM GREEN-RED (2 SMALL SCENES) 
+[AQUARIUM GRUN/ROT (ZWEI KLEINE SCENEN) ]. 1921. 
+Watercolor on paper mounted on board. Upper sheet 2% x 3 x /2" 
+(7,3 x 8,8 cm.) ; Lower sheet 4Y2 x 3%" ( 11,5 x 8,8 cm.) . 
+Signed 1.1. "Klee"; inscribed on mount "1921/127 Aquarium griin/rot". 
+Klee catalogue no. 1921. 127. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood. California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+54 
+
+THE LEADING SCENE FROM THE BALLET 'THE FALSE OATH" 
+
+(HAUPTSCENE AUS DEM BALLET "DER FALSCHE SCHWUR") . 1922. 
+
+Watercolor and ink on paper mounted on board, 19 x Yl x k" (48,3 x 31,1 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1922/155 Hauptscene 
+
+aus dem ballet 'der falsche schwur' ". 
+
+Klee catalogue no. 1922, 155. 
+
+Collection Mr. and Mrs. Daniel Saidenberg, New York. 
+
+Provenance: Richard Davis, Minneapolis, 1957. 
+
+
+
+43 
+
+
+
+
+
+
+
+I 
+
+
+
+
+1,1s t 'ft 
+
+
+
+55 
+
+EXOTIC RIVER LANDSCAPE 
+
+(EXOTISCHE FLUSSLANDSCHAFT) . 1922. 
+
+Ink and watercolor on paper, 9 x 6%" (23 x 17,2 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1922/158 Exotische Fluss 
+
+Landschaft fiir Galston damit er gsund wird Weimar 1, Januar23 Klee": 
+
+Klee catalogue no. 1922, 158. 
+
+Private Collection, California. 
+
+Provenance: Gottfried Galston. 
+
+
+
+56 
+
+FIRST DRAWING FOR SPECTER OF A GENIUS 
+
+i ERSTE ZEICHNUNG ZUM GESPENST EINES GENIES). 1922. 
+
+Ink on paper mounted cm paper. 1 I^is x 7 3 j" i 36,5 x 19.7 cm.). 
+
+Signed u.I. "Klee": inscribed on mount "1922. Ill 192 
+
+erste Zeichnung zum gespensl eines Genies". 
+
+Klee catalogue no. 1922. 192. 
+
+Pasadena \n Museum, Calka E. ScheyerBIue Four Collection. 
+
+Provenance: tbe artist. 
+
+Galka E. Scheyer, Hollywood. California. 
+
+Estate "I ( l.ilka I Si hrvci 
+
+
+
+44 
+
+
+
+
+46 (above) 
+
+AGING VENUS (DIE ALTERNDE VENUS) . 1922. 
+
+Watercolor, oil transfer drawing and paper collage mounted on board, 
+
+11% x 23%" (29.5 x 38.7 cm.) . 
+
+Signed and dated l.r. ''Klee 1922". 
+
+Klee catalogue no. 1922, 8. 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance : Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, 1948. 
+
+
+
+47 (below) 
+
+ROSEWIND (ROSENWIND).1922. 
+
+Oil on paper mounted on board. 16% x 18%" (41,7 x 48 cm.) . 
+
+Signed 1.1. "Klee". 
+
+Klee catalogue no. 1922, 39. Inv. 1144. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+
+45 
+
+
+
+
+52 (above) 
+
+THE TENOR AS CONCERT SINGER 
+
+(DER HELDENTENOR ALS KONZERTSANGER) . 1922. 
+
+Watercolor and oil transfer drawing on paper, 12 x 15" (35 x 38,1 cm.) . 
+
+Signed c.r. "Klee"; inscribed on mount 
+
+"1922, 144 Der Heldentenor als konzertsanger". 
+
+Klee catalogue no. 1922, 144. 
+
+Collection Dr. and Mrs. Israel Rosen. Baltimore. 
+
+Provenance: Ida Bienert, Munich. 
+
+Saidenberg Gallery, New York. 
+
+
+
+53 (below) 
+
+THE MARCH TO THE PEAK ( DER MARSH ZUM GIPFEL) . 1922. 
+
+Watercolor on paper. 8 x 9%" (20,3 x 23,5 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1922/146 'Der marsh zum gipfel' 
+
+fiir Meister Schreyer Dez 1922 K". 
+
+Klee catalogue no. 1922, 146. 
+
+Collection Earle W. Grant, San Diego. 
+
+Provenance: Hartfield Gallery, Los Angeles. 
+
+
+
+
+46 
+
+
+
+
+58 (above) 
+
+TROPICAL GARDENING (TROPISCHE GARTENKULTUR) . 1923. 
+Oil transfer drawing and watercolor mounted on paper, 7% x 18" (19,7 x 45,7 cm.) . 
+Signed l.r. "Klee"; inscribed on mount "1923, VI (55) Tropische Garten Kultur". 
+Klee catalogue no. 1923, 55. 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+Provenance: Rudolph Bauer, Charlottenburg-Westend. 
+Solomon R. Guggenheim, New York, 1937. 
+
+
+
+59 (below) 
+
+ARCHITECTURE (YELLOW-VIOLET STEPPED CUBES) 
+
+[ARCHITEKTUR (GELBVIOLETT GESTUFTE KUBEN) ]. 19 
+
+Oil on board, 22% x 14%" (57 x 37,5 cm.) . 
+
+Signed and dated 1.1. "Klee 1923 62"; 
+
+inscribed on stretcher "Architektur 1923 62 Klee". 
+
+Klee catalogue no. 1923, 62. 
+
+Lent by Galerie Renee Ziegler, Zurich. 
+
+Provenance : Lily Klee, Bern. 
+
+Hermann Rupf, Bern. 
+
+
+
+
+47 
+
+
+
+
+61 (above) 
+
+DUNE LANDSCAPE-BALTRUM, FROM NATURE 
+
+(DUNENLANDSCHAFT-BALTRUM, NACH DER NATUR) . 1923. 
+
+Watercolor on paper, 9% x 12%" (24,5 x 31, 5 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "S. Kl. 1923. 139 Diinen Landschaft". 
+
+Klee catalogue no. 1923, 139. Inv. 782. 
+
+Collection F. K., Bern. 
+
+Provenance : the artist. 
+
+Lily Klee. Bern. 
+
+
+
+60 (below) 
+
+EROS. 1923. 
+
+Watercolor on paper, 13Vs x 9%" (33,3 x 24,5 cm.) . 
+
+Signed l.r. "Klee"; inscribed I.e. "1923, 115 "Eros' ". 
+
+Klee catalogue no. 1923, 115. 
+
+Collection Siegfried Rosengart, Lucerne. 
+
+
+
+
+48 
+
+
+
+
+
+
+
+62 
+
+RIDE ON THE OGRE ( AUSRITT AUF DEM OGER) . 1923. 
+
+Oil transfer drawing and watercolor on chalk-primed paper, 15% x 20 a /2" (39 x 52 cm.) . 
+
+Signed u.r. and c.l. "Klee"; inscribed on mount "1923 157 Ausritt auf dem Oger". 
+
+Klee catalogue no. 1923, 157. 
+
+Collection Rolf Stenersen, Oslo 
+
+
+
+49 
+
+
+
+"Classical art is a sort of paradise for me " 
+
+
+
+''The Genesis of the 'Script' is a splendid parable of movement. 
+The work of art, too, is experienced by us first of all as a process of 
+creation, rather than as its passive product. The creative impulse 
+suddenly springs to life, like a flame, passes through the hand on 
+to the canvas, where it spreads further until, like the spark that 
+closes an electric circuit, it returns to its source: the eve and the 
+mind." 
+
+
+
+"W hat my art probably lacks, is a kind of passionate humanity. I 
+don't love animals and every sort of creature ivith an earthly 
+warmth. I don't descend to them or raise them to myself. I tend 
+rather to dissolve into the whole of creation and am then on a foot- 
+ing of brotherliness to my neighbor, to all things earthly. I possess. 
+The earth-idea gives way to the world-idea. My love is distant and 
+religious." 
+
+
+
+"Do I radiate warmth? Coolness? There is no talk of such things 
+when you have got beyond white heat. And since not too many 
+people reach that state, feiv will be touched by me. There is no 
+sensuous relationship, not even the noblest, between myself and 
+many. In my ivork I do not belong to the species, but am a cosmic 
+point of reference. My earthly eye is too farsighted and sees 
+through and beyond the most beautiful things. 'Why. he doesn't 
+even see the most beautiful things.' people say about me." 
+
+
+
+"I now abandon work. It penetrates so deeply and so gently into 
+me, I feel it and it gives me confidence in myself without effort. 
+Color possesses me. I don't have to pursue it. It will possess me 
+always. I know it. That is the meaning of this happy hour: Color 
+and I are one. I am a painter." 
+
+
+
+50 
+
+
+
+
+57 (above) 
+
+FIREWIND (FEUERWIND) . 1923. 
+
+Oil transfer drawing and watercolor on oil-primed paper 
+
+mounted on board. 17 x ll 7 /s" (43 x 30 cm.) . 
+
+Signed 1.1. "Klee": inscribed on mount 
+
+"1923/43 Feuerwind S. KL. fur Lily zum 10 Okt. 1932". 
+
+Klee catalogue no. 1923, 43. 
+
+Collection Berner Kunstmuseum. Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+64 (below) 
+
+CHRISTMAS PICTURE IB (WEIHNACHTSBILD IB) . 1923. 
+
+Watercolor on paper, 8% x 13%" (22,2 x 35 cm.) . 
+
+Signed I.e. "Klee'" ; inscribed on mount "1923 178 Weihnachtsbild 1 B" 
+
+Klee catalogue no. 1923, 178. 
+
+Philadelphia Museum of Art, A. E. Gallatin Collection. 
+
+Provenance: A. E. Gallatin, New York. 
+
+
+
+
+«*► 
+
+
+
+
+
+51 
+
+
+
+
+63 (above) 
+
+SOUTHERN LANDSCAPE IN THE SPRING 
+
+(SUDLICHE FRUHLINGSLANDSCHAFT) . 1923. 
+
+Watercolor on paper, 13% x 19%" (34,3 x 49,5 cm.) . 
+
+Signed 1.1. "Klee auf Grand von 1914. 217"; inscribed on mount 
+
+■'1923 175 Sudliche Fruhlings Landschaft". 
+
+Klee catalogue no. 1923, 175. 
+
+Collection Ursula and Frank Laurens, Cincinnati. 
+
+Provenance: Klee Gesellschaft. 
+
+Feilchenfeld, Zurich, 1952. 
+
+
+
+65 (below) 
+
+DUNE FLORA (DUNENFLORA) . 1923. 
+
+Watercolor on paper mounted on board, 10 x 1134" (25,4 x 30 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "1923, 184 Diinenflora". 
+
+Klee catalogue no. 1923, 184. 
+
+Collection Mr. and Mrs. Daniel Saidenberg. New York. 
+
+Provenance: J. B. Neumann, New York. 
+
+
+
+
+52 
+
+
+
+
+66 (above) 
+
+IDOL FOR HOUSECATS (GOTZENBILD FUR HAUSKATZEN) . 1924. 
+
+Oil transfer drawing and lace on chalk-primed muslin 
+
+mounted on board, 14 x 18%" (35,5 x 46,7 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "VI 1924 14 Gotzenbild fur Hauskatzen" 
+
+Klee catalogue no. 1924, 14. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+67 (below) 
+
+STILL LIFE-BAZAAR (BAZAR-STILLEBEN) . 1924. 
+
+Ink on paper mounted on board, 7% x 8%" (18,6 x 22,6 cm.) . 
+
+Signed u.r. "Klee'"; inscribed on mount "1924 28 Bazar-Stilleben'' 
+
+Klee catalogue no. 1924, 28. 
+
+Lent by Flair Gallery, Cincinnati. 
+
+Provenance: Saidenberg Gallery, New York, 1956. 
+
+Mrs. John Barclay. 
+
+Kornfeld and Klipslein, Bern. 
+
+
+
+
+»■ 
+
+
+
+53 
+
+
+
+
+
+
+68 ( above) 
+
+HOUSES IN A LANDSCAPE 
+
+&lt; HAUSER IN DER LANDSCHAFT) . 1924. 
+
+Watercolor and oil on muslin. 17% x 2OV2" (43,5 x 52 cm.) . 
+
+Signed l.r. "Klee"; inscribed 1.1. "1924 39 Hanser in der Landschaft". 
+
+Klee catalogue no. 1924, 39. 
+
+Collection Rolf Stenersen, Oslo. 
+
+
+
+69 1 below) 
+
+SWAMP-WATER SPRITE (SUMPFWASSER NIXE) . 1924. 
+
+Oil transfer drawing with watercolor on paper. 11% x I8V4" (29,8 x 46.3 cm. ) . 
+
+Signed u.l. "Klee"; inscribed on mount "VII 1924 .67 Sumpf Wasser Nixe". 
+
+Klee catalogue no. 1924, 67. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer. Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+
+54 
+
+
+
+
+
+70 
+
+ARABIAN BRIDE (ARABISCHE BRAUT) . 1924. 
+
+Watercolor and crayon on paper mounted on board, 14% x 6%" (36 x 16,8 cm.) . 
+
+Signed I.e. "Klee": inscribed on mount "1924 151 Arabische Braut". 
+
+Klee catalogue no. 1924. 151. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California 
+
+Estate of Galka E. Scheyer. 
+
+
+
+74 
+
+TREE CULTURE (BAUMKULTUR) . 1924. 
+
+Oil transfer drawing with watercolor on paper. 18% x 13%" (47,3 x 34,6 cm 
+
+Signed 1.1. "Klee"; inscribed on mount "VIII 1924 245 Baum Kultur". 
+
+Klee catalogue no. 1924, 245. 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Rudolf Bauer. Charlottenburg-Westend. 1939. 
+
+
+
+55 
+
+
+
+
+VBSTR SlCTIOM M \SK I VBSTR VCTIONSM VSKE). 1924 
+
+\\ atercolor and ink on paper. L'2 \ 15" i 55.9 x 38.1 cm. ' . 
+
+Si gnei I l.i . "Klee"; inscribed on mount "1924 244 Abstractions Vlaske' 
+
+Klee catalogue no. 1924,244. 
+
+Lent l&gt;\ ( lalei ie ( llaude Bernard, Paris. 
+
+Provenance: Gallery Beggruen, Paris. 
+
+
+
+56 
+
+
+
+a. i 
+
+
+
+%*?&amp;•?. 
+
+
+
+
+
+
+
+
+71 (above) 
+
+COLLECTION OF SIGNS (ZEICHENSAMMLUNG) . 1924. 
+
+Ink and watercolor on paper, 9% x 12" (24,5 x 30, 5 cm.) . 
+
+Signed 1.1. "Klee": inscribed on mount "1924 189Zeichen Sammlung". 
+
+Klee catalogue no. 1924, 189. 
+
+Collection Rolf Stenersen, Oslo. 
+
+
+
+72 ( below) 
+
+COLLECTION OF SIGNS, SOUTHERN 
+(ZEICHENSAMMLUNG, SUDLICH) . 1924. 
+Watercolor and ink on paper, 12% x 18%" (31,2 x 46,7 cm.) . 
+Signed 1.1. "Klee". 
+Klee catalogue no. 1924, 214. 
+Collection Washington University, St. Louis. 
+Provenance: Nierendorf Gallery, New York. 
+Joseph Pulitzer. Jr., St. Louis. 
+
+
+
+* 
+
+
+
+□ 
+
+
+
+~l/*~-T~~ 
+
+
+
+♦ D 
+
+
+
+\-tq_ U\iVt ,\kl 
+
+
+
+-f . 
+X 
+
+
+
+■ j - 4^ "^ 
+
+
+
+
+
+
+p 
+
+
+
+•-**- 
+
+
+
+♦ 
+
+
+
+57 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-i P 
+
+
+■-■.-.. -,-.,l~ 
+
+
+-/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r - 
+
+
+
+
+
+
+
+
+
+
+
+
+Hffi * 
+
+
+
+
+
+
+
+
+— Iri r 
+
+Tttij 
+
+l ■&lt;■ 
+
+
+
+
+.:-■••-&gt;' n 
+
+
+HI ' i \ l 
+
+
+1 ■ V - , 
+
+
+
+
+
+
+
+
+■ ■ ' ■ • 
+
+
+. t! £h?T 
+- a n* — l 
+
+
+
+
+1 , J 
+
+
+■ / 1 1 
+
+
+rnr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i "'-I- 
+
+
+#Tr?) 
+
+
+
+
++- 1 
+
+
+i_ i j 
+
+
+
+
+
+
+
+
+^ 
+
+
+a, „• 
+
+
+r V 
+
+
+/ * ^ 
+
+
+
+
+"~S : - 
+
+
+2 Li^M^ 
+
+
+
+
+
+
+
+
+~jj ~\ ~i~* 
+
+
+i 
+
+
+i i 
+
+
+— 
+
+
+— - : '*— 1 • J 
+
+
+_-- s. -i 
+
+
+c 
+
+
+
+
+
+
+- - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+76 ( above) 
+
+HOUSE OF THE OPERA BOUFFE (HAUS DER OPERA BUFFA) . 1925. 
+Watercolor and ink on chalk-primed paper. 9% x 12" (24.1 x 30,5 cm.) . 
+Signed and dated u.l. "Klee, 1925": 
+
+inscribed on mount "II 1925 m.6. Haus der Opera Buffa". 
+Klee catalogue no. 1925 m.6. (36) . 
+Collection Mrs. Picher Purcell, Chicago. 
+Provenance: Buchholz Gallery. New York. 
+Galerie Rosengart, Lucerne. 
+
+
+
+78 (below) 
+
+RIDE ON THE OGRE &lt; AUSR1TT AUF DEM OGER) . 1925. 
+
+Oil transfer drawing and watercolor on paper, 
+
+13% x 19%" (34,7 x 50,1 cm.) . 
+
+Signed 1.1. "Klee"; inscribed I.e. "Ausritt auf dem Oger". 
+
+Klee catalogue no. 1925, B. L. (Ill) . 
+
+Lent by Galerie Rosengart. Lucerne. 
+
+
+
+
+58 
+
+
+
+
+79 (above) 
+
+RISING OF THE MOON (MONDAUFGANG) . 1925. 
+
+Watercolor on paper, 13V4 x 9 7 /s" (33,5 x 25 cm.) . 
+
+Signed l.r. "Klee": inscribed 1.1. "1925 B. 4. Mondaufgang" 
+
+Klee catalogue no. 1925, B. 4. ( 114) . 
+
+Collection Christoph and Andreas Vowinckel, Cologne. 
+
+
+
+82 (below) 
+
+LETTER PICTURE (BRIEFB1LD). 1926. 
+
+Watercolor on paper mounted on paper, 9V4 x 12" (23.5 x 30,5 cm.) . 
+
+Signed and inscribed "An Herrn Kandinsky in MnMtun . 
+
+Mil lichen. W'cimer. Dessau Klee" ; 
+
+inscribed on mount "1926 L. 3. Briefbild 3. 5. Dezember 1927". 
+
+Klee catalogue no. 1926, L. 3, (23) . 
+
+Collection Nina Kandinsky, Neuilly-sur-Seine, France. 
+
+Provenance: the artist. 
+
+
+
+
+59 
+
+
+
+
+81 (above) 
+
+COTE MERIDIONAL. 1925. 
+
+Oil and watercolor an paper, 14 Vz x 18%" (36,8 x 47,6 cm.) . 
+Signed u.l. "Klee". 
+
+Klee catalogue no. 1925, T.5 ( 195 &gt; as "Siidliche Kiiste Abends 
+Collection William S. Picher, Belvedere, California. 
+Provenance: Joseph von Sternberg, Los Angeles. 
+Parke-Bernet, New York. 
+
+
+
+80 (below) 
+
+MR. PEP AND HORSE ( MR. PEP MIT EINEM PFERDl . 1925. 
+
+Watercolor and ink on paper, 10% x 13" (26,7 x 34,3 cm.) . 
+
+Signed l.r. "Klee". 
+
+Klee catalogue no. 1925. J eins ( 181 ) . 
+
+Collection Wadsworth Atheneum. Hartford. 
+
+Provenance: the artist. 
+
+Galerie Alfred Flechtheim. Berlin. 1933. 
+
+
+
+
+60 
+
+
+
+
+83 
+
+VILLAGE KARNEVAL ( DORF CARNAVAL) . 1926. 
+
+Oil on muslin mounted on board, 21% x 17%" (55 x 43,8 cm.) . 
+
+Signed and dated u.c. "Klee 1926 D 5" ; inscribed on reverse "D5 Dorf-Carnaval Klee" 
+
+Klee catalogue no. 1926, D5 (135) . 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Galka E. Scheyer, Hollywood, California. 
+
+Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+61 
+
+
+
+
+84 1 above) 
+
+ANIMAL TERROR (DER TIERSCHRECK) . 1926. 
+
+Oil on canvas, 14 x 19" (35,5 x 48,3 cm.) . 
+
+Signed and dated u.r. "Klee 1926 U. 4": inscribed on stretcher 
+
+"1926 U 4 Der Tierschreck-Klee". 
+
+Klee catalogue no. 1926, U. 4 (204) . 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Gustav Knauer, Berlin. 
+
+Buchholz Gallery, 1938. 
+
+Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+86 ( below) 
+
+BILLY-GOAT MASK ( BOCK MASKE). 1926. 
+
+Ink on paper, 9Y4 x 12 Vi" (23,5 x 31,8 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1926, W 5 Bock Maske". 
+
+Klee catalogue no. 1926, W 5 (225) . 
+
+Collection William S. Picher, Belvedere, California. 
+
+Provenance: Galerie Rosengart. Lucerne, 1953. 
+
+
+
+
+62 
+
+
+
+
+*&lt;* 
+
+
+
+
+S: 
+
+
+
+&amp;S V*' 
+
+
+
+""4»j 
+
+
+
+
+
+
+
+
+
+* 
+
+
+
+t 
+
+
+
+* 
+
+
+
+^ff jLt * f*R I 
+
+
+
+
+
+
+V^r"t3 
+
+
+
+k£jti_iM 
+
+
+
+
+
+
+
+\. 
+
+
+i 
+
+r " r \ 
+
+
+
+
+
+
+
+
+, ~ 
+
+
+
+
+
+
+i 
+
+
+
+
+'A 
+
+
+^ 
+
+
+
+
+A 
+
+
+
+
+
+
+
+
+Y 
+
+1 
+
+
+Willi 
+
+4 
+
+
+in ''+■ 
+
+w 
+
+
+" - 1 
+
+
+\ 
+
+
+
+75 
+
+WITH THE LITTLE BLUE HOUSE 
+
+(MIT DEM BLAUEN HAUSCHEN) . 1925. 
+
+Watercolor on paper, 9VS x 4" ( 23 x 10 cm J . 
+
+Signed u.r. "Klee"; inscribed on mount "1925 1.3 mit dem blauen Hiiuschen" 
+
+Klee catalogue no. 1925, 1.3 (23) . 
+
+Collection Mr. and Mrs. Benjamin Hertzberg, New York. 
+
+Provenance : J. B. Neumann. New York. 
+
+Eleanor Saidenberg, New York. 
+
+
+
+94 
+
+STUDY FOR A LANTERN FESTIVAL 
+
+(ENTWURFE ZU EINEN LATERNENFEST) . 1927. 
+
+Ink on paper mounted on board. 14% x 12%" (36,2 x 31,5 cm.) . 
+
+Signed u.l. '"Klee"; inscribed on mount 
+
+"1927 309 Entwurfe zu einen Laternenfest". 
+
+Klee catalogue no. 1927, 309. 
+
+Collection Miss Jenifer Kellen. 
+
+Provenance: Curt Valentin Gallery, New York. 
+
+
+
+
+63 
+
+
+
+
+
+
+89 f below left) 88 (above) 
+
+PLAYTHING (SP1ELZEUG). 1927. I'ACOI) \S O.N \\ VI'KK i PAGODEN \\i WASSER). L927. 
+
+Ink on paper, 8Vs x 11%" (20,7 x 29,8 cm.). Ink on paper mounted on paper, IH 7 s x 12%" i 18 \ 3] cm. &lt; . 
+
+Signed u.l. "Klee"; inscribed on mount "1927 B3 Spielzeug". Signed u.l. "Klee"; inscribed on mounl "I '127 M. 9 Pagoden am Wasser" 
+
+Klee catalogue no. 1927, B3 (113). Klee catalogue no. 1927.M.9. (39). 
+
+Collection William S. Picher, Belvedere, California. Collection The Solomon R.Guggenheim Museum, New York. 
+
+PriiMMiaiii'f: k.nl Yu-rendorf. New Yurk. 
+
+Estate "I Karl Nierendorf, 1948. 
+
+
+
+64 
+
+
+
+
+90 (above) 
+
+MOTHER OF THREE LITTERS (MUTTER DRETER WURFE) . 1927. 
+
+Ink on paper, 16ya x 18V4" (42 x 46,4 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "1927, F. 7. Mutter dreier Wiirfe" 
+
+Klee catalogue no. 1927, F. 7 (157) . 
+
+Collection Mrs. Kay Hillman, New York. 
+
+Provenance : Buchholz Gallery, New York. 
+
+
+
+91 (below) 
+
+JOURNEY IN CORSICA (REISE AUF CORSICA) . 1927. 
+
+Watercolor and ink on paper, 12% x 18" (30,8 x 45,7 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1927, H9 Reise auf Corsica". 
+
+Klee catalogue no. 1927, H 9 (A 239) . 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Galka E. Scheyer, Hollywood, California. 
+
+Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+W . 
+
+
+
+
+% 'mi- 
+
+
+
+
+
+65 
+
+
+
+
+95 (above) 
+
+HEAVENLY AND EARTHLY TIME 
+
+(KOSMISCHE UND IRDISCHE ZEIT) . 1927. 
+
+Watercolor and ink on paper, 9% x 12" (24,5 x 30,5 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mat "1927 UE5 Kosmische und Irdische Zeit'' 
+
+Klee catalogue no. 1927 UE 5. 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Galka E. Scheyer, Hollywood, California. 
+
+Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+92 (below) 
+
+PLANT SEEDS (PFLANZENSAMEN) . 1927. 
+
+Watercolor and ink on paper, 12ys x 18%" (30,8 x 46,7 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1927 Ue 8 Pflanzen Samen" 
+
+Klee catalogue no. 1927, Ue 8 (288) . 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+
+66 
+
+
+
+'^fes-Msy?, 
+
+
+
+
+
+
+ifcsk 
+
+
+
+
+/&lt;?&gt;&gt;/ iff 
+
+
+
+
+
+
+
+
+
+77 
+
+RHYTHM OF PLANTING (RHYTHMEN EINER PFLANZUNG) . 1925. 
+
+Watercolor on paper mounted on paper. 9% x 12%'' (23.2 x 30.7 cm.) . 
+
+Signed u.r. "Klee'': inscribed on mount "1925 qu. 8. Ill Rhythmen einer Pflanzung 
+
+meinem lieben Freund und bisherigem anwohner Kandinsky zum 4 Dez. 1932". 
+
+Klee catalogue no. 1925, qu. 8, (78) . 
+
+Collection Nina Kandinsky. Neuilly-sur-Seine. France. 
+
+Provenance; the artist. 
+
+
+
+67 
+
+
+
+
+85 
+
+VIEW OF A LANDSCAPE (BUCK EINER LANDSCHAFT) . 1926. 
+
+Watercolor on paper. 11% x 18'-8" (29.9 x 46 cm.) . 
+
+Signed u.r. "Klee": inscribed on mount "1926. Y.9 Wick finer I.andsrhaft" 
+
+Klee catalogue no. 1926. V. 9. (2191. 
+
+Philadelphia Museum of Art. The Louise and \\ alter Vrensberg Collection. 
+
+Provenance: Galerie Flechtheim, Berlin. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+P. J. Bachmann, Los Angeles. 
+
+Mr. and Mrs. \\ alter Vrensberg. Ilnll\ wood. ( lalifornia. 
+
+
+
+68 
+
+
+
+
+
+
+97 
+
+SHE YELLS, WE PLAY (SIE BRULLT, WIR SPIELEN) . 1928. 
+
+Oil on canvas, 17% x 22 Va" (44 x 57 cm.) . 
+
+Signed and dated l.r. "Klee 1928 p 10." 
+
+Klee catalogue no. 1928, p 10 (70) . 
+
+Collection Berner Kunstmuseum. Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+69 
+
+
+
+
+^H 
+
+
+
+98 
+
+HOWLING DOC l HEULENDER HUND). 1928. 
+
+Oil on canvas. 17'4 x 22V4" (43.8 x 56.3 cm.) . 
+
+Signed and daled u.l. "Klee 1928 qu. I": inscribed on stretcher "1928 qu. 1. 'Heulender Hun.!" Klee" 
+
+Klee catalogue no. 1928, (|u. I (71 ) . 
+
+Collection The Minneapolis Institute of Arts, gifl ofF. C. Si Inn-. \.» York. 
+
+Provenance: F. C. Schang, New York. 1956. 
+
+
+
+70 
+
+
+
+
+93 (above) 
+
+CONJURING TRICK (ZAUBERKUNSTSTUCK) . 1927. 
+
+Oil transfer drawing and watercolor on board, 19 x /2 x 16%" (49,5 x 42,2 cm.) . 
+
+Signed, dated and inscribed u.l. "Klee 1927 Omega 7"; 
+
+inscribed on stretcher "1927 Omega 7 Klee Zauberkunst Stuck". 
+
+Klee catalogue no. 1927, Omega 7 (297) . 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Galerie Alfred Flechtheim. Berlin. 1927. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+87 ( below) 
+
+TRIPLE MARIONETTE (TRIPEL MARIONETTE). 1927. 
+
+Watercolor on paper mounted on paper, 10 x 8%" (25,5 x 27,5 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1927 3. Tripel Marionette 
+
+fiir Kandinsky zum 4 Dez 1931 in alter Freundshaft". 
+
+Klee catalogue no. 1927, 3. 
+
+Collection Nina Kandinsky, Neuilly-sur-Seine, France. 
+
+Provenance: the artist. 
+
+
+
+
+71 
+
+
+
+
+99 
+
+NEARLY HIT (FAST GETROFFEN). 1928. 
+
+Oil on board, 19% x 15" (49,5 x 38,1 cm.) . 
+
+Signed and dated 1.1. "Klee 1928 E 3". 
+
+Klee catalogue no. 1928, E 3 (143) . 
+
+Collection San Francisco Museum of Art, Albert M. Bender Bequest Fund. 
+
+Provenance: Nierendorf Gallery, New York, 1944. 
+
+
+
+96 1 below) 
+
+LITTLE HOUSES WITH GARDENS 
+
+(KLEINE GARTENSTADTHAUSER). 1928. 
+
+Ink and watercolor on paper, 11% x 18" (29,2 x 45,7 cm.) . 
+
+Signed l.r. ''Klee'"; inscribed on mount "1928 O. 2 Kleine Gartenstadt— Hauser". 
+
+Klee catalogue no. 1928, 0.2 (52) . 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+
+72 
+
+
+
+
+102 (above) 
+ORPHEUS. 1929. 
+
+Varnished watercolor on panel, 19% x 9%" (50 x 23,2 cm. 
+Inscribed on reverse "1929 Z 'Orpheus' Klee". 
+Klee catalogue no. 1929, Z 7. 
+Collection George Danforth. Chicago. 
+Provenance : Buchholz Gallery, New York. 
+James Speyer, Chicago. 
+
+
+
+100 (below) 
+
+FEAR BEHIND THE WINDOW (ANGST HINTER FENSTER) . 1929. 
+
+Watercolor on paper, 9% x 12%" (24,5 x 31,3 cm.) . 
+
+Signed c.l. "Klee"; inscribed on mount "S. CL. 1929 3. H. 28 Angst hinter Fenster 
+
+Klee catalogue no. 1929, H. 28 (3) . 
+
+Lent by Galerie Rosengart, Lucerne. 
+
+
+
+
+73 
+
+
+
+
+103 (above) 
+
+FRAGRANT ISLAND (WOHLRIECHENDE TNSEL) . 
+Watercolor on paper, 9 x 12V4" (23 x 31 cm.) . 
+Signed u.l. "Klee"; inscribed on mount '"1929". 
+Klee catalogue no. 1929, OE 10. 
+Lent by Galerie Beyeler, Basel. 
+Provenance: Mrs. L. M. Maitland, Los Angeles. 
+John Dean, Wilton, Connecticut. 
+
+
+
+1929. 
+
+
+
+101 1 below) 
+
+STORM (STURM). 1929. 
+
+Watercolor and ink on paper, 12 x 18" (30,5 x 45,5 cm.) . 
+
+Signed 1.1. "Klee". 
+
+Klee catalogue no. 1929, OE.8. (278) . 
+
+Collection Christoph and Andreas Vowinckel, Cologne. 
+
+
+
+
+74 
+
+
+
+Stt\^ 
+
+
+
+w 
+
+
+
+A 
+
+
+
+
+104 
+
+CREATOR II (SCHOPFER II) . 1930. 
+
+Oil transfer drawing on paper mounted on board, 14y2 x lZVz" (36,8 x 47 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1930 M 5 Schopfer II". 
+
+Klee catalogue no. 1930, M 5 (35) . 
+
+Collection Marian Wiliard Johnson, New York. 
+
+Provenance: Nierendorf Gallery, New York, 1946. 
+
+
+
+75 
+
+
+
+
+
+105 
+
+PROPHET. 1930. 
+
+Watercolor and colored paste on paper mounted on board. 
+
+24 1 /4xl8 1 /2" (61,6x47 cm.). 
+
+Signed 1.1. "Klee"; inscribed on mount "S.CI 1930 0. 6. Prophet' 1 
+
+Klee catalogue no. 1930, 0. 6. (56) . 
+
+Lent by Galerie Beyeler, Basel. 
+
+Provenance: F. K., Bern. 
+
+
+
+107 
+
+PHANTOM'S OATH (GESPENSTERSCHWI R). 1930. 
+
+Watercolor on paper mounted on board. 18% x 1 l :l t" (. 46.6 x 37. 1 cm. ' . 
+
+Signed and inscribed u.r. "Gespenster Schwur Klee": 
+
+inscribed on board "III 1930. v. 3. GespenMer-Schwur". 
+
+Klee catalogue no. 1930, v. i. (113). 
+
+( olleciiiin Berner Kun-lniu-ciini. Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+76 
+
+
+
+
+110 (above) 
+
+SOUVENIR OF ASSUAN (ERINNERUNG AN ASSUAN) . 1930. 
+
+Colored paste and watercolor on paper, 6% x 20%" (17,2 x 52,4 cm.) . 
+
+Signed c.r. "Klee"; inscribed on mount "1930. C.5. Erinnerung an Assuan" 
+
+Klee catalogue no. 1930, C5 (185) . 
+
+Collection Walter C. Goodman, Belvedere, California. 
+
+Provenance: Main Street Gallery, Chicago. 
+
+
+
+115 (below left) 
+
+WOMEN CATCHER (FRAUENFANGER). 1930. 
+
+Watercolor and colored paste on paper mounted on board, 
+
+7% x 10%" ( 18,5 x 26,2 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1930 F.i Fanger". 
+
+Klee catalogue no. 1930, F.i (221) , as "(Frauen-) fanger". Inv. 777. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+
+1 A 
+
+
+
+| 
+
+
+
+• s 
+
+
+
+
+77 
+
+
+
+
+111 ( below right) 
+
+FIRE CLOWN I (FEUERCLOWN I) . 1930. 
+
+Watercolor on paper, 8*/4 x 6%" (21 x 17 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1930 d 5. Feuerclown I". 
+
+Klee catalogue no. 1930, d 5 (195) . 
+
+Collection Mr. and Mrs. Benjamin Hertzberg, New York. 
+
+Provenance: Gallery Berggruen, Paris. 
+
+
+
+1081 above) 
+
+POLYPHONIC ARCHITECTURE (POLYPHONE ARCHITEKTUR) . 1930. 
+
+Watercolor on muslin mounted on canvas ltv's x 18 1 -!" (12.2 \ 16. 1 cm.) . 
+
+Signed 1.1. -Klee". 
+
+Klee catalogue no. 1930. \V9 1 130 1 . 
+
+Collection Cil&gt; \rt Museum of St. Louis. 
+
+Provenance: the artist, 1939. 
+
+Nierendorf Gallery. New York, 1942. 
+
+
+
+78 
+
+
+
+
+
+
+
+
+
+
+
+106 
+
+RHYTHMICAL. MORE SEVERE AND FREE (RHYTHMISCHES. STRENGER UND FREIER) . 1930. 
+
+Colored paste on paper mounted on board, 18% x 24 Vi" (47,1 x 61,6 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "VIII 1930. O. 9. rhythmisches. strenger und freier". 
+
+Klee catalogue no. 1930, 0. 9. (59) . 
+
+Lent by Galerie Beyeler, Basel. 
+
+Provenance: Private Collection, Bern. 
+
+
+
+79 
+
+
+
+
+113 
+
+OPEN BOOK (OFFENES BUCH).1930. 
+
+Varnished watercolor on while lacquer-primed canvas, 1 7 v s \ Id" i | 15 \ 12 cm. i . 
+
+Signed 1.1. "Klee": inscribed on stretcher "1930. F. 6 i )ffenes Buch' Klee". 
+
+Klee catalogue no. 1930. E 6 (206) . 
+
+Collection The Solomon R. Guggenheim Museum. New Yoi In 
+
+Provenance: Karl Nierendorf. New York. 
+
+Estate of Karl Nierendorf, New York, 1948. 
+
+
+
+80 
+
+
+
+&amp;?y;A»?-r:;^.::::r:fi:*4M^ ^ittv,. 
+
+
+
+
+
+\ 
+
+
+\ y 
+
+x/ 
+
+
+
+
+\ y\ 
+
+
+
+
+A "\ 
+
+
+
+
+:\ \ 
+
+
+
+112 
+
+DANCER (ON YELLOW) [TANZER (AUF GELB) ]. 1930. 
+
+Varnished watercolor on cotton mounted on panel, 
+
+17V4X15" (43,8x38,1 cm.). 
+
+Signed I.e. "Klee". 
+
+Klee catalogue no. 1930, E 4 (204) . 
+
+Collection Morton D. May, St. Louis. 
+
+Provenance: Staempfli Gallery, New York. 
+
+
+
+114 
+
+PLANAR AND LINEAR POLYPHONY 
+
+(POLYPHONIE VON FLACHIGEM UND LINEAREN) . 1930. 
+
+Ink and watercolor on paper mounted on board, 16% x 11%" (41 x 29 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount 
+
+"1930 S.G. Polyphonie von Flachigem und linearen". 
+
+Klee catalogue no. 1930, S 9 (219) . 
+
+Private Collection. 
+
+Provenance: Karl Nierendorf. 
+
+
+
+81 
+
+
+
+
+116 (above) 
+
+LYING AS SNOW (ALS SCHNEE LIEGEND) . 1931. 
+
+Ink on paper mounted on board, 12% x 18%" (31,2 x 47,7 cm.) . 
+
+Signed l.r. *'Klee"; inscribed on mount "1931. 10. als Schnee liegend" 
+
+Klee catalogue no. 1931, 10. 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, New York, 1948. 
+
+
+
+117 (below) 
+
+IN ANGEL'S KEEPING (IN ENGELSHUT) . 1931. 
+
+Ink on paper mounted on board, 16% x 19%" (42.3 x 49,2 cm.) . 
+
+Signed l.r. '"Klee"; inscribed on mount "1931. L. 15. in Engelshut" 
+
+Klee catalogue no. 1931, L. 15 (55) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, New York. 1948. 
+
+
+
+
+82 
+
+
+
+
+118 (above) 
+
+FULL FIGURE ( VOLLE FIGUR) . 1931. 
+
+Ink and watercolor, 19Y8 x 12" (48,5 x 30,5 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1931 M 7 voller Fig 
+
+Klee catalogue no. 1931, M 7 (67) . 
+
+Collection Rolf Stenersen, Oslo. 
+
+
+
+109 (below) 
+
+GROUP W (GRUPPEW).1930. 
+
+Ink and pencil, 9% x 12Vi" (24,5 x 31,2 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "1930. B. 6. Gruppe W 
+
+Klee catalogue no. 1930, B 6 ( 176) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance : Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, New York, 1948. 
+
+
+
+. v . ■ . ■ : 
+
+
+
+
+JC 
+
+
+'■' Jit 
+
+
+***» 
+
+
+
+83 
+
+
+
+
+119 (above) 
+
+DANGER OF LIGHTNING (BLITZ GEFAHRl . 1931. 
+
+Watercolor on paper, 14% x 19" (36,8 x 48,3 cm.) . 
+
+Signed u.l. "Klee". 
+
+Klee catalogue no. 1931, R 19 (159) . 
+
+Collection Mr. and Mrs. Henry T. Kneeland, Bloomfield, Connecticut. 
+
+Provenance: Karl Nierendorf, New York. 
+
+
+
+121 (below) 
+
+SINCE EVERYTHING FLOWS (WEIL ALLES FLIESST) . 
+
+Watercolor on paper, 6% x 8%" ( 16 x 22 cm.) . 
+
+Signed 1.1. "Klee": inscribed on mount "Weil alles Gliesst". 
+
+Collection Mr. and Mrs. Hans Neumann, Caracas. 
+
+Provenance: D. J. Walter Kaesbach, Hemmenhofen. 
+
+
+
+1931. 
+
+
+
+
+84 
+
+
+
+
+
+120 (above) 
+
+THEME CIRCULATING THROUGH 6 PLANES 
+
+(THEMA ALS KREISLAUF DURCH 6 EBENEN) . 1931. 
+
+Ink on paper mounted on board. 19% x 25%" (50,2 x 55,1 cm. 
+
+Signed u.r. "Klee"; inscribed on mount 
+
+"1931, U 14 Thema als Kreislauf durch 6 Ebenen". 
+
+Klee catalogue no. 1931, U 14 (214) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, New York, 1948. 
+
+
+
+126 (below) 
+
+LOOSE COIL (LOSER KNAUL) . 1932. 
+
+Watercolor on paper, 6% x 18%" (16,8 x 47,6 cm.) . 
+
+Signed l.r. "Klee": inscribed on mount "1932 v 12 loser Knaul" 
+
+Klee catalogue no. 1932, v 12 (232) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf. New York. 
+
+Estate of Karl Nierendorf, 1948. 
+
+
+
+
+85 
+
+
+
+
+123 (above) 
+
+PLANTS IN THE YARD (PFLANZEN IM HOF) . 1932. 
+
+Oil and gouache on paper mounted on hoard, 14% x 21" (37,5 x 53,3 cm.) . 
+
+Signed u.l. "Klee". 
+
+Klee catalogue no. 1932, K5 (25) . 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+127 1 below) 
+
+TWO WAYS (ZWEI GANGE) . 1932. 
+
+Watercolor on paper, 12'/4 x lSVs" (31 x 48,5 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1932 v 16 Zwei Gange" 
+
+Klee catalogue no. 1932, v 16 (236) . 
+
+Collection The Solomon R. Guggenheim Museum. New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf. 1948. 
+
+
+
+
+86 
+
+
+
+"New work is preparing itself; the demoniacal shall be melted 
+into simultaneity with the celestial, the dualism shall not be treated 
+as such, but in its complementary oneness. The conviction is al- 
+ready present. The demoniacal is already peeking through here and 
+there and cant be kept down. For truth asks that all elements be 
+present at once. It is questionable how far this can be achieved in 
+my circumstances, which are only halfway favorable. Yet even the 
+briefest moment if it is a good one, can produce a document of a 
+neiv pitch of intensity." 
+
+
+
+.From prototype to archetype V 
+
+
+
+"I welcome the fact that forces so diversely inspired are working 
+together at our Bauhaus. I approve of the conflict between them if 
+the effect is evident in the final product. To tackle an obstacle is a 
+good test of strength, if it is a real obstacle . . . On the whole, there 
+is no such thing as a right or a wrong; the ivork lives and develops 
+through the interplay of opposing forces, just as in nature good 
+and bad work together productively in the long run." 
+
+
+
+"Thus he surveys with penetrating eye the finished forms which 
+nature places before him. The deeper he looks, the more readily 
+he can extend his view from the present to the past, the more 
+deeply he is impressed by the one essential image of creation 
+itself, as Genesis, rather than by the image of nature, the finished 
+product. Then he permits himself the thought that the process of 
+creation can today hardly be complete and he sees the act of world 
+creation stretching from the past to the future. Genesis eternal!" 
+
+
+
+'The Picasso exhibition was... a great surprise. There is something 
+of Matisse . . . Here is the painter of today." 
+
+
+
+87 
+
+
+
+
+124 
+
+POSSIBILITIES AT SEA (MOGLICHES VI V SEE). 1932. 
+
+Oil on canvas. 38Vi x 37%" (97 x 95 cm.) . 
+
+Signed u.r. "Klee". 
+
+Klee catalogue no. 1932. K 6 (26) . 
+
+Pasadena Art Museum, Galka E. Scheyer P&gt; I u e Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+
+
+
+
+
+
+»**tt*tt*i&gt; *»»■» + ** . m ******** »*♦*♦«*» 
+
+m "MMIiMtMl 
+
+*«'*»**:#*♦#'»»,♦♦■*#.. 
+'Ill t » * * » *♦♦*»****&lt; 
+
+• .•'»**•* »♦»»*»*«♦«*« 
+
+»i !f I * * » **«##*#* * *• t ♦ 4- ♦ 1 
+
+»»tVi "♦•*»•« It** 
+
+
+
+• *•«)&lt;•*&lt; m «■ &gt;«iif*n 
+
+l|tl(|IlM I J 
+
+««.&lt;14 4 4 f .l*«««*#H« 
+
+i , * &gt; i 4 * &lt; # iMl***fl**«*a ii 
+
+»«»«4#&lt;H»«*«»*' "*»&lt;«l, ' 
+
+4«.#i&lt;f.-l««&lt;«i*if*i;j&gt;k 
+
+iltif *#*• 111! lift i|iiiP&lt;«* 
+
+t.i. M ■ »j I »»« &gt; nii t #vi». » &gt;H| 
+JlHf «!*«*§&lt;««„ 
+
+NMtt«*&lt;«44*«.4 , 
+W I iff!*** ! 
+
+
+
+. HNfMUM 
+
+
+
+
+
+
+MiliXittVuii 
+
+Hiimtuiitim 
+
+|«|Hi*&lt;&lt;4l«|ll« 
+
+
+
+&gt;»»*»» mii,,', 
+
+iMItltllltt, 
+
+'iMitiniii 
+
+''.:.-■'' 
+
+
+
+» » * »«* 
+
+
+
+4*» uflflfij 
+
+
+
+'■■-■ ■ ;■■:,-■&lt;. ■..-... ....... „. ; ...:^ 
+
+
+
+r MM»| 
+. ffffftf] 
+
+JlfffftfftlM 
+fttftfitttfi 
+
+
+
+fffftflllltl 
+ttfffffftfftl 
+
+HIM Iff Iff ft 
+
+Iflfffffffffl 
+
+~*Htomtn 
+
+II » f *■&lt; • 
+i»* lifts; 
+
+
+
+122 (above) 
+
+BOY AT TABLE (KNABE AM TISCH) . 1932. 
+
+Watercolor and ink on paper, 11% x 18%" (30 x 48 cm. I . 
+
+Signed u.r. "Klee". 
+
+Klee catalogue no. 1932, 19. 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance: the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+
+
+125 (below) 
+
+PUBLIC DUEL (OFFENTLTCHESDUELL). 193&gt;. 
+
+Watercolor and ink on tissue paper. 19V4 x 14%" (49 x 36,2 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1932 qu 11 offentliches Duell" 
+
+Klee catalogue no. 1932, qu 11 ( 131) . 
+
+Collection The Solomon R. Guggenheim Museum. New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, New York. 
+
+
+
+
+
+128 
+
+THE STEP (DER SCHRITT). L932. 
+
+Oil on burlap, 28x21%" (71 x 55,5 cm. 
+
+Signed 1.1. "Klee". 
+
+Klee catalogue no. 1932.Z 19 (319). Im 
+
+Collection F. K., Bern. 
+
+Provenance: the ai tist. 
+
+Lily Klee, Bern. 
+
+
+
+f&gt;87. 
+
+
+
+90 
+
+
+
+
+129 
+
+TWO HEADS (ZWEI KOPFE). 1932. 
+
+Oil on canvas, 31 7 /s x 33%" (81 x 85 cm.) . 
+
+Signed u.r. "Klee". 
+
+Klee catalogue no. 1932, A. 12 (332) . 
+
+Pasadena Art Museum, Galka E. Scheyer Blue Four Collection. 
+
+Provenance : the artist. 
+
+Galka E. Scheyer, Hollywood, California. 
+
+
+
+91 
+
+
+
+
+133 
+
+TRIANGLES ON THE SCENE ( DREIECKE A.UF DER SCENE). 1933. 
+
+Watercolor. oil, egg tempera, on board. 1 l"'s \ 20V ( 37 \ S3 em. I . 
+
+Signed u.r. "Klee": inscribed on reverse "1033 \ 12 'Dreiecke auf der Seem-" Klee" 
+
+Klee catalogue no. 1933. A 12 (312) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+92 
+
+
+
+»■■ 
+
+
+
+^W I n 
+
+
+
+
+
+
+
+■na 
+
+
+
+\ 
+
+
+
+/ 
+
+
+
+. 
+
+
+
+;v^^^^;:^J-r---- v Tiiillilliill&lt;ifife-f ! ai&gt;i«iiiMri 
+
+
+
+130 (above) 
+
+INITIAL LANDSCAPE (INITIAL LANDSCHAFT) . 1932. 
+
+Gouache on paper mounted on board, ZVi x 12%" (21 x 32.8 cm.) . 
+
+Not signed; inscribed on mount "1932 M 14 initial Landschaft". 
+
+Klee catalogue no. 1932, M 14. 
+
+Collection Dr. and Mrs. Robert B. Engle. San Marino. California. 
+
+Provenance: Bertha Schaefer Gallery, New York. 
+
+
+
+131 (below) 
+
+NUDE (WITH VOLUME) [AKT (AUFVOLUMEN) J.1933. 
+
+Watercolor on newspaper. 9% x 14" (24,5 x 35,5 cm.) . 
+
+Signed u.r. "Klee": inscribed on mount "1933 N 8 Akt (auf Volumen) ' 
+
+Klee catalogue no. 1933, N 8 (68) . 
+
+Lent by Galerie Beyeler. Basel. 
+
+Provenance: Richard S. Davis, London. 
+
+
+
+
+93 
+
+
+
+
+132 1 above) 
+
+SPIRIT OF THE VAULT (GEIST DES GEWOLBES) . 1933. 
+
+Watercolor on paper, 8'/s x 12V8" (20,5 x 32,5 cm.) . 
+
+Signed u.I. "Klee"; inscribed on mount "1933 Z.12 Geist des Gewolbes" 
+
+Klee catalogue no. 1933, Z 12 (292) . 
+
+Collection Mr. and Mrs. Hans Neumann, Caracas. 
+
+Provenance : Charles E. Slatkin, New York. 
+
+
+
+138 (below) 
+
+CATTLE SUNNING (DIE HERDE SONNT SICH) . 1934. 
+
+Pencil and watercolor, 12% x 19" (31.1 x 48,2 cm.) . 
+
+Signed u.I. "Klee"; inscribed on mount "1934 L 3 die Heide Sonnt Sich" 
+
+Klee catalogue no. 1934, L 3 (43) . 
+
+Collection F. C. Schang. New York. 
+
+Provenance: Galerie Louise Leiris, Paris. 
+
+
+
+
+94 
+
+
+
+
+
+
+
+
+
+
+134 
+
+PEASANT DWARF (BAUERNZWERG). 1933. 
+
+Colored paste on paper mounted on board, 17% x 10V2" (44 x 26,5 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1933 E 14 Bauernzwerg". 
+
+Klee catalogue no. 1933, E 14 (394) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+135 
+
+IN THE SCULPTOR'S STUDIO (IM BILDHAUERATELIER). 1933. 
+
+Colored paste on paper, 18% x \2Vi" (48 x 31 cm.) . 
+
+Signed u.r. "Klee"; inscribed on reverse "1933 e 15 im Bildhaueratelier' 
+
+Klee catalogue no. 1933, e 15 (395) . 
+
+Collection Rolf Stenersen, Oslo. 
+
+
+
+95 
+
+
+
+
+
+136 
+
+A NEGRO CHILD DOES NOT UNDERSTAND THE SN&lt; &gt;\Y 
+
+(E1N NEGERKiND VERSTEHT DEN SCHNEE NICHT). 1933. 
+
+Watercolor on paper, 16% x 11%" (42,5 x 29,9 cm.) . 
+
+Signed u.r. "Klee". 
+
+Klee catalogue no. 1933, G9 (429) . 
+
+Collection Mr. and Mrs. Arnold H. Maremount. Winnetka, Illinois. 
+
+Provenance: Saidenberg Gallery, New ^urk. 
+
+
+
+144 
+
+ROUGHLYHEWN HEAD iGKOBCKSi IIMTTENER KOPF). 1935 
+
+Watercolor on paper mounted on board, 12% \ 9 1 ■ (31,6 x 24 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "11193 K i b eschnittener Kopf " 
+
+Klee catalogue no. 1935, K 2 (22). 
+
+( Collection F. I Si hang, New York. 
+
+Provenance: .1 ii. Neumann, New York. 
+
+
+
+96 
+
+
+
+
+137 (above) 
+
+LATE GLOW (SPATES GLUHEN) . 1934. 
+
+Pastel on damask mounted on board, 10 7 /s x 13%" (27,5 x 34 cm.) . 
+
+Signed u.l. "Klee"; inscribed on mount "1934 K 9 spates Gltihen". 
+
+Klee catalogue no. 1934, K 9 (29) . Inv. 785. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+139 (below) 
+
+REMNANTS IN THE PLANE (UBERRESTE IN DER EBENE) , 
+
+Watercolor and pencil on paper, 8V8 x 12%" (20,6 x 31,1 cm.) . 
+
+Signed u.r. "Klee"; signed on reverse "1934, L.15". 
+
+Klee catalogue no. 1934, L.15 (55) . 
+
+Collection Ursula and Frank Laurens, Cincinnati. 
+
+Provenance : J. B. Neumann, New York. 
+
+
+
+1934. 
+
+
+
+
+
+143 (above) 
+
+AVIATIC EVOLUTION (AVIATISCHE EVOLUTION). 1934. 
+
+Watercolor on canvas, I6V2 x V)Vz" (42 x 49,5 cm.) . 
+
+Signed 1.1. "Klee". 
+
+Klee catalogue no. 1934, U 16 1 216 1 . 
+
+Collection City Art Museum of St. Louis, gift of Morton D. May. 
+
+Provenance: Nierendorf Gallery, New York. 
+
+Paul Kantor Gallery, Los Angeles. 
+
+Mrs. Gerald Breckenridge, Beverlv Hills. 
+
+
+
+1401 below) 
+
+LANDSCAPE WITH ACCENTS (LANDSCHAFT MIT ACCENTEN) . 193 1. 
+
+Watercolor and colored paste on paper, 12% x 19" (31 x 48,1 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "V 1934 T 15 Landschaft mil Accenten" 
+
+Klee catalogue no. 1934. T 15 1 195) . 
+
+Collection Berner Kunstmuseum. Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+-^sa 
+
+
+
+
+98 
+
+
+
+
+141 
+
+ANGEL IN THE MAKING (ENGEL IM WERDEN) . 1934. 
+
+Oil on wood, 20% x 20ys" (50,7 x 50,7 cm.) . 
+
+Inscribed on reverse "1934 U 4 Engel im Werden Klee" and on stretcher "1934 U 4 'Engel im Werden' Klee". 
+
+Klee catalogue no. 1934, U 4 (204) . Inv. 1138. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+99 
+
+
+
+
+142 
+
+THE CREATOR (DER SCHOPFER). 1934. 
+
+Oil on canvas, 16 7 /s x 21 Vi" (43 x 54 cm.) . 
+
+Signed u.l. "Klee"; inscribed on stretcher "1913 II 13 "Her Sehopfer' Klee" 
+
+Klee catalogue no. 1934. U 13 (213) . 
+
+Collection Berner Kunstmuseum. Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+100 
+
+
+
+
+145 
+
+BUT THE RED ROOF l ABER DAS ROTE DACH ) . 1935. 
+
+Tempera on burlap, 23% x 35 V2" (60 x 90 cm.) . 
+
+Signed u.l. "Klee". 
+
+Klee catalog no. 1935, (113) . 
+
+Philadelphia Museum of Art, The Louise and Walter Arensberg Collection. 
+
+Provenance: Galka E. Scheyer, Hollywood, California. 
+
+Nierendorf Gallery, New York 
+
+Stendahl 
+
+Mr. and Mrs. Walter Arensberg, Hollywood, California. 
+
+
+
+101 
+
+
+
+
+147 
+
+TRANSITION (UBERBRUCKUNG). 1935. 
+Oil on canvas, 17 x 25%" ( 13.2 x 64,8 cm.) . 
+Signed u.r. "Klee' . 
+Klee catalogue no. L934, I! I (144). 
+Collection Washington I niversity, St. I ouis. 
+Provenance: Karl Nierendorf, New York. 
+Theodore Sehemi'l'- 1 1 &gt;45. 
+
+
+
+102 
+
+
+
+
+
+
+146 
+
+HEADDRESS (KOPFTRACHT) . 1935. 
+
+Watercolor on gesso-primed burlap, 18% x 9%" (46,5 x 30 cm.) . 
+
+Signed u.r. "Klee". 
+
+Klee catalogue no. 1935, qu 2 ( 122 ) .' 
+
+Collection Mrs. Picher Purcell, Chicago. 
+
+Provenance: Galerie Rosengart, Lucerne. 
+
+
+
+149 
+
+POMONA GROWING UP (POMA HERANWACHSEND) . 1937. 
+
+Oil on paper mounted on paper, 21% x 14%" (55 x 37,5 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1937. K. 13 Poinona heranwachsend 
+
+Klee catalogue no. 1937, K. 13 (33) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: the artist, 1938. 
+
+
+
+103 
+
+
+
+
+148 
+
+ST. GEORGE (ST. GEORG) . 1936. 
+
+Oil, egg tempera, and watercolor on board. 12% x 17" (32 x 43 cm.) . 
+
+Signed l.r. "Klee". 
+
+Klee catalogue no. 1936, K 1 (21) . 
+
+Collection Berner Kunstmuseum. Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+104 
+
+
+
+
+150 
+
+FACE OF A VASE (GESICHT EINER VASE) . 1937. 
+
+Charcoal and watercolor on paste and chalk-primed newspaper, 26 x \9Vi" (66 x 49 cm.) . 
+
+Signed u.r. Klee ; inscribed u.l. "1937 qu 6 'Gesicht einer Vase' ". 
+
+Klee catalogue no. 1937, qu 6 (126) . Inv. 1214. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+105 
+
+
+
+
+153 
+
+CHILI) AND AUNT ( K I \ I U M"&gt; T WIT. i . I'l.iT. 
+
+Oil on gesso-printed burlap, 28% x 20%" I 72,5 \ 52,5 cm.). 
+
+Signed u.r. 'Klee": inscribed on stretcher "' 1 "J.'i 7 kind und Tante" 
+
+Klee catalogue no. 1937, R 9 ( I I" I . 
+
+Collection Mr. and Mrs. Charles W Engelhard, New York. 
+
+Provenance: Curl Valentin, New York. 
+
+.1. I! Newmann, New York, 
+
+Odets Collection. 
+
+Sir Edward and Ladj rlulton. 
+
+(luleric IScveler. Ua-rl. 
+
+
+
+106 
+
+
+
+
+154(,above) 
+
+GLANCE FROM RED (BLICK AUS ROT) . 1937. 
+
+Pastel on cotton mounted on burlap, 18V2 x 19%" (47 x 50 cm.) . 
+
+Signed l.r. "Klee". 
+
+Klee catalogue no. 1937, U 11 (211) . Inv. 685. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+156 (below) 
+
+WATERTOWER BIRD (WASSERTURM-VOGEL). 1937. 
+
+Colored paste and tempera on paper, 10% x 8Vi" (27 x 21 cm.) . 
+
+Signed l.r. "Klee"; inscribed "1937 W 19 Wasserturm-vogel". 
+
+Klee catalogue no. 1937, W 19 (259) . Inv. 762. 
+
+Collection F. K, Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+
+107 
+
+
+
+
+158 (above) 
+
+HASTE (EILE).1938. 
+
+Colored paste on newspaper mounted on board, 
+
+19%xl3" (48,5x33 cm.). 
+
+Signed u.l. "Klee"; inscribed on mount "1938. F 17 Eile". 
+
+Klee catalogue no. 1938, F 17 (77) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+155 (below) 
+
+CLOWN IN BED (CLOWN IM BETT) . 1937. 
+
+Colored paste and tempera on paper mounted on board, 
+
+10%xl9" (26,5x48,3 cm.). 
+
+Signed c.r. "Klee"; inscribed on mount "1937 W. 14 Clown im Bett'' 
+
+Klee catalogue no. 1937, W. 14 (254) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+
+
+
+
+108 
+
+
+
+
+
+151 
+
+FIGURE IN THE GARDEN (FIGUR IM GARTEN) . 1937. 
+
+Pastel on paper. 20 x 16%" (51 x 42,2 cm.) . 
+
+Signed u.r. "'Klee" ; inscribed on mount "1937 qu 9 Figur im Garten". 
+
+Klee catalogue no. 1937, qu 9 (129) . Inv. 686. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+157 
+
+MISS FROM SPORT ( FRAULEIN VOM SPORT) . 1938. 
+
+Colored paste on paper mounted on board, 23 '/i x 16" (59 x 40,5 cm.) . 
+
+Signed c.l. "Klee". 
+
+Klee catalogue no. 1938, D 9 (29) . Inv. 702. 
+
+Collection F. K, Bern. 
+
+Provenance : the artist. 
+
+Lily Klee, Bern. 
+
+
+
+109 
+
+
+
+
+]C&gt;0 
+
+POND IN THE PARK (TEICH IM PARK). 1938. 
+
+Colored paste on board, lOVs x 20%" (25.7 x 51.8 cm. I . 
+
+Signed l.r. "Klee"; inscribed on stretcher "1938 H 12 'Teic 
+
+Klee catalogue no. 1938. H 12 (122). Inv. 1145. 
+
+Collet-lion F. K.. Bern. 
+
+Provenance: I he artist. 
+
+Lily Klee. Bern. 
+
+
+
+Park' Klee 3". 
+
+
+
+110 
+
+
+
+
+
+152 
+
+FOLLOWER OF BACCHUS (EIN BAKCHANT) . 1937. 
+
+Oil on canvas, 17% x 13%" (43,5 x 33,3 cm.) . 
+
+Signed u.r. "Klee". 
+
+Klee catalogue no. 1937, R 7 (147) . 
+
+Collection Ursula and Frank Laurens, Cincinnati. 
+
+Provenance : the artist. 
+
+Karl Nierendorf, New York, 1940. 
+
+
+
+159 
+
+DUMB DEVIL (DUMMER TEUFEL) . 1938. 
+
+Watercolor on paper, 14% x 10%" (36,5 x 26 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1938 G 8 dummer Teufel" 
+
+Klee catalogue no. 1938, G 8 (88) . 
+
+Collection Mr. and Mrs. Hans Neumann, Caracas. 
+
+Provenance : J. K. Thannhauser. 
+
+G. David Thompson. Pittsburgh 
+
+
+
+Ill 
+
+
+
+
+
+
+■ " * 
+
+
+
+
+161 (above) 
+
+GARDEN IN HOT SEASON (GARTEN IN HEISSER ZEIT) . 1938. 
+
+Oil on paper, 10 x 13%" (25,4 x 34,3 cm.) . 
+
+Signed c.l. "Klee". 
+
+Klee catalogue no. 1938, M 15 (195) . 
+
+Collection Marian Willard Johnson, New York. 
+
+Provenance: Private Collection, Zurich. 
+
+
+
+162 (below) 
+
+INITIAL A (INITIALE A) . 1938. 
+
+Pastel on canvas, 47s x 9W ( 12.5 x 24 cm.) . 
+
+Signed and inscribed on mount "Klee 1938 S 20 Initiale A" 
+
+Klee catalogue no. 1938, S 20 (300) . 
+
+Collection Mrs. Rose C. Shere, Chicago. 
+
+Provenance: Galerie Rosengart. Lucerne. 
+
+
+
+,^'W*!rS&gt;Wr?r 
+
+
+
+
+
+
+
+■.&lt; ; 
+
+
+
+112 
+
+
+
+
+164 
+
+BUST OF GAIA (BRUSTBILD DER GAIA) . 1939. 
+
+Oil on cotton, 38V4 x 27 I /s" (97 x 69 cm.) . 
+
+Signed u.r. "Klee"; inscribed on stretcher "1939. Y. 3 'Brustbild der Gaia' Klee" 
+
+Klee catalogue no. 1939, Y.3 (343) . Inv. 55. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+113 
+
+
+
+
+168 
+
+FAMA. 1939. 
+
+Oil on canvas, 357s x 47%" (91 x 121 cm.) . 
+
+Signed u.l. "Klee"; inscribed on stretcher "1939. A A -. Yam \' Klee" 
+
+Klee catalogue no. 1939, AA 2 (502) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+114 
+
+
+
+
+163 (above) 
+
+PATHETIC GERMINATION (PATHETISCHES KEIMEN) . 1939. 
+
+Colored paste on paper mounted on board, 10 x 19%" (25,4 x 48,4 cm.) . 
+
+Signed u.r. "Klee"; inscribed on mount "1939 v 1 pathetisches Keimen S. CL' 
+
+Klee catalogue no. 1939, v 1 (281) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+165 (below) 
+
+DUSK (ES DAMMERT) . 1939. 
+
+Watercolor on blue canvas mounted on board, 22% x 19 7 /s" (57,7 x 50,5 cm. 
+
+Signed 1.1. "Klee"; inscribed on stretcher "1939 Y 7. 'es dammert'.". 
+
+Klee catalogue no. 1939, Y 7 (347) . Inv. 1941. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+
+115 
+
+
+
+
+166 
+
+SLEEPING QUARTERS OF THE FOUR (SCHLAFSTELLE DER VIER ) . 1939. 
+
+Oil and watercolor on oil-primed paper mounted on canvas. 12% x 19" (41.4 x 48.1 cm. I . 
+
+Signed l.r. "Klee"; inscribed on mount "1939 A 8 Schlafstelle der Vier". 
+
+Klee catalogue no. 1939, A 8 (388) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+116 
+
+
+
+
+169 
+
+AT THE HUNTER'S TREE (ZUM JAGERBAUM) . 1939. 
+
+Oil on canvas. 39% x 31%" (100 x 80 cm.) . 
+
+Signed u.l. "Klee". 
+
+Klee catalogue no. 1939, CC 17 (557) . 
+
+Collection Kunsthaus, Zurich. 
+
+Provenance: Klee Gesellschaft. 
+
+
+
+117 
+
+
+
+
+170 
+
+SCENE OF A FIRE (BRANDSTATTE) . 1939. 
+
+Waxed colored paste on burlap. 9% x 29 ] ,2" (25 x 75 cm.) . 
+
+Signed r.c. "Klee": inscribed on stretcher "1939. \\ \Y 15 'Brandstatte' Klee" 
+
+Klee catalogue no. 1939. WW 15 (895) . [nv. I I. 
+
+Collection F. K.. Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+118 
+
+
+
+
+
+167 (above) 
+
+A BARREN ONE (EINE UNFRUCHTBARE ) . 1939. 
+
+Watercolor and ink on paper, lOVs x 16%" (25,7 x 42,5 cm.) . 
+
+Signed 1.1. "Klee". 
+
+Klee catalogue no. 1939, B 16 (456) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Galka E. Scheyer, Hollywood, California. 
+
+Estate of Galka E. Scheyer. 
+
+Karl Nierendorf. New York. 
+
+Estate of Karl Nierendorf, New York, 1948. 
+
+
+
+173 (below) 
+
+EVENINGS BY THE SEA (ABENDS AM MEER) . 1940. 
+
+Colored wax on paper, 8% x 13" (21 x 33 cm.) . 
+
+Signed 1.1. "Klee"; inscribed on mount "1940 Z 20 Abends am Meer' 
+
+Klee catalogue no. 1940, Z 20 (20) . Inv. 896. 
+
+Collection F. K., Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+
+119 
+
+
+
+
+171 
+
+COLORFUL GROUP (BUNTE GRUPPE) . 1939. 
+
+Black chalk, oil and watercolor on handkerchief. 16V8 x 15 3 s" (41 x 39.5 cm.) . 
+
+Signed l.r. "Klee"; inscribed on mount "1939, IK 13 bunle Gruppe". 
+
+Klee catalogue no. 1939, IK 13 ( 1133) . Inv. 1110. 
+
+Collection F. K.. Bern. 
+
+Provenance: the artist. 
+
+Lily Klee, Bern. 
+
+
+
+120 
+
+
+
+
+
+
+■ 
+
+
+
+Mr 
+
+
+
+n 
+
+
+
+172 
+
+VOICE FROM THE ETHER : AND YOU WILL EAT YOUR FILL ! 
+
+(STIMME AUS DEM ATHER : UND DU WIRST DICH SATT ESSEN ! ) . 1939. 
+
+Oil and tempera on paper, 19% x 15" (50 x 38 cm.) . 
+
+Signed l.r. "Klee": inscribed on mount "1939 GH 8 Stimme aus 
+
+dem Ather : 'und du wirst dich satt essen ! ' ". 
+
+Klee catalogue no. 1939, GH 8. 
+
+Collection Victoria and Albeit Museum, London. 
+
+Provenance: Curt Valentin, New York. 
+
+G. David Thompson, Pittsburgh. 
+
+
+
+175 
+
+BOY WITH TOYS (KNABE MIT SPIELSACHEN) . 1940. 
+
+Colored paste on paper, 11% x 8%" C29,2 x 20,7 cm.) . 
+
+Signed u.r. "Klee": inscribed on mount "1940 M 9 Knabe mit Spielsachen" 
+
+Klee catalogue no. 1940. M 9 (249) . 
+
+Collection The Solomon R. Guggenheim Museum, New York. 
+
+Provenance: Karl Nierendorf, New York. 
+
+Estate of Karl Nierendorf, 1948. 
+
+
+
+121 
+
+
+
+
+174 
+
+DOUBLE (DOPPED.1940. 
+
+Colored paste on paper, 20% x 13%" (52.5 x 34.7 cm.). 
+
+Signed u.r. '"IClee": inscribed on mount "1940 N 16 Doppel". 
+
+Klee catalogue no. 1940, N 16 (236) . 
+
+Collection Berner Kunsl museum. Paul KJee-Stiftung. 
+
+Provenance : the artist. 
+
+
+
+122 
+
+
+
+'A good picture seems incomplete until the last brush stroke. 
+
+
+
+"No use hurrying when you want so much. The evening is deep 
+inside me forever. Many a blond, northern moonrise, like a muted 
+reflection, will softly remind me, and remind me again and again. 
+It ivill be my bride, my alter ego. An incentive to find myself. 1 
+myself am the moonrise of the South." 
+
+
+
+"Naturally I have not struck the tragic vein without some prepara- 
+tion. Several pictures have pointed the way with their message: 
+the time has come." 
+
+
+
+"Art is a likeness of the creation. It is sometimes an example, just 
+as the terrestrial is an example of the cosmic." 
+
+
+
+"The heart that beat for this world seems mortally wounded in me. 
+As if only memories still tied me to ''these' things . . . Am I turning 
+into the crystalline type?" 
+
+
+
+"I cannot be grasped in the here and now, for I live just as well with 
+the dead as with the unborn, somewhat closer to the heart of cre- 
+ation than usual, but far from close enough." 
+
+
+
+123 
+
+
+
+
+176 
+
+WOMAN IN COSTUME l FRAU IN TRACHT) . 1910. 
+
+Colored paste on paper mounted on board. 18% x 12%" (47,5 x31,2 cm.). 
+
+Signed u.r. "Klee": inscribed on mount "1940 M 14 Frau in Tracht". 
+
+Klee catalogue no. 1940, M 14 (254) . 
+
+Collection Berner Kunstmuseum, Paul Klee-Stiftung. 
+
+Provenance: the artist. 
+
+
+
+124 
+
+
+
+, -=0 &lt;&amp;% 
+
+•^0 
+
+
+
+
+
+rTyP 
+
+
+
+
+177 
+
+UNTITLED (COMPOSITION WITH FRUIT) 
+
+[OHNE TITEL (KOMPOSITION MIT FRUCHTEN) ]. 1940. 
+
+Colored paste on paper (fragment) , 40% x SBVi" (103 x 148 cm.) . 
+
+Not signed. 
+
+Not in catalogue. Inv. 1332. 
+
+Collection F. K., Bern. 
+
+Provenance : the artist. 
+
+Lily Klee, Bern. 
+
+
+
+125 
+
+
+
+ETCHINGS Ii\ THE EXHIBITION 
+
+
+
+178 
+
+VIRGIN IN A TREE ( JUNGFRAU IM BAUM) . 1903. 
+
+Etching, 9V4 x 11%" (23,5 x 30 cm.) . 
+
+Collection Mr. and Mrs. Robert A. Rowan, Los Angeles. 
+
+
+
+179 
+
+THE COMEDIAN (KOMIKER) . 1904. 
+Etching, 7 x 9%" ( 17,7 x 24,4 cm. ) . 
+Collection The Art Institute of Chicago. 
+
+
+
+180 
+
+CHARM (CHARME).1904. 
+Etching, 5V4 x 7%" (13.3 x 9,2 cm.) . 
+Collection Pasadena Art Museum. 
+
+
+
+181 
+
+THREATENING HEAD (DROHENDES HAUPT). 1905. 
+
+Etching, 16% x 12%" (41,6 x 31,8 cm.) . 
+
+Collection Busch-Reisinger Museum for Germanic Culture, 
+
+Harvard University. 
+
+
+
+A number of the works listed above will be withdrawn. iii-\i\ others 
+also listed, will be added in the course of the tour. 
+
+
+
+126 
+
+
+
+PHOTOGRAPHIC CREDITS Allen Memorial Art Museum, Oberlin College. Oberlin. Ohio: no. 20 
+
+The Art Museum. Princeton University : no. 3 
+The Baltimore Museum of Art: no. 12 
+Bildarchiv Felix Klee, Bern: nos. 1, 7, 22, 27. 28, 37. 39, 47, 48. 61, 115. 128, 129, 137. 141, 150, 151, 
+
+154. 157, 160. 164, 165, 170, 171, 173, 177 
+E. Irving Blomstrann. Courtesy Wadsworth Atheneum, Hartford: nos. 80, 119 
+City Art Museum of St. Louis: no. 143 
+Thomas Feist. New York : no. 90 
+Flair Gallery, Cincinnati: no. 67 
+Galerie Claude Bernard, Paris: no. 73 
+Galerie Beyeler, Basel: nos. 103, 105, 106, 131 
+Galerie Maeght, Paris: nos. 82, 87 
+
+Galerie Rosengart, Lucerne: nos. 11, 13, 15, 32, 60, 78, 100 
+
+Sherwin Greenberg Studio, Inc., courtesy Albright-Knox Art Gallery, Buffalo: no. 4 
+Kunsthaus, Zurich: no. 169 
+Robert Mates and Paul Katz. New York : nos. 8, 10, 14. 24. 42, 46, 49, 58. 59, 68, 74, 88, 109, 113, 116, 
+
+117, 120, 125, 126, 127. 138, 144, 149, 153. 167, 175 
+The Minneapolis Institute of Arts: no. 98 
+Moulin Studios, San Francisco: nos. 9, 51, 81. 89 
+Pasadena Art Museum : nos. 23, 50, 56. 69, 122, 124 
+Philadelphia Museum of Art : nos. 29. 64. 83, 84, 91, 93, 95, 96, 145 
+Piaget Studio St. Louis: no. 108 
+Robinson's, San Diego: no. 53 
+San Francisco Museum of Art: nos. 31. 99 
+John D. Schiff, New York: nos. 33, 54. 65. 75, 112 
+I. Serisawa, Los Angeles: nos. 16. 19. 34. 35. 36, 40, 43, 44, 66, 70. 123 
+
+Paul Klee-Stiftung, Bern : nos. 2, 57, 97. 107. 133. 134, 140, 142. 148. 158, 163, 166, 168, 174, 176 
+Adolph Studley, New York: no. 104 
+Frank J. Thomas, Los Angeles: no. 6. 38. 92. 94, 114, 130 
+O. Vaering, Oslo: nos. 71. 118. 135 
+Victoria and Albert Museum, London: no. 172 
+Washington University, St. Louis: nos. 72, 147 
+Willard Gallery. New York: no. 161 
+
+
+
+5,000 copies ol this catalogue 
+
+designed by Herbert Matter 
+
+have been printed by Sterlip Press 
+
+in February. 1967 
+
+for the Trustees of The Solomon R. Guggenheim Foundation 
+
+on the occasion of the loan exhibition 
+
+"Paul Klee" 
+
+
+
+PASADENA ART MUSEUM 
+
+
+
+SAN FRANCISCO MUSEUM OF ART 
+
+
+
+COLUMBUS GALLERY OF FINE ARTS 
+
+
+
+CLEVELAND MUSEUM OF ART 
+
+
+
+WILLIAM ROCKHILL NELSON GALLERY OF ART, KANSAS CITY 
+
+
+
+BALTIMORE MUSEUM OF ART 
+
+
+
+WASHINGTON UNIVERSITY, GALLERY OF ART, ST. LOUIS 
+
+
+
+PHILADELPHIA MUSEUM OF ART 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, NEW YORK 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0053   0.0053      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0073   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0096   0.0024     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0305   0.0209   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0307   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.1397   0.1089              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=139;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

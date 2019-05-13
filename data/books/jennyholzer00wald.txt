@@ -1,0 +1,5027 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jenny Holzer"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jennyholzer00wald">Jenny Holzer</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jennyholzer00wald">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>rAi*&lt;« 
+
+
+
+MONEY 
+
+
+
+H : *: l i * 
+
+
+
+TASTE 
+
+
+
+SPARKING 
+
+
+
+JENNY HOLZER 
+
+
+
+
+
+OLZ 
+
+
+
+
+Diane Waldman 
+
+
+
+This exhibition is supported in part by generous funds from Jay Chiat 
+and the National Endowment for the Arts Additional assistance has 
+been provided by The Owen Cheatham Foundation, The Merrill G and 
+Emita E. Hastings Foundation, the New York State Council on the Arts 
+and anonymous donors 
+
+
+
+SOLO/WON R. GUGGENHEIM AAUSEUAA, NEW YORK 
+HARRY N. ABRAAAS, INC., PUBLISHERS, NEW YORK 
+
+
+
+Published by The Solomon R Guggenheim Foundation, 
+New York, in association with Harry N Abrams, Incorporated. 
+New York, a Times Mirror Company. 
+Copyright g 1989 by The Solomon R. Guggenheim 
+Foundation. New York 
+
+
+
+Library of Congress Cataloging-in-Publication Data 
+
+Waldman, Diane 
+Jenny Holzer 
+
+Catalog of an exhibition 
+Includes bibliographical references 
+1 Holzer, Jenny, 1950- -Exhibitions 
+I Solomon R. Guggenheim Museum II. Title 
+N6537H577A4 1989 709'. 2 89-25747 
+ISBN 0-89207-068-4 
+
+
+
+cover 
+
+Selections from Truisms 1986 
+
+Dectronic Starburst double-sided electronic display signboard, 
+20 x 40' 
+
+Installation, Caesar's Palace, Las Vegas 
+
+Organized by Nevada Institute of Contemporary Art, 
+University of Nevada, Las Vegas 
+
+
+
+Jenny Holzer 
+
+Solomon R Guggenheim Museum, New York 
+December 12, 1989-February 11, 1990 
+
+Project organization and production 
+
+Curator 
+
+Diane Waldman 
+
+Coordination and Research 
+Clare Bell 
+
+Editorial 
+Carol Fuerstem 
+Diana Murphy 
+
+Design 
+
+Malcolm Grear Designers 
+
+Special Photography 
+David Heald 
+
+Project Financial Management 
+Heidi Olson 
+
+Installation 
+
+Sunrise Systems, Inc. 
+
+Myro Riznyck 
+
+Scott Wixon 
+
+Timothy Ross 
+
+Guggenheim Operations and Maintenance Staff 
+
+Lara Rubin, assistant to Jenny Holzer 
+
+Registrar 
+Victoria Hertz 
+
+Public Relations 
+Glory Jones 
+Elizabeth Gerstein 
+
+Events 
+Linda Gering 
+Maria Masciotti 
+
+Interns 
+Maura Ryan 
+Lisa Malin 
+Jeanhee Kim 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+6 PREFACE by Thomas Krens 
+
+7 ACKNOWLEDGMENTS by Diane Waldman 
+
+9 THE LANGUAGE OF SIGNS by Diane Waldman 
+
+15 INTERVIEW Jenny Holier and Diane Waldman 
+
+20 CATALOGUE 
+
+107 CHRONOLOGY 
+
+108 SELECTED EXHIBITIONS, PROJECTS AND REVIEWS 
+113 SELECTED BIBLIOGRAPHY 
+
+116 PHOTOGRAPHIC CREDITS 
+
+
+
+PREFACE 
+
+
+
+At Times Square or Caesar's Palace, on t-shirts and 
+posters, Jenny Holzer has taken the arresting language of her art 
+to the streets. She has also presented more contemplative writings 
+to a smaller gallery audience. This first major presentation of 
+Holzer's work in a New York museum provides the artist with a 
+middleground between the outdoor public spaces and the more 
+private gallery interiors in which she usually shows her texts. As 
+always. Holzer has taken advantage of the specific qualities of the 
+site in presenting her work. 
+
+At a decisive point in her career, at the end of more 
+than a decade of work, Holzer has used the remarkable spiral of 
+the Frank Lloyd Wright building to wind together major selections 
+from her previous writings as well as new texts into a focused and 
+provocative spectacle of electronic light. Her large-scale spiral sign 
+and her stone benches draw attention to the monumental architec- 
+ture of the Museum, yet at the same time, the fleeting messages 
+of the sign and the aphorisms and inscriptions engraved perma- 
+nently on the surfaces of the benches often reveal, behind a voice 
+of authority and certainty, the fragility of the human condition 
+
+
+
+As the Guggenheim begins the restoration of its radical 
+and now historic building, the Jenny Holzer exhibition underscores 
+the institution's traditional and ongoing commitment to art that is 
+new and challenges its audience It is particularly appropriate too 
+that the Guggenheim Museum, whose sister institution, the Peggy 
+Guggenheim Collection, is located in Venice, is showing the work 
+of this important young artist who will represent the United States 
+at the Venice Biennale of 1990 in the Guggenheim-owned Ameri- 
+can Pavilion. Diane Waldman, the Guggenheim's Deputy Director, 
+whose career-long dedication to the art of this century is well 
+known, deserves my deepest gratitude for bringing this significant 
+project to fruition. 
+
+Thomas Krens, Director 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+ACKNOWLE DGAAENTS 
+
+
+
+This exhibition and catalogue have been achieved 
+through the essential support of many individuals. Jenny Holzer's 
+involvement has been crucial to the exhibition's success. Her 
+dedication and vision have made this project an exciting and re- 
+warding undertaking. I would like to express my deepest gratitude 
+to the National Endowment for the Arts for its commitment to 
+Holzer's work and its generous sponsorship of the show. I am 
+equally indebted to Jay Chiat for his enthusiasm and financial 
+assistance. It is with sincere appreciation that I also acknowledge 
+the continuing generosity of The Owen Cheatham Foundation, 
+The Merrill G. and Emita E. Hastings Foundation and the New York 
+State Council on the Arts, whose contributions have helped to 
+make this exhibition possible. I appreciate as well the support 
+given by anonymous donors. In addition, I am extremely grateful 
+to Barbara Gladstone, without whose help this show could not 
+have been realized, and to her staff at the gallery. My thanks are 
+also extended to Paul Miller at Sunrise Systems, Inc., who devoted 
+so much of his time and energy working with the artist on the 
+spiral L.E.D. sign. 
+
+
+
+The staff at the Guggenheim Museum has been 
+instrumental in assisting me with this exhibition. I would particu- 
+larly like to thank the following individuals for their efforts: Clare 
+Bell, Curatorial Assistant, who skillfully coordinated all aspects of 
+the show; Carol Fuerstein, Editor, for her astute editing of the 
+catalogue; Myro Riznyk, Building Manager, whose technical 
+expertise has been indispensable; Diana Murphy, Assistant Editor; 
+Victoria Hertz, Assistant Registrar; Heidi Olson, Manager of 
+Budget and Planning; David Heald, Photographer; Glory Jones, 
+Public Affairs Associate, Lisa Dennison, Assistant Curator, Claudia 
+Defendi, Curatorial Assistant, and Lisa Malm, curatorial intern 
+
+Jenny Holzer has communicated her messages about 
+modern culture through unbounded outdoor sites and within 
+the controlled interior environments of the gallery and museum. 
+This exhibition has been enriched by all those individuals and 
+sponsors who, over the past decade, have made it possible for 
+the artist to reach such a broad population. 
+
+D.w. 
+
+
+
+THE LANGUAGE OF SIGNS 
+
+Diane Waldman 
+
+
+
+Like other artists who first came to prominence in the 
+1980s, Jenny Holzer is a product of the TV age and the world of 
+advertising and billboards. Her work reflects a decade in which 
+originality is suspect and, as have many of her colleagues, she 
+employs art and aspects of culture to comment on the nature of 
+society and on the way in which art is perceived and received in a 
+consumer society. Like many of her predecessors who appropriated 
+the common object-notably Duchamp and Warhol -Holzer 
+borrows freely from mass culture to explore some of the more 
+pressing issues of our time, addresses concepts of originality and 
+questions the value of the artist's hand in the making of the work. 
+Unlike her forerunners, however, she questions the value of the 
+artist's hand by contrasting the impersonal common object-the 
+sign or the billboard— with a message that is personal and "sin- 
+cere." She also uses ready-made objects such as electronic bill- 
+boards because they bring with them an immediately recognizable 
+level of meaning. In an age of excess, it has become increasingly 
+difficult for artists to startle us, yet Holzer does so: her posters and 
+signs are often subversive in content, her messages and their 
+formats provoke and challenge our assumptions about art and its 
+role in society today. 
+
+Jenny Holzer's pieces range from simple one-liners to 
+highly complex elegies and meditations on the human condition. 
+Lean and elegant in appearance, the work is in fact a complex 
+amalgam of conceptual premise, Pop imagery and ironic inter- 
+change between object and void, presence and absence, sexual 
+desire and individual loss. Holzer's media include printed signs, 
+metal plaques, stone benches and sarcophagi as well as electronic 
+signboards that depend on sophisticated technology Her texts 
+have appeared on posters, tractor caps, stickers and billboards, 
+on parking meters and store windows and inside telephone 
+booths. These messages, couched in direct, unadorned language, 
+have appeared randomly on the streets and have been presented 
+in galleries and museums, on the eight-hundred square-foot 
+Spectacolor Board in Times Square in New York, on the Sony 
+JumboTRON video scoreboard in San Francisco's Candlestick Park, 
+
+
+
+on the cable music-video channel MTV and in other highly visible 
+public places. 
+
+Holzer was born in Gallipolis, in Gallia County, Ohio, in 
+1950. She was one of three children in the family, which lived in 
+Lancaster, Ohio. Her mother taught riding in a college before her 
+marriage and was an active participant in the community, her 
+father was an athlete who became a Ford dealer. Holzer drew 
+constantly as a child but stopped when she approached adoles- 
+cence. She left Lancaster High School after a year to move to Fort 
+Lauderdale, Florida, "to change her life and her lifestyle." 1 There 
+she attended a private school, Pine Crest Preparatory. She tried for 
+early enrollment in college and applied to Duke University in 
+Durham, North Carolina, which accepted her into its liberal arts 
+program in 1968. Holzer, however, quickly became dissatisfied 
+with the program at Duke and decided to leave. 
+
+Holzer spent 1970-71 at the University of Chicago, 
+where she took painting, pnntmaking and other art courses. Al- 
+though she liked the curriculum and faculty at Chicago, she left 
+because the University wanted her to take an additional year of 
+liberal arts courses. Holzer completed her undergraduate work at 
+Ohio University in Athens in 1972, and two years later attended 
+summer school at the Rhode Island School of Design in Provi- 
+dence. Also in 1974 she met fellow RISD student Mike Glier, who 
+was later to become her husband. She began graduate courses in 
+Providence in 1975 and simultaneously worked as a graduate 
+assistant. At this early point in her career Holzer was an abstract 
+painter, influenced by artists like Mark Rothko and such color field 
+painters as Morris Louis. She maintains that she was attracted to 
+the sublime aspect of their art, but feels that her own work was 
+only ". . . pretty good third-generation stripe painting." 2 Among 
+her projects at RISD were a series of paintings in which she 
+incorporated words that gradually assumed greater significance 
+than images, a sequence of torn canvases and a group of pictures 
+based on models of the fourth dimension. While still in graduate 
+school, Holzer began to experiment with public art, which she 
+notes was "a kind of precursor to my current work. . . putting 
+
+
+
+things in public and leaving them for people to find, either down- 
+town or at the beach." 3 She explains: 
+
+At the beach I would make paintings on long pieces of 
+fabric and leave them so that people would come 
+along and wonder what this thing was that had obvi- 
+ously been left by someone hoping to tickle their 
+imaginations a little bit. Downtown I'd put bread out in 
+abstract patterns so people could watch pigeons eat in 
+
+squares and triangles But the works weren't beautiful 
+
+enough or compelling enough or understandable 
+enough to make people stop. 
+
+I had also started a collection of diagrams. ... I thought 
+that diagrams were the most reduced, the truest way 
+of visual representation. So I collected them . . . and 
+then redrew them, just to do something with them. 
+And then I put the drawings in a box. I don't know 
+exactly what made me shift, but finally I wound up 
+being more interested in the captions than the draw- 
+ings. The captions, in a clean, pure way, told you 
+everything. This was the begmning-or one of the 
+begmnmgs-of what got me to the pure writing. 4 
+
+Holzer turned from a vocabulary of abstract imagery to 
+"the pure writing" in 1977, when she began to produce her first 
+series, the Truisms, which she continued to work on until 1979. 
+Here her primary medium, like that of a number of Conceptual 
+artists who directly preceded her, is language. Language fascinated 
+Holzer because for her it communicated in a way that painting 
+could not. She had by now determined that although she was not 
+interested in narrative or social-realist painting, she wanted to 
+make her feelings about society and culture known; she had also 
+abandoned the idea of writing on her paintings. When Holzer 
+moved to New York in January of 1977, she enrolled in the 
+Whitney Museum's Independent Study Program. The reading list, 
+which included studies in art and literature, Marx, psychology, 
+social and cultural theory, criticism and feminism, inspired her to 
+create the Truisms, which consisted of one-liners such as 
+MURDER HAS ITS SEXUAL SIDE, THE FAMILY IS 
+LIVING ON BORROWED TIME and ABUSE OF POWER 
+COMES AS NO SURPRISE. Her "mock cliches," as she calls 
+them, were her attempt to reformulate important statements by 
+simplifying them She says, "I started the work as a parody, like 
+
+
+
+the Great Ideas of the Western World in a nutshell." Her idea was 
+to make "the big issues in culture intelligible as public art." 5 In 
+attempting to represent all points of view, she often expressed 
+directly contradictory meanings and feelings in the Truisms. Holzer 
+was using the message, the medium and the public arena to 
+identify and comment upon contradictions and extreme situations 
+in society in the most neutral voice and in a laconic but sincere 
+style she attributes to her midwestern background. She remarks 
+that "Midwesterners are impatient with things that are too elabo- 
+rate or too silly. They want to get things done so they do it in the 
+most expeditious way-expeditious as in fast and right." 6 
+
+Initially, using a rented typewriter, she typed the Truisms 
+on sheets of paper; then she had them offset, first in Futura Bold 
+Italic and then in Times Roman Bold type, as anonymous posters 
+which she put up on buildings in SoHo, and afterwards elsewhere 
+in Manhattan. The posters contained from forty to sixty Truisms 
+apiece, arranged alphabetically according to the first word in each 
+sentence, and, while every poster related to the rest, each was 
+largely self-contained. The Truisms were followed by another 
+poster series, the Inflammatory Essays, inspired by her readings of 
+Emma Goldman, Hitler, Lenin, Mao and Trotsky as well as by some 
+crackpot writings, they were begun in 1979 and pursued until 
+1982. As with subsequent series, she has continued to use these 
+writings in a variety of media. In the Inflammatory Essays Holzer 
+deliberately chose at first to give the texts a very informal look by 
+typing them on an old, broken typewriter, but eventually had 
+them printed in Times Roman Bold. The Inflammatory Essays were 
+more structured, political and exhortatory than the Truisms. More- 
+over, Holzer standardized their format so they could be identified 
+as part of the same series: each was a hundred words long and 
+divided into twenty lines in the same size square. She used a differ- 
+ent color support for each Inflammatory Essay "to heat up the 
+whole thing," 7 whereas the Truisms had been presented in a 
+format using black letters on white paper. 
+
+From the posters Holzer moved on to t-shirts, tractor 
+hats, billboard-size posters and collaborative projects which in- 
+cluded small books. At this time Holzer saw her work as "alterna- 
+tive art," but as it evolved she moved from statements in rela- 
+tively ephemeral media to a more permanent, monumental and 
+authoritative art, from what she calls "lower anonymous" to 
+"upper anonymous." In 1980 she began a series of bronze and 
+hand lettered wall plaques entitled The Living Series, in which she 
+often rewrote news items and described mundane activities. 
+
+
+
+10 
+
+
+
+She was thus turning away from "Great Ideas," towards an 
+involvement with everyday life 
+
+Her real breakthrough, however, came in 1982, after 
+her experience of working on her project for the Spectacolor Board 
+in Times Square, when she began to use electronic signboards 
+and, ultimately, LED. machines: matrices of computer activated 
+light-emitting-diode lamps that display traveling texts and graphics 
+in a variety of colors and presentation styles. When she first used 
+the LED. signs, they displayed Truisms, soon, however, she cre- 
+ated The Survival Series for them. The LED. boards have allowed 
+Holzer to reach an even larger audience than she had commanded 
+earlier. And through their programming capabilities she is able to 
+evoke nuances of meaning and to elaborate on her social and 
+political views and her ideas about other aspects of life. Moreover 
+they are eminently suited to the device of repetition which Holzer 
+often uses with her swift, accessible consumerist language to 
+persuade the viewer effectively. In her series Under a Rock, first 
+shown in 1986, and the Laments of 1988-89, Holzer employed 
+stone benches and sarcophagi etched with poetic phrases together 
+with electronic messages, thus juxtaposing elements that create a 
+somber mood of contemplation with an intense and jarring 
+physical presence. 
+
+The Truisms and the series that immediately followed 
+were original yet anonymous in tone. She worked at keeping 
+some distance between herself and her audience to depersonalize 
+the writing and to enlarge its meaning from the specific to the 
+general. As she remarks about the Truisms, "I try to polish them so 
+they sound as if they had been said for a hundred years, but 
+they're mine ... to write a quality cliche you have to come up with 
+
+something new." 8 
+
+Over the past twelve years, however, Holzer's writing has 
+gradually become increasingly subjective. This evolution proceeded 
+from the impersonal, factual statements of the Truisms, moved to 
+the Inflammatory Essays and The Survival Series, which address 
+the third person, "you," and has culminated in the Laments, 
+which for the first time feature the personal pronoun "I," which 
+represents a number of different "I's," a group of varied individu- 
+als. Thus Holzer has, for now at least, abandoned the role of 
+narrator and objective observer, the role of Everyman. She has 
+adopted personal voices to reflect private feelings and thoughts. 
+Her advocacy of social and political issues continues, but with the 
+advent of Under a Rock and the Laments, her expression of it has 
+become both more individuated and more pensive. Holzer consid- 
+
+
+
+ers the texts for Under a Rock a transitional stage in the develop- 
+ment towards the very personal and reflective expressions of the 
+Laments. In Under a Rock a commentator is watching horrific 
+events and describing them as they happen, still in a relatively 
+objective tone. Thus: 
+
+CRACK THE PELVIS SO SHE LIES RIGHT. THIS IS 
+A MISTAKE. WHEN SHE DIES YOl C \N\OT REPEAT 
+THE ACT. THE BONES WILL NOT GROW TOGETHER 
+AGAIN AND THE PERSONALITY WILL NOT COM I 
+BACK. SHE IS GOING TO SINK DEEP INTO THE 
+MOSS TO GET WHITE AND LIGHTER. SHI IS 
+UNRESPONSIVE TO BEGGING AND SELF-ABSORBED. 
+
+The Laments, on the other hand, are deeply thoughtful musings 
+on cataclysmic events that have already occurred. Whereas Under 
+a Rock is active, the Laments are introspective and comtemplative. 
+For example 
+
+WITH ONLY MY MIND 
+
+TO PROTECT ME 
+
+I GO INTO DAYS. 
+
+WHAT I FEAR IS 
+
+IN A BOX WITH FUR 
+
+TO MUFFLE IT. 
+
+EVERY DAY I DO NOTHING 
+
+IMPORTANT BECAUSE I AM 
+
+s( \RED BLANK AND LAZY. 
+
+BUT THEN THE MEN COM I 
+
+I PUT MY MOUTH ON THEM. 
+
+I SPIT AND WRITE 
+
+WITH THE WET. 
+
+THE WET SAYS WHAT 
+
+MUST STOP AND 
+
+WHAT SHALL BEGIN. 
+
+I SPIT BECAUSE THE DEATH 
+
+SMELL IS TOO CLOSE TO ME. 
+
+THE SUNK MAKES WORDS 
+
+TELL THE TRUTH ABOUT 
+
+WHO KILLS AND 
+
+WHO IS THE VICTIM. 
+
+DEATH IS THE 
+
+MODERN ISSUE. 
+
+I THINK BECAUSE 
+
+MY BRAIN DOES IT. 
+I W \NT BAD IDEAS TO STAY 
+IN THE MIND TO MAKE 
+PLEASURE WITHOUT HARM. 
+
+
+
+11 
+
+
+
+A CLEAR THOUGHT MUST 
+COME TO STOP THE MEN 
+AND MAKE THE AUDIENCE 
+LAUGH UNTIL THEIR 
+INSIDES BUBBLE. 
+
+
+
+Holzer first showed elements of her Laments series at 
+Documenta 8 in 1987. Here two sarcophagi and two LED. signs 
+with texts that mirrored each other were installed, representing, 
+according to the artist, male and female counterparts. Last fall she 
+elaborated on the Laments in an installation of thirteen sarcophagi 
+and thirteen signs entitled Jenny Holzer: "Laments" at the Dia 
+Art Foundation for its space in Manhattan's Chelsea district. The 
+Laments series expresses Holzer's social and political concerns 
+in more explicit terms than those of her earlier works; here her 
+message is more complex, and she speaks now of broader, more 
+universal issues. The language of the individual signs and sar- 
+cophagi retains its formidable clarity and directness but achieves a 
+texture and nuance, an elegiac quality that is new to the work. 
+
+The installation at Dia is notable for its drama and its 
+heightened sense of urgency. Here Holzer pulls out all the stops to 
+create an assertive, outspoken piece that controls and dominates 
+the area it occupies. In the darkened space of the gallery, Holzer's 
+flashing LED signs are positioned vertically and timed to go on 
+at the same time and off at different intervals, eventually leaving 
+the room in total darkness. The series of sarcophagi is placed in an 
+adjacent room. These range from infant to child to adult size and 
+each carries an inscription that is reiterated in the vertical signs. 
+Light and dazzling optical effects, a sense of noise and speed ema- 
+nate from the flashing signs, while silence shrouds the room in 
+which the sarcophagi are located: the emotional disruption created 
+by the contrast could not be more extreme This disruption situates 
+both signs and tombs in the wreckage of our universe and speaks 
+to us of our mortality and the absurd, nihilistic enterprise that is 
+our existence. This is a theme that originates with Holzer's earliest 
+works but which she has extended here in terms of form, language 
+and imagery 
+
+Recently the artist completed Benches, an installation 
+at Doris C. Freedman Plaza, at the Sixtieth Street entrance to Cen- 
+tral Park in Manhattan, one of a number of works developed for 
+public sites Here Holzer contrasts two groups of four benches 
+each, one of Misty Black granite inscribed with texts from Under a 
+Rock, another of white Danby Royal marble inscribed with Truisms. 
+
+
+
+The texts are incised at the monument maker's plant and the 
+lighter stone pieces are sprayed with pigment to increase their 
+legibility. The distinctive typeface is Government Style, developed 
+by the War Department in the 1930s and still used today by the 
+Veterans' Administration on all its headstones and markers. The 
+benches themselves also employ a prototype in general use: they 
+mimic certain kinds of park benches. Like other public sequences 
+of benches placed out of doors, such as the project for Munster 
+Holzer completed in the summer of 1987, and in marked contrast 
+to the assertive Dia installation, Benches does not appear to 
+dominate its space. Mindful of the very different audiences she 
+addresses -a highly select art public at Dia, a much broader one 
+with her outdoor benches-Holzer uses very different approaches. 
+Thus, Benches is quietly authoritative and understated, yet has a 
+compelling power. The viewer is drawn to the familiar shapes of 
+the benches-they seem to be a part of the entrance to Central 
+Park and to belong to the site-and is invited to sit, to read the 
+inscriptions and to compare the two sets. One becomes absorbed 
+in private contemplation of the texts and begins to become aware 
+of the differences among the various elements, for example, the 
+granite benches are smaller and contain inscriptions only on their 
+top faces while the Danby Royal marble benches also display 
+phrases along the sides of the top slabs. Holzer's uncanny under- 
+standing of her audiences and her ability to communicate to them 
+make Benches fai more potent than many other works installed 
+here previously. 
+
+Holzer's work more than holds its own in both ideal 
+situations such as environments for which it has specifically been 
+created and when it is seen alone, and in more uncontrolled set- 
+tings like group shows. One such group exhibition was the recent 
+Viewpoints Postwar Painting and Sculpture from the Guggenheim 
+Museum Collection and Ma/or Loans, which took place at the 
+Guggenheim in the winter of 1988-89 Here, Holzer's inscribed 
+white Danby Royal marble bench, Untitled with Selections from 
+Truisms (A Relaxed Man Is Not. .), 1987, had a commanding 
+presence usually associated with much larger works. While it is 
+difficult to account for the magnetism of this quiet, understated 
+piece, one can surmise that by virtue of its shape, placement and 
+inscriptions it draws the viewer in the same way that a Vermeer 
+does, controlling a large surrounding space and compelling one to 
+scrutinize it in detail. 
+
+Thus Holzer's work has evolved from casual throwaway 
+texts that appeared all over New York City to a sophisticated type 
+
+
+
+12 
+
+
+
+of commercially manufactured sign whose programs she does her- 
+self and which may be accompanied by benches and sarcophagi. 
+Holzer's signs, benches and sarcophagi seem permanent and 
+totemic, no matter how swiftly her messages flash on and off the 
+boards. The message is the medium and then some, and as Holzer 
+has moved from the aphorisms and cliched ideological phrases of 
+her earlier efforts to deeper meditations on modern life and the 
+human condition, from the pronouncements of political figures to 
+an engagement with such literary giants as Samuel Beckett she 
+has found forms, in the benches and sarcophagi, that further 
+enhance her writings Like the models for the messages in the 
+signs, the prototypes for the benches and sarcophagi also exist in 
+our culture. Unlike many of the signs, however, the benches and 
+sarcophagi originate not in the vernacular of Pop culture, but at 
+the very core of our society's beliefs. In juxtaposing the most 
+commonplace and the most deeply rooted and meaningful aspects 
+of our culture, Holzer is pointing out that culture's contradictions, 
+thereby proposing a commentary on our times. 
+
+Holzer is one of the most visible artists on the contem- 
+porary scene: much of her work is by definition presented in 
+public surroundings. Couched in accessible language, it seeks 
+public response. Location is part of its content, as it was part of 
+the content of the work of her predecessors, the Minimalists. 
+Unlike much Minimalist sculpture of the sixties, however, Holzer s 
+art can be both site-specific and self-sufficient, a part of a public 
+arena and an entity unto itself. Therefore the viewer can experi- 
+ence Holzer's work as a member of a group, on a public level, or 
+interact with it in a more private, intimate way. The Minimalists 
+approach was based on a rejection of many traditional aspects of 
+sculpture and painting. Among their common objectives were the 
+radical simplification of form, the reject.on of composition and the 
+exploitation of industrial materials. Neutral geometric shapes, 
+repetitive modular forms, monochromy, uninfected surfaces were 
+adopted. Abstract artists like Ad Reinhardt were admired not for 
+the metaphysical content of the, work but for the, strictly reduc- 
+ed basic forms. It was this form, devoid of descriptive content, 
+which the Minimalists placed in a controlled environment. The 
+interaction between work and site was often interrupted when a 
+p ,ece was removed from its specific location; sometimes it surv.ved 
+in another context, often it was diminished. The Minimalists 
+attention to basic structure, industrial materials, repetitive units 
+and reductive form led them to produce painting and sculpture 
+that was often cerebral and difficult for the viewer to comprehend. 
+
+
+
+Because Holzer often relies on forms that are a familiar part of our 
+Pop culture, her messages are more clearly articulated and more 
+easily understood on a certain level of meaning. Her use of lan- 
+guage is a means of engaging an audience through a shared tool, 
+whereas the experience of monochrome canvases, fluorescent 
+tubes or plywood boxes is often enigmatic and remains beyond 
+the grasp of many spectators. Moreover, Holzer's work is more 
+theatrical, more seductive, more open to emotion, broader based 
+in the issues it confronts. She has therefore reached a segment of 
+the public that has largely eluded the Minimalists. 
+
+As she herself acknowledges, Holzer was influenced 
+by the magazine The Fox, whose editorial board featured Joseph 
+Kosuth, when she was a student at the Rhode Island School of 
+Design. It is important to point out, however, that Holzer's work 
+contrasts markedly with that of Kosuth Kosuth's conceptual frame- 
+work is based on texts that already exist and which he isolates and 
+magnifies. His art consists of the act of intervent.on exercised in 
+the selection of this preexisting material and is, as Holzer notes, 
+"language on language." 9 Holzer's art is of another order, because 
+she makes statements that sound familiar yet are newly invented 
+and tailored to the specific formats to which they are appropriate. 
+As we have seen, as Holzer's meanings have grown more complex, 
+her forms have changed correspondingly and her work has taken 
+on a more personal dimension as well as a lyrical and ultimately 
+epic tone. In these respects, her art diverges dramatically from 
+that of the Conceptualists, which Sol LeWitt characterized suc- 
+cinctly in a classic statement: 
+
+In conceptual art the idea or the concept is the most 
+important aspect of the work. When an artist uses a 
+conceptual form of art, it means that all of the planning 
+and the decisions are made beforehand and the execu- 
+tion is a perfunctory affair. The idea becomes a machine 
+that makes the art. This kind of art is not theoretical or 
+illustrative of theories, it is intuitive, it is involved with 
+all types of mental processes and it is purposeless. It is 
+usually free from the dependence on the skill of the 
+artist as a craftsman. 10 
+
+In theory, Holzer proceeds from a Conceptual frame of 
+reference, mapping out her pieces and having them executed in 
+the manner that LeWitt describes. Yet her work does not conform 
+strictly to these standards. It does, however, bear close affinities to 
+that of Bruce Nauman. Nauman synthesizes M.n.mal.st and 
+
+
+
+13 
+
+
+
+Conceptualist attitudes but infuses his art with a distinctive indi- 
+vidualism that sets it apart from either aesthetic. Holzer shares 
+with Nauman these characteristics as well as a laconic style, a 
+black sense of humor, an acute awareness of the absurd and a 
+willingness to tackle such compelling subjects as sex, violence and 
+death. Both take advantage of ready-made forms and language, 
+but where Nauman portrays himself in his work, Holzer focuses 
+chiefly on language as image rather than on imagery per se. 
+And whereas Nauman's work remains more clearly within the 
+Minimalist and Conceptualist canons he was instrumental in 
+defining, Holzer, a younger artist, has formed her own critical 
+vocabulary of language and signs and uses a public rather than 
+private forum as a means to convey her concerns. 
+
+In working with language, Holzer is heir to a twentieth- 
+century artistic tradition that began with Cubist collage and has 
+figured prominently in many of the major movements of our time. 
+Language has been used to refer to the real world, exploited for 
+its potential as pure form, and in a dialogue with images by 
+Cubists, Futurists, Dadaists and Surrealists, and in the works of 
+many of the Abstract Expressionists and Pop artists, the language 
+of signs has replaced the language of images among the Concep- 
+tualists, thus rendering the visible world invisible. 
+
+At the Dia space, Holzer brought the language of signs 
+to a new and resonant conclusion. The heroic and noble Dia 
+installation embodied qualities of the more ambitious American 
+painting of the 1950s, even as it retained some of the worldliness 
+of Pop Art together with aspects of Minimalist and Conceptualist 
+attitudes. As her language continues to expand, Holzer's focus is 
+shifting gradually from the literal meaning of the sign to the magic 
+of its making. The chapel-like mood and attendant religious aura 
+that the Dia installation evokes bring to mind comparisons with 
+the paintings of Mark Rothko. Although Holzer does not emulate 
+Rothko's color or forms, her signs emit an enveloping, atmospheric 
+color, and she has developed her own basic language that, in its 
+emotive power and simplicity, recalls Rothko's own. Although her 
+work embraces irony and humor, she, like Rothko-or Newman, 
+whose art hers also resembles in its formal clarity, scale and 
+grandeur-touches upon the metaphysical dimensions of life. Her 
+language extends beyond the tangible, the here and the now, and 
+reaches into the abyss 
+
+
+
+14 
+
+
+
+Notes 
+
+1 Interview with the artist by Diane Waldman, June 6 and July 12, 
+1989 Excerpts published pp. 15-19 this catalogue. 
+
+2 Quoted in Bruce Ferguson, "Wordsmith An Interview with Jenny 
+Holzer by Bruce Ferguson," Jenny Holzer Signs, exh. cat , Des 
+Moines Art Center, 1971, p 66 
+
+3 Quoted in Ibid 
+
+4 Quoted in Ibid. 
+
+5 Quoted in James Danziger, "American Graffiti," The Sunday Times 
+Magazine (London), December 4, 1988, p 5 
+
+6 Quoted in Ferguson, p 65 
+
+7 Quoted in Diana Nemiroff, "Personae and Politics" (interview), 
+Vanguard, vol. 12. November 1983, p 26 
+
+8 Quoted in Jeanne Siegel, "Jenny Holzer's Language Games" 
+(interview), Arts Magazine, vol 60, December 1985, p 65 
+
+9 Quoted in Ibid 
+
+10 Sol LeWitt. "Paragraphs on Conceptual Art," Artforum, vol 5, 
+Summer 1967, p 80. 
+
+
+
+
+INTERVIEW 
+
+Jenny Holzer and Diane Waldman 
+June 6 and July 12, 1989 
+
+
+
+DW: You mentioned to me that at the Rhode Island 
+School of Design you were doing canvases with writing 
+on them. Is that how you began writing? How did you 
+begin doing public projects? 
+
+JH: When I started at RISD, I was an abstract painter 
+But when I was in graduate school there, I became interested in 
+having identifiable subject-matter, and I didn't want to paint it. I 
+wanted to get content in there, something different than the con- 
+tent of abstract art. I eventually tried writing bits of found infor- 
+mation on the canvases. And at the same time, I began working 
+on public projects. I left pieces of my paintings around for people 
+to come across. These were for the most part unsatisfactory ex- 
+periments because what I left was basically meaningless to the 
+people who found them. The one encouraging thing about it was 
+that I knew it was theoretically possible to leave things for people 
+and you could actually stop them in their tracks. If you could ever 
+figure out what was going to be of interest to them, people were 
+willing and able to study or enjoy or worry or fight over what you 
+left there. 
+
+DW: Was there an intent on your part to reach a mass 
+audience, as against, say, a RISD audience? 
+JH: I wanted to see if I could make anything that would 
+be of use to or have some kind of meaning for a very general audi- 
+ence, somebody on their way to lunch who didn't care anything 
+about art. I didn't manage that at RISD, but that was what I tried 
+to do and I suppose that went hand-in-hand with needing to come 
+up with the proper subject-matter. If you want to reach a gen- 
+eral audience, it's not art issues that are going to compel them to 
+stop on their way to lunch, it has to be life issues. 
+
+DW: Did these ideas take more concrete shape as a 
+result of your enrollment in the Whitney Program, or 
+just from your move to New York? 
+JH: Both. My thinking became sharper from the shock 
+of moving to New York where it was clear that if you were going 
+
+
+
+to present something to people, it better be just right, it better be 
+about something genuinely interesting because otherwise people 
+weren't going to give it a second glance. It was a combination of 
+getting some kind of feel for the environment in New York and 
+receiving help from the staff at the Whitney, who gave me a won- 
+derful, very far-flung reading list-great books of Western knowl- 
+edge. This confirmed my suspicion that the world is the subject for 
+art, or at least for my art. 
+
+DW: What in particular triggers your writing? 
+JH: A combination of reading and events in the world 
+and whatever is going on with my life. 
+
+DW: What kind of writing interests you? I think your 
+writing has a directness that is in some ways specifically 
+American. 
+
+JH: I have always admired two kinds of writing. One, 
+delirious, flaming, emotional writing and two, completely pure, 
+pared down, essential writing. I like writing that has two gears, 
+that moves in a certain way and then breaks out and goes some- 
+place else. 
+
+DW: The two polarities you are talking about-in a 
+way you are doing that with your work, in terms not 
+only of the writing but also of the outdoor context and 
+indoor context, the changes in size-small pieces, large 
+pieces-public pieces, private pieces, randomness and 
+control. Can we discuss the elements of randomness 
+and control in your work? 
+
+JH: I try not to make it completely random or sloppy, 
+but there still has to be a wild part in it. In the writing you have to 
+go off into the stratosphere and then come back down. That's 
+what I like, when things spin out of control but then are pulled 
+back so that they're available to you. I want them to be accessible, 
+but not so easy that you throw them away after a second or two 
+DW: I think you are capturing what both life and art 
+
+
+
+are about-randomness, order, being in control, being 
+out of control . both life and art have these dimen- 
+sions. 
+
+JH: I don't want total control and I don't want com- 
+plete chaos. I like them both. But not averaged, both there in their 
+extreme form. 
+
+DW: Was it after you started the Whitney Program 
+that you began doing the posters? 
+
+JH: I started writing the Truisms when I was still at 
+school at the Whitney, and I was in the program when I printed 
+the first poster. 
+
+DW: After you did the Truisms, how did you develop 
+the concept for the Inflammatory Essays? 
+
+JH: I remember that I thought the tone of the Truisms 
+was possibly too even, too bland, too balanced. I wanted less 
+balance and I wanted the next things to really flame. Then I tried 
+to figure out what kind of form would be uneasy and hot and I 
+went to the manifesto I'm being kind of flip saying unbalanced 
+and flaming- 1 also wanted a passionate exposition of the way the 
+world could be if people did things right. I wanted to move 
+between, or include both sides of manifesto-making, one being 
+the scary side where it's an inflamed rant to no good end, and 
+then the positive side, when it's the most deeply felt description of 
+how the world should be. And then I went to the library to find 
+examples of the lunatic ones and the beautiful ones. 
+
+DW: Did you feel that the subject matter of the 
+Inflammatory Essays lent itself to a larger number of 
+words than in the Truisms? 
+
+JH: Sure, it's hard to rant in one sentence, I needed to 
+have at least a paragraph. Also at that stage I was a little bored 
+with writing one-liners and I thought it would be interesting to 
+expand a bit. So I went to my natural limit of one paragraph. 
+
+DW: Why did you begin to use the electronic signs? 
+
+JH: I started using them because I thought the posters 
+had underground or alternative connotations and I thought the 
+signs were the official voice of everything from advertising to 
+public service announcements. Plus they're of the world. Also, on 
+the most basic level, it's a good format for conveying writing. 
+
+
+
+That's why they're used for news blurbs, for short bursts of infor- 
+mation. Plus I'm attracted to the way they look. They're modern 
+and they appeal to me the same way they do to a lot of people. 
+They flash and have nice colors and all that stuff 
+
+DW: It's difficult now to disassociate any sign from 
+yours. So I have a hard time when I walk around in 
+New York, trying to figure out whether you've written 
+this sign or not. It reverses the way you think about 
+something that is in the real world. I would assume 
+that you like this aspect of it? 
+
+JH: I like that kind of confusion. I also like when my 
+material literally is mixed in with advertisements or pronounce- 
+ments of some sort or another. That lends a certain weight to my 
+things, makes them part of the real mix of life. It also creates some 
+very funny juxtapositions. 
+
+DW: Were the works in The Living Series done as 
+aluminum or bronze plaques and then as electronic 
+signs? 
+
+JH: Actually the very first ones I did were hand-lettered 
+metal signs, the kind that sign painters make, saying "This Way to 
+Fire Escape" that typically are red or black letters on a white enamel 
+surface. Then soon after, I made the cast bronze plaques, and finally 
+the writing appeared on the signs. 
+
+DW: At this time were you reading anything different 
+from what we talked about in terms of the earlier 
+series? 
+
+JH: I didn't go to the library for The Living Series be- 
+cause I wanted to change the way of working and the tone. For 
+The Living Series I went back to a moderate, average voice and 
+language because I thought that would match the subject, which 
+was everyday events that just happened to have some kind of 
+kink in them. The writing described these events and then offered 
+some sociopolitical observations or absurdities. 
+
+DW: Was The Survival Series done only on the L.E.D. 
+and UNEX boards? 
+
+JH: The Survival Series was mostly done for the 
+electric signs but I also made aluminum plaques for it. Since the 
+language was flat, dull aluminum seemed like the right kind of 
+material. 
+
+
+
+16 
+
+
+
+DW: You primarily used bronze in The Living Series- 
+why do you distinguish between aluminum and 
+bronze? Is it only because aluminum has that flatness? 
+
+JH: I did this to separate the series from each other 
+and to make it easier to recognize each one. That's why I changed 
+from bronze plaques in The Living Series, which have a serif type- 
+face, to the aluminum plaques, which have a sans serif contempo- 
+rary face. The contemporary face matched aluminum which is a 
+more modern material. Plus the subject of survival seemed like a 
+modern preoccupation. 
+
+DW: What does the title Under a Rock connote? 
+
+JH: It refers to my bringing up some unmentionable 
+or at least unpleasant topics-things that crawl out from under a 
+rock. It is something like what I did in the Inflammatory Essays. 
+
+DW: Can you tell us about any literary influences or 
+any reading that you did in particular for Under a Rock? 
+
+JH: There was nothing specific for this series. In a way, 
+for Under a Rock, I was able to combine certain elements of The 
+Living Series and The Survival Series with the Inflammatory 
+Essays I wanted the language to be hotter and more peculiar than 
+the deadpan delivery of The Living Series and The Survival Series, 
+but I didn't want the ideological ranting that was the Inflammatory 
+Essays I decided to write about the consequences of politics. 
+Hence people throwing bod.es in the river, mothers running from 
+war and terror-man-made catastrophes. What actually happens 
+to peoples' lives as a result of unnecessary disasters is the theme 
+of Under a Rock, rather than the mouthy stuff of the Inflammatory 
+Essays which was, "We must overcome." Under a Rock is what 
+occurs after people have overcome or have been overcome. 
+
+DW: Samuel Beckett as well as Edgar Lee Masters's 
+Spoon River Anthology are often mentioned as possible 
+inspirations for the Laments. I don't want necessarily to 
+imply a direct link with these sources, but wonder if 
+you will clarify any connection that may exist. 
+
+JH- I had started the Laments and had done maybe 
+half a dozen of them when my husband Mike brought Spoon 
+River Anthology to me. I don't think it was a direct influence but 
+it was nice to see how somebody else made dead people talk. It 
+was interesting because Masters let many kinds of people speak, 
+
+
+
+horrible people and wonderful people. Beckett is an all-purpose 
+hero for me. He wasn't so much an influence for the series as 
+much as an example of intelligence and skill that made me think 
+it would be great to do it like he has 
+
+DW: I also think that your own predilections are not 
+unlike his, that what you're trying to say is succinct, 
+it's black humor, it's ironic. 
+
+JH: But dead serious underneath it. 
+
+DW: I would like to ask you about your changing 
+during the last few years from the use of posters or 
+signs alone to signs used together with benches or 
+sarcophagi. It seems to me to put you into another 
+sphere. 
+
+JH: Even when I was concentrating on the public 
+projects, I was still exhibiting some residue or artifacts from these 
+public events in art spaces. So I gradually came to think that since 
+I am showing pieces as art, it would make sense to design some 
+things specifically for indoor spaces. As I got more confidence in 
+my ability to keep the public stuff alive, and I became sure of my 
+ongoing interest in it, I felt I could do the art stuff and not k.ll me 
+or the public work. I also wanted to be completely satisfied with 
+what I put indoors, and to do that I had to think of It in the same 
+way that I did the outdoor projects, which was to design some- 
+thing especially for that setting. 
+
+DW: I find that there's a certain power to those "offi- 
+cial" art efforts that you don't quite get in an outdoor 
+context. If you are in an outdoor context you have a 
+sign that moves, that changes quickly and you also 
+have a transient group of people. In an indoor context 
+you have a fixed space and a body of work that was 
+done for a particular purpose. I think there is a tend- 
+ency to stay longer I don't know if this is because of a 
+change you have consciously made in the work or if it 
+results from the setting. 
+
+JH- It's really getting to be two different things. In 
+some cases, what I gam outdoors is the surpr.se that a passerby 
+has from seeing something unexpected, something with my kind 
+of hard content. That's lost indoors It's almost impossible to shock 
+an art audience. There may be a greater chance with the outdoor 
+work that you might startle people so much that you have some 
+
+
+
+hope of changing their thinking a little bit, or even prompting 
+them to take some kind of action. You might have an incrementally 
+better chance of altering something in the world with the public 
+stuff just because you reach more people, and because the con- 
+tent of the writing is taken at face value, it is not dismissed as art. 
+However, what you gain indoors is the chance to develop a com- 
+plex presentation of a lot of ideas. The installation that you set 
+up can be more complex, the writing can be more complicated, 
+the ideas can be more elaborated, the emotional tone can be 
+richer, you can have more layers. The "art" might be better. I'm 
+not even sure I mean that, often I think a stripped-down public 
+thing is just as fine. I'm not sure that I have a preference I like 
+to do both. 
+
+DW: It is also conceivable to me that you can take 
+some of the content of an indoor piece and make it 
+work in the outdoors. 
+
+JH: Oh yes 1 They're not mutually exclusive, although 
+they're starting to be more separate than they were. It used to be 
+that the exact same stuff would live in both places. 
+
+DW: In the work with the sarcophagi you're using an 
+idiom that is difficult because of its meanings for even 
+the most knowledgeable person to take into his or her 
+home. 
+
+JH: I hope the sarcophagi are difficult and shocking 
+too. When you're working in an art space it's hard to create the 
+surprise that you get when you encounter things on the street, 
+so a "difficult" form is useful in a way. Death is a hard subject. 
+
+DW: The benches and sarcophagi have a lot of power. 
+Do you find that certain forms are more effective than 
+others, regardless of size? 
+
+JH: Sometimes I use neutral forms and other times I 
+want loaded forms like sarcophagi. But it has to do with trying to 
+find out what topics actually mean something to people. If you 
+can find the subject and then find a form that's appropriate, that is 
+functional, that doesn't interfere with the subject, which is nice in 
+and of itself, then you are home free. That's what I aspire to. I try 
+to get the subject and present it in the correct way and on the 
+right thing; I try to find a home for it, and then I put it where 
+someone is going to see it Even with the street posters, even the 
+Inflammatory Essays, I wanted them to be nice in their own 
+
+
+
+horrible way, they had to have form. It was important that they 
+were ordered, and I wanted the typeface to be italic and bold and 
+just so, and to have bright colors and to be pure squares so that 
+people would want to come up to them. It's just taking care. 
+
+DW: And seduction. 
+
+JH: And seduction. Careful seduction. 
+
+DW: Seduction and order, it's a wonderful combination 
+Do you get any special reactions to your work from 
+women? 
+
+JH: I've noticed some particular responses from women, 
+although I don't always do womens' issues per se. Women are 
+very concerned about the nuts and bolts of survival. Women often 
+feel a little more threatened, a little more aware than men, or 
+a little sadder about realities or possible consequences. Maybe 
+that's a general reason why some of my subjects might resonate 
+with women. Another reason is that women are very practical 
+about things because they have to be, and my approach is practical 
+and explicit. 
+
+DW: I think that the work has a directness and clarity 
+to it, whether it's the shape or the writing. 
+
+JH: Both hopefully. I think women appreciate function. 
+
+DW: Should we talk about the piece you are doing for 
+the Guggenheim? Can you tell us what you have seen 
+in the space, which is very organic in nature, and how 
+you envision it will be in contrast to the space at Dia, 
+which was fairly regular and much more enclosed? Do 
+you see the Museum's shape as leading you to some- 
+thing different from the way you are working? 
+
+JH: It's an intriguing proposition at the Museum. This is 
+definitely a place where you don't ignore the shape or the volume 
+of the space. I thought for a long time that it would be incredible 
+to do something with it, not against it, not for it, just with it. So I 
+tried to come up with a piece that would be a part of it but that 
+would add something. It has to be somewhere between autono- 
+mous and respectful. I think going around and around the parapet 
+wall with a sign will do that because it will have a life of its own 
+but certainly will give more than a nod to the space. I hope the 
+piece won't be overcome by the architecture or ruin it. I think it 
+will be a logical shape within the space. We will be able to get the 
+
+
+
+18 
+
+
+
+information from the spiral sign standing below, on the Rotunda 
+floor, or across the space from a ramp, so it should pass the test of 
+being functional, and with good programming it should be appeal- 
+ing, too. It must be engaging somehow, physically and emotion- 
+ally. It should look relatively clean. It shouldn't be excessive. 
+
+DW: This is fascinating because the central space is so 
+much a part of the volume of the place, yet it hasn't 
+been used before. Even sculptors who have looked at 
+the space and made pieces specifically for it have really 
+used only the Rotunda floor. They haven't considered 
+the parapet which ties the whole place together from 
+the dome to the main floor. 
+
+JH: The ramp with its parapet wall is where you get up 
+and down, where you travel from top to bottom. It's a nice band, 
+a nice ribbon. As well as being such a strong visual element, you 
+walk inside the shell here, so it seemed that was the place to go. 
+What I would like to do, if the sign guys and I can manage it, is 
+to have periods of calm in the sign's programming, texts spiraling 
+slowly. That will be the dominant mode because it will be like 
+water flowing to the top, going round and round. But then I 
+would like to break the pattern sometimes and have texts go 
+to the center, flash and twist and be stationary and then continue. 
+
+DW: The piece at Dia has some of that 
+
+JH: Yes, it's funny, it's only after you stare at a space a 
+long time that you figure out what it requires. At Dia, I'd done all 
+the programming in advance and each sign was going to act 
+independently of the other. I'd done all-out special effects, with 
+each sign going crazy constantly. Then when I got to the room, I 
+realized because of the subject matter of the piece that the setting 
+should be very quiet; that it was best if there were, for the most 
+part, a very steady, slow rising text on each sign, and if the signs 
+at some point synchronized. That they should play one by one, 
+and stop when they finished their individual program, and then go 
+to dark. And when the last one had stopped, they would all come 
+on again simultaneously so there would be a little optimism. But 
+this came clear only three days before the show opened. I imagine 
+that I'll do last minute changes at the Guggenheim, too. 
+
+DW: Will there be a particular theme for the writing in 
+the Guggenheim piece? Will it be a statement about 
+yourself, about museums, about art? Will it reflect a 
+
+
+
+particular response to the setting in comparison to your 
+response to Dia? 
+
+JH: Using an expanse of parapet wall lets me not just 
+have a nice shape but gives me a long billboard on which I can 
+display a lot of material. I'll go back into the older series all the 
+way up through whatever I'm doing by December of this year, 
+and pick and choose. I'll have various series spiraling up the ramp 
+at different times. Dia was one particular subject done in depth. 
+This new installation will be more across-the-board, which I think 
+will be suitable for a museum audience. The writing won't be 
+about art and museums, and it won't be about me, at least directly. 
+
+DW: I have read that a cross-section of your work will 
+be shown in Venice. I know that you haven't come to 
+any decisions about Venice, but I wonder if you can 
+discuss what you are thinking about for the Biennale? 
+
+JH: I'm thinking that an indoor sign and various public 
+projects outside the American Pavilion might be a good place for a 
+retrospective or selection of earlier work. Inside the Pavilion I may 
+do something new about freedom I thought I might split it into 
+two parts, freedom from and freedom to. Have the dark wing 
+freedom from all the things that you don't want to happen, and 
+then the positive side would be freedom to do what is important 
+and necessary. I have some ideas about the installation. I like the 
+delicate lines, the fine lines of color in Venetian glass. So I might 
+make tiny bands of light in some of the galleries with LED. signs. 
+In one space I would have horizontals wrapping the room so that 
+there would be several bands all around, and then have skinny 
+vertical signs in another room. You will completely lose the space; 
+there will just be these slender bands of light. I also was consider- 
+ing redoing the floors, rather than having a lot of stone objects, I 
+would just lay the stone on the floor and have inscriptions there. 
+The materials would then melt away 
+
+
+
+TRUISMS 
+
+
+
+A LITTLE KNOWLEDGE CAN GO A LONG WAY 
+
+A LOT OF PROFESSIONALS ARE CRACKPOTS 
+
+A MAN CAN'T KNOW WHAT IT'S LIKE TO BE A MOTHER 
+
+A NAME MEANS A LOT JUST BY ITSELF 
+
+A POSITIVE ATTITUDE MAKES ALL THE DIFFERENCE IN THE WORLD 
+
+A RELAXED MAN IS NOT NECESSARILY A BETTER MAN 
+
+A SENSE OF TIMING IS THE MARK OF GENIUS 
+
+A SINCERE EFFORT IS ALL YOU CAN ASK 
+
+A SINGLE EVENT CAN HAVE INFINITELY MANY INTERPRETATIONS 
+
+A SOLID HOME BASE BUILDS A SENSE OF SELF 
+
+A STRONG SENSE OF DUTY IMPRISONS YOU 
+
+ABSOLUTE SUBMISSION CAN BE A FORM OF FREEDOM 
+
+ABSTRACTION IS A TYPE OF DECADENCE 
+
+ABUSE OF POWER COMES AS NO SURPRISE 
+
+ACTION CAUSES MORE TROUBLE THAN THOUGHT 
+
+ALIENATION PRODUCES ECCENTRICS OR REVOLUTIONARIES 
+
+ALL THINGS ARE DELICATELY INTERCONNECTED 
+
+AMBITION IS JUST AS DANGEROUS AS COMPLACENCY 
+
+AMBIVALENCE CAN RUIN YOUR LIFE 
+
+AN ELITE IS INEVITABLE 
+
+ANGER OR HATE CAN BE A USEFUL MOTIVATING FORCE 
+
+ANIMALISM IS PERFECTLY HEALTHY 
+
+ANY SURPLUS IS IMMORAL 
+
+ANYTHING IS A LEGITIMATE AREA OF INVESTIGATION 
+
+ARTIFICIAL DESIRES ARE DESPOILING THE EARTH 
+
+AT TIMES INACTIVITY IS PREFERABLE TO MINDLESS FUNCTIONING 
+
+AT TIMES YOUR UNCONSCIOUS IS TRUER THAN YOUR CONSCIOUS MIND 
+
+AUTOMATION IS DEADLY 
+
+AWFUL PUNISHMENT AWAITS REALLY BAD PEOPLE 
+
+BAD INTENTIONS CAN YIELD GOOD RESULTS 
+
+BEING ALONE WITH YOURSELF IS INCREASINGLY UNPOPULAR 
+
+BEING HAPPY IS MORE IMPORTANT THAN ANYTHING ELSE 
+
+BEING HONEST IS NOT ALWAYS THE KINDEST WAY 
+
+BEING JUDGMENTAL IS A SIGN OF LIFE 
+
+BEING SURE OF YOURSELF MEANS YOU'RE A FOOL 
+
+BELIEVING IN REBIRTH IS THE SAME AS ADMITTING DEFEAT 
+
+BOREDOM MAKES YOU DO CRAZY THINGS 
+
+CALM IS MORE CONDUCIVE TO CREATIVITY THAN IS ANXIETY 
+
+CATEGORIZING FEAR IS CALMING 
+
+CHANGE IS VALUABLE WHEN THE OPPRESSED BECOME TYRANTS 
+
+CHASING THE NEW IS DANGEROUS TO SOCIETY 
+
+CHILDREN ARE THE CRUELEST OF ALL 
+
+CHILDREN ARE THE HOPE OF THE FUTURE 
+
+CLASS ACTION IS A NICE IDEA WITH NO SUBSTANCE 
+
+CLASS STRUCTURE IS AS ARTIFICIAL AS PLASTIC 
+
+CONFUSING YOURSELF IS A WAY TO STAY HONEST 
+
+
+
+1 Selections from Truisms. 1980 
+Offset poster on paper 
+Street installation, New York 
+
+
+
+
+
+
+r «UMAY 
+
+
+
+
+
+
+'O Wf R SHOULD COME A S NO SURPRISE "\ 
+
+ALIEN AflbN CAN PRODUCE ECCENTRICS OR REVOLUTIONARIES 
+AN ELITE IS INEVITABLE ^unwiAKits 
+
+AnVsIrZl"! "j£££^ SlrUL MOT ' VAT,NG f ORCE 
+
+PPg*gS THi APPROPRIATE RESPONSE TO MOST SITUATIONS 
+EVERYONTS WORK IS EQUALLY IMPORTANT *"iriUN5 
+
+EXCEPTIONAL PEOPLE DESERVE SPECIAL CONCESSIONS 
+FAI WfUlNiSSlS( A SOCIAL NOT A BIOLOGICAL LAW 
+FREEDOM ISj/KQt BKf» OT A NECESSITY 
+GOVERNMENT iSWJBKtgggoN THE PEOPLE 
+HUMANISM IS OBSOLETE 
+
+IDEALS ARE EVENTUALLY REPLACED BY CONVENTION 
+
+INHERITANCE MUST BE fl ¥nill)«r g 
+
+KILLING IS UNA VOIDABLE BUTlFhoTHING *D BE PHOVaBfl 
+
+LABOR IS A LIFE DESTROYING ACTIVITY im0Cm "- =cy 
+
+INEYCREATES TASTE 
+
+tOKALV ARi FOR LIT7LEj PEOPLt\ S 
+
+AOST PEOPLE ARE NOT FIT TO RUU THEMSELVES -Ipf-T^j 
+MOSTLY YOU SHOULD MIND YOLtR OWN BUSINE&lt;i&amp; ^ 
+MUCH WAS DECIDED BEFORE YOU WERE BORN „ J 
+
+MURDER HAS ITS SEXUAL SIDE * / ^M&lt;-^K 
+
+PAIN CAN BE A VERY POSITIVE THING ^&gt; W 
+
+PEOPLE ARE NUTS IF THEY THiNK THEY CONTROL THEIR LIVES 
+PEOPLE WHO DON'T WORK WITH THEIR HANDS A*i PARASITES I 
+
+PEOPLE WHO GO CRAZY ARE TOO SENSITIVE 
+PEOPLE WONT BEHAVE If THEY HAVE NOTHING TO LOSE 
+PLA YING IT SAFE CAN CAUSE A LOT OF DAMAGE 
+PRIVATE OWNERSHIP 1% AN INVITATION lO DISASTER 
+
+ROMANTIC LOVE WAS INVENTED TO MANIPULATE WOM N 
+
+SELFISHNESS IS THE MOST BASIC MOTIVATION 
+
+UP A RA TISM IS THE WAY TO A NEW BEGINNING 
+
+SEX DIFFERENCES ARE HERE TO STAY 
+
+STARVATION IS NATURE'S WAY 
+
+STERILIZATION /$ OFTEN JUSTIFIED 
+
+STUPID PEOPLE SHOULDN'T BREED 
+
+TECHNOLOGY WILL MAKE OR BREAK US 
+
+THE FAMILY IS LIVING ON BORROWED TIME 
+
+THE LAND BELONGS TO NO ONE 
+
+TIMIDITY tS LAUGHABLE 
+
+TORTURE IS HORRlBi "CITING 
+
+TRADING A LIFE FO*\ AIR I OUCH 
+
+
+
+" 
+
+
+
+22 
+
+
+
+2 Selections from Truisms 1982 
+
+T-shirt worn by John Ahearn, New York 
+
+
+
+V 
+
+
+
+..,«* Of POWIR SHOULD COMf AS NOSURPR,.. 
+
+-Safes %z3,L uunu - ,mm ™-&lt;- « 
+
+O/SGUST.STHf APPROPRIATIRISPONSITOMOSTS.TUAT.ON* 
+fVf»rONfS WORK IS IQUAUr IMPORTANT 
+fXC*PT»ONAL PIOPLI DISfRVf SPIClAl CONCUSIONS 
+fAITHfULNt SS IS A SOCIAL NOT A BIOLOGICAL LAW 
+WUOOM IS A LUXURY NOT A NfCESSlTY 
+GOVfRNMtNT IS A BUROIN ON THf PIOPLI 
+HUMANISM 1$ OSSOLf Tl 
+
+,OIALS ARt IVINTUALL Y RIPLACIO BY CONVINTIONAL OOAU 
+• fjHfRlTANCI MUST 81 ABOLISHIO 
+
+KILLING IS UNA VO.DABLI BUT IS NOTM.NO TO If PROUD Of 
+LABOR IS A Llff DtSTROYING ACTIVITY 
+MONfY CRIATIS TASTI 
+MORALS ARI fOR t'TTLI PIOPLI 
+MOST PIOPLI ARI NOT FIT TO RULl 'HIMMIVIS 
+MOSTLY YOU SHOULD MINO YOUR OWN BUS/NISS 
+"Sen WAS OIC.OID BifORI YOU WfRI BO»N 
+MUKOIR MAS ITS SiXUAL SIDI 
+
+»»'N C AN 81 A VIRY p O*' T,V ' J."'" , CON TROL THIIRLIV0 
+^ *«• NUTS If THIV THINK THir^ CONTRO L ^^ 
+
+"OPUwMO DON'T WORK WITH ITMIM H* NO » 
+PrOPLI-HHOOO CRAZY ARf TO ° " N *o T h,NO TOlOtf 
+HOfLt WOHT SIMAVI II TMIY HAVI NOJHINW 
+»VAYINO IT SAM CAN CAUSI A LOT Of ° A ?Z, %Ai n* 
+•gMI OWNIRSM.P II AN INVITATION TO £JMJ 
+■0***»*TIC LOVf WASINVINTIOTOMANI'' -^ 
+
+UflSHNUS IS THf MOST BASIC MOTIVATION &gt; 
+»M«Anu*i» THI WAV TO A N«W BfOlNNlNa 
+»* DlfHMNCtl ARf HIRI TO STAY 
+
+•TARVAT'ON IS NATUM'« VWAY 
+
+
+
+23 
+
+
+
+3 Selection from Truisms. 1987 
+Painted billboard 
+Installation. Central Square, Cambridge. Massachusetts 
+
+
+
+
+24 
+
+
+
+
+
+
+4 Selection from Truisms 1983 
+
+T-shirt worn by Lady Pink, New York 
+
+
+
+
+25 
+
+
+
+5 Truisms 1982 
+
+Double-sided silver photostats 
+Installation, Marine Midland Bank lobby, 
+140 Broadway, New York 
+
+
+
+
+26 
+
+
+
+6 Selections from Truisms 1979 
+Color photostats with audio tapes 
+Installation, Fashion Moda window, 
+Bronx 
+
+
+
+* MINUOO lOft f A— i 
+
+AlOUNAl CKATWCn JAMAS M SANAM 
+
+AAMMAXA* A ALOUMN SMUAlAMNTf IS UN ACTOHOOBJNf 
+
+OOfM A lOA NINOS r NINAS CM LA M/SMA KJAMA 
+
+0fM«4 VIA JAA UVIANAMINTI 
+
+9k. AOUfMMMNOO MA CI QUt UNO NAOA COSAS I OCAS 
+
+§L AOUSO Oft POM* NO CM M CM MIWWMU AlOONA 
+
+&amp; AMO* AOMiNTKX) U INV1NTA PARA MANIAULA* A LAS MUJfM S 
+
+A AAOMAUSMO fS rtAffCTAAMNTf SALUOABLf 
+
+aCOMMOtAtASIAOOfSOMMfNAl 
+
+a rwritn contaa la moahoao is MLAnvAMANTf poco im^o»tanti 
+a cmnnociia ousro 
+
+a OOtOA PUfM SM UNA COAA POA/TIVA 
+A UMSnAM COttAJi ts mkuamo 
+
+■ lo— in ii it «~~~ 
+
+a iioiw a la rcMwn m la N*ru«*u i* 
+
+a MOMJOfMO TlfHf SO LAOO SAXUAt 
+
+■ iiMfMti ixfsfun 
+
+ft KMiOAA. LO« fNfA4N&gt;OA O LA MfX*'OAMAMmJAA 
+
+a IMTaKAAt«K) Of OMA VIOA PO« CWU IS S4JPK»SMT»MiMTI JUSTO 
+
+a MATAA H MMVTTAOLI MO NO fS AlOO Of OUt fSTAA OOOUUOAO 
+
+a MOIST aVaLAS PMSONAS SttUAUMMTl MJOM OAA A CONSACUfNCIASMUT MAS 
+
+a MOfOSSf OffMMA SM TAN riot OOMO CAMBf Of UN »ALO 
+
+I UMMMCONrUOO KmUTTAMOWn O OUONO PAAA tO fAUO Of tOS Mi rOSSUUAU 
+
+a USA» LA PUMZA PAAA PAAAA LA fUOtZA fS AM4MDO 
+
+IN ALOUNAS INSTANTS « MfJOA MOM OUf CONTIMU AA 
+
+fM a A#AN NO MA r NAO A OUf MOMMA 
+
+m tmmpos la iNACTivsoAO a mmomou ai wnonammnto sin omoaoo 
+
+aOUfNOOAHOINfOOfJtTmAALACAMOAO 
+m MfOKO fl TAATAA Of P AAA* M HtMAO 
+
+■ MAPOAANT1 TfNM UNA VIOA Of 9 ANTAS/A ACTTVA 
+B OAAOSJOU MCONOUAA a CO0A2ON f a OffSfO 
+fB MUO* MA I NOANUO OUf SM VI VIOO 
+
+ffS MffO ACOMNTI a OUf SUS FA0MS MAN SUS AAOMS 
+OCUCMfCUANOOSUCUfMOMAMA 
+
+LA OfCAOfNCIA «»i»il*«OfWMf*Al 
+i LA OfSCAIPOCJN IS Mis VALK»A OUf LA MATAfOAA 
+
+LA fNffANUOAD fS UN fSTAOO M AUNTt 
+I LA MirA CM CAATSMA AUIM SMfATAl 
+i IA UMA7 A IS UN LU JO NO UNA NfOJSIO A 
+
+i UOSATCMM iu OfNTI NO SON APTOS PAAA MANO AASI * V M, W 
+• MOMMOOM MATA At fS^MTU 
+I NUfVA CHSTAIOUOON CM LA KlQUt 1 A I 
+Km A MfMNTAOON fS TAN IMPORTANT! CC 
+[ LA MOPlfOAD POJVAOO CMO II CAlMlN 
+\ LA AAAIA f II OOIO SJAVIN COMO fUttZ * 
+I MUQION CAUSA fANTOS WWCUIM* J &lt; 
+I fAlVAClON NO PUf Of SI A COMPAA0A I 
+| fOfffUOA fS •AAAAAO 
+
+CIA ISMMAISJBLI r OCASIONAL 
+_*OAIS«XUALf«»STANAOUtPA 
+IAS PALAAAAS niNOIN A SfA INAOfCUAOAS 
+LAS PMSONAS ISTUPIDAS NO MAIN PAOCAJAl 
+LAJ PMSONAS NO S*.C TAN SI NO HIP-" 
+
+I PMSONAS OU» M v &gt; ' ' lOCASSON* 
+
+II1LIIIH Sc»N AAUM ■• S A MINOS OUI SI&gt; 
+OKWMOUVrOMni) jOSUAUTOAIOAO 
+IMNOSSONLAOMKANZACMI IUTUAO 
+| MINOS SON I OS Mis CAUf LIS CM TOOOS 
+IMPJIU'OI *ON PAAA IOS SIMS PfOUfNC 
+&gt;jf Of N MOVOCA* OUir 
+lUSH "» M CM MANTfNfAM • 
+| IMA *&gt; I ' J* I S T A I A 
+
+I a AALANO CM LO OUfMf 
+
+
+
+
+IMAfMJ I 
+»«AAAS&lt; 
+
+
+
+
+A v 
+
+
+
+7a-d Selections from Truisms 1982 
+Spectacolor Board, 20 x 40' 
+Installation, Times Square, New York 
+Sponsored by Public Art Fund, Inc., New York 
+
+
+
+
+
+
+
+28 
+
+
+
+
+
+
+
+29 
+
+
+
+
+30 
+
+
+
+
+
+
+
+31 
+
+
+
+
+8 Selections from Truisms 1982 
+Painted wall 
+Installation, HausKranefuss, Kassel 
+
+
+
+
+*****— man Sgmt 
+
+HANDCLM SCHAOer Mr- 
+HEISTZUTAGE GIbVeS 
+
+
+
+
+9 Selections from Truisms. 1984 
+Offset posters on paper 
+Installation. Seattle Art Museum 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&gt;««V A*S\DO M N»riVI 
+
+I'tOPli WO*T B|m*vi II ihi t M(vi NOTNUM ro lOtl 
+
+nh/Ul »» ' &lt;»l Turn .-, ticoMoaiftf 
+
+V\ AHHINU I "H IMI lUIIIHI ItlfCAMM 
+
+SLAVING II '.*»» &lt; AM CAUM A LOI Ol 0»MAf.l IN tMI I ON NUN 
+
+ir.ONAl (.AIN 
+
+iMlTihiiAi COUNTS fOU NOTNINO UMfll in MAUHO 
+ItCNTATIOI ""' 
+
+ivati pnon ' ' " ,MI 
+
+
+
+
+
+
+• •N.A- 
+
+
+
+
+
+
+
+
+
+r~ 
+
+
+
+
+33 
+
+
+
+10a-d Selections from Truisms 1985 
+Electronic display signboard 
+Installation, Dupont Circle metro station, Washington, DC 
+
+
+
+
+34 
+
+
+
+Grass rooti 
+mentation 
+
+is the i-jd.Iv hops 
+
+
+
+
+
+
+Mvths make, 
+
+
+
+intelligible 
+
+
+
+Murder 
+has its # 
+sexual side 
+
+
+
+35 
+
+
+
+11 Selections from Truisms. 1986 
+
+L ED. electronic display signboard, 5 x 29 x 2" 
+Installation, Palladium, New York 
+
+
+
+36 
+
+
+
+12 Selections from Truisms 1986 
+
+Hexodecimal electronic display signboard. 96 x 156" 
+Installation, baggage carrousels, McCarran International 
+Airport. Las Vegas 
+
+Organized by Nevada Institute of Contemporary Art, 
+University of Nevada, Las Vegas 
+
+
+
+
+13a-c Selections from Truisms. 1983 
+
+Electronic display signboard with incandescent bulbs. 13 x 96" 
+Installation, News Stand Restaurant. Center Square 
+Philadelphia 
+
+
+
+
+EXTOMSTC 
+
+
+
+
+40 
+
+
+
+
+41 
+
+
+
+
+
+
+
+
+14 Selections from Truisms. 1986 
+
+Dectronic Starburst double-sided electronic display signboard, 
+
+20 x 40" 
+
+Installation, Caesar's Palace, Las Vegas 
+
+Organized by Nevada Institute of Contemporary Art. 
+
+University of Nevada, Las Vegas 
+
+
+
+
+" 
+
+
+
+►ARKING 
+
+
+
+'* -.-- 
+
+
+
+
+SACK T1E0 
+
+WIN 
+
+
+
+h 
+
+
+
+15 Selections from Truisms and The Survival Series. 1986 
+
+Dectronic Starburst double-sided electronic display signboard 
+20x40' 
+
+Installation, Caesar's Palace, Las Vegas 
+
+Organized by Nevada Institute of Contemporary Art, 
+
+University of Nevada, Las Vegas 
+
+
+
+
+44 
+
+
+
+
+45 
+
+
+
+
+46 
+
+
+
+16 Selections from Truisms, and The Survival Series. 1988 
+6 Danby Royal marble benches, each 17 x 54 x 25", L ED 
+electronic display signboard. 6V 2 x 121 v 2 x 2", 8 LE D 
+electronic display signboards, each 5 x 29 x 2"; UNEX 
+electronic display signboard, 30V 2 x 113 1 /a x 12" 
+Installation, HoffmanBorman Gallery, Santa Monica 
+
+
+
+17 Selections from Truisms 1987 
+
+Danby Royal marble bench, 17 x 54 x 25" 
+1 of edition of 3 
+
+
+
+
+47 
+
+
+
+18 Selections from Truisms and Under a Rock 1989 
+4 Danby Royal marble benches, each 17 x 54 x 25", 
+4 Misty Black granite benches, each 17 1 /i x 48 x 21" 
+Installation, Doris C Freedman Plaza, New York 
+Sponsored by Public Art Fund, Inc , New York 
+
+
+
+
+48 
+
+
+
+
+49 
+
+
+
+19 Selections from Truisms 
+
+Installation, railway cars, Hamburg 
+
+
+
+
+til 
+
+
+
+
+
+
+
+
+
+POSITIVES DENKEN MACHT DEN UNTER5CHH) 
+PRIVATEIGENTUM l\\ll\XX VERBRECHEN 
+REGIERUNGEN SIND DIE LAST DES VOLKES 
+VERTRAUE DEINEN EIGENEN AUGEN 
+
+
+
+
+
+
+IHR SEID DIE SUMME EURER HAND! 
+JEDER HAT DAS GESICHT DAS ER H 
+JEDERMANN'S ARBEIT ISTGLEICH V 
+KEINER 
+
+
+
+
+50 
+
+
+
+51 
+
+
+
+20a Selections from Truisms May 26, 1987 
+
+Sony JumboTRON video display signboard, 24 x 32' 
+Installation, Candlestick Park, San Francisco 
+Sponsored by Artspace, San Francisco 
+
+
+
+flB 22 I ___ l23HSI1ll|flKHE 
+
+RUG .3031 METS 00001002 371 
+BALL I ClftNTS I 10 2 8 1 
+
+
+
+IF TONIGHT'S GAME 
+
+
+
+V TO THE END 
+
+
+
+30 CF 8 2B 
+
+00 LF 17 IB 
+
+§9 P 18 RF 
+22 1B&lt;- I CF 
+
+1 L 20 3B 
+
+10 3B 3S~ 
+
+25 RF 13 L 
+
+
+
+
+
+
+
+• 
+
+
+
+52 
+
+
+
+20b Selections from Truisms May 26, 1987 
+
+Matrix monochrome electronic display signboard, 88 x 256' 
+Installation, Candlestick Park, San Francisco 
+Sponsored by Artspace, San Francisco 
+
+
+
+
+53 
+
+
+
+NFLAAAAAATORY ESSAYS 
+
+
+
+54 
+
+
+
+DON'T TALK DOWN TO ME. DON'T BE 
+POLITE TO ME. DON'T TRY TO MAKE ME 
+FEEL NICE. DON'T RELAX. I'LL CUT THE 
+SMILE OFF YOUR FACE. YOU THINK I DON'T 
+KNOW WHAT'S GOING ON. YOU THINK I'M 
+AFRAID TO REACT. THE JOKE'S ON YOU. I'M 
+BIDING MY TIME, LOOKING FOR THE SPOT. 
+YOU THINK NO ONE CAN REACH YOU, NO 
+ONE CAN HAVE WHAT YOU HAVE. I'VE BEEN 
+PLANNING WHILE YOU'RE PLAYING. I'VE 
+BEEN SAVING WHILE YOU'RE SPENDING. 
+THE GAME IS ALMOST OVER SO IT'S TIME 
+YOU ACKNOWLEDGE ME. DO YOU WANT TO 
+FALL NOT EVER KNOWING WHO TOOK YOU? 
+
+
+
+21 inflammatory Essay 1978-79 
+Offset poster on paper. 17 * 17" 
+Street installation. New York 
+
+
+
+t^ 
+
+
+
+V 
+
+\ 
+
+
+
+
+\ 
+
+
+
+krhhce.' ofr times are intolerable. 
+Take copr/Xhe for the worst is a 
+
+HARBINtiER OF THE BEST. ONLY 
+DIRE CIRC! MSTAXCECAN PRECIPITATE 
+THE o\ ERTHRoW &lt;&gt;!■ OPPRESSORS. THE 
+oLh AS!) CoRRt PT MINT HE L,\ID TO 
+WASTE BEFORE THEJVST CAS TRIUMPH. 
+OPPOSITION IDENTIFIES AST) 
+IsoLATFs THE ENEMY. CONFLICT 
+OF 1ST ER EST Ml ST HE SEEN FOR 
+WHAT IT Is. DO SOT Si P PORT 
+PALLIATIVE CEsTlRES; THEY CoXFtSE 
+THE PEOPLE AND DEL\ Y THE INEVITABLE 
+(. OXEROXTA TloX. DELA Y IS NOT 
+7oLER.-\ TED FoR IT .JEOPARDIZES THE 
+WELL HEIXt, OF THE MAJORITY. 
+lOXI/LXDICTIOX WILL HE HEICIII EX ED. 
+I HE REChoXlXtj WILL HE HAs'J E\ ED 
+HY THE sJAOINd OF sEED DISTIRRANC ES. 
+THE AFOLAL YPsE 'MLL BLOSSOM. 
+
+
+
+
+
+56 
+
+
+
+22 Inflammatory Essay 1979-81 
+Offset poster on paper, 17 x 17" 
+Street installation, Toronto 
+
+
+
+
+
+* 
+
+
+
+RPOSE. IIII II 
+
+mtpusiixr. 
+
+\% wd'hi ri rj^J 
+
+OAF: S SMS 
+
+/&gt;/ S//\) 
+
+II S I \M 
+
+
+
+V CCtf 
+
+
+
+" SI III! ., / 
+Ml S/ / ,A/ /&lt;•/ S /7»\N 
+
+i &lt; n\Ki\\i\nt ii \i 
+
+III i \\ si i 
+
+III l ill (,HI [JO 
+
+us i isios r, 
+
+n HI i &lt; lln\ \i \h'- 
+I ll l lisi 1 1 is vi I 
+IS Ml I'K.S/I) I ' 
+
+H I \IIUM sol \i a, 
+
+I'll II \l,l H (,l\l \ 1,1? 
+
+LV/J n KPOS£. mi ii 
+(,KI \i 
+n i(i 
+
+M,(,h7 ssmhs III Is r, 
+"I hi s//\j /// in u\\1 
+')) ill) ; ■ \i&lt; mis 
+na 
+F//Ms iin'iisr, 
+
+
+
+► i wmi \ 
+miW. 
+
+\\I\U Wills 
+III 
+
+\ ///s 
+
+K\ll I I I 
+. I III RK 
+
+" . \ 
+
+
+
+
+
+
+dy-^yjOJi^ri 
+
+
+
+// -. u/&gt;;% i m/s 
+
+&gt;/&gt;/ IDOh\, IIS/ (!■ N , N/ , 
+rW \ «*/ \A //// w //if i\A// IS 
+
+Jp±.Ki mi M(&amp;mi power Ol mi 
+
+I W7 A's TO \\ I \&lt;&gt;l ISIII 
+SUM (,i /„,;,/ s u „ y ;/// nl)l ' 
+
+
+
+
+
+
+sn u r;/ ////%/ s m„ ) , lh 
+
+' j'tT' w w IA&lt; IIORISC, 
+Whall HI S Iti mi /)//,•/ 
+
+» »/&gt;/.vr; «/////s i\/&gt; //// ij 
+rinr/i iiwi iim whu 
+"&gt;i&gt; iix N\( a mi 
+SI PPORTS W nil ) .'■ i* 
+/"Mi \ /\ in i,,\i /) , ; 
+&gt;"/ if( \ri n,H i mi 
+will III I HI I IHOUj 
+wdsihi (,&lt;./ 1 yotl 
+mi SHATTERED \ 
+\\i&gt; y&lt;; \ \ w/iii ■ 
+ll\l /\n, si mi 
+wi&gt; SI N/7 Mil , 
+
+
+
+&lt;&gt; j HI I I 
+
+
+
+llll MOSI I \l,l ism I'll is/ HI IS 
+
+limits \nu\ \uiiu\i. ( *\ (o\w\ ,/ 
+
+u//// //// // / , i\(, ,,,, \n 
+
+si \SAflO\S \hi i u i M.\\ 
+
+llll I'll) SH \l ,,\l ^ A wMl/\i, Mil 
+
+^jwi POttl k ins i" in iiii lut.i.i si 
+mi GRI \TESTi mil "Hi 
+r,ipu ii si 1 1 kid 
+
+J TIO.\ I HUM III /,'/ win \ 
+fxiMIS Ml SDMI lidh) )(H HI 
+ixini, HIM \ l \\i,h III /-WON 
+
+fEOXI will VOXIROk HIM I \M 
+Ills MIShOI I HIS I HOI HII s \0( 
+III I r/\&lt;, HIM Willi I III l n\l, 
+Mil RSEIJ / 1/ \ win v YOl i.i i 
+Ml ' v /// //AAA // SOW IIMI s 
+h \\l&gt; I H, Ills / 
+
+'II II III \l W \)S 
+
+t l III SEED 
+%7/M )oi \\\\ i 
+
+
+
+
+
+
+Ml 
+
+
+
+*tS IS \ l'\RM 
+r l IDR\HII 
+
+yi-.ii \sd i/// \j 
+v.R, mi ) //////f 
+
+SIIMI /,////\ /-/i^ \&gt; 
+\HI \ I S&gt; MP Mill TIC, II SI III, HI II 
+\\\l)/mflll IAIES1 M\S\ MKIHR 
+
+
+
+A/ ) i\ ma /im ii 
+nil ) hi \tuiJi.i\ 
+
+
+
+DM H SI \H\ 
+
+
+
+AS .\tt,\ 
+
+ISf.Jl 
+
+
+
+\lill s 
+
+
+
+iiii ) inn IMAGES &lt;&gt;i iiAhok wit J 
+
+HI \(&gt;l I I IDS ( OMI'I I I l\(f llll) \DORI ' 
+
+PATHOS llll ) ( D\(,HMI I Ml 
+
+llll MSI l\l s &lt;&gt;\ llll IH 111 \HI \l ss \ND 
+
+llll IH STRO.KG sidm \( iis \ I II ll I 
+
+HI Mil) llll HM') WDI II, HI I im si 
+
+HII I 1 1 Wll S III I IK, III Ml llll 
+
+I'll ii i i wi, i \ (l \&lt;,i\(, nil \,,\ii \ i 
+
+\HI SMI SI r/'DSI I) III ( IIMI MOW 
+
+
+
+HI I (IK , ■ (,i H 
+l IAV ( di h \(,i , 
+knRBIM.ER in nn ! 
+
+IURI ( IH( I MSI W( l\i^mr)PII \n) 
+mi OVERTHROW DI OPPRESSORS /III \ 
+DID \SI)&lt; IIHHI HI Ml SI 11/ I i// 
+M \sll III HiHI llll ll si ( \\ I HII MHII 
+DII'IISIIHIS IDI Mil Us Li,/, 
+isoi Ml N //// / \/ \/) tDSFIM. I 
+il IS 1 1 HI SI Ml si If si I s I OR 
+W,,\l II IS IH, SMI si I'HMHI 
+
+fAUJATIVl i.l sn hi s. im ) (o\i i s, 
+
+ll on I Winn i i) Hfii i\i mi utll 
+( DM HDSI MIOS 1,1 l u /{ sol 
+Kill H Ml D I OH II UOP\Kl,l/l S llll 
+WI 1 1 HI IM, 01 llll MXJORII) 
+( DSIH\hl( I IDS Will HI III 11,111/ M l&gt; 
+llll KKHDSIM, Will HI //is// SIIMI) 
+llll SI \(,IS(, Ml SI I DlilSII HinSd N 
+//// MIX M )ISI Wll I IIIDSSDM. 
+
+
+
+L'f&gt; DEI m //// HI MD\ \l •' 
+
+^IjJi^M/f/i WD rim 
+
+^/ / / &lt; I IDS IS M ,^|l.j,^ &lt;( / »/ , SI, 
+
+i ii /■ st.j\i c *wn±\ £&amp; i 
+
+l '^^^m ^LVP9'"VA //// 
+&lt; ^^^^V^^^^frrfni s ri i ohm 
+
+SHDRIIlTWsK I III N Ml SI.) II I,, in 
+IDS&lt;,HW(,I \l( I ssil) MDRMS Will HI 
+HI USED loAii i i in/ ri mi /hi mi sis oi 
+IDIM) Ml l.V/.VG/J ^N VI Mill hi s Will 
+ivf MIShs 
+
+
+
+III HI III IM RDM IDS/, 
+WORDS UKE"PI\ 
+hi SI H\l 
+
+
+
+III HI &lt; i\ 
+
+m/ii nj 
+
+l)\S(, | 
+
+/// sir 
+
+S Ml A\* 
+
+
+
+til ims \s/\ \ 
+
+loss llll ) Slllh * 
+77, rmids \i ri nut 
+im i, hi j^si 
+
+I nn/W // 1/ HI I I Mil I 
+Wil I II \R\ ID IMII Ml 
+MIIS SOI HISH SIROSI, 
+
+
+
+llll soil WIISHM ss is llll (HI Ml 
+
+
+
+57 
+
+
+
+23 Inflammatory Essays 1982 
+
+Offset posters on paper. 17 x 17" 
+Installation, Documenta 7, Kassel 
+
+
+
+
+58 
+
+
+
+
+59 
+
+
+
+THE LIVING SERIES 
+
+
+
+60 
+
+
+
+IT TAKES A WHILE BEFORE YOU CAN STEP OVER INERT BODIES 
+AND GO AHEAD WITH WHAT YOU WERE TRYING TO DO. 
+
+
+
+IT CAN BE STARTLING TO SEE SOMEONE'S BREATH, LET 
+
+ALONE THE BREATHING OF A CROWD. YOU USUALLY DON'T 
+
+BELIEVE THAT PEOPLE EXTEND THAT FAR. 
+
+THERE'S THE SENSATION OF A LOT OF FLESH WHEN EVERY 
+
+SINGLE HAIR STANDS UP. THIS HAPPENS WHEN YOU ARE 
+
+COLD AND NAKED, AROUSED, OR SIMPLY TERRIFIED. 
+
+
+
+YOU SHOULD LIMIT THE NUMBER OF TIMES YOU ACT 
+
+AGAINST YOUR NATURE, LIKE SLEEPING WITH PEOPLE YOU 
+
+HATE IT'S INTERESTING TO TEST YOUR CAPABILITIES FOR A 
+
+WHILE BUT TOO MUCH WILL CAUSE DAMAGE. 
+
+THE MOUTH IS INTERESTING BECAUSE IT'S ONE OF THOSE 
+PLACES WHERE THE DRY OUTSIDE MOVES TOWARD THE 
+
+SLIPPERY INSIDE. 
+
+ANY NUMBER OF ADOLESCENT GIRLS LIE FACE DOWN ON THE 
+
+BEdTnE &gt; WORK ON ENERGY, HOUSING, LABOR, JUSTICE, 
+
+EDUCATION, TRANSPORTATION, AGRICULTURE, 
+
+AND BALANCE OF TRADE. 
+
+
+
+SOME DAYS YOU WAKE AND IMMEDIATELY ^ i START TO vV ORRY . 
+
+
+
+SUSPICION THAT FORCES ARE ALIGNING QUIETLY AND 
+THERE WILL BE TROUBLE. 
+
+
+
+24 Selection from The Living Series 1982 
+Cast bronze plaque, 7 
+Installation, 41 West 57th Street, New York 
+
+
+
+AM MAN GOWNS 
+2nd FLOOR 
+
+
+
+OSCARSSON HOOD 
+• GAL1 ERY 
+
+3rd FLOOR 
+
+
+
+RENAISSANCE 
+
+AESTHETIC MEDICINE 
+4ih FLOOR 
+
+
+
+KADIS PHYSICAL 
+CULTURE STUDIO 
+
+5th FLOOR 
+
+
+
+BREWSTER GALLERY 
+
+6th FLOOR 
+
+
+
+SAN JAMES REALTY 
+CORPORATION 
+
+7th FLOOR 
+
+
+
+-J 
+
+
+
+BARBARA GLADSTONE 
+GALLERY 
+
+8th FLOOR 
+
+JILtLh 
+
+
+
+
+MORE THAN ONCE I'VE 
+
+WAKENED WITH TEARS 
+
+RUNNING DOWN MY CHEEKS. 
+
+I HAVE HAD TO THINK. 
+
+WHETHER I WAS CRYINC 
+
+OR WHETHER IT WAS 
+
+INVOLUNTARY LIKE DROOLI1 „ 
+
+
+
+mm 
+
+
+
+
+
+
+
+
+
+62 
+
+
+
+25 Selection from The Living Series. 1981-82 
+Cast bronze plaque, 5 x 10" 
+
+
+
+THE MOUTH IS INTERESTING 
+
+BECAUSE IT IS ONE OF THOSE 
+
+PLACES WHERE THE DRY 
+
+OUTSIDE MOVES TOWARD 
+
+THE SLIPPERY INSIDE. 
+
+
+
+63 
+
+
+
+26 Selection from The Living Series. 1980-82 
+Cast bronze plaque, 7' j x 10' .-•" 
+
+
+
+LITTLE QUEENIE 
+
+ANY NUMBER. OF 
+
+ADOLESCENT GIRLS LIE 
+
+FACE DOWN ON THE BED 
+
+AND WORK. ON ENERGY, 
+
+HOUSING, LABOR, JUSTICE, 
+
+EDUCATION, TRANSPORTATION, 
+
+AGRICULTURE AND 
+
+BALANCE OF TRADE. 
+
+
+
+64 
+
+
+
+27 Selection from The Living Series 1981 -82 
+Cast bronze plaque, 7Vi x 10 1 // 
+
+
+
+THERE'S NO REASON TO SLEEP 
+
+CURLED UP AND BENT. IT'S ROT 
+
+COMFORTABLE.IT'S NOT GOOD FOR 
+
+TOU AND IT DOESN'T PROTECT YOU 
+
+FROM DANGER. IF YOU'RE WORRIED 
+
+ABOUT AN ATTACK YOU SHOULD 
+
+STAY AWAKE OR SLEEP LIGHTLY 
+
+WITH LIMBS UNFURLED FOR ACTION. 
+
+
+
+65 
+
+
+
+28 Selection from The Living Series 1980 
+Enamel plaque. 8 x 10" 
+
+
+
+THE SMALLEST THING CAN MAKE 
+SOMEONE SEXUALLY UNAPPEALING. 
+AMISPLAGED MOLE OR A PARTICULAR 
+HAIR PATTERN CAN DO IT. THERE'S 
+NO REASON FOR THIS. BUT ITS 
+JUST AS WELL . 
+
+
+
+66 
+
+
+
+29 Selection from The Living Series. 1980 
+Enamel plaque, 21 x 23" 
+
+
+
+IY DOGS RUN WILD IN THE CITY. SOME 
+
+ARE ABANDONED BY THEIR OWNERS AND 
+OTHERS ARE BORN TO LOST DOGS. STRAYS 
+HAVE A LIMITED LIFE EXPECTANCY EVEN 
+WHEN THEY BAND TOGETHER IN PACKS. THEY 
+ARE PREY TO DISEASE. PARASITES. WEATHER. 
+AND AUTOMOBILES. THE DOGS TEND TO BE 
+FRIGHTENED AND VICIOUS. THEY ARE 
+UNABLE TO PROTECT THEMSELVES OR 
+ANYONE ELSE . 
+
+
+
+67 
+
+
+
+THE SURVIVAL SERIES 
+
+
+
+68 
+
+
+
+YOU ARE TRAPPED ON THE EARTH 
+SO YOU WILL EXPLODE 
+
+
+
+SPIT ALL OVER SOMEONE WITH A MOUTHFUL 
+
+OF MILK IF YOU WANT TO FIND OUT 
+SOMETHING ABOUT THEIR PERSONALITY FAST 
+
+DIE FAST AND QUIET WHEN THEY INTERROGATE 
+
+YOU OR LIVE SO LONG THAT 
+THEY ARE ASHAMED TO HURT YOU ANYMORE 
+
+IN A DREAM YOU SAW A WAY TO SURVIVE 
+AND YOU WERE FULL OF JOY 
+
+WHEN YOU EXPECT FAIR PLAY YOU CREATE AN 
+INFECTIOUS BUBBLE OF MADNESS AROUND YOU 
+
+USE WHAT IS DOMINANT IN A CULTURE 
+TO CHANGE IT QUICKLY 
+
+GO WHERE PEOPLE SLEEP AND 
+SEE IF THEY'RE SAFE 
+
+MEN DON'T PROTECT YOU ANYMORE 
+
+BODIES LIE IN THE BRIGHT GRASS AND SOME 
+ARE MURDERED AND SOME ARE PICKNICKING 
+
+THE BEGINNING OFTHE WAR WILL BE SECRET 
+
+THE BREAKDOWN COMES WHEN YOU STOP 
+
+CONTROLLING YOURSELF AND WANT 
+
+THE RELEASE OF A BLOODBATH 
+
+
+
+30 Selection from The Survival Series 1984 
+Color photostat. 84 x 104" 
+
+Installation, bus shelter, 66th Street and Broadway, New York 
+Sponsored by Public Art Fund, Inc. , New York 
+
+
+
+
+70 
+
+
+
+
+71 
+
+
+
+31 Selections from The Survival Series. 1983 
+
+2 silver offset lithographed stickers, each 2Vi x 3" 
+Parking meters, Philadelphia 
+
+
+
+
+72 
+
+
+
+32 Selection from The Survival Series 1983 
+Silver offset lithographed sticker, 2Vi x 3" 
+Garbage can lid, New York 
+
+
+
+
+73 
+
+
+
+33a-d Selections from The Survival Series 1983 
+
+UNEX electronic display signboard. 30Va x 113 1 /a x 12" 
+
+
+
+
+74 
+
+
+
+
+
+
+75 
+
+
+
+34a Selections from The Survival Series 1986 
+Pixelboard, 20 x 50' 
+Installation, 696 Yonge Street, Toronto 
+Sponsored by ELECTROMEDIA, Toronto 
+
+
+
+
+
+76 
+
+
+
+34b Selections from The Survival Series 1986 
+Pixelboard, 20 x 50' 
+Installation. 696 Yonge Street, Toronto 
+Sponsored by ELECTROMEDIA, Toronto 
+
+
+
+
+77 
+
+
+
+35 Selection from The Survival Series 1986 
+Spectacolor Board. 20 x 40' 
+Installation, Times Square, New York 
+
+
+
+36 Selections from The Survival Series 1987 
+Matrix electronic display signboard, 15 x 60' 
+Showplace Square, San Francisco, as seen from Highway 101 
+Sponsored by Artspace. San Francisco 
+
+
+
+
+78 
+
+
+
+• %i 
+
+
+
+• •#• 
+
+
+
+«* I • 
+
+
+
+•I- t 
+
+mm 
+
+
+
+•« • . 
+
+
+
+
+
+
+II II 
+
+I 
+
+
+
+TURH SOFT fc IOUELY flHYTIC 
+' TOU HftUE ft CHANCE 
+
+
+
+37 Selections from The Survival Series. June 11, 1988 
+Monochrome lamp bank electronic display signboard, 
+44' x 177" 
+
+Installation, Nelson Mandela 70th Birthday Tribute, 
+Wembley Stadium, London 
+
+
+
+
+80 
+
+
+
+38 Selections from The Survival Series. 
+December 1988-January 1989 
+Maiden Spectacolor Board, 15 x 30' 
+Installation, Piccadilly Circus, London 
+Sponsored by The Artangel Trust 
+
+
+
+81 
+
+
+
+
+UNDER A ROCK 
+
+
+
+82 
+
+
+
+CRACKTHE PELVIS SO SHE LIES RIGHT. THIS IS 
+A MISTAKE. WHEN SHE DIES YOU CANNOT REPEAT 
+THE ACT. THE BONES WILL NOT GROW TOGETHER 
+AGAIN AND THE PERSONALITY WILL NOT COME 
+BACK. SHE IS GOING TO SINK DEEP INTO THE 
+MOSS TO GET WHITE AND LIGHTER. SHE IS 
+UNRESPONSIVE TO BEGGING AND SELF-ABSORBED 
+
+PEOPLE GO TO THE RIVER WHERE IT IS LUSH AND 
+MUDDYTO SHOOT CAPTIVES, TO FLOAT OR SINK 
+THEM. SHOTS KILL MEN WHO ALWAYS WANT. 
+SOMEONE IMAGINED OR SAWTHEM LEAPING 
+TO SAVAGE THE GOVERNMENT. NOW BODIES DIVE 
+AND GLIDE IN THE WATER, SCARING FRIENDS 
+OR MAKING THEM FURIOUS. 
+
+
+
+LIGHTGOES THROUGH BRANCHES TO SHOWTWO 
+CHILDREN BORN AT ONCE WHO MIGHT LIVE. 
+THE MOTHER RAN FROM EVERY HAZARD 
+UNTIL THE BABIES EASED ONTO THE LEAVES. 
+WITH BOTH HANDS SHE BRINGS THEM TO HER 
+MOUTH. CALLING THEM TWICETHE USUAL 
+ANSWER TO MORTAL QUESTIONS. SHE IS 
+DELIGHTFUL AND MILKY SO THEY WILL WANT 
+TO GROW. 
+
+
+
+39 Under a Rock. 1987 
+
+3 LED electronic display signboards, 5 x 29 x 2", 
+6 x 47 x 4", 6V 2 x 60 3 /i x 4", 3 Misty Black granite 
+benches, each 17' j x 48 x 21" 
+Installation, Aspen Art Museum, Colorado 
+
+
+
+
+84 
+
+
+
+40 Under a Rock 1986 
+
+5 Misty Black granite benches, 
+
+each 17V4X 48x21" 
+
+Installation, Rhona Hoffman Gallery, 
+
+Chicago 
+
+
+
+,wv 
+
+
+
+PEOPLE GO TO THE RIVER WHERE. VY \S 
+
+LUSH AND MUDDY TO SHOOT CkPTW/ES, 
+
+TO FLOAT OR SINK THEM. SHOTS KUA. 
+
+MEN WHO ALWAYS WANT. SOMEONE 
+
+IMAGINED OR SAW THEM LEAPING TO 
+
+SAVAGE THE GOVERNMENT. NOV/ \V)X)\\S 
+
+DIVE AND GLIDE IN THE WATER. SCMUUG 
+
+FRIENDS OR MAKING THEM F\JR\OViS. 
+
+
+
+85 
+
+
+
+41 Under a Rock. 1986 
+
+L ED electronic display signboard. 6 x 47 x 4", 
+
+9 Misty Black granite benches, each 17' &lt; x 48 x 21" 
+
+Installation, Barbara Gladstone Gallery, New York 
+
+
+
+
+86 
+
+
+
+42 Selection from Under a Rock 1986 
+
+Misty Black granite bench, 17Vi x 48 x 21" 
+
+Number 3 of edition of 3 
+
+Installation, Barbara Gladstone Gallery, New York 
+
+
+
+CRACK THE PELVIS SO SHE 
+A MISTAKE. WHEN 
+
+;OT REPEAT TH 
+►N'E5 WILL NOT &lt; 
+
+vD THE. PER5 
+E BACK. SHF 
+
+10 UC 
+
+TO BtCGlKf 
+
+
+
+
+
+
+
+87 
+
+
+
+43 Selection from Under a Rock 1983 
+Sandstone bench, '\9 3 /* x 59 3 /V' 
+Installation, Schlossgarten, Munster 
+
+
+
+88 
+
+
+
+
+89 
+
+
+
+LAMENTS 
+
+
+
+90 
+
+
+
+I WANT TO LIVE IN 
+
+A SILVER WRAPPER. 
+
+I WILL SEE 
+
+WHOOPING ROCKS FLY. 
+
+I WILL ICE ON MY BLACK SIDE 
+
+AND STEAM ON MY OTHER 
+
+WHEN I FLOAT BY SUNS. 
+
+I WANT TO LICK FOOD 
+
+FROM THE CEILING. 
+
+I AM AFRAID TO STAY 
+
+ON THE EARTH. 
+
+FATHER HAS CARRIED ME THIS 
+
+FAR ONLY TO HAVE ME BURN 
+
+AT THE EDGE OF SPACE. 
+FACTS STAY IN YOUR MIND 
+
+UNTIL THEY RUIN IT. 
+
+THE TRUTH IS PEOPLE ARE 
+
+PUSHED AROUND BY TWO MEN 
+
+WHO MOVE ALL THE 
+
+BODIES ON EARTH INTO 
+
+PATTERNS THAT PLEASE THEM. 
+
+THE PATTERNS SPELL 
+
+OH NO NO NO 
+
+BUT IT DOES NO GOOD 
+
+TO WRITE SYMBOLS. 
+
+YOU HAVE TO DO THE 
+
+RIGHT ACTS WITH YOUR BODY. 
+
+I SEE SPACE AND IT 
+
+LOOKS LIKE NOTHING AND 
+
+I WANT IT AROUND ME. 
+
+
+
+
+
+
+
+92 
+
+
+
+44 Laments 1987 
+
+3 L.ED electronic display signboards, each 112'/? x 10 x 4" 
+Nubian Black granite sarcophagus, 25 x 82 x 30" 
+Installation, Fred Hoffman Gallery, Santa Monica 
+
+
+
+45 Laments. 1989 
+
+13 L E D electronic display signboards, each 128 x 120 x 4' ," 
+2 Verde Antique marble sarcophagi, each 24 x 54 x 18 
+9 Nubian Black granite sarcophagi, each 30 x 82 x 24- &amp;"; 
+Ankara Red marble sarcophagus, 30 x82 x 24V 8 ", Honey 
+onyx sarcophagus, 18 x 36 x 12' V 
+Installation, Dia Art Foundation, New York 
+
+
+
+
+
+46 Laments 1987 
+
+2 L ED electronic display signboards, each 112' •&gt; x 10 x 4" 
+2 Nubian Black granite sarcophagi, each 25 x 74 x 30" 
+Installation, Documents 8, Kassel 
+
+
+
+94 
+
+
+
+47 Laments. 1987 
+
+Nubian Black granite sarcophagus, 25 x 82 x 30" 
+Installation, Documents 8. Kassel 
+
+
+
+• «»o • trim WA»«« ro m * 
+
+A MINO tltCVTtl IVUVTN1NQ 
+•T C.AX TMINR . 
+
+* »oot oou wm»t m *o\*t*i«. 
+
+*•▼ TCMMOtftt HUHS TO MMMK 
+* MIN 9ir •» WO» CONTftOiUD. 
+• C4NHOT DOMIVim 
+"WOUCH MUtDUOill nOfV.1. 
+
+I DO MOT WANT ANYONI 
+
+TO TOUCH MC WMIN 1 H «.«.*. 
+
+I WIU MAKE LIPt WHIN fOUClD 
+
+OR WHtS I AM MILD AND LONtlV 
+
+CANNOT ptrtND WHAT • MAKI 
+
+• DO MOT WORK TO PMVCMf 
+WMAT I CAN IMAOINI. 
+
+i sec popping slauchtih. 
+
+I WOULD COVE TO RE ON 
+A CARPET OP DEAD ENEMIES 
+TO PICK AWAf THEIR CLOTHES. 
+I WANT THtMVMUOl, HaIMUSS. 
+I NEED ROOM 4N TIME, 
+
+f^tf%TE THE.PEOTU 
+WHO CONSIDER THEIR 
+SAOISM R! 
+I ALWAYS KNt\ 
+MIGHT HiLL MT AND 1 
+WAS NO IOC 
+
+I AM CRAlP^ 
+FAMILIAR WITH THE CHD1NG. 
+I WALK IN AND OUT THE 
+CRACKS Of MY SKUtlir WHEN 
+HERE IS NOTHING ELSt TO OO. 
+1 AM AFRAID OF *HAT 
+DO NOT KNX&gt;W SO .1 M^ 
+S At4t&gt; UCfit 
+
+
+
+95 
+
+
+
+48 Laments. 1989 
+
+13 L E D electronic display signboards, each 128 x 120 x 4' i" 
+2 Verde Antique marble sarcophagi, each 24 x 54 x 18' &gt; ", 
+9 Nubian Black granite sarcophagi, each 30 x 82 x 24 3 /s"; 
+Ankara Red marble sarcophagus, 30 x 82 x 24 3 /8", Honey 
+onyx sarcophagus. 18 x 36 x 12' '*" 
+Installation, Dia Art Foundation, New York 
+
+
+
+
+96 
+
+
+
+
+6 
+
+
+
+
+
+
+
+COLLABORATIVE PROJECTS 
+
+
+
+49 Joe Lewis performing at Manifesto Show, 1979, organized 
+by Jenny Holzer and Colen Fitzgibbon with Collaborative 
+Protects, 55 Bleecker Street, New York 
+
+
+
+ST UDV MART'Al- AF 
+
+
+
+
+98 
+
+
+
+50 Jenny Holzer and Lady Pink 
+Honey Tell Me. 1983 
+Enamel on canvas, 89 x 89" 
+
+
+
+
+99 
+
+
+
+51 Jenny Holzer and Keith Harmg 
+Painted billboard, 1986 
+Installation, Am Hof, Vienna 
+
+
+
+100 
+
+
+
+52 Sign on a Truck November 3, 1984 
+
+Diamond Vision Mobile 2000 video display signboard, 
+
+156" x 18' 
+
+Installation, Grand Army Plaza, New York 
+
+
+
+
+102 
+
+
+
+
+103 
+
+
+
+53 Sign on a Truck 1987 
+
+Diamond Vision Mobile 2000 video display 
+signboard, 156" x 18' 
+
+Installation. Musee National d'Art Modeme, 
+Centre Georges Pompidou, Paris 
+
+
+
+104 
+
+
+
+
+WORKS IN THE EXHIBITION 
+
+
+
+Selections from Truisms, Inflammatory Essays, The Living 
+
+Series, The Survival Series, Under a Rock, Laments and new 
+
+writing. 1989 
+
+Extended helical tricolor LED electronic display signboard, 
+
+14"x530' 9 /i2"x4" 
+
+Courtesy Barbara Gladstone Gallery. New York, Jay Chiat, 
+
+New York, Solomon R Guggenheim Museum, New York, and 
+
+the artist 
+
+Selections from The Living Series 1989 
+
+27 Bethel White granite benches, each 18 x 36 x 17" 
+
+Courtesy Barbara Gladstone Gallery, New York, and the artist 
+
+Selections from The Survival Series 1989 
+
+17 Indian Red granite benches, each 18 x 42 x 17" 
+
+Courtesy Barbara Gladstone Gallery, New York, and the artist 
+
+
+
+
+
+Dry-run at Solomon R Guggenheim Museum, July 6, 1989, 
+for Jenny Holzer 
+
+
+
+106 
+
+
+
+CHRONOLOGY 
+
+Clare Bell 
+
+
+
+1950 
+
+1965-66 
+1966-68 
+
+1968-70 
+
+1970-71 
+
+1972-73 
+
+1974 
+
+1974-75 
+1975-76 
+
+1977 
+
+
+
+1978 
+
+
+
+1979-80 
+
+
+
+1980-82 
+
+
+
+Born July 29 in Gallipolis. Ohio, the oldest of three children, to 
+Richard V and Virginia B Holzer Family lives in Lancaster, 
+Ohio. 
+
+Attends Lancaster High School 
+
+Studies at Pine Crest Preparatory School. Fort Lauderdale, 
+Florida. 
+
+Takes liberal arts program, Duke University, Durham, North 
+Carolina, and summer art classes, Ohio University, Athens 
+
+Pursues painting, printmaking and other art courses, University 
+of Chicago, and summer classes, Ohio University 
+
+Attends Ohio University, Athens, receives B FA. in painting 
+and printmaking. Visits New York following graduation and 
+stays on 13th Street. 
+
+Attends summer session, Rhode Island School of Design, 
+Providence, meets fellow student Mike Glier. 
+
+Models for fine arts classes at RISD 
+
+Begins M FA. program in painting, RISD, and works as 
+graduate assistant for undergraduate classes Uses words in 
+her paintings. 
+
+In January moves to Great Jones Street in New York and enrolls 
+in Whitney Museum's Independent Study Program. Receives 
+M FA in painting from RISD Starts Truisms as typed texts 
+First posters of Truisms printed and put up throughout 
+Manhattan. 
+
+Photostats of Truisms and audio tapes of the texts presented in 
+window of Franklin Furnace, New York 
+
+Apprentice typesetter at Daniel Shapiro The Old Typosopher 
+shop, New York. Organizes Manifesto Show with Colen 
+Fitzgibbon at 55 Bleecker Street, marking beginning of her 
+involvement with artists' group Collaborative Projects (Colab) 
+Posters of Inflammatory Essays put up around Manhattan 
+
+Works as typesetter for Laundry News and Direct Marketing 
+Newsletter in New York Truisms printed on t-shirts Collabo- 
+rates with artist Peter Nadm on The Living Series texts, some 
+of which appear in self-published books and on metal plaques 
+
+
+
+1981 
+
+
+
+1982 
+
+
+
+1983 
+
+
+
+1985-86 
+
+
+
+1986 
+
+
+
+1987 
+
+
+
+1988 
+
+
+
+1989 
+
+
+
+Participates in first international exhibition. Heute, Westkunst, 
+where she shows The Living Series 
+
+At invitation of Public Art Fund, Inc., displays Truisms on the 
+Spectacolor Board in Times Square, her first use of an electronic 
+sign Finds L.ED signs in New York through the yellow pages 
+and begins to work with them extensively Shows Truisms and 
+Inflammatory Essays at Documenta 7, Kassel With Stefan Eins 
+opens Fashion Moda store which sells inexpensive artist-made 
+objects and operates for duration of exhibition 
+
+Marries Mike Glier May 21 Texts from The Survival Series 
+appear on silver and black stickers and on UNEX electronic 
+display boards, some of these are accompanied by computer- 
+generated illustrations. 
+
+Moves to Hoosick Falls, New York Creates texts and first 
+granite benches for Under a Rock series. Texts from The 
+Survival Series appear on tractor caps 
+
+In January a text from The Survival Series is shown on TV as a 
+public service announcement during an exhibition at the 
+University of New Mexico. Albuquerque 
+
+First sarcophagi, accompanied by L ED signs with texts from 
+Laments, premiere at Documenta 8, Kassel 
+
+Daughter Lili born May 22 In August selected by seven 
+members of Advisory Committee for Major International 
+Exhibitions to represent United States in 1990 Venice Biennale 
+
+In August MTV spots appear forty-five animated selections 
+from the Truisms, The Living Series and The Survival Series, 
+some also feature music and voice-overs of the texts 
+
+
+
+107 
+
+
+
+SELECTED EXHIBITIONS, PROJECTS 
+AND REVIEWS 
+
+
+
+Many exhibitions cited were accompanied by outdoor installations; only the 
+most important of these have been listed. 
+
+
+
+Solo and Collaborative Exhibitions and Projects 
+
+Institute for Art and Urban Resources at PS 1. Long Island City, New York, 
+
+Jenny Holzer Painted Room: Special Protect PS 7. January 15-February 18, 
+
+1978 
+
+Frankhn Furnace. New York. Jenny Holzer Installation, December 12-30. 
+
+1978 Included audio tapes 
+
+Fashion Moda, Bronx, Fashion Moda Window. Spring 1979 Included audio 
+
+tapes 
+
+Printed Matter, New York. Printed Matter Window, 1979 Included audio 
+
+tapes 
+
+Onze Rue Clavel Gallery, Pans, Textes Positions (with Peter Nadin). 
+
+January 19-February 8, 1980 
+
+Rudiger Schottle Gallery. Munich, Living (with Peter Nadin), December 12, 
+1980-January 20, 1981 
+
+Artists Space, New York, Eating Friends (with Peter Nadin), January 9- 
+
+February 13. 1981 
+
+Le Nouveau Musee, Villeurbanne, France. Living (with Peter Nadin), 
+
+June5-July 31, 1981 
+
+Museum fur (Sub) Kultur, Berlin, Living (with Peter Nadin). 1981 
+
+Galerie Chantal Crousel, Paris. Jenny Holzer-Peter Nadin Living, 
+January 30-March 3. 1982 
+
+Marine Midland Bank, 140 Broadway, New York, Art Lobby, 
+February 1-5, 1982 
+
+1 Times Square, New York, Messages to the Public, sponsored by Public Art 
+Fund, Inc , New York, March 15-30, 1982 
+
+Barbara Gladstone Gallery, New York, Plaques for Buildings. 30 texts from 
+The Living Series, cast in bronze by Jenny Holzer and Peter Nadin, 
+April 28-May 22. 1982 
+
+Institute of Contemporary Art, London, Essays. Survival Series, April 1 - 
+May 5, 1983 
+
+Lisson Gallery, London, Jenny Holzer With A-One, Mike Glier, and Lady 
+Pink Survival Series. May 12-June 4, 1983 
+
+Institute of Contemporary Art, University of Pennsylvania. Philadelphia, 
+
+
+
+Investigations 3 Jenny Holzer, June 11 -July 31, 1983, accompanied by 
+outdoor installation on electronic display signboard with incandescent 
+bulbs, News Stand Restaurant, Center Square, Philadelphia Brochure with 
+text by Paula Marmcola 
+
+Barbara Gladstone Gallery, New York, Jenny Holzer, November 5-December 
+1, 1983 
+
+Ellen Handy, "Art Reviews Jenny Holzer," Arts Magazine, vol 58, 
+January 1984, p 55 
+
+Lynn Zelevansky, "New York Reviews Jenny Holzer." Art News, 
+vol 83, January 1984, p 152 
+
+Richard Armstrong. "Reviews Jenny Holzer," Artforum, vol 22, 
+February 1984, p 76 
+
+Rotterdam Kunststichting, Galerie 't Venster-Jenny Holzer-Lady Pink, 
+February 3-April 4, 1984 
+
+Arnelie A Wallace Gallery, State University of New York College at Old 
+Westbury, Jenny Holzer Truisms and Inflammatory Essays, March 12-31, 
+1984 
+
+Bus Shelter (designed by Dennis Adams), 66th Street and Broadway, New 
+York, sponsored by Public Art Fund, Inc., New York, Graphics change 2, 
+April 25-July 1984 
+
+Kunsthalle, Basel, Jenny Holzer, May 13-June 24, 1984 Catalogue with text 
+by Jean-Chnstophe Ammann Traveled to Le Nouveau Musee, Villeurbanne, 
+France, September 28-December 16 
+
+Dallas Museum of Art, Jenny Holzer, October 28. 1984-January 1, 1985 
+Brochure with text by Sue Graze 
+
+Sign on a Truck: A Program by Artists and Many Others on the Occasion 
+of the Presidential Election, outdoor installations, New York, sponsored by 
+Public Art Fund Inc., New York, on Diamond Vision Mobile 2000 video 
+display signboard, Grand Army Plaza, November 3, 1984, Bowling Green, 
+Plaza, November 5 
+
+1 Times Square. New York. Selection from The Survival Series, December 
+1985-January 1986 
+
+Galerie Monika Spruth, Cologne. Jenny Holzer, opened April 24, 1986 
+
+Am Hof. Vienna. Keith Harmg-Jenny Holzer, May 10-June 15, 1986 
+Catalogue with text by Hubert Klocker and Peter Pakesch 
+
+Palladium, New York. Electronic Sign Project, May 14-November 15, 1986 
+
+Galerie Crousel-Hussenot. Paris, Jenny Holzer, June 20-July 13. 1986 
+
+
+
+108 
+
+
+
+Protect Me From What I Want, outdoor installations, Las Vegas, organized 
+by Nevada Institute for Contemporary Art, University of Nevada, Las Vegas, 
+on Dectronic Starburst electronic display signboard. Caesar's Palace. 
+September 2-8, 1986, Kellego electrons display signboard. Fashion Show 
+Mall. September 2-8, Mark 500 electronic display signboard. Thomas &amp; 
+Mack Center, September 2-8. electronic display signboard. Regency Plaza, 
+September 2-8, Hexodecimal electronic display signboard, baggage 
+carrousels, McCarran International Airport, September 12-28 
+
+Barbara Gladstone Gallery, New York, Under a Rock, October 7- 
+November 1, 1986 
+
+Holland Cotter, "Jenny Holzer at Barbara Gladstone Gallery," Art in 
+America, vol 74, December 1986, pp. 137-138 
+
+Ronald Jones, "Jenny Holzer's 'Under A Rock,'" Arts Magazine, 
+vol. 61, January 1987. pp. 42-43 
+
+Nancy Grimes, "Reviews: Jenny Holzer." Art News, vol 86, February 
+1987, pp. 128-130 
+
+Des Moines Art Center. Jenny Holzer Signs, December 5. 1986-February 1, 
+1987. Catalogue with text by Joan Simon and interview with the artist by 
+Bruce Ferguson. Traveled to Aspen Art Museum, February 19-Apnl 12, 
+Artspace, San Francisco, May 5-June 27, accompanied by outdoor installa- 
+tions, San Francisco, sponsored by Artspace, San Francisco, on matrix 
+electronic display signboard, Showplace Square, May 5-June 27, Sony 
+JumboTRON video display signboard and matrix monochrome electronic 
+display signboard, Candlestick Park, May 26, Museum of Contemporary 
+Art, Chicago, as Options 30: Jenny Holzer, July 31 -September 27. The List 
+Visual Arts Center at Massachusetts Institute of Technology. Cambridge, 
+October 9-November 29, accompanied by outdoor installation, on painted 
+billboard, Central Square, Cambridge 
+
+Myriam Weisang, "Getting What She Wants Jenny Holzer Signs On 
+in San Francisco," San Francisco Examiner Image, May 3, 1987, p 31 
+
+Kenneth Baker, "Artist's Electronic Signs Flash Around Town," San 
+Francisco Chronicle, May 14. 1987, p 1 
+
+Rhona Hoffman Gallery, Chicago, Jenny Holzer: Under a Rock, February 13- 
+March 21, 1987 
+
+Zwei spektakulare Kunstaktionen der New Yorker Kunstlerm Jenny Holzer 
+im Oktober in Hamburg, outdoor installations and public projects, Ham- 
+burg, West Germany, on Colormotion electronic display signboard and 
+railway cars, Hamburger Hauptbahnhof. and on radio 107, October 1987 
+
+Alan G Artner, "Surprising View from Jenny Holzer," Chicago 
+Tribune. Section 7. February 27, 1987, p 52 
+
+Colin Westerbeck, "Jenny Holzer," Artforum, vol 25, May 1987, 
+pp 154-155 
+
+HoffmanBorman Gallery, Santa Monica, Jenny Holzer, March 11 -April 9, 1988 
+
+Christopher Knight, "Words to the wise, spoken to the eyes," 
+Los Angeles Herald Examiner, March 23. 1988, p 4 
+
+
+
+The Brooklyn Museum, Jenny Holzer Signs and Benches, May 5- 
+July 18, 1988 
+
+Ellen Handy. "Jenny Holzer," Arts Magazine, vol 63, September 
+1988. p 91 
+
+MTV, New York, Art Breaks, first aired August 15. 1988 
+
+Interim Art Gallery, London, Plaques. The Living Series 1980-82. The 
+Survival Series 1983-85. November 27, 1988-December 21, 1989 
+
+Institute of Contemporary Art, London, Jenny Holzer Signs/Under a Rock, 
+December 7, 1988-February 12. 1989, accompanied by outdoor installations 
+sponsored by The Artangel Trust, London, on Metrovision electronic display 
+signboard. Shaftesbury Square, Belfast, and Zakks electronic display 
+signboard, Bradbury Place, Belfast, December 6-31, 1988, Maiden Spec- 
+tacolor Board, Piccadilly Circus, London, December 1988-January 1989, 
+Mayavision video display monitors, Leicester Square underground station, 
+London, December Catalogue with text by Iwona Blazwick. reprinted text 
+by Joan Simon and reprinted interview with the artist by Bruce Ferguson 
+
+James Odlmg-Smee, "Advertising Artistry," Fortnight (Belfast). 
+December 1988. p. 26 
+
+Merlin Carpenter, "Reviews Jenny Holzer," Artscribe International, 
+March/April 1989, p 72 
+
+James Odlmg-Smee, "Jenny Holzer Bradbury Place &amp; Shaftesbury 
+Square Belfast," Circa (Belfast), March/April 1989, pp 36-37 
+
+Gray Watson, "Reviews Jenny Holzer ICA and Elsewhere. London," 
+March/April 1989, Flash Art. pp 120-121 
+
+Ydessa Hendeles Art Foundation, Toronto, Jenny Holzer, opened January 
+28, 1989, accompanied by outdoor installations, Toronto, sponsored by 
+ELECTROMEDIA, Toronto, and by Art Metropole. Toronto, on Pixelboard, 
+696 Yonge Street, LED. electronic display signboard, 778 King Street West. 
+January 28-February 28 
+
+Dia Art Foundation, New York, Jenny Holzer Laments 1988-89, March 
+2-June 18, 1989, October 13, 1989-February 18. 1990 Video tape and 
+artist's book Laments, New York, Dia Art Foundation and the artist, 
+August 1989 
+
+Roberta Smith, "Flashing Aphorisms by Jenny Holzer at Dia." The 
+New York Times, March 10, 1989, p 26 
+
+Nancy Pnncenthal. "The Quick and the Dead Jenny Holzer's 
+'Laments' at Dia," The Village Voice, March 14, 1989, pp 31-32 
+
+Kay Larson, "In the Beginning Was the Word," New York Magazine, 
+vol. 22. April 3. 1989, pp. 71-72 
+
+Hilton Kramer, "Lugubrious Jenny Holzer Exhibit at One of the City's 
+Creepiest Spots." The New York Observer, vol 3. April 10, 1989, pp 
+
+1, 13 
+
+Doris C Freedman Plaza, New York. Benches, sponsored by Public Art 
+Fund. Inc.. New York, July 1 -December 31, 1989 
+
+
+
+109 
+
+
+
+Michael Brenson, "Bold Sculpture for Wide-Open Spaces." The New 
+York Times, July 21, 1989, pp. CI, C24 
+
+Croup Exhibitions 
+
+Los Angeles Institute of Contemporary Art, ARTWORDS AND 
+BOOKWORKS An international exhibition of recent artists' books and 
+ephemera. February 28-March 30, 1978 Catalogue with texts by Mike 
+Crane, Judith Hoffberg and Joan Hugo, and supplement of artist's postcards 
+Traveled to Artists Space, New York, June 10-30, Herron School of Art, 
+Indianapolis, September 15-29. Contemporary Arts Center, New Orleans, 
+October 14-30 
+
+Susan C Larson, "A booklover's dream." Art News, vol 77, May 
+1978, pp 144-152 
+5 Bleecker Street. New York, Manifesto Show, early 1979 
+Institute of Contemporary Art, London. Issue: Social Strategies by Women 
+Artists, November 14-December 21, 1980. Catalogue with texts by Margaret 
+Harrison. Lucy R Lippard and Sandy Nairne 
+
+Brooke Alexander Gallery, Inc , New York, Collaborative Projects Presents a 
+Benefit Exhibition at Brooke Alexander. Inc., December 6-31, 1980 
+Abandoned building, 41st Street and 7th Avenue, New York, The Times 
+Square Show. 1980 
+
+Jeffrey Deitch, "Report from Times Square," Art m America, vol 68, 
+September 1980, pp 59-63 
+Chrysler Museum, Norfolk.Virgmia, Crimes of Compassion. April 16-May 
+31, 1981. Catalogue with text by Thomas W Styron 
+Museen der Stadt Kdln and Messegelande Rhemhallen, Cologne, Heute. 
+Westkunst Zeitgenossische Kunst seit 1939. May 30-August 16, 1981 
+Catalogue with texts by Hugo Borger, Laszlo Glozer, Kasper Koenig and Karl 
+Ruhrberg 
+
+Richard Armstrong, "Reviews Cologne 'Heute,' Westkunst," 
+Artforum. vol 20, September 1981, pp 83-86 
+Brooke Alexander Gallery. Inc., New York. Represent, Representation. 
+Representative, September 8-October 3, 1981 
+
+Annma Nosei Gallery. New York. Public Address. October 31 -November 19, 
+1981 
+
+University Art Gallery, State University of New York at Binghamton, Nine 
+Women Artists. March 27-April 25. 1982 Catalogue with text by Josephine 
+Gear and interviews with the artists by Jeff Allen, Eve Daniels, Tami 
+Goodger, Robin Hatchett. Joyce Kaufman, Johanna Mustacchi, Tom Persico, 
+Anne Marie Reilly and Jen Slavin 
+
+Museum Fridencianum, Orangerie, and Neue Galerie, Kassel, West Ger- 
+many, Documenta 7. June 19-September 23. 1982, accompanied by 
+outdoor installation of painted wall, HausKranefuss. Kassel Catalogue with 
+texts by Jorge Luis Borges, Saskia Bos, Coosje van Bruggen, Germano 
+Celant, Hans Eichel, T.S Eliot, Rudi H Fuchs, Johannes Gachnang, J.W. von 
+Goethe, Friednch Hblderlm, Walter Nikkels, Gerhard Storck and the artists 
+
+
+
+American Graffiti Gallery. Amsterdam, Jenny Holzer. Lee. Aron Fink. 
+September-October 1982 
+
+Protetch/McNeil. New York, The Revolutionary Power of Women's Laughter, 
+January 15-February 25. 1983 Brochure with text by Joanna Isaac Traveled 
+to Arts Cultural Resource Center. Toronto, February 4-28, 1984 
+
+JaneWeinstock, "A Lass, a Laugh and a Lad," Art in America, vol 71, 
+Summer 1983, pp. 7-10 
+Musee des Beaux-Arts de Dijon, presence discrete. January 10-February 28, 
+1983 
+
+Whitney Museum of American Art, New York, 1983 Biennial Exhibition. 
+March 24-May 22, 1983. Catalogue with texts by Tom Armstrong, John G 
+Hanhardt, Barbara Haskell, Richard Marshall and Patterson Sims 
+Allen Memorial Art Museum, Oberlin College, Ohio, Art &amp; Social Change. 
+U.S.A.. April 19-May 30, 1983. Catalogue with texts by David Deitcher, 
+Jerry Kearns, Lucy R Lippard. William Olander. Craig Owens and Richard E 
+
+Spear 
+
+Institute of Contemporary Art, Boston, Currents. September 17-October 
+
+20, 1983. Brochure with text by David Joselit 
+
+StedehjkVanAbbemuseum. Eindhoven, Walter Dahn, Rene Daniels. Isa 
+
+Genzken. Jenny Holzer. Robert Longo, Henk Visch, October 14-November 
+
+20, 1983 Catalogue with text by R H Fuchs 
+
+Greenville County Museum of Art. South Carolina, From the Streets. 
+
+October 25-November 20, 1983 
+
+Fine Arts Museum of Long Island. Hempstead. New York. Written Imagery 
+
+Unleashed in the 20th Century. November 6, 1983-January 22, 1984. 
+
+Catalogue with text by Eleanor Flomenhaft 
+
+Institute for Art and Urban Resources at PS 1. Long Island City, New York, 
+
+Time Line. January 22-March 18, 1984 
+
+Gallene Engstrbm, Stockholm, 7984 Women in New York, April 4-May 13, 
+
+1984 Brochure with text by Alanna Heiss 
+
+Art Gallery of New South Wales. Sydney, and Ivan Dougherty Gallery, 
+Paddington, The Fifth Biennale of Sydney, Private Symbol. Social Metaphor, 
+April 11 -June 17, 1984 Catalogue with texts by Franco Belgiorno-Nettis, 
+Paula Latos-Vaher, Stuart Morgan, Leon Paroissien, Annelie Pohlen, 
+Jean-Louis Pradel, Carter Ratcliff and Nelly Richard 
+Amenka Haus. Berlin, Women of Influence. June 12-July 28, 1984 
+Catalogue with texts by Ronnie Cohen, Peter E Haaren, Emily Hicks, 
+Marcolo McCormick, Ronald J Onorato, Dean Savard and Britta Schmitz 
+San Francisco Museum of Modern Art, The Human Condition: Biennial III, 
+June 28-August 26, 1984. Catalogue with texts by Achille Bonito Oliva, 
+Shirley Davis, Wolfgang Max Faust, Henry T Hopkins, Edward Kienholz, 
+Dorothy Martinson and Klaus Ottman 
+
+Stadtische Kunsthalle, Dusseldorf, Em Anderes klima. Aspekte der 
+Schonheit in der zeitgenossischen kunst/ A Different climate Aspects of 
+beauty in contemporary art, August 5-October 5, 1984 Catalogue with 
+
+
+
+110 
+
+
+
+texts by Art Buchwald, Jurgen Harten. Friednch Nicolai and the artists 
+
+Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, 
+Washington, DC, Content: A Contemporary Focus 1974-1984, October 4, 
+1984-January 6, 1985. Catalogue with texts by Howard N. Fox, Abram 
+Lerner, Miranda McClintlck and Phyllis Rosenzweig 
+
+Knight Gallery, Spirit Square Art Center, Charlotte, North Carolina, HOLIER 
+KRUGER PRINCE, November 28, 1984-January 20. 1985. Catalogue with 
+texts by William Olander and Ann Shengold 
+
+Los Angeles Institute of Contemporary Art, Secular Attitudes, February 
+15-March 23, 1985 Catalogue with texts by Kathy Rae Huffman and Bob 
+Smith 
+
+Milwaukee Art Center, Currents 7 Words in Action, March 7-June 2, 1985 
+
+Galenes Nationales du Grand Palais, Paris, Nouvelle Biennale de Pans, 
+March 21 -May 21, 1985. Catalogue with texts by Achille Bonito Oliva, 
+Georges Boudaille, Pierre Courcelles, Jean-Pierre Faye, Gerald Gassiot- 
+Talabot, Alanna Heiss, Mane Luise Syring and the artists 
+
+The New Museum of Contemporary Art, New York, Signs, April 27-July 7, 
+1985 Catalogue with text by Ned Rifkin 
+
+Barbara Gladstone Gallery, New York, Social Studies, June 8-July 26, 1985 
+
+Islip Art Museum, East Islip, New York, Writing on the Wall, September 8- 
+October 20, 1985 
+
+Museum of Art, Carnegie Institute, Pittsburgh. 7985 Carnegie International, 
+November 9, 1985-January 5. 1986 Catalogue with texts by Achille Bonito 
+Oliva, Bazon Brock, Benjamin H.D. Buchloh, John Cadwell, Germano 
+Celant, Hal Foster, Rudi H Fuchs, Johannes Gachnang, Per Kirkeby, Jannis 
+Kounellis, Hilton Kramer, Donald B. Kuspit, John R Lane, Thomas McEvilley, 
+Mark Rosenthal, Peter Schjeldahl and Nicholas Serota 
+
+Galene Monika Spruth, Cologne, Eau de Cologne II, November 15- 
+December 12, 1985 Catalogue with texts by Patrick Frey, Ulla Frohne, 
+Jo-Anna Isaak, Christiane Meyer-Thoss, Stuart Morgan, Mary Anne 
+Staniszewski, Paul Taylor and the artists and interviews of curators, gallensts 
+and critics by Judith Black, Esther Schipper and Monika Spruth 
+
+Musee d'Art Contemporam de Montreal, Ecrans Politiques, November 17, 
+1985-January 12, 1986 
+
+Nexus Contemporary Art Center, Atlanta, The Public Art Show, November 
+23-December 21, 1985 Catalogue with texts by Ronald Jones and Milan 
+Kundera 
+
+Institute of Contemporary Art, Boston, Dissent: The Issue of Modern Art in 
+Boston, The Expressionist Challenge, December 5, 1985-February 9, 1986, 
+Revolt in Boston, Fear vs. Freedom, February 18-Apnl 20, As Found, April 
+29-June 22 Catalogue with texts by Benjamin H D Buchloh, Serge 
+Guilbaut, Reinhold Heller, David Joselit, David Ross and Elisabeth Sussman 
+
+North Gallery, University of New Mexico Art Museum, Albuquerque, and 
+Art Gallery, Fogelson Library Center, College of Santa Fe, Subversive Acts 
+Artists Working with the Media Politically, January 7-February 23 and 
+
+
+
+February 13-31. 1986. respectively, accompanied by public project organized 
+by Art/Media, New Mexico: public service announcement from The 
+Survival Series (Outer Space is ) on KNME-TV and KGGM-TV, Albuquer- 
+que, and poster with selections from Truisms in Impact Albuquerque 
+Journal Magazine, vol 9, January 28, 1986, pp 7, 10 
+
+Kathleen Shields. "Exhibit Harks Back to Conceptual Art, Albuquer- 
+que Journal, January 19. 1986, p. E2 
+
+Art Gallery, Fogelson Library Center, College of Santa Fe. Tuning In. January 
+17-31. 1986 Traveled to Museum of Fine Arts, Santa Fe, February 11- 
+March 10 
+
+The Contemporary Arts Center, Cincinnati, Jenny Holzer, Cindy Sherman. 
+Personae, February 7-March 15, 1986 Catalogue with texts by Dennis 
+Barne and Sarah Rogers-Lafferty 
+
+The Corcoran Gallery of Art, Washington, D C , In other words, May 9-June 
+29, 1986, accompanied by outdoor installation on electronic display 
+signboard, DuPont Circle metro station, Washington, DC. Catalogue with 
+text by Ned Rifkin 
+
+Castell dell'Ovo. Naples. Rooted Rhetoric Una Tradizione nelTArte 
+Americana, July 1986 Catalogue with texts by Benjamin H. D. Buchloh, 
+Gabnele Guercio, Joseph Kosuth, Thomas Lawson, Charles Le Vine, David 
+Robbins and Angelo Tnmarco 
+
+The Israel Museum, Jerusalem, Jenny Holzer/ Barbara Kruger, August 5- 
+October 5, 1986 Catalogue with text by Suzanne Landau 
+
+Frankfurter Kunstverein and Kunsthalle Schirn, Frankfurt. Prospekt 86 Erne 
+Internationale Ausstellung aktueller Kunst, September 9-November 11, 
+1986 Catalogue with texts by Hilmar Hoffmann. Peter Weiermair and 
+the artists 
+
+Centre Cultural de la Fundacio Caixa de Pensions. Barcelona. Art and Its 
+Double A New York Perspective/ El Arte y su Doble Una perspectiva de 
+Nueva York (organized by Sala de Exposiciones de la Fundacibn Caja de 
+Pensiones, Madrid). November 27, 1986-January 11, 1987 Catalogue with 
+texts by Dan Cameron and excerpts from previously published texts by 
+Clement Greenberg, Harold Rosenberg, William Rubin, Brian Wallis, the 
+artists et al Traveled to Sala de Exposicibnes de la Fundacibn Ca|a de 
+Pensiones. Madrid, February 6-March 22 
+
+Hillwood Art Gallery, C.W Post Campus, Long Island University, Brookville, 
+New York, Perverted by Language, February 11 -March 6, 1987 Catalogue 
+with texts by Robert Nickas and the artists 
+
+Yale University Art Gallery, New Haven, Contemporary American Artists in 
+Print, March 25-May 31, 1987. Brochure with texts by Matthew J.W. Drutt, 
+Richard S Field, Laura Katzman and Ainlay Samuels 
+
+Musee National d'Art Moderne, Centre Georges Pompidou, Paris. I'epoque, 
+la mode, la morale, la passion. May 2 -August 17, 1987, accompanied by 
+outdoor installation. Musee National d'Art Moderne. Centre Georges 
+Pompidou, Sign on a Truck, on Diamond Vision Mobile 2000 video display 
+signboard, May 19-25 Catalogue with text by Bernard Ceysson and 
+
+
+
+111 
+
+
+
+excerpts from previously published texts by Kenneth Baker, Ben]amm H D 
+Buchloh. Germano Celant, Hal Foster. Fredric Jameson, Rosalind Krauss et al 
+
+Museum Fridericianum, Kassel, West Germany, Documenta 8. June 12- 
+September 20, 1987. Catalogue with texts by Manfred Beilharz, Karl Oskar 
+Blase. Bazon Brock, Hans Eichel, Michael Erlhoff, V.ttono Fagone, Edward F 
+Fry, Michael Grauer and Wenzel Jacob, Wulf Herzogenrath. Elisabeth Jappe, 
+Georg Jappe, Hemrich Klotz, Vladimir Lalo Nikolic, Pierre Restany, Lothar 
+Romain. Manfred Schneckenburger and Klaus Schonmg 
+
+Westfahsches Landesmuseum fur Kunst und Kulturgeschichte, Munster, 
+Skulptur Pro/ekte in Munster, June 14-October 4. 1987. Catalogue with 
+texts by Carl Andre, Klaus Bussmann, Georg Jappe, Kasper Kdnig and 
+Ludwig Wittgenstein 
+
+Centre International d'Art Contemporam de Montreal, Stations, August 1- 
+November 2, 1987. Catalogue with texts by Roger Bellemare, James D. 
+Campbell, Claude Gosselm and Jacques E Lefebvre 
+
+The Bourse. Philadelphia, Independence Sites: Sculpture for Public Spaces, 
+August 6-October 12. 1987 Catalogue with text by Stephan Berg, Paula 
+Marincola and Vicki Garfield Solot 
+
+Michael McGettigan, "Putting it in Writing," Philadelphia City Paper, 
+
+August 7-14, 1987, pp. 7, 16 
+
+Amsterdam, Century '87: Kunst van nu ontmoet Amsterdams verleden/ 
+Today's Art face to face with Amsterdams past, August 7-September 14, 
+1987 Catalogue with texts by J Th Balk, Willem Ellenbroek, Sjarel Ex, 
+Nicolette Gast, Els Hoek and Wendie Shaffer, and supplement of viewer 
+with images on disks 
+
+Saint Louis Gallery of Contemporary Art, At Issue Art and Advocacy, 
+September 9-October 17, 1987 Brochure with text by Susan Walker 
+
+Everson Museum of Art, Syracuse. Computers in Art, September 18- 
+November 8, 1987 Catalogue with text by Cynthia Goodman Traveled to 
+The Contemporary Arts Center, Cincinnati, November 27, 1987-January 9, 
+1988; IBM Gallery of Science and Art, New York, April 26-June 18; Center 
+for the Fine Arts, Miami, August 13-September 25 
+
+Galerie Oousel-Robelin, Paris, Jenny Holier, Louise Lawler, Ken Lum, 
+October 17-November 17, 1987 
+
+Scott Hanson Gallery, New York. MEDIA POST MEDIA, January 6-February 
+9, 1988 Catalogue with texts by Tricia Collins and Richard Milazzo 
+
+The Museum of Modern Art. New York, Committed to Print An Exhibition 
+of Recent American Printed Art with Social and Political Themes, January 
+31 -April 19, 1988 Catalogue with text by Deborah Wye 
+
+Sidney Jams Gallery, New York, 60s/80s Sculpture Parallels, February 25- 
+March 6, 1988 
+
+Bank of Boston, Boston, The Multiple Object. European and American 
+
+Sculptural Works Made in Editions, March 7-May 31, 1988 
+
+Boca Raton Museum of Art, Florida. After Street Art, April 29-May 29, 1988 
+
+
+
+Point State Park, Three Rivers Arts Festival. Pittsburgh, Sculpture at the 
+
+Point, May 15-June 26, 1988 Catalogue with texts by John R. Brice, Gary 
+
+Garrels, Jack Reynolds and the artists 
+
+Art Gallery of New South Wales, Sydney, and Pier 2/3, Walsh Bay, 7988 
+
+Australian Biennale From the Southern Cross, A View of World Art 
+
+c. 1940-88. May 18-July 3, 1988 Catalogue with texts by Franco Belgiorno- 
+
+Nettis. Bernard Blistene, Ian Burn, Jurgen Habermas, Frances Lindsay. 
+
+Terence Maloon, Peter Sarah, Diane Waldman and Nick Waterlow and 
+
+excerpts from previously published texts by Bernard Blistene, Jean-Pierre 
+
+Bordaz, Robert L. Pincus, John Russell et al. Traveled to National Gallery of 
+
+Victoria, Melbourne, August 4-September 18 
+
+Wembley Stadium, London, Nelson Mandela 70th Birthday Tribute, June 
+
+11, 1988 
+
+Whitney Museum of American Art Downtown at Federal Plaza, New York, 
+
+Modes of Address Language in Art Since 1960, July 29-September 23, 
+
+1988. Brochure with texts by Thomas Hardy, Amy Heard, Ingrid Penz and 
+
+Michael Waldron 
+
+The Gumess Hop Store and The Royal Hospital. Dublin, ROSC '88, August 
+
+20-October 15 and August 21 -October 15, 1988, respectively Catalogue 
+
+with texts by Aidan Dunne, Olle Granath, Rosemarie Mulcahy, Patrick J 
+
+Murphy and Angelica Zander Rudenstine 
+
+Third Eye Centre, Glasgow, Camouflage, September 3-October 1, 1988 
+
+Catalogue with texts by James Bustard, Richard Kearton and Norman 
+
+Wilkinson. Traveled to Inverness Museum and Art Gallery. Glasgow, 
+
+November 4-December 3, Stirling Smith Museum and Art Gallery. Glasgow, 
+
+December 10, 1988-January 8, 1989, Maclaurm Art Gallery, Ayr, January 16- 
+
+February 11 
+
+Carleton Art Gallery, Carleton College. Northfield, Minnesota. What DOES 
+
+She Wanf&gt;: Current Feminist Art from the First Bank Collection, January 
+
+7-March 12. 1989 Catalogue with texts by Nathan Braulwck, Dale K 
+
+Haworth, Lynne Sowder and the artists Traveled to Women's Art Registry 
+
+of Minnesota, Minneapolis, April 8-May 13 
+
+Gallery 400, The University of Illinois at Chicago, The Presence of Absence 
+
+New Installations, January 11 -February 17, 1989 
+
+Tony Shafrazi Gallery, New York, Words, January 21 -February 18, 1989 
+
+Cincinnati Art Museum, Making Their Mark Women Artists Move into the 
+Mainstream, 1970-85 (organized by Pennsylvania Academy of the Fine 
+Arts, Philadelphia), February 22-Apnl 2, 1989 Catalogue with texts by 
+Catherine C. Brawer, Ellen G Landau, Thomas McEvilley. Ferris Olin, Randy 
+Rosen, Judith Stein, Calvin Tomkins, Marcia Tucker and Ann-Sargent 
+Wooster. Traveled to New Orleans Museum of Art, May 6-June 18, Denver 
+Art Museum. July 22-September 10; Pennsylvania Academy of Fine Arts. 
+Philadelphia, October 20-December 31 
+
+The Museum of Contemporary Art, Los Angeles, A forest of SIGNS ART IN 
+THE CRISIS OF REPRESENTATION, May 6-August 13, 1989 Catalogue with 
+texts by Ann Goldstein, Mary Jane Jacob, Richard Koshalek, Anne Rorimer 
+and Howard Singerman 
+
+
+
+112 
+
+
+
+SELECTED BIBLIOGRAPHY 
+
+
+
+By the Artist 
+
+A Little Knowledge, New York, self-published, 1979 
+
+"Position Papers" (with Peter Nadm). Artforum, vol. 18, February 1980 
+
+Black Book, New York, self-published, 1980 
+
+Hotel (with Peter Nadin), New York. Tanam Press, 1980 
+
+Living (with Peter Nadin), New York, self-published, 1980 
+
+Eating Friends (with Peter Nadin), New York, Top Stories, 1981 
+
+Eating Through Living (with Peter Nadin), New York, Tanam Press, 1981 
+
+Truisms and Essays, Nova Scotia, Nova Scotia College of Art and Design 
+Press. 1983 
+
+"Laugh Hard at the Absurdly Evil," New Observations, New York, 
+New Observations and the authors, 1985, pp. 6-7 
+
+"Untitled," Artforum, vol 26. March 1988, p. 116 
+
+On the Artist 
+
+Ross Bleckner, "Transcendent Anti-Fetishism," Artforum, vol 17, 
+March 1979. pp. 50-55 
+
+Dan Graham, "Signs," Artforum, vol 19, April 1981, pp 38-41 
+
+Hal Foster, "Critical Spaces," Art in America, vol 70, March 1982, 
+pp 115-119 
+
+Benjamin H D Buchloh, "Allegorical Procedures Appropriation and 
+Montage in Contemporary Art." Artforum, vol 21, September 1982. 
+pp 43-56 
+
+Hal Foster, "Subversive Signs." Art in America, vol 70, November 1982, 
+pp 88-92 
+
+Carter Ratcliff, "Jenny Holzer," Print Collector's Newsletter, vol 13, 
+November-December 1982, pp. 149-152 
+
+Donald Kuspit, "Gallery Leftism," Vanguard, vol. 12, November 1983, 
+pp 22-25 
+
+Diana Nemiroff, "Personae and Politics" (interview), Vanguard, vol 12, 
+November 1983, pp. 26-27 
+
+Fredric Jameson, "Postmodernism and Consumer Society" in 
+
+The Anti-Aesthetic: Essays on Postmodern Culture, Hal Foster ed., Port 
+
+Townsend, Washington, Bay Press, 1983, pp 111-125 
+
+Craig Owens, "The Discourse of Others Feminists and Postmodernism" in 
+
+
+
+The Anti- Aesthetic Essays on Postmodern Culture. Hal Foster ed . Port 
+Townsend, Washington, Bay Press, 1983, pp 57-77 
+
+Paul Smith, "Difference in America," Art in America, vol 73, April 1985 
+pp. 190-199 
+
+Russell Bowman, "Words and Images A Persistent Paradox," Art Journal, 
+vol 45, Winter 1985. pp 335-343 
+
+Jeanne Siegel, "Jenny Holzer's Language Games" (interview), Arts 
+Magazine, vol. 60, December 1985, pp. 64-68 Reprinted in Artwords 2 
+Discourse on the Early 80s, Ann Arbor and London, UMI Press, 1988, 
+pp. 285-297 
+
+Ellen Handy, "Notes on Criticism Art and Transactionalism," Arts Magazine, 
+vol 61, October 1986, pp. 48-53 
+
+Donald Kuspit, "Regressive Reproduction andThrowaway Conscience," 
+Artscnbe International, January/February 1987, pp 26-31 Reprinted in The 
+New Subjectivism Art in the 1980s, Ann Arbor and London, UMI Press, 
+1988, pp. 407-415 
+
+Margaret Hawkins, "Jenny Holzer's abstract messages are signs of the 
+times," Chicago Sun-Times, February 27, 1987, p. 52 
+
+Dan Cameron, "Post-Feminism," Flash Art, February/March 1987, pp 80-83 
+
+Maralyn Lois Polak, "Jenny Holzer: Messages are her medium" (interview), 
+The Philadelphia Inquirer Magazine. September 27, 1987, pp 7-8 
+
+David Bonetti, "What's in a word?: Jenny Holzer's message is the medium," 
+The Boston Phoenix, Section 3, October 16. 1987, pp. 4-5 
+
+Jean-Pierre Bordaz. "Jenny Holzer and the Spectacle of Communication," 
+Parkett, no. 13. 1987, pp. 30-33 
+
+Abigail R Esman. "Jenny Holzer" (interview), New Art International, 
+February-March 1988, pp. 50-53 
+
+Michael Brenson, "Media Artist Named to Represent U.S. at '90 Venice 
+Biennale," New York Times, July 27, 1988. pp C15, C17 
+
+Michael Brenson, "Jenny Holzer: The Message is the Message," The New 
+York Times, August 7, 1988, pp. H29, H35 
+
+Patrick Kurp, "Visual artist's way with words leads to her Venice Biennale," 
+Sunday Times Union (Albany, New York), August 14, 1988, p G5 
+
+John Howell, "Jenny Holzer The Message Is The Medium," Art News. 
+vol 87, Summer 1988, pp. 122-127 
+
+Rory MacPherson, "Jenny Holzer" (interview), Splash, vol 1, Summer 
+1988, unpag. 
+
+
+
+113 
+
+
+
+Kay Larson, "Signs of the T.mes Jenny Holzer's Art Words Catch On," 
+
+New York Magazine, vol 35, September 5. 1988, pp 49-53 
+
+Torene Svit.l, "Jenny Holzer." Exposure (Los Angeles), vol. 1, September/ 
+
+October 1988. pp. 42-43 
+
+Lawrence Chua, "Jenny Holzer Holzer L.ke Burroughs, Couches Subvers.on 
+
+in Seeming Nonsense." Flash Art. October 1988. pp 112-113 
+
+Paul Taylor, "Jenny Holzer sees aphorism as art," Vogue. November 1988, 
+
+pp. 388-393.456 
+
+Sarah Kent, "Jenny Holzer Signs of the Times," T.me Out (London). 
+
+November 30-December 7, 1988, pp 26-27 
+
+Mary Anne Staniszewski, "Jenny Holzer Language Communicates," 
+
+Flash Art. November/December 1988. p 112 
+
+James Danz.ger, "American Graffiti," The Sunday Times Magazine (London). 
+
+December 4, 1988, p 5 
+
+Louisa Buck, "Clean and keen, clean and mean," The Guardian. December 
+
+14, 1988, p 17 
+
+Louisa Buck, "Word Play," The Face (London), vol 2. December 1988. 
+
+pp. 128-131 
+
+Sarah Craddock, "In the end was the word." Weekend Guardian. January 
+
+14-15, 1989. p. 21 
+
+Kar.n Upson. "The Message is her Medium." New York Newsday. March 
+
+19. 1989. Part II, pp. 13-15 
+
+V.kk. M.chalsk., "Call it what you want, it's art." Lancaster Eagle Gazette. 
+
+June 11, 1989, p. C8 
+
+Eleanor Heartney, "The New Social Sculpture," Sculpture (New York), 
+
+vol. 8. July/August 1989, pp 24-27 
+
+Steven Evans, "Not all about death" (interview), Artscnbe International. 
+
+Summer 1989. pp 57-59 
+
+
+
+
+
+
+114 
+
+
+
+THE SOLOMON R. CUGGENHEIAA FOUNDATION 
+
+HONORARY TRUSTEES IN PERPETUITY 
+
+Solomon R Guggenheim, Justin K Thannhauser, Peggy Guggenheim 
+
+PRESIDENT Peter Lawson-Johnston 
+
+vice PRESIDENTS The Right Honorable Earl Castle Stewart, Wendy L-J McNeil 
+
+TRUSTEES Elaine Dannheisser, Michel David-Weill. Carlo De Benedetti. Robin Chandler Duke. Robert M Gardiner, John S Hilson 
+Thomas Krens, Thomas M Messer, Denise Saul, William A Schreyer, Daniel C Searle, James Sherwood Bonnie Ward 
+Simon, Seymour Slive, Peter W Stroh, Stephen C Swid, Rawleigh Warner, Jr. Michael F Wettach Donald M Wilson 
+William T Ylvisaker 
+
+advisory BOARD Donald M Feuerstem, Robert Meltzer, Rudolph B Schulhof 
+
+SECRETARY-TREASURER Theodore G. Dunker 
+DIRECTOR Thomas Krens 
+
+SOLOMON R. GUGGENHEIM MUSEUM 
+
+DEPUTY DIRECTOR Diane Waldman 
+
+ASSISTANT DIRECTOR Michael Govan 
+
+ASSISTANT DIRECTOR FOR FINANCE AND ADMINISTRATION Gail M Harnty 
+
+STAFF Vivian Endicott Barnett, Curator, Carmen Gimenez, Curator of Twentieth-Century Art, Germano Celant, Curator of 
+Contemporary Art, Mark Rosenthal. Consultative Curator, Lisa Dennison, Susan B Hirschfeld, Assistant Curators, 
+Nancy Spector, Assistant Curator for Research, Carol Fuerstem, Editor. Sonja Bay, Librarian, Ward Jackson, Archivist, 
+Diana Murphy, Assistant Editor, Denise Sarah McColgan, Claudia D Defendi, Clare Pauline Bell, Christina Yang, 
+Curatorial Assistants, Special Projects Jane Sharp, Project Assistant Curator; Holly Fullam, Collection Sharing 
+Coordinator, Tom Padon, Project Coordinator 
+Louise Averill Svendsen, Curator Emeritus 
+
+Elizabeth Carpenter, Registrar, Kathleen Hill McGee, Associate Registrar, Victoria Hertz, Assistant Registrar, Laura 
+Latman, Registrar's Assistant; Am Rivera, Preparator, David M Veater, Associate Preparator. William Smith, Launa 
+Beuhler, Andrew Roberts-Gray. Preparation Assistants, Hubbard Toombs, Technical Services Coordinator, Paul 
+Schwartzbaum. Conservator, Gillian McMillan, Associate Conservator, Elizabeth Estabrook, Assistant Conservator, 
+Scott A Wixon, Operations Manager, Dennis Schoelerman, Assistant Operations Manager. Takayuki Amano, Head 
+Carpenter, Timothy Ross, Technical Specialist, Peter Costa, David Kassel, Tony Moore, Gregory Saint Jean, Art 
+Handlers, David M Heald, Photographer, Michele Perel, Photography Assistant, Julie Roth, Photography Coordinator. 
+Richard Roller. Manager of Information Systems, Maggie Rose, Programmer/Analyst 
+
+Anita Masi, Development Associate, Linda Gering, Special Events Associate, Glory Jones, Public Affairs Associate. 
+Mildred Wolkow, Development Coordinator, Elizabeth Gerstein, Public Affairs Coordinator; Susan Madden, 
+Membership Coordinator, Denise Bouche, Membership Assistant, Heidi Rosenau, Public Affairs Assistant, Stefan 
+Keneas, Membership Assistant 
+
+F Stephen Dewhurst, Controller, Heidi Olson, Manager of Budget and Planning, Carlita Lim, Accounting Analyst. 
+Reginald Francois, Accounting Assistant, Marguerite Vigliante, Trade Sales Assistant, Barbara Berg, Admissions Assistant, 
+Maria Masciotti, Manager of Cafe and Catering Stephen Diefenderfer, Assistant Manager of Cafe and Catering Aim Paul, 
+Mail Clerk, Myro Riznyk, Building Manager, Elbio Almiron, Marie Bradley, Carlos Rosado, Assistant Security Supervisors 
+
+Thomas Ramseur, General Counsel, Ann Kraft, Executive Associate, Carole Perry, Secretary to the Director, Brooke 
+Burbank, Administrative Coordinator 
+
+LIFE MEMBERS Jean K Benjamin, Irving 8lum. Mr and Mrs B Gerald Cantor, Eleanor, Countess Castle Stewart, Mr. and Mrs Barne 
+M Damson, Mr and Mrs Werner Dannheisser, Jacqueline Dryfoos, Donald M Feuerstem, Mr and Mrs Andrew P 
+Fuller. Agnes Gund, Susan Morse Hilles, Mr and Mrs Morton L Janklow, Mr and Mrs Donald L Jonas, Mr and Mrs 
+Peter Lawson-Johnston, Mr and Mrs Alexander Liberman, Rook McCulloch, Mr. and Mrs Thomas M Messer. Mr and 
+Mrs Robert E Mnuchm, Mr and Mrs Irving Moskovitz, Elizabeth Hastings Peterfreund, Mrs Samuel I Rosenman, 
+Clifford Ross, Mr and Mrs Andrew M Saul, Mr and Mrs Rudolph B Schulhof. Mrs Evelyn Sharp, Mrs Leo Simon, 
+Mr and Mrs. Stephen A Simon, Sidney Singer, Jr , Mr and Mrs Stephen C Swid, Mrs Hilde Thannhauser, Mr and 
+Mrs Stephen S Weisglass, Mr and Mrs Philip Zierler 
+
+INSTITUTIONAL Alcoa Foundation, Atlantic Richfield Foundation, Bankers Trust Company, The Owen Cheatham Foundation, Exxon 
+PATRONS Corporation, Ford Motor Company, Robert Wood Johnson Jr Charitable Trust, Knoll International, The Kresge 
+Foundation, Robert Lehman Foundation, Lufthansa German Airlines. The Andrew Mellon Foundation, Mobil 
+Corporation, Montedison Group, Philip Morns Incorporated, Regione Veneto, United Technologies Corporation. 
+Wallace Funds 
+
+Institute of Museum Services, National Endowment for the Arts, National Endowment for the Humanities, New York 
+State Council on the Arts 
+
+
+
+115 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0072   0.0072      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0105   0.0033      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0129   0.0024     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0185   0.0057   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0187   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0921   0.0734              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=92;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

@@ -1,0 +1,2604 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Joseph Cornell"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/josephcornell00corn">Joseph Cornell</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/josephcornell00corn">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/josephcornellOOcorn 
+
+
+
+JOSEPH 
+CORNELL 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, NEW YORK 
+
+
+
+© 1967, The Solomon R. Guggenheim Foundation, New York 
+Library of Congress Card Catalogue Number 67-25057 Printed in the United States of America 
+
+
+
+THE SOLOMON R. GUGGENHEIM FOUNDATION 
+
+
+
+TRUSTEES 
+
+
+
+HARRY F\ GUGGENHEIM, PRESIDENT 
+
+
+
+ALBERT E. THIELE, VICE PRESIDENT 
+
+
+
+H.H. ARNASON, VICE PRESIDENT, ART ADMINISTRATION- 
+
+
+
+PETER O. LAWSON-JOHNSTON, VICE PRESIDENT, BI'SIXKSS ADMINISTRATION 
+
+
+
+ELEANOR, COUNTESS CASTLE STEWART 
+
+
+
+DANA DRAPER 
+
+
+
+A. CHAUNCEV NKWLIN 
+
+
+
+MRS. HENRY OHRE 
+
+
+
+DANIEL CATTON RICH 
+
+
+
+MICHAEL F.WETTACH 
+
+
+
+MEDLEY G. B. WHELPLET 
+
+
+
+CARL ZIGROSSER 
+
+
+
+JOSEPH CORNELL cannot properly be called a painter or a sculptor 
+for he makes neither paintings nor sculpture. He does make collages 
+and boxes and does so with such knowledge and such capacity to have 
+earned the designation artist in the fullest sense of this much diluted 
+term. As every artist does, Cornell translates his chosen raw material 
+into forms and images. Translation here means to raise such materials 
+from their commonplace existence to a meaningful state— one within 
+which has been lodged a particular awareness so intense as to gain 
+the broadest validity. 
+
+Cornell's raw materials in the most general sense are memories from a 
+past that will fade away in lifeless archives unless they are rescued 
+through a new pertinence. Therefore, Cornell in the first instance is 
+an archivist of a vanished age. The rooms of his Long Island house 
+are filled with the melancholy mementos of a past era. A veritable paper 
+cemetery they are— a sic transit gloria mundi, for great divas and per- 
+formers, the brilliant and noble life of sparkling talent and beauty. 
+The glitter of an elegant, erudite, graced and gifted elite sleeps in these 
+files like an enchanted princess to be redeemed with a kiss. 
+
+If Cornell were nothing but archivist his passion would have chosen the 
+hapless method of mumification. But Cornell is archivist with an 
+ulterior motive, which is to safeguard the subject matter for his art, 
+while as an artist he is above all capable of imbuing inert matter with 
+life. His efforts at revivication therefore succeed through that very 
+translation into form that Goethe recognized as "the secret of the 
+master." Through his process, and in Joseph Cornell's hands, the dated, 
+the banal, and the seemingly irrelevant assume contemporary relevance 
+and come to life in a new and intensely vital context. 
+
+The Solomon R. Guggenheim Museum is presenting 10 collages and 78 
+boxes by Joseph Cornell with that sense of privilege that accompanies 
+an identification with timely validity. Joseph Cornell who overcame his 
+manifest need for seclusion to help with his exhibition is our first object 
+of gratitude. The lenders of boxes and collages, separately listed in this 
+catalogue, have our sincere appreciation. So does Mrs. Diane Waldman, 
+Research Fellow at the Guggenheim, whose familiarity with Cornell's 
+work gained over years of devoted study has qualified her to select and 
+to present this show. 
+
+Thomas M. Messer, Director 
+
+
+
+ACMOWLEDGEMEKTS 
+
+
+
+/ am indebted to Mr. Julien Levy. Mr. Donald Windham and Mr. Parker Tyler for information 
+and advice that proved invaluable to this exhibition, and to Mrs. Eleanor Ward, Mr. Richard 
+Feigen, Mr. Allan Frumkin and Mr. John Myers for providing many useful leads in the initial 
+stages of its preparation. My grateful thanks also to Linda Konheim. editor of the catalogue, 
+and Orrin Riley for his skillful handling of the installation of this exhibition. 
+
+D. JT. 
+
+
+
+LEPERS 
+
+
+
+Dr. and Mrs. Nathan Alpers, Los Angeles 
+
+Mr. and Mrs. Howard Barnstone, Houston 
+
+Mr. and Mrs. E. A. Bergman, Chicago 
+
+Mr. and Mrs. Norman Borisoff, Encino, California 
+
+Sandy M. Campbell, New York 
+
+Mrs. Marcel Duchamp, New York 
+
+Mr. and Mrs. Richard L. Feigen, New York 
+
+Mr. and Mrs. Herbert Ferber, New York 
+
+Mr. and Mrs. Allan Frumkin, New York 
+
+Joseph H. Hirshhorn Collection 
+
+Robert L. Isaacson, New York 
+
+Mr. and Mrs. Alvin S. Lane, Riverdale, New York 
+
+Mr. and Mrs. Arnold Maremont, Chicago 
+
+James Merrill, Stonington, Connecticut 
+
+H. Marc Moyens, Alexandria, Virginia 
+
+Mr. and Mrs. Morton G. Neumann, Chicago 
+
+Bernard Pfriem, New York 
+
+Mr. and Mrs. Bernard J. Reis, New York 
+
+Miss Jeanne Reynal, New York 
+
+Mr. and Mrs. Joseph Shapiro, Oak Park, Illinois 
+
+Mrs. de Menocal Simpson, New York 
+
+Mr. and Mrs. David M. Solinger, New York 
+
+Margot Stewart, New York 
+
+Jon N. Streep, Amsterdam 
+
+Parker Tyler, New York 
+
+Mrs. Eleanor Ward, New York 
+
+Donald Windham, New York 
+
+Richard Feigen Gallery, New York 
+
+The Pace Gallery, New York 
+
+New York University Art Collection, New York 
+
+University of St. Thomas, Jermayne MacAgy Collection, Houston 
+
+Whitney Museum of American Art, New York 
+
+
+
+10 
+
+
+
+
+;r r • 
+
+
+
+•« 
+
+
+
+/ 
+
+
+
+V 1 
+
+
+
+■sspiaaiiSk. 
+
+
+
+
+
+
+ilyl 
+
+
+
+/ 
+
+
+
+s \ \ \ \ mm&gt;mmm mm%mmmit mmmm 
+
+
+
+ml 
+
+
+
+w^ajBwuaBK iJjWH 1 " "mnni)»nn » iiii i i['»i iii— mwii 
+
+
+
+Cockatoo: Keepsake Parakeet. 1949-1953. 
+
+
+
+II 
+
+
+
+JOSEPH CORNELL 
+
+
+
+DIANE WALDMAN 
+
+
+
+Little is known of Joseph Cornell's early life. Born on Christmas Eve 1903 (the major 
+exhibitions of his work have usually been held towards the end of December) at Nyack, New 
+York, Cornell attended the Phillips Academy at Andover, Massachusetts. In 1929, he and his 
+family moved to Flushing. Queens, to the modest house in which he still lives. A shy and 
+reticent man, he is as reluctant to reveal the details of his life as he is to part with one of his 
+boxes. The boxes are his progeny; they have engaged in a dialogue with him and with each 
+other over the years as, indeed, they speak to us. They were created within the milieu of 
+family life— of commonplace living— not in the isolation of a studio. The rhythm of daily life 
+—daytime, nighttime, time passing, another day, a change of season— seemed to him like the 
+unfolding of life in the Les Tres Riches Heures du Due de Berry. Way back, before the boxes 
+began, Cornell recalls the Sunday afternoons, after church, listening to Protestant services 
+on the radio, and the great sense of religion within the wonderful warmth of family life. 
+During the twenties, Cornell was involved with the life and culture of New York, absorbing 
+classical music, going to the opera, and collecting on a small scale, mostly Japanese prints 
+and Americana. He speaks of the boxes as having been fashioned of a great love of the city— 
+of a city and a time, with its seemingly endless plethora of books and material, that is gone 
+now. All of this has been captured in his boxes and given to us, in wave after wave of mem- 
+ories, with a pulsating sense of life and as a living presence. 
+
+With little formal art training, most of Cornell's schooling during the early years 
+was largely the result of the lively artistic climate that existed in New York during the 
+1930's. If the scene was lively, it was also confined, and for lack of a meeting place, many 
+of the New York and expatriate European artists would frequent the few avant-garde gal- 
+leries then in existence. It was at the Julien Levy Gallery, which opened in 1931. that Cornell 
+met most of the painters and writers associated with the Surrealist movement who were 
+in the United States prior to and during World War II. The first American exhibition of 
+Salvador Dali took place there in December 1933. The next year, for his second exhibition at 
+the gallery, Dali arrived in New York to much acclaim, followed by the other leading Surrealists. 
+
+Soon after Cornell first saw Max Ernst's album. La Fenime 100 Tetes, he showed 
+his own initial efforts at collage to Julien Levy. These consisted of montages, on cardboard, 
+done in the style of Ernst, which Levy included in a Surrealist group show in January 1932. 
+For this exhibition, which launched the movement in New York, Cornell designed the cover 
+of the catalogue. The exhibition included collages by Ernst, paintings by Dali, Ernst, Picasso, 
+Man Ray and others, photographs by Atget, Boiffard. Man Ray. Moholy-Nagy, and George 
+Piatt Lynes. and a Man Ray Snowball, a commercial souvenir in the shape of a glass globe. 
+
+Besides the collages, Cornell exhibited a glass bell containing a mannequin's hand 
+holding a collage of roses. The glass bell, of course, was a common Victorian decorative 
+motif for showing clocks, artificial flowers, or other "bibelots"; the mannequin's hand was a 
+standard prop of the Surrealists. The catalogue preface for another Surrealist exhibition, held 
+
+
+
+12 
+
+
+
+at the Galerie Pierre Colle in June 1933, gives ample evidence of Surrealist obsessions and 
+some of Cornell's as well : 
+
+disagreeable objects, chairs, drawings, paintings, manuscripts, 
+
+objects to sniff, surreptitious automatic objects, books, ordinary 
+
+objects, maps, hands, exquisite corpses, palaces, butterflies. 
+
+blackbirds, pharmacies... 1 
+
+Later that year. Julien Levy held an exhibition of Cornell's "Minutiae. Glass Bells, 
+
+Shadow Boxes, Coups d'Oeil, Jouets Surrealistes". Cornell's shadow boxes were all small. 
+
+the largest measuring 5 x 9". They were complemented by thimbles propped on needles; 
+
+small bisque angels and miniscule silver balls placed under small glass bells: and bright 
+
+colored sequins, sewing pins, cut-up engravings of fish and butterflies, colored sand, and 
+
+brass springs moving freely about in small round boxes which resembled compass cases. Both 
+
+the objects and their containers varied only slightly from their original state; they were 
+
+"transformed", in the manner of Duchamp and of the period, with only slight alterations to 
+
+the readymade. All of his objects of this period have several features in common— they are 
+
+small, fragile and modest in ambition— yet there is a particular charm to them. The emphasis 
+
+is on the object, per se, without attempting to situate it within a larger, i.e., a plastic, 
+
+context. 
+
+In 1936 Cornell was included in a major exhibition. Fantastic Art, Dada, Surrealism, 
+at The Museum of Modern Art. His Soap Bubble Set, of that same year, is listed in the 
+catalogue as a "Composition of objects, 15 Vi x 14%", photographed with additional effects 
+by George Piatt Lynes". This arrangement was later regrouped into its present form and 
+subsequently acquired by the Wadsworth Atheneum in 1938. In its final form there is a 
+reorientation of emphasis in which each of the objects is located both within its own compart- 
+ment and in fixed relationship to the others— an early attempt to group these separate objects 
+into a coherent unit with a sense of three-dimensional form, scale, and structure new to the 
+work. To achieve this, he temporarily abandoned the random movement of the earlier objects. 
+Later, the use of movement became subject to greater esthetic control appearing in all phases 
+of his work, both literally (Taglionis Jewel Casket, 1940; Multiple Cubes, 1946-48; the Sand 
+Fountains and Sandboxes of the fifties) and implicitly (the Medici series, etc). 
+
+Symbols which recur throughout his work appear here for the first time : clay pipes 
+(associated with memories of lower New York. Chambers Street, and old houses near the 
+water), glasses, engravings, mirrors, maps. The objects lend themselves to a fairly plausible 
+interpretation: the egg as the symbol of life; the glass, the cradle of life; the four cylinders 
+above are thought to represent his family, and the doll's head, himself. The moon, placed 
+above the clay pipe, is both soap bubble and the world, and it controls the tides. In the 
+catalogue for his exhibition at the Copley Galleries in 1948, Cornell wrote of the Soap Bubble 
+Sets: 
+
+Shadow boxes become poetic theatres or settings wherein are 
+metamorphosed the elements of a childhood pastime. The fragile, 
+shimmering globules become the shimmering but more enduring 
+planets— a connotation of moon and tides— the association of water 
+less subtle, as when driftwood pieces make up a proscenium to 
+set off the dazzling white of seafoam and billowy cloud crystal- 
+lized in a pipe of fancy. 2 
+In the same catalogue, Cornell is listed as an American Surrealist, a label which has 
+
+
+
+13 
+
+
+
+
+(top) Collage. 1932. (center) Soap Bubble Set. 1936. (bottom) Soap Bubble Set. 1936. Photograph courtesy Wadsworth Atheneum. 
+
+
+
+
+14 
+
+
+
+persisted to this day. From the present vantage point, it hardly seems accurate or adequate: 
+in its original context and at that time, he did draw his initial source of inspiration and ideas 
+from the methods, if not the mannerisms, of the Surrealists. It was the stimulation of their 
+presence during the formative years of his career that proved invaluable to him. as it did to 
+so many of the younger artists then at work in New York. It is. however, primarily in the 
+ideas of the Surrealist poets, rather than the hard-core painters, that we capture the imagery 
+of Cornell. 
+
+The Surrealist poets realized that, in order to renovate poetic imagery, it would be 
+necessary to free words from their customary role— that of description. The selection of the 
+appropriate word, as a symbol, and its illogical juxtaposition with other words would act as 
+a stimulus to the senses of the reader and would, in turn, arouse multiple images and associa- 
+tions, differing according to individual sensibility. Thus the function of the poem was, to 
+Paul Eluard. "donner a voir" (to give sight ) . :! From this followed the Surrealist concept of re- 
+vealing the object in its fullest depth by. as Eluard said, stripping it of its accepted roles and 
+admitted physical properties, a process which Breton called the "crisis of the object". In 
+their efforts to make the dream concrete, the Surrealist poets concerned themselves with de- 
+veloping a vocabulary precise in form and color, shape and intent. It was this method 
+that brought them close to the technique of the painter. Breton, in speaking of his thirty-word 
+poem. Foret-noire. which took him six months to write, said that he had to juggle the words to 
+determine their proper associations with each other and with the words that were eliminated 
+from the poem but figured in its composition. 4 
+
+The emphasis on the object itself started around 1930: "an 'external object' con- 
+stitutes a closed unity resistant to our imagination and our desire to alter it at whim. This 
+unity and consistency are the essence of the object— a complex of fantasy and restraint, of 
+desire and resistance, which possesses a material substance"/' As Marcel Jean pointed out. the 
+German word for object. Gegenstand, literally means counter-stand, resistance. 6 The estrange- 
+ment of the object, particularly its separation from the objects generally associated with it. 
+became the basic technique of Surrealism. Paul Nouge speaks of the Surrealist as painting the 
+"bewildering object and the accidental encounter... by isolating the object ...breaking off its 
+ties with the rest of the world... We may cut off a hand and place it on the table or we may 
+paint the image of a cut-off hand on the wall". 7 It is noteworthy that the emergence of the 
+object coincided with Cornell's beginnings as an artist. Although Giacometti. Dali. Ernst. 
+Breton and Tanguy were among the many producers of objects, and both Schwitters and 
+Duchamp. the latter with his portable museum, the Green Box of 1934. tended to box con- 
+figuration, it was Cornell's selection of the box as a form, in combination with the object, 
+which proved a major innovation. It was Cornell who made the box memorable as a realm 
+for both a real and imagined existence. 
+
+The first one-man show of Cornell to receive some notice in the press (it is actually 
+debatable as to which of the shows, in 1932 or 1939. should be called the first one-man show I 
+opened on December 6. 1939 at the Julien Levy Gallery. The press release for the show states 
+that his objects "derive from a completely pure subsconcious poetry unmixed with any at- 
+tempt to shock or surprise. They are essentially pure creation, no professionalism, no ulterior 
+motive but the concrete expression of Cornell's personal lyricism. They are useless for any 
+purpose except to delight the eye and everyone's desire for a lovable object...". Art Neivs of 
+December 23. 1939. commented: "Much, if not all, is done with mirrors... and the reflections 
+
+
+
+15 
+
+
+
+which do not have the aid of quick-silver are images drawn from the unconscious". The ob- 
+jects were placed in a darkened room; they included... "bubble pipes, thimbles and china 
+dolls showered with confetti, in and out of shadow boxes... birds, books and balls suspended 
+on strings, and its strange alchemy of bottles, artificial green leaves and bits of broken glass." 
+The New York Times of December 10, 1939, mentioned a... "whirling eyeball under a bell 
+jar, or a book which is a box in which things slide and kaleidoscope...". There were even 
+objects which, like a music box, played tunes. The New York Herald Tribune of December 
+10, 1939, described the show as a "holiday toy shop of art for sophisticated enjoyment, and 
+intriguing as well as amusing". 
+
+In addition to the pieces on exhibit, Cornell built objects to order, for Christmas 
+gifts, incorporating the photograph of the purchaser into the object. Approximately five 
+inches high, six inches wide and one inch deep, these "daguerreotypes", forerunners of the 
+later sandboxes featured the photo, tinted deep blue or brown, secured against the rear 
+wall of the box. Placed over the photo but not touching it was a tinted mirror which Cornell 
+cut to silhouette the form in the photograph. Between these two layers, particles of colored 
+sand, slivers of glass and tiny seashells created ever-changing patterns as the box was manipu- 
+lated. The image of the spectator, trapped in the mirror's reflection, became a part of the 
+object, establishing, at an early date, Cornell's awareness of the physical presence of the 
+spectator, the relationship between the spectator, the object, and the space between. 
+
+If much of the 1930's was a time of tentative beginnings, the forties was witness to 
+a number of major innovations. Characteristic of much of the early years is a feeling for 
+Victoriana— for quaint beauties, elegant fabrics and exotic papers— a recapitulation of the 
+"objects" of the thirties. Often a work is accompanied by a saying (Francesca de Rimini), 
+a poem (Taglioni's Jewel Casket, in the collection of The Museum of Modern Art), descrip- 
+tive matter (Cleo de Merode), or some other "leitmotif", or, more rarely, it becomes part of 
+the form itself (Memoires inedits de Mme. la Comtesse de G.) . In an effort to secure the 
+fleeting, Cornell seems to have wanted to document and annotate, "to make a monument 
+to every moment". 8 
+
+In the majority of these early boxes, there is a definite distinction between the con- 
+tainer and the contained. Some, like Francesca de Rimini or Swan Lake for Tamara 
+Toumanova, resemble his early flat collage assembled in depth. Others are table-top, horizontal 
+boxes, often lidded, suggesting a jewel box, a sewing box, a cosmetic case, a place to store 
+treasures, a Pandora's box. UEgypte de Mile. Cleo de Merode: Cours Elementaire d'Histoire 
+Naturelle is typical of this type. The interior, with its rows of bottles and side compartments, 
+recalls the display cases of a museum or a department store. The box, a Victorian oak writing 
+or strong box, contains a piece of glass mounted about one and a half inches from the bottom 
+which acts as a supporting rack for the bottles. Underneath the glass is a layer of red sand 
+with a few broken bits— a small piece of comb, slivers of plain or frosted glass and a por- 
+celain doll's hand broken at the elbow. Much of the interior is covered with an ivory paper 
+delicately marbled in brown and blue and framed by bands of marbled paper in blue, blue- 
+grey, ivory and orange spots. All but one of the glass bottles bear a label and contain different 
+objects. A description of one of the bottles gives some idea of its contents: Sauterelles 
+(grasshoppers or locusts) contains a cut-out of two camels and bedouins from an old photo- 
+graph of the Pyramids and a small green ball, both set in yellow sand. 
+
+Cleo de Merode was a famous ballerina in the 1890's. The goddess Hathor, pictured 
+
+
+
+16 
+
+
+
+on the inside lid, is the goddess of love, happiness, dancing and music, also goddess of the 
+sky. Cleo in the title is also Cleopatra of Egypt. The composition of the box can be paralleled 
+to the Egyptian involvement with the tomb and the afterlife, to the custom of securing in the 
+tomb the articles most required by the deceased in his life after death, as well as a descrip- 
+tion of the individual's life as he lived it on earth. It suggests, as well, the structuring of 
+life into registers on the wall reliefs of the tombs. Simultaneously, the objects offer clues 
+to the essence and mystery of Woman, whether Cleo de Merode or Cleopatra. 
+
+The transition from this work to the masterpiece of the early forties, the Medici Slot 
+Machine of 1942. is both rapid and profound in its implications. The image of the young boy. 
+Moroni's Portrait of a Young Prince of the Este Family, in the Walters Art Gallery. Baltimore, 
+is viewed as if through a gun-sight or lens, telescoping both near and far distances simultane- 
+ously. The spiral at his feet evokes multiple associations: in the natural world, ocean currents 
+form a spiral pattern; the growth of many plants is that of a spiral— for example, the way 
+rose petals unfold— as is the structure of a chromosome. The spiral, symbolic of life repeating 
+itself in a cycle of seasons and a cycle of generations, is also an abstract form, bringing with it 
+references to Duchamp and Leonardo. The complex play of imagery, sequentially strung out 
+(or spliced) like a series of film clips, with the implication of movement both in time and in 
+space, reconstructs the history of a Renaissance prince and juxtaposes these images of his 
+imaginary childhood (diagrams of the Palatine fashioned from pieced-together Baedeker 
+maps, etc.), with current objects (marbles and jacks) so that the Renaissance child becomes 
+a very real and contemporary child, alive and very much in the present. The objects are 
+brought into reality with color, while the monochromatic images recede into the past. 
+
+The influence of film techniques on his art. and the actual translation and incorpora- 
+tion of its devices into his constructions, was another major innovation which he has developed 
+and elaborated on since its early inception in the Medici Slot Machine, and one which has 
+proven of enormous significance to many younger artists. Cornell's interest in the films 
+originated in the twenties when he. like the Surrealists, found that it offered new possibilities 
+of fantasy and illusion, abrupt changes in time, sequence and event, and illogical juxta- 
+positions. Cornell made several movies, the earliest in the thirties, by re-editing and collaging 
+discarded film clips and occasionally having a sequence shot. In a comment published in View 
+magazine, on Hedy Lamarr, a Marilyn Monroe of the day. Cornell wrote of the "Profound 
+and suggestive power of the silent film to evoke an ideal world of beauty, to release unex- 
+pected floods of music from the gaze of the human countenance in its prison of silver light 
+...evanescent fragments unexpectedly encountered". 9 A shy and secluded man. his limited 
+travels have permitted him great freedom of the imagination, the ability to lea]) back and 
+forth in time, to visualize places, events, and people never seen. His sources, whether movie 
+queen or Medici prince, marble or jack, are lifted out of context and placed in a timeless 
+world, the world of the dream. The sensation of disorientation, of the unexpected encounters 
+between his "objects" recalls de Chirico: 
+
+One must picture everything in the world as an enigma, not only 
+the great questions one has always asked oneself— why the world 
+was created, why we are born, live and die, for after all, perhaps 
+there is no reason in all of this. But rather to understand the 
+enigma of things generally considered insignificant, to perceive 
+the mystery of certain phenomena of feeling, of the character of 
+
+
+
+17 
+
+
+
+a people, even to arrive at the point where one can picture the 
+creative geniuses of the past as things, very strange things that we 
+examine from all sides. 10 
+In the Medici Slot Machine, space is cubistically fragmented into small facets which 
+co-mingle, separate and fuse again in kaleidoscopic effect. The black lines which crisscross 
+the surface act as connective tissue organizing both the multiple images and the several 
+spatial levels. This diagrammatic pattern of horizontals and verticals, superimposed on the 
+surface rather than functioning as the substructure for the image, creates a sense of order 
+and calm that might best be described as early Renaissance. The emphasis on the object as 
+a literary symbol, in an earlier work like the Cleo de Merode, gradually gives way to the 
+object as both symbol and plastic form, and finds its first realization in the Medici Slot 
+Machine. 
+
+The numbers on the side wall of the box refer to the title of the construction and to 
+the element of play. Cornell's comments for his Penny Arcade Portrait of Lauren Bacall, 
+exhibited in 1946. reveal his fascination for the game: 
+
+...impressions intriguingly diverse... that, in order to hold fast, 
+
+one might assemble, assort, and arrange into a cabinet. . .the 
+
+contraption kind of the amusement resorts with endless ingenuity 
+
+of effect, worked by coin and plunger, or brightly colored pin-balls 
+
+. . .traveling inclined runways. . . starting in motion compartment 
+
+after compartment with a symphony of mechanical magic of 
+
+sight and sound borrowed from the motion picture art. . .into 
+
+childhood. . .into fantasy. . .through the streets of New York. . . 
+
+through tropical skies. . .etc.. . .into the receiving trays the balls 
+
+come to rest releasing prizes . . - 11 
+
+It would be difficult to imagine a more startling contrast to the elusive and even 
+
+melancholy prince than the Pantry Ballet for Jacques Offenbach of the same year, or the 
+
+later, equally light-hearted Swan Lake for Tamara Toumanova of 1945, or La Favorite of 
+
+1948. Yet they represent a counterpoint to the main body of work, and play an important, 
+
+if subsidiary, role during the 1940's. Here, references to theater abound, whether to the 
+
+stage sets of the theater or ballet or to the court pagentry of Watteau. Delicately frivolous 
+
+in spirit, they also invoke reminiscences of a child's cardboard theater or a fairy tale. 
+
+Red plastic lobsters cavort gaily about with their partners, little silver spoons, while seashells 
+
+and crockery nod in merry enjoyment. Elsewhere, feathers accompany a swan in the midst 
+
+of a performance and sheet music graces the exterior of a box, in which an angel is playing. 
+
+in a world of lyric enchantment. 
+
+For The Crystal Cage: Portrait of Berenice, a series of collages and related 
+documents published in the "Americana Fantastica" issue of View magazine of January 
+1943. Cornell established in a word portrait of the Pagode de Chanteloupe. a chinoiserie 
+of the late nineteenth century, his interests of this and of all times: 
+
+Mozart, sunbursts. Baedeker, Piero di Cosimo, Hans Christian 
+Andersen, daguerreotypes, balloon, Edgar Allen Poe, shooting 
+stars, Hotel de l'Ange, soap bubbles, solariums, snow, Gulliver, 
+Carpaccio, phases of the moon, star-lit field, palaces of light, 
+tropical plumage, Liszt, barometers, Queen Mab, owls, magic 
+
+
+
+18 
+
+
+
+
+The Crystal Cage. Collage, View Magazine, January 1943. Americana Fantastica. View Magazine, cover, January 1943. 
+
+
+
+lanterns, Milky Way, Vermeer, camera obscura, Seurat, Erik 
+Satie, calliopes, Gilles, cycloramas, castles, Rimbaud. 12 
+It is a world of tender innocence, a world that is replaced in the fifties by a melancholy and 
+sophisticated, but still innocent spirit. 
+
+Both the Medici Slot Machine and the Soap Bubble Set of 1936 are ideas that Cornell 
+has developed over the years in constructions which are not radically different from their 
+original premise. They are a reprise of a theme worked out over many years, in contrast 
+to another type— a "theme and variations"— such as the Aviary, Dovecote, and Observatory 
+series, which took shape in a relatively short and concentrated time span. Within the first 
+category the progression from a Medici boy of the forties to one of the fifties is a distillation 
+of a rich and elaborate imagery to one of the utmost simplicity. In the second type of series 
+the constructions have a much greater consistency of expression but vary in their imagery 
+from construction to construction. A certain amount of confusion has developed with regard 
+to the serial elaboration or "duplication" of his boxes and the attendant difficulties of dating. 
+The dating problem is admittedly severe but no more so than in the working procedure 
+of any artist who returns to his canvases or sculpture and reworks them over a period of 
+years. Cornell has transferred this procedure— a continuation of a visual process— from one 
+box to another rather than reworking his boxes over and over again (although he does this 
+too). The idea of duplication, per se, did not originate with Cornell, for Arp, in 1918-19, 
+made a practice of tracing the same drawing over and over again with variations occuring 
+automatically. It is a premise contained in Dada (one need only think of Duchamp's Ready- 
+mades, and of Surrealist automatism) , if not realized in its fullest sense. The use of the repeti- 
+image represents a change in process on the part of the twentieth-century artist ; it is Cornell 
+who recognized it as such and gave it its first viable plastic expression. 
+
+His working method offers ample explanation for the impulse propelling the use of 
+
+
+
+19 
+
+
+
+the repeat: an initial idea is supplemented by "documents"— both original material and notes 
+—which takes visual shape after a long period of gestation. Cornell has often spoken of the 
+frustrations of the medium and of his ability to encompass all the extra-visual material 
+(poetic, emotional and other ephemera) that went into its making. The duplication or 
+elaboration of a theme becomes a way of working out of an obsession— a natural consequence 
+of the Surrealist belief in taking the inner imagination rather than the outer world as a 
+starting point and the multitude of possibilities this suggests. Once brought into existence, 
+the boxes appear to act upon one another establishing a familial relationship, through the reit- 
+eration of certain objects (driftwood, seashells, cordial glasses, nails, stamps, toy blocks, 
+bubble pipes, etc.. and especially photographs and forms— circles, cubes, spirals, arcs) which 
+take on added reverberations over the years and establish a physical displacement in time. 
+
+The implications of the repetitive image, which began with the Medici Slot Machine 
+in 1942, are given another definition in the Multiple Cubes of 1946-48, one of Cornell's earliest 
+explorations into total abstraction, with connotations of both Mondrian's grid paintings and 
+Duchamp's readymade, Why not sneeze? of 1921. The photographic images of the Medici 
+box are metamorphosed into white wooden cubes which move freely about in their separate 
+cubicles, a series of compartments created by a skeleton of horizontal strips bisected by 
+smaller vertical ones. This grid structure, an extension of the reticulated black lines super- 
+imposed on the Medici boy, functions here in a purely plastic context. 
+
+In these and related constructions, Cornell was undoubtedly influenced by Mondrian, 
+whom he knew in New York in the early forties. Robert Motherwell speaks of Mondrian's 
+"formulation of color relations and space relations arising from a division of space. He 
+uses color and space to communicate feeling. . . a definite and specific and concrete poetry 
+breaks through his bars. . . 13 Cornell's works of the fifties bear affinities to Mondrian in their 
+classic purity, in their chromatic restriction to white as the predominating color with the 
+primaries blue and yellow as important components, and in their breakdown of space. Both 
+approach geometry through sensibility, but the differences between the two artists are great. 
+Cornell conveys a physical sense of space, in a three-dimensional structure, by overlapping 
+planes and the use of diminishing forms. He loves the irregular surface or edge, the curve, 
+the sphere; he uses natural and man-made forms and representations of the figure. His boxes 
+are infused with a light that goes back beyond Mondrian— to Vemeer, or to Piero della Fran- 
+cesca. It appears to be, in Cornell's case, an intuitive process in which he grasped certain 
+essentials of Mondrian's art, adapted them to his own needs, and fused them with his own 
+highly developed poetic imagery. 
+
+The very narrow depth of the Multiple Cubes prevents too much of a reading in 
+space and tends to flatten out a very real depth into a pictorial one. Cornell is a master at 
+this sleight-of-hand, for Nouveaux Contes de Fees, of around the same time, restates this 
+idea in another context. The pattern of the paper which caresses the surface of the box 
+blurs the distinction between the three-dimensional box and the two-dimensional paper. 
+
+In December 1949 Cornell showed twenty-six constructions, based on the Aviary 
+theme, at the Egan gallery. These new works "of sunbleached and white-washed boxes 
+filled with drawers and birds and little springs and mirrors have a strict honesty, a concen- 
+tration on texture and ordering of space..." 14 that continued the direction initiated by the 
+Multiple Cubes. The earlier interest in literary detail disappears in favor of an abstract 
+arrangement of forms, a play of line, volume and shape that is breathtaking in its beauty and 
+simplicity. In these works Cornell moved away from Surrealism in a manner similar to 
+
+
+
+20 
+
+
+
+that of the Abstract Expressionists who grew out of Surrealism. It is from the time of this 
+show that the literary becomes subsumed into the abstract. 
+
+Both Deserted Perch of 1949 and Chocolat Menier are notable for incorporating 
+emptiness into the work— the vacuum of an action that has occured. of birds that have flown 
+from the cage. The mood of loneliness and futility in Chocolat Menier is established by the 
+worn and bare wood, the rusting chain supporting the perch, and the slivers of mirror, 
+pitted and chipped away at the edges, waiting to catch the reflection of the departed bird 
+and catching, instead, only the reflection of the spectator and another more jagged mirror. In 
+a less violent mood, a few feathers in the Deserted Perch suggest the missing bird. Color is 
+almost non-existent, kept to small touches in the use of print, string and feathers. The austerity 
+of these aviaries is offset by other constructions in which the birds play a lively and 
+colorful role. 
+
+Forgotten Game restates the game idea but includes the movement of a ball on a 
+runway accompanied by its own sounds as it descends. Cornell was very early in incorpo- 
+rating sound, light and movement within the dimensions of a construction. The geometric 
+simplicity in the precise repeat of the diminishing circles is offset by the peeling surface 
+which surrounds it. recalling old walls. He often speaks fondly of buildings in the process of 
+demolition, finding beauty in the fading colors, in the warmth of human association, and in the 
+fragments of decay and destruction. In this he echoes Schwitters ; both have a fascination for 
+the "found" object, for collecting bits of glass, threads, old papers, labels and other "trivia" 
+from life. Cornell's love for remnants of human use. weathering, and craftsmanship is 
+incorporated very sparingly into his consructions, organized into formal relationships by 
+means of compartments and the use of one predominating color— usually white. 
+
+Compared with the "Aviary" theme, the works of 1950-53 (Observatories. Night Skies. 
+Hotels) are richer, more sensual and more painterly, while retaining the haunting and poetic 
+mood of the bird cages. These are hotel lobbies such as Colette might write about, and yet 
+they are not literary. They have both a great clarity of image, a dreamstate of unreality, of 
+atmosphere and emotion. The surfaces are coated with thick white paint. Placed with an 
+impeccable sense of order are glasses, shattered and whole, wire mesh, mirrors, labels of far- 
+away places, and sky charts. Into an aperture cut into the rear wall, Cornell often places 
+astrological maps which revolve and change their image, or windows looking out on star- 
+studded skies. Subtle placements of pilasters, columns, columnettes, windows and mirrors 
+convey a shorthand version of deep Renaissance perspective, of the kind one might apprehend 
+from an illustration of a Renaissance monument rather than from the monument itself. His 
+frequent use of mirrors suggests Saint Pol-Roux. a poet considered by the Surrealists as one 
+of the precursors, who wrote of the poet as possessing the magical powers of a Merlin who 
+can change a world of innumerable objects into wonders by the use of an inner mirror: "I 
+acquired, then, a fabulous mirror that makes you see within". This enabled the poet to reach 
+"the isle of the inside of my being." 15 
+
+The theme for Cornell's show in 1955 at the Stable gallery was "Winter Night Skies", 
+a series of constructions referring to the constellations Auriga. Andromeda and Cameleopar- 
+dalis. While related to the earlier Hotels in both theme and structure, these works take as 
+their departure an even more painterly and two-dimensional approach. The recent series of 
+collages are a natural outgrowth of this direction toward the two-dimensional. They restate, in 
+new terms, his earlier collages of the thirties, the series that he did for View magazine in the 
+forties, and the use of collage over the years in many of his constructions. 
+
+
+
+21 
+
+
+
+In speaking of a frame for one of his collages, Cornell mentioned that he wanted 
+a Victorian frame to ''take it out of this time*'. Indeed, the frame of each construction is 
+considered in relation to its contents. The idea of the box as a frame establishes an aware- 
+ness of the frontality of the images and, in this sense, the work enters the domain of painting. 
+The frames themselves, with their carefully missing corners, the over-all attention to the 
+surface of the box. and the very real existence of the objects contained within, re-situate the 
+work within the context of the sculptural. His space is the illusionistic space of a painter, 
+re-created in three-dimensional terms. One thinks of painters, particularly Vermeer, in rela- 
+tion to Cornell. It is this ability to maintain a dialectical tension between the painterly and the 
+sculptural that is unique to his work. 
+
+All of his objects are as carefully considered as his frames and many of them are 
+reworked, altering their original condition— glass is usually tinted; nails, cork balls, drift- 
+wood, and toy blocks are painted, as are maps and charts ; old print from books, which often 
+covers the exposed surfaces of his boxes, is usually stained in tints of blue, green or brown. 
+Tenderness and despair, poignancy and loneliness are locked into each compartment, chang- 
+ing within each box and from box to box. Fantasy and architectural constructivism exist 
+side by side in a world where knowledge alternates with the innocent wonder of a child. The 
+slightest scrap of paper sets off an endless chain of associations, both emotional and visual, 
+and a paper parrot brings to life a hotel lobby full of sounds and movement, sumptuous 
+wallpaper, and brass cages filled with brilliant birds. His work is deeply personal and 
+ultimately elusive, never divulging the mystery of its existence. 
+
+
+
+&gt;OTES 
+
+
+
+1. Marcel Jean. The History of Surrealist Painting, New York, Grove Press, 1960, p. 219. 
+
+2. Text. Copley Galleries, Beverly Hills, September 28. 1948. Joseph Cornell: Objects. 
+
+3. Anna Balakian. Surrealism: The Road to the Absolute, New York, The Noonday Press, 1959, p. 115. 
+
+4. Ibid, p. 117. 
+
+5. Marcel Jean. op. cit., p. 227. 
+
+6. Ibid, p. 243. 
+
+7. Julien Levy. Surrealism, New York, The Black Sun Press, 1936, p. 22. 
+
+8. Howard Griffin. "'Auriga, Andromeda. Cameleopardalis", Art News, New York, vol. 86, 
+no. 8, December 1957, p. 63. 
+
+9. View, New York, Series 1. nos. 9-10. 1942, p. 3. 
+
+10. Marcel Jean. op. cit.. p. 53. 
+
+11. Text. Hugo Gallery, New York, December 1946. Portraits of Women: Constructions 
+and Arrangements by Joseph Cornell. 
+
+12. "Americana Fantastica", View, New York, Series 2, no. 4, January 1943, p. 11. 
+
+13. Robert Motherwell. "Notes on Mondrian and Chirico", VVV, New York, no. 1, June 1942, pp. 59-60. 
+
+14. T.B.H. [Thomas B. Hess]. Review of exhibition at the Egan Gallery, Art News, New York, 
+vol. 48, no. 9, January 1950, p. 45. 
+
+15. Anna Balakian. op. cit., p. 41. 
+
+
+
+22 
+
+
+
+WORKS l\ THE EXHIBITION 
+
+
+
+^UNTITLED. 1931. 
+Collage. 4V2 x 5%". 
+Lent by Richard Feigen Gallery. New York. 
+
+UNTITLED. 1933. 
+
+Object, % x \ l A" (diameter). 
+
+Lent by Richard Feigen Gallery, New York. 
+
+UNTITLED, c. 1933. 
+
+Object. 1 x 2%" (diameter). 
+
+Lent by Richard Feigen Gallery. New York. 
+
+UNTITLED, c. 1933. 
+
+Object, 2 1 /4 x 2" (diameter). 
+
+Lent by Richard Feigen Gallery, New York. 
+
+BLACK HUNTER. 1939. 
+
+Construction, 11% x 8 x 2%". 
+
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+*SOAP BUBBLE SET. 1939. 
+Construction, 14 x 9 x 2%". 
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+VARIETE DE MINERALOGIE. 1939. 
+
+Construction, 9% x 14 Vi x 2". 
+
+Collection James Merrill, Stonington, Connecticut. 
+
+MEMOIRES INEDITS DE MADAME LA 
+
+COMTESSE DE G. c. 1939. 
+
+Construction, 2 x 4%" (diameter). 
+
+Collection Mr. and Mrs. Richard L. Feigen, New York. 
+
+FRANCESCA DE RIMINI. 1940. 
+Construction, 14% x 10^ x 2%". 
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+*L'EGYPT DE MLLE. CLEO DE MERODE: COURS 
+ELEMENTAIRE D'HISTOIRE NATURELLE. 1940. 
+Construction, 1V\ x 10% x 2%". 
+Private collection. 
+
+UNTITLED (RED SANDBOX) . c. 1940. 
+
+Construction, 4% x 10% x 2%". 
+
+Collection Mr. and Mrs. Richard L. Feigen, New York. 
+
+
+
+'MEDICI SLOT MACHINE. 1942. 
+Construction, 15 % x 12 x 4%". 
+Collection Mr. and Mrs. Bernard J. Reis, New York. 
+
+A PANTRY BALLET FOR JACQUES OFFENBACH. 
+
+December 1942. 
+
+Construction, 10% x 14 x 4". 
+
+Collection Mr. and Mrs. Bernard J. Reis, New York. 
+
+* PHARMACY. 1943. 
+Construction, 15 *A x 12 x 3%". 
+Collection Mrs. Marcel Duchamp. New York. 
+
+:: FOR THE SYLPHIDE LUCILLE GRAHAM. 1945. 
+Construction, 4% x 4% x Wz". 
+Collection University of St. Thomas, 
+Jermayne MacAgy Collection, Houston. 
+
+SHADOW BOX. 1945. 
+
+Construction, lO 1 ^ x lS 1 /^ x 2". 
+
+Collection Mr. and Mrs. Howard Barnstone, Houston. 
+
+* MUSEUM. 1945-47. 
+Construction. 8% x 7 x 2Va". 
+Collection University of St. Thomas, 
+Jermayne MacAgy Collection. Houston. 
+
+A SWAN LAKE FOR TAMARA TOUMANOVA. 1946. 
+
+Construction, 9% x 13 x 4". 
+Private collection. 
+
+PINK PALACE. 1946. 
+
+Construction, 10 x 15 x 3%". 
+
+Collection Sandy M. Campbell, New York. 
+
+^MULTIPLE CUBES. 1946-48. 
+Construction. 14 x 10% x 2Y4". 
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+ENCRUSTED CLOWN 
+(SOUVENIRS FOR SINGLETON). 1948. 
+Construction, 17% x 11% x 4 ¥4". 
+Lent by the artist. 
+
+LA FAVORITE. 1948. 
+
+Construction, 10 x 8% x 4%". 
+
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+
+
+23 
+
+
+
+'SOAP BUBBLE SET. 1948. 
+Construction, 9 x 13 x 3%". 
+Collection Mrs. de Menocal Simpson, New York. 
+
+'NOUVEAUX CONTES DE FEES 
+(POISON BOX), c. 1948. 
+Construction, 12% x 10% x 5%". 
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+: DESERTED PERCH. 1949. 
+Construction, 16 % x 13 x 4". 
+Collection Jeanne Reynal, New York. 
+
+GARDEN. 1949. 
+
+Construction, 3% x 7%" (diameter). 
+Collection Bernard Pfriem, New York. 
+
+THE CRYSTAL PALACE. 1949. 
+Construction, 18 x 11% x 3%". 
+Collection Parker Tyler, New York. 
+
+FORGOTTEN GAME. c. 1949. 
+
+Construction, 21 x 15% x 4". 
+
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+SANDBOX, c. 1949. 
+Construction, 11 x 8 x 3%". 
+Collection Jeanne Reynal, New York. 
+
+WEATHER PROPHET, c. 1949. 
+Construction, 18% x 11 x 5%". 
+Lent by the artist. 
+
+*COCKATOO: KEEPSAKE PARAKEET. 1949-1953. 
+Construction, 20% x 12 x 5". 
+Collection Donald Windham, New York. 
+
+GRANDE HOTEL SEMIRAMIS. 1950. 
+
+Construction, 18 x 12 x 4". 
+
+Collection Mr. and Mrs. Allan Frumkin, New York. 
+
+
+
+SOAP BUBBLE SET. 1950. 
+
+Construction, 9% x 14% x 3%". 
+
+Collection Dr. and Mrs. Nathan Alpers, Los Angeles. 
+
+AVIARY, c. 1950. 
+
+Construction, 12 x 10 x 5%". 
+
+Collection Robert L. Isaacson, New York. 
+
+YELLOW CHAMBER. 1950-51. 
+
+Construction, 17% x 12% x 4%". 
+
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+HOTEL DE L'ETOILE. early 1950's. 
+Construction, 17 x 8 ¥2 x 4". 
+Collection Mr. and Mrs. Norman Borisoff, 
+Encino, California. 
+
+PARROT, early 1950's. 
+Construction, 19 x 11% x 4%". 
+Lent by the artist. 
+
+^CARROUSEL. 1952. 
+Construction, 19% x 13 x 6". 
+Collection Mr. and Mrs. Morton G. Neumann, Chicago. 
+
+*CHOCOLAT MENIER. 1952. 
+Construction, 17 x 12 x 4%". 
+Collection New York University Art Collection, New York. 
+
+* DOVECOTE. 1952. 
+Construction, 16% x 11% x 3%". 
+Collection Mr. and Mrs. Arnold Maremont, Chicago. 
+
+*MEDICI PRINCESS. 1952. 
+Construction, 14 x 11 x 4". 
+Collection Margot Stewart, New York. 
+
+MEDICI PRINCE, c. 1952. 
+Construction, 14 x 11 x 4". 
+Collection Mr. and Mrs. Joseph Shapiro, 
+Oak Park, Illinois. 
+
+
+
+OBSERVATORY. 1950. 
+
+Construction, 18 x 11% x 5%". 
+
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+
+
+MEDICI PRINCESS, c. 1952. 
+Construction, 14% x 11 x 5". 
+Collection Jean Frumkin, New York. 
+
+
+
+24 
+
+
+
+SAND BOX. c. 1952. 
+
+Construction, 14 x 8% x %". 
+
+Collection H. Marc Moyens. Alexandria. Virginia. 
+
+-PAVILION. 1953. 
+Construction, 19 x 12 x 6%". 
+Collection Mr. and Mrs. Herbert Ferber, New York. 
+
+HOTEL DU NORD. c. 1953. 
+
+Construction, 19 x 13% x S 1 /^". 
+
+Collection Whitney Museum of American Art, 
+
+New York. 
+
+A PARROT FOR JUAN GRIS. 1953-54. 
+Construction, 17% x 12% x4%". 
+Lent by the artist. 
+
+* HOTEL BON PORT (ANN IN MEMORY) . 1954. 
+Construction. 13 x 10% x 3%". 
+Collection Mr. and Mrs. E. A. Bergman. Chicago. 
+
+*HOTELDEL'EUROPE: 
+OLGA CARINI AGUZZI. c. 1954. 
+Construction, 17 x 11 x 4". 
+Collection Mrs. Eleanor Ward, New York. 
+
+HOTEL. 1955. 
+
+Construction, 17% x 10V2 x 5%". 
+
+Lent by the artist. 
+
+MOND-OBERFLACHE. 1955. 
+Construction, 17 x 15% x 2%". 
+Collection Mr. and Mrs. Arnold Maremont, Chicago. 
+
+BEBE. mid 1950's. 
+Construction. 14% x 9% x 2%". 
+Lent by the artist. 
+
+BIRD, mid 1950's. 
+Construction, 13% x 9% x4%". 
+Lent by the artist. 
+
+BOX WITH WINDOWS, mid 1950's. 
+Construction, 18% x 12 x 4%". 
+Lent by the artist. 
+
+
+
+DISCARDED DESCARTES, mid 1950's. 
+Construction, 15 x 11 x 2%". 
+Lent by the artist. 
+
+DOVECOTE-AMERICAN GOTHIC, mid 1950's. 
+Construction, 17% x 11% x2%". 
+Lent by the artist. 
+
+MELISANDE. mid 1950"s. 
+Construction, 18% x 12 x 6". 
+Lent by the artist. 
+
+OWL. mid 1950's. 
+
+Construction, 11% x 8% x 5". 
+
+Collection Mr. and Mrs. E. A. Bergman, Chicago. 
+
+PORTRAIT, mid 1950's. 
+Construction, 15% x 12 x 3%". 
+Lent by the artist. 
+
+*HOMAGE TO BLERIOT. 1956. 
+Construction. 18% x 11% x 4%". 
+Collection Mr. and Mrs. E. A. Bergman. Chicago. 
+
+SAND FOUNTAIN. 1956. 
+
+Construction, 11 x 8 x 4". 
+
+Collection Mrs. Eleanor Ward, New York. 
+
+VIA PARMIGIANINO (FOR ALLEGRA i. 1956. 
+Construction, 12% x 8% x 3%". 
+Lent by the artist. 
+
+*SUN BOX. c. 1956. 
+Construction, 10% x 15% x 3%". 
+Collection Mr. and Mrs. Alvin S. Lane, Riverdale, 
+New York. 
+
+*HOTEL DE L"E'tOILE. c. 1956-57. 
+Construction, I8V2 x 14 x 7%". 
+Collection Mrs. Eleanor Ward. New York. 
+
+*LA BOULE D'OR. 1957. 
+Construction, 15% x 10% x 4". 
+Private collection. 
+
+
+
+25 
+
+
+
+SUZY'S ROOM. 1957. 
+Construction, 17% x 10% x 4%". 
+Lent by The Pace Gallery, New York. 
+
+-SUITE DE LA LONGITUDE, c. 1957. 
+Construction, 13% x 19% x 4%". 
+Joseph H. Hirshhorn Collection. 
+
+LUNAR LEVEL NO. 1. 1958. 
+Construction, 9 x 12 x 3%". 
+Joseph H. Hirshhorn Collection. 
+
+TRADE WINDS, c. 1958. 
+
+Construction, 14% x 16 x 4". 
+
+Collection Mr. and Mrs. David M. Solinger, New York 
+
+HOTEL DU CHARIOT D'OR. late 1950's. 
+Construction, 14 x 9 x 3%". 
+Private collection. 
+
+RATTLE AND MUSIC BOX. late 1950's. 
+Construction, 7% x 10% x 3%". 
+Collection University of St. Thomas, 
+Jermayne MacAgy Collection, Houston. 
+
+SAND BOX. late 1950's. 
+Construction, 13% x 9% x 2%". 
+Collection Jon N. Streep, Amsterdam. 
+
+SAND BOX. late 1950's. 
+Construction, 15% x 8% x 2%". 
+Collection Jon N. Streep, Amsterdam. 
+
+*SAND FOUNTAIN, late 1950's. 
+Construction, 10% x 8 x 3%" '. 
+Joseph H. Hirshhorn Collection. 
+
+SPACE OBJECT BOX. late 1950's. 
+Construction, 11% x 17% x 5%". 
+Lent by the artist. 
+
+^UNTITLED, c. 1960. 
+Construction, 9% x 15 x 3%". 
+Private collection. 
+
+FIGUREHEAD. 1960's. 
+Construction, 10% x 17% x 5". 
+Lent by the artist. 
+
+
+
+INTERPLANETARY NAVIGATION. 1964. 
+Collage and watercolor, 11% x 8%". 
+Collection The Solomon R. Guggenheim Museum, 
+Gift of Mr. and Mrs. Walter N. Pharr. 
+
+THE STORM THAT NEVER CAME. 1964. 
+Collage, 11% x8%". 
+Lent by the artist. 
+
+CHERUBIM SWITCH. 1965. 
+Collage, 8% x 12%". 
+Lent by the artist. 
+
+GERALDINE FARRAR— "IN REMBERANCE". 1965. 
+Collage, 8% x 11%". 
+Lent by the artist. 
+
+MOZART-CASSIOPEIA. 1965. 
+Collage, 11% x 8% ". 
+
+Lent by the artist. 
+
+ANDRE BRETON. 1966. 
+Collage, 11 VixSV*". 
+Lent by the artist. 
+
+ICE. 1966. 
+
+Collage, 11% x8%". 
+
+Lent by the artist. 
+
+THE SMILE IN THE GIFT SHOP. 1966. 
+Drawing, 9% x 7%". 
+Lent by the artist. 
+
+UNTITLED. 1966. 
+
+Collage (with original drawing by Robert Cornell 
+
+c. 1935-39), 11% x8%". 
+
+Lent by the artist. 
+
+SPACE BOX. c. 1966. 
+Construction, 10% x 15% x 4%". 
+Lent by the artist. 
+
+CARROUSEL. 1967. 
+Collage, 11% x8%". 
+Lent by the artist. 
+
+
+
+26 
+
+
+
+
+Medici Slot Machine. 1942. 
+
+
+
+27 
+
+
+
+
+Medici Princess. 1952. 
+
+
+
+28 
+
+
+
+
+Untitled. 1931. 
+
+
+
+29 
+
+
+
+
+Soap Bubble Set. 1939. 
+
+
+
+30 
+
+
+
+
+L'Egypte de Mile. Cleo de Merode: Cours Elementaire D'Histoire Aaturelle. 1940. 
+
+
+
+31 
+
+
+
+
+m I 
+
+
+
+
+
+For the Sylphide Lucille Graham. 1945. 
+
+
+
+32 
+
+
+
+
+Pharmacy. 1943. 
+
+
+
+33 
+
+
+
+
+
+Museum. 1945-47. 
+
+
+
+34 
+
+
+
+
+Multiple Cubes. 1946-48. 
+
+
+
+35 
+
+
+
+
+Nouveaux Contes de Fees. (Poison Box) . c. 1948. 
+
+
+
+36 
+
+
+
+
+Soap Bubble Set. 1948. 
+
+
+
+37 
+
+
+
+
+Deserted Perch. 1949. 
+
+
+
+38 
+
+
+
+
+
+
+
+Dovecote. 1952. 
+
+
+
+39 
+
+
+
+
+, ..... 
+
+HOCOt. 
+
+
+
+♦ • • • 
+
+
+
+
+1 -W,K 
+
+
+
+
+Chocolat Menier. 1952. 
+
+
+
+40 
+
+
+
+
+Carrousel. 1952. 
+
+
+
+41 
+
+
+
+
+Pavilion. 1953. 
+
+
+
+42 
+
+
+
+
+Hotel de UEurope: Olga Carini Aguzzi. c. 1954. 
+
+
+
+43 
+
+
+
+II 
+
+1 
+
+
+1 
+
+
+1 
+
+
+1 
+
+1 
+
+
+J J " 
+
+1 
+
+
+
+
+
+JiitWii 
+
+GRAND 
+
+HOTEL FONTAINE 
+
+
+
+mm r mmmwm 
+
+
+
+;enseur hydrauli 
+200cha»br£s et salons 
+
+
+
+t*« tarns. ~T*i 
+
+
+
+.p««%fe-T* 
+
+
+
+4P&lt; 
+
+
+
+i BON P0P1 
+
+
+
+tfo£e/ 5on Port (Ann in Memory). 1954. 
+
+
+
+44 
+
+
+
+
+Homage to Bleriot. 1956. 
+
+
+
+45 
+
+
+
+
+Sand Fountain, c. 1956. 
+
+
+
+46 
+
+
+
+
+Sun Box. c. 1956. 
+
+
+
+47 
+
+
+
+
+Suite de la Longitude, c. 1957. 
+
+
+
+48 
+
+
+
+
+Hotel &lt;le I'Etoile. c. 1956-57. 
+
+
+
+49 
+
+
+
+
+La Boule D'Or. 1957. 
+
+
+
+50 
+
+
+
+
+Untitled, c. 1960. 
+
+
+
+51 
+
+
+
+
+Interplanetary Navigation. 1964. 
+
+
+
+52 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+BOOKS 
+
+
+
+breton, andre. What is Surrealism? London, Faber and 
+
+Faber Limited, 1936. 
+levy, julien. Surrealism, New York, The Black Sun Press, 
+
+1936, "M. Phot", (Scenario) by Joseph Cornell, pp. 
+
+
+
+breton, andre. Dictionrtaire Abrege du Surrealisme, 
+
+Paris. Galerie Beaux Arts. 1938, ill. p. 70. 
+JANis, Sidney. Abstract and Surrealist Art in America, 
+
+New York, Reynal and Hitchcock, 1944, p. 106. 
+breton, andre. Le Surrealisme et la peinture, New York, 
+
+Brentano's, 1945, pp. 101-102. 
+baur, John j. H. Revolution and Tradition in Modern 
+
+American Art, Cambridge, Harvard University Press, 
+
+1951. p. 31, ill. no. 20. 
+Edwards, HUGH. ed. Surrealism and its Affinities; The 
+
+Mary Reynolds Collection, Chicago. The Art Institute 
+
+of Chicago, 1956, p. 26. 
+hunter, sam. Modern American Painting and Sculpture, 
+
+New York, Dell Publishing Co., Inc., Laurel Edition, 
+
+1959, p. 184. 
+seuphor. michel. La Sculpture de ce Siecle, Neuchatel. 
+
+Editions du Griffon, 1959, p. 252. 
+goldwater, Robert. "Joseph Cornell", in Dictionary of 
+
+Modern Sculpture, ed. Robert Maillard, New York, 
+
+Tudor Publishing Co.. 1960. pp. 64-65. 
+jean, marcel. The History of Surrealist Painting, New 
+
+York, Grove Press, 1960, pp. 260. 273, 289, 307, 313, 
+
+314, 317, 348, 349. 
+read, Herbert. A Concise History of Modern Sculpture, 
+
+New York, Frederick A. Praeger, 1964, p. 264. 
+green, samuel m. American Art: A Historical Survey, 
+
+New York, The Ronald Press Co., 1966. pp. 611-643. 
+Metro, International Directory of Contemporary Art, 
+
+Milan. Editoriale Metro, 1964, n.p. 
+
+
+
+PERIODI4 AL* 
+
+
+
+53 
+
+
+
+, View, New York, Series 1, nos. 9-10, December 
+
+1941-January 1942, p. 3. 
+, View, New York, Series 2, no. 1, April 1942, 
+
+
+
+p. 23. 
+
+"Americana Fantastica", View, New York, Series 2, no. 4, 
+January 1943, (throughout). 
+
+motherwell, Robert. "Preface to a Joseph Cornell Ex- 
+hibition". A statement on Cornell for a proposed 
+catalogue for a Joseph Cornell exhibition held at the 
+Walker Art Center, Minneapolis, July 12-August 30, 
+1953. Text was never published. 
+
+Recorded conversations of artists with Belle Krasne. De- 
+sign Quarterly, Minneapolis, Walker Art Center, no. 
+30, 1954, pp. 9-23, ill. p. 12. 
+
+griffin, Howard. "Auriga, Andromeda, Cameleopardia", 
+Art News, New York, vol. 56, no. 8, December 1957, 
+pp. 24-27, 63-65. 
+
+goossen, e. c. "The Plastic Poetry of Joseph Cornell", 
+Art International, Zurich, vol. 3, no. 10, 1959-60, pp. 
+37-40. 
+
+butler, Barbara. "New York Fall 1961", Quadrum, Brus- 
+sels, no. 12, 1961, pp. 133-140. 
+
+"Museum of Modern Art, New York: Art of Assemblage", 
+Das Kunstwerk, Baden-Baden, vol. XV, nos. 5-6, 
+November -December 1961, p. 63, ill. 
+
+ashton, dore. "Art U.S.A. 1962", Studio, London, vol. 
+163, no. 827, March 1962, pp. 84-94. 
+
+nordland, gerald. "Show at the Ferus Gallery", Das 
+Kunstwerk, Baden-Baden, vol. XVI, nos. 5-6, Novem- 
+ber-December 1962, p. 67. 
+
+coplans, john. "Notes on the Nature of Joseph Cornell", 
+Artjorum, San Francisco, vol. 1, no. 8, February 1963, 
+pp. 27-29. 
+
+hess, T. B. "Steel mistletoe: the Whitney's exhibition of 
+110 sculptures", Art News, New York, vol. 61, no. 10, 
+February 1963, p. 56. 
+
+ashton, dore. "New York Letter", Das Kunstwerk, Baden- 
+Baden, vol. XVI, no. 10, April 1963, p. 32 (review of 
+Cornell's constructions and collages at the Whitney 
+Annual) . 
+
+hopps, Walter. "Boxes", Art International, Lugano, vol. 
+VIII, no. 2, March 1964, pp. 38-41. 
+
+
+
+henning, E. B. "Language of Art", Cleveland Museum 
+
+Bulletin, Cleveland, no. 51, November 1964, pp. 219- 
+
+221. 
+raynor, v. "Exhibition at the Stone Gallery", Arts, New 
+
+York, vol. 39, no. 6, March 1965, p. 53. 
+waldman, D. "Cornell: the compass of boxing", Art News, 
+
+New York, vol. 64, no. 1, March 1965, pp. 42-45. 
+Johnson, ellen h. "Arcadia Enclosed: the Boxes of 
+
+Joseph Cornell", Arts, New York, vol. 39, no. 10, 
+
+September-October 1965, pp. 35-37. 
+cortesi, Alexandra, "Joseph Cornell", Artjorum, Los 
+
+Angeles, vol. 4, no. 8, April 1966, pp. 27-31. 
+JOHNSON, e. h., "Loan Exhibition of Cornell Boxes", 
+
+Oberlin College Bulletin, 23, Oberlin, Ohio, no. 3, 
+
+Spring 1966, pp. 127-131. 
+porter, fairfield, "Joseph Cornell", Art and Literature, 
+
+Paris, no. 8, Spring 1966, pp. 120-130. 
+"Artists: The Compulsive Cabinetmaker", Time Maga- 
+zine, New York, July 8, 1966, pp. 56-57. 
+hess, thomas B. "Eccentric Propositions", Art News 
+
+Annual XXXII, New York, 1966, pp. 9-27. 
+
+
+
+54 
+
+
+
+ONE MAN EXHIBITIONS 
+
+
+
+GROI'P EXHIBITIONS 
+
+
+
+julien levy gallery, New York, December 6-31, 1939, 
+Exhibition of Objects by Joseph Cornell. Text by 
+Parker Tyler. 
+
+julien levy gallery, New York, December 10, 1940, Ex- 
+hibition of Objects by Joseph Cornell. 
+
+hugo gallery, New York, December 1946, Portraits of 
+Women; Constructions and Arrangements by Joseph 
+Cornell. Various comments and texts. 
+
+Copley galleries, Beverly Hills, September 28. 1948, 
+Joseph Cornell; Objects. 
+
+egan gallery, New York, December 1949, Aviary by 
+Joseph Cornell. Text by Donald Windham. 
+
+egan gallery, New York, December 1950, Night Songs 
+and other New Work by Joseph Cornell. 
+
+egan gallery, New York, February 10-March 10, 1953, 
+Night Voyage by Joseph Cornell. 
+
+allan frumkin gallery, Chicago, April 10-May 7, 1953, 
+Joseph Cornell, Ten Years of His Art. 
+
+stable gallery, New York, December 12, 1955, Winter 
+Night Skies by Joseph Cornell. 
+
+wittenborn, New York, November 1-15, 1956. Portrait of 
+Ondine. 
+
+stable gallery, New York, December 2-30, 1957, Joseph 
+Cornell— Selected Works. 
+
+the new gallery, Bennington College, Bennington, Ver- 
+mont, November 20-December 15. 1959. Bonitas Solsti- 
+talis— selected works by Joseph Cornell and An Ex- 
+ploration of the Colombier. 
+
+ferus gallery, Los Angeles, December 10, 1962, Joseph 
+Cornell. 
+
+new york university art collection, Loeb Student 
+Center, New York, December 3-18, 1963, Boxes and 
+Collages. 
+
+the j. l. Hudson gallery, Detroit, through October 30, 
+
+1965, Joseph Cornell. 
+
+Robert schoelkopf gallery, New York, April 26-May 14, 
+
+1966, Joseph Cornell. 
+
+pasadena art museum, Pasadena, California, January 9- 
+February 11, 1967, Joseph Cornell Exhibition. Text by 
+Fairfield Porter. (A revision of article from Art and 
+Literature, Spring, 1966). 
+
+
+
+julien levy gallery, New York, January 9-29, 1932, Sur- 
+realist Group Shoiv. 
+
+julien levy gallery, New York, November 26-December 
+30, 1932, Minutae, Glass-Bells, Shadoiv Boxes, Coups 
+d'Oeil, Jouets Surrealistes. 
+
+museum of modern art, New York, December 1936, Fan- 
+tastic Art, Dada and Surrealism. Text by Alfred H. 
+Barr. 
+
+galerie beaux arts, Paris, January-February, 1938, Ex- 
+position International du Surrealisme. Organized by 
+Andre Breton and Paul Eluard. 
+
+julien levy gallery, New York, December 1940, Surreal- 
+ist Group Show. 
+
+art of this century, New York, December 1942, Objects 
+by Joseph Cornell, Box-Valise by Marcel Duchamp, 
+Bottles by Lawrence Vail. 
+
+denver art museum, Denver, February 8-March 12, 1944, 
+Abstract and Surrealist Art in the United States. 
+Texts by g.l.m.m. and Sidney Janis. Travelled to 
+Seattle Art Museum, March 26-April 23; Santa Bar- 
+bara Museum of Art, May 7- June 10; Cincinnati Art 
+Museum, June-July. 
+
+Whitney museum of American art, New York, April 9- 
+May 29. 1953, 1953 Annual Exhibition of Contemporary 
+American Sculpture, Watercolors and Draivings. 
+
+whitney museum of American art, New York, March 17- 
+April 17, 1954, 1954 Annual Exhibition of Contempo- 
+rary American Sculpture, Watercolors and Draivings. 
+
+whitney museum of American art, New York, Novem- 
+ber 14, 1956-January 6, 1957, 1956 Annual Exhibition 
+of Contemporary American Sculpture, Watercolors and 
+Draivings. 
+
+whitney museum of American art, New York, November 
+20, 1957-January 12, 1958. 1957 Annual Exhibition of 
+Contemporary American Sculpture, Watercolors and 
+Drawings. 
+
+the art institute of Chicago, Chicago, January 17-March 
+3. 1957, 62nd American Exhibition. Text by Frederick 
+A. Sweet. 
+
+contemporary arts museum, Houston, January 9-Feb- 
+ruary 16, 1958, The Disquieting Muse: Surrealism. 
+
+
+
+55 
+
+
+
+whitney museum of American art, New York, November 
+19, 1958-January 4, 1959, 1958 Annual Exhibition of 
+American Sculpture, Watercolors and Drawings. 
+department of fine arts, Carnegie Institute, December 
+5, 1958-February 8, 1959, The 1958 Pittsburgh Bicen- 
+tennial International Exhibition of Contemporary 
+Painting and Sculpture. Text by Gordon Bailey 
+Washburn. 
+
+American federation of arts, New York, January 12- 
+February 6, 1959, Art and the Found Object. Travelled 
+to Williams College, Williamstown, Massachusetts, 
+February 22-March 15; Cranbrook Academy of Art, 
+Bloomfield Hills, Michigan, April 8-28; Arts Club of 
+Chicago, May 20-June 20; University of Notre Dame, 
+July 1-21 ; Montreal Museum of Fine Arts, September 
+27-October 18; Vassar College, Poughkeepsie, New 
+York, November 4-24; Brandeis University, Waltham, 
+Massachusetts, December 15-January 15, 1960. 
+
+d'arcy galleries, New York, November 28, 1960-January 
+14, 1961, Surrealist Intrusion in the Enchanters Do- 
+main, International Surrealist Exhibition. 
+
+whitney museum of American art, New York, December 
+7, 1960-January 22, 1961, Annual Exhibition 1960 Con- 
+temporary Sculpture and Drawings. 
+
+the museum of modern art, New York, October 2-Novem- 
+ber 12, 1961, The Art of Assemblage. Text by William 
+C. Seitz. Travelled to the Dallas Museum for Con- 
+temporary Arts, January 9-February 11, 1962; San 
+Francisco Museum of Art, March 5-April 15, 1962. 
+
+dallas museum for contemporary arts, Dallas, Novem- 
+ber 15-December 31, 1961, The Art that Broke the 
+Looking Glass. Text by Douglas MacAgy. 
+
+Seattle world's fair, Seattle, April 21-October 21, 1962, 
+Art Since 1950. Text by Norman Davis and Sam 
+Hunter. 
+
+the solomon r. cuggenheim museum, New York, October 
+3, 1962-January 6, 1963, Modern Sculpture from the 
+Joseph H. Hirshhorn Collection. Text by H. H. Arnason. 
+
+whitney museum of American art, New York, December 
+12, 1962-February 3, 1963, Annual Exhibition 1962 
+Contemporary Sculpture and Drawings. 
+
+
+
+royal marks gallery, New York, November 25-Decem- 
+ber 21, 1963, Much has Happened 1910-1959. Text by 
+Dore Ashton. 
+
+rose fried gallery, New York, January 11-February 15, 
+1964, Modern Masters. 
+
+dwan gallery, Los Angeles, February 2-29, 1964, Boxes. 
+Text by Walter Hopps. 
+
+the art institute of Chicago, Chicago, February 28- 
+April 12, 1964, 67th American Exhibition. Texts by 
+John Maxon and James Speyer. 
+
+martha jackson gallery, New York, September 18- 
+October 15, 1964, New Acquisitions. 
+
+whitney museum of American art, New York, December 
+9, 1964-January 31, 1965, Annual Exhibition 1964 Con- 
+temporary American Sculpture. 
+
+musee rodin, Paris, 1965, Exhibition Etats-Unis, Sculp- 
+ture de XX Siecle. Texts by Cecile Goldscheider and 
+Rene d'Harnoncourt. 
+
+Robert schoelkopf gallery, New York, January 4-29, 
+1966, Robert Cornell: Memorial Exhibition, Drawings 
+by Robert Cornell, Collages by Joseph Cornell. 
+
+whitney museum of American art, New York, December 
+16, 1966-February 5, 1967, Annual Exhibition 1966 
+Contemporary Sculpture and Prints. 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM 
+
+
+
+STAFF 
+
+
+
+Director 
+
+Secretary 
+
+
+
+Thomas M. Messer 
+Elizabeth Gwin Vestner 
+
+
+
+Curator 
+Librarian 
+Research Felloiv 
+
+
+
+Louise Averill Svendsen 
+Mary Joan Hall 
+Diane Waldman 
+
+
+
+Conservation 
+Photography 
+Design 
+Registrar 
+
+
+
+Orrin Riley and Saul Fuerstein 
+Robert E. Mates 
+Arthur S. Congdon 
+Ann G. Hanes 
+
+
+
+Assistant to the Director 
+Pu blicity 
+Membership 
+
+
+
+Everett Ellin 
+Ann S. Helmuth 
+Lucinda Hawkins 
+
+
+
+Business Administrator 
+
+
+
+Glenn H. Easton, Jr. 
+
+
+
+Administrative Assistant 
+Office Manager 
+Purchasing Agent 
+Sales Supervisor 
+Building Superintendent 
+Head Guard 
+
+
+
+Viola H. Gleason 
+Agnes R. Connolly 
+Elizabeth M. Funghini 
+Judith E. Stern 
+Peter G. Loggin 
+Fred C. Mahnken 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+E. Irwin Blomstrann, p. 13 bottom 
+
+Ferdinand Boesch, p. 50 
+
+Geoffrey Clements, p. 30 
+
+Hickey and Robertson, pp. 31, 33 
+
+Robert Mates, pp. 13 top and center, 18, 29, 32, 37, 45, 46, 51 
+
+Eric Pollitzer, p. 28 
+
+Nathan Rabin, p. 39 
+
+John D. Schiff, pp. 34, 35, 42, 44, 48 
+
+Charles Swedlund, p. 43 
+
+Taylor and Dull, p. 49 
+
+
+
+Exhibition 67/2 May 1967— June 1967 
+
+2,000 copies of this catalogue 
+
+designed by Herbert Matter 
+
+have been printed by Sterlip Press 
+
+in April 1967 
+
+for the Trustees of The Solomon R. Guggenheim Foundation 
+
+on the occasion of the exhibition 
+
+"Joseph Cornell" 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM 
+
+
+
+1071 FIFTH AVENUE, NEW YORK 10028 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0034   0.0034      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0047   0.0012      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0060   0.0013     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0092   0.0032   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0094   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0896   0.0802              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=89;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

@@ -1,0 +1,2187 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Nine artists : Theodoron awards"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/nineartiststheod00solo">Nine artists : Theodoron awards</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/nineartiststheod00solo">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Digitized by the Internet Archive 
+
+in 2012 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/nineartiststheodOOsolo 
+
+
+
+The Solomon R. Guggenheim Museum, New York 
+
+
+
+NINE ARTISTS: THEODORON AWARDS 
+
+
+
+The Solomon R. Guggenheim Foundation 
+
+President Peter 0. Lawson-Johnston 
+
+Trustees H. H. Arnason, The Right Honorable Earl Castle 
+Stewart, Joseph W. Donner, Mason Welch Gross, 
+Eugene W. Leake, Frank R. Milliken, A. Chauncey 
+Newlin, Mrs. Henry Obre, Albert E. Thiele, 
+Michael F. Wettach 
+
+
+
+The Solomon R. Guggenheim Museum 
+
+
+
+Director 
+Staff 
+
+
+
+Published by 
+
+The Solomon R. Guggenheim Foundation, 
+
+New York, 1977 
+
+ISBN 0-89207-008-0 
+
+Library of Congress Card Catalogue Number 77-71597 
+
+© The Solomon R. Guggenheim Foundation, 1977 
+
+Printed in the United States 
+
+
+
+Thomas M. Messer 
+
+Henry Berg, Deputy Director 
+
+Susan Halper, Executive Assistant; Vanessa Jalet. 
+Secretary to the Director. 
+
+Louise Averill Svendsen, Curator; Diane Waldman, 
+Curator of Exhibitions; Margit Rowell, Curator of 
+Special Exhibitions; Angelica Zander Rudenstine, 
+Research Curator; Linda Konheim, Curatorial 
+Administrator; Linda Shearer, Assistant Curator; 
+Carol Fuerstein, Editor; Mary Joan Hall, Librarian; 
+Ward Jackson, Archivist; Susan Ferleger, Clair 
+Zamoiski, Curatorial Assistants. 
+
+Mimi Poser, Public Affairs Officer; Miriam Emden, 
+Members' Representative; Carolyn Porcelli, Public 
+Affairs Coordinator. 
+
+Jane E. Heffner, Development Officer. 
+
+Agnes R. Connolly, Auditor; Kurt Struver, Business 
+Officer; Philip Almeida, Restaurant Manager; 
+Elizabeth McKirdie, Business Assistant; Darrie 
+Hammer, KatherineW. Briggs, Information. 
+
+David Roger Anthony, Technical Officer; Orrin H. 
+Riley, Conservator; Lucy Belloli, Associate 
+Conservator; Dana L. Cranmer, Technical 
+Manager; Elizabeth M. Funghini, Cherie A. 
+Summers, Associate Registrars; Saul Fuerstein, 
+Preparator; Scott A. Wixon, Operations 
+Coordinator; David Mortensen, Carpenter; Robert 
+E. Mates, Photographer; Mary Donlon, Assistant 
+Photographer; Lola T. Fiur, Photography 
+Coordinator. 
+
+
+
+Peter G. Loggin, Building Superintendent; Guy 
+Fletcher, Jr., Assistant Building Superintendent; 
+Charles F. Banach, Head Guard. 
+
+
+
+Artists in the Exhibition 
+
+
+
+John Duff 
+Steve Gianakos 
+Darryl Hughto 
+Michael Hurson 
+Mary Miss 
+Elizabeth Murray 
+Katherine Porter 
+Allen Ruppersberg 
+James Surls 
+
+
+
+Nine Young Artists: Theodoron Awards, 1969 
+
+Dan Christensen 
+Barry Flanagan 
+Bruce Nauman 
+Gerhard Richter 
+James Seawright 
+Richard Serra 
+John Walker 
+Peter Young 
+Gilberto Zorio 
+
+
+
+Ten Young Artists: Theodoron Awards, 1971 
+
+Power Boothe 
+Ron Cooper 
+Billy Bryant Copley 
+Mary Corse 
+Guy Dill 
+Andrew Gerndt 
+Harriet Korman 
+Dona Nelson 
+Michael Singer 
+George Trakas 
+
+
+
+Preface 
+
+
+
+Throughout its history the Guggenheim Museum 
+has been concerned with generations of rising 
+young artists. But only in 1969 did it become 
+possible for the Museum to establish a series of 
+exhibitions of younger artists as well as a program 
+to purchase one work by each participant in 
+these shows, when Theodoron, a foundation com- 
+prised of anonymous members, made its first 
+contribution to these ends. Now the importance 
+of these exhibitions as well as the purchases 
+related to them looms larger than at the time 
+they took place. The listing in this catalogue of 
+participants — so many of whom are now well- 
+known — in the two previous Theodoron shows 
+should underline this fact. 
+We are deeply indebted to Theodoron for pro- 
+viding the means to initiate this program and for 
+guaranteeing it single-handedly in 1969 and in 
+1971. Theodoron remains a contributor to the 
+current, third installment of the series but is 
+joined by Mr. and Mrs. Irving Rossi, Mr. and Mrs. 
+Sidney Singer and The Walter Foundation, whose 
+generosity helps guarantee the acquisitions so 
+important to the Museum and the artist alike. It 
+is our great hope that we will be able to carry out 
+this combined exhibition and acquisition program 
+more frequently in the future, and that the funds 
+upon which such an enterprise depends will be 
+forthcoming with regularity. 
+The artists and their works were chosen for the 
+present show by Linda Shearer, the Guggenheim's 
+Assistant Curator, who thereby follows Edward 
+F. Fry and Diane Waldman, curators of 
+Theodoron's first two installments, in an effort 
+to assess a fragment of the current scene and ar- 
+ticulate it in an accompanying catalogue text. 
+While the Theodoron show was originally con- 
+ceived of as international, the second and third 
+have focused on American art. Another series, 
+pioneered by the exhibition Amsterdam-Paris- 
+Dusseldort in 1972, will be continued to present 
+young international talent. 
+Thomas M. Messer, Director 
+The Solomon R. Guggenheim Museum 
+
+
+
+Acknowledgements 
+
+
+
+Any exhibition is a collaborative effort, but a group 
+show is especially so. Members of the Guggen- 
+heim Museum staff have contributed a great deal: 
+Ward Jackson has visited many studios, viewing 
+work by young, often unknown artists and has 
+graciously shared his experiences with me; Diane 
+Waldman, the Guggenheim's Curator of Exhibi- 
+tion's, has provided valuable suggestions and sup- 
+port. I am also very grateful to Susan Ferleger, 
+who has assisted me on all stages of both the 
+catalogue and the exhibition, as well as Carol 
+Fuerstein, the Museum's Editor, whose supervision 
+of the catalogue has been most helpful. 
+I would also like to reiterate Thomas Messer's 
+expression of appreciation to the donors whose 
+contributions have made it possible for us to add 
+important works to our permanent collection. 
+Douglas Baxter, Miani Johnson, Renee and David 
+McKee. Murray Smither and Stewart Waltzer have 
+all been most generous with their time, and I am 
+very grateful. I would also like to extend my sin- 
+cere thanks to the lenders. 
+Finally, it must be stated that the exhibition could 
+not have been realized without the great enthusi- 
+asm and cooperation of the participating artists. It 
+was a great pleasure to work with each one of 
+them. 
+
+L.S. 
+
+The reproductions in the catalogue are not in all 
+cases illustrations of the works in the exhibition. 
+The lenders and the checklist of the exhibition 
+are listed in a separate insert. 
+
+
+
+Introduction 
+
+
+
+Despite the absence of historical perspective, it 
+seems fair to observe now that the 70's may well 
+pass without producing the kind of revolutionary 
+stylistic innovations which have occurred in previ- 
+ous periods. In the 60's, for example. Pop Art. Color 
+Field Painting and Minimalism emerged with sud- 
+den and unexpected force. These were movements 
+of remarkable richness and a pervasive influence. 
+It is against this background that artists reaching 
+maturity in the 70's are compelled to define a new 
+sensibility relevant to their specific needs. I tend to 
+think that the art of the 70s will ultimately be un- 
+derstood as a time in which the younger artists 
+were concerned with highly individual statements, 
+more consistent with their sense of personal de- 
+velopment than with a group identity. The art of 
+the 70's has not taken the form of an explicit and 
+radical rejection of the past; often inherent in this 
+new work is a clear acknowledgement of these 
+very sources. It is. however, in a consideration of 
+the individual artists and their relation to each 
+other that the nature of their unique responses 
+may best be suggested. 
+
+Darryl Hughto and John Duff are artists who focus 
+directly on the internal structural dynamics of their 
+painting and sculpture. Self-contained and self- 
+referential, their specific structures tend to define 
+themselves. Hughto asserts a compositional for- 
+mat of latent equilibrium in his canvases, which he 
+feels free to elaborate or confound. Duff's other- 
+wise formal constructions become, through his 
+unique exploration of materials, unpredictable. 
+While Elizabeth Murray and Katherine Porter are 
+also involved with formal values in their paintings, 
+these two artists are more openly concerned with 
+an articulation of conflict. Not only is it conflict of a 
+personal, inner nature, but it is also anxiety result- 
+ing from the effort to resolve problems raised by 
+the history of abstract painting and their need to 
+establish a place in that history. In Murray's work 
+there is an overwhelming expression of struggle in 
+which discord itself seems to become the content; 
+her compulsive handling of paint reinforces and 
+vitalizes the tension inherent in her deliberate 
+
+
+
+awkwardness. In Porter's art, this conflict finds its 
+expression in a painterly exploration of those 
+sources and traditions with which she feels most 
+personally aligned. 
+
+In his miniature balsa-wood environments and se- 
+quentially composed paintings, Michael Hurson is 
+constructing a world of fantasy in which places 
+and characters seem to exist in suspended mo- 
+ments of time. They (especially the environments) 
+are created with and express an intimacy verging 
+on voyeurism. Hurson's rooms allude to a private 
+but untold story of their unseen inhabitants, and 
+his paintings seem to depict situations cut free 
+from their narrative context. Mary Miss' human- 
+scale structures are also intimate, but the experi- 
+ence of them is a participatory one. an evocative 
+encounter which remains ultimately elusive. The 
+sculpture inevitably suggests that it might be func- 
+tional, yet it exists solely as a concrete statement 
+of its own relationship to a particular space. James 
+Surls alludes to the ritualistic quality of the object 
+in his totemic wooden sculptures, as well as to the 
+ritual involved in the activity of making them. The 
+quality of whimsy and humor in his work seems to 
+undercut and balance the self-seriousness inher- 
+ent in the contemporary assimilation of primitive 
+art. Finally, in contrast to Surls' work, which en- 
+gages us as a participant in the experience of its 
+making, the fictional worlds of Steve Gianakos and 
+Allen Ruppersberg depend on the detached obser- 
+vations of the artist as commentator. Gianakos 
+relies on the formal realization of his images for 
+the credibility of his humor. Ruppersberg. on the 
+other hand, achieves his irony by copying others' 
+work, interjecting his own statements in these 
+copies, continuously removing himself from the 
+original source of his art and playing upon the 
+many levels of the act of creation. 
+Diversity seems, then, to be the most salient char- 
+acteristic of the art of the 70s. However, this di- 
+versity, read in its appropriate historical context, 
+points to the ironic situation in which both the art- 
+ist and curator find themselves today. The 60's 
+were a time of confrontation, rapid change and 
+
+
+
+media saturation. During this period, art, which 
+had hitherto been considered esoteric, became 
+dramatically visible and broadly accessible to the 
+public at large. Art reached a wide, if sometimes 
+unsympathetic audience, and the artist became an 
+accepted, if not fully integrated member of society, 
+presented with greater opportunities for exposure 
+and hence recognition. On the other hand, this un- 
+accustomed acceptability has limited the younger 
+artist in unexpected ways and has demanded a 
+kind of painful withdrawal from group identifica- 
+tion. Artists today seem to emphasize their individ- 
+ual, private development at all costs, even at the 
+risk of losing this recently gained public aware- 
+ness of art. 
+
+Critically self-conscious, these artists have 
+reached the point at which they feel compelled to 
+go beyond the acceptable, even to the extent of a 
+deliberate denial of talent in the sense of facility. 
+This is not symptomatic of a failure of individual 
+talent, but rather indicative of a realistic aware- 
+ness that talent is so abundant that it is simply not 
+enough. To be good is the rule, not the exception. 
+
+This type of self-questioning originated in the mid- 
+60's with Minimal Art and in the early 70's when 
+reaction to the formalist, object-oriented art of the 
+60's was expressed in a number of ways, in partic- 
+ular with Conceptual Art, Earthworks and Body 
+Art. Artists renounced the preciosity of the object 
+and abandoned the studios and galleries for the 
+greater freedom of intellectual space, vast geo- 
+graphic areas or even the physicality of their own 
+bodies. The ambitious programs of the Conceptual 
+and Earthwork artists resonated with romanticism, 
+even a kind of heroism, much like that of the New 
+York School of the 50's. However, the younger 
+artists of the later 70's, while no less consumed 
+with the struggle of self-exploration, have begun 
+to avoid if not the entire heroic myth, at least the 
+heroic posture. Wall-size canvases, like those of 
+Pollock. Newman and Still, or even large scale 
+decorative painting, comparable to the art of Stella 
+and Olitski, are rarely seen in the 70's, for many 
+artists are rejecting the notion that art must be 
+monumental in order to qualify for a place in the 
+
+
+
+history of art. They feel that the associations of 
+monumentality must be stripped away in order to 
+allow the spectator a direct experience of the work 
+itself. As a result, a great deal of small painting 
+and sculpture is being produced, and many artists 
+now feel free to work with equal intensity in both 
+small and large scale. Behind this new freedom is 
+the conviction that only through a very personal 
+commitment can they hope to revitalize scale as 
+an aesthetic issue. 
+
+Their new attitude toward scale parallels, in many 
+ways, their reassessment of the role of materials. 
+While their choice of materials seems to suggest 
+rather disparate intentions, it is necessary to inves- 
+tigate the actual handling of those chosen mate- 
+rials as they function within the framework of the 
+individual's work. Where artists of the 60's placed 
+a high premium on the formal values created by 
+different materials, the artists of the 70's seem re- 
+luctant to experiment with these formal devices 
+because they might tend to overwhelm the more 
+personal, even slightly eccentric nature of their 
+work. The selection and exploration of materials 
+as an end in itself was, of course, crucial to the 
+more structurally concerned artists of the last 
+decade. 
+
+The point is. not surprisingly, since we are talking 
+about artists reaching their maturity in the mid- 
+70's, that these nine, seen as a group, do seem in 
+fact to share some common response to the ex- 
+perience of making art. The question must be 
+asked directly: does their diversity suggest the col- 
+lapse of contemporary sensibility, or does it indi- 
+cate in fact a new emerging sensibility relevant to 
+the 70's? Surely the question is rhetorical. The 
+statements made by this group of artists should be 
+seen as an unequivocally positive assertion of 
+identity, despite their extreme diversity. Most im- 
+portantly, it is precisely in this diversity among 
+young artists who are struggling to resolve the 
+sources and conflicts inherent in their own per- 
+sonal development, that we should attempt to read 
+the most articulate statement of this period. 
+Linda Shearer 
+
+
+
+John Duff 
+
+
+
+Born in Lafayette, Indiana, 1943 
+Lives in New York City 
+
+Education 
+
+San Francisco Art Institute, 1963-67, B.F.A. 
+
+One-Man Exhibitions 
+
+Brady Gallery, San Francisco, 1967 
+
+David Whitney Gallery, New York, 
+
+September 19 - October 10, 1970 
+
+Galerie Ricke, Cologne, February 1971 
+
+David Whitney Gallery, New York, 
+
+October 16 - November 9, 1971 
+
+John Bernard Myers Gallery, New York, 
+
+March 11-30, 1972 
+
+Janie C. Lee Gallery, Dallas, 
+
+November 1 1 - December 4, 1972 
+
+Irving Blum Gallery, Los Angeles, 
+
+November 14 - December 9, 1972 
+
+John Bernard Myers Gallery, New York, 
+
+March 3-29, 1973 
+
+Daniel Weinberg Gallery, San Francisco, 
+
+January 8 - February 4, 1974 
+
+Willard Gallery, New York, 
+
+March 15- April 17, 1975 
+
+Daniel Weinberg Gallery, San Francisco, 
+
+December 16, 1975 - January 17, 1976 
+
+Willard Gallery, New York, March 6 - April 5, 1976 
+
+Selected Group Exhibitions 
+
+Whitney Museum of American Art, New York, 
+
+Anti-Illusion: Procedures /Materials. 
+
+May 19- July 6, 1969 
+
+Galerie Ricke, Cologne, Programm III: Bilder, 
+
+Skulpturen, Objekte, Zeichnungen, 
+
+June 26 - September 1970 
+
+Whitney Museum of American Art, New York, 
+
+1970 Annual Exhibition: Contemporary American 
+
+Sculpture, December 12, 1970 - February 7, 1971 
+
+Whitney Museum of American Art, New York, 
+
+7972 Annual Exhibition: Contemporary American 
+
+Painting, January 25 - March 19, 1972 
+
+Willard Gallery, New York, Group Show: Drawings, 
+
+January 4 - February 8, 1975 
+
+
+
+John Duff 
+
+Triangle Piece. 1970 
+
+Wood and fiberglas, 31 x 60" 
+
+Collection of the artist 
+
+
+
+■ 
+
+
+
+
+John Duff 
+
+Stretching a Point. 1976 
+
+Steel, 72 x 72 x 48" 
+
+Courtesy Willard Gallery, New York 
+
+
+
+
+10 
+
+
+
+Steve Gianakos 
+
+
+
+Born in New York City, 1938 
+Lives in New York City 
+
+Education 
+
+Pratt Institute, Brooklyn, New York, 1960-64, B.F.A. 
+
+One-Man Exhibitions 
+
+Fischbach Gallery, New York, 
+September 10 - October 3, 1968 
+The Clocktower, New York. 
+November 21 - December 21, 1974 
+Alessandra Gallery, New York, 
+November 13 - December 8, 1976 
+
+Selected Group Exhibitions 
+
+A.M. Sachs Gallery, New York, The Dimensional 
+
+Surface, October 25 - November 1 2, 1 966 
+
+The Jewish Museum, New York, A Plastic 
+
+Presence, November 19, 1969 - January 4, 1970. 
+
+Traveled to Milwaukee Art Center, January 30- 
+
+March 8; San Francisco Museum of Art, 
+
+April 24- May 24. 1970 
+
+The Museum of Modern Art, New York, Homers: 
+
+Selections from the Art Lending Service, 
+
+Penthouse Exhibition, April 20 - May 25, 1973 
+
+The Museum of Modern Art, New York, Works on 
+
+Paper: Selections from the Art Lending Service, 
+
+Penthouse Exhibition, February 25 - May 24, 1974 
+
+Lewiston, New York, Art Park, 
+
+July 29 -August 11, 1974 
+
+Art Gallery of Ontario, Toronto, Chairs, 
+
+January 18 -March 2, 1975 
+
+Fine Arts Gallery, University of Colorado Museum, 
+
+Boulder, Allusions: Gianakos / Schmidt / Strider , 
+
+June 15- August 13, 1976 
+
+P.S. 1 , Institute for Art and Urban Resources, 
+
+Long Island City, New York, Rooms P.S. 1, 
+
+June 10-26, 1976 
+
+Upton Hall Gallery, State College at Buffalo, 
+
+January, January 17-31, 1977. 
+
+Organized by Hallwalls 
+
+Institute of Contemporary Art, University of 
+
+Pennsylvania, Philadelphia, Improbable Furniture, 
+
+March 10- April 15, 1977. Will travel to La Jolla 
+
+Museum of Art, May 16- July 6 
+
+
+
+11 
+
+
+
+Steve Gianakos 
+
+Bowling lor Dogs 1. 1976 
+
+Ink on paperboard, 24% x 20" 
+
+Collection of the artist 
+
+
+
+
+
+■ ■ 
+
+
+
+■iX 
+
+
+
+12 
+
+
+
+Steve Gianakos 
+
+Bowling for Dogs 2. 1976 
+
+Ink on paperboard, 24% x 20" 
+
+Collection of the artist 
+
+
+
+
+13 
+
+
+
+Darryl Hughto 
+
+
+
+Born in Watertown, New York, 1943 
+Lives in Syracuse, New York 
+
+Education 
+
+State University of New York, Buffalo, 
+1961-65, B.S. 
+
+Cranbrook Academy of Art, Bloomfield Hills, 
+Michigan, 1967-69, M.F.A. 
+
+
+
+One-Man Exhibitions 
+
+James Yaw Gallery, Birmingham, Michigan, 
+
+February 5-24, 1971 
+
+Tibor de Nagy Gallery, New York, 
+
+October 30 - November 18, 1971 
+
+David Gallery, Pittsford, New York, 
+
+January 7-23, 1973 
+
+Everson Museum of Art, Syracuse, New York, 
+
+March 1-26, 1973 
+
+Tibor de Nagy Gallery, New York, 
+
+April 28 -May 17, 1973 
+
+Tibor de Nagy Gallery, New York, 
+
+March 30 -April 18, 1974 
+
+Watson/de Nagy Gallery &amp; Co., Houston, 
+
+July 11 -August 3, 1974 
+
+Russell Sage College, Troy, New York, 
+
+October 10 - November 1, 1974 
+
+Watson/de Nagy Gallery &amp; Co., Houston, 
+
+July 2- August 2, 1975 
+
+Tibor de Nagy Gallery, New York 
+
+February 14 - March 4, 1976 
+
+Watson/de Nagy &amp; Co., Houston, 
+
+December 4, 1976 - January 5, 1977 
+
+Nina Freudenheim Gallery, Buffalo, 
+
+February 5 - March 3, 1977 
+
+Tibor de Nagy Gallery, New York, 
+
+February 19 - March 10, 1977 
+
+Selected Group Exhibitions 
+
+Everson Museum of Art, Syracuse, New York, 
+
+15th Syracuse Regional, March 4 - April 16, 1967 
+
+Detroit Institute of Arts, 58th Exhibition for 
+
+Michigan Artists, December 15, 1970 - 
+
+February 7, 1971 
+
+Lubin House, Syracuse University, Syracuse, 
+
+New York, New Faculty Show, March 21 - 
+
+April 17, 1972 
+
+Watson/de Nagy Gallery &amp; Co., Houston [Group 
+
+Exhibition], November 8-28, 1973 
+
+Watson/de Nagy Gallery &amp; Co., Houston [Group 
+
+Exhibition], June 13 - July 6, 1974 
+
+
+
+14 
+
+
+
+Darryl Hughto 
+
+Whippoorwill and Wind. 1976 
+Acrylic on canvas, 58 x 88" 
+Collection Susan Roth, Syracuse 
+
+
+
+
+15 
+
+
+
+Darryl Hughto 
+
+Veronica. 1976 
+
+Acrylic on canvas, 78 x 67" 
+
+Courtesy Tibor de Nagy Gallery, New York 
+
+
+
+
+16 
+
+
+
+Michael Hurson 
+
+
+
+Born in Youngstown, Ohio, 1941 
+Lives in New York City 
+
+Education 
+
+School of The Art Institute of Chicago, 1959-63 
+Oxbow Summer School of Painting, 
+Saugatuck, Michigan, 1960, 1961 
+Yale University Summer School of Music and Art, 
+Norfolk, Connecticut, Summer 1962 
+
+
+
+One-Man Exhibitions 
+
+Michael Wyman Gallery, Chicago, January, 1972 
+Museum of Contemporary Art, Chicago, 
+September 15 - November 11, 1973 
+The Museum of Modern Art, New York, 
+Projects: Michael Hurson, 
+September 16 - October 20, 1974 
+
+Selected Group Exhibitions 
+
+The Art Institute of Chicago, Sixty-Fourth Annual 
+
+Exhibition by Artists of Chicago and Vicinity, 
+
+March 31 - May 28, 1961 
+
+The Art Institute of Chicago, Sixty-Fifth Annual 
+
+Exhibition by Artists of Chicago and Vicinity, 
+
+April 19- June 2, 1963 
+
+University of Chicago [Group Exhibition], 1963 
+
+The Art Institute of Chicago, Sixty-Seventh Annual 
+
+Exhibition by Artists ot Chicago and Vicinity, 
+
+May 1-31, 1964 
+
+B.C. Holland Gallery, Chicago [Group Exhibition], 
+
+June 1964 
+
+The Art Institute of Chicago, Seventy-Fourth 
+
+Annual Exhibition by Artists of Chicago and 
+
+Vicinity, March 30 - May 6, 1 973 
+
+The Metropolitan Museum of Art, New York, 
+
+Twentieth Century Accessions: 1967-1974, 
+
+March 7 -April 23, 1974 
+
+The Renaissance Society at the University of 
+
+Chicago. Contemporary Still Life, 
+
+October 6-26, 1974 
+
+Society of Contemporary Art, The Art Institute 
+
+of Chicago, The Small Scale in Contemporary Art, 
+
+May 8- June 15, 1975 
+
+Alessandra Gallery, New York, Inaugural 
+
+Exhibition, October 4-28, 1975 
+
+Willard Gallery, New York, Selections, 
+
+February 7 - March 4, 1976 
+
+Paula Cooper Gallery, New York 
+
+[Group Exhibition], June 19- July 30, 1976 
+
+Paula Cooper Gallery, New York 
+
+[Group Exhibition], January 4-27, 1977 
+
+Institute of Contemporary Art, University of 
+
+Pennsylvania, Philadelphia, Improbable 
+
+Furniture, March 10 -April 15, 1977. Will travel to 
+
+La Jolla Museum of Art, May 16 -July 6 
+
+
+
+17 
+
+
+
+Michael Hurson 
+
+Corner of a Studio View ol an Exhibition (details). 1973 
+Balsa wood, 9Vb x 28 x 8 7 /a" 
+Collection of the artist 
+
+
+
+
+
+18 
+
+
+
+Michael Hurson 
+
+Edward and Otto Piatt. 1974-75 
+
+Oil and silkscreen on canvas, 36 x 96" 
+
+Collection of the artist 
+
+
+
+
+19 
+
+
+
+Mary Miss 
+
+
+
+Born in New York City, 1944 
+Lives in New York City 
+
+Education 
+
+University of California, Santa Barbara, 
+1962-66, B.A. 
+
+Colorado College, Fine Arts Center. 
+Colorado Springs, Summer 1964 
+Rinehart School of Sculpture, Maryland 
+Institute of Art, Baltimore, 1966-68, M.F.A. 
+
+One-Woman Exhibitions 
+
+55 Mercer Gallery, New York, 
+
+December 18, 1971 - January 7, 1972 
+
+55 Mercer Gallery, New York, 
+
+November 4-22, 1972 
+
+Salvatore Ala Gallery, Milan, opened April 29, 1975 
+
+Rosa Esman Gallery, New York, 
+
+October 28 - November 15, 1975 
+
+The Museum of Modern Art, New York, Projects: 
+
+Mary Miss, November 14 - December 2, 1976 
+
+
+
+Outdoor Installations 
+
+Allen Memorial Art Museum, Oberlin College, 
+Oberlin, Ohio, 1973. See Oberlin exhibition, 
+1973, Selected Group Exhibitions below. Piece 
+permanently installed, 1975. 
+Battery Park City Landfill, New York, 
+December 1-30, 1973 
+
+Greenwich, Connecticut, December 1974-75 
+Art Park, Lewiston, New York, 
+July 12 -mid September 1976 
+
+Selected Group Exhibitions 
+
+Whitney Museum of American Art, New York, 
+
+1970 Annual Exhibition: Contemporary American 
+
+Sculpture, December 12, 1970 - February 7, 1971 
+
+The Aldrich Museum of Contemporary Art, 
+
+Ridgefield, Connecticut, Twenty-Six Contemporary 
+
+Women Artists, April 18- June 13, 1971 
+
+Kunsthaus, Hamburg, American Women Artists, 
+
+April 14 -May 14, 1972 
+
+Whitney Museum of American Art, New York, 
+
+7973 Biennial Exhibition: Contemporary American 
+
+Art, January 10 - March 18, 1973 
+
+The Museum of Modern Art, New York, 
+
+Seven: Selections from the Art Lending Service, 
+
+Penthouse Exhibition, February 9 - March 20, 1973 
+
+Allen Memorial Art Museum, Oberlin College, 
+
+Oberlin, Ohio, Four Young Americans, 
+
+April 29 -May 27, 1973. 
+
+Hayden Gallery, Massachusetts Institute of 
+
+Technology, Cambridge, Interventions in 
+
+Landscape: Projects /Documentation /Film /Video, 
+
+April 12- May 11, 1974 
+
+P.S. 1 , Institute for Art and Urban Resources, 
+
+Long Island City, New York, Rooms P.S. 1, 
+
+June 10-26, 1976 
+
+Academie der Kunst, Berlin, New York/Downtown 
+
+Manhattan: Soho, September 5 - October 17, 1976 
+
+Williams College Museum of Art, Williamstown, 
+
+Massachusetts. Four Artists, December 1-23, 1976 
+
+
+
+20 
+
+
+
+Mary Miss 
+
+Untitled. 1973 
+
+Wood, 84 x 84 x 30" 
+
+Allen Memorial Art Museum, Oberlin College 
+
+
+
+
+
+21 
+
+
+
+Mary Miss 
+
+Untitled. 1975 
+
+Wood, galvanized steel and paint, 78 x 216 x 36" 
+
+Collection of the artist 
+
+
+
+
+22 
+
+
+
+Elizabeth Murray 
+
+
+
+Born in Chicago, 1940 
+Lives in New York City 
+
+Education 
+
+School of The Art Institute of Chicago, 
+1958-62, B.F.A. 
+
+Mills College, Oakland, California, 
+1962-64, M.F.A. 
+
+
+
+One-Woman Exhibitions 
+
+Jared Sable Gallery, Toronto, 
+May 24- June 14, 1975 
+Paula Cooper Gallery, New York, 
+November 2-27, 1976 
+
+Selected Group Exhibitions 
+
+Whitney Museum of American Art, New York, 
+
+1972 Annual Exhibition: Contemporary American 
+
+Painting, January 25 - March 19, 1972 
+
+Whitney Museum of American Art, New York, 
+
+7973 Biennial Exhibition: Contemporary American 
+
+Art, January 10- March 18, 1973 
+
+Jacobs Ladder Gallery, Washington, D.C., 
+
+1 + 1 =3 
+
+Murray + Zucker = Surfaces, Images, 
+
+Transformations, February 9 - March 6, 1974 
+
+The Downtown Whitney Museum, New York, 
+
+Continuing Abstraction in American Art, 
+
+September 9 - November 1, 1974 
+
+Paula Cooper Gallery, New York, 
+
+Marilyn Lenkowsky, Elizabeth Murray, 
+
+John Torreano, April 6- May 1, 1974 
+
+Paula Cooper Gallery, New York, 
+
+James Dearing, Elizabeth Murray: Paintings, 
+
+January 1 1 - February 5, 1975 
+
+Michael Walls Gallery, New York, 
+
+Thirty Artists in America: Part I, 
+
+June 7- July 3, 1975 
+
+Hallwalls, Buffalo, Approaching Painting: 
+
+Part Three, February 10- March 1, 1976 
+
+Paula Cooper Gallery, New York [Group 
+
+Exhibition], February 14 - March 4, 1976 
+
+Paula Cooper Gallery, Los Angeles, 
+
+Changing Group Exhibition: Gallery Artists, 
+
+May 25 -June 15, 1976 
+
+Fine Arts Gallery, California State University, 
+
+Los Angeles, New Work/New York, 
+
+October 4-28, 1976 
+
+Paula Cooper Gallery, New York [Group 
+
+Exhibition], January 4-27, 1977 
+
+
+
+23 
+
+
+
+Elizabeth Murray 
+
+Middleground. 1975 
+
+Oil on canvas, 83'/2 x 65" 
+
+Courtesy Paula Cooper Gallery, New York 
+
+
+
+
+24 
+
+
+
+Elizabeth Murray 
+
+Back. 1976 
+
+Oil on canvas, 65 x 99V2" 
+
+Courtesy Paula Cooper Gallery, New York 
+
+
+
+
+25 
+
+
+
+Katherine Porter 
+
+
+
+Born in Cedar Rapids, Iowa, 1941 
+Lives in Belfast, Maine 
+Education 
+
+Colorado College, Colorado Springs, 
+1959-61, received B.A., 1963 
+Boston University, 1962 
+
+
+
+One-Woman Exhibitions 
+
+University of Rhode Island, Kingston, 
+
+March 29 -April 16, 1971 
+
+Parker Street 470 Gallery, Boston, 
+
+May 9- June 5, 1971 
+
+Henri Gallery, Washington, D.C., April 1972 
+
+Parker Street 470 Gallery, Boston, 
+
+April 28- June 2, 1973 
+
+Worcester Art Museum, Worcester, 
+
+Massachusetts, May 1-27, 1973 
+
+Hayden Gallery, Massachusetts Institute of 
+
+Technology, Cambridge, 
+
+November 23- December 21, 1974 
+
+David McKee Gallery, New York, 
+
+November 15 - December 13, 1975 
+
+Harcus-Krakow Gallery, Boston, 
+
+December 4-31, 1976 
+
+Selected Group Exhibitions 
+
+Finch College Museum of Art, New York, 
+
+Betty Parsons' Private Collection, 
+
+March 13 -April 24, 1968 
+
+Obelisk Gallery, Boston, Three if By Air: 
+
+Katherine Porter, Andrew Tavarelli, Anthony 
+
+Thompson, J u ne 1 4 - J u ly 12,1 969 
+
+Whitney Museum of American Art, New York, 
+
+7969 Annual Exhibition: Contemporary American 
+
+Painting, December 16, 1969 - February 1, 1970 
+
+The Boston Studio Coalition, Boston, 
+
+Art— Where it's Made, March 14, 15, 21, 22, 1970 
+
+Parker Street 470 Gallery, Boston, 
+
+The Boston Band, June 6 - July 1970 
+
+Institute of Contemporary Art, Boston, 
+
+Drawings Re-examined, 
+
+October 21 - November 14, 1970 
+
+Whitney Museum of American Art, New York, 
+
+7973 Biennial Exhibition: Contemporary American 
+
+Art, January 10 - March 18, 1973 
+
+Institute of Contemporary Art, University of 
+
+Pennsylvania, Philadelphia, Six Visions: 
+
+Ronald Cohen, Ann McCoy, Richard Nonas, 
+
+Katherine Porter, Douglas Sanderson, Pat Steir, 
+
+October 10 - November 25, 1973 
+
+Michael Walls Gallery, New York, Thirty Artists 
+
+in America: Part I, June 7 - July 3, 1975 
+
+
+
+26 
+
+
+
+Katherine Porter 
+
+Donkey Serenade or the Passing of Time. February 1976 
+Oil on canvas, 60 x 82" 
+
+Collection of the artist. Courtesy David McKee Gallery, 
+New York 
+
+
+
+
+27 
+
+
+
+Katherine Porter 
+
+Clouds. September 1976 
+
+Oil on canvas, 72 x 76" 
+
+Collection ot the artist, Courtesy David McKee Gallery, 
+
+New York 
+
+
+
+
+28 
+
+
+
+Allen Ruppersberg 
+
+
+
+Born in Cleveland, 1944 
+Lives in Santa Monica 
+
+Education 
+
+Chouinard Art Institute, Los Angeles, 
+1962-66, B.F.A, 
+
+One-Man Exhibitions 
+
+Eugenia Butler Gallery, Los Angeles, January 1969 
+
+Pasadena Art Museum, 
+
+September 22 - October 25, 1970 
+
+Amsterdam, Art and Project, 
+
+October 23 - November 6, 1971 
+
+Pomona College Art Gallery, Pomona, California, 
+
+opened October 31, 1972 
+
+Situation Gallery, London, 
+
+February 22- March 21, 1973 
+
+Frangoise Lambert, Milan, 
+
+September 20 - October 19, 1973 
+
+Stedelijk Museum, Amsterdam, 
+
+October 5 - November 25, 1973 
+
+GalerieYvon Lambert, Paris, 
+
+November 15 - December 15, 1973 
+
+Information Gallery, University of California 
+
+at Irvine, September 1973 
+
+Claire Copley, Inc., Los Angeles, 
+
+April 9- May 4, 1974 
+
+Kabinett fur aktuelle Kunst, Bremerhaven, 
+
+Germany, April 1974 
+
+Claire Copley, Inc., Los Angeles, 
+
+January 6-31, 1976 
+
+Texas Gallery, Houston, 
+
+September 25 - October 21, 1976 
+
+
+
+Selected Group Exhibitions 
+
+Seth Siegelaub, New York, March 1969 
+(catalogue exhibition), 1969 
+Kunsthalle, Bern, Live in Your Head /When 
+Attitudes Become Form: Works-Concepts- 
+Processes-Situations-Information, 
+March 22- April 27, 1969 
+Seattle Art Museum Pavilion, 557,087, 
+September 5 - October 5, 1969. 
+Traveled to Vancouver Art Gallery, Vancouver, 
+British Columbia, as 955,000, 
+January 3 - February 18, 1970 
+Allen Memorial Art Museum, Oberlin College, 
+Oberlin, Ohio, Art in The Mind, 
+April 17- May 12, 1970 
+
+Whitney Museum of American Art, New York, 
+7970 Annual Exhibition: Contemporary American 
+Sculpture, December 12, 1970 - February 7, 1971 
+Los Angeles County Museum of Art, 24 Young 
+Los Angeles Artists, May 5 - August 29, 1971 
+The Museum of Modern Art, New York, 
+Projects: Pier 18, July 19 - August 2, 1971 
+Museum Fridericianum, Kassel, Germany, 
+Documenta 5, June 30 - October 8, 1972 
+The Detroit Institute of Arts, 12 Statements 
+Beyond the 60s, September 27 - November 5, 1 972 
+Whitney Museum of American Art, New York, 
+Whitney Biennial of Contemporary Art, 
+January 20- April 9, 1975 
+
+San Francisco Museum of Modern Art, California 
+Painting and Sculpture: The Modern Era, Septem- 
+ber 3 - November 21, 1976. Will travel to National 
+Collection of Fine Arts, Smithsonian Institution, 
+Washington, D.C., May 20 - September 11, 1977 
+
+
+
+29 
+
+
+
+Allen Ruppersberg 
+
+The Footnote. 1976 
+
+Photographs and pencil on paper, 3 panels, each 
+
+50 x 50" 
+
+Collection William Copley, New York 
+
+
+
+IW'iRlM 
+
+
+
+
+ifiJLlfil 
+
+
+
+
+Kffl 5fl*fiu JiiStiUliEl 
+
+
+
+mnd.1T IMbTii 
+
+
+
+
+a 
+
+
+
+Lfl ' 
+
+
+
+
+
+totem n IMriifi 
+
+
+
+
+
+
+iirijftgfflii 
+
+
+
+
+
+
+30 
+
+
+
+Allen Ruppersberg 
+
+A Collection ol Letters/ An Exhibition of Drawings 
+
+(one of a series of twenty). 1976 
+
+Ink on paper, 23 x 29" 
+
+Collection Mrs. John Jakobson, New York 
+
+
+
+
+
+
+
+
+
+^ 
+
+
+
+7/i-&gt; T %s&amp;? V 
+
+
+
+y~' 
+
+
+
+n 
+
+
+
+
+
+
+■f" &gt; 
+
+
+
+
+
+
+:- ; ",' "■, ■', *f "~r&amp;&lt;\"~ ~' J 
+
+.-■-"• 'r ' J '" 
+
+
+
+
+
+
+*i v l 
+
+
+
+r 
+
+
+
+31 
+
+
+
+James Surls 
+
+
+
+Born in Terrell, Texas, 1943 
+
+Lives in Splendora, Texas 
+
+Education 
+
+Sam Houston State College, 
+
+Huntsville, Texas, 1964-66 
+
+Cranbrook Academy of Art, Bloomfield Hills, 
+
+Michigan, 1967-69, M.F.A. 
+
+One-Man Exhibitions 
+
+Tyler Museum of Art, Tyler. Texas, 
+October 17 - November 14. 1974 
+Delahunty Gallery, Dallas, 
+November 16 - December 12, 1974 
+Contemporary Arts Museum. Houston, 
+March 29 - April 28, 1975 
+Austin College, Sherman, Texas, 
+November 4-25, 1975 
+Delahunty Gallery, Dallas, 
+January 21 - February 23, 1977 
+
+Selected Group Exhibitions 
+
+Arkansas Arts Center, Little Rock 
+
+14th Annual Delia Art Exhibition, 
+
+October 29 - November 28, 1971 
+
+Arkansas Arts Center, Little Rock, 
+
+15th Annual Delta Art Exhibition. 
+
+opened October 12, 1972 
+
+Art Gallery, Del Mar College, Corpus Christi, 
+
+Texas, 8th Annual National Drawing and Small 
+
+Sculpture Exhibition, May 1-31, 1974 
+
+Contemporary Arts Museum, Houston, 12 Texas 
+
+Artists, September 27 - November 20, 1974 
+
+Witte Memorial Museum, San Antonio, 
+
+Texas Tough, September 1 1 - November 15, 1975 
+
+Fort Worth Art Museum, Exchange: DFW/SFO, 
+
+July 27 - September 7, 1975. Traveled to San 
+
+Francisco Museum of Modern Art, 
+
+January 26- March 21, 1976 
+
+University Gallery, Southern Methodist 
+
+University, Dallas, The Dog Show, December 1975 
+
+Union Gallery, California State University, 
+
+Los Angeles, Tex/Lax: Texas in L.A.. 
+
+January 5-29, 1976 
+
+Lewiston, New York, Art Park, 
+
+June 30 -July 23, 1976 
+
+
+
+32 
+
+
+
+James Surls 
+
+/ Saw a Man with Shovels in His Hands Scooping Fire 
+
+from the Sky. 1975 
+
+Pine, 114x132x24" 
+
+Courtesy Delahunty Gallery, Dallas 
+
+
+
+
+James Surls 
+
+Hurricane. 1976 
+
+Pine and post oak, 48 x 108 x 49" 
+
+Courtesy Delahunty Gallery, Dallas 
+
+
+
+
+34 
+
+
+
+Photographic Credits 
+
+
+
+Geoffrey Clements Photography: pp. 24, 25 
+
+Jeffrey Debevec: p. 34 
+
+Gary Krueger: pp. 30, 31 
+
+Lorenz/Main St.: pp. 15. 16 
+
+Robert E. Mates: pp. 12, 13 
+
+Mary Miss: pp.21, 22 
+
+Photography by Eric Pollitzer: p. 19 
+
+Rob Savage: p. 18 
+
+Steven Sloman, Fine Arts Photography: pp. 27, 28 
+
+Gwenn Thomas: pp. 9, 10 
+
+Robert Wharton: p. 33 
+
+
+
+35 
+
+
+
+Exhibition 77/2 
+
+2,000 copies of this catalogue, designed by 
+Malcolm Grear Designers, typeset by Dumar 
+Typesetting, Inc., have been printed by Meriden 
+Gravure in February 1977 for the Trustees of 
+The Solomon R. Guggenheim Foundation. 
+
+
+
+36 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0048   0.0048      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0066   0.0018      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0090   0.0024     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0142   0.0052   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0145   0.0003    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0806   0.0661              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=80;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

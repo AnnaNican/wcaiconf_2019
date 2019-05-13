@@ -1,0 +1,2881 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jack Tworkov: fifteen years of painting : The Solomon R. Guggenheim Museum, New York"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jackfifte00twor">Jack Tworkov: fifteen years of painting : The Solomon R. Guggenheim Museum, New York</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jackfifte00twor">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>Jack Tworkov Fifteen Years of Painting 
+
+
+
+
+
+
+
+■ * 1 1 
+
+
+
+to 
+
+
+
+
+
+
+■ mi,*- 
+
+
+
+
+
+
+
+■ 
+
+
+
+Jack Tworkov 
+
+
+
+Jack Tworkov Fifteen Years of Painting 
+
+
+
+The Solomon R. Guggenheim Museum, New York 
+
+This exhibition is supported by a grant from the National Endowment for the 
+Arts, a Federal Agency 
+
+
+
+
+
+
+
+\ 
+
+
+
+p 
+
+
+
+
+Published by The Solomon R. Guggenheim Foundation, New York, 1982 
+
+ISBN: 0-89207-033-1 
+
+Library of Congress Card Catalog Number: 81-85808 
+
+'c The Solomon R. Guggenheim Foundation, New York, 1982 
+
+Cover: cat. no. 26. Q3-78-&amp;3. 1978 
+
+
+
+The Solomon R. Guggenheim Foundation 
+
+president Peter O. Lawson-Johnston 
+vice-president The Right Honorable Earl Castle Stewart 
+
+trustees Anne L. Armstrong, Michel David-Weill, Joseph W. Donner, Robin Chandler Duke. John Hilson, 
+Harold W. McGraw. Jr., Wendy L.-J. McNeil. Thomas M. Messer. Frank R. Milliken, A. Chauncey 
+Newlin. Lewis T. Preston, Seymour Slive, Albert E. Thiele, Michael F. Wettach, William T. 
+Ylvisaker 
+
+honorary trustees Solomon R. Guggenheim. Justin K. Thannhauser, Peggy Guggenheim 
+
+IN PERPETUITY 
+
+advisory board Elaine Dannheisser, Susan Morse Hilles, Morton L. Janklow, Barbara Jonas. Bonnie Ward 
+Simon. Stephen C. Swid 
+
+staff Henry Berg, Counsel 
+
+Theodore G. Dunker, Secretary-Treasurer; Aili Pontynen. Assistant Treasurer; Barry Bragg, 
+Assistant to the Treasurer; Margaret P. Cauchois. Assistant; Veronica M. O'Connell 
+
+director Thomas M. Messer 
+
+The Solomon R. Guggenheim Museum 
+
+Diane Waldman, Deputy Director 
+staff William M. Jackson. Administrator; Catherine Grimshaw. Administrative Assistant 
+
+Louise Averill Svendsen, Senior Curator; Vivian Endicott Barnett. Research Curator; Lisa 
+
+Dennison, Assistant Curator; Carol Fuerstein. Editor; Sonja Bay, Associate Librarian; Ward 
+
+Jackson, Archivist; Susan B. Hirschfeld, Exhibitions Coordinator; Lucy Flint, 
+
+Curatorial Coordinator 
+
+Margit Rowell, Curator of Special Exhibitions 
+
+Harold B. Nelson, Registrar; Jane Rubin, William J. Alonso. Assistant Registrars; Marion Kahan. 
+Registrar's Coordinator; Saul Fuerstein, Preparator; William Smith. Joseph Montague. Prepara- 
+tion Assistants; Stephanie Stitt. Technical Services Assistant; Scott A. Wixon, Operations 
+Manager; Tony Moore. Assistant Operations Manager; Takayuki Amano. Head Carpenter; 
+Carmelo Guadagno. Photographer; David M. Heald. Associate Photographer; Holly Fullam, 
+Photography Coordinator; Elizabeth Estabrook, Conservation Coordinator 
+Orrin H. Riley. Conservation Consultant 
+
+Mimi Poser, Officer for Development and Public Affairs; Carolyn Porcelli. Ann Kraft, Develop- 
+ment Associates; Susan L. Halper, Membership Associate; Jessica Schwartz. Public Affairs 
+Associate; Cynthia Wootton. Development Coordinator; Michele Rowe-Shields. Public Affairs 
+Coordinator; Linda Gering, Public Affairs Assistant; Susan Berger-Jones, Membership Assistant 
+
+Cynthia M. Kessel. Personnel Associate; Agnes R. Connolly, Auditor; Stephanie Levinson, 
+Sales Manager; James O'Shea. Sales Coordinator; Robert Turner. Restaurant Manager; Maria 
+Masciotti. Assistant Restaurant Manager; Darrie Hammer, Katherine W. Briggs. Information; 
+David A. Sutter. Building Superintendent; Charles Gazzola, Assistant Building Superintendent; 
+Charles F. Banach, Head Guard; Elbio Almiron, Marie Bradley, Assistant Head Guards 
+
+life members Eleanor, Countess Castle Stewart, Mr. and Mrs. Werner Dannheisser. William C. Edwards. Jr.. 
+Mr. and Mrs. Andrew P. Fuller, Mrs. Bernard F. Gimbel. Mr. and Mrs. Peter 0. Lawson-Johnston, 
+Mrs. Samuel I. Rosenman. Mrs. S. H. Scheuer, Mrs. Hilde Thannhauser 
+
+corporate patrons Alcoa Foundation, Atlantic Richfield Foundation, Exxon Corporation, Mobil Corporation, Philip 
+Morris Incorporated 
+
+government patrons National Endowment for the Arts. National Endowment for the Humanities. New York State 
+
+Council on the Arts 
+
+
+
+Lenders to the Exhibition 
+
+
+
+Jacqueline and Myron Blank, Des Moines, Iowa 
+
+Estate of Dr. Louis L. Heyn 
+
+I.B.M. Corporation, New York 
+
+Dr. and Mrs. Leroy Lavine 
+
+Mr. and Mrs. I. M. Pei 
+
+Beatrice Perry, New York 
+
+Jacob Schulman, Gloversville, New York 
+
+JackTworkov 
+
+The Cleveland Museum of Art 
+
+The Solomon R. Guggenheim Museum, New York 
+
+San Francisco Museum of Modern Art 
+
+Nancy Hoffman Gallery, New York 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Y k 
+
+
+
+
+
+Preface and Acknowledgements 
+
+
+
+The mature work of Jack Tworkov clearly divides into two components that 
+at first glance appear remote from, if not incompatible with, each other: his 
+"hot" gestural painting of the 1950s and early 1960s and his "cool" measured 
+work of subsequent years, to use the designations supplied by Andrew Forge 
+in the essay that follows in this catalogue. Since this exhibition is not con- 
+ceived as a full retrospective but as a survey of Tworkov's painting from the 
+last fifteen years, only his later phase is presented here. The selection was so 
+restricted in full agreement with the artist in order to stress the autonomy of 
+the direction he has pursued since 1966. Obviously, an emphasis of this kind 
+is not gained without a concomitant loss — in this instance, the loss of that 
+other Tworkov whose spontaneous Abstract Expressionist canvases of the 
+earlier years assured him a place of honor among the first generation of art- 
+ists who created the new American painting in the wake of World War II. 
+
+In an exhibition concerned with Tworkov's lifework, the absence of the pro- 
+duction of the fifties and the first half of the sixties would be unthinkable, for 
+as Andrew Forge's essay makes plain, the two Tworkovs, ultimately compre- 
+hensible as one, stand to each other in a dialectic relationship that is close to 
+the central meaning of his art. Our purpose, however, is to isolate Tworkov's 
+classic strain and to bring before the viewer works indicative of the range 
+and the fullness of this geometric mode. 
+
+I wish to thank Linda Shearer, who, as Guest Curator of this exhibition, worked 
+closely with the artist in selecting the paintings on display. Her sensitivity and 
+acumen are reflected in the choices made. The exhibition and the accom- 
+panying catalogue are supported by the National Endowment for the Arts — 
+the Federal Agency that has enabled the Guggenheim Museum and other 
+cultural institutions throughout the United States to maintain significant 
+levels of production. 
+
+
+
+Thomas M. Messer, Director 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+The successful realization of this exhibition and catalogue were made pos- 
+sible through the commitment of many individuals. I am, above all, indebted 
+to Jack Tworkov, who has enthusiastically participated in every aspect of the 
+undertaking. I am grateful, too, for the unfailing support of Wally Tworkov, 
+the artist's wife. Thanks are due to Nancy Hoffman, the artist's dealer, and her 
+staff, whose assistance with both exhibition and publication has been invalu- 
+able. Andrew Forge, long the artist'sfriend and admirer, has enriched the 
+catalogue with his cogent essay. I gratefully acknowledge the efforts and ded- 
+ication of numerous members of the Guggenheim Museum staff. In particular, 
+my sincerest thanks areextended to Susan B. Hirschfeld, Exhibitions Coordi- 
+nator, for her indispensable contributions to all phases of the exhibition as 
+well as the catalogue. I am also grateful to Carol Fuerstein, Editor, for her 
+skillful editing of the publication and handling of its production, and to Cyn- 
+thia Clark, Editorial Assistant, for her careful help with the catalogue. Finally, 
+I would like to thank the lenders, without whom this exhibition could not have 
+taken place. 
+
+
+
+Linda Shearer 
+
+
+
+The Knight and the Barrier 
+
+
+
+by Andrew Forge 
+
+
+
+Jack Tworkov has never learned to take his work for granted, nor, one might 
+add, his very existence. The habit of asking questions is ingrained. For the 
+last fifteen years or so his painting has been based on more or less predeter- 
+mined systems of construction, a direction he took in reaction to the cul-de- 
+sac that faced him and many of his Abstract Expressionist colleagues. But "I 
+have misgivings, worries about my present work," he wrote only a year ago. 
+"It's true, system does not exclude spontaneity and fresh invention, but it 
+does include an element of the mechanical, the predictable. My earlier work, 
+although it tended to resolve itself into a predictable style . . . nevertheless . . . 
+was preceded at least at the start, by a void, by the absence of any ascertain- 
+able direction. In contrast, the present paintings begin with exact drawings, 
+almost equivalent to an architect's drawing, and the painting follows the exact 
+surface divisions, proportions and the arrived shapes and forms. Only the 
+actual painting, the work with the brush, and the development of the color and 
+surface is left to the spontaneous decision of the moment." 
+
+How to recover a broader spontaneity, he asks himself in this irritable 
+self-critique, written in a sketchbook on his knee in a train. None of his at- 
+tempts, his tentative studies, have satisfied him. On the contrary, they have 
+seemed less "inspired" than the paintings based on systems. 
+
+So the round goes on. Few artists of his stature have felt so acutely the 
+contradictions implicit in being a painter caught between the inner necessi- 
+ties of the studio and the dubious external relationships given in our be- 
+nighted time. He has an intense longing for content and for meaningful links 
+between what he is doing in the studio and the world outside. This longing is 
+expressed repeatedly in conversation, in writing, in histeaching. He is look- 
+ing for something more than the recognition of a gallery-going public, and at 
+the back of all his questioning of his own studio procedures one senses a 
+larger questioning, addressed to the culture, to the institutions of art, to the 
+sense of self and of community. And out of that larger question there comes 
+an acknowledgement of frailty and of dependence on painting as a continual 
+remaking of the self. "I am not ashamed to confess that I've seen my work . . . 
+not merely as 'a way of life' but as a way to save my life." 
+
+It has been a long working life. Born with the century, Tworkov first 
+showed in the late twenties. He was an easel painter on the Project. After the 
+war he saw, was part of, the massing and breaking of that great wave of ener- 
+gies that produced the School of New York, now dispersed. By temperament 
+he is a man of balance and of conscience — but one for whom the activity of 
+painting is a personal necessity, unreasonable and amoral though it is. 
+
+He has never learned to resolve this contradiction nor to ignore the pain 
+of it. An inveterate journal-keeper, his writing is like an extended critique of 
+
+
+
+10 
+
+
+
+himself and his times in which the most awkward questions are nagged at 
+compulsively over the years. But the habit of asking questions is itself only 
+another reminder of the dichotomies between art and life: "I find I can only 
+work without asking myself questions, without ideas. If I start thinking about 
+meaning — I can only ask questions . . . but I cannot come up with answers that 
+will materially change my work or push it into well-supported directions. . . ." 
+
+Far too fastidious ever to fall into bohemian cliches of creativity, still he 
+has to work with a sense of contradiction between the wordless involvements 
+of the studio and the dialect of "real life." It is not an easy position to hold. Yet 
+he demands a justification for it, something beyond the inflated value the 
+West has put on art. The culte de moi is not enough. "Art can pollute our life 
+as much as technology can pollute our air and water." Modern art, he tells 
+himself in a note of quiet fury, is radical, nihilistic and pessimistic for "it sees 
+no hope in societal values — individual life is without relation to common 
+values — is for itself by itself. This is misery — but where is the way out?" 
+
+It is his fate to contradict, to be more convinced by contradiction itself 
+than by its poles: "I have to believe in an art that does not strive for any overt 
+significance or meaning; an art that does not set out to reflect the world or 
+life...."; but at other times the pain is not to be dispersed with stoicism and 
+his sense of alienation from the present and exile from a richer imagined past 
+is as vivid as it has ever been: "I nevertheless feel some inner deprivation, 
+some sorrowful regret that my art is not more explicitly some expression of 
+existence outside and beyond myself. . . ." 
+
+Writing a few years ago about his use of geometry, I remarked, "Obvi- 
+ously Tworkov is not using it symbolically as it was used in the Christian- 
+Neoplatonic tradition. Nor is he using it as an aesthetic gloss, a guide to pic- 
+torial decorum, as it was its fate to be used in the academies. . . . His love for it 
+is evident, yet he makes no special claim for it either as an aesthetic canon 
+nor as the vehicle for ideas outside painting." And I concluded, "It is utterly 
+neutral, and one supposes that it is precisely this neutrality, this self-evident 
+consistency that is valuable to him. He puts us all on the same level in front of 
+these canvases, as if we were all cousins to that slave of Socrates who . . . was 
+called in to prove the self-evident truth of a geometrical theorem." 
+
+I now feel this was too abrupt. For one thing, no describable feature of 
+any painting of quality is without symbolic value. There is more to be said 
+about the values that accrue to Tworkov's use of geometry, perhaps best by 
+comparing one of his earlier, gestural paintings, and one of his geometrical 
+ones of about twelve years later. The main difference between them can be 
+expressed in terms of a dramatic contrast of distance. It is worth trying to de- 
+scribe the features that contribute to this feeling. 
+
+Barrier Series No. 5 of 1 963 (fig. 1 ), a canvas of about five feet by six and 
+a half, is divided vertically into four roughly drawn sections. They lean some- 
+what to the right. One senses that the section at the far right is leaning slightly 
+out of the picture and that the section at the far left is leaning into it from the 
+outside: there is less of it to be seen than of the others. The painting as a 
+whole has the aspect of a piece or detail of something much larger than itself, 
+a world of long, leaning columns made of flame-like brushstrokes vigorously 
+licking up and down. The colors with which these columns are brushed move 
+from the left from a cold brownish gray through which one can see glints of 
+blue, to a rich warm brown (the second column) to a powerful orange-red, not 
+far from scarlet, the color of the two columns on the right. Crossing over these 
+
+
+
+11 
+
+
+
+fig. 1 
+
+Barrier Series No. 5. 1963 
+Oil on linen 
+
+Courtesy Nancy Hoffman Gallery, 
+New York 
+
+
+
+
+columns, silhouetted in front of them, are three thick bluish black lines that 
+form a fragment of a grid, somewhat bent to the right. A fourth line is buried in 
+the interior of the painting. It runs slanting across the canvas and is visible in 
+the gaps between the long color strokes which envelop it. These strokes — the 
+fiery orange and the brown — make a vigorous advance: they threaten to en- 
+gulf the dark lines on the surface, licking over them here and there, breaking 
+into their edges. 
+
+It is almost impossible to describe the painting without engaging in ani- 
+mistic fantasies: it seems natural to describe the color as hot, fiery, smoulder- 
+ing; the brushstrokes as flaming. From this it is a short step to seeing the 
+leaning and bending of the edges of forms as a reaction to the "heat" of the 
+color, a twisting and buckling as of timbers or girders in intense heat. 
+
+There is of course another line to be followed out — although it is writing 
+that insists on this sequential extension, not the painting. This is the interpre- 
+tation of the painting as the result of studio activity; to read the brushstrokes 
+as gestures, to enter into the athletic, improvisatory history of their making. 
+From this point of view we are drawn into an awesome display of energy. We 
+can sense the shaping of the whole picture by the action of arm and hand. 
+The way that almost every feature leans over to the right is like a right-handed 
+hatching on an enormous scale, a natural orientation of gesture which has 
+become an ordering of the whole surface. 
+
+All these features seen in simultaneous conjunction serve to bring the 
+picture into very close range. A hot, blazing fragment made visible to us by a 
+palpably physical action, we cannot gain distance from it on any terms. The 
+relation between action and the resulting form is one to one. To engage with 
+the picture at all is to be very close to it indeed. 
+
+A painting called Knight Series OC#3 of 1975 (fig. 2) contrasts with 
+Barrier in almost every nameable aspect. Seven and a half feet tall, just over 
+six feet wide, it is divided into a regular grid of one hundred and twenty 
+squares. The square of the shorter side of the canvas, that is the lower ten 
+
+
+
+12 
+
+
+
+ranks of ten squares, provides the field for a smaller square, eight by eight, 
+the divisions of a chessboard. Within this there is contained a more complex 
+geometrical figure. In describing these features to one's self, it seems natural 
+to move from the whole canvas to the way it is divided, from the regular grid 
+of squares to the larger square, the "chessboard." Each stage of the descrip- 
+tion is complete in itself: it does not overlap with another stage. 
+
+The construction lines are plainly visible, a delicate but firm framework 
+for whatever else is to be seen in the painting. The divisions are linear but in 
+most cases reinforced by changes in color. The outer margin of the painting 
+is the most densely brushed, a cool pewter gray. The field of the chessboard 
+is a paler blue-gray. The geometrical figure within the chessboard is divided 
+into different areas of white (the surface of the canvas), pale yellow and a 
+warmergray which in certain areas crosses the yellow. All these colors are 
+applied with a small, uniformly repeated up-and-down stroke worked out in 
+neat rows, four deep to the square. This repeated stroke, which resembles 
+nothing so much as the kind of copybook exercise that used to be given to 
+children when they were being taught to write, is small enough to provide a 
+completely unified surface, open enough to be transparent and vigorous 
+enough to set up a faint background vibration. Where one layer of color is 
+brushed over another, as in the outer margin of the picture, the surface is 
+
+
+
+lig. 2 
+
+Knight Series OC =3. 1975 
+
+Oil on canvas 
+
+Courtesy Nancy Hoffman Gallery, 
+
+New York 
+
+
+
+
+
+
+
+
+13 
+
+
+
+A diagonal grid is formed by dividing 
+the square into three, five and eight 
+segments (left) and connecting all 
+peripheral points to one another 
+(right). Each resulting line is the 
+diagonal of a rectangle. 
+
+Diagram by the artist, fall 1981 
+
+
+
+
+
+
+£*^f-^l "fL v**o*-tf' ***** u l 
+
+
+
+- I i 
+(Util'lj JJ'-fi'i, A'^"-7.J 
+
+
+
+3 
+
+
+
+
+
+c\ 
+
+
+A -4 
+
+
+«.** 
+
+
+«■ 
+
+
+
+
+» 
+
+
+
+
+
+
+
+
+3 
+
+
+
+
+
+
+
+
+•i 
+
+
+
+
+
+
+
+
+^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*-U_&lt;. e^l- '■■■- ^jr* 
+
+
+
+
+
+S£ -; ? 
+
+
+
+
+
+
+^C§r 
+
+
+^--^2V&gt;rV 
+
+
+
+
+
+
+//^^v 
+
+
+
+*» U-t-r—n f W i '** — i 
+
+
+
+ci. r 
+
+
+
+ol+A*s* 
+
+
+
+
+
+
+denser but takes on a more complex tonality, a kind of luster. None of these 
+changes interferes with the grid structures for which the color serves as an 
+infilling, like a dense script fill ing the pages of a book. 
+
+The figure within the chessboard is different from anything else in the 
+picture. The title directs our attention to the Knight's move in chess, and in 
+fact it is this move of two squares along and one to the side which determines 
+the drawing of the whole figure. Each move is marked by a dot, starting from 
+the Knight's proper square on the top rank of the board, moving across to 
+KR4, then on KB1 on the opposite side, zigzagging back, crossing his tracks 
+but never resting on a square he had rested on before. His journey stops when 
+he arrives at Q1 on his own side. What this imaginary knight has done is to 
+"draw" a variety of overlapping squares, triangles and polygons. His resting 
+places are marked and joined with a ruled line. Four shapes are chosen to be 
+colored — a tilted square which is to be yellow, and two smaller rectangles 
+and a more complicated figure with seven sides which takes the darker gray. 
+The rest is left white. 
+
+The figure facing us thus offers a choice of two distinct readings: we can 
+see it as a group of overlapping planes placed simultaneously in front of us, or 
+we can see it as a linear path, to be followed sequentially (in either direction) 
+from start to finish. To do this is to engage in the making of the figure, to follow 
+each move as a decision and, in the end, to ponder decisions about which 
+area is to be colored and when to end the game. Neither reading is definitive, 
+obviously, nor do they merge with each other. They are discrete, cannot be 
+"seen" at the same time, although the knowledge or memory of the alternative 
+will be present in our minds as we engage in one or the other reading. 
+
+It is clear from this comparison that the two paintings bring out contrast- 
+ing modes of thought and feeling, contrasting states of awareness. It is not 
+
+
+
+14 
+
+
+
+just that the paintings look different; they stand for different mental opera- 
+tions and different ways of apprehending the world. 
+
+Barrier leads to sensations of closeness, an almost overwhelming sense 
+of melting, of being drawn into a fiery opening, into something much larger, 
+something boundless and terrible. Knight, cool and pale in tonality, is dis- 
+tanced, contained, bounded. Its margins are calmly stated and seem to affirm 
+the boundaries between ourselves and the picture, and indeed the gap across 
+which we read it. 
+
+Our reading of Barrier happens explosively and chaotically. The picture 
+seems to pour in upon us at once. One reading of it fuses with another. The 
+picture takes on many identities which glide back and forth like identities in a 
+dream which are nonetheless vivid for being ambivalent. It is as though mo- 
+ments of time were opened up to simultaneous experience. Our reading of 
+Knight, on the other hand, happens sequentially; we move from feature to fea- 
+ture, from whole to part, from division to subdivision. It is a cumulative read- 
+ing in which each stage seems to be experienced, told over, in an orderly 
+progression. This quality is epitomized in the final engagement with the 
+knight's move which is only completely understood when it has been run to its 
+conclusion as a sequence in time. 
+
+What is to be made of the comparisons I have drawn here? The two 
+phases of Tworkov's painting seem to cover an immense span of human ex- 
+perience. The meaning of any painter's work is cumulative. I find it impossible 
+to disassociate Tworkov's geometric painting from what has gone before. 
+Both phases complement each other in spite of their apparently irreconcil- 
+able tenors. Each achieves its fullness of meaning in the other's light, and one 
+suspects that the argument has in fact never been broken off. 
+
+Was the change to geometries the result of a blinding conversion? Surely 
+not. We need to be able to see the two phases of his work as opposing factors 
+in his own continuing questions, even if one of them has, for a season or a 
+decade, been argued into silence. Of course the times had their impact. His 
+move from "hot" gestural painting to "cool" measured painting paralleled the 
+moves that were being made by younger painters in the early sixties, a re- 
+action to the cliches of Abstract Expressionism. It was part of a general revul- 
+sion against the condition of a whole school that was trapped sentimentally in 
+its own myth about itself. This was perhaps his surface reason, his message 
+and critique aimed at his generation. 
+
+But there were compelling private reasons. "I was eager to experiment," 
+he told Marcia Tucker in an interview, "I wasn't content to form a style and 
+stay with it. Then I found that in order to experiment, / had to have some con- 
+stant that I could fasten on to, at least some elements, certain divisions of the 
+canvas, for instance, that I could measure and repeat. Therefore I could take 
+the same kind of structure and paint it differently." (My italics) 
+
+The improvisation of the earlier mode, starting with a void, ends in a pre- 
+dictable "style" in which the freedom to experiment is lacking. Warmth, prox- 
+imity, an overwhelming and absorbing presence could, with luck on his side, 
+be won from the engagement with paint and the vast physical demands of the 
+canvas. A show of aggression, a masterful and omnipotent command, could 
+with luck on his side, bring about a strong concrete symbol, a form that looked 
+back at him, that returned his energy and angry drive, a chunk of the world 
+bitten off, annexed to himself. The mood was insistently repetitive; the canvas 
+a mirror in which only one likeness was returned. But in order to experiment, 
+
+
+
+15 
+
+
+
+that is, to essay, to attempt, to investigate, to rifle the unknown, to experience 
+freshness and novelty — that is, to pass into a more evolved relationship with 
+the world — he had to find "a constant" that he could "fasten on to" and it had 
+to be something that he could "measure and repeat." What an extraordinary 
+paradox! 
+
+The point is that this constant was out there. Geometry provided a struc- 
+ture whose existence could be acknowledged outside of himself. It was there 
+whenever he wanted it. It could be lost, but found again. It made no demands 
+— yet its laws were as inexorable as they were self-evident. He could only use 
+it in an attitude of respect for it: a line is either straight or not; two lines either 
+meet or do not. 
+
+In a moving note Tworkov has written, "The hope that art reveals the 
+whole man is frustrated — at best we show bits and pieces of ourselves often 
+ambiguous as if they didn't belong to the same person. And indeed we make 
+our appearances under different masks, masks sometimes imposed on us by 
+our modesty — more often by hypocrisy. Art becomes a formal game, a civi- 
+lized dance — unfortunately." We catch here something utterly characteristic 
+of him, a kind of debonair despair, a hint of bitter pain behind the worldly de- 
+meanor. His despair is pointed atthe world, atthe horrorof things as they 
+really are. He cannot comfort himself, least of all by the fictional comforts of 
+art. Corrupt contemporary usages of art turn him off. At the same time, he is 
+tied to art and cannot relinquish its magic. 
+
+To return one more time to the comparison of Barrier and Knight. I find it 
+obvious that the earlier work calls up a more primitive awareness, a magical 
+domain that only art allows us to enter at will in which boundaries are fused 
+and everything is subject to manipulation. Time, space, distinctions between 
+here and there have all run together in a single flow of energy. Knight de- 
+clares an opposite extreme. In its world, things stand at a distance, and in 
+their freestandingness do not answer to the same kind of omnipotent manipu- 
+lation. We could say that it tokens a view of reality that acknowledges the 
+existence of the outside world, the reality of time and space, and, with the 
+dropping of omnipotence, of death. His energy can ebb and flow. He can turn 
+his back on the painting: it will still be there when he returns. "Art is the 
+metropolis of symbolic manifestation," Adrian Stokes has written. "We prac- 
+tice therein the rites of symbolism. Consequently, we may practice there . . . 
+every mode of perception." In contemplating side by side these two phases of 
+Tworkov's painting, it seems to me that we are drawn into two universal 
+modes of perception, the storming unities of infancy, its rages and enveloping 
+comforts — and the anxious responsibility of later experience with its mature 
+recognition of a freestanding reality with its acceptance of potential loss. 
+
+I have called one phase of Tworkov's painting hot and the other cool and 
+have stressed the contrast between them. It is a feature of the very greatest 
+art that it sets the stage for traffic between these two extremes. Tworkov's 
+reiteration of the limits and even poverty of today's art perhaps reflects an 
+intuition that such traffic isfor us scarcely possible. Modern art has insisted 
+on purity, on unity of purpose, on reduction even at the risk of poverty. By his 
+own testimony he has not found the elbow room he needed for his generous 
+dialectic. But I would insist that there is compelling meaning in the single 
+notes that he has been forced to sing. I have no difficulty in reading his works 
+as parables, rich in reference to our uneasy place in the world. 
+
+
+
+16 
+
+
+
+w 
+
+
+
+Works in the Exhibition 
+
+
+
+
+1. Trace. 1966 
+
+Oil on canvas, 50 x 69" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+18 
+
+
+
+2. Follower I. 1967 
+
+Oil on canvas, 50 x 69" 
+Collection of the artist 
+
+
+
+
+10 
+
+
+
+Note. 1968 
+
+Oil on linen, 80x70" 
+
+Collection Mr. and Mrs. I. M. Pei 
+
+
+
+********* V***W.«. Jt^fcEf ^*Jt*r4 + i* &gt; » M'# ' •"-+**„+•*+"* . f &gt;'W^^' ^v^^^.-.^ » 
+
+
+
+■ W^MM******* -f- ****** y****** **&gt;+**&gt; J ********* 
+
+
+
+^&lt;*4**V&gt;^»-N*^.^-^»--4 -' l -^*s^. 
+
+
+
+^^^^*^4***N»&gt;Hi w j»*^**rt- •»»♦.■*♦«»**%• ..*vr ' ^ '""'* 
+
+
+
+Li ^tf-^Nnrff r*****^ l&gt;y "-H- fvW ^ ^ ^' ^^ I ^ ^ V^^ i; 1 ^^^^' 
+
+
+
+... ,4*r- I *-^.**^r&gt;^^4|^**Nw^A** 1 1 .#-*+-,» 
+
+
+
+20 
+
+
+
+4. Crosslield I (SSP-68-4). 1968 
+Oil on linen, 80 x 70" 
+Collection Beatrice Perry, New York 
+
+
+
+
+ISP 
+
+m if 
+
+
+
+
+
+
+fiWlM 
+
+
+
+
+
+
+m 
+
+
+
+
+
+
+21 
+
+
+
+Jag(SP-69-#4). 1969 
+
+Oil on linen, 80 x 70" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+22 
+
+
+
+6. Bloomlield. 1969 
+Oil on canvas, 80 x 70" 
+Collection Jacob Schulman, Glovers- 
+ville. New York 
+
+
+
+
+
+
+
+i \u% 
+
+
+
+I 
+
+'ift'fH 1 , 
+
+
+
+
+
+
+ftl! ' A . 
+
+
+
+
+liBltJ,' v 
+
+
+
+23 
+
+
+
+7. Idling III. 1970 
+
+Oil on linen, 80x70" 
+
+Collection San Francisco Museum of 
+
+Modern Art, Gift of the artist 
+
+
+
+
+24 
+
+
+
+8. Crosslield III (WNY-70-3). 1970 
+Oil on linen, 80 x 96" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+25 
+
+
+
+9. Pyramid (Q3-71 -3). 1971 
+Oil on linen, 72x72" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+26 
+
+
+
+10. Diptych 21. 1971 
+
+Oil on linen, two panels, each 
+85 x 60" 
+
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+27 
+
+
+
+11. Bin (NY-Q1-72-3). 1971-72 
+Oil on canvas, 80x80" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+28 
+
+
+
+12. Diptych II. 1972 
+
+Oil on canvas, two panels, each 
+76 x 76" 
+
+Collection The Solomon R. Guggen- 
+heim Museum, New York. Purchased 
+with the aid of funds from the 
+National Endowment for the Arts in 
+Washington, D.C., a Federal Agency; 
+matching funds contributed by Mrs. 
+Leo Simon, New York, 1972 
+
+
+
+
+29 
+
+
+
+1 3. Tilt. 1 972 
+
+Oil on canvas, 80 x 70" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+30 
+
+
+
+14. 973*2. 1973 
+
+Oil on canvas, 72 x 72" 
+Collection Jacqueline and Myron 
+Blank. Des Moines, Iowa 
+
+
+
+
+31 
+
+
+
+15. P73*7. 1973 
+
+Oil on canvas, 93x127" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+32 
+
+
+
+16. 03-74-^2. 1974 
+
+Oil on canvas, 72 x 72" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+^p"^B 
+
+
+
+
+1 
+
+
+^^■^^^^^ 
+
+
+
+33 
+
+
+
+17. Q3-74-&amp;5 1974 
+
+Oil on canvas, 72 x 72" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+34 
+
+
+
+18. Three-Five-Eight «2 (Q3-75--7). 
+1975 
+
+Oil on canvas, 80 x 80" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+35 
+
+
+
+1 9. Knight Series OC # 1 (Q3-75-#2). 
+1975 
+
+Oil on canvas, 90 x 75" 
+Collection The Cleveland Museum of 
+Art, purchased with a grant from the 
+National Endowment for the Arts and 
+matched gifts from members of The 
+Cleveland Society for Contemporary 
+Art 
+
+
+
+
+36 
+
+
+
+20. Triptych Q3-75 *1. 1975 
+
+Oil on canvas, three panels, total 
+72 x 216" 
+
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+37 
+
+
+
+21. Knight Series #5 (Q3-76-#6). 
+1976 
+
+Oil on canvas, 90 x 75" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+38 
+
+
+
+22. Airgame (02-76- n 3). 1976 
+Oil on canvas, 80 x 140" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39 
+
+
+
+23. Olympia(Q3-76-*2). 1976 
+Oil on canvas, 65 x 114" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+40 
+
+
+
+24. Hymnos (03-76-^3). 1976 
+Oil on canvas, 55 1 2 x 96" 
+Collection Estate of Dr. Louis L. Heyn 
+
+
+
+
+41 
+
+
+
+25. Q3-78- = 1. 1978 
+
+Oil on canvas, 36 x 108" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+1 ,&gt;,.. 
+
+
+
+
+
+
+
+
+
+
+
+
+./.'■'^H 
+
+
+i 
+
+
+^M 
+
+
+L ■ 
+
+
+
+
+
+
+
+42 
+
+
+
+26. Q3-78-Z3. 1978 
+
+Oil on canvas. 54 x 54" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+43 
+
+
+
+27. Alternative V (0C-Q1 -78). 1978 
+Oil on canvas, 54 x 54" 
+Collection Jacob Schulman, Glovers- 
+ville, New York 
+
+
+
+
+
+
+
+
+
+
+
+
+44 
+
+
+
+28. Alternative VIII. 1978 
+Oil on canvas, 54 x 54" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+45 
+
+
+
+29. Alternative IX. 1978 
+Oil on canvas, 72 x 72" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+46 
+
+
+
+30. Indian Red Series ~1. 1979 
+Oil on canvas, 72 x 72" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+47 
+
+
+
+31. Indian Red Series #2. 1979 
+Oil on canvas, 72 x 72" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+48 
+
+
+
+32. Indian Red Series &amp;4. 1979 
+Oil on canvas, 72 x 72" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+49 
+
+
+
+33. The Exes. 1980 
+
+Oil on canvas, 57 x 84 1 /2" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+
+
+^B ^^^W 1 
+
+
+
+
+
+
+1^ 
+
+
+/ 
+
+r / 
+
+
+f 
+
+
+\i 
+
+
+' A 
+
+
+
+
+WL 
+
+
+
+
+7 / 
+
+
+/ 
+
+
+
+
+
+
+
+50 
+
+
+
+34. Circle in a Square II (Q4-80-OC--3). 
+1980 
+
+Oil on canvas, 31 ' ? x 31 ' ? " 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+51 
+
+
+
+35. Circle in a Square IV (Q4-80-OC-&amp;9). 
+1980 
+
+Oil on canvas, 48 x 45" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+52 
+
+
+
+36. Progressions I (Q1-80-&amp;2). 1980 
+Acrylic on canvas. 36 x 108" 
+Collection IBM. Corporation, 
+New York 
+
+
+
+
+53 
+
+
+
+37. Progressions II (Q1-80-#2). 1980 
+Oil on canvas, 36 x 108" 
+Lent by the artist, courtesy Nancy 
+Hoffman Gallery, New York 
+
+
+
+
+54 
+
+
+
+38. Expansion and Contraction ot the 
+Square I. 1980 
+Oil on canvas, 25'2 x 79" 
+Lent by the artist, courtesy Nancy 
+Hoftman Gallery. New York 
+
+
+
+
+39. Expansion and Contraction ot the 
+Square II. 1980 
+Oil on canvas, 26x78" 
+Collection Dr. and Mrs. Leroy Lavine 
+
+
+
+
+56 
+
+
+
+
+40. Roman IX. 1981 
+
+Oil on canvas, 95 x 50" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+57 
+
+
+
+41. 
+
+
+
+42. 
+
+
+
+43. 
+
+
+
+Roman XI. 1981 
+
+Oil on canvas, 100 x 54" 
+
+Lent by the artist, courtesy Nancy 
+
+Hoffman Gallery, New York 
+
+
+
+Q.2-O.O.K.-#2 
+Progression Series #4. 1980 
+Oil on kindura paper, 12 1 /2 x32 1 /2" 
+Courtesy Nancy Hoffman Gallery, 
+New York 
+
+
+
+O.O. P.- #1-0.3-80. 1980 
+Oil on paper, 14 x 17" 
+Courtesy Nancy Hoffman Gallery, 
+New York 
+
+
+
+44. Q.3-81-O.P. #2. July 26, 1981 
+Oil on paper, 14 x 14" 
+Private Collection, New York 
+
+
+
+45. Q.3-81-O.P. #6. 1981 
+Oil on paper, 18x23" 
+Courtesy Nancy Hoffman Gallery, 
+New York 
+
+
+
+46. Q.3-81-O.P. #11. 1981 
+Oil on paper, 15 x 22" 
+Courtesy Nancy Hoffman Gallery, 
+New York 
+
+
+
+47. 0.4-81-O.P. #2. 1981 
+Oil on paper, 22x30" 
+Courtesy Nancy Hoffman Gallery, 
+New York 
+
+
+
+
+
+
+
+
+
+fa 
+
+
+
+
+
+
+v'^^M^B^fo*ia^P» 
+
+
+■ m i* 
+
+■ ',.; | IS 
+
+
+
+58 
+
+
+
+Chronology 
+
+
+
+by Susan B. Hirschfeld 
+
+
+
+1900 
+
+August 15 
+
+Born in Biala, Poland. 
+
+1913 
+
+Emigrates to United States and settles in 
+New York City. Subsequently attends New 
+York public schools; takes drawing class 
+at Stuyvesant High School. 
+
+1920-23 
+
+Majors in English at Columbia University, 
+New York. Begins association with Lee 
+Gatch. 
+
+1923 
+
+First of many summers in Provincetown, 
+Massachusetts. 
+
+1923-25 
+
+Studies at National Academy of Design, 
+New York, with Ivan D. Olinsky and Charles 
+Hawthorne. 
+
+1924 
+
+In Provincetown studies with Ross Moffett, 
+who introduces him to Karl Knaths. 
+
+1925-26 
+
+Studies at Art Students League, New York, 
+with Guy Pene du Bois and Boardman 
+Robinson. 
+
+1928 
+
+Becomes United States citizen. 
+
+1929 
+
+Spends year painting in Provincetown. 
+Exhibits with Societe Anonyme, New York. 
+Paints figures, still lifes and landscapes in 
+this period; influence of Cezanne appears, 
+continues into next decade. 
+
+1933 
+
+Brief trip to Europe, first since emigration 
+to America. 
+
+1934 
+
+Participates in United States Treasury 
+Department's Public Works of Art Project. 
+
+1935-41 
+
+Employed in easel division of WPA Federal 
+Art Project in New York; friendship with 
+Willem de Kooning begins while both are 
+working on Project. 
+
+1940 
+
+First one-man exhibition at A.C.A. Gallery, 
+
+New York. 
+
+1942-45 
+
+Stops painting to work in war industry as 
+
+tool designer. 
+
+1945 
+
+Resumes painting; begins to experiment 
+with abstraction. 
+
+
+
+Self Portrait . January 31, 1982 
+Pencil on paper 
+Courtesy of the artist 
+
+
+
+59 
+
+
+
+1947-54 
+
+Annual one-man exhibitions at Charles 
+Egan Gallery, New York. 
+
+1948 
+
+One-man exhibition at The Baltimore 
+Museum of Art. 
+
+1948-51 
+
+Summers 
+
+Teaches at American University, 
+
+Washington, D.C. 
+
+1950s 
+
+Develops mature Abstract Expressionist 
+style; spontaneous flame-like brushstrokes 
+define grid. 
+
+1952 
+
+Green Landscape, 1949, acquired by The 
+
+Baltimore Museum of Art, his first museum 
+
+purchase. 
+
+July 
+
+Visiting Artist, Black Mountain College, 
+
+Black Mountain, North Carolina. 
+
+1954,55 
+
+Summers 
+
+Teaches at Indiana University, Bloomington. 
+
+1954 
+
+Fall 
+
+Teaches at University of Mississippi, 
+
+Oxford. 
+
+1955-58 
+
+Teaches life drawing at Pratt Institute, 
+Brooklyn. 
+
+1957 
+
+One-man exhibition at Walker Art Center, 
+
+Minneapolis. 
+
+Winter 
+
+Teaches at University of Minnesota, 
+
+Minneapolis. 
+
+1962 
+
+Spring 
+
+Visiting Artist, School of Art and Architec- 
+ture, Yale University, New Haven. 
+
+1963 
+
+Awarded first William A. Clark Prize accom- 
+panied by Corcoran Gold Medal, 28th 
+Biennial Exhibition ot American Painting, 
+Corcoran Gallery of Art, Washington, D.C. 
+Appointed Chairman of Art Department, 
+School of Art and Architecture, Yale Univer- 
+sity; serves in this capacity until 1969. Re- 
+ceives M.F.A. In Privatum, Yale University. 
+
+1964 
+
+Whitney Museum of American Art, New 
+York, mounts retrospective of his work, 
+which subsequently travels in United States. 
+
+
+
+mid-1960s 
+
+Geometric emphasis emerges; gesture be- 
+comes increasingly controlled, dark grays 
+and subdued pastels are used. 
+
+1969 
+
+William C. Leffingwell Professor of Painting, 
+Emeritus, Yale University. 
+
+1970s 
+
+Geometric structure of works based on 
+diagonals and abutting angles; strong 
+color reintroduced. 
+
+1970 
+
+Receives John Simon Guggenheim Foun- 
+dation Fellowship. 
+
+1971 
+
+Doctor of Fine Arts, Maryland Institute of 
+Art, Baltimore. One-man exhibition at Whit- 
+ney Museum of American Art, New York. 
+
+1972 
+
+Doctor of Humane Letters, Columbia Uni- 
+versity. Artist-in-Residence, American 
+Academy, Rome. 
+
+1973 
+
+Winter 
+
+Artist-in-Residence, Dartmouth College, 
+
+Hanover, New Hampshire. 
+
+Spring' 
+
+Visiting Artist, Columbia University. 
+
+1974 
+
+Visiting Critic, Royal College of Art, London. 
+Receives Painter of the Year Award, Skow- 
+hegan School of Art, Maine. Begins to show 
+at Nancy Hoffman Gallery, New York. 
+
+1975 
+
+Visiting Artist, Cooper Union School of 
+Art, New York, and New York Studio School. 
+
+1976 
+
+Winter 
+
+Visiting Artist, University of California, 
+
+Santa Barbara. 
+
+1979 
+
+Winter 
+
+Visiting Artist, California State College, 
+Long Beach. Honorary Degree, Rhode 
+Island School of Design, Providence. One- 
+man exhibition mounted by Third Eye 
+Centre, Glasgow; subsequently travels in 
+Great Britain. 
+
+1981 
+
+Elected member American Academy and 
+
+Institute of Arts and Letters. 
+
+Tworkov lives and works in New York and 
+
+Provincetown. 
+
+
+
+60 
+
+
+
+Selected Exhibitions 
+and Reviews, 1966-1981 
+
+
+
+I. Group Exhibitions 
+
+Whitney Museum of American Art, New 
+York, 1972 Annual Exhibition: Contemporary 
+American Painting, January 25-March 19, 
+
+1972. Catalogue 
+
+Whitney Museum of American Art, New 
+York, 7973 Biennial Exhibition: Contempo- 
+rary American Art, January 10— March 18, 
+
+1973. Catalogue 
+
+Whitney Museum of American Art, New 
+York, American Drawings 1963-1973, May 
+25-July 22, 1973. Catalogue with text by 
+Elke M. Solomon 
+
+The Cleveland Museum of Art, Contempo- 
+rary American Artists. December 18, 1973— 
+February 10, 1974. Catalogue with text by 
+Tom Hinson 
+
+University Art Galleries, University of Cali- 
+fornia, Santa Barbara, Five American Paint- 
+ers. Recent Works: de Kooning, Mitchell, 
+Motherwell. Resnick, Tworkov, January 8- 
+February 17, 1974. Catalogue with text by 
+Phyllis Pious 
+
+University Art Gallery, State University of 
+New York, Albany, Tight and Loose, Jan- 
+uary 13-February 14, 1974. Catalogue 
+
+Krannert Art Museum, Champaign-Urbana, 
+Illinois. Contemporary American Painting 
+and Sculpture 1974, March 10— April 21, 
+
+1974. Catalogue 
+
+Indianapolis Museum of Art, Painting and 
+Sculpture Today 1974, May 22-July 14, 
+1974. Traveled to Museum of Contemporary 
+Art, Cincinnati, September 12— October 26. 
+Catalogue with text by Richard L. Warrum 
+
+Virginia Museum of Fine Arts, Richmond, 
+Twelve American Painters. October 1-27, 
+
+1974. Catalogue 
+
+The Corcoran Gallery of Art, Washington, 
+D.C., The 34th Biennial of Contemporary 
+American Painting. February 22— April 6, 
+
+1975. Catalogue with texts by Randall De 
+Leeuw, Linda Simmons and Roy Slade 
+
+Kennedy Art Galleries, New York, Art Stu- 
+dents League 100th Anniversary Show. 
+March 6-29, 1975. Catalogue 
+
+Grey Art Gallery, New York University, New 
+York, Report Irom Soho. September 24- 
+November 5, 1975 
+
+
+
+Fort Wayne Museum of Art, Indiana, The 
+Hue and Far Cry of Color. May 1-30, 1976. 
+Checklist 
+
+Hirshhorn Museum and Sculpture Garden, 
+Smithsonian Institution, Washington, D.C., 
+The Golden Door: Artist-Immigrants of 
+America, 1876-1976, May 20-October 20, 
+1976. Catalogue with texts by Daniel J. 
+Boorstin and Cynthia Jaffee McCabe 
+
+Institute of Contemporary Art, Boston, A 
+Selection of American Art: The Skowhegan 
+School 1946-1976, June 16-September 5, 
+1976. Catalogue with texts by Allen Ellen- 
+zweig, Lloyd Goodrich, Gabriella Jeppson, 
+and Bernarda B. Shahn 
+
+Des Moines Art Center, Possibilities for 
+Collectors II. July 6-August 15, 1976 
+
+The Solomon R. Guggenheim Museum, 
+New York. Acquisition Priorities: Aspects of 
+Postwar Painting in America, October 15, 
+1976-January 16, 1977 
+
+Society for Contemporary Art, The Art Insti- 
+tute of Chicago. Drawings of the 70's, 
+March 9-May 1, 1977. Checklist 
+
+Kennedy Art Galleries. New York. Artists 
+Salute Skowhegan. December 8-21, 1977 
+
+Philadelphia College of Art. Seventies 
+Painting. April 21-May 21, 1978. Catalogue 
+with text by Janet Kardon 
+
+Nancy Hoffman Gallery, New York. Major 
+New Works, November 25. 1978-January 3, 
+1979 
+
+Century Club. New York, Paintings and 
+Sculpture by Artist Members of the Century 
+Association, January 9-February 4, 1979 
+
+The Solomon R. Guggenheim Museum. New 
+York, Collection: Art in America After World 
+War II. January 18-February 25. 1979 
+
+Century Club. New York, Work on Paper: 
+Murals. Watercolors. Prints. Sketches and 
+Drawings by Artist Members. March 6- 
+April 1, 1979 
+
+Century Club. New York, The New Artist 
+Members Exhibition, April 3-May 6. 1979 
+
+Betty Parsons Gallery. New York. The Lan- 
+guage of Abstraction. June 19-August 3. 
+1979. Catalogue with text by Susan C. 
+Larsen 
+
+American Academy and Institute of Arts 
+and Letters. New York. The Hassam and 
+Speicher Purchase Fund Exhibition, 
+November 19-December 30. 1979 
+
+The Brooklyn Museum. American Drawing 
+m Black and White: 1970-1980. November 
+
+
+
+61 
+
+
+
+22, 1980-January 18, 1981. Catalogue with 
+text by Gene Baro 
+
+Joe and Emily Lowe Art Gallery, Syracuse 
+University, New York, All in Line: An Ex- 
+hibition of Linear Drawing, November 23, 
+1980-January 18, 1981. Catalogue with text 
+by August Freundlich 
+
+Whitney Museum of American Art, New York, 
+1981 Biennial Exhibition, January 20 April 
+19, 1981. Catalogue with texts by Tom Arm- 
+strong, John G. Hanhardt, Barbara Haskell, 
+Richard Marshall and Patterson Sims 
+
+Summit Art Center, New Jersey, Transitions, 
+March 6-April 1, 1981 
+
+American Academy and Institute of Arts 
+and Letters, New York, Exhibition of the 
+Works of Newly Elected Members and 
+Recipients of Awards, May 20-June 14, 
+1981 
+
+Nancy Hoffman Gallery, New York, Major 
+New Works, September 11-October 7, 1981 
+
+
+
+II. One-man Exhibitions and 
+Reviews 
+
+Gertrude Kasle Gallery, Detroit, Jack 
+Tworkov: Monochromatic Paintings, April 
+12-May9, 1969. Checklist 
+
+Whitney Museum of American Art, New 
+York, Jack Tworkov: Recent Paintings, 
+February 5-March 14, 1971. Checklist 
+
+French &amp; Company, New York, Jack Twor- 
+kov, February 13-March 10, 1971 
+
+Gertrude Kasle Gallery, Detroit, Jack Twor- 
+kov: Recent Paintings, November 6-Decem- 
+ber 1, 1971 
+
+French &amp; Company, New York, Jack Twor- 
+kov, April 15-May 11, 1972 
+
+K[im] L[evin], "Reviews and Previews," 
+Art News, vol. 71 , May 1 972, p. 56 
+Ellen Lubell, "In the Galleries," Arts 
+Magazine, vol. 46, Summer 1972, pp. 
+61-62 
+
+Jaffe-Friede Gallery, Hopkins Center, Dart- 
+mouth College, Hanover, New Hampshire, 
+Jack Tworkov, Winter Term Artist-in-Resi- 
+dence, February 9-March 4, 1973. Cata- 
+logue with text by Jack Tworkov 
+
+Nancy Hoffman Gallery, New York, Jack 
+Tworkov, March 16— April 10, 1974 
+
+Ellen Lubell, "Arts Reviews: Jack 
+Tworkov," Art Magazine, vol. 48, June 
+1974, p. 61 
+
+Al Brunelle, "Reviews and Previews," 
+Art News, vol. 73, Summer 1 974, p. 1 26 
+
+
+
+List Gallery, The Denver Art Museum, Jack 
+Tworkov: Recent Paintings, November 30, 
+1974-January 5, 1975 
+
+Nancy Hoffman Gallery, New York, Jack 
+Tworkov, November 8-December 4, 1975 
+Ellen Lubell, "Arts Reviews," Arts 
+Magazine, vol. 50, January 1976, p. 17 
+Ann-Sargent Wooster, "New York Re- 
+views," Art News, vol. 75, January 
+1976, pp. 119-120 
+
+The New Gallery, Cleveland, Jack Tworkov: 
+Recent Paintings and Drawings 1968-1975, 
+November 12-December 6, 1975. Catalogue 
+with texts by Tom E. Hinson and Marjorie T. 
+Talalay. Traveled to The Sullivant Gallery, 
+Ohio State University, Columbus, January 
+6-February 7, 1976; Kilcawley Center Art 
+Gallery, Youngstown State University, 
+Ohio, February 1 1-March 9; The Contem- 
+porary Arts Center, Cincinnati, March 15— 
+April 29 
+
+John Berggruen Gallery, San Francisco, 
+Jack Tworkov, Recent Paintings and Draw- 
+ings, April 12-May 8, 1976 
+
+University Art Galleries, University of Cali- 
+fornia, Santa Barbara, Jack Tworkov: Re- 
+cent Paintings and Drawings, January 5- 
+February 6, 1977. Catalogue with text by 
+Phyllis Pious 
+
+Nancy Hoffman Gallery, New York, Jack 
+
+Tworkov, April 2-May 5, 1977 
+
+Ellen Schwartz, "New York Reviews," 
+Art News, vol. 76, Summer 1977, p. 189 
+
+Jan Baum-lris Silverman Gallery, Los 
+Angeles, Jack Tworkov-The 70's Paintings 
+and Drawings, January 25-March 3, 1979; 
+held concurrently with Paintings and Draw- 
+ings, The Art Museum and Galleries, Cali- 
+fornia State College, Long Beach 
+
+Melinda Wortz, "The Nation," Art 
+News, vol. 78, April 1979, p. 110 
+
+Third Eye Centre, Glasgow, Jack Tworkov: 
+Paintings 1950-1978, May 18-June 17, 1979. 
+Catalogue with texts by Dore Ashton, 
+Richard Demarco and Andrew Forge; inter- 
+view with Tworkov by Marcia Tucker. Trav- 
+eled to Fruitmarket Gallery, Edinburgh, 
+June 23-July 14; Academy Gallery, Liver- 
+pool, August 3-31 ; Ulster Museum, Belfast, 
+October 4-November 4; Hatton Gallery, 
+Newcastle-upon-Tyne, November 16-De- 
+cember 14 
+
+Rhode Island School of Design, Providence, 
+Jack Tworkov, April 8-28, 1980 
+
+Johnson Gallery, Middlebury College, Ver- 
+mont, Jack Tworkov Paintings, March 6-31 , 
+1981 
+
+
+
+62 
+
+
+
+Selected Bibliography 
+
+
+
+This listing is primarily restricted to material 
+published during the years covered by this 
+exhibition. For earlier material, see Jack 
+Tworkov, Whitney Museum of American Art, 
+New York, 1964, exh. cat. 
+
+
+
+I. General 
+
+A. Books 
+
+Harold Rosenberg, The Anxious Object: 
+Art Today and Its Audience, New York, 
+1964, pp. 50, 83 
+
+Irving Sandler, The Triumph of American 
+Painting: A History of Abstract Expression- 
+ism, New York, 1 970, pp. 98, 1 00, 21 9 
+
+Dore Ashton. "From the 1960's to the Pres- 
+ent Day." The Genius of American Painting, 
+John Wilmerding, ed., London, 1973, p. 332 
+
+Barbara Rose, American Art Since 1900, 
+New York, 1975, pp. 125, 176-177,234 
+
+Barbara Rose. Readings in American Art. 
+1900-1975. New York, 1975, p. 9 
+
+Sam Hunter and John Jacobus, Modern Art 
+from Post-Impressionism to the Present. 
+New York, 1976, p. 271 
+
+H. H. Arnason. History of Modern Art, New 
+York, 1977, pp. 508, 525-526, 698 
+
+B. Periodicals 
+
+Barbara Rose and Irving Sandler, "Sensi- 
+bility of the Sixties," Art in America, vol. 55, 
+January/February 1967, pp. 44-57 
+
+Carter Ratcliff, "New York Letter," Art Inter- 
+national, vol. XV, June 20, 1971, pp. 99, 105 
+
+
+
+B. Films and Television Tapes 
+
+"Jack Tworkov," by Lane Slate. 1963 
+
+"Film on Three American Painters: Hof- 
+mann. Avery and Tworkov," produced by 
+Warren Forma. Contemporary Films. Inc., 
+1963 
+
+"The New York School." produced by 
+Michael Blackwood Productions. 1973 
+
+"Interview with Jack Tworkov." by Richard 
+Demarco. Third Eye Centre, 1979 
+
+
+
+III. By the Artist 
+
+"Notes on My Painting," Art in America, 
+vol. 61, September/October 1973, pp. 66-69 
+
+
+
+IV. Interview 
+
+Phyllis Tuchman. "An Interview with Jack 
+Tworkov," Artforum, vol. IX, January 1971, 
+pp. 62-68 
+
+
+
+II. On the Artist 
+
+
+
+A. Periodicals 
+
+Douglas Crimp, "Drawn and Quartered," 
+Art News, vol. 70, March 1971, pp. 48-49, 
+72-73 
+
+Kasha Linville Gula. "Indian Summer of 
+Jack Tworkov," Art in America, vol. 61, 
+September/October 1973, pp. 62-63 
+
+April Kingsley, "Jack Tworkov," Art Inter- 
+national, vol. XVIII, March 20. 1974, 
+pp. 24-27 
+
+
+
+«3 
+
+
+
+Photocredits 
+
+
+
+Works in the exhibition 
+
+Color 
+
+Courtesy The Cleveland Museum of Art: 
+cat. no. 19 
+
+Courtesy Nancy Hoffman Gallery, New 
+York: cat. nos. 4, 18, 22, 26, 31, 34, 38, 40 
+
+Courtesy Jacob Schulman, Gloversville, 
+New York: cat. no. 27 
+
+Black and White 
+
+Bevan Davies, New York: cat. nos. 1, 5, 9, 
+16, 17, 20, 21, 23-25, 28-30, 32, 35-37, 39 
+
+Phillip Galgiani, courtesy San Francisco 
+Museum of Modern Art: cat. no. 7 
+
+Robert E. Mates: cat. no. 12 
+
+Robert E. Mates and Paul Katz: cat. nos. 3, 
+8, 13, 14,15 
+
+Robert E. Mates and Paul Katz, courtesy 
+Jacob Schulman, Gloversville, New York: 
+cat. no. 6 
+
+Alan Zindman, New York: cat. nos. 2, 10, 
+11,33,41 
+
+
+
+Supplementary 
+
+Carmelo Guadagno: p. 14 
+
+David M. Heald: p. 59 
+
+Courtesy Nancy Hoffman Gallery, New 
+York: fig. 1 
+
+Renate Pensold: pp. 3, 7, 17 
+
+Neil Winokur, New York: fig. 2 
+
+
+
+Exhibition 82/3 
+
+3,000 copies of this catalogue, designed by 
+Malcolm Grear Designers, typeset by Dumar 
+Typesetting, Inc., have been printed by 
+Eastern Press in March 1982 for the 
+Trustees of The Solomon R. Guggenheim 
+Foundation on the occasion of the exhibi- 
+tion Jack Tworkov: Fifteen Years of Painting 
+64 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0054   0.0054      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0074   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0093   0.0019     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0143   0.0050   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0146   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.1078   0.0933              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=107;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

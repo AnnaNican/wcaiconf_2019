@@ -1,0 +1,2467 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Jan Groth"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/jangroth00grot">Jan Groth</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/jangroth00grot">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>ft 
+
+
+
+Jan Groth 
+
+
+
+Jan Groth 
+
+
+
+1 . •--'* -D : W 
+
+
+
+I I 
+
+
+
+,,,111111 
+
+
+
+li«. »rf/ A 
+
+
+
+Jan Groth 
+
+
+
+This exhibition is made possible by grants from the 
+Samuel J. and Ethel LeFrak Foundation, Inc., and the 
+Norsk Forum. Additional support has been received 
+from the Royal Norwegian Ministry of Foreign Affairs. 
+
+Solomon R. Guggenheim Museum, New York 
+
+
+
+Jan Groth, 1972 
+
+
+
+Library of Congress Cataloging in Publication Data 
+
+Groth, Jan, 1938- 
+Jan Groth. 
+
+"This exhibition is made possible by grants from 
+the Samuel J. and Ethel LeFrak Foundation, Inc., and 
+the Norsk Forum. Additional support has been received 
+from the Royal Norwegian Ministry of Foreign Affairs." 
+
+Includes an essay by Carter Ratcliff. 
+
+Bibliography: p. 69 
+
+1. Groth, Jan, 1938— — Exhibitions. 
+2. Tapestry — Norway — History — 20th century — 
+Exhibitions. I. Ratcliff, Carter. II. Solomon R. 
+Guggenheim Museum. 
+
+NK }o6o. A3G762 1986 746.392'4 86—13919 
+ISBN 0—89207-057—9 
+
+
+
+detail, Sign, i&lt;)Hi-Si. 1981-82 
+Wool tapestry, 59x83" 
+
+Collection Gil Winter, New York 
+
+
+
+Published by 
+
+The Solomon R. Guggenheim Foundation, New York, 1986 
+
+€ The Solomon R. Guggenheim Foundation, New York, 1986 
+
+
+
+Lenders to the Exhibition 
+
+
+
+General Electric Corporate Art Collection 
+Jan Groth 
+
+Steingrim Laursen, Copenhagen 
+Norwegian Contractors, Oslo 
+
+The Art Institute of Chicago 
+Solomon R. Guggenheim Museum, New York 
+The Museum of Modern Art, New York 
+Nationalmuseum, Stockholm 
+
+Marian Goodman Gallery, New York 
+Galleri Rns, Oslo 
+
+
+
+— -•■*«»»•»*-&gt; ■ 
+
+
+
+
+
+
+
+
+
+
+HBMHMP 
+
+
+
+
+
+
+Acknowledgements 
+
+
+
+This exhibition could not have been realized without the assistance of many dedicated individuals. We 
+are indebted to the Samuel J. and Ethel LeFrak Foundation, Inc., the Norsk Forum and the Royal Norwe- 
+gian Ministry of Foreign Affairs for their generous financial support of the exhibition and its accompany- 
+ing catalogue. In this regard, we wish to acknowledge the cooperation of Erik Rudeng, President, Norsk 
+Forum, as well as the help of John Bjornebye, Director, Norwegian Cultural Information Center. Special 
+thanks are also extended to Steingrim Laursen, and to Marian Goodman, Jan Groth's dealer in the United 
+States. Carter Rateliff, long the artist's friend and admirer, has enriched the catalogue with his thoughtful 
+essay. We are most grateful to the institutional and private collectors whose generous loans have made 
+the exhibition possible in the most tangible sense. 
+
+Virtually every department of the Guggenheim Museum has been involved with this project, and gratitude 
+is due to them. The following staff members should be singled out for their central contributions: first 
+of all, Susan B. Hirschfeld, Assistant Curator, who organized the exhibition and worked closely with the 
+artist on every aspect of the undertaking; and also Carol Fuerstein, Editor; Amada L. Cruz, former 
+Curatorial Assistant; Thomas Padon, Curatorial Assistant; Diana Murphy, Editorial Coordinator; Kath- 
+leen M. Hill, Associate Registrar; and Saul Fuerstein, Preparator. 
+
+Above all, deep appreciation is expressed to Jan Groth who has enthusiastically participated in all phases 
+of this project. 
+
+Diane Waldman, Deputy Director 
+Solomon R. Guggenheim Museum 
+
+
+
+Jan Groth in his drawings studio, Braade, Denmark, 1 974 
+
+
+
+
+
+
+I 
+
+
+
+
+The Art of Jan Groth 
+
+
+
+Carter Ratcliff 
+
+
+
+"My art is about silence and about light' 
+Jan Groth, 1986 
+
+
+
+Born in Stavanger, a city on the west coast of Norway, Jan Groth traveled to Denmark for his training 
+in art. The year was 1956 and Groth was eighteen. Though he successfully completed a preparatory 
+course at the Royal Academy of Art, Copenhagen, he did not matriculate the following season. Groth's 
+interest was in abstract art; the Academy offered only courses in figurative painting and sculpture. For 
+the next two years, he studied at private schools, dividing this period about equally between instruction 
+in abstract design and traditional training — "extremely traditional," he says. "It was the 1950s and we 
+were still being taught to make life drawings and proper renderings from plaster casts of statues." 
+
+Groth found his experiments with abstract painting less tedious but equally unsatisfactory. "I found 
+that paint is too wet for me, too fluid. It doesn't give the hand any direction." Crayon felt different. Dry 
+and subtly resistant, it imposed welcome restrictions on the artist's hand. "I felt I needed that dryness, 
+that sense of guidance." For nearly three decades, Groth has worked with crayon on paper. All his images 
+originate in that medium, then they migrate to tapestry, the art form that occupies the center of his oeuvre. 
+
+To weave is to work within the rigidly rectilinear pattern imposed by warp and woof. "Tapestry had 
+all the restrictions I felt I needed," Groth recalls. "And of course I knew about weaving. There is nothing 
+exotic about working at a loom in Norway, where a folk tradition has handed down the technique from 
+the medieval period. But folk weaving wasn't quite what I wanted." By i960 Groth had found his way 
+to a tapestry workshop in Amsterdam called de Uil (the Owl), directed by a Dane named Benedikte 
+Herlufsdatter. She and Groth were later married. Having been trained at the Aubusson studios, Benedikte 
+Groth was able to instruct Jan in the most refined methods of making tapestries. This made it possible 
+for him to abandon painting without any qualms. He found that his new medium was as rich as paint 
+on canvas, yet contained its possibilities within a strict order, a highly disciplined method. 
+
+Over the past two decades, Groth has aspired to give tapestry the stature of major painting and 
+sculpture in the modernist tradition. Among the most important works in this exhibition is a tapestry 
+begun in 1982 and completed the following year (cat. no. 3). It is just over five feet high and an inch 
+short of fourteen feet long — a magnitude and a sweeping, horizontal format often encountered in the 
+most ambitious painting of the postwar era. Groth has transferred those ambitions from canvas to the 
+woven field. 
+
+For all their pictorial strength, Groth's tapestries have the presence of objects — and weighty objects, 
+at that, their surface textures dense. These dark fields are not only pictures into which we look: they are 
+
+
+
+Jan Groth in his studio, Copenhagen, 1986 
+
+
+
+presences in the gallery with us. Yet, despite their undeniable physicality, Groth's tapestries engage us 
+with subtle modulations, not with visual aggression. If certain of his works must be considered theatrical 
+simply because of their large size, then it must be said that he has created a theater of nuance. For affinities, 
+one could look to such painters as Agnes Martin and Cy Twombly. 
+
+Groth uses line to measure off a potentially infinite field, as does Martin, though she carries out her 
+measurements with regular, gridded patterns. By contrast, Groth sends far fewer lines into the pictorial 
+field — sometimes only one — and lets each be inflected by a singular impulse. The individuality - with which 
+Groth endows each line recalls the painting of Cy Twombly at its most restrained. Twombly veers between 
+extremes of overstatement and understatement. Only when he tends in the latter direction do his refine- 
+ments remind one of Groth's, and even then Twombly's images display a greater degree of Expressionist 
+agitation. As Groth says, his is an art of "silence," which in less metaphorical terms might be considered 
+a visual reticence that leads the subtleties of his images to the verge of the invisible. 
+
+Groth weaves his image into the surface — or, the image is the surface. The rich brownish black of 
+Sign, 1983—84 (cat. no. 5) draws the eye into the weave of the field, into the white rift that reaches down 
+from the upper right hand corner of the tapestry, cleaving its darkness. The eye feels a faint disquiet, 
+unable to decide whether it has encountered an object or an image. And the streak of white offers am- 
+biguities of its own. Does it skim along the surface of the black field or indicate a deep rift? Or are we 
+to read the black as atmosphere, a dense void, illuminated for a frozen instant along a surging, diagonal 
+path? 
+
+The modernist tradition began when artists insisted on their right to present the audience with questions 
+of that sort. Permitting no final answer, such questions leave us acutely aware of our perceptions and 
+the workings of our imaginations. Groth completed his first tapestry in 1 96 1 . It shows a cluster of curving 
+lines against a white field — an image of the kind that fills the paintings and drawings he made as a student. 
+Like all his woven pieces of the early sixties, this one looks like a translation from another medium, yet 
+Groth is right to say that "My mature work begins with the first tapestry." Working at the loom, Groth 
+sensed the possibility of a silence impossible for him to achieve in painting, which records so accurately 
+each nuance of the brush. He preferred the impersonality of the weaver's process, which puts even the 
+most idiosyncratic image at a remove from the artist. The task, then, was to find images that could survive 
+this distancing process, survive and even benefit from it. 
+
+Some of the early, white tapestries have a yellowish or pinkish cast (see fig. 1 ). Sometimes their dark 
+tangles of line show accents of red, brown and yellow. Though his early tapestries include experiments 
+with linen, Groth preferred wool on a cotton warp, as he still does. By the mid-1960s he had achieved 
+his present high level of technical mastery. 
+
+
+
+
+Jan Groth 
+
+Sign, 1964. 1964 
+
+Wool tapestry 
+
+Collection Fyns Kunstmuseum, 
+
+Odense, Denmark 
+
+
+
+Weaving begins once Groth has prepared a working drawing, to indicate the shape and position of 
+the figure. The drawing must show which portions of the figure to weave in a solid hue and which to 
+mix with the color of the field. Since no drawing can correspond exactly to a woven pattern, a degree 
+of interpretation is required if the results are to show where the artist intended a line to grow faint and 
+shade off into the surrounding field. Benedikte is "a key figure in my art," says Groth. "Without her, 
+there would be no tapestries. We execute them together," says Groth, "because she knows as well as I 
+do, sometimes better, how to go from a drawing to a woven pattern. As the one who develops a working 
+drawing from my own design, I am like the composer, the one who writes the score. Benedikte is the 
+
+
+
+11 
+
+
+
+musician who plays the score. When I'm at the loom, I am also in the musician's role, though I work 
+more intuitively. I follow my original intention as closely as I follow the working drawing. Perhaps more 
+closely." 
+
+Weaving is labor in a way that painting is not. All forms of work encourage a clarity of purpose and 
+action. As Groth mastered the techniques of weaving, he began to endow his images with a greater 
+austerity. The discipline of his craft had led him to a more disciplined art. And Groth began to admire 
+other artists whose processes require work in the ordinary sense of the word — the French sculptor Alain 
+Kirili, for instance, who employs the blacksmith's traditional methods. 
+
+Groth made his first black tapestry in 1966 (fig. 2.). Dark form on a light field, so familiar from 
+traditional drawing, was suddenly reversed. This change to light on dark left Groth's style untouched 
+or, if anything, intensified its most powerful traits. The earliest of his black works send delicate yet 
+resilient lines into a pictorial void. Now that the void had turned dark, Groth's new, white line grew 
+stronger and at the same time more economical, as if it could survive the void only with the help of a 
+greater subtlety. The void changed, as well. 
+
+In Groth's white tapestries, the field often reads simply as an absence — the zone of nonform that 
+permits positive form to become visible. Now, darkened with a blend of black and deep brown, the field 
+began to count as form in its own right. To borrow a word from the artist, the black tapestries have 
+more "presence" than the earlier ones. They take on a visual weight, a density for the eye in keeping 
+with their physical weight. 
+
+In 19^0, on his first visit to New York, Groth had a chance to see painting and sculpture he had 
+known, until then, only through reproductions. He was particularly interested in Isamu Noguchi's 
+sculpture from the late 1950s and early 1960s — three-dimensional volumes pierced by oval openings. A 
+device made familiar by nonobjective sculptors of the 1920s (Naum Gabo, Antoine Pevsner and others), 
+these voids appear in certain of Henry Moore's monumental figures. Known as "negative spaces," such 
+openings permit a sculptural mass to engage its surroundings more intimately than a monolithic form is 
+able to do. Groth felt that Noguchi charged his negative space with a delicacy often lacking in the work 
+of other sculptors. That quality attracted him, but, more important, it seemed to form some link between 
+his art and Noguchi's. 
+
+Groth makes a distinction between influences and what he calls "confirmations," works of art that 
+offer parallels to his own interests. Though they may even resemble his own work in some way, the latter 
+did not come to his attention until after he had securely established his own direction. The reticence of 
+Giorgio Morandi's still lifes, the extreme economies of Alberto Giacometti's late figures — Groth counts 
+these among his major influences. Noguchi's handling of negative space, which Groth sees as "drastic 
+
+
+
+
+2 
+
+Jan Groth 
+
+Sign, i&lt;)66. 1966 
+
+Wool tapestry 
+
+Mr. and Mrs. Joe Pollock 
+
+
+
+13 
+
+
+
+in its subtlety," belongs among the confirmations the Norwegian artist has found in twentieth-century 
+art (see fig. 3). "I didn't see Noguchi's work until it was too late to influence me," Groth recalls, "but I 
+was very impressed by a certain meditative quality. I began to see his use of negative space as an encourag- 
+ing counterpart to the way I had been using the blank areas, the voids, in my tapestries." 
+
+Groth understood the way Noguchi's forms could mold space without having to occupy it: line and 
+plane could be effective by implication, so to speak. Since each of his woven lines sends a charge of visual 
+energy through an immense black field, Groth's exposure to Noguchi's art led him to refer to that darkness 
+as negative space. But the analogy between sculpture and his two-dimensional art is as complex as it is 
+evocative. It might be better to say that Groth's line turns the field into a play of negative forms; no 
+longer mere emptiness, the dark is a void shaped by the white that streaks or, in some tapestries, slowly 
+twists through it. Like Noguchi, Groth molds space by implication, though of course his is the imaginary 
+space of pictorial art, not the actual space of the sculptor. 
+
+
+
+Isamu Noguchi 
+
+The Cry. 1959 
+
+Balsa wood on steel base 
+
+Collection Solomon R. Guggenheim Museum, 
+
+New York 
+
+
+
+
+M 
+
+
+
+The year after Groth's first trip to New York, one of the city's gallery owners, Betty Parsons, saw his 
+work at Copenhagen's Kunstindustrimuseum. Impressed by Groth's tapestries, Parsons arranged to meet 
+the artist and, as it turned out, to offer him a show in her gallery during the 1972 season. That same 
+year, Groth exhibited tapestries and drawings at the Wadsworth Atheneum in Hartford and at Pittsburgh's 
+Carnegie Institute. With The Art Institute of Chicago offering Groth yet another one-man show the 
+following year, it began to look as if a practitioner of an ancient craft had arrived from the northern 
+edge of Europe, Scandinavia, to find a place on the American art-scene. However, by 1980 Groth had 
+also exhibited his work in France, Germany, The Netherlands and Great Britain. He was now recognized 
+as a member of the modernist tradition that transcends national boundaries. 
+
+Such figures always display signs of their origins. An international reputation never comes to an artist 
+practicing a homeless, "international" style. Instead, certain artists enrich whatever is local, even idiosyn- 
+cratic in their work, until audiences on both sides of the Atlantic feel compelled to grant their attention. 
+In Groth's case, this has meant transforming his own — and Scandinavia's — characteristic reticence into 
+a principle of visual economy. He has made habitual understatement a means to visual grandeur. 
+
+As critics and historians have long noted, we are more likely to find open stretches of sea, sky or 
+topography in the painting of Northern Europe than, for example, in the painting of the Italian Baroque 
+or the French Rococo. Furthermore, the openness of seventeenth-century Dutch landscape painting or 
+the drift toward the void that we see in certain canvases by English Romantics of the nineteenth century 
+finds a counterpart in the allover imagery of such pioneers of the New York School as Jackson Pollock, 
+Barnett Newman and Mark Rothko. Speaking generally, one might say that Jan Groth was welcomed 
+in New York as an inheritor of a Northern European pictorial tradition with strong affinities to postwar 
+American painting. Fortunately, though, we needn't confine ourselves to generalities. It is possible to 
+speak with precision about at least some of the sources of the reticence, the economy and the openness 
+that Groth has carried to such extremes. 
+
+In recent years, the luminously expansive canvases of Caspar David Friedrich have become well-known. 
+J. C. Dahl, a Norwegian colleague who settled in Friedrich's native Dresden, has also been accorded a 
+notable place among the cultural currents we label Romantic. But Peder Balke, a fellow Norwegian who 
+studied with Dahl in Dresden during the 1830s, is still almost entirely unknown beyond the borders of 
+his country. Most of Balke's paintings are in Scandinavia, where, from an early age, Jan Groth remembers 
+seeing them on museum visits with his family. Balke's visionary landscapes, he says, have been a major 
+influence on his art — perhaps the most important of all (see fig. 4). 
+
+The blue glow of Balke's skies draws the color from earth and the sea, turning trees and outcroppings 
+of rock into pale silhouettes. Ships and the occasional sign of life on land — a fragile bridge or the rudiments 
+
+
+
+15 
+
+
+
+
+4 
+
+Peder Balke 
+
+The Old Bridge, i860 
+
+Oil on cam as 
+
+Collection Harriet Flaatten, Oslo 
+
+
+
+of a pier — look ghostly. When the sky darkens, Balke guides his palette toward grays and ochers. Some 
+of his pictures of stormy seas are nearly monochromatic. Groth says that Balke "concentrates," meaning 
+that the earlier artist gathers immense significance into delicate, sometimes nearly unseeable nuances of 
+form and tone. Groth admires a comparable subtler)' in certain of Noguchi's sculptures. 
+
+There are no significant links, historical or stylistic, between a Northern Romantic like Peder Balke 
+and a twentieth-century avant-gardist like Isamu Noguchi. The point of mentioning them together is to 
+suggest Groth's ability to look beyond the narrow boundaries of his local heritage, to reimagine his 
+possibilities at every stage of his career. This process did not generate a rapid evolution in Groth's style, 
+nor, one could argue, a slow evolution. Instead, his vision of the past — the history of art that he has 
+devised for his personal use — has guided him as he sought to concentrate his own imagery, to give it that 
+paradoxical blend of openness and density he sensed as a child in the paintings of Peder Balke. Groth's 
+art doesn't evolve so much as it finds ways to reveal ever more directly its original premises. 
+
+
+
+16 
+
+
+
+Visiting New York nearly every year during the early 1970s, Groth was especially impressed by art 
+that we now label Minimalist. But Groth was already thirty-two years old by the time he first made 
+contact with the art world of Manhattan. Peder Balke aside, he had already felt other influences, found 
+other confirmations. In 1967 Groth met two figures who had the aura of legends in the art circles of 
+Copenhagen, Ernest and Sonja Ferlov Mancoba (see fig. 5). A Danish sculptor affiliated with the COBRA 
+group, she died in 1984 at the age of seventy-three. He is a South African sculptor, still living and working 
+in Paris, where he and Sonja had had a studio near Giacometti in the postwar years. Groth calls them 
+"my teachers." Though neither found lasting acceptance for their art until late in their lives, they main- 
+tained an idealism Groth found deeply impressive. Sonja Mancoba's attitude toward her work was espe- 
+cially important to the younger artist, who admired the continuity that led her from one sculpture to the 
+next and gave her entire oeuvre the wholeness of a single project. 
+
+
+
+5 
+
+Jan Groth, Sign, 1966, 1966, wool tapestry, and Sonja 
+Ferlov Mancoba, Confiance, 1963, bronze, installation 
+view, Aarhus Kunstmuseum, Denmark, Jan Groth og 
+Sonja Ferlov Mancoba 
+
+
+
+
+17 
+
+
+
+Henri Michaux 
+
+Mescaline Drawing. 1958 
+
+India ink on paper 
+
+Collection Solomon R. Guggenheim Museum, 
+
+New York 
+
+
+
+. 
+
+
+
+Mr"- 
+
+
+
+
+Of Morandi, Groth says, "He insists on art's metaphysical side, so-called, and so his quietness is not 
+merely quiet. It gives me important reminders." Light is one of Groth's subjects, which he feels he must 
+share with Morandi and Giacometti. "The play of physical light on Giacometti's later, thin forms" meant 
+much to Groth, who sees that elusive flicker as a way of turning metal, ordinary matter, into a kind of 
+gesture — the record of a thought, an intention. "And some of Henri Michaux's drawings showed me 
+that line could simply be itself — display a certain character. Michaux's handling of space wasn't so impor- 
+tant, only his sensibility, which he transferred to a minute play of lines, a texture [see fig. 6]." Of Norway's 
+contemporary artists, 01av Stromme was among the few with whom Groth felt an affinity. Stromme, 
+who died in 1978, belonged to an earlier generation, yet his late paintings approached Groth's tapestries 
+in their economy of visual means. 
+
+Groth says, "I am not a member of any generation. I overlap in all directions." Though he came to 
+New York often in the seventies, and now lives here for long stretches of time, Groth does not feel he is 
+becoming a New Yorker. He still considers himself a European, though he adds, "I always thought it 
+would be important to put Europe — my European background — in contrast with America. Not that 
+they're so different. It's always a matter of nuances. But, for instance, I had never seen anything quite 
+
+
+
+18 
+
+
+
+like those barrel-shaped fiberglas sculptures of Eva Hesse's, which The Museum of Modern Art showed 
+in 1970. They had color and no color at the same time." He sees a similar quietude — and tension — in 
+certain of Bailee's paintings and in winter scenes by the seventeenth-century Dutch landscapist Hendrik 
+Avercamp. "I like Avercamp's palette — just white," says Groth, "all the variety he gets from ice and 
+snow, those pale tones that lead the eye to the horizon, the single, taut line that divides the canvas with 
+one simple gesture." 
+
+Hesse's L-shaped sculptures of roughly wrapped fiberglas confirmed Groth's feeling that refinement 
+of line could survive in large works of art (see fig. 7). Nuance did not, for its own protection, need to be 
+
+
+
+
+7 
+
+Eva Hesse 
+
+Untitled. 1970 
+
+Fiberglas over polyethylene over aluminum wire 
+
+Collection Mr. and Mrs. Victor W. Ganz 
+
+
+
+19 
+
+
+
+
+8 
+
+Performance of Sticks choreographed by Tnsha 
+Brown. 1976 
+
+
+
+confined to drawing and other intimate formats. And there were other confirmations — in the monumental 
+linearity of Barnett Newman's Here /, and in the tenuous, always threatened line established during a 
+dance choreographed by Trisha Brown and performed by her company in 1 9-6 (see fig. 8). Called Sticks, 
+the piece required each dancer to lie on the floor, holding a stick end to end with two other sticks while 
+they moved their bodies around the line they had constructed. Groth appreciated the formal resemblance 
+between those sticks and the slightly wobbly lines in his drawings and tapestries, but more than that he 
+sensed in Trisha Brown's choreography an intention similar to his own — a wish to acknowledge the 
+tenuous quality of the line while struggling to overcome it, to make the line strong. In the course of that 
+struggle, (.roth saw the space around the line defined. 
+
+
+
+Groth also felt a confirmation of his own interests in the denser patterns of Michael Singer's sculpture, 
+built from stone and long, limber strips of wood; in the fields of sound intricately woven by the serial 
+music of Philip Glass and Steve Reich; and in the irregularities that the German sculptor Ulrich Riickriem 
+permits to appear in the midst of his rigidly geometric treatment of stone slabs (see fig. 9). "Ruckriem's 
+regularities are less interesting to me than his occasional informality, the way he forces granite to accept 
+the inflections of his hand. No melodrama about breaking free of the form, only subtleties within the 
+form." Despite their obvious differences, the stone carver and the tapestry weaver have one thing in 
+common: both must accept from their mediums an obdurate set of givens. To impose an individual 
+intention requires a disciplined patience. 
+
+In 1969, three years after he made his first black tapestry, Groth made his last white one (fig. 10). 
+He had exorcised the ghost of painting from his art, and this freed his woven line for economies even 
+more severe than he had already achieved. No trace of the painting's self-absorption in its own processes 
+
+
+
+
+Ulrich Riickriem 
+
+Granite Stone. 1972 
+
+Granite 
+
+Collection Renker, Corsica 
+
+
+
+
+IO 
+
+Jan Groth 
+
+Sign, 1969. 1969 
+
+Wool tapestry 
+
+Whereabouts unknown 
+
+
+
+remained. Nuances of his touch naturally persisted — as they still persist — in Groth's drawings, yet he 
+was putting more emphasis on the physical qualities of the oil-stick line. Less and less did Groth rely on 
+traditional signs of expressiveness. As in his tapestries, so in his drawings: feeling is concentrated in the 
+texture of the material. Drawing on smooth paper, Groth challenges himself to bring out its texture, its 
+elusive weave. Though his art is not in any sense Minimalist, Groth learned much from that American 
+art movement's insistence on stressing the immediate physicality of the art object. 
+
+Though it's convenient to call Groth's later tapestries black, a closeup look easily makes out their 
+mixture of dark brown and black. From a distance, the eye perceives only the mixture's richness. "Without 
+any brown," Groth points out, "the black would look gray. Light would bounce off it. The brown is 
+
+
+
+needed to absorb light, to give the field luminosity." And these dark fields look more luminous than 
+Groth's white tapestries — a paradox, until we recall that simple physical comparisons are beside the 
+point here. In literal fact, a white surface reflects more light than a dark one. But Groth's tapestries do 
+not encourage us to stay in the realm of the literal. Their images evoke a space elsewhere, a zone of 
+indeterminate scale and enveloping darkness, so the strongest light in his tapestries is, after all, imaginary. 
+
+The strength of Groth's tapestries begins with the play of light against dark, as lines run from edge 
+to edge of the woven fields, as they branch out from the center, or send what might be called a cartog- 
+rapher's impulse toward the boundary of the field and then back toward its interior. In drawings as well 
+as tapestries, Groth's positive forms — his lines — often function as the exploratory path that maps the 
+void, turning an undefined field into a precisely shaped negative form. Though he abandoned the white 
+field in 1969, the palette of the early tapestries persists in Groth's later work, supplying his lines with 
+their repertory of tones, which range from sharp white to decidedly grayish hues. "Those early whites," 
+says Groth, "became the colors the dark hues of the later works had to adjust to." 
+
+In Sign, 1983—84 (cat. no. 5), a tapestry finished in 1984, two lines stand upright near the center of 
+the field. Reaching almost, but not quite, to the lower edge of the tapestry, each of these vertical presences 
+sends a delicate tendril floating off toward the right. From a distance, the two figures look luminously 
+bright — and, if that is how they look, that is what they are. Yet it helps to approach the tapestry closely 
+for a moment, so closely that we lose sight of its full expanse. At this range, we see that the artist has 
+woven the two forms otSign, 1983-84 from a darkish white — not quite a gray, but a tone far less bright 
+than we might have expected. Contrast with the surrounding field gives the lines their brilliance. Noting 
+this helps us bear in mind how much weight Groth puts on visual relationships. No form or field in his 
+art has any meaning of its own; meaning appears as one element inflects another. 
+
+This, we might think, would inevitably be the case. Don't all works of art generate their significance 
+from the interplay of their elements? Most but not all; or, at least it should be observed that Minimalism 
+and its aftermath tried to reduce the artwork's internal relationships to extreme simplicity. We've seen 
+how powerfully Groth responded to those reductive tactics on his first visits to New York. Yet he never 
+attempted to integrate himself into the Minimalist tradition, with its preference for symmetry, seriality 
+and the sheer physicality of materials. 
+
+Whether making a drawing on paper or working out a design for a tapestry, Groth's linear forms 
+always present in their laconic way some trace of traditional composition — balance and counterbalance, 
+visual thesis and antithesis — of the kind that artists in the Minimalist tradition were so intent on banishing. 
+Nor has Groth ever followed the Minimalist practice of producing works in series; he intends each of 
+his drawings and tapestries to stand independent of the others. When one drawing recalls another, or 
+
+
+
+2-3 
+
+
+
+there is a close resemblance between a work on paper and a woven image, the viewer has discovered 
+evidence of Groth's intuitive evolution, not an indication he has followed a preset pattern in the Minimalist 
+manner. By inviting us to see an expansive, imaginary space beyond the weave of his tapestries and the 
+surface of his drawing paper, Groth completes the list of his major differences with Minimalists and their 
+heirs: they stress the literal; Groth undermines it, as we would expect from this descendant of Peder 
+Balke and Northern European Romanticism. 
+
+Since historical and critical commentary of the past decade has noted so many links between Romantic 
+landscape painters and the first generation of the New York School, we might expect Groth's imagery 
+to find a comfortable place beside the wide-open expanses, the allover fields, of Newman, Rothko and 
+their colleagues. Groth's art brings him close to these leaders of postwar American modernism, but he 
+does not appear to be completely at home in their vicinity. The New York School's pioneers sought a 
+release from the strictures of traditional composition and, more simply, a sense of liberation from the 
+edges of the canvas. They wanted the painting's frame to look arbitrary, so that the painting image could 
+read as the luminous emblem of infinity. 
+
+Reversed, the first generation's images of the absolutely unbounded became the Minimalists' simple 
+facts of absolute — and absolutely clear — containment. Just as Groth stops short of assimilation to a 
+Minimalist stance, so he resists the temptation to become a direct descendant of Barnett Newman and 
+his contemporaries — painters who invented the "allover field," as their suggestions of infinity are now 
+called. Groth acknowledges the possibility of unbounded pictorial space. The depths of his brown-inflected 
+expanses of black recede without impediment. Yet each of his distinctive white figures induces fragments 
+of infinity to give over their shapelessness, to become forms in response to the forming gestures of the 
+white lines, and to accept a place within the edges of a particular work. 
+
+With the arbitrary quality of its edges, an allover field by Barnett Newman or Jackson Pollock can 
+have only a contingent relationship with the architectural space in which we see it — and that air of 
+contingency, with its hint of unbounded openness, gives such images a portion of their strength. Groth's 
+art displays a different kind of strength, which originates in his persistent struggle to embed each of his 
+lines, whether light or dark, within its pictorial setting. He cultivates a look of necessity, not contingency, 
+and this gives him an interest in joining particular works to particular sites. Designed for a specific setting, 
+a tapestry's white line makes a double gesture — one within the imaginary space of the dark field, the 
+other within actual space, the realm defined by architectural form (see fig. 1 1). 
+
+Groth's most ambitious commission to date is a stage curtain, 2,100 square feet in area, for Det 
+Norske Teatret in Oslo (fig. 1 z). No tapestry can attain that size, so this project required Groth to reinvent 
+his technique. In place of a single expanse of tapestry there are twelve sections of heavy cotton duck. 
+
+
+
+M 
+
+
+
+
+II 
+
+Jan Groth 
+
+Sign, 1973-74. 1973-74 
+
+Wool tapestry 
+
+Collection Danmarks Radio, Radio/TV-Center, 
+
+Aarhus, Denmark 
+
+
+
+2.S 
+
+
+
+
+12 
+
+Jan Groth 
+
+Stage ( 'urtain. 1 984—8 5 
+
+Cotton embroidery 
+
+Main stage, Det Norske Teatret, Oslo 
+
+
+
+z6 
+
+
+
+After a team of assistants embroidered the white line on its surface, the curtain was sewn together by a 
+sailmaker. Once in place, the line — stitched in mercerized, reflective cotton thread — draws the attention 
+to the front of the theater, then guides the eye in a grand sweep from the upper left-hand corner of the 
+space, down toward the stage, then up again — an immensely theatrical gesture. Yet, as always, Groth 
+has been tactful. For all its power, this stage curtain presents an introduction to the theatrical spirit, not 
+an attempt to upstage the subsequent performance. 
+
+Groth has raised the quality of tact to a major aesthetic trait. One sees why Giorgio Morandi, Alberto 
+Giacometti and Henri Michaux have been so important to him. Yet those European heroes could not 
+have taught Groth how to come to such impressive terms with traditions of postwar American art. To 
+have found, on the one hand, a few strong influences and so many heartening confirmations among the 
+artists of the New York scene, and, on the other, to have remained independent, required much self-con- 
+fidence and an even higher degree of tolerant openness. Groth has rewritten modernist history on his 
+own terms, giving it a specifically Norwegian plot, one that leads us back to the still center where his 
+images originate. 
+
+When Groth draws, he begins near the midpoint of the paper sheet. Line appears as vision seeks the 
+boundaries of its pictorial realm. This is an imaginary quest carried out with bodily gestures in actual 
+space. Like all works of art (even the literalist sculptures of the Minimalists), Groth's drawings initiate 
+at the outset a tension between the actual and the Active. Whether dense or feathery, the mark of Groth's 
+crayon is always palpably, indubitably there before one's eyes. Yet metaphor intervenes early. At its 
+densest, the inscribed mark is "organic, like wet earth," the artist points out. And so are the dark fields 
+of his tapestries, if we overlook for a moment the seething, atmospheric nature of their weave. 
+
+Metaphor alternates with metaphor, meanings accumulate, and sometimes seem to vanish. Is a line 
+to be read as the boundary of a negative form, field turned into figure, or as a form in its own right? 
+Hesitating over such questions, the eye can lose track of Groth's imagery. But not for long. Though he 
+says, "My art is a balance between almost something and almost nothing," his intention is always present. 
+The tactful balance of extremes in Groth's art generates luminosity out of darkness, silence out of gran- 
+diloquent gestures. Sensual and dramatic, his images refuse to become spectacular, to overwhelm. No 
+matter how large, the imagination finds them approachable. 
+
+Having approached and entered an image, we read Groth's lines as metaphors of the artist's active 
+being, which he invites us to see as comparable to our own. The field is the ground, emotional and 
+imaginative, from which action arises. Groth's works encourage us to sense his presence in them. Then, 
+as the viewer moves in imagination past the boundaries of his own individuality, he identifies with 
+the artist. "I think," Groth says, "that it is possible for people to make identifications through objects, 
+
+
+
+2.7 
+
+
+
+to sense through my art my feeling of heing, of life. This is not an extroverted process, obviously. It takes 
+place on some inner level. But I am convinced it takes place. Confronted by my work, by the feelings I 
+express in the work, the viewer's sense of self will be expanded." 
+
+Groth's aesthetic, which defines art as the medium of emotional communication, of immediate exis- 
+tential contact, belongs to Expressionism. Having responded to sources ranging from Romanticism to 
+Minimalism, he has assimilated and reinvented them all. The results have made him a figure central to 
+the development of the Expressionist impulse in postwar European art. Expressionists tend to be overbear- 
+ing. Groth is the opposite, an Expressionist of silence and of light, of that ultimate inwardness where all 
+our emotions, even the most violent, must originate. 
+
+All comments by the artist are quoted from conversations held with the author during February and 
+March 1986. 
+
+
+
+2.8 
+
+
+
+Tapestries 
+
+
+
+
+Sign, 1970. 1970 
+
+Wool tapestry 
+
+59 x 83%" 
+
+Collection The Art Institute of Chicago, The Edward E. 
+
+Aver Fund Income, 1 97 }. 509 
+
+
+
+
+Sign, Standing, iyyo—ji. 1970-71 
+
+Wool tapestry 
+
+9&amp;V1X 159 '/2" 
+
+On loan to Louisiana Museum of Modern Art, 
+
+Humlebaek, Denmark; courtesy Galleri Riis, Oslo 
+
+
+
+31 
+
+
+
+Sign, 1981—81,. 1982-83 
+
+Wool tapestry 
+
+63 x 167" 
+
+General Electric Corporate Art Collection 
+
+
+
+33 
+
+
+
+
+detail, Sign, 198} 
+
+
+
+Sign, 1983. 1983 
+Wool tapestry 
+
+49 x 169" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+34 
+
+
+
+J 6 
+
+
+
+
+Sign, 1983-84. 1983-84 
+
+Wool tapestry 
+
+94'/ 2 x 155" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+37 
+
+
+
+
+detail, Sign, 1984-8$ 
+
+
+
+Sign, 1984-85. 1984-85 
+
+Wool tapestry 
+
+two parts, total 2 1 3 x - 1 " 
+
+Collection Norwegian Contractors, Oslo 
+
+
+
+40 
+
+
+
+Drawings 
+
+
+
+
+7 
+
+Untitled. 1971 
+
+Black crayon on paper 
+
+24 Vix 34%" 
+
+collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+
+
+
+
+
+
+
+Untitled. 1971 
+
+Black crayon on paper 
+
+2.4V1X 34 s /8" 
+
+Collection Solomon R. Guggenheim Museum, 
+
+New York, Anonymous Gift, 1 972 
+
+
+
+43 
+
+
+
+
+Untitled. 1972 
+
+Black crayon on paper 
+
+2.4 Vix 34 5 /b" 
+
+Collection The Museum of Modem Art, 
+
+New York, Anonymous Gift 
+
+
+
+44 
+
+
+
+
+
+IO 
+
+Untitled. 1972. 
+
+Black crayon on paper 
+
+24 Vi x 34V8" 
+
+Collection Solomon R. Guggenheim Museum, 
+
+New York, Anonymous Gift, 1973 
+
+
+
+45 
+
+
+
+V 
+
+
+
+*.' 
+
+
+
+
+it 
+
+
+
+I T 
+
+Untitled, 19-z 
+
+Black crayon on paper 
+
+2.4 Vix 34%" 
+
+Collection Solomon R. Guggenheim Museum, 
+
+New York, Anonymous Gift, 1 97 5 
+
+
+
+46 
+
+
+
+12 
+
+Untitled. 1975 
+
+Black crayon on paper 
+
+24V2X 34 s /»" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+47 
+
+
+
+
+
+
+
+13 
+
+Untitled. 1 9^5 
+
+Black crayon on paper 
+
+24V2X ^V 
+
+Collection The Museum of Modern Art, 
+
+New York. Anonymous Gift 
+
+
+
+48 
+
+
+
+1 
+
+
+
+i 
+
+
+
+\ 
+
+
+
+
+14 
+
+Untitled. 1976 
+
+Black crayon on paper 
+
+24 Vix 34%" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+
+15 
+
+Untitled. 1978 
+
+Black crayon on paper 
+
+2.4 Vix 34 5 /i&lt;" 
+
+Collection Steingrim Laursen, Copenhagen 
+
+
+
+
+i6 
+
+Untitled. 1978 
+Black crayon on paper 
+24V2X 34 5 /s" 
+Private Collection 
+
+
+
+17 
+
+Untitled. 1980 
+
+Black crayon on paper 
+
+24 '/&gt;x 34W 
+
+( ollcaion of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+Untitled. 1981 
+
+Black crayon on paper 
+
+24 Vix 34 5 /s" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+
+19 
+
+Untitled. 1983 
+
+Black crayon on paper 
+
+Z4V2X 34W 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+
+20 
+
+Untitled. 1983 
+
+Black crayon on paper 
+
+Z4V1X 34 5 /s" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+t 
+
+
+
+21 
+
+Untitled. r.983 
+
+Black crayon on paper 
+
+2.4 Vi x $4 5 /s" 
+
+Collection Narionalmuseum, Stockholm 
+
+
+
+
+22 
+
+Untitled. 1983 
+
+Black crayon on paper 
+
+24V2X 34%" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+
+
+
+
+2-3 
+
+Untitled. 1984 
+
+Black crayon on paper 
+
+14V1X 34%" 
+
+Collection of the artist; courtes) 
+
+Marian Goodman Caller.'- New York 
+
+
+
+
+
+
+
+2-4 
+
+Untitled. 1985 
+
+Black crayon on paper 
+
+z^Vix 34 s /«" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallery, New York 
+
+
+
+59 
+
+
+
+2-5 
+
+Untitled. 1985 
+
+Black crayon on paper 
+
+24 ' 2 x 34V8" 
+
+Collection of the artist; courtesy 
+
+Marian Goodman Gallerj , New York 
+
+
+
+60 
+
+
+
+6i 
+
+
+
+Biography 
+
+
+
+Born in Stavanger, Norway, 1938 
+
+Attended various art schools in Denmark and painted, 1956—59 
+
+Began to study tapestry techniques at de Uil tapestry studio, Amsterdam, i960 
+
+Started to execute own tapestry projects, 1961 
+
+Began weaving tapestries in Braade, Northwest Sjadland, Denmark, in collaboration with wife, Benedikte Groth, 1 96 1 
+
+First drawings, 1961 
+
+Abandoned painting, 1963 
+
+Grants, Danish National Bank, 1968, 1971, 1972., 1976, 1980 
+
+Grant, Danish Arts Council, 1970 
+
+First visit to New York, 1970 
+
+First exhibition in United States at Betty Parsons Gallery, New York, 1971; began to spend part of each year in New York 
+
+Grant, Stedelijk Museum, Amsterdam, 1976 
+
+Established studio in Copenhagen, 1979 
+
+Grants, Augutinus Foundation, Copenhagen, 1979, 1983 
+
+Faculty Member, School of Visual Arts, New York, 1982-present 
+
+Grant, Danish-Finnish Culture Foundation, Copenhagen, 1983 
+
+Grant, Nordic Art Center, Helsinki, 1983 
+
+Resides in Dagali, Norway, and New York 
+
+
+
+Betty Parsons and Jan Groth at Louisiana Museum of 
+Modern Art, Humlebaek, Denmark, 1 976 
+
+
+
+63 
+
+
+
+Selected Group Exhibitions 
+
+
+
+Documentation on the artist is on deposit in the Jan 
+Groth Archive at the Sonja Hemes og Niels Onstads 
+Snftelser (Henie-Onstad Art Center), Hovikodden, 
+Norway 
+
+Musee Cantonal des Beaux-Arts, Lausanne, Biennale 
+de Lausanne: i. Biennale Internationale des Tapis- 
+series, June i 8-Septemher 26, 1965. Catalogue with 
+text by Rene Berger 
+
+Det Danske Kunstindustrimuseum (Danish Museum 
+of Decorative Arts), Copenhagen, Form 68, May 3—19, 
+1 968. Catalogue with text by Henrik S. Mailer 
+
+Hoist Halvorsens Kunsthandel, Oslo,/j/7 Groth og 
+Sonja Ferlov Mancoba, April 17— May 13, 1969. 
+Catalogue with text by Uffe Harder. Traveled to 
+Aarhus Kunstmuseum, Denmark, September 2.7— 
+October 1 2 
+
+Musee Cantonal des Beaux-Arts, Lausanne, Biennale 
+de Lausanne: 4. Biennale Internationale des Tapis- 
+series, June 1 3— September 2.8, 1969. Traveled to 
+Musee des Gobelins, Mobilier National, Paris. 
+Catalogue with text Rene Berger 
+
+Fyns Stiffs Kunstmuseum (Fyn County Museum of 
+Fine Arts), Odense, Denmark, Nutidig International 
+Kurtst 1 Dansk eje (Contemporary International Art in 
+Danish Collections), November 29— December 1 4, 
+1969 
+
+Maison de la Culture, Grenoble, Tapisseries XV— XX 
+Siecle, April 4— May 1 o, 1 9~o 
+
+Sonja Henies og Niels Onstads Snftelser (Henie- 
+Onstad Art Center), Hnvikodden, Norway, Norsk 
+Vevkunst i det 10. Arh (Norwegian Tapestries of the 
+Twentieth Century), November 7— December 1 ?, 
+1970. Catalogue 
+
+Musee des Gobelins, Mobilier National, Paris, Tapis- 
+series Norre'giennes de I'Art Nouveau a nos jours, 
+
+
+
+March 30— May 17, 1971. Traveled to Musee des 
+Beaux-Arts, Rouen, May 22-June 10; Kunsthaus 
+Bocholt, August 19— September 19; Stadtisches 
+Museum, Braunschweig, October 30— November i~. 
+Catalogue with text by Marta Hoffman 
+
+Galerie La Demeure, Paris, 1 9- 1 
+
+Sonderjyllandshallen (South Jutland Hall), Aabenra, 
+Denmark, A — udstillingen (The A Exhibition), Oc- 
+tober 8—17, 1 97 1. Traveled to Aarhus Raadhushal 
+(Town Hall), Denmark, October 23—3 1 ; Aalborghal- 
+len (Aalborg Hall), Aalborg, Denmark, November 20- 
+28 
+
+Wadsworth Atheneum, Hartford, Recent Acquisitions, 
+
+January 16— March 4, 19^3 
+
+Grand Palais, Paris, Art Danois, 194 1"- -7 ?, May 23- 
+July 16, 197?. Catalogue with text by Henri Galy- 
+Charles 
+
+Solomon R. Guggenheim Museum, New York, Recent 
+Acquisitions: 1972—7?, August 9— September 3, 19-3 
+
+Akron Art Museum, Ohio, Line and Form, May 1 2- 
+June23, 19-4 
+
+Musee des Arts Decoratifs, Palais du Louvre, Paris, 
+Tapisseries Nouvelles, March 20-May 19, 1 9- v 
+Catalogue with text by Francois Mathey 
+
+Parsons-Truman Gallery, New York, 2 by 54. May 
+
+20— June 6, 1 s)-^ 
+
+Bern Parsons Gallery, New York, Old-New Drawings, 
+December 3-21, 19-5 
+
+Moderna Galerija, Ri]eka, Yugoslavia. V. med- 
+junarodna izlozba originalnog crteza I Fifth Interna- 
+tional Exhibition of Drawings .July 1 -September 30, 
+1976. Catalogue 
+
+Kunstmuseum Luzern, Neuerwerbungen, 19-6 
+
+Stedeli)k Museum, Amsterdam, Recent Acquisitions, 
+1976 
+
+
+
+64 
+
+
+
+The Art Institute of Chicago, zoth Century Drawings, 
+March 9— May 1, 1977 
+
+Parsons-Dreyfuss Gallery, New York, Selected Draw- 
+ings,! 97 7 
+
+Impressions Gallery, Boston, Drawing Now, April 2.9— 
+May 3 1, 1979 
+
+The Art Institute of Chicago, Selected Textile Acquisi- 
+tionsSince 1973, December 15, 1977-March 26, 
+1978 
+
+The Tate Gallery, London, Recent Acquisitions, May 
+2,7— September 12, 1980 
+
+Charlottenborg, Copenhagen, Ungdansk kunst 
+(Young Danish Art), August 22— September 14, 1980 
+
+Contemporary Arts Center, Cincinnati, The RSM Col- 
+lection, June 3- July 13, 1 981. Catalogue with text by 
+Robert Sterns 
+
+Roemer- und Pelizaeus-Museum, Hildesheim, Norwe- 
+gen Bildweberei und Email von Jahrhundert bis zur 
+Gegenwart, July 25— September 5, 1982. Traveled to 
+Museum fiir Kunst und Gewerbe, Hamburg, October 
+6— November 14; Hessisches Landesmuseum, Darm- 
+stadt, December 8, 1982— January 16, i983;DeZon- 
+nehof, Amersfoort, The Netherlands, January 30- 
+March 1 3. Catalogue with text by Jan-Lauritz Opstad 
+
+Brainerd Art Gallery, State University College of Arts 
+and Science, Potsdam, New York, 20th Anniversary 
+Exhibition of the Vogel Collection, October i-De- 
+cember 1 , 1982. Traveled to Gallery of Art, University 
+of Northern Iowa, Cedar Rapids, April 5-May 5, 
+1983. Catalogue with text by Giorgia Coopersmith 
+
+Galleriet Lund, Sweden, Svart pa vitt (Black on White), 
+January 14-February 1, 1984 
+
+Sonja Henies og Niels Onstads Stiftelser (Henie- 
+Onstad Art Center), Hovikodden, Norway, Norge- 
+USA-Norge,Jan Groth-Kjell Bjergeengen, August 8- 
+26, 1984. Catalogue with text by Per Hovdenakk 
+
+
+
+Centro de Arte Moderna, Fundagao Calouste Gulben- 
+kian, Lisbon, Exposicdo-Didlogo sobre a Arte Contem- 
+pordnea na Europa, March 28— June 16, 1985. 
+Catalogue with texts by W. A. L. Beeren and Rene 
+
+er 
+
+
+
+Kunstnernes Hus (Kunsthalle Oslo), Oslo, Ses;on 8; 
+(Session 85), June 1— July 14, 1985. Catalogue with 
+text by Arne Malmedal 
+
+Galerie Liesbeth Lips, Amsterdam, November 1-24, 
+1985 
+
+Cincinnati Art Museum, New Visions in Contempo- 
+rary Art, The RSM Company Collection, March 2 1 - 
+May 4, 1986. Catalogue with text by Judith Kirschner 
+
+
+
+6s 
+
+
+
+One-Man Exhibitions and Reviews 
+
+
+
+Det Danske Kunstindustrimuseum (Danish Museum 
+of Decorative Arts), Copenhagen, Jan Groth: Gobelin 
+til Amtsradhus 's-Hertogenbosch, Holland (Tapestry 
+tor Municipal Building, 's-Hertogenbosch), July 
+3] -August 15, 1 97 1 
+
+Bern- Parsons Gallery, New York, Jan Groth: Recent 
+Tapestries and Drawings, May 2— 20, 19-1 
+
+Lawrence Campbell, "Reviews and Previews," Art 
+News, vol. ~ 1 , Summer 1972, p. 5 2 
+
+Ellen Lubell, "Reviews: Jan Groth," Arts, vol. 46, 
+Summer 1972, p. 62 
+
+AK in Smith, "New York Letter," Art International, 
+vol. 16, October 1972, p. 54 
+
+Wadsworth Atheneum, Hartford, Jan Groth: Recent 
+Tapestries and Drawings, June 2^-July 30, 1972. 
+Traveled to Museum of Art, Carnegie Institute, 
+Pittsburgh, October 10— December 17; The Art 
+Institute of Chicago, January 10— February 18, 19-3. 
+Pamphlet 
+
+Fyns Snfts Kunstmuseum (Fyn Gounty Museum of 
+Fine Arts), Odense, Denmark, Jan Groth: Tegninger 
+(Drawings), February 17— March 18, 1973 
+
+Busch-Reisinger Museum, Harvard University, 
+Cambridge, Massachusetts, Drawings by Jan Groth, 
+March 10— April - , 1973 
+
+Aarhus Kunstmuseum, Denmark, Jan Groth: Teg- 
+ninget 1 &gt;rawings), March 24-April 8, 1 9- ; 
+
+Betty Parsons Gallery, New York, jan Groth: Recent 
+Drawings, December 4-22, 1 973 
+
+Lawrence Campbell, "Reviews and Previews," Art 
+News, vol. 73, February 19-4, p. 104 
+
+Phyllis Derfner, "New York Letter," Art Interna- 
+tional, vol. 1 8, February 1 9-4, p. 49 
+
+
+
+Ellen Lubell, "Reviews: Jan Groth," Arts, vol. 48, 
+February 1 974, p. 68 
+
+Sonja Henies og Niels Onstads Stiftelser (Henie- 
+Onstad Art Center), Havikodden, Norway, Jan 
+Groth: Gobelmer og Tegninger (Tapestries and 
+Drawings), May 22— June 30, 1 974. Traveled to 
+Bergens Kunstforening (Bergen Art Society), Norway, 
+September 6—22, 1974; Louisiana Museum of 
+Modern Art, Humlebaek, Denmark, January 1 8-Feb- 
+ruary 2?, 19^5. Catalogue with texts by Nicolas Calas 
+and Per Hovdenakk 
+
+Museum am Ostwall, Dortmund, Jan Groth, October 
+5— November 30, 19-5 
+
+Gentofte (Communes Kunstbibliotek, Tranegaarden, 
+Copenhagen, Jan Groth: Tegninger (Drawings), Janu- 
+ary 10— February 1, 19-76 
+
+Fyns Stifts Kunstmuseum (Fyn Count) - Museum of 
+Fine Arts), Odense, Denmark, Jan Groth: Nye teg- 
+ninger (New Drawings), February 7— March 7, 1 976 
+
+Musee d'Art Moderne de la Ville de Pans. Jan Groth: 
+Autourdela l.igne, June 2.5— August 1 5, 19-6. 
+Catalogue with text by Gertrud Kobke Sutton 
+
+Betty Parsons Gallery, New York, Jan Groth: Recent 
+Tapestries, December 7—3 1 , 1 9-6 
+
+Noel Frackman, "Saul Steinberg Jan Groth," Arts, 
+vol. 5 1, February 1 9 — , p. 26 
+
+Shirley Marein, "New York Fiber." Craft Horizons, 
+vol. ?-, April 19 — , p. 5 1 
+
+Galleri CC, Aarhus, Denmark, Jan Groth: Tegninger 
+(Drawings), April 4— May 16, 19-8 
+
+Bern- Parsons Gallery, New York, Jan Groth. Recent 
+Drawings, September 19— October-, 19-8 
+
+Barbara Cavaliere, "Jan Groth," Arts, vol. 5 3, 
+November 1 9-8, p. 2^ 
+
+
+
+66 
+
+
+
+Kay Larson, "New York Reviews: Jan Groth," Art 
+News,vo\. 77, November 1978, pp. 188-190 
+
+Carter Ratcliff, "Jan Groth at Betty Parsons," Art in 
+America, vol. 67, January 1979, pp. 144—145 
+
+Sonja Hemes og Niels Onstads Stiftelser (Henie- 
+Onstad Art Center), Hovikodden, Norway, Jan Groth: 
+Tematiske Tegmnger (Thematic Drawings), 
+November-December 1978. Traveled to Esbjerg 
+Kunstpavillion, Denmark, December 1 978— January 
+1979; Liljevalchs Konsthall, Stockholm, February- 
+March; Aarhus Kunstmuseum, Denmark, April; Or- 
+drupgardsamlingen, Copenhagen, May— June; Staat- 
+liche Kunsthalle Baden-Baden, September— October; 
+Kunsthaus Zurich, October— November; Stadtische 
+Galerie im Lenbachhaus, Munich, December 1979— 
+January 1980; Museum of Modern Art, Oxford, Feb- 
+ruary—March. Catalogue with text by Oystein Hjort 
+
+Stavanger Kunstforening (Stavanger Art Society), Nor- 
+way, Jan Groth: Tegmnger (Drawings), January 10— 
+2.0, 1979 
+
+Nordiskt Konstcentrum, Sveaborg, Helsinki, Jan 
+Groth: Gobelanger och teckningar (Tapestries and 
+Drawings), March 16— April 16, 1979. Traveled to 
+Tampereen Nykytaiteen Museo (Museum of Modern 
+Art), Tampere, Finland, May 4—30. Catalogue with 
+text by Per Hovdenakk 
+
+Galleri Clemens, Aarhus, Denmark, Jan Groth: Nye 
+Tegmnger (New Drawings), May 4—30, 1 979 
+
+Betty Parsons Gallery, New York, Jan Groth: Recent 
+Works, November 1 8— December 6, 1980 
+
+Duane Stapp, "Jan Groth" Arts, vol. 55, January 
+198 1, p- 3 3 
+
+Wadsworth Atheneum, Hartford, Matrix no. 64, Janu- 
+ary 28-March 29, 1 98 1. Pamphlet with text by Carter 
+Ratcliff 
+
+
+
+Galleriet Lund, Sweden, Jan Groth: Teckningar 
+(Drawings), March 7— April 1, 198 1 
+
+Galleri Clemens, Aarhus, Denmark, Jan Groth: Nye 
+Tegninger (New Drawings), June 12— July 1981 
+
+Nordjyllands Kunstmuseum (North Jutland Art 
+Museum), Aalborg, Denmark, Jan Groth: Gobeliner 
+og tegninger gennern 2.0 ar (Twenty Years of Tapestries 
+and Drawings), July 10-September 6, 1 981. Catalogue 
+with text by Gertrud Kobke Sutton 
+
+Galleri Per Sten, Copenhagen, Jan Groth: Nye Teg- 
+mnger (New Drawings), September 25— October 3 1, 
+1981 
+
+Galleri Dobloug, Oslo,/a« Groth: Tegninger (Draw- 
+ings), August 18-September 5, 1982 
+
+Volda Kunstlag ( Volda Art Society), Norway, Jan 
+Groth: Tegninger (Drawings), October ?-io, 1982 
+
+Marian Goodman Gallery, New York, Jan Groth— 
+New works: tapestries and drawings, June 28-July 22, 
+1983 
+
+Donald Kuspit, "Jan Groth," Artforum, vol. 22, 
+November 1983, pp. 81-82 
+
+Galleri Riis, Os\o, Jan Groth: 25 tegningen 'drawings, 
+September 26— October 20, 1985 
+
+Moderna Museet, Stockholm, Jan Groth: Teckningar, 
+1975—85 (Drawings, 1975— 85), January 25— March 9, 
+1986. Traveled to Louisiana Museum of Modern Art, 
+Humlebaek, Denmark, April 5— May 1 1 ; Nordjyllands 
+Kunstmuseum (North Jutland Art Museum), Aalborg, 
+Norway, July 4— August 17. Catalogue with texts by 
+Olle Granath and Carter Ratcliff 
+
+Marian Goodman Gallery, New York, July 8-August 
+
+
+
+67 
+
+
+
+
+
+
+&lt;¥ \- 
+
+
+
+WsT 
+
+
+
+¥* 
+
+
+
+I .'..'- 
+
+
+
+£&amp; 
+
+
+
+■ *j 
+
+
+
+w*j 
+
+
+
+*' 
+
+
+
+Bibliography 
+
+
+
+Books 
+
+Rose Slivka, The Crafts of the Modern World, New York, 1968, p. 102 
+
+Leif 0stby, Norges kunsthistone, Oslo, 1977, pp. 270—273 
+
+Marjorie Elliott Bevlin, Design Through Discovery: Brief Edition, New York, 1980, p. 52 
+
+Ronald Alley, Catalogue of The Tate Gallery's Collection of Modern Art other than works by British Artists, London, 
+1 98 1, pp. 342-343 
+
+Periodicals 
+
+HowardenaPindell, "Jan Groth and the Constructed Line," Craft Horizons, vol. XXXII, August 1972, pp. 12—15, 63 
+Nicolas Calas, "Jan Groth," Art International, vol. XVIII, September 20 , 1974, pp. 60—61 
+Nicolas Calas, "Jan Groth," XXe Siecle, vol. 44, June 1975, p. 180 
+Michael Florescu, "Jan Groth," Arts, vol. 53, January 1979, p. 13 
+
+Film 
+
+Decent artists would never use black, 1986. Produced by Fri Mediagruppe, A/S, Oslo, directed by Are Storstein 
+
+
+
+Jan and Benedikte Groth, Braade, Denmark, 1 97 1 
+
+
+
+69 
+
+
+
+Commissions 
+
+
+
+Tapestries for board room, Nationale Nederlanden, The Hague, 1968—69 
+
+Tapestry for Provinciehuis Noord-Brabant (Municipal Building), 's-Hertogenbosch, The Netherlands, 1970—71 
+
+Tapestry for lobby, Danmarks Radio (Radio and TV Building), Aarhus, Denmark, 1973—74 
+
+Tapestries for Beauvais Tapestry Studios, Paris, commissioned by Ministere des Affaires Culturelles, Manufactures 
+Nationales des Gobelins et de Beauvais, Paris, 1975 
+
+Tapestries for Kabenhavn Amts Sygehus (Copenhagen County Hospital), Herlev, Denmark, 1976—77 
+
+Tapestry for stairway of home of Mr. and Mrs. R. A. Kidder, Washington, D.C., 1980—8 1 
+
+Tapestry for Skaadalen Skole for Horselshemmede (School for the Deaf), Oslo, 1981 
+
+Tapestries for lobby, Norwegian Contractors, Oslo, 1984-85 
+
+Curtain for main stage, Det Norske Teatret, Oslo, 1984-85 
+
+
+
+Installation view, Nordjyllands Kunstmuseum, 
+Aalborg, Denmark, Jan Groth: Gobeliner ogtegrtinger 
+gennetn 20 dr, 1981 
+
+
+
+Museums and Public Collections 
+
+
+
+Aarhus Kunstmuseum, Denmark 
+
+Amos Andersonin Taidemuseo, Helsinki 
+
+Arkiv for Dekorativ Konst, Lund, Sweden 
+
+The Art Institute of Chicago 
+
+Bergens Kunstforening 
+
+Busch-Reisinger Museum, Harvard University, Cambridge, Massachusetts 
+
+Cincinnati Art Museum 
+
+Cleveland Museum of Art 
+
+Fondation Maeght, Saint Paul de Vence, France 
+
+Fyns Stiffs Kunstmuseum (Fyn County Museum of Fine Arts), Odense, Denmark 
+
+Graphische Sammlung Albertina, Vienna 
+
+Solomon R. Guggenheim Museum, New York 
+
+Son|a Hemes og Niels Onstads Stiftelser (Henie-Onstad Art Center), Hovikodden, Norway 
+
+Kunstmuseum Bern 
+
+Kunstmuseum Luzern 
+
+Louisiana Museum of Modern Art, Humlebaek, Denmark 
+
+Malma Museum, Sweden 
+
+The Metropolitan Museum of Art, New York 
+
+Musee des Gobelins, Mobilier National, Paris 
+
+Musee National d'Art Moderne, Centre Georges Pompidou, Pans 
+
+Museum of Art, Carnegie Institute, Pittsburgh 
+
+The Museum of Modern Art, New York 
+
+Museum of Modern Art, Oxford 
+
+Museum am Ostwall, Dortmund 
+
+Nasjonalgalleriet, Oslo 
+
+Nationalmuseum, Stockholm 
+
+
+
+71 
+
+
+
+Oslo Kommunes Kunstsamlinger 
+
+Riksgalleriet, Fornebu Hovegard, Norway 
+
+Statens Kunstfond (Danish Art State Foundation), Copenhagen 
+
+Statens Museum for Kunst, Copenhagen 
+
+Stavanger Faste Galleri (Municipal Gallery), Norway 
+
+Stedelijk Museum, Amsterdam 
+
+The Tate Gallery, London 
+
+Wadsworth Atheneum, Hartford 
+
+Walker Art Center, Minneapolis 
+
+
+
+73 
+
+
+
+Ph o to graph ic Credi ts 
+
+
+
+Color 
+
+Courtesy The Art Institute of Chicago: cat. no. i 
+
+David Health cover 
+
+Courtesy Louisiana Museum of Modern Art, Humlebaek, Denmark: cat. no. z 
+
+Teigens Fotoatelier A.S., Oslo: cat. no. 4 
+
+Black and White 
+
+Randers Amtsavis; courtesy Jan Groth: fig. 5 
+
+Courtesy Marian Goodman Gallery, New York: cat. nos. 21, 22 
+
+Carmelo Guadagno and David Heald: fig. 3 
+
+Courtesy Jan Groth: p. 2 
+
+Lars Hansen, Copenhagen: p. 8 
+
+Anne Sophie Rubaek Hansen, Hillerod Denmark: p. 62 
+
+David Heald: cat. nos. 7, 1 2, 14, 17—20, 23— 25, fig. 6 
+
+Courtesy Steingrim Laursen, Copenhagen: cat. no. 1 5 
+
+Lrling Mandelmann, Lausanne: figs. 1, 2, p. 6 
+
+© Babette Mangolte, 1976: fig. 8 
+
+Robert E. Mates: cat. nos. 8, 10, 1 1 
+
+Courtesy The Museum of Modern Art, New York: cat. nos. 9, 1 3 
+
+Leif Nielsen, Copenhagen: fig. 10 
+
+Thomas Pedersen and Poul Pedersen, Aarhus: cat. no. 3 
+
+Hans Petersen, Statens Museum for Kunst, Copenhagen: p. 68 
+
+Eric Pollitzer, New York: fig. 7 
+
+Teigens Fotoatelier A.S., Oslo: cat. nos. 4 detail, s, 6, 6 detail, fig. i 2 
+
+&lt; Ksben H. Thorning, Aalborg: p. 70 
+
+O. Vaerning, Oslo: fig. 4 
+
+
+
+74 
+
+
+
+THE SOLOMON R. GUGGENHEIM FOUNDATION 
+
+HONORARY TRUSTEES IN PERPETUITY 
+
+Solomon R. Guggenheim, Justin K. Thannhauser, Peggy Guggenheim 
+
+PRESIDENT Peter Lawson-Johnston 
+
+VICE PRESIDENT The Right Honorable Earl Castle Stewart 
+
+TRUSTEES Elaine Dannheisser, Michel David-Weill, Carlo De Benedetti, Joseph W. Donner, Robin Chandler Duke, Robert M. Gardiner, John 
+S. Hilson, Harold W. McGraw, Jr., Wendy L-J. McNeil, Thomas M. Messer, Denise Saul, William A. Schreyer, Bonnie Ward 
+Simon, Seymour Slive, Peter W. Stroh, Stephen C. Swid, Rawlcigh Warner, Jr., Michael F. Wettach, Donald M. Wilson, William T. 
+Ylvisaker 
+
+ADVISORY BOARD Donald M.BIinken, BarrieM. Damson, Donald M. Feuerstein, Linda LeRoy Janklow, Seymour M. Klein, HanneloreSchulhot 
+
+SECRETARY-TREASURER Theodore G. Dunker 
+
+STAFF Joy N. Fearon, Assistant Treasurer; Patricia Hogan, Administrative Secretary 
+
+DIRECTOR Thomas M. Messer 
+
+SOLOMON R. GUGGENHEIM MUSEUM 
+
+DEPUTY DIRECTOR Diane Waldman 
+
+ADMINISTRATOR William M.Jackson 
+
+STAFF Vivian Endicott Barnett, Curator; Lisa Dennison, Susan B. Hirschfeld, Assistant Curators; Carol Fuerstein, Editor; Son]a Bay, 
+Librarian; Ward Jackson, Archivist; Diana Murphy, Editorial Coordinator; Susan Hapgood, Curatorial Coordinator; Nancy 
+Spector, Thomas Padon, Curatorial Assistants 
+Louise Averill Svendsen, Curator Emeritus 
+
+Cherie A. Summers, Registrar; Jane Rubin, Kathleen M. Hill, Associate Registrars; Stephanie Stitt, Assistant Registrar; Saul 
+Fuerstein, Preparator; David M. Veater, Assistant Preparator; William Smith, Am Gonzalez Rivera, Preparation Assistants; 
+Hubbard Toombs, Technical Services Coordinator; Leni Potoff, Associate Conservator; Gillian McMillan, Jean Rosston, Assistant 
+Conservators; Scott A. Wixon, Operations Manager; Tony Moore, Assistant Operations Manager; Takayuki Amano, Head 
+Carpenter; David M. Hcald, Photographer; Myles Aronowitz, Assistant Photographer; Regina O'Brien, Photography Coordinator 
+
+Mimi Poser, Officer for Development and Public Affairs; Carolyn Porcelli,JohnT. Landi, Development Associates; Elizabeth K. 
+Lawson, Membership Associate; Holly C. Evarts, Public Affairs Associate; Shannon Wilkinson, Public Affairs Coordinator; Linda 
+Gering, Special Events Coordinator; Mildred Wolkow, Development Coordinator; Clare Pauline Bell, Denise Bouche, Membership 
+Assistants; Sarah-Everett Lee, Public Affairs Assistant; Judy A. Ornstein, Computer Assistant 
+
+Agnes R. Connolly, Auditor; Suzanna Watkins, Accounting Assistant; Stcfanie Levinson, Sales Manager; John Phillips, Assistant 
+Sales Manager; Marguerite Vigliante, Trade Sales Assistant; Maria Masciotti, Manager of Cafe and Catering; Fred Lee, Assistant 
+Manager of Cafe and Catering; Alin Paul, Mail Clerk; Maydonna Brady, Switchboard Operator; Myro Riznyk, Building Manager; 
+Arthur McCaffrey, Assistant Building Manager; Robert S. FTorz, Chief of Security; Elbio Almiron, Mane Bradley, Carlos Rosado, 
+Assistant Security Supervisors 
+
+Ann Kraft, Executive Coordinator; Jill Snyder, Administrative Assistant; Robin Smith, Assistant to the Administrator; Elisabeth 
+Hodermarsky, Administrative Secretary 
+
+LIFE MEMBERS Jean K. Benjamin, Irving Blum, Mr. and Mrs. B. Gerald Cantor, Eleanor, Countess Castle Stewart, Mr. and Mrs. Barne M. 
+
+Damson, Mr. and Mrs. Werner Dannheisser, William C. Edwards, Jr., Donald M. Feuerstein and Jacqueline Dryfoos, Mr. and Mrs. 
+Andrew P. Fuller, Agnes Gund, Susan Morse Hilles, Mr. and Mrs. Morton L. Janklow, Mr. and Mrs. Donald L.Jonas, Mr. and 
+Mrs. Seymour M. Klein, Mr. and Mrs. Peter Lawson-Johnston, Mr. and Mrs. Alexander I.iberman, Rook McCulloch, Mr. and 
+Mrs. Thomas M. Messer, Mr. and Mrs. Robert E. Mnuchin, Mr. and Mrs. Irving Moskovitz, Elizabeth Hastings Peterfreund, Mrs. 
+Samuel I. Rosenman, Clifford Ross, Mr. and Mrs. Andrew M. Saul, Mr. and Mrs. Rudolph B. Schulhof, Mrs. Evelyn Sharp, Mrs. 
+Leo Simon, Mr. and Mrs. Stephen A. Simon, Sidney Singer, Jr., Mr. and Mrs. Stephen C. Swid, Mrs. Hilde Thannhauser, Mr. and 
+Mrs. Stephen S. Weisglass, Mr. and Mrs. Philip Zierler 
+
+INSTITUTIONAL Alcoa Foundation, Atlantic Richfield Foundation, The Owen Cheatham Foundation, Exxon Corporation, Robert Wood Johnson Jr. 
+PATRONS Charitable Trust, Knoll International, The Kresge Foundation, L. A. W. Fund, Robert Lehman Foundation, The Andrew Mellon 
+
+Foundation, Mobil Corporation, Montedison Group, Philip Morris Incorporated, Regione Veneto, United Technologies Corporation 
+
+Institute of Museum Services, National Endowment for the Arts, National Endowment for the Humanities, New York State 
+Council on the Arts 
+
+
+
+75 
+
+
+
+Exhibition #6 i" 
+
+4,500 copies of this catalogue, designed by Malcolm 
+Grear Designers and typeset by Meriden-Stinehour 
+Press have been printed by Eastern Press in June 1 986 
+for the Trustees of The Solomon R. Guggenheim 
+Foundation on the occasion of the exhibition 
+JanGroth. 
+
+
+
+76 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0034   0.0034      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0052   0.0018      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0074   0.0022     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0123   0.0050   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0125   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0829   0.0703              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=82;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

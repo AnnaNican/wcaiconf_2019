@@ -1,0 +1,4236 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "John Chamberlain : a retrospective exhibition"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/johnchamberlainr00cham">John Chamberlain : a retrospective exhibition</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/johnchamberlainr00cham">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+JOHN CHAMBERLAIN 
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/johnchamberlainrOOcham 
+
+
+
+JOHN CHAMBERLAIN 
+
+
+
+A RETROSPECTIVE EXHIBITION BY DIANE WALDMAN 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, NEW YORK 
+
+
+
+TRUSTEES 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+President 
+
+Peter O. Lawson-Johnston 
+
+H. H. Arnason 
+
+Eleanor, Countess Castle Stewart 
+
+Joseph W. Donner 
+
+Mason Welch Gross 
+
+Henry Allen Moe 
+
+A. Chauncey Newlin 
+
+Mrs. Henry Obre 
+
+Daniel Catton Rich 
+
+Albert E. Thiele 
+
+Michael F. Wettach 
+
+Carl Zigrosser 
+
+
+
+Published by The Solomon R. Guggenheim Foundation 
+New York, 1971 
+
+All Rights Reserved 
+
+® The Solomon R. Guggenheim Foundation, 1971 
+
+Library of Congress Card Catalogue Number 79-187300 
+
+Printed in the United States of America 
+
+
+
+Cover: Untitled 1970, Cat. No. 102 
+
+
+
+LENDERS TO THE EXHIBITION 
+
+
+
+Dr. and Mrs. Nathan Alpers, Beverly Hills 
+
+American Broadcasting Companies, Inc., New York 
+
+David Anderson, New York 
+
+Richard Artschwager, New York 
+
+Elizabeth C. Baker, New York 
+
+Mr. and Mrs. Brooks Barron, Detroit 
+
+Richard Bellamy, New York 
+
+Mr. and Mrs. Leo Castelli, New York 
+
+Charles Cowles, New York 
+
+Mrs. Marcel Duchamp, New York 
+
+Heiner Friedrich, Cologne 
+
+Mr. and Mrs. Harry Glasgall, New York 
+
+Wolfgang Hahn, Cologne 
+
+Jasper Johns, New York 
+
+Philip Johnson, New Canaan, Connecticut 
+
+Flavin Judd, New York 
+
+Julie and Don Judd, New York 
+
+Rainer Judd, New York 
+
+Mr. and Mrs. Ivan C. Karp, New York 
+
+Walter Kelly, Chicago 
+
+Mr. and Mrs. Alvin S. Lane, New York 
+
+Sydney and Frances Lewis, Richmond, Virginia 
+
+Mr. and Mrs. Arthur Mones, New York 
+
+Dolores and Hubert Neumann, New York 
+
+Jerald Ordover, New York 
+
+Mr. and Mrs. Stanley Poler, New York 
+
+Mr. and Mrs. Fredric M. Roberts, Lawrence, New York 
+
+Mr. and Mrs. Robert A. Rowan, Los Angeles 
+
+Mickey Ruskin, New York 
+
+Mr. and Mrs. Jared Sable, Toronto 
+
+Mr. and Mrs. Seymour Schweber, Great Neck, New York 
+
+
+
+Collection Shangopolo 
+
+Frank Stella, New York 
+
+Mr. and Mrs. William M. Speiller, Washington, D.C. 
+
+Mr. and Mrs. Allan Stone, New York 
+
+Mr. and Mrs. Michael Sundell, Cleveland 
+
+Mr. and Mrs. Burton Tremaine, Meriden, Connecticut 
+
+Mr. and Mrs. Herbert Vogel, New York 
+
+Samuel J. Wagstaff, Jr., New York 
+
+Andy Warhol, New York 
+
+John W. Weber, New York 
+
+Albright-Kno.x Art Gallery, Buffalo 
+
+Detroit Institute of Arts 
+
+The Solomon R. Guggenheim Museum, New York 
+
+Los Angeles County Museum of Art 
+
+The Museum of Modern Art, New York 
+
+William Rockhill Nelson Gallery and Atkins Museum of 
+
+Fine Arts, Kansas City 
+
+Pasadena Art Museum 
+
+Sammlung Karl Stroher im Hessischen Landesmuseum, 
+
+Darmstadt, Germany 
+
+Whitney Museum of American Art, New York 
+
+George Peabody College Fine Arts Museum, 
+
+Nashville, Tennessee 
+
+The Tate Gallery, London 
+
+Leo Castelli Gallery, New York 
+Noah Goldowsky Gallery, New York 
+Martha Jackson Gallery, Inc., New York 
+Locksley-Shea Gallery, Minneapolis 
+Lo Giudice Gallery, New York 
+
+
+
+ACKNOWLEDGEMENTS 
+
+
+
+I would like to express my gratitude to the many individuals who have helped to 
+make this exhibition possible, particularly Mary-Ann Barcelona, Richard Bellamy, 
+Leo Castelli, Jim Jacobs, Don Judd, Joseph Lo Giudice, Jane Salzfass, Allan Stone, 
+Tamara Tovey and Barbara Wool. I am also very grateful to the numerous mem- 
+bers of the Guggenheim's staff who have helped me during the various stages of the 
+exhibition's preparation, especially Linda Shearer for her general assistance, Carol 
+Fuerstein for editing the catalogue, Ward Jackson for compiling the bibliography, 
+Beverly Liftman and Sabine Rewald, as well as the staffs of the Conservation and 
+Registrar Departments. Needless to say, the extreme generosity and enthusiasm 
+on the part of the lenders has been of the utmost importance to the exhibition. 
+I am, of course, most deeply indebted to John Chamberlain for his invaluable 
+cooperation and for the great pleasure of working with him on the occasion of 
+this exhibition. 
+
+
+
+D.W. 
+
+
+
+INTRODUCTION 
+
+
+
+If the Abstract Expressionist emphasis on the act or process of making a painting 
+is still a significant feature of the art of the seventies, then its more immediate 
+impact on late fifties art was a truly influential, if not always fruitful, feature of 
+both painting and sculpture. Where it led both Johns and Rauschenberg into ironic 
+commentary on that act, which culminated in Pop Art, it produced, in the late 
+fifties, a form of Neo-Dada best exemplified by The Museum of Modern Art exhi- 
+tion Assemblage of 1961. Although the exhibition included artists of different 
+persuasions, it succeeded in pointing out the fascination with materials that was 
+especially prominent in the last years of the fifties, which Pop Art with seeming 
+finality abruptly terminated. 
+
+The single exception to a period that can now he seen as clearly transitional 
+was John Chamberlain. Chamberlain alone transcended his materials and seized 
+upon the found object — the automobile — exploiting it for its potential as form. 
+Like de Kooning, who subverted the materialism of paint, Chamberlain used the 
+ready-made form of the automobile to arrive at another end. The irony of using 
+a mass-produced commodity which then, as now, stands as a symbol of the 
+American dream, and as a more particularized metaphor of American masculinity, 
+has not been lost upon us — just as the transcendental character of pigment is im- 
+pressed on us by de Kooning — and, indeed, heightens our awareness of the trans- 
+formation into art. 
+
+The significance of the automobile notwithstanding, it was the unmasking of 
+the known commodity and its alteration into another presence that interested 
+Chamberlain. He predicted subsequent developments in Pop Art without, how- 
+ever, finding it necessary to retain a perceptible relationship between his point of 
+origin and the real world. Chamberlain's approach, on the other hand, was not 
+unlike that of the Abstract Expressionists. Although he started with parts of a 
+known c]uantity, the body or fenders of a car, he never knew how the final form 
+would take shape. Like the Abstract Expressionists, but unlike early sixties work 
+in general, he realized a sculpture based on what can best be described as culti- 
+vated intuition, his sculpture was a development from the fifties concept of calling 
+forth an image from the \oid. Chamberlain took this one step further by first 
+
+5 
+
+
+
+destroying a known form. In some respects this process, or its end state, is simi- 
+lar to other artists working during the late fifties. But unHke them. Chamberlain 
+has maintained a perfect equilibrium between the original state of his object and 
+its final transformation, without retaining any specific clues to the former domain. 
+In assemblage those clues were incorporated into the work itself as remnants 
+of a former existence. As memory clues, they constituted a continually shifting, 
+ultimately evasive record of the presence of the object as form. Chamberlain's 
+work, if visually fragmented, was nonetheless totally cohesive as a plastic state- 
+ment. It was virtually devoid of shifts in time or any other reference; its success 
+stemmed from the fact that as a physical presence it was supremely itself. 
+
+Chamberlain's welded and steel constructions, of 1957, like the work of other 
+young sculptors who matured during the late fifties, bear the considerable in- 
+fluence of David Smith. In these works he is concerned with materials which 
+incorporate a raw industrial look and a welding technique that makes evident 
+the explicit joining of the parts that went into the sculpture. Process, which still 
+plays an important role today in sculpture, was an evident manifestation of 
+Abstract Expressionism that David Smith translated into a significant feature 
+of his work and which Chamberlain later reiterated in his own sculpture (Ballan- 
+tiiie p. 23, and Cord, cat. no. 3, both 1957). The emphasis on materials and 
+process notwithstanding. Chamberlain's early work reveals some fascinating con- 
+trasts to that of Smith — most pronounced in terms of form — and is indicative 
+of his future direction. Assuming that Chamberlain was initially influenced to a 
+considerable degree by the linear arabesques of David Smith (out of Pollock), it is 
+nonetheless significant that he did not share the passion for metaphor that was so 
+prominent a feature of Smith's work of the fifties. There is an important difference 
+between the emphasis on materials and metaphor. Chamberlain never allowed his 
+materials to get in the way of form. For Chamberlain, even at this formative stage 
+of his career, his direction was toward a virtual abstraction. Surrealist symbolism 
+— or its American translation, the pictograph — that first informed forties painting 
+and then Smith's work of the early fifties (the Agricola series) was inherently alien 
+to Chamberlain's work. His early style derived fundamentally from the vibrant 
+painterly abstraction of de Kooning and the energy and thrust of Kline, rather 
+than the literal symbolism of Smith. Since Smith's fifties sculpture ultimately led 
+to the production of his major work — the Ciibis — in the sixties, it was inevitable 
+that Chamberlain would develop quite independently. Ultimately, it was not a 
+matter of Chamberlain's imitation or improvement of Smith, but his recognition 
+of a major sculptor and willingness to use certain precepts to foster his own ideas. 
+
+Just as Smith's sculpture was preeminently linear and retained, even in the 
+Ctibis, a fondness for the pictorial, so Chamberlain has expressed a conviction 
+about mass and volume that led him away from Smith fairly early in his career. 
+Where Smith's Cubist orientation guided him toward innovation in sculpture 
+based upon the picture plane, and to work that is fundamentally space envelop- 
+ing (like Henry Moore's) Chamberlain's point of departure has been the exten- 
+sion of mass which captures space by pressure from a central point. Even in such 
+early works as Shortstop (cat. no. 4), 1957, based on a linear configuration, 
+Chamberlain has expressed his increased awareness of the physical presence of 
+
+
+
+sculpture by emphasizing the centrifugal force to which lateral appendages are 
+subordinated. The single unit, which has been the mainstay of sculpture tradi- 
+tionally, is the constituent feature of Chamberlain's work, albeit without specific 
+anthropomorphic connotations. Chamberlain's sculpture, then, may be said to 
+have its foundations not only in Abstract Expressionism but in the Baroque and 
+the Renaissance: not as an eclectic or conservative approach to form, but as a 
+personal understanding of the significance of plastic innovation, which has made 
+his work without peer in the sixties. 
+
+Shortstop, in fact, was the first work made from auto body parts. Using t^vo 
+fenders from a Ford that he found at Larry Rivers' house in Southampton, Cham- 
+berlain worked with them until he finally synthesized the parts successfully. As 
+Chamberlain has expressed it, the vital features of this work are "the idea of the 
+squeeze and the compression and the fit."' The realization of a sculpture depended 
+upon the successful interlocking of scrap metals culled at random from junkyards. 
+Chamberlain then, as now, preferred to work with materials that are both readily 
+available and commonplace. The ordinariness of scrap metal, foam rubber, and 
+paper bags pleased him since they embodied a reality — a connection with the 
+real world — that he felt necessary to express in his work. 
+
+The commanding physical presence of Chamberlain's sculptures derives, in 
+part, from his materials; the form itself, however, is not inherent in the materials 
+but is one that the artist shapes from them. However, Chamberlain is reluctant 
+to impose a preconceived form: since he works with materials that have a shape 
+prior to his use, this shape in some ways constitutes a property that he respects 
+and retains even in the act of transforming them. There is a fundamental con- 
+sistency to all of Chamberlain's work and at the same time the singular char- 
+acteristics of each group of works are clearly preserved. It is in the fitting together 
+or the reshaping of his materials that the form is realized. Neither the joints 
+(welding), the use of color nor materials are ultimately significant, except insofar 
+as they test or define his form. 
+
+From 1959, when Chamberlain started to work exclusively with crushed auto- 
+mobile parts, to 1963, when he moved into painting, his direction has shifted from 
+a more complex to a simplified one, from found parts which he manipulated but 
+did not otherwise alter to surfaces which he reworked by painting, and finally 
+to surfaces that were entirely painted. The latter were painted in such a way as 
+to clearly indicate that they were auto parts while just as emphatically signalling 
+that they were the result of the artist, not the machine. At this time, he made 
+both free-standing sculpture in the round and other works which were clearly 
+feasible only as relief. Free-standing works like Wildroot or Johnny Bird (cat. 
+nos. 9 and 11), of 1959, suggest some of the variations that Chamberlain arrived 
+at fairly soon after he decided to work with junk metals. While fully volumetric, 
+Wildroot nonetheless seems compressed into a far more shallow space than Johnny 
+Bird which also benefits from a central axis. Both enjoy a comprehensive sense 
+of mass enhanced by predominantly linear accessory features that serve to re- 
+
+
+
+1. Tuchman, Phyllis, "Interview with John Chamberlain," Art forum. Vol. 10, January, 1971. 
+
+
+
+iterate shape and to enclose the space arounci the form. Both are inherently 
+static, and while decidedly not frontal, they stop short of the dynamic pinwheel 
+effect (suggesting if not actual motion, then implied movement) of later works 
+like Jo-So (cat. no. 14) of i960. Works like 7o-5o manage to incorporate both 
+violent lateral movement (often on Kline-like diagonals) with centrifugal motion 
+and simultaneously, through Chamberlain's understanding of balance and 
+rhythm, to achieve perfect equilibrium. 
+
+Essex (cat. no. zo), i960, Mr. Press (illustrated p. 46), 1961, and Dolores James 
+(cat. no. 47), 196Z, are outstanding examples of Chamberlain's consummate 
+ability to manipulate his forms in relation to the wall. Although as character- 
+istically physical in their presence as the free-standing works of this period, 
+the three sculptures are intrinsically related to the wall and thereby force the 
+equation between their dimensional form and the flat surface behind them. 
+Unlike the fluid contour of the free-standing sculptures, the reliefs are roughly 
+rectangular in shape (they may still be irregular) with their energy and thrust 
+projected outward toward the spectator, rather than extending laterally or in any 
+way suggesting centrifugal force; the forms, in fact, are centripetal, propelled in- 
+ward, as in Mr. Press, or fairly evenly dispersed, as in Dolores James. Although 
+it was common in the early sixties to refer to these pieces (and indeed to Cham- 
+berlain's work in general) as collage, this designation is correct in only the most 
+superficial respects; collage may not even have been his point of departure. It 
+scarcely applies to the free-standing work at all, since collage was essentially a 
+process of building out from a literally flat surface and, as initially conceived, 
+intended to force the issue of illusionism and reality vis-a-vis a flat (painterly or 
+graphic) surface. Even more significantly, while there is a certain painterliness in 
+Chamberlain, especially in his use of color, it is an integral part of his need to 
+shape, to give dimension to his forms. In this respect, his wall reliefs are incon- 
+ceivable as merely pictorial (collage) forms, rather, they aggressively assert them- 
+selves as sculpture, relating to both the spectator and the wall. Chamberlain's 
+forms have been said to relate to Cubism, but they do so only in so far as they 
+are fragmented, faceted shapes. They do not, however, even implicitly accept 
+a planar relationship like Smith's. Chamberlain can only be regarded as Cubist 
+in much the same manner as nearly every younger artist who has acknowledged 
+the importance of that movement. Chamberlain's own authority as a major sculp- 
+tor is unique: he has produced a body of work that is entirely personal and 
+independent of any school or movement. However, his work is singularly char- 
+acteristic of the fifties in that he did not try to impose preconceived conditions 
+on his material but made explicit what he saw as the inherent properties of the 
+materials themselves. This is one, although by no means the only, reason for his 
+high standing among younger artists working in the seventies. 
+
+Since Chamberlain's work avoided the literary symbolism of much of late 
+fifties art, it enabled him to turn to a consideration of other issues. In the auto- 
+mobile works of the early 1960's, he demonstrated an uncanny ability to turn 
+processed color into a considerable and personal statement. The viscosity of paint 
+and its inherent physicality, which was a prominent feature of Abstract Expres- 
+sionism, was seized upon by Chamberlain who literally bent and wrestled his 
+
+
+
+forms into shape. In this respect, a fascinating comparison exists between Cliam- 
+berlain and Judd, since Judd saw Stella's stripes as slabs of color extrapolating 
+from them his "specific objects." Chamberlain was able to take advantage of a 
+readymade situation which the automobile offered to circumvent the persistent 
+problem posed by polychrome sculpture — that color appears to be an additive 
+rather than an inherent feature of the work. By the time Chamberlain had com- 
+pleted a work, which was often made from disparate parts and different ma- 
+chines, the end product was in no way recognizable. The artist was able to focus 
+upon the innumerable possibilities offered by his so-called readymade color. In 
+subsequent sculptures and particularly in such later paintings as Orlons (cat. no. 
+52), 1963, and Rolling Stones (cat. no. 66), 1965, Chamberlain chose to con- 
+centrate more explicitly on color. Selecting a geometric shape that seemed un- 
+characteristic (not to the artist, however), Chamberlain built up a surface by 
+spraying sometimes as much as 100 coats of automobile lacquer, first on masonite 
+and then on formica to achieve one color. Imbedded in this veil of quasi-trans- 
+parent layers of color was a geometric figure consisting of nine squares in either 
+one or two sets per painting. The singular consistency of form and color that 
+is his trademark in sculpture is just as inherent in these small paintings. What 
+was new to the work, however, was the hard automobile finish, the bright clean 
+colors, the so-called California look that, in fact, seems to have predicted much 
+of later Los Angeles art. 
+
+His forms, though bruised by both industrial manufacture and the artist's hand, 
+appear as uncanny evocations of human form. Bawdy figures, Chamberlain's 
+forms are at once cheap and commonplace and noble and magnificent. Above 
+all, his work speaks of a humanity which is all the more amazing considering its 
+origins. The cold, impersonal mass-produced perfection which Pop later capi- 
+talized on, is in Chamberlain's work translated into its very opposite — pieces of 
+machinery become tenuous, imperfect, and supremely humanized. His surfaces 
+become tactile, his color takes on the cast of the human form, each and every bend 
+and hollow full of refractions and reflections. Chamberlain's work is filled with 
+complexities and contradictions: heroic and intimate, fragile and above all a 
+response to life on an immediate and intuitive le\el. Clearly the metaphysical 
+passion that informs Mondrian or Newman is not found in Chamberlain; his art 
+is as earthbound as de Kooning's, and like de Kooning, functions without the 
+dogma of a rational ideology. 
+
+The humor apparent in Chamberlain's use of junk materials is another im- 
+portant facet of his work. That he made major sculpture without relying on pre- 
+cious materials and yet produced full-blown forms as splendid as monuments in 
+homage to the great sculpture of the past, is nothing short of brilliant. Although 
+his work is monumental, it rarely exceeds human height; indeed, among his best 
+works are some that are small or even minute in size (see cat. nos. 34 and 91). 
+His sense of scale is so powerful and so successful a part of his work that, more 
+often than not, size becomes inconsequential. His recognition of the value and 
+humor of commonplace materials like foam rubber, which has a relativelv short 
+life-span unlike marble which it resembles, and paper bags which he has treated 
+with as much respect as most sculptors would cor-ten steel. 
+
+
+
+Like other artists maturing in the late fifties (Rauschenberg and Johns, for 
+example), Chamberlain experienced the need to reject traditional concepts of art. 
+He preferred to introduce ordinary materials, rather than conventional materials, 
+into his work, but has no compulsion about transforming them and certainly no 
+need to depict them in their original state. The foam pieces, which he first pro- 
+duced in 1966-67, have barely survived the last few years. Girdled like some fat 
+Venus, the foam was cinched around the middle with nylon cord and looks like . 
+Brancusi's or Arp's forms. The humor attendent upon the recognition of this 
+relationship was not lost, nor was the sense of fragility of the real stuff sculp- 
+tures were made from. One can clearly see in the works, as different as they 
+were in most respects from the earlier automobile sculptures, a continuation of 
+Chamberlain's primary interest, albeit from another point of view. The same can 
+be said for all of this work, large and small, painting and sculpture: they are all 
+but different facets of each other. 
+
+The paper bags (see cat. no. 91) for example, which he produced in relatively 
+small numbers, and exhibited in California in 1969, combined commonplace im- 
+permanent materials reinforced with resin and watercolor which he introduced 
+to achieve effects that look strikingly like his plexiglas sculptures of 1970. The 
+bags, like his other sculptures, are hollow inside, but are reworked to conceal their 
+original shape. This aspect of Chamberlain's work is fundamental to all his sculp- 
+ture, large or small. An important characteristic is concealment; one is never quite 
+sure of how they are put together. The work is never fully revealing, always 
+mysterious, it is always more than the sum of its parts. In this respect. Chamber- 
+lain is closer to the New York School of painting than to painters or sculptors of 
+the sixties. 
+
+From the crushed automobile parts to the more recent galvanized metal and 
+plexiglas works. Chamberlain started with structures that were hollow and re- 
+tained this characteristic, even when he crushed them into other forms. His sculp- 
+ture, while singular and massive, has no center but is hollow (just as traditional 
+sculpture was built from an armature out). This phenomenon is, in itself, extraor- 
+dinary, for it subverts traditional concepts of form even to the extent of parody. 
+As Chamberlain has pointed out, he has started with a structure not unlike that 
+
+
+
+10 
+
+
+
+of an empty cigarette pack and its subsequent form is always keyed to this initial 
+decision. 
+
+Both Chamberlain's crushed aluminum sculptures of 1967-68, and his more 
+recent mineral-coated melted plexiglas sculptures are an extension of and inven- 
+tion upon his earlier work. Breaking away from sculpture, at least temporarily, 
+Chamberlain's return to painting appears to have had some influence on his 
+more recent sculpture. His predilection for fitting or interlocking disparate parts 
+was replaced by a preference for single units which in works like Norma Jean 
+Rising, 196-7, and Untitled, 1970, (cat nos. 83 and 102) were box-like structures. In- 
+stead of welding. Chamberlain crushed or melted his materials. Both types are 
+enclosed, monolithic forms in which the energy is concentrated, not dispersed. 
+But here the similarity ends. The crushed aluminum boxes have a tall, spare but 
+dramatic appearance which is denied to the plexiglas. The latter, on the other 
+hand, are mineral-coated for various effects: some parts look like stainless steel, 
+others have an irridescent sheen that gives the still transparent plexiglas a rainbow- 
+like look. The multiple reflections create shifting planes out of a fluid space whose 
+organization is ultimately amorphous. This feature, of course, is quite similar to 
+the concealment in his earlier work, for, although the material is transparent, the 
+structure is no more self-explanatory than his crushed auto sculptures. 
+
+All the materials that Chamberlain has used have to do with light in one way 
+or another, from the hard refractory surfaces of his automobile constructions to 
+the nebulous opacity of his urethane sculptures, from the absorbent non-reflecting 
+surfaces of his galvanized pieces — made from crushed Judd boxes — to the translu- 
+cent overlapping layers of plexiglas of his most recent work. Chamberlain has 
+touched upon every major facet of this potential of materials, together with scale 
+and color, but has remained consistent in one major respect — that of form. 
+
+In capturing the essence of his materials — by stressing the limpid but mysterious 
+glimmer of light-reflecting surfaces, the raucous color of the crushed automobile, 
+or the bellied fullness of foam, John Chamberlain has stopped just short of excess. 
+It is Chamberlain's intention to use the appearance of things — as chaotic as they 
+may seem — to reveal their inherent order. Only if we understand this phenomenon 
+can we appreciate the beauty of his work. 
+
+D.W. 
+
+
+
+11 
+
+
+
+Installation view, Dwan Gallery, Los Angeles, One-man 
+exhibition, December 19, i96(J— January 7, 1967 
+
+
+
+
+EXCERPTS FROM A CONVERSATION BETWEEN 
+
+ELIZABETH C. BAKER, JOHN CHAMBERLAIN, DON JUDD, AND DIANE WALDMAN. 
+
+
+
+October 26, 1971, New York City. 
+
+
+
+DW Did you start out as a painter? 
+
+jc Oh momentarily. 
+
+DW "Well, how long, about a year? 
+
+JC I was still in art school. I walked past the sculpture 
+studio one time and I saw all these little people 
+standing on stands. 
+
+DW Little sculptures or little people? 
+
+JC Little sculptures and I did about three takes. It was 
+just fantastic to see about 30 little people standing 
+around and I thought it was marvelous. It enlarged 
+the whole space of the room and I was convinced 
+that was the room to be in. 
+
+Dj That would probably be a real solution to the popu- 
+lation problem. Just reduce the size of the people. 
+
+jC I think they're probably doing a good job on them- 
+selves. Then I got in there and I found Joe Goto 
+working. He had left school but he came back to use 
+the studio and it was fantastic the way he was weld- 
+ing things. I didn't particularly see his sculpture in 
+some kind of context because he was sort of making 
+large horses — you know that style that he developed 
+in the beginning of the fifties. I don't know if you 
+know him at all. But it wasn't the welding that was 
+the thing but that he made connection by welding. I 
+mean his connections, they were well welded as they 
+say — the welding was good and all that, but it wasn't 
+good welding that was appealing, it was that he 
+
+
+
+made great connections. He connected and that was 
+an interesting point. And then a David Smith sculp- 
+ture showed up — one of the early Agricolas — and 
+it was sitting up in the museum and so I would go 
+look at it and it was the first piece of sculpture that 
+I saw that was just itself. I mean it wasn't represent- 
+ing something and it wasn't telling me that I should 
+do this or that. It was just there by itself and that 
+fascinated me. And I think there was a Giacometti 
+that they put up at the head of the stairs. They have 
+a great open space there. 
+
+DW "Where was this? 
+
+JC In the Chicago Art Institute and it was one of the 
+four figures crossing the square but it took up the 
+whole space that Giacometti was able to maneu\er. 
+The sculpture intrigued me in terms of presence and 
+volume — but the volume that delineates, like say, the 
+negative areas. "Well, the negative area around the 
+Giacometti was tremendous. And that was about the 
+same time that de Kooning won a prize there for a 
+painting that they own called Excavation which was 
+very large to me; then I saw it subsequently three 
+other times and it got smaller and smaller — it was 
+\ery funny. In other words, the presence of it is only 
+allowable in terms of your experience somehow. 
+But with those sculptures, the presence was sus- 
+tained. So in other words, there's a larger presence 
+available in sculpture than there would be in paint- 
+ing, so I made a choice there in terms of the phys- 
+icality of it. But David's piece intrigued me because 
+
+
+
+15 
+
+
+
+it was like meeting another person, you see. And 
+they were bare, so to speak, like all their parts were 
+available for inspection. 
+
+D\v Did you like his connections? 
+
+jc His connections didn't intrigue me in the same way 
+I was affected by Goto's number. 
+
+DW No, because recent criticism has emphasized his 
+importance as a welder. 
+
+JC I still think he's a painter although I think that there's 
+something about the weight that he liked. I mean 
+he knew that a lot of things could be done to steel, 
+but I don't know that he really did all those things 
+to it. I don't really know how to say it because 
+possibly I don't want to say it, but 1 just think he 
+painted. 
+
+ECB Because you read them two-dimensionally? 
+
+DW Many people do. 
+
+JC Yeah, I don't think that their presence is as big as 
+they want to get. Anyway I feel that is part of why 
+I disagree with David, but I have to say that for me 
+there was a turn-on in 1952. 
+
+DW There really isn't any good sculpture that avoids the 
+pictorial. 
+
+JC No, I think that we're all i-d. The majority of 
+people are 2-d; there's very few people who are 
+3-d. And they're all so used to getting the informa- 
+tion from painting. I mean what is it about sculpture 
+that is different from painting? You know, I go back 
+to the presence of it, and I find that when I take 
+even small sculptures to people's apartments it wipes 
+the place out. And a lot of people don't like to be 
+wiped out that way, see? 
+
+DW But isn't it also then a problem between the sculptor 
+and his work — maybe that relationship doesn't work 
+well either. 
+
+JC You have a lot of people trying to make sculpture 
+and they're more interested in making sculpture 
+let's say, than they are in paying attention to what 
+the information of the material tells them, which I 
+always thought was one of the first places to go. 
+
+
+
+You find the material and it excites you. And what 
+does it do that's really indigenous to your soul? And 
+you play with it. 
+
+DW Was it that way for you with the automobile? 
+
+JC Well, I was looking around for another kind of 
+material, because I ran out of material. Then I had 
+a studio and nothing happened there. I made some 
+drawings and things like that and couldn't figure 
+out anything. Then I went to Larry Rivers' place 
+and he had some old car parts out there — a '29 Ford, 
+and it was a different proposition. All of a sudden 
+I liked them for some reason. Then a couple of 
+months later it occurred to me that there were all 
+of these junkyards around and it was fantastic — just 
+free material — free material at that time was essen- 
+tial. And here it was, free steel that was already 
+painted. You couldn't beat it with a sledge hammer. 
+You know, that was all right. Along with anybody 
+else who happened to be around, I kept pointing 
+at it and in the case of Larry's place I kept tripping 
+over it, and finally it got through. 
+
+DW But to him they were just cars? 
+
+JC Yeah, he was going to put it back together or some- 
+thing. I don't know. Beat him to it. But I feel there's 
+a certain honesty about how you come about your 
+material whether it is at the movies — it just happens 
+— like how I found out about foam rubber. Like it's 
+always around but it has to be indicated by some 
+means other than "well I think Fll give it a chance" 
+number. Rather than that, you really discover it. 
+It's a common material; you finally discover it. 
+
+DW You like the fact that it's common? 
+
+JC Oh yeah, all the material I work with — I mean all 
+that material is common but what you do with it is 
+what's uncommon. What you do with materials is 
+going to alter it for anybody doing it later. If you 
+don't find your materials by some means indigenous 
+to your trip, if you just take it because it looks like 
+an "in" material, that's sort of a shitty way of doing 
+it. But really to "fall in lo\'e"' and then deal with it 
+like you would something in that way, well you 
+
+
+
+16 
+
+
+
+come to another side of it and you come to another 
+side of yourself, I think. I mean art has to be some- 
+thing besides line, color, texture and the three 
+dimensions. 
+
+D\v "When did you find these pieces at Rivers'? 
+
+jc About '57 I guess. 
+
+D\v When did you leave Chicago? 
+
+JC I left in '54 and then went to Black Mountain. 
+
+DW And you were at Black Mountain for a year? 
+
+JC Yeah, and then I came to New York. 
+
+DW Who was at Black Mountain then? 
+
+JC Charles Olsen, Bob Creeley, Robert Duncan. When 
+I was there it was just poets. Stephen Volpe was there 
+and Joe Fiore was there and Dan Rice was there; 
+a few other people. Fielding Dawson was there. 
+
+DW What was it like? 
+
+JC Well, it was very interesting because I felt that the 
+object has its own life and its own qualities. I 
+couldn't ever get any conversation in Chicago about 
+it but I went to Black Mountain and I found out 
+about it immediately. They were all thinking the 
+same thing. So it was one of those moves — some- 
+thing moved me, so to speak, and it was the right 
+move. I mean it's like how Pound talks and how 
+Williams talked and how Olsen talked. They all 
+had different estimates about how form was built. 
+So it was all very interesting and it fit in with 
+an attitude I had. I wanted the sculpture to exist 
+on its own terms coming through the process of 
+myself. You know, do you like the material, or the 
+material is what you liked and what's available. And 
+a few other things like that. I suspect that if every- 
+thing were reduced to glass, you'd do something with 
+glass, because that's what you'd have. I found that 
+the particular principle of compression and 
+wadding-up or manipulating with the fingers, so to 
+speak, whether you use the machine or not, has a 
+lot of application to a lot of different materials and 
+I only use materials that deal with that. Even the 
+paintings, by using the veil method, are a compres- 
+
+
+
+sion of some kind. So it all has to do with if it's 
+sexual, it's squeezing and hugging. And if it's in- 
+stinctive, it has to do with fit and balance; if it's 
+emotional, it's presence, and I don't know how it 
+gets to be intellectual. 
+
+DW How much manipulation did you do in the early 
+pieces? 
+
+JC A lot. There were times, like I remember Creeley 
+and I got drunk one night and we just threw a lot 
+of shit in the pile and kicked it around a few times 
+and then we looked down and gee, it looked beauti- 
+ful. And that happened a couple of times. On a 
+couple of other occasions I would get a thing built 
+up and get a fantastic view from one side but the 
+rest of it was off, like way over. You could never 
+do anything more to it because the one side was 
+so beautiful, so I had to destroy it. I mean beaut)' 
+was in the fit and say, the color combination or 
+something like that. In other words it would have 
+two or more components going for it with one view 
+only and there was nothing I could do around it. 
+It was impossible. But on some occasions it just 
+depends on where the vibes are and how the energy 
+bursts out. 
+
+DW Don, what did you mean when you used the term 
+redundant in referring to John's sculptures? 
+
+Dj I was trying to use it in a particular way. I was say- 
+ing something about the volume exceeding the struc- 
+ture. That and the fact that the apeparance was 
+concealing. The incredible volume — the volume 
+exceeds the structure — it doesn't fit so nicely as 
+structure usually does. The structure sort of rattles 
+around in this big space. 
+
+JC I think he means that the volume has a lot to do 
+with the fit. The fit of a lot of pieces has a great 
+deal to do with the volume in this particular case 
+because there's air between it. But I think that be- 
+cause of the kind of material it is, and it was worked 
+at different ways at different stages, that in the 
+build-up and assembly of such things a presence 
+occurs. It's a presence which is met also by the 
+balance and the rhvthm of the balances and the fit. 
+
+
+
+17 
+
+
+
+ECB 
+
+
+
+JC 
+
+
+
+DW 
+JC 
+
+DW 
+JC 
+
+
+
+DJ 
+
+JC 
+DJ 
+JC 
+
+
+
+DW 
+JC 
+
+
+
+I think this gives it what Don says is volume which 
+I say is a presence. 
+
+Both of you have used the wall, and I'm interested 
+in how you feel about using the wall. 
+
+Well I don't care too much for the wall. It allowed 
+me to use that material in a bigger aspect. It's like 
+this piece Don has, Mr. Press (illustrated p. 46), that 
+he doesn't want to take off the wall because there's 
+too much to move, see. But if it were that big out in 
+the area off the wall, it would even be worse. 
+
+What is the biggest piece you've done? 
+
+The piece I did for the World's Fair. It's 15x8x4'. 
+
+Did you think in terms of working that big before? 
+
+No, I didn't care. I think even this paper bag, about 
+6" high, is pretty big. I like that size better. It be- 
+comes terribly immediate and if the scale is dealt 
+with then the size has nothing to do with it. 
+
+Do you get the same immediacy if you have to 
+enlarge it? 
+
+No, I don't think you have to at all. 
+
+Between it, would there be an equivalent immediacy? 
+
+It would be a whole different number. I'm just talk- 
+ing about the size. It would probably be impossible 
+to make that paper bag at that large a size. The 
+delicacy wouldn't be there because of the weight. 
+
+How did you arrive at the paper pieces? 
+
+I had some idea that if you blew up a bag and then 
+you popped it, that maybe you could catch the 
+energy of the pop, somehow, and then it turned out 
+that when they got wadded up whatever happened 
+at the end of the fingers seemed to be more urgent 
+and viable. So after a few of them I felt that by 
+looking at the outside I would feel the inside. That 
+interchange between the energy of the pop and what 
+it might amount to or wherever the hell that thought 
+came from, that changeover was fine. And then, 
+alright, so paper is very delicate and it can burn and 
+somebody will pick it up and throw it away very 
+easily, so I sort of put color on it. I painted it little 
+
+
+
+bits at a time with resin and let the resin run down 
+in the crevices and things like that. And it gave it 
+the support it needed without being completely 
+coated and destroying the delicacy of the paper. 
+Then whatever paint, or in this case, watercolor, 
+that was thrown, picked up the color through some 
+of the resin and didn't make it just all dreary brown. 
+Some of them were pretty fantastic. 
+
+DW Why did you decide to use foam? 
+
+JC Well, the foam is very interesting to me. I thought 
+it was very funny. And you can see the humor. I 
+mean it's really instinctive and sexual. I tried work- 
+ing it several different ways and I returned to the 
+first way, which was tying it and squeezing it. I'm 
+not too happy about it all, but you know there are 
+a couple of good pieces somewhere. 
+
+DW Did you like the idea of the cord? 
+
+JC No, that doesn't matter. 
+
+DW Donald talked before about composition as a term 
+that had a lot of meaning. 
+
+DJ Well, I was talking about whatever you want to call 
+it — I mean structure, composition, form or anything 
+in the pieces, in contrast to their appearance of not 
+having any at first. But they really look like folded 
+metal. 
+
+DW They look like what they are. 
+
+DJ Yeah, at first. It's hard to see the structure, or fit 
+or whatever. 
+
+JC Yeah, alright, there's another thing going down 
+with me right now, that I wanted to do some stain- 
+less steel sculpture and this was on the tail of doing 
+the transparent sculptures that I did at Larry Bell's 
+last year. I wanted to do the stainless steel and coat 
+them. It all sounded pretty good until I thought about 
+it for a while and I found out that the material of 
+the steel and the size would prohibit any color on 
+it because it was just added. The sculptures looked 
+like they didn't need the color which would only 
+be like putting on a coat. But that kind of color is 
+necessary to plastic. It really works in defining the 
+form of the clear plastic. 
+
+
+
+18 
+
+
+
+DW: I think that's why your color has always been good 
+— even in the early crushed pieces. It was never 
+additive color — it was always an integral part of 
+the form. I remember that in the late 50's and early 
+6o's, most polychrome sculpture was bad. It was 
+simply painted on the form which yours never was. 
+
+jc Well, at first because it's inherent in the whole proj- 
+ect, rather than something added. 
+
+DJ I was pretty interested in the two movies that you 
+showed at Hunter. The very Chamberlainian color. 
+
+ECB What's the connection between the two of you? 
+
+JC We both have a certain sympathy towards each 
+other's work. In this case Don's probably the only 
+person who has that much sympathy towards my 
+work. And I think that's because he liked my 
+paintings. 
+
+DJ Yeah, I did, but I liked the sculptures of course. 
+
+JC There's been nothing said about the paintings, that 
+I know of. Since I haven't gotten much feedback I 
+don't know if the process or if the finished product, 
+whatever it is, says what I feel. Which is several 
+things. 
+
+ECB Such as? 
+
+JC Well, one is about arriving at a color through veils. 
+There's a lot of coats of paint with very little color 
+in a lot of clear. You just keep putting it on like that; 
+finally after a while it builds up to a color but it isn't 
+a color that's mixed and then put on. And then in 
+that superstructure of a set of sc|uares, there is an 
+idea about them being deep at some level with the 
+color build-up. There was the idea that they would 
+change color as the light changed, as most of them 
+do. Some of them change color as you walk past 
+them. But I was particularly interested in how to 
+arrive at color. There was a thing that occurred 
+during the process of the big ones. In painting them 
+I had to mask everything off to paint one section. 
+I found that when I painted it I could paint as long 
+as I wanted. Listen, in one of them, I don't remember 
+which one, I put down silver and I was going to put 
+on candy yellow. I put on three coats of candy yellow 
+
+
+
+and it turned pea green and it was fantastic. I took 
+the masking off and you know I just liked the 
+color. It fits, you know, so any color that you arrive 
+at seemed to fit in any conjunction with the other 
+colors. In other words, there was no finding the 
+color in relationship to what was already there, but 
+you arrived at the color by another means — by the 
+process. I mean you just looked at the color, the 
+paint made the color, and you looked at it and you 
+could see there was nothing more to do to it. Any 
+color went with any other color as long as the color 
+was arrived at by some other means that was just as 
+viable as one's choosing a selection of colors. Rather 
+than selecting colors, you have to make sure that in 
+the manner of painting, whatever you do feels good 
+to you, or something like that. 
+
+ECB How technically is it put on? 
+
+JC Spray gun to mist method. You put on a color and 
+you can change it. 
+
+DJ One thing I liked about the paintings which inter- 
+ested me because I've gotten into that with my 
+paintings is they're just plain surface, they didn't 
+have any spatial business. It's just a matter of sur- 
+face. When you laid a color on, it didn't produce a 
+spatial situation. It was just as you said, a veil over 
+a coat over another color, which meant just like 
+putting a little liquid on the table, you don't change 
+the surface, it's just a case of one thing over another 
+and it's the same surface. 
+
+JC An absorption perhaps. 
+
+D\v I think a lot of people were negative — extremely 
+negative about them. I got that reaction. They 
+looked like geometric paintings and I remember that 
+people were offended by the color. 
+
+DJ The thing is they aren't geometric paintings really. 
+They're not involved in geometry but in their sur- 
+faces — the arbitrariness of them gets them out of 
+all that composition. They looked like latter-day 
+Biederman or something like that. Initially, I think 
+somehow maybe that's how people thought of them. 
+Some big revolutionary change of mind on John's 
+part. 
+
+
+
+19 
+
+
+
+jc I liked the material of the paint, really that was 
+where it went. But I had other concerns. All of those 
+I think are important so that you keep the develop- 
+ment up without losing the balance. 1 think you just 
+keep working, sometimes you can't work. You know, 
+any of us could sit down and figure out a million 
+dollar project but it I were to stick you in three acres 
+in Maui, and tell you that you go to come out of 
+there with something tangible that hasn't been there, 
+that becomes another form of limitation. The lim- 
+itation is all around. If you had a whole plant as a 
+resource, you could be just as befuddled as if you 
+had to deal only with this table. So whatever comes 
+along is fine with me — all I have to do is like it. 
+
+D\v But don't you think the form was uncharacteristic? 
+
+JC No, because I liked it. I like Albers work, you know, 
+a lot and I felt that this came closest to it without any 
+of his problems. 
+
+Df Mostly, I'm sorry people have the presupposition 
+of geometry versus anything else. 
+
+DW You mean that it has to be one or the other — a fixed 
+order, or that it represents two different kinds of 
+mentalities? 
+
+Dj Yeah. 
+
+JC That's what artists are. The artist is coming out of 
+some kind of dissatisfaction into some kind of com- 
+pany where you can deal with all that and every one 
+feels that. 
+
+DW Another thing that was upsetting was the type of 
+color that was accepted at that time — 1965. 
+
+DJ Maybe they would have accepted it on his regular 
+pieces. It was exceedingly out of context in terms of 
+most geometric work, but that depends on what was 
+meant by geometric. 
+
+JC Well, lacquer's a very old medium. That's the oldest 
+paint. And because it has a transparency quality, and 
+so on, I was interested. In California they call it 
+"candyapple" which is a certain kind of base that re- 
+flects through the clear with just a few drops of color 
+in it. I was interested in that luminescent sort of 
+thing and the fact of its thinness and how to control 
+
+
+
+it by multiplying. I found out a lot about color 
+myself. 
+
+ECB That gives a certain depth to the surface though, 
+doesn't it? I mean it's not space in the sense that you 
+were speaking of, but it's not an opaque surface 
+either. It has a kind of optical depth. 
+
+DJ It's part of the surface, you take it as a variation in 
+the surface. 
+
+ECB But you feel like you could see into it a bit, don't 
+you? 
+
+DJ Well, I don't think so in these paintings. If you add 
+a slight layer here, you've got something to see into. 
+But that's a physical thing, it's not that you're creat- 
+ing two or three inches of illusionary space along- 
+side. What you're looking into is really just the paint 
+— the two or three layers of lacquer, that's all. 
+
+JC I like the idea about the color. There is no bad color, 
+there's no color decision to reject because everything 
+is colored. 
+
+DW But isn't that essentially a part of your thinking, 
+even in the early sculptures? In other words, that 
+there was no color relationship that was inherently 
+bad. 
+
+JC Well perhaps, but I didn't know it as well as I did 
+after I did these paintings. These forced the point 
+somewhat. 
+
+DJ I think the earlier pieces are more relational in color. 
+
+JC I don't remember ever tearing a sculpture apart be- 
+cause the color was disagreeable, but I tore them 
+apart because the form didn't fit. 
+
+ECB But when you started making the colored pieces in 
+the beginning, weren't those found colors? And then 
+at a certain point didn't you change parts of the 
+color? 
+
+JC Yeah, about '6z I started painting them. I felt that 
+the material needed a little help. 
+
+DW So in this sense you were really creating — you had 
+the material but it wasn't a form and you were creat- 
+ing it all, weren't you? 
+
+JC The material and the use of it. The process of the 
+material makes the use. 
+
+
+
+20 
+
+
+
+DW But it's not pre-existent. 
+
+JC Yeah, well there were some attributes though that 
+were perfectly normal in this case. I always liked the 
+color change because of the way the color's put on. 
+I think if it was just one flat color, one color, one 
+coat and that's the color, these would change color 
+as the light changes. 
+
+D\v Why didn't you paint the galvanized pieces? 
+
+JC I thought the earlier pieces didn't go as far as they 
+should and I imagine that I painted them to get an- 
+other element, whereas the galvanized pieces don't 
+need to be painted. 
+
+DW Why? 
+
+JC Well, they extend pretty much — they have their 
+own color. 
+
+DW Where were the early galvanized pieces from? 
+
+JC Well, I had boxes made and went to a place on 
+White Street and crushed them. 
+
+DW Did you have particular shapes made, or just boxes? 
+
+JC There were something like 30 boxes and some boxes 
+had liners in them. The liners gave it body and added 
+dimension — a certain weight that I had in mind. 
+
+DW What about process? 
+
+JC Well, as I think back on it, it's only recently that I 
+can say anything about it really, and as 1 remember 
+even as — ever since I got impressed with the sculp- 
+ture it's always been that I really don't remember if 
+I have ever done anything where process wasn't the 
+point of view. In other words, I went through the 
+number, but whatever came out was what came out. 
+Nothing has ever been premeditated. It's only re- 
+cently that the process has been a big enough num- 
+ber to talk about. 
+
+DW Well, it was to a certain extent in the 50's though. 
+What about Pollock? 
+
+JC Well, that's how I look at it. I think that's true. I 
+believe it was. He wanted to get away from easel 
+
+
+
+painting and had some ideas about mural painting. 
+But that was only the size and the scale. In other 
+words, his breeding had something to do with the 
+scale he wanted to choose. He was wrapped up in 
+this fine art number, like easel painting and mural 
+painting and he wanted to be free later on to walk 
+around the painting. 
+
+DJ Those paintings, too, have a sort of concealment of 
+something like your sculpture, which is curious. You 
+know everybody's work is sort of unintelligible; they 
+really do tend to look like junk or car parts or some- 
+thing. They don't make sense initially — you don't 
+know what they are or it doesn't look esthetic or 
+it's beyond what other people's work would look 
+like. In a way that geometric scheme is sort of a 
+concealment too, like a randomness of car parts, 
+or junk or something. I know the plastic pieces I 
+know very well; sometimes the composition or the 
+form doesn't show and it just turns it into junk or 
+something. It's peculiar — all that structure isn't evi- 
+dent at first. 
+
+JC I find that rather than dealing with composition, 
+to me composition has some sort of pre-idea of the 
+order of a certain gi\en space of a given area that's 
+been composed. And, in this case it has to do with 
+fit — how the parts fit and where they stand and in 
+what kind of balance and rhythms they give off as 
+vibration, in terms of my choice which would be 
+close to a kind of partnership in terms of the balances 
+and rhythms that have to do with me, plus the ma- 
+terial as it's fitted. Now all those pieces are very well 
+fitted and I think that's a more interesting attitude 
+towards looking at it than just composition. Com- 
+position could be like taking something out here or 
+there that could be the composition and it wouldn't 
+matter whether I touched it or not. But the sculp- 
+tures have to do with contact — either when you can 
+touch yourself or when you shake hands with some- 
+body. Shaking hands has a lot to do with fit; it also 
+has to do with the vibration of the person you shake 
+hands with — whether you prefer it or not, whether 
+you feel cold hands or sweaty hands — it's all these 
+points about shaking hands, but it's fit and you can 
+tell a lot that way. 
+
+
+
+21 
+
+
+
+
+2 Projectile D.S.N.Y. i957 
+
+
+
+
+3 Cord. 1957 
+
+
+
+22 
+
+
+
+BalLmtine. 1957 
+
+Steel 
+
+17 X 48" 
+
+Collection Mr. and Mrs. Allan Stone, New York 
+
+Not in exhibition. 
+
+
+
+
+23 
+
+
+
+4 Shortstop. 1957 
+
+
+
+
+6 Nutcracker. 1958 
+
+
+
+
+; 
+
+5 Waumandie Gate. 1958 
+
+
+^1 
+
+
+
+
+E 
+
+
+
+
+1 ^ 
+
+i 
+■ 
+
+1 
+
+
+R 
+
+
+J^ 
+
+
+r 
+
+26 
+
+m 
+
+
+J 
+
+
+\\ 
+
+
+
+7 Manitou. 1959 
+
+
+
+
+17 
+
+
+
+8 H.A.W.K. 1959 
+
+
+
+28 
+
+
+
+
+9 Wildroot. 1959 
+
+
+
+
+14 ]o-So. i960 
+
+
+
+
+10 Swannanoa. 1959 
+
+
+
+
+15 Redwing, i960 
+
+
+
+16 Hudson, i960 
+
+
+
+
+
+31 
+
+
+
+17 Maz. i960 
+
+
+
+83 Norma Jean Rising. 1967 
+
+
+
+
+18 falconer-Fitten. i960 
+
+
+
+
+34 
+
+
+
+47 Dolores ]a&gt;nes. i&lt;)6z 
+
+
+
+r 
+
+
+
+
+
+20 Essex, i960 
+
+
+
+19 Hatband, i960 
+
+
+
+
+37 
+
+
+
+WSSf 
+
+
+
+
+42 Miss Lucy Pink. 1961 
+
+
+
+
+11 Johnity Bird.\i)%ci 
+
+
+
+22 Untitled. 1961 
+
+
+
+
+40 
+
+
+
+32 Bijou. 1961 
+
+
+
+
+/ 
+
+
+
+41 
+
+
+
+
+91 Untitled. 1969 
+
+
+
+■^^»,A,i.JS!S8t^S 
+
+
+
+
+Tung Ting Hu. 1967. Urcthane foam, 37^/4 x 54 x 51%" 
+Destroyed 
+
+
+
+
+26 Captain O'Hay. 1961 
+
+
+
+
+27 Jackpot. 1961 
+
+
+
+
+45 
+
+
+
+Mr. Press. 1961. Welded and painted steel, 95 x 90 x 50" 
+Collection Julie and Don Judd, New York 
+Not in exhibition. 
+
+
+
+
+29 Score. 1961 
+
+
+
+47 
+
+
+
+
+102 V?ititled. 1970 
+
+
+
+
+/ 
+
+
+
+23 Untitled. 1561 
+
+49 
+
+
+
+28 Huzzy- 1961 
+
+
+
+
+50 
+
+
+
+
+24 Oteen. 1961 
+51 
+
+
+
+
+21 Kroll. 1961 
+
+
+
+30 Fantail. 1961 
+
+
+
+
+46 Hollywood John. i^6z 
+
+
+
+
+44 Velvet White. 1962 
+
+
+
+54 
+
+
+
+^ 
+
+
+
+
+41 Arch Brown. 1962. 
+
+
+
+45 Coo "Wha Zee. 196Z 
+
+
+
+mt ' 
+
+
+
+
+
+43 Sweet William. 1962 
+
+
+
+
+37 Sinclair. 1962 
+59 
+
+
+
+35 El Reno. 196Z 
+
+
+
+
+60 
+
+
+
+48 Untitled. 1961 
+
+
+
+
+61 
+
+
+
+34 Untitled. 196Z. 
+
+
+
+
+
+40 Spiro. 1962 
+
+
+
+Mozo. 196Z 
+
+Welded and painted steel 
+
+4Z X 50 X 30" 
+
+Collection Leo Castelli Gallery, Ne%v York 
+
+Not in exhibition 
+
+
+
+rv 
+
+
+
+
+63 
+
+
+
+56 Elvis. 1963 
+
+
+
+52 Orlons. 1963 
+
+
+
+
+
+64 
+
+
+
+55 Jan and Dean. 1963 
+
+
+
+
+65 
+
+
+
+
+50 Silverheels. 1963 
+
+
+
+51 Mr. Moto. 1963 
+
+
+
+
+66 
+
+
+
+
+Che-Che. 1963 
+
+Welded and painted steel 
+
+60 X 60" 
+
+Collection Leo Castelli Gallery, New York 
+
+Not in exhibition 
+
+
+
+67 
+
+
+
+49 Buckshutam. 1963 
+
+
+
+
+-TZi. 
+
+
+
+
+1 
+
+■^ - ■ 
+
+
+
+
+
+
+
+
+
+
+^;#l 
+
+
+
+
+
+
+^tm-'' - 
+
+
+•&gt; 
+
+
+-•&gt;p?(aK_ *. 
+
+
+
+
+" 
+
+
+...JSSi' 
+
+
+J. 
+
+
+
+Ruby-Ruby. 1963 
+
+Welded and painted steel 
+
+35 X 37" 
+
+Collection Leo Castelli Gallery, New York 
+
+Not in exhibition 
+
+
+
+58 Dogstarman (Stan Brakhage). 19S4 
+
+
+
+
+
+59 Sugar Tit. 1964 
+
+
+
+57 Madam Moon. 1964 
+
+
+
+
+71 
+
+
+
+60 Conrad. 1964 
+
+
+
+
+72 
+
+
+
+63 Dixie Cups. 1964 
+
+
+
+
+73 
+
+
+
+66 The Rolling Stones. 15S5 
+
+
+
+
+
+
+74 
+
+
+
+71 Homer Jack. 1^6$ 
+
+
+
+
+&lt;*^ 
+
+
+
+70 Tomahawk Nolan. 1965 
+
+
+
+
+75 Kootan. 1967 
+
+
+
+
+-,* 
+
+
+
+
+^ 
+
+
+
+%3&gt;i: 
+
+
+
+
+76 Hua. 1967 
+
+
+
+
+80 Soopad. 1967 
+
+
+
+77 
+
+
+
+78 Strawberry Mush. 1967 
+
+
+
+
+
+
+
+78 
+
+
+
+Lilith Neif Moon. 1967 
+
+Galvanized steel 
+
+82x80x48" 
+
+Destroyed 
+
+
+
+k 
+
+
+
+^ 
+
+
+
+
+79 
+
+
+
+85 Coma Berenices — North of Virgo. 1967 
+
+
+
+
+80 
+
+
+
+Angel Beyond Opio. 1967 
+
+
+
+Galvanized steel 
+8z X 48 X 48" 
+Destroyed 
+
+
+
+
+81 
+
+
+
+86 Knightsbridge Slug. 1968 
+
+
+
+
+82 
+
+
+
+87 Whitmore ^ash. 1968-69 
+
+
+
+
+83 
+
+
+
+89 Coco Nino. 1969 
+
+
+
+
+
+
+
+'■'- " - '-^--" . . ■ 
+
+
+
+
+
+
+
+
+
+84 
+
+
+
+Untitled. 1969 
+
+
+
+
+85 
+
+
+
+90 Iron Stone. 1969 
+
+
+
+
+86 
+
+
+
+103 Potacca. 1970 
+
+
+
+
+87 
+
+
+
+«-"a ^c) Oraibi. 1970 
+
+
+
+
+101 Hano. 1970 
+
+
+
+rr-i 
+
+
+
+
+
+
+r^ ^.^Itl^Kpk 
+
+
+i 
+
+
+k 
+
+
+^^ 
+
+
+
+
+A 1 
+
+
+Wkm 
+
+
+iH 
+
+
+llJlJK .- "^ 
+
+
+HI 
+
+
+i^&gt;-^ 
+
+
+\^ 
+
+
+\^ 
+
+
+
+
+
+
+
+
+- -^^ 
+
+
+i&gt; 
+
+
+^w 
+
+
+^w 
+
+
+
+
+
+
+wm 
+
+
+wi 
+
+
+1 
+
+
+i 
+
+
+in 
+
+
+
+
+
+
+
+^Pl 
+
+
+1 -^-^^^ 
+
+
+^^ 
+
+
+
+
+
+
+^0^^ 
+
+
+KMB^^r/' 
+
+
+y^^^^^M 
+
+
+J 
+
+
+^ji 
+
+
+^^ 
+
+
+
+
+-^ ^^mtSj^^M 
+
+
+
+
+
+
+N^ 
+
+
+■ ,; ^»^' 
+
+
+fHt 
+
+
+
+
+/.■ 
+
+
+\ 
+
+
+Bpffi^^ 
+
+
+' " " 1 
+
+
+^^^ 
+
+
+w 
+
+
+1 
+
+
+
+
+hiK' 
+
+
+
+
+^ 
+
+
+
+
+
+
+mt 
+
+
+
+
+
+98 Shuiigospai'i 1970 
+
+
+
+89 
+
+
+
+100 Dinnebito. 1970 
+
+
+
+
+
+104 Zihi-Dush-]hini. 1970 
+
+
+
+WORKS IN THE EXHIBITION 
+
+
+
+Dimensions are given in the following order: 
+height, width, depth, 
+''not illustrated 
+
+1 ''Untitled. 1957 
+Oil on paper 
+91/2 X 10" 
+
+Lent by the artist 
+
+2 Projectile D.S.N.Y. 1957 
+Steel 
+
+20 X 35 X 10" 
+
+Collection American Broadcasting Companies, Inc., 
+
+New York 
+
+3 Cord. 1957 
+Steel 
+
+i6x izx 10" 
+
+Collection Mr. and Mrs. Allan Stone, New York 
+
+4 Shortstop. 1957 
+Welded and painted steel 
+56x43x15" 
+
+Collection Richard Bellamy, New York 
+
+5 Waumafidie Gate. 19^8 
+Steel 
+
+85 X 29V2 X li" 
+
+Collection Da\id Anderson, New York 
+
+6 Nutcracker. 1958 
+Welded and painted steel 
+50 X 50 X 30" 
+
+Collection Mr. and Mrs. Allan Stone, New York 
+
+
+
+91 
+
+
+
+7 Maniton. 1959 
+Welded and painted steel 
+
+13 X14X3" 
+
+Courtesy Martha Jackson Gallery, Inc., New York 
+
+8 H.A.W.K. 1959 
+Welded and painted steel 
+60 X 60 X 60" 
+
+Collection Mr. and Mrs. Allan Stone, New York 
+
+9 Wildroot. 1959 
+Welded and painted steel 
+68% X 52% X 35%" 
+
+Sammlung Karl Stroher im Hessischen 
+Landesmuseum, Darmstadt, Germany 
+
+10 Swaimatioa. 1959 
+Welded and painted steel 
+45 y4 X64V2 X 35" 
+
+Courtesy Martha Jackson Gallery, Inc., New York 
+
+11 Johnny Bird, i^^^ 
+Welded and painted steel 
+59x53 X 451/2" 
+
+Collection Sydney and Frances Lewis, 
+Richmond, Virginia 
+
+12 "Untitled, i960 
+Pencil 
+
+14 X 17" 
+
+Lent by the artist 
+
+13 ''Untitled, i960 
+Pencil 
+
+14 X 17" 
+
+Lent by the artist 
+
+14 ]o-So. i960 
+
+Welded and painted steel 
+
+z6xzix 23" 
+
+Courtesy Martha Jackson Gallery, Inc., New York 
+
+15 Redwing, i960 
+Welded and painted steel 
+40 X 38 X 14" 
+
+Collection Dolores and Hubert Neumann, 
+New York 
+
+
+
+16 Hudson, i960 
+Welded and painted steel 
+Z7 X 27 X 1 2" 
+
+Collection Mr. and Mrs. Allan Stone, New York 
+
+17 Maz. i960 
+
+Welded and painted steel 
+
+42 X 45 X 44" 
+
+Collection Fine Arts Museum, George Peabody 
+
+College, Nashville, Tennessee 
+
+18 Falconer-Fitten. i960 
+Welded and painted steel 
+32x42x34" 
+
+Collection Mr. and Mrs. Allan Stone, New York 
+
+19 Hatbajid. i960 
+Welded and painted steel 
+60 X 53 x 36" 
+
+Collection Mr. and Mrs. Stanley Poler, New York 
+
+20 Essex, i960 
+
+Welded and painted steel 
+
+108 x 90x46" 
+
+Collection The Museum of Modern Art, New York, 
+
+Gift of Mr. and Mrs. Robert C. Scull 
+
+and Purchase, 1961 
+
+21 Kroll.1961 
+
+Welded and painted steel 
+
+26x 34X 24" 
+
+Collection Albright-Knox Art Gallery, 
+
+Buffalo, New York (Gift of Seymour H. Knox) 
+
+22 Untitled. 1961 
+
+Welded and painted steel with fabric 
+
+12 X 12x4^/4" 
+
+Collection A4r. and Mrs. Allan Stone, New York 
+
+23 Untitled. 1961 
+Paper and steel 
+
+I2X I2X 4%" 
+
+Collection Flavin Judd, New York 
+
+24 Oteen. 1961 
+
+Welded and painted steel 
+
+241/2 X 36 X 26V2" 
+
+Collection Mr. and Mrs. Brooks Barron, Detroit 
+
+
+
+92 
+
+
+
+25 ''Tiny Piece #4. 1961 
+Welded and painted steel 
+61/2 X 61/2 X 6V2" 
+Collection Mrs. Marcel Duchamp, New York 
+
+16 Captain O'Hay. 1961 
+Welded and painted steel 
+45x38x36" 
+Courtesy Locksley-Shea Gallery, Minneapolis 
+
+27 Jackpot. 1961 
+
+Welded and painted steel with gilt cardboard 
+
+61 X 58 X46" 
+
+Collection Andy Warhol, New York 
+
+28 Huzzy. 1961 
+
+Welded and painted steel with fabric 
+
+54 X 33 X 2l" 
+
+Collection William Rockhill Nelson Gallery and 
+
+Atkins Museum of Fine Arts, Kansas City. 
+
+(Gift of Mrs. Charles F. Buckwalter in memory 
+
+of Charles F. Buckwalter) 
+
+29 Score, 1961 
+
+Welded and painted steel 
+
+■yzxyzx 23" 
+
+Collection Dolores and Hubert Neumann, 
+
+New York 
+
+30 Faiitail. 1961 
+
+Welded and painted steel 
+
+70 X 75 X 60" 
+
+Collection Jasper Johns, New York 
+
+31 -'Untitled. 1961 
+
+Painted steel, paper and cloth on celotex 
+
+12V2 X II X 5" 
+
+Private Collection, New York 
+
+32 Bijou. 1961 
+
+Welded and painted steel 
+
+36 X 72 X 24" 
+
+Collection Heiner Fricdrich, Cologne 
+
+33 '''Untitled. 1962 
+Welded and painted steel 
+16 X II X9V2" 
+
+Private Collection, New York 
+
+
+
+34 Untitled. 1962 
+Welded and painted steel 
+8V2X12X8" 
+
+Collection Mr. and Mrs. Herbert Vogel, New York 
+
+35 El Reno, 1962 
+Welded and painted steel 
+11x9x8" 
+
+Collection Mr. and Mrs. AKin S. Lane, New York 
+
+36 ''Atlantic. 1962 
+
+Steel and fabric on board 
+
+12 X 12 X 5" 
+
+Collection Mr. and Mrs. Michael Sundell, Cleveland 
+
+37 Sinclair. 1962 
+
+Welded and painted steel 
+
+4% x6y2 X 41/2" 
+
+Collection Mr. and Mrs. Burton Tremaine, 
+
+Meriden, Connecticut 
+
+38 ''Untitled. 1962 
+
+Steel and fabric on board 
+
+9 X 1 3 X 3 V2 " 
+
+Collection Dr. and A4rs. Nathan Alpers, 
+
+Beverly Hills 
+
+39 ''Beli'o-Violet. 1962 
+
+Welded and painted steel with unit of 
+
+pressed metal ceiling 
+
+50 X 50 X 30" 
+
+Collection Frank Stella, New York 
+
+40 Spiro. 196Z 
+
+Welded and painted steel 
+
+29 X 36 X 26" 
+
+Collection Mr. and Mrs. Brooks Barron, Detroit 
+
+41 Arch Brown. 196Z 
+Welded and painted steel 
+37x38x29" 
+
+Collection Mr. and Mrs. Burton Tremaine, 
+Meriden, Connecticut 
+
+42 Miss Lucy Pink. i&lt;)6z 
+Welded and painted steel 
+45 X 50 x 40" 
+
+Lent by the artist 
+
+
+
+93 
+
+
+
+43 Siveet William. 1962 
+Welded and painted steel 
+69 X 48 X 62" 
+
+Collection Los Angeles County Museum of Art, 
+
+Gift of Mr. and Mrs. Abe Adler, 
+
+In Memory of Mrs. Esther Steif Rosen 
+
+44 Velvet White. 1962 
+Welded and painted steel 
+811/2x61x541/2" 
+
+Collection Whitney Museum of American Art, 
+
+New York. 
+
+Gift of the Albert A. List Family 
+
+45 Coo Wha Zee. i^6z 
+Welded and painted steel 
+72 X 60 X 50" 
+
+Collection Detroit Institute of Arts. 
+Gift of Florence and Brooks Barron 
+
+46 Hollytvood John. 196Z 
+Welded and painted steel 
+64 X 60 X 43" 
+
+Collection Julie and Don Judd, New York 
+
+47 Dolores James. 1961 
+Welded and painted steel 
+79 X 97 X 39" 
+
+Collection The Solomon R. Guggenheim Museum, 
+New York 
+
+48 Untitled. 1962 
+
+Steel, paper, fabric on pressed board 
+izx 12 X 4V2" 
+
+Collection Pasadena Art Museum. 
+Gift of Mr. and Mrs. Michael Blankfort 
+
+49 Buckshiitat7t. 1963 
+Welded and painted steel 
+471/2x45x45" 
+
+Collection Julie and Don Judd, New York 
+
+50 Silverheels. 1963 
+Welded and painted steel 
+46x41 X36" 
+
+Collection Mr. and Mrs. Leo Castelli, New York 
+
+
+
+51 Mr.Moto. 1963 
+Welded and painted steel 
+291/2 X 32X 23" 
+
+Collection Mr. and Mrs. Robert A. Rowan, 
+Los Angeles 
+
+52 Orlons. 1963 
+
+Auto lacquer on masonite 
+
+12 X 12" 
+
+Collection Mr. and Mrs. Seymour Schweber, 
+
+Great Neck, New York 
+
+53 ''Joey Dee, 1963 
+
+Auto lacquer on masonite 
+
+IZX 12" 
+
+Collection Mr. and Mrs. Seymour Schweber, 
+
+Great Neck, New York 
+
+54 ''Dion. 1963 
+
+Auto lacquer on masonite 
+
+12 X 12" 
+
+Collection Mr. and Mrs. Seymour Schweber, 
+
+Great Neck, New York 
+
+55 Jan and Dean. 196} 
+Auto lacquer on masonite 
+12x12" 
+
+Collection Mr. and Mrs. Harry Glasgall, New York 
+
+56 Elvis. 1963 
+
+Auto lacquer on masonite 
+
+12 x 12" 
+
+Collection Mr. and Mrs. Seymour Schweber, 
+
+Great Neck, New York 
+
+57 Madam Moon. 1964 
+Welded and painted steel 
+19 X 29 X 21" 
+
+Collection Mr. and Mrs. Robert A. Rowan, 
+Los Angeles 
+
+58 Dogstarman (Stan Brakhage). 1964 
+Welded and painted steel 
+16x28x18" 
+
+Collection Mr. and Mrs. Arthur Mones, New York 
+
+59 Sugar Tit. 1964 
+Welded and painted steel 
+36 X 38 X 26" 
+
+Collection Mr. and Mrs. Ivan C. Karp, New York 
+
+
+
+94 
+
+
+
+60 Conrad. 1964 
+
+Auto lacquer, metalflake and chrome on formica 
+
+48x48" 
+
+Collection Mickey Ruskin, New York 
+
+61 ''Zia. 1964 
+
+Auto lacquer, metalflake and chrome on formica 
+
+48x48" 
+
+Collection Rainer Judd, New York 
+
+62 '-Rock-Ola. 1964 
+
+Auto lacquer, metalflake and chrome on formica 
+
+48x48" 
+
+Collection Julie and Don Judd, New York 
+
+63 Dixie Cups. 1964 
+
+Auto lacquer and metalflake on formica 
+12 X 12" 
+
+Collection Mr. and Mrs. Seymour Schweber, 
+Great Neck, New York 
+
+64 '''Marquees. 1964 
+
+Auto lacquer and metalflake on formica 
+
+izxiz" 
+
+Collection Mr. and Mrs. Seymour Schweber, 
+
+Great Neck, New York 
+
+65 '' Shangri-la' s. 1964 
+Auto lacquer on formica 
+12 x 12" 
+
+Lentby the artist 
+
+66 The Rolling Stones. 196s 
+Auto lacquer on formica 
+12 x 12" 
+
+Collection Shangopolo 
+
+67 ''Kinks. 1965 
+
+Auto lacquer on formica 
+
+izx 12" 
+
+Collection John W. Weber, New York 
+
+68 ''Cannibal and the Headhunters. 1965 
+Auto lacquer on formica 
+
+12 X 12" 
+
+Collection Jerald Ordover, New York 
+
+
+
+69 '''Untitled. 1965 
+Welded and painted steel 
+8% X 12 X 9" 
+
+Collection Charles Cowles, New York 
+
+70 Tomahawk Nolan. 1965 
+Welded and painted steel 
+44 X 50 X 45" 
+
+Collection Philip Johnson, New Canaan, 
+Connecticut 
+
+71 Homer Jack. 196^ 
+Welded and painted steel 
+19 X 19 X 19" 
+
+Collection Mr. and Mrs. Fredric M. Roberts, 
+Lawrence, New York 
+
+71 "'Untitled (No. 26}. 1966 
+Urethane foam 
+15V4 X 231/2 X 23 V2" 
+
+Courtesy Noah Goldowsky and Richard Bellamy, 
+New York 
+
+73 "Untitled (No. 33). 1966 
+Urethane foam 
+
+15 X 26 X z6" 
+
+Collection Richard Bellamy, New York 
+
+74 "Untitled (No. 34). 1966 
+Urethane foam 
+
+12 X 24 Va X 2iy2" 
+
+Collection Richard Artschwager, New York 
+
+75 Kootan. 1967 
+Urethane foam 
+22 X 36 X 27" 
+
+Collection Wolfgang Hahn, Cologne 
+
+76 Hua. 196-] 
+Urethane foam 
+32x33x33" 
+
+Collection Mr. and Mrs. Jared Sable, Toronto 
+
+77 '''Untitled. 1967 
+Urethane foam 
+14X 14X 12" 
+
+Collection The Trustees of the Tate Gallery, London 
+
+
+
+9S 
+
+
+
+78 Strawberry Mush. -L$6j 
+Urethanefoam 
+24x48 X48" 
+Collection Shangopolo 
+
+79 ■'Fuswah. x^G-j 
+Urethane foam 
+27x41 X 38" 
+Lent by the artist 
+
+80 Soopad. 1967 
+Urethane foam 
+34x33x44" 
+Lent by the artist 
+
+81 LopNor. 1967 
+Urethane foam 
+38 X 53 X48" 
+
+Courtesy Lo Giudice, New York 
+
+82 ''Papagayo. 1967 
+Galvanized steel 
+72 X 44 X 46" 
+
+Collection Andy Warhol, New York 
+
+83 Nortna Jean Risifig. 196-/ 
+Galvanized steel 
+66x38x38" 
+
+Courtesy Lo Giudice, New York 
+
+84 "Ultima Thule. 1967 
+Galvanized steel 
+64x44 X 36" 
+
+Collection Samuel J. "Wagstaff, Jr., New York 
+
+85 Coma Berenices — North of Virgo. 196J 
+Galvanized steel 
+
+671/2 X 77 X 60" 
+
+Courtesy Lo Giudice, New York 
+
+
+
+86 Kftightsbridge Slug. 1968 
+Galvanized steel 
+
+Z3y2 X 2iy2 X 19" 
+
+Collection Mr. and Mrs. William M. Speiller, 
+
+Washington, D.C. 
+
+87 WhitmoreWash.i96S-69 
+Welded and painted steel 
+5 2 X 49 X 40" 
+
+Courtesy Lo Giudice, New York 
+
+88 Untitled. 1969 
+Galvanized iron 
+
+33x34x29" 
+
+Collection Elizabeth C. Baker, New York 
+
+89 Coco Nino. 1969 
+Welded and painted steel 
+58y2 X77X 60V2" 
+
+Courtesy Locksley-Shea Gallery, Minneapolis 
+
+90 Iron Stone. 1969 
+Welded and painted steel 
+40X48V2 X44" 
+
+Collection Walter Kelly, Chicago 
+
+91 Untitled. 1969 
+
+Paper, resin and watercolor 
+7V8 X 8% X 6" 
+Collection Shangopolo 
+
+92 ''Untitled. 1969 
+
+Paper, resin and watercolor 
+5 ¥2 X 5% x6" 
+Lent by the artist 
+
+93 -'Untitled. 1969 
+
+Paper, resin and watercolor 
+4y2 X5V2 xsW 
+Lent by the artist 
+
+
+
+96 
+
+
+
+94 'Untitled. 1969 
+
+Paper, resin and watercolor 
+
+7x8x7" 
+
+Courtesy Lo Giudice, New York 
+
+95 '''A. 1969-70 
+Urethane foam 
+14 X ijVz X 17" 
+Lent by the artist 
+
+96 ''B. 1969-70 
+Urethane foam 
+
+13% X ZZy2 X 24" 
+
+Lent by the artist 
+
+97 ''C. 1969-70 
+Urethane foam 
+izVz X 17 X 21" 
+Lent by the artist 
+
+98 Shimgospavi. 1970 
+Mineral-coated melted plexiglas 
+30 X 58 X 58" 
+
+Courtesy Leo CastelH Gallery, New York 
+
+99 Oraibi. 1970 
+Mineral-coated melted plexiglas 
+27 X 38 X45" 
+
+Courtesy Leo Castelli Gallery, New York 
+
+100 Dinnebito. 1970 
+Mineral-coated melted plexiglas 
+25x38x55" 
+
+Courtesy Lo Giudice, New York 
+
+101 Hano. 1970 
+Mineral-coated melted plexiglas 
+30x34x37" 
+
+Courtesy Leo Castelli Gallery, New York 
+
+
+
+102 Untitled. 1970 
+Mineral-coated melted plexiglas 
+30x431/2x35" 
+
+Lent by the artist 
+
+103 Polacca. 1970 
+Mineral-coated melted plexiglas 
+22 x 39 X 46" 
+
+Courtesy Lo Giudice, New York 
+
+104 Zihi-Dush-Jhini. 1970 
+Mineral-coated melted plexiglas 
+33x45x37" 
+
+Courtesy Lo Giudice, New York 
+
+105 "M.A.A.B.1971 
+
+Welded and painted steel 
+
+50 X 78 X 50" 
+
+Courtesy Lo Giudice, New York 
+
+106 'N.D.W. 1971 
+
+Painted and welded steel 
+
+50 X 66 X 62" 
+
+Courtesy Lo Giudice, New York 
+
+107 "Untitled. 1971 
+
+Aluminum foil 
+4 X 6 X 6V2" 
+Lent by the artist 
+
+108 "Untitled. 1971 
+
+Aluminum foil 
+
+6x7x5" 
+
+Lent by the artist 
+
+109 '-Untitled. 1971 
+
+Aluminum foil 
+31/2 X 7V2 X 6" 
+Lent by the artist 
+
+
+
+97 
+
+
+
+BIOGRAPHY 
+
+
+
+BIBLIOGRAPHY 
+
+
+
+Born Rochester, Indiana, 1927. 
+Lives in New York City. 
+
+
+
+Films by the Artist (16 mm.) 
+
+"The Secret Life of Hernando Cortez," 1968. 
+"Wedding Night," 1967. 
+"Wide Point," 1968. 
+"Thumbsuck," in progress. 
+
+
+
+On the Artist 
+
+BOOKS 
+
+Seuphor, Michel, The Sculpture of this Century, Dictionary of 
+Modern Sculpture, London, 1959, p. 2.49. 
+
+Janis, Harriet and Rudi Blesh, Collage: Personalities-Concepts- 
+Techniques, Philadelphia and New York, 1962, pp. 145-46, 249. 
+
+Metro, International Directory of Contemporary Art, Milan, 
+1964, pp. 74-75. 
+
+Read, Herbert, A Concise History of Modern Sculpture, New 
+York, 1964, pp. 225, 270, 290. 
+
+Ashton, Dore, Modern American Sculpture, New York, 1967, 
+pp. 38, 89. 
+
+Licht, Fred, A History of Western Sctdpture: Sculpture of the 
+i^th a7id 10th Centuries, Greenwich, Connecticut, 1967, p. 341. 
+
+Rose, Barbara, American Art Since i&lt;)oo. New York, Washing- 
+ton, 1967, pp. 262-63. 
+
+Solomon, Alan and Ugo Mulas, Neic York: The New Art 
+Scene, New York, 1967, pp. 114-24. 
+
+Arnason, H.H., A History of Modern Art: Painting, Sculpture 
+ajjd Architecture, New York, 1968, p. 570. 
+
+Kultermann, Udo, The New Sculpture, New York, Washing- 
+ton, 1968, pp. 98-99, 2l8. 
+
+Hammacher, A.M., The Evolution of Modern Sctdpture, New 
+York, 1969, pp. 293, 299. 
+
+Rosenberg, Harold, Artworks and Packages, New York, 1969, 
+p. 109. 
+
+Hamilton, George Heard, it)th and 10th Century Art: Painting, 
+Sculpture, Architecture, New York, 1970, p. 387. 
+
+Rose, Barbara, American Painting, the 10th Century, Geneva, 
+1970, p. 60. 
+
+
+
+98 
+
+
+
+PERIODICALS 
+
+Ashton, Dore, "La Sculpture Aniericaine," XX Steele, vol. 22, 
+no. 15, December i960, p. 91. 
+
+"Chamberlain's Automobiles," Metro, no. 2, May 1961, pp. 
+90-91. 
+
+Judd, Donald, "Chamberlain — Another View," Art httermi- 
+tional, vol. 7, no. 10, January 1964, pp. 38-39. 
+
+Rose, Barbara, "How to Look at John Chamberlain's Sculp- 
+ture," Art International, vol. 7, no. 10, January 1964, pp. 36-38. 
+
+Leider, Philip, "A New Medium for John Chamberlain," Art- 
+fortim, voL 5, no. 6, February 1967, pp. 48-49. 
+
+Baker, Elizabeth C, The Secret Life of John Chamberlain," 
+Art Neivs, vol. 68, no. 2, April 1969, pp. 48-51, 63-64. 
+
+Tuchman, Phyllis, "Interview with John Chamberlain," Art- 
+forum, vol. 10, January, 1972. 
+
+
+
+One-Man Exhibitions and Reviews 
+
+Wells Street Gallery, Chicago, 1957. 
+
+Martha Jackson Gallery, New York, January 5-30, i960. 
+Poster announcement. 
+
+S[andler], I[rving], H., Art News, vol. 58, no. 9, January i960, 
+p. 18. 
+
+J[udd], D[onald], Arts Magazine, vol. 34, no. 5, February 
+i960, p. 57. 
+
+Ashton, D[ore], Arts and Architecture, vol. 77, no. 3, March 
+i960, p. II. 
+
+Leo Castelli Gallery, New York, January i3-February 6, 1962. 
+Announcement. 
+
+O'Doherty, Brian, "Art: Transformed Scrap," The New York 
+Times, January 19, 1962. 
+
+Sandler, Irving, "In the Art Galleries," The New York Post, 
+January 21, 1962. 
+
+E[dgar], N[atalie], Art News, vol. 60, no. 10, February 1962, 
+p. 15. 
+
+Ashton, Dore, Arts and Architecture, vol. 79, no. 3, March 
+1962, p. 6. 
+
+Judd, Donald, Arts Magazine, vol. 36, no. 6, March 1962, p. 48. 
+Sawyer, Kenneth, Craft Horizons, vol. 22, no. 3, May 1962, 
+P-53- 
+
+
+
+Dilexi Gallery, Los Angeles, November 5-December i, 1962. 
+Announcement. 
+
+Dilexi Gallery, San Francisco, December 17, 1962-January 5, 
+
+1963. Announcement. 
+
+Pace Gallery, Boston, November i6-December 7, 1963. An- 
+nouncement. 
+
+Leo Castelli Gallery, New York, April 11-30, 1964. Announce- 
+ment. 
+
+J[udd], D[onald], Arts Magazine, vol. 38, no. 10, Septem- 
+ber 1964, p. 71. 
+
+S[wenson], G[ene] R., Art News, vol. 63, no. 5, September 
+
+1964, p. 10. 
+
+Galerie Ileana Sonnabend, Paris, April 8-May 4, 1964. Cata- 
+logue. 
+
+Ashberry, John, "Art and Artists in Paris," The New York 
+Herald Tribune, April 14, 1964. 
+
+Leo Castelli Gallery, New York, Paintings, January 9-27, 1965. 
+Announcement. 
+
+E[dgar], N[atalie], Art News, vol. 63, no. 10, February 1965, 
+p. 13. 
+
+Lippard, Lucy R., Art International, vol. 9, no. 3, .■\pril 1965, 
+P- 53- 
+
+Dwan Gallery, Los Angeles, November 29,i966-January7, 1967. 
+Langsner, Jules, Art Neics, vol. 65, no. 9, January 1967, p. 63. 
+
+Cleveland Museum of Art, January 3-29, 1967. Catalogue text 
+by Robert Henning. 
+
+Galerie Rudolf Zwirner, Cologne, October lo-November 9, 
+1967. Announcement. 
+
+Contemporary Arts Center, Cincinnati, Ohio, 1968. 
+
+Leo Castelli Warehouse, New Y'ork, February 1-22, 1969. 
+Poster announcement. 
+
+Schjeldahl, Peter, "The Vicissitudes of Sculpture," The Neir 
+York Times, February 9, 1969. 
+
+B[enedikt], M[ichael], Artforwn, vol. 7, no. 8, April 1969, 
+p. 72. 
+
+Mizuno Gallery, Los Angeles, October 1969. 
+
+Armstrong, Lois, Art News, vol. 68, no. 8, December 1969, 
+
+P-73- 
+
+Plagens, Peter, Artforum, vol. 8, no. 4, December 1969, p. 74. 
+
+
+
+99 
+
+
+
+Lo Giudice Gallery, Chicago, Soft and Hard/Recent Sculpture, 
+opened February ii, 1970. Poster announcement. 
+
+"Fashions in Living: John Chamberlain's Environments," 
+Vogue, April 15, 1970, p. 154. 
+
+Locksley-Shea Gallery, Minneapolis, John Chamberlain: Min- 
+neapolis Couches, May 1-30, 1970. Announcement. 
+
+Leo Castelli Gallery, New York, April 17-May 8, 1971- 
+Canaday, John, "John Chamberlain's Sculptures," The New 
+York Times, April 24, 1971, p. 25. 
+
+
+
+Two-Man Exhibitions and Reviews 
+
+Davida Gallery, Chicago, April 9-May 5, 1958, with Joseph 
+Fiore. 
+
+V[entura], A[nita], Arts Magazine, vol. 32, no. 7, April 1958, 
+p. 61. 
+
+Leo Castelli Gallery, New York, October i6-November 7, 1962, 
+with Frank Stella. 
+
+Ashton, Dore, Kunstwerk, vol. 16, no. 5, November 1962, p. 6'). 
+
+Raynor, Vivian, Arts Magazine, vol. 37, no. 3 December 1962, 
+p. 46. 
+
+S[andler], I[rving], Art Neivs, vol. 61, no. 8, December 1962, 
+P-54- 
+
+Robert Fraser Gallery, London, Two American Sculptors: 
+Chamberlain/ Stankiewicz, May 14-June 18, 1963. 
+
+Galerie Rudolf Zwirner, Cologne, Allan D'Arcangelo and John 
+Chamberlain, March 6-April 15, 1965. 
+
+
+
+Group Exhibitions and Reviews 
+
+Hansa Gallery, New York, November 3-22, 1958. 
+
+Martha Jackson Gallery, New York, The Enormous Room, 
+January 2-23, 1959. 
+
+P[orter], F [airfield], Art Neu's, vol. 57, no. 9, January 1959, 
+p. 17. 
+
+The Museum of Modern Art, New York, Recent Sculpture: 
+USA, May 13-August 16, 1959. Organized by the Junior Coun- 
+cil. Catalogue introductions by James Thrall Soby and Walter 
+Bareiss. Traveled in the United States through October i960. 
+Kramer, Hilton, Arts Magazine, vol. 33, no. 9, June 1959, p. 50. 
+
+Hansa Gallery, New York, May 15-June 6, 1959. 
+
+Leo Castelli Gallery, New York, Work in Three Dimensions, 
+October 20-November 17, 1959. Announcement. 
+
+Galerie Rive Droit, Paris, Le Nouveau Realisme, June i960. 
+Catalogue essays by John Ashberry and Pierre Restany. 
+
+Martha Jackson Gallery, New York, New Forms — New Me- 
+dia I, June 6-24, i960. 
+
+Stable Gallery, New York, Sculpture Group: Fifth Exhibition, 
+September 27-October 15, i960. 
+
+Martha Jackson Gallery, New York, New Forms — New Me- 
+dia II, September 27-October 22, i960. Catalogue essays by 
+Lawrence Alloway and Allan Kaprow. 
+
+Whitney Museum of American Art, New York, Annual Exhi- 
+bition 1^60, Sculpture and Drawings, December 7, i96o-Jan- 
+uary 22, 1961. Catalogue. 
+
+
+
+Holland-Goldowsky Gallery, Chicago, New Sculpture Group, 
+March 1961. 
+
+Friedlander, Albert A., "Sculpture Show Satisfying," Chicago 
+Daily News, March 25, 1961. 
+
+Allen Memorial Art Museum, Oberlin, Ohio, Three Yoimg 
+Americans, April 28-May 28, 1961. Catalogue published in 
+Oberlin College, Allen Memorial Art Museum Bulletin, "Three 
+Young Americans," Fall 1961, vol. 19, no. i, pp. 52-57. Essay 
+by Forbes Whiteside. 
+
+Leo Castelli Gallery, New York, Sculpture and Relief, May 
+23-June 30, 1961. Announcement. 
+
+VI Bienal de Sao Paulo, Brazil, September-December 1961. 
+Kimstwerk, vol. 15, no. 7, January 1952, p. 31. 
+
+The Museum of Modern Art, New York, The Art of Assem- 
+blage, October 2-November 12, 1961. Catalogue text by 
+William C. Seitz. Traveled to Dallas Museum for Contempo- 
+rary Arts, January 9-February 11, 1962; San Francisco Museum 
+of Art, March 5-April 15, 1962. 
+
+Houston Contemporary Arts Association, Ways and Means, 
+opened October 12, 1961. 
+
+Dwan Gallery, Los Angeles, Six Sculptors, October 16-N0- 
+vember 11, 1961. 
+
+Nordland, Gerald, Arts Magazine, vol. 36, no. 3, December 
+1961. 
+
+Department of Fine Arts, Carnegie Institute, Pittsburgh, The 
+1^61 Pittsburgh International Exhibition of Contemporary 
+Painting and Sculpture, October 27, 1961-January 7, 1962. 
+
+The Art Institute of Chicago, 6^th Annual American Exhibi- 
+tioti: So7ne Directions in Contemporary Paintittg and Sculp- 
+ture, January 5-February 18, 1962. 
+
+Leo Castelli Gallery, New York, Group, April 7-21, 1962. 
+
+Seattle World's Fair, Art Since 19/0, April 21-October 21, 1962. 
+Traveled to Rose Art Museum, Brandeis University, Waltham, 
+Massachusetts. 
+
+Providence Art Club, Rhode Island, Some Directions in Mod- 
+ern Sculpture, May 13-June 8, 1962. 
+
+Centro de Artes Visuales del Instituto Torcuato di Telia, 
+Buenos Aires, First International Sculpture Exhibition, Septem- 
+ber 1962. 
+
+Leo Castelli Gallery, New York, Group, September 22-October 
+13, 1962. Announcement. 
+
+The Solomon R. Guggenheim Museum, New York, Modern 
+Sculpture from the Joseph H. Hirshhorn Collection, October 3, 
+1962-January 6, 1963. Catalogue text by H. H. Arnason. 
+
+Robbins, Daniel, Apollo, vol. 76, no. 9, November 1962, p. 720. 
+Roberts, Colette, Aujourd'hui, vol. 7, no. 39, November 1962, 
+p. 50. 
+
+Whitney Museum of American Art, New York, Annual Ex- 
+hibition 1962, Sculpture and Drawings, December 12, 1962- 
+February 3, 1963. Catalogue. 
+
+Boston University Art Gallery, Six Sculptors, March 30-April 
+25, 1963. 
+
+Leo Castelli Gallery, New York, Group, April 2-25, 1963. 
+
+Battersea Park, London, Scidpture in the Open Air, May 29- 
+September 29, 1963. 
+
+Musee Cantonal des Beaux Arts, Lausanne, ler Salon Inter- 
+nationale de Galeries Pilotes, June-September 1963. 
+
+
+
+100 
+
+
+
+Washington Gallery of Modern Art, Washington, D.C., Sculp- 
+tors of our Time, September 17-October 31, 1963. Catalogue 
+texts by Adelyn Breeskin and Andrew S. Keck. 
+
+Allan Stone Gallery, New York, Four Sculptors: Robert Mal- 
+lary-]ohn Chamberlain-John Anderson-Cesar, October 1-19, 
+
+1963. Announcement with checklist. 
+
+Leo Castelli Gallery, New York, Group, February z-March 11, 
+
+1964. Announcement. 
+
+Pasadena Art Museum, California, Neii&gt; American Sculpture, 
+February ii-March 7, 1964. 
+
+Coplans, John, Artforum, vol. 11, no. 10, April 1964, pp. 38-40. 
+
+Institute of Contemporary Art, University of Pennsylvania, 
+Philadelphia, The Atmosphere of '64, April 17-June i, 1964. 
+Catalogue. 
+
+Tate Gallery, London, Painting and Sculpture of a Decade: 
+J4-64, April ii-June 2.8, 1964. 
+
+Leo Castelli Gallery, New York, Group, June 6-30, 1964. 
+Announcement. 
+
+XXXIl Biennale Internazionale d'Arte Venezia, Venice, June 
+20-Octobr 19, 1964. 
+
+Jewish Museum, New York, Recent American Sculpture, 
+October 15-November 19, 1964. Catalogue te.xt by Hans van 
+Weeren Griek, "John Chamberlain" by Robert Greeley, pp. 
+17-18. 
+
+Whitney Museum of American Art, New York, Annual Ex- 
+hibition 1964; Contemporary American Sculpture, December 
+9, 1964-January 31, 1965. Catalogue. 
+
+New York State Pavilion, World's Fair, New York, Group, 
+1964-65. 
+
+Johnson, Philip, Art In America, vol. 52, no. 4, August 1964, 
+p. 117. 
+
+Institute of Contemporary Art, Boston, The Biennale Eight, 
+June 20-July 26, 1964. Catalogue by Alan Solomon. 
+
+David Mirvish Gallery, Toronto, XIXX International Artists, 
+April ii-May 3, 1964. Catalogue. 
+
+Herron Museum of Art, Indianapolis, Indiana, Paintings and 
+Sculpture Today, January 1-31, 1965. 
+
+Flint Institute of Art, Flint, Michigan, American Sculpture, 
+j&lt;)oo-j')^o, March 3-28, 1965. 
+
+Institute of Contemporary Art, Boston, Painting Without a 
+Brush, March 20-April 25, 1965. Catalogue. 
+
+Whitney Museum of American Art, New York, Contemporary 
+American Sculpture: Sculpture Selection I, April 20-May 15, 
+
+1965. Assembled by the Howard and Jean Lipman Founda- 
+tion and the Whitney Museum of American Art. Catalogue. 
+
+Institute of Contemporary Art, University of Pennsylvania, 
+Philadelphia, Seven Sculptors, December i, 1965-January 17, 
+
+1966. Catalogue text "John Chamberlain" by Donald Judd. 
+
+Leo Castelli Gallery, New York, Ten Years, June 1-30, 1967. 
+Catalogue. 
+
+A[nn] T[annenbaum], Art News, vol. 66, no. 4, Summer 
+
+1967. p. 13. 
+
+The Museum of Modern Art, New York, The 1960's: Painting 
+and Sculpture from the Museum Collection, June 28- 
+September 24, 1967. Catalogue. 
+
+
+
+Museum of Art, Carnegie Institute, Pittsburgh, J967 Pittsburgh 
+International Exhibition of Contemporary Painting and Sculp- 
+ture, October 27-January 7, 1967. Catalogue. 
+
+Neue Pinakothek, Haus der Kunst, Munich, Sammlung 1^68: 
+
+Karl Stroher, June 14-August 9, 1968. Catalogue text by Hans 
+
+Strelow. 
+
+Traveled to Kunstverein, Hamburg, August 24-October 6, 
+
+1968; Neue Nationalgalerie, Berlin, March i-April 14, 1969; 
+
+Stiidtische Kunsthalle, Diisseldorf, April 25-June 17, 1969; 
+
+Kunsthalle, Bern, July 14-September 3, 1969. 
+
+Budapest, Art in Embassies, 1968. Exhibition organized by The 
+Museum of Modern Art, New York. 
+
+San Antonio, Texas, Hemisfair, 1968-69. 
+
+The American Federation of Arts, New York, Soft and Ap- 
+parently Soft Sculpture, October 6, 1968-October 12, 1969. 
+Circulating exhibition organized by Lucy R. Lippard. 
+
+New Jersey State Museum, Trenton, Soft Art, March i-April 
+27, 1969. 
+
+The Museum of Modern Art, New York, Neu/ Media, New 
+Methods, March 16, 1969-August 16, 1970. Circulating exhi- 
+bition organized by Kynaston McShine. 
+
+Indianapolis Museum of Art, Painting and Sculpture Today- 
+i&lt;)6&lt;), May-June 1969. 
+
+The Metropolitan Museum of Art, New York, New York 
+Painting and Sculpture: i^40-i&lt;)jo, October 18, 1969-February 
+8, 1970. Exhibition organized and catalogue introduction by 
+Henry Geldzahler. Chamberlain references pp. 32-33, 42, 431, 
+457- 
+
+Denver Art Museum, Colorado, An American Report on the 
+Sixties, October 25-December 7, 1969. 
+
+Wilcox Gallery, Swarthmore College, Swarthmore, Pennsyl- 
+vania, Hard and Soft Plastic, 1969. 
+
+Institute of Contemporary Art, Philadelphia, The Highway, 
+January 14-February 25, 1970. Catalogue essays by John Mc- 
+Coubrey, Denise Scott Brown, and Robert Venturi. 
+
+Boston University Museum of Art, Boston, Massachusetts, 
+American Artists of the Nineteen Sixties, February 6-March 14, 
+1970. 
+
+Lo Giudice Gallery, Chicago, Participations, April 1970. 
+
+Noah Goldowsky Gallery. New York, Group, May 1970. 
+
+Contemporary Arts Center, Cincinnati, Monumental Art, 
+September 13-November i, 1970. 
+
+Indianapolis Museum of Art, Painting and Sculpture Today- 
+1970, April 2i-June i, 1970. Catalogue. 
+
+Whitney Museum of American Art, New York, Annual Exhi- 
+bition: Contemporary American Sculpture, December 1 2, 1970- 
+February 7, 1971. Exhibition organized by Marcia Tucker and 
+James Monte. 
+
+The A-luseum of Modern Art, New York, Techniques and 
+Creativity, Selections from Gemini G.E.L., May 5-July 6, 1971. 
+Catalogue. 
+
+Los Angeles County Museum of .Art, Art and Technology, 
+May 9-August 27, 1971. Exhibition organized and catalogue 
+introduction by Maurice Tuchman. Chamberlain pp. 6S-77. 
+
+The Museum of Modern Art, New York, Younger Abstract 
+Expressionists of The Fifties, April 26-September 26, 1971. 
+
+
+
+101 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+Color plates 
+
+All ektachromes but the following by Robert E. Mates 
+
+and Paul Katz: 
+
+Rudolph Burckhardt: no. 83 
+
+Ronald H. Jennings: no. 11 
+
+Eric Pollitzer: no. 47 
+
+Black and white illustrations 
+
+Rudolph Burckhardt: nos. 4, 9, 10, 14, 15, 16, 17, 18, 19, 
+zo, 21, 24, 26, 27, 28, 30, 35, 40, 41, 44, 45, 50, 51, 58, 59, 70, 
+76, 86, p. 63, p. 79, p. 81 
+
+Geoffrey Clements: nos. 5, 7, p. 23 
+
+Los Angeles County Museum of Art: no. 43 
+
+Photo Shunk Kender: nos. 49, 85, 91 
+
+Robert E. Mates and Paul Katz: nos. 3, 6, 8, 21, 29, 34, 37, 
+52,55,56,63,66 
+
+Eric Pollitzer: nos. 46, 78, 98, 99, 100, loi, 103, 104 
+
+John D. Schiff: no. 71 
+
+John F. Waggaman: p. 67, p. 68 
+
+
+
+102 
+
+
+
+STAFF 
+
+The Solomon R. Guggenheim Museum 
+
+
+
+Director 
+
+Administrative Assistant 
+Auditor ~^^ 
+
+Secretary 
+
+Curator 
+
+Curator of Exhibitions 
+Associate Curator 
+Research Fellows 
+
+Librarian 
+Coordinator 
+Conservator 
+
+Assistant Conservator 
+
+Preparator 
+
+Photographers 
+
+Registrar 
+Coordinator 
+Officer, Public Affairs 
+
+Press Representative 
+Members' Representative 
+Book Store Supervisor 
+Information 
+Coordinator 
+Superintendent 
+Assistant Superintendent 
+Head Guard 
+Coordinator 
+
+
+
+Thomas M. Messer 
+
+Linda Konheim 
+
+Agnes R. Connolly 
+
+Susan L. Halper 
+
+Louise Averill Svendsen 
+
+Diane Waldman 
+
+Margit Rowell 
+
+Linda Shearer 
+Carol Fuerstein 
+
+Mary Joan Hall 
+
+Penny Koleman 
+
+Orrin Riley 
+
+Lucy Belloli 
+
+Saul Fuerstein 
+
+Robert E. Mates 
+Paul Katz 
+
+David Roger Anthony 
+Dana Cranmer 
+Robin M. Green 
+Anne B. Grausam 
+Miriam Emden 
+John P. Rafferty 
+Darrie Hammer 
+Carolyn Porcelli 
+Peter G. Loggin 
+Guy Fletcher, Jr. 
+Charles F. Banach 
+Yolanda Bako 
+
+
+
+103 
+
+
+
+EXHIBITION 71/6 
+
+
+
+2,000 copies of this catalogue designed by Malcolm Grear, 
+typeset by Craftsman Type Inc., have been printed by 
+Scroll Press, Inc. in December 1971 for the trustees of The 
+Solomon R. Guggenheim Foundation on the occasion 
+of the exhibition "John Chamberlain: A Retrospective 
+Exhibition" 
+
+
+
+104 
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM, 1071 FIFTH AVENUE, NEW YORK CITY 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0037   0.0037      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0051   0.0013      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0069   0.0019     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0113   0.0043   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0117   0.0004    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0945   0.0828              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=94;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

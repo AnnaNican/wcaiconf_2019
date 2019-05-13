@@ -1,0 +1,2400 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Osmosis : Ettore Spalletti, Haim Steinbach"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/osmosi00cela">Osmosis : Ettore Spalletti, Haim Steinbach</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/osmosi00cela">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>o S M O S I s 
+
+
+
+ETTORE SPALLETTI • HAIM STEINBACH 
+
+
+
+
+GUGGENHEIM MUSEUM 
+
+
+
+OSMOSIS 
+
+
+
+Digitized by the Internet Archive 
+
+in 2012 with funding from 
+
+Metropolitan New York Library Council - METRO 
+
+
+
+http://archive.org/details/osmosiOOcela 
+
+
+
+o S M O S I 
+
+
+
+ETTORE SPALLETTI • HAIM STEINBACH 
+
+
+
+GUGGENHEIM MUSEUM 
+
+
+
+PREFACE AND ACKNOWLEDGMENTS 
+
+
+
+THOMAS KRENS 
+
+
+
+The Osmosis series is presented as an alternative to the museum's more 
+traditional program of one-person and thematic exhibitions. These 
+conventional formats tend to underscore the ingenuity of one artist's 
+achievements or the singularity of a particular aesthetic movement. As a 
+challenge to such notions, which perpetuate Modernism's faith in the 
+concept of originality, Osmosis will encourage artists to work 
+collaboratively, mining new aesthetic territory. 
+
+Artistic partnerships — whether fleeting or long-term — have 
+flourished throughout the twentieth century. Creative teams, such as 
+Serge Diaghilev and Pablo Picasso, and John Cage and Merce 
+Cunningham, worked collectively to redefine the boundaries of each 
+contributor's art form. During recent years, collaborative alliances — 
+including those of Gilbert and George, Bernd and Hilla Becher, Group 
+Material, and General Idea — have emerged in defiance of a cultural 
+system that privileges the individual artistic personality. 
+
+The Osmosis series, consisting of four exhibitions presented over the 
+
+
+
+next three years, brings together artists from divergent disciplines and 
+
+different cultures, whose work may not otherwise have been linked. The 
+
+goal of this process is to promote dialogue, aesthetic interaction, and a 
+synthesis of sensibilities. Whatever the final outcome of each 
+collaboration may be, it will represent a hybridization of distinct 
+expressive means. 
+
+The inaugural exhibition of the series pairs two visual artists. 
+Ettore Spalletti and Haim Steinbach, whose oeuvres seem incongruous 
+at first glance. Spalletti is known for his freestanding geometric 
+sculptures, the austere forms and delicate tonal harmonies of which 
+readily suggest the artist's native Italian culture: the elegant contours of 
+Roman amphorae, the still figures of Piero della Francesca, and the 
+abstracted forms of Giorgio Morandi's meditative still lifes. Steinbach, 
+by contrast, culls contemporary artifacts from material culture. He then 
+juxtaposes these diverse found objects on his signature wedged shelves, 
+effecting subtle and unexpected correspondences that describe current 
+cultural realities and value systems. Steinbach's incorporation of exercise 
+equipment into his art, for instance, demonstrates his critical 
+investigation of the particularly American fixation on physical stamina 
+and the "body beautiful." 
+
+An exhibition of such an experimental nature could not have happened 
+without the artists' willingness to enter a collaborative dialogue, share 
+materials and ideas, and seek new aesthetic solutions. During the past 
+two years, Spalletti and Steinbach have met in New York and Italy to 
+explore potential points of artistic exchange. We are most grateful for 
+their enthusiastic response to our invitation to participate in this series 
+and their untiring efforts to produce this innovative exhibition. It 
+would have been impossible to present this installation without the 
+generous contributions of our exhibition sponsors, the Banco di Napoli 
+
+
+
+and the Zerynthia Association, to whom we are most indebted. Giuliana 
+Setari was instrumental in helping the museum secure this funding; her 
+faith in the experimental process must be commended. We must also 
+extend our appreciation to Mario Pieroni of the Zerynthia Association, 
+Antonio Homem of Sonnabend Gallery, and Jay Gorney of Jay Gorney 
+Modern Art for their assistance in the realization of this exhibition. 
+Haim Steinbach's studio assistants Alan Irikura and Robert Reynolds 
+were a constant source of information and materials. In Italy, Bonizzella 
+Zazzeroni and Anna Constantini were invaluable to the project. A 
+special thanks also goes to Pandora Tabatabai Asbaghi for her consistent 
+insight into the collaborative process. We are also most grateful to 
+Louise Neri and Parkett/Scalo Publishers for their contribution to the 
+conceptual development of this publication. 
+
+The dedication of Guggenheim staff members made this 
+presentation possible. Working closely with the artists, Jon Ippolito, 
+Project Curatorial Assistant, deftly and tirelessly organized all aspects of 
+the exhibition. The Technical Services staff, headed by Pamela Myers, 
+Administrator for Exhibitions and Programming, lent valuable 
+assistance to the mounting of this installation. The commitment of the 
+Publications Department, led by Anthony Calnek, Managing Editor, 
+was indispensible to the production of this catalogue. We must also 
+thank Any Henderson, who lent her talents to the design of this book 
+and the Osmosis series publications as a whole. Finally, we owe our 
+thanks to the exhibition's curator, Germano Celant, Curator of 
+Contemporary Art, who, in collaboration with Associate Curator Nancy 
+Spector, developed the Osmosis series. Mr. Celant's innovative vision and 
+lifelong commitment to collaborating with artists have led to the 
+realization of what promises to be an important new approach to 
+exhibitions at the Guggenheim. 
+
+
+
+OSMOSIS 
+
+
+
+GERMANO CELANT 
+
+
+
+The determining feature of the Osmosis series is the movement that 
+emerges from the dialogues it promotes between languages that are 
+sometimes similar, other times very different: in the course of the series, 
+we will see pairings between those who are conversant in art and 
+architecture, art and theater, art and film, art and art, art and 
+photography, art and music. Our aim is to find a more synthetic 
+condition for creative work, for certainly the mutual feedback, the 
+blending of approaches, we anticipate will lead to wholly new and 
+unpredictable experiences. 
+
+The prompting of an exchange of energy between two artists may 
+be tantamount to defining the host museum as a thesis, an argument, a 
+consideration, the purpose of which is to develop and deepen an 
+interchange among all the arts. Thus, the univocal structure of a 
+"normal" exhibition is replaced by the vast communications network of 
+a culture that is visual and spatial, aural and tactile, constructive and 
+spectacle-oriented. Osmosis heads toward and across the "other," 
+
+
+
+reviewing and gathering the histoty of creativity wherever it has 
+occurred. Hence, we emancipate the institution from all limits, liberate 
+it from obstacles built up by sects and departments, so that it will be 
+employed as an unconditionally flexible and versatile instrument. The 
+unique subject disappears; the museum is allowed to achieve its 
+maximum expansion and art becomes its fulfillment. 
+
+The assembling and coalescing of opposites brings an end to hero 
+worship. Osmosis occurs through language, making things concrete in a 
+dialogue and dialectic of forms and signs, colors and actions. The focus 
+shifts from the artist, as actor and protagonist, to language, which is the 
+true source of new experiences and experiments. By giving priority to 
+unity and exchange over distinction and competition, Osmosis tries to 
+rethink art as a public process and operation, analogous to scientific 
+research based on teamwork. 
+
+Still and all, our purpose is not to eliminate the originality of 
+unique and individual effort. Instead, by returning to the work as a 
+construction and expression of a practice inscribed in the histories of 
+other languages, we hope to venture into new solutions and reflections. 
+This does not mean reducing differences or flattening out all forms and 
+languages into a single register. Rather, we are engaging in a dizzying 
+operation that wipes out the primacy of identity. In this way, we 
+underscore the value of a dimension that has all the characteristics of an 
+experiment in helping to change our relations to ourselves, to reality, 
+and to space. Though this maelstrom may do away with architecture or 
+design or theater or cinema or art or music as individual subjects, it 
+nevertheless directly fosters an alteration of seeing and perceiving. 
+Osmosis is an opportunity for exception. 
+
+(Translated, from the Italian, by Joachim Neugroschel.) 
+
+
+
+THE DUALISM OF THE BANAL 
+AND THE SUBLIME 
+
+
+
+GERMANO CELANT 
+
+
+
+The history of art has been characterized by a raging dispute about the 
+image: one camp has insisted that the relationship between icon and 
+reality is fundamental, while the other has rejected figuration outright, 
+advocating instead an essential and puristic idea of the world. From 
+Byzantium to Rome, from Jerusalem to Moscow, from Paris to New 
+York, iconophilia and iconoclasm have been involved in a profound 
+conflict, which, both religious and secular, formal and spiritual, physical 
+and metaphysical, has flared up again and again. Creating sects and 
+trends, the defenders and the destroyers of images have engaged in huge 
+and bloody quarrels that are still raging today. 
+
+From 1945 to the present, this dispute has been at the heart of all 
+discourse about fiction and reality, matter and spirit, copy and original. 
+We need only think of the theoretical and philosophical encounters 
+between Social Realists and Abstract Expressionists, Pop artists and 
+Minimalists, Neo-Expressionists and Conceptual artists. Theirs were 
+battles in a war that pits an art linked to both the visible and the 
+
+
+
+invisible world against an art of personal expression, mass media, 
+scientific phenomenology, or pure visuality. 
+
+The rivalry between worldliness and archetype, between West and 
+East, between the Protestant and the Catholic spirit, has always 
+illuminated the developments and the theses of art. Some artists, from 
+Giorgio de Chirico to Rene Magritte, from Francis Bacon to Balthus, 
+from Andy Warhol to Anselm Kiefer, have favored representation in 
+order to incarnate the physical world and its sensory condition. Their 
+works maintain the tradition of a visual theology derived from the great 
+icons of the Renaissance and Russia. Devouring any object or image 
+stemming from the individual and society, these iconophiles challenge 
+the reductive and indifferent notion of art. Indeed, because they view art 
+as inadequate for life, they take on a realistic position precisely in order 
+to allow the coexistence of art and life. Other artists, from Piet 
+Mondrian to Kazimir Malevich, from Barnett Newman to Ad 
+Reinhardt, from Donald Judd to Joseph Kosuth, have negated earthly 
+and carnal images, creating instead an ontological nexus between image 
+and mental archetype, between the constructive and the philosophical. 
+Their goal has been to safeguard the purity and essence of the concept 
+against the representation of the mundane experiences of reality. This 
+anti-iconic vision is essentially moral and messianic; it demands an art 
+that is a necessary instrument or vehicle for qualifying and 
+understanding the cultural context. Theirs is an independent procedure 
+based on sound principles and having sound results. 
+
+Both camps claim they are constructing a "gap" between art and 
+reality — the iconophiles base their art on the absolute present, while the 
+iconoclasts rely on the probable future for theirs. In the past, no 
+compromise was possible between these two positions; but today the 
+differences between them are mere nuances, and their extremist position 
+cannot be maintained. 
+
+
+
+The most recent generation of artists has been attempting to 
+transcend the contradiction between total acceptance of the historical 
+world and the closing of the archetypal vision. Their efforts have led to a 
+concept of the "image" that has definitively surpassed both the theory of 
+the idea and the theory of the hallucinatory resemblance to reality. The 
+paths of the iconists and anti-iconists are interwoven and equally 
+insignificant, each of them materializing in an image. 
+
+This situation opens art up to unexpected possibilities. No longer 
+expressed in partial and sectarian identities, art fuses into a single and 
+unique body, the definition of which unfolds from an accumulation of 
+directions and pluralities. Art now wanders and oscillates between 
+various possible modes, both divergent and convergent, iconic and anti- 
+iconic. This is virtually a passage from the monocentric circle of the 
+Renaissance to the polycentric ellipse of the Baroque. 
+
+Art is on the threshold between the physical and the metaphysical, 
+between the sensible and the intelligible. This is a territory not of 
+harmony and conciliation, but of connection and transition; it may be 
+expressed as a visual membrane between mirror images that create a 
+perfect circularity between diverse and contrasting universes, fiction and 
+reality, Pop and Minimalism, copy and original, Neo-Expressionism and 
+Conceptualism, matter and spirit, public and private, visible and 
+invisible. 
+
+The existence of this intermediate surface, on which opposites 
+converge while remaining opposites, serves as a focus for Ettore Spalletti 
+and Haim Steinbach. As artists, they strive to guarantee the practice and 
+circulation of assessments that are both sensory and intellectual, banal 
+and sublime, consumerist and mystical, material and immaterial. 
+
+Both artists apparently view the transition between images or 
+figures of thought and sensibility as a road between a subject of pure 
+contemplation and a profanation of its beauty. In Spalletti, this dialogue 
+
+
+
+
+Haim Steinbach, one minute manager Vl-l , 1 991 . 
+
+Plastic-laminated wood shelf with stock pots and medicine balls. 
+Collection Israel Museum, Jerusalem. 
+
+
+
+between affirmation and loss becomes apparent when the rigid and 
+absolute forms of volumes, which recall bowls and vases, discs and 
+mobiles, encounter the powdery pigment that concretizes their 
+exteriors. In Steinbach, the contact between banal everyday objects — 
+outright fetishes of popular consumerism and Pop — and the primary 
+and Minimalist shelf on which they are placed presupposes an 
+intermediacy that is negated by these two partners in art and the 
+language of art. 
+
+A primary and functional structure such as a vase (in Spalletti) or 
+shelf (in Steinbach) results from a process of elementary volumetrics, 
+whereby weight and gravity are determined by the use of solid 
+materials. Yet in both artists' work, we also find an ephemeral and 
+tactile presence, such as the soft and weightless chromatic dust 
+
+
+
+
+Donald Judd, Untitled, 1970. 
+
+Copper round progression. 
+
+Solomon R. Guggenheim Museum, Panza Collection. 
+
+
+
+(Spalletti), or the sequence of precarious and commonplace products and 
+objects (Steinbach). In their work, both artists establish a mirror-like 
+relationship between mutually remote and incomparable realities that are 
+essentially different. Such a reflection allows the coexistence of different 
+entities without favoring one over the other. The two worlds are 
+intertwined, and the resulting art manages to exclude both good and 
+evil, sacredness and blasphemy, chastity and pornography. As a result, 
+the territory it encompasses includes, if only potentially, all the possible 
+topoi of the sensible and the erotic, the tactile and the visible, the 
+material and the mental. 
+
+Steinbach's threshold emerges from the encounter between two 
+entities: the shelf, designed by the artist as a "memory" of reductive and 
+Minimalist sculpture and composed of industrial materials such as 
+
+
+
+
+Giorgio Morandi, Still Life, 1919. 
+
+Oil on canvas. 
+Pinacoteca di Brera, Milan, Gift of Emilio and Maria Jesi 
+
+
+
+formica or metal on wood; and the numerical progression of things and 
+objects that pass from elegant to vulgar, from cold to sensual, from 
+elitist to kitschy, from mobile to static. The plane uniting these 
+universes is a place of discord and contrast as well as symbiosis, where a 
+dialogue ensues between the popular sphinx of mass production and the 
+mysterious sphinx of constructive and functional thought. The motion 
+across a flat, immobile expanse evokes the journey and the dynamics of 
+ghosts or people devoted to nothingness, as in Ingmar Bergman's The 
+Seventh Seal or the wagon trains of consumers and pioneers crossing 
+America's Great Plains. 
+
+Nevertheless, the procession of banal consumer objects is light and 
+free: the artifacts are not fixed, and hence may be moved, touched, and 
+seized. They pass across a heavy and static support, as if Steinbach 
+
+
+
+
+Ettore Spalletti, 
+
+Amphora Basin Vase, 1972. 
+
+Installation at Galleria Lucrezia de Domizio, Pescara. 
+
+
+
+wanted this mittot structure, this dialogue to reveal the constant 
+relationships between two phenomena: an unstable art that resorts to 
+using products and simulacra of real society, that is, consumer society; 
+and a secure and solid art that believes in building for the future 
+according to rules and volumes that are planned and defined a priori. In 
+Steinbach, concrete phantoms, representing the frailty and vagueness, 
+the make-believe and malaise of a transitory vision, encounter the 
+definition of a permanence and a stability that is alive with ideas and 
+calculations, with hypotheses of philosophy and artistic language. 
+
+Spalletti likewise constructs volumes and blocks of compact and 
+calculated material; they are traversed not by consumer fetishes but by a 
+homogeneous yet freely distributed impasto of color so frail and 
+transitory that a slight touch may alter the brittle reality. Like 
+
+
+
+Steinbach's objects, the pigment — azure or gray, pink or blue — on 
+Spalletti's vases and basins, paintings and columns may be perceived as a 
+sensory datum, as movement and life, to be enjoyed by anyone willing 
+to touch it. 
+
+Steinbach's juxtaposition of consumer products and primary 
+structures has the same function as Spalletti's superimposition of 
+pulverized pigment on pure volumes. Both techniques utilize the 
+kinship between the "here and now" of living and the history of images 
+that are absolute and fixed in time. 
+
+We could state that both artists flee, and yet pay homage to, 
+formal idealism, in order to venture into the pleasure and sensuality of 
+things or epidermises to touch and hold. Thus there is a return to the 
+dialogue between Existence and Being, between shadow and substance, 
+which are always connected and never at odds. 
+
+In the final analysis, the products and the soft color surface 
+constitute a plot or narrative, an active and mobile destiny of seeing and 
+touching, while the triangular shelf and the circular vase signify an 
+immobility and an eternal return, a completed and reassuring story (one 
+that recurs infinitely) of seeing and constructing in art. 
+
+To find a historical analogy, we could cite the enigma of object and 
+painting in Giorgio Morandi's metaphysical period. For him, too, color, 
+as powder or fresh snow, manages to form carafes and bottles — floury 
+volumes and luminescent products. In many of his still lifes, the fluidity 
+of the chromatic material confuses and fuses object and shelf, joggling 
+their confines, so that the palpitation of the color suggests a transition 
+between diverse entities. At the same time, the carafes and bottles flow 
+through a vacuum that reveals their enchanted solitude; yet they are 
+arranged in a linear and spatial sequence attesting to their equilibrium 
+and their inherent absoluteness. In Morandi's work, we see a thoroughly 
+balanced harmony of form and tone as well as a perceptional ambiguity 
+
+
+
+between object and surface, between spiritual and material elements. 
+
+This "atmosphere" is based on the rational and sensible harmonies 
+of shapes, colors, and objects — a legacy of Piero della Francesca, Paolo 
+Uccello, Caravaggio. These artists both reveal and conceal the object, 
+connecting as well as distinguishing its chromatic and sculptural 
+doubleness. In so doing, they close the gap between rational and 
+irrational, material and immaterial. 
+
+This same contradiction is apparent in both Spalletti's and 
+Steinbach's attitude toward the physical constitution of the work, which 
+is entrusted to the sensitivity of the viewer. Both artists leave their work 
+open to external intervention, allowing the viewer to alter the sequence 
+of objects or the homogeneous quality of the porous surface. 
+
+Steinbach's passage through the forest of everyday objects is a 
+mirror image of Spalletti's voyage through the empyrean of colors. Their 
+weightless universes are sustained only by the ephemeral splendor and 
+voluptuous density of their decor. Rather than an art focusing on a 
+Platonic distinction between the "real world" and "apparent world," we 
+have one that widens the orbits for both worlds, exposing their 
+opposition as a false issue. And if dualism is defunct, its absence 
+signifies that original and copy do not exist in art, because every image 
+refers solely to another image. Hence, the popular and consumerist, 
+ethereal and ephemeral icon reflects the elitist and radical, concrete and 
+stable icon, which refers to the other — neither is privileged. The point 
+is not an affirmation, but a dissolution, of identities. Hence Steinbach 
+and Spalletti intersect on a surface that is available to everyone and 
+anyone because it reflects light and images — Spalletti's monochrome 
+surface and Steinbach's (sometimes distorting) mirror. "I've always 
+thought in terms of surface," Steinbach told me, "of masquerading and 
+of the outdoor skin of things. I do not think as a sculptor but as a 
+painter. To me all the surfaces are cultural surfaces, the most interesting 
+
+
+
+aspect is the overdetermination of the object identity. The way the 
+object presents itself, how it is dressed." 1 Spalletti has made a 
+corresponding statement: "On the surface I find live material: that 
+which the work restores for me." 2 
+
+For Spalletti, color is the site for concretizing forms, as if the 
+surface painting, with its accumulation of pigments, its brightness and 
+luminosity, were swelling sensually and, with the thickening of the 
+material, giving life to his vases. The same applies to Steinbach: in his 
+oeuvre, the colors of products fluctuate on the metal and formica 
+surfaces of his "abstract" shelves. Here, it is as if color were "placeless" 
+and (as in Cezanne) could find its raison d'etre solely by plunging into 
+"things." When color is dragged into things and forms they take the 
+place of color. Color has become discreet, it has been annihilated by 
+something that has abolished all values — the vase or the toy, the basin 
+or the medicine balls. 
+
+Thus we arrive at a precarious vortex: color and surface illuminate 
+the object, and the object concretizes the chromatic luminosity of the 
+subject; fused and united, they permit the use and consumption of the 
+surface as an individual and social phenomenon. 
+
+The introduction of the concept of phenomenon can take either of 
+two guises: as the trans-sensible or trans-linguistic essence and as the 
+body. Here too, Spalletti and Steinbach overlap in their approaches. 
+Spalletti virtually emanates (or at least reveals) a conception of art in 
+which painting and sculpture dissolve into a sublime being able to 
+restrain the essence of color and form. The Italian seems to favor the 
+sensible and the trans-sensible, so that his art becomes the home of 
+existence in terms of the spirit and the senses or the home of all 
+existences in human and animal terms. 
+
+For Steinbach, in contrast, the materialization of the sensible and 
+the trans-sensible passes through the materialization of the body of the 
+
+
+
+10 
+
+
+
+object and of the human being. And if body is language, then language 
+becomes body. In the exchange promoted through Osmosis, we detect 
+Steinbach's focus on bodybuilding and aerobics: whether by instinct or 
+intention, a person can turn his corporeal authenticity into an object 
+surface, an artifact among other artifacts, an inauthentic mode adjacent 
+to the authentic mode, a modified copy of the original. Bodybuilding, 
+from the variety practiced by Arnold Schwarzenegger to that of Jane 
+Fonda, transforms a body's reality into a superreality, an excess of 
+positivity as opposed to the negativity of the normal. In remolding its 
+limits, the body takes on a value that coincides with the marginality of 
+objects, thwarting any human power over them. The bodybuilder thus 
+reduces the surface of his or her body to an informational space, 
+something purely denotative and connoting nothing, because it is 
+absolutized and fashioned according to abstract rules. This is an idiotic 
+aspect of social culture, which, like the foolishness of objects, should not 
+be concealed. The desacralizing and contextualizing of any subject go 
+together. For this reason, Steinbach refuses devotion to any subject, 
+whether bodybuilding or mass consumerism. And if everything has the 
+same value as everything else, the result is absolute equivalence: a 
+museum is equal to a gymnasium or to a make-up room filled with 
+mirrors. 
+
+But what does bodybuilding have to do with Spalletti's quest for 
+the sublime? Both phenomena result from a delusion in dealing with 
+reality or with culture; they both operate on the lack of a body or of a 
+perfect, metaphysical, almost "divine" body: a situation between a lack 
+and a gift, between that which is subtracted and that which is given. 
+The generosity of the gift is inherent in the double and in the forgetting 
+of reality — both of these can be rediscovered in the space of the Solomon 
+R. Guggenheim Museum that has been utilized by the artists for the 
+Osmosis installation. Specifically, the specular opening of the mirrored 
+
+
+
+1 1 
+
+
+
+wall behind the dumbbells is equivalent to huge medieval mosaics ot 
+the ceilings in Cinquecento homes; the lattet have mspited Spalletti's 
+paintings, which open out luminously and double the perceptible 
+extremities of space. This same function of hallucination and illusion is 
+created by the chromatic cathatsis of his sutfaces: these cracks in the sky 
+and in heaven open theit surroundings to an extraterrestrial panorama of 
+light clouds and blank ateas. 
+
+Both Spalletti and Steinbach think of their art in terms of 
+doubleness, eithet as a value for opposing the wotld or as an instmment 
+for molding it. Hence, on the pages ol this book and in the 
+Guggenheim, we find a close bond between mirror and chromatic 
+sutface, between watet and marble, between container and content, 
+between vase and medicine balls, between art and gymnastics: these 
+elements ate linked by a quest for perfection. The search for a self-image 
+based on a perfect body can be placed on the same level as a sublime 
+sculpture or painting. Both phenomena rely on the perfection of a 
+surface or of a smooth and sculptural epidermis that is utterly without 
+defects. In this book, the results for both artists are parallel: Steinbach 
+has reproduced surfaces of muscles and mirrors — pictorial mimeses and 
+watery surfaces; Spalletti gives us a sequence of photographic images of 
+details of the marble and chromatic epidermises of his sculptures. These 
+artists share a theoretical continuity that assumes reflection — not as a 
+reference or a mirroring, but as a meditation on and reconsideration of 
+the terms of seeing. Steinbach's mirror is thus the surface, just as 
+Spalletti's painterly and sculptural surface is the mirror. In their naked 
+reality, both exist halfway between subject and shadow, between reality 
+and reflection. 
+
+(Translated, from the Italian, by Joachim Neugroschel.) 
+
+
+
+12 
+
+
+
+ETTORE SPALLETTI AND HAIM STEINBACH 
+TRANSCENDENTAL EQUATIONS 
+
+
+
+NANCY SPECTOR 
+
+
+
+What is it about Ettore Spalletti's sculpture and painting that causes art 
+critics who are usually reserved to rhapsodize about the metaphysical 
+and the sublime, about beauty with a capital "B"? Perhaps it is their 
+unadulterated geometric forms, which elicit a kind of Kantian aesthetic 
+revery from Modernists seeking a state of disinterested desire. Or 
+perhaps it is the palette of green, azure, lavender, and salmon — 
+suggestive of the mountainous Abruzzi region of Italy, where he lives — 
+recalling nineteenth-century Transcendentalist artists, for whom nature 
+symbolized the divine. Spalletti's austerity of form and tonal harmonies 
+invoke comparisons to Italian Renaissance painting; correlations with 
+the works of Piero della Francesca, Mantegna, and Raphael are often 
+made. The view that Spalletti is heir to the great tradition of Italian 
+religious art inevitably invites an analysis of the spiritual dimensions of 
+his work. Certainly Haim Steinbach had such an approach in mind 
+when, in correspondence concerning their forthcoming collaboration for 
+the Guggenheim Museum's Osmosis exhibition, he asked Spalletti his 
+
+
+
+13 
+
+
+
+thoughts about Jacopo da Pontormo's painting The Deposition from the 
+Cross in Santa Felicita in Florence. 1 
+
+In this collaborative context, the significance of such a question 
+lies in the identity of the artist who posed it. If one were to identify an 
+artist whose work seems the visual antithesis of Spalletti's refined 
+productions — whose projects appear to challenge the metaphysical 
+yearnings that such art summons — Steinbach would be a preeminent 
+choice. His studied, sometimes witty, often lyrical, arrangements of 
+objects culled from material culture appear, at first glance, seeped in the 
+secular desires of contemporary society. While Spalletti's almost ethereal 
+creations resonate with an aura of timelessness, Steinbach's 
+constellations of found objects speak to the present. In isolation, 
+Steinbach's objects appear as consumer products; digital alarm clocks, 
+chrome wastebaskets, Halloween masks, and Alessi tea kettles have 
+become emblems of the commodity fetishism around which the desires 
+fueling capitalist culture circulate. But such items are also objects of 
+exchange and thus, through association, begin to portray relationships 
+
+
+
+
+Ettore Spalletti, Holy Water Basin, 1986. 
+
+Carrara marble and water. 
+
+Collection of the artist. 
+
+
+
+14 
+
+
+
+between people, between cultures, between the past and the present. 
+Inexpensive souvenirs, personal mementos, and kitsch keepsakes 
+metonymically suggest private memories — real or imagined lost 
+moments captured in fading but cherished objects. Similarly, cultural 
+artifacts and folk relics communicate the notion of collective memory, 
+but Steinbach, ever aware of the relativity of such sensibilities in our 
+modern world, pointedly asks us to consider just whose cultural 
+memory is being invoked. For instance, the ersatz-African stools made 
+from elephant feet arranged on one of Steinbach's signature wedged 
+shelves in a 1988 sculpture demonstrate the unfortunate and 
+opportunistic ways in which "memories" of Africa have been inscribed 
+within Western culture. The elephant skull displayed frontally on a 
+separate shelf (forming a diptych with the foot stools) reinforces the fact 
+that collective cultural memories are neither neutral nor benign. In 
+Steinbach's highly conceptual art, the arrangement and juxtapositions of 
+varied objects construct forceful narratives that describe our present 
+value systems and cultural realities. For example, his Untitled (guns, hats) 
+(1988), in which a rack of vertical rifles that seem to stand at attention is 
+topped with a shelf of men's hats, evokes references to the rigid codes of 
+masculinity still in place in our society. 
+
+If Spalletti is viewed as a contemporary Rothko, who creates 
+classically abstract works with metaphysical associations, Steinbach is a 
+present-day Warhol, who unabashedly holds a mirror to our civilization. 
+However, to make such a dialectical analogy and define these artists 
+solely through opposition is an overly simplistic gesture that dismisses 
+other more complementary dimensions of their projects. Another way to 
+perceive the two artists' work emerges when reconsidering Steinbach's 
+inquiry about the relevance of Pontormo's painting to Spalletti's 
+aesthetic convictions. In response to Steinbach's allusion to the tradition 
+of Italian devotional art, Spalletti said that he often visited the painting 
+
+
+
+15 
+
+
+
+
+— 
+
+
+
+
+Haim Steinbach, Untitled (elephant foot stools, elephant skull) (details), 1988 
+
+Plastic-laminated wood shelves with objects. Courtesy Sonnabend Gallery and 
+
+Jay Gorney Modern Art, New York. 
+
+
+
+and commented on the beauty of Pontormo's diaries. He recounted that 
+Pontormo once dined with Bronzino and together "they ate a herring."' 
+This brief exchange between the artists — Steinbach introduced a 
+religious image as a topic for discussion and Spalletti described a 
+culinary event — provides some clues to a reading of their work. 
+
+Spalletti's reference to the shared herring can be seen as an 
+invitation to read his work together with Steinbach's, to mix things up a 
+bit, to play with meaning. If, in this collaborative dialogue, Steinbach is 
+going to ask him about the spiritual arena, Spalletti is going to talk 
+about the carnal. The goal then is to discover where in their work these 
+two different realms — the metaphysical and the empirical — collide. 
+Pontormo's and Bronzino's communal meal thus becomes a metaphor 
+for the exchange between Steinbach and Spalletti, a metaphor for the 
+points of intersection in their art. To extend this metaphor, the herring 
+itself takes on dual connotations: it may be read as both the early 
+Christian symbol for Jesus Christ and a simple seafood dish. In 
+following this double thread we may then ask, what in Steinbach's art 
+invokes the transcendent and, conversely, what in Spalletti's entertains 
+the corporeal. 
+
+
+
+16 
+
+
+
+
+Haim Steinbach, Untitled (guns, hats), 
+
+1988. English brown oak veneered wood box 
+with objects. Private Collection, Belgium. 
+
+
+
+While the theory that abstract sculpture emulates the body is 
+hardly new, Spalletti's work adds a few unexpected twists to the 
+concept. In addition to its verticality, three-dimensionality, and 
+existence in time, Spalletti's sculpture has a delicate skin of powdered 
+pigment, which seems as permeable as the human body. The sculptural 
+surface is thereby transformed from a rigid, geometric container to a 
+seemingly malleable substance; contours soften and the works appear to 
+breathe. Spalletti amplifies his play with the anthropomorphic qualities 
+of abstract form in the cover photograph of the catalogue for his recent 
+retrospective at IVAM (Institut Valencia d'Art Modern). In the image, 
+the artist is shown sprinkling water onto a small sculpture as if trying to 
+make it grow. In fact, the sculpture does have the capacity to absorb 
+water and, according to Spalletti, it gradually changes and "exudes" 
+
+
+
+17 
+
+
+
+Ettore Spallerti, Vase, 1981. Photograph. 
+
+color with the addition of moisture. 5 The organic properties of the work 
+aside, what is most intriguing about the photograph is that the image of 
+the artist's body is severely cropped to look like a column, a second 
+sculptural form. With this photograph, Spalletti dissolves the 
+boundaries between body and sculpture, between the creative act and 
+the work itself. 
+
+Spalletti's simulated transformation into an aesthetic object recalls 
+the legacy of another Italian artist, Piero Manzoni. On a formal level, 
+Spalletti's monochrome canvases testify to his cognizance of Manzoni's 
+all-white achromes of the late 1950s, but the artists share a deeper, more 
+conceptual, connection. Both of their oeuvres appear informed by a 
+conviction that the traditional distinction between art and life is 
+erroneous and has only served to perpetuate cultural doctrines that 
+privilege the Utopian over the empirical. To illustrate this point, 
+Manzoni infused his art with the presence of his own body — filling and 
+distributing balloons as quantities of Fiato d'artista (Artist's breath) and 
+
+
+
+canning his own excrement to be sold as Merda d'artista (Artist's shit). 
+At the same time, however, and quite intentionally, his quixotic 
+gestures evoked connotations of the spiritual. According to Germano 
+Celant, Manzoni metaphorically extended what he construed to be the 
+aesthetic potential of his own being to the masses by signing other 
+people's bodies and proclaiming them Sculture vivente (Living 
+sculptures). 4 But as with the reception of Spalletti's art, exclusively 
+religious interpretations are often proffered instead of readings that 
+capture the critical, even parodic, dimension of the work. When, for 
+example, Manzoni distributed hard-boiled eggs marked with his 
+thumbprint for consumption at a gallery opening in i960, his action 
+was compared to Christian communion. 5 The deliberate provocation 
+inherent to Manzoni's actions went largely unnoticed. Few, if any, critics 
+questioned the economic and cultural implications of an artist claiming 
+the products of his own body as art. No one acknowledged Manzoni's 
+investigation of the artist's relation to his or her own means of 
+production and of the art world's conflation of aesthetic value and 
+exchange value (aspects of the work which are astutely reflected in 
+Steinbach's practices today). And most noticeably, no one commented 
+upon the remarkable humor informing Manzoni's oeuvre. 
+
+Spalletti, too, effects a curious blend of the religious and the 
+corporeal, and not without a touch of sly humor. While alluding 
+through conventional formal devices to the transcendental, Spalletti 
+simultaneously reminds us that his work is actually embedded in the 
+body. In addition to ingeniously weaving his own person into the work 
+through photographic references, the artist creates sculptural surface 
+coverings so fragile that the touch of a human hand can completely mar 
+their visual integrity. What appear to be the abstract sculptural essences 
+of immortality, are, in essence, highly vulnerable entities. By imbuing 
+these sumptuous forms with a human (i.e. temporal) presence, Spalletti 
+
+
+
+19 
+
+
+
+metaphorically unites the sensual and the supersensual realms. What, 
+after all, is transcendence but basic human striving to overcome 
+adversity, to broaden boundaries, to seek inspiration? The search for 
+transcendence is a perpetual process that comes not from above but from 
+within. 
+
+Steinbach's work also challenges Western culture's conventional 
+dichotomy between the aesthetic object and lived experience. When 
+paraded across shelves or placed in armoires, his found objects do not 
+acquire the status ol Duchampian "ready-mades" merely by assuming 
+the stance of displayable art in a gallery or museum context. Instead, 
+Steinbach's objects persist as objects, stubbornly maintaining their 
+empirical connection to the "real" world and adamantly describing their 
+place within it. However, this does not mean that these highly 
+premeditated selections of objects lack aesthetic value or a certain 
+poetry. Like Proust's madeleine, a singular familiar item can elicit a 
+flood of associations, memories, and desires. Or as architect Adolf Loos 
+once remarked, "even- piece of furniture, every thing, even- object ha[s} 
+a story to tell, a family story. "" In a number of Steinbach's sculptures, 
+the narrative revolves around issues of the body, ranging from personal 
+hygiene — toilet brushes shown with laundry bins — to physical strength. 
+Medicine balls, mirrors, and barbells populate many of the recent works 
+in reference to a particularly American obse-ssion with the body 
+beautiful. In this way. Steinbach's project also refers to Manzom's 
+interest in the corporeal dimension and ventures a similar fusion of art 
+and life. Whereas the Italian artist used mundane items — such as 
+balloons, cans, and eggs — to contain and convey bodily products, 
+Steinbach's objects are inanimate props that indicate bodily presence. 
+
+The exercise equipment and expansive mirrors used in Steinbach's 
+sculptures may be considered as surrogates for the people who utilize 
+them in their quest for physical perfection. The cold metal armatures of 
+
+
+
+20 
+
+
+
+the Nautilus machines embody the desire that drives gym patrons in 
+search of steel-hard muscles, boundless stamina, and super-human 
+strength. In contemporary American culture, this zealous pursuit for the 
+ultimate physique can be understood as a crusade for personal 
+transformation or transcendence. The concept of transcendence has been 
+secularized in the modern world and there now exists a panoply of ways 
+to reach nirvana. Tele-evangelism offers spiritual transport in the 
+privacy of one's own living room, while "religious" experiences have 
+been known to occur in aerobics class or at rock concerts, through mind- 
+altering drugs, or even hang-gliding. Steinbach illustrates this cultural 
+phenomenon with insight and humor in his 1987 installation Spirit I. 
+Comprised of two brand-new, gleaming, freestanding universal weight- 
+lifting machines and thirty-six lava lamps on a three-tiered chrome 
+shelving unit, the work symbolizes contrasting methods employed in 
+the contemporary search for individual revelation. Lava lamps, favorite 
+1960s decorator items, are better remembered today as props for drug- 
+induced, hallucinatory experiences, as designer furniture for the LSD 
+generation. The ever-floating, ever-mutating forms in the illuminated 
+belly of these lamps have come, like black-light posters, love beads, and 
+incense, to represent a time in the not-so-distant past when psychedelic 
+drugs were equated with spiritual elevation. The Nautilus machines — 
+stream-lined exercise equipment designed to pump and flex every 
+muscle — represent the current mania for physical perfection. In our 
+culture, the lean, well-toned physique has come to signify absolute 
+mastery over the body. This intoxication with control comes with moral 
+implications: the ability to overcome all physical obstacles and appetites 
+is lauded as exemplary behavior. And the rewards for such self-denial? 
+The capacity to re-shape one's anatomy and attain the appearance of 
+eternal youth. If people cannot determine their ultimate destiny, at least 
+they can look good. The feelings of achievement and invulnerability 
+
+
+
+21 
+
+
+
+
+Haim Steinbach, Spirit I, 1987. Exercise machines, chrome-laminated wood shelf 
+with lava lamps. Collection cape Musee d'art contemporain, Bordeaux. 
+
+thus gained are, for many today, the ultimate goal — corporeal 
+transcendence with an eye toward immortality. 
+
+Steinbach's Spirit I, with its allusions to secular modes of physical 
+and mental transcendence, embodies the dualism inherent to our Judeo- 
+Christian heritage. United in one installation, the exercise apparatus and 
+the lava lamps symbolize the bifurcation of human existence into two 
+discrete, but interrelated, realms: the bodily or carnal on one hand, and 
+the cerebral or spiritual on the other. Throughout the philosophic and 
+religious traditions of the Western world, the physical domain has 
+invariably been construed as the great impediment to spiritual 
+evolution: desires of the flesh have been considered enemies of the soul, 
+and bodily weaknesses such as illness, fatigue, and hunger have been 
+seen as distractions for the mind. The traditional path toward 
+transcendence, therefore, has necessitated that the body be conquered 
+and subdued in order to secure the unhindered development of the soul. 
+
+This division between body and mind is, in essence, a dialectic, 
+
+
+
+22 
+
+
+
+since one realm cannot function without the other. The struggle 
+between the physical and the mental, between the carnal and the 
+spiritual, between life and the hope for immortality, is fundamental to 
+being human. In both Spalletti's flirtation with the corporeal and the 
+sublime, and Steinbach's engagement with Western dualism, 
+transcendence is not an absolute state, but rather a process that requires 
+a simultaneous respect for the physical and appreciation of the mental. 
+It is at this triangulated point — the delicate configuration of body, 
+mind, and the search for transcendence — where Steinbach's and 
+Spalletti's works converge. While neither artist is making claims to the 
+transcendental — Spalletti plays with it as a visual trope in art and 
+Steinbach illustrates its current cultural manifestations — they both 
+insist on the centrality of the body to any spiritual or aesthetic pursuit. 
+
+
+
+i. Letter from Haim Steinbach to Ettore Spalletti, July 15, 1992. 
+
+2. Letter from Ettore Spalletti to Haim Steinbach, July 26, 1992. 
+
+3. Ibid. 
+
+4. Germano Celant, Piero Manzoni, trans. Malcom Skey, New York and Paris, 
+Sonnabend Press, 1972, p. 11. 
+
+5. Jan van der Marck, "Piero Manzoni: An Exemplary Life," Art in America 61 
+(May 1973), pp. 74-81. 
+
+6. Quoted in Beatriz Colomina, "The Split Wall: Domestic Voyeurism," ed. Beatriz 
+Colomina, Sexuality and Space, New York, Princeton Architectural Press, 1992, 
+
+p. 83, footnote 14. 
+
+
+
+23 
+
+
+
+
+
+n 
+
+
+
+
+mm 
+
+
+
+.«afc 
+
+
+
+WV? 
+
+
+
+SHE 
+H Hi 
+
+■ ■ 
+
+
+
+■ 
+
+
+
+
+Ml 
+
+
+
+
+■h 
+
+
+
+■ 
+
+I i 
+
+
+
+
+
+
+
+&lt; 
+
+
+
+tr&gt; 
+
+
+
+H 
+
+
+
+■ 
+
+
+
+■ 
+
+
+
+
+
+
+•m 
+
+
+
+^■1 
+
+
+
+ill W un V \w\ 1 W V| |V \vflk 1 
+
+
+mm 
+
+
+ijjipt 
+
+
+Ml 
+
+
+- V9 
+
+
+
+So 
+
+
+
+e porgere, chissa da quale tempo, quanto rimane vivo 
+
+
+
+
+
+ETTORE SPALLETTI AND HAIM STEINBACH 
+A CONVERSATION 
+
+
+
+GERMANO CELANT 
+
+
+
+Germano Celant brought Ettore Spalletti and Haim Steinbach together in Italy 
+on August 31 and September 1. 1992 to discuss the Osmosis installation and this 
+publication. In the process of developing their collaborative ideas, they raised the 
+issue of the relation of the body to touch, vulnerability, and desire. They also 
+discussed the points of contact between such disparate subjects as Michelangelo 
+and cosmetics, armoires and ergonomics. Mannerist sculpture and Arnold 
+Schwarzenegger. 
+
+germano celant Since your plans for this collaborative 
+installation involve embedding mirtots in the walls, a viewet will see 
+reflections of net ot his own body in the same space with the objects you 
+cteate for the exhibition. What do you think is the telationship between 
+these two expetiences? 
+
+ETTORE SPALLETTI What I have in mind is the image of 
+paintings on the walls and sculptures on the floor plane. And there will 
+be a third image, that reflected in the mirror. We will have two 
+exhibitions: a real one, and one inside the illusory depth of the mirror. 
+
+
+
+56 
+
+
+
+HAIM steinbach The mirror and the objects are reflective 
+forms of our own invention. The large mirror is traversed by a hanging 
+chrome rack with a row of dumbbells. Both are there for the body to 
+interact with physically and perceptually. The mirror also refers to 
+tangibility, if only by the mere fact of the intangibility of the reflected 
+image. It invites a psychological-spatial response as well as a desire for 
+touching. Identification with the circular and the elliptical distorting 
+mirrors is less direct. The recognition of an aberration of surface invites 
+you to say, "wait a minute, that's not a normal mirror, what is it?" — so 
+you sort of want to go over and you end up looking at yourself. 
+
+E.S. Notice that the elliptical mirror has a proportion similar to 
+that of the body. 
+
+H.S. And like the mirror, the gessoed pigment on Ettore's work 
+invites you to touch it. 
+
+G.C. Ettore, I am interested in this tactile aspect of your work. 
+\bu have said that Arte Povera was important for the ability it gave art 
+to occupy space in a sensitive rather than a rational way. The material 
+has always been touchable, has always been activated in a visual way. 
+
+E.S. The material itself is unchanging. When the material is 
+touched by the artist, it comes to inform us of something else. 
+
+Then it is fixed. 
+
+At that moment neither the material nor the color can go back to 
+their place of origin because they have become something else. The oil 
+paint cannot go back into the tube. 
+
+G.C. The artist always has an interest in emphasizing the concrete 
+language of things. As with their spatial poetry, it is difficult for an art 
+work to proceed backwards, to go back to the zero point of the materials; 
+the Dadaist tradition, however, did posit this doubt, of signs moving 
+freely in the whole with no limit. A distinction is in fact noticeable 
+between your work and that of the historical avant-garde, precisely in its 
+
+
+
+57 
+
+
+
+difference ot attitude. Haim looks to Duchamp. whereas Spalletn turns 
+
+ize to Morandi: both "painted" everyday objects (that is. they 
+inserted them into paintir_ 
+
+E . S . I like to think that my work retains the wholeness or" the 
+moment in which I made it. I would like it to remain new, untouched by 
+the taste of time. 
+
+Berore they decided : [est re it. the Sistine Chapel was dirty, and 
+ne still believed that that really was the color that Michelangelo 
+tec : : be. I climbed up the scaffolding one day to &gt;ee the cleaning 
+close up, and the color d to me was very striking. The image I 
+
+had was of many h ;olor. of yellow, blue, indigo. Or color inside 
+
+glass containers th me a vision ot something in ruil relief, ot a 
+
+color that immediately afterward c zeiling in the same full 
+
+roundness. 
+
+G.c. The other night we ^generation of 
+
+the body. I: someone touches the seductive skin ot your work, it mars 
+the powdery surface and the surface must be re-sanded. So is it possible 
+to preserve the work as it appeared in the moment or its creation? 
+
+E . S . When they ask me to restore a work. I can never really figure 
+out the exact moment ot its creation; I iuperimp se on this 
+
+moment another moment. 
+
+Berore. Haim asked me abou fts, preserving an appearance 
+
+in the mos: ex generosity ot our being. I p:e:e: real cosmetics. 
+
+those that doc: allow themselves : ivered. 
+
+G.C. Everyt crested in keeping the momentum ot the 
+
+productive age — beauty, youth, etc. Keeping this kind :: productive 
+-_- means that you don't emphasize every moment ot your lite. You 
+
+:\d certain elements. A painting is produced in a certain 
+moment in time, in a context, and doesn't have this kind of life, this 
+kind of change of enetgy, because it represents an extreme point or 
+
+
+
+i = 
+
+
+
+energv at a terrain moment in history. So it's perhaps difficult to accept 
+that this energy can be changed in time, or it you do accept that it's no 
+longer part of the piece, it's just a change or manipulation or the piece. 
+
+H.S. The seductive surfaces of Ettore's sculptures call for the 
+potential for rapid degeneration of the work, given the possibility that 
+the gessoed and powdered surfaces may be touched. 
+
+G.C. If you are inviting interaction, that doesn't necessarily mean 
+that you don't want to maintain the inherent qualities or the work. 
+
+H.S. Nonetheless it's a potential in the work, and it may happen. 
+
+G.C. The pieces invite one to cultivate sensitivity about what is 
+fragile. If you offer certain tactile elements, you are not necessarily 
+inviting destruction. \bu can perhaps invite a positive, not a negative, 
+attitude to the work. 
+
+H.S. I think that the fragile element requires sensitivity and care, 
+but it also is a manifestation of vulnerability. When you talk about the 
+body and the references of physical reality, there is also the aspect of its 
+fragility, its vulnerability, and its ephemerality, which is another 
+reference to Ettore's work. But there is also materiality and the 
+degeneration, the death — in terms of disappearance, obsolescence, 
+dysfunction, or damage — of material things. 
+
+G.C. Don't you think your work has the same kind of fragility v In 
+your work, there is the potential to touch, but there is also a distancing 
+that results from the shelf or pedestal. I see then that both your 
+attitudes are similar: there is ephemerality, because the work can be 
+destroyed — if you break a vase, you can replace it, just as you can restore 
+Ettore's varnished surface. 
+
+H.S. You can't always replace the objects in my work. 
+
+G.C. Yes, sometimes they are unique or historical. So then there is 
+a transformation, because as soon as I move the installation over by an 
+inch, or I replace a gray cup with a white one, I have a different meaning 
+
+
+
+59 
+
+
+
+... so it seems to me that both of you are dealing with a sort of dualism 
+or dialectical situation that is there, but which could disappear. You are 
+proposing a vulnerability, but a vulnerability that is aggressive. When 
+you break or touch an object, you feel guilty. Vulnerability becomes an 
+issue of respect and sensitivity. I see both ideas on the same die. 
+
+H.S. But though you may think positively about these things, the 
+issue of the disintegration of the work is an issue of the reality of objects. 
+The focus in my work is not the new; the work also extends to old 
+objects, and to objects that have been damaged — they may be aging, 
+aged, disintegrating, or disintegrated, but they are objects nonetheless — 
+they may have or have had an ideal reality at one point ... it was a 
+machine that worked, an object that was a vibrant orange that happened 
+to be made of plastic, that got left out in the sun and lost its original 
+color. That doesn't mean that the object has stopped living; its life has 
+taken on a new reality. 
+
+G.C. \es, but the difference is we're not talking about the 
+deterioration of individual objects, we're talking about what happens 
+when we manipulate the configuration of the objects. 
+
+H.S. Well, in my work, I put the pieces like pieces in a chess game 
+and I say, this is the order. The institution where the works are installed 
+protects the work, because it needs it. Too much touching or handling 
+destroys the work. But since the work involves selection and 
+arrangement, since the collector becomes an accomplice in the act of 
+arranging, the viewer, too, is implicated in this interaction. 
+
+I understand the ideological side of what Ettore is doing. I 
+understand and respect it. But I think that he has built into his work 
+the problem of maintenance. Even if no one touched the work, even if 
+everyone venerated and respected it, it would have to stay in one place 
+and never be moved because the minute someone acquires it, they have 
+to touch it to move it, and so the surface must be violated. In my work 
+
+
+
+60 
+
+
+
+people have co place the objects and follow my instructions, but they 
+may miss doing so and that's a problem, but it's also a. problematic of the 
+work. I made a conscious choice not to glue or bolt the objects to the 
+shelf or box to which they are assigned. 
+
+E.S. The problem of tactility is fundamental, and I feel very 
+strongly about it with respect to my work. But the tactile cannot always 
+be resolved with touch itself, just as not all expressions of desire can 
+really be lived. 
+
+G.C. But you have to respect the desire of the "other." 
+
+E.S. The fact of desire being lived as something always legitimate 
+is a profoundly materialistic notion. What I see as being really 
+materialistic is the desire to touch and discover everything. I like the 
+idea of a surface expressing a strong tactile desire, and at the same time I 
+like to discover that it is possible to live this desire in the very 
+restraining of action, in the impossibility of realizing the desire itself. 
+
+H.S. We are talking about the construction of desire's physical, 
+psychological, and spiritual aspects. It consists of possibilities and 
+impossibilities as well as allowances and disallowances. Also there is 
+appreciation and lack of appreciation, sophistication and lack of 
+sophistication, culture and lack of culture, civilization and lack of 
+civilization. Children, at first, have more liberty to have all kinds of 
+sensual experiences; they are allowed to touch. Then they are allowed to 
+touch but not to hit. Later on, they're not allowed to touch anymore. The 
+social being becomes more self-controlled in relation to touching and 
+interaction, as well as to erotic desire and its expression. Then society 
+changes the terms and there is a bit more tolerance. That doesn't mean 
+that because there's more tolerance it all becomes materialistic — it may 
+be an art. Dancing involves touching but it's an expression, not 
+materialism. Touching a surface doesn't have to be materialistic. 
+
+E.S. A nude painted by Titian comes to mind. 
+
+
+
+61 
+
+
+
+G.C. Desire is the secret lymph that fuses the high with the low, 
+the periphery with the center, the spirit with the body: it represents the 
+feverish pulse toward the "other." There are varying degrees of contact or 
+even seduction, but these are always bound to a body that is not 
+possessed. In the case of the overflow of objects of consumption one may 
+speak of a fragmented body that cannot be pieced back together. The 
+strength of the desire to possess them makes it clear that the person is a 
+nonunified combination of elements. Thus the consumer seeks the 
+means to satisfy the eyes, the sex organs, the ears, the nose, the mouth. 
+There is, on the other hand, an attempt to possess a body that cannot be 
+possessed: i.e., one's own body, as "designed" by body building. In this 
+case desire is bound to a "poorly built" entity, a body that people want 
+to bring back to the dissection table, to free it from excess and 
+deformation. Here the transubstantiation of Titian's Venus coincides with 
+the rebuilding of a Schwarzenegger in a reconstituted body. The new 
+being is the being that mirrors itself, like the witch in Snow White, in 
+order to emerge as the new technological Narcissus, purified of all dross 
+and all error. 
+
+H.S. This concept brings back the idea of narcissism, which has to 
+do with the preservation of youth and beauty. It consists of historically 
+cultural conditions. Yxi have beauty parlors, hairdressers, physical- 
+fitness programs, clubs ... all are part of the desire to maintain the 
+integrity of health and beauty. One way that'we maintain this desirable 
+condition is by looking in the mirror. Yo\i look at your body and how it's 
+developing. Yow are involved with its upkeep, fighting against time, 
+fighting against aging. 
+
+E. S. I'm not too sure how fitness culture can construct a body; 
+rather, it manages quite well to shape it. When I saw an image of Ben 
+Johnson, I was struck by the power that his body expressed. I think it is 
+this aspect that modern society is in some way trying to imitate. 
+
+
+
+62 
+
+
+
+Ironically, although he created a model figure of the contemporary 
+athlete, he was immediately punished for it. 
+
+H.S. Ben Johnson is also a symbol of the body's overcoming time 
+or distance. Steroids are the technical aspect of the transformation of 
+bodies, as opposed to the ideology of the body as an organic, natural 
+whole. Arnold Schwarzenegger in The Terminator represents a body that 
+is a synthesis of the organic and the inorganic. 
+
+G.C. The idea of a supreme, sublime body becoming pure through 
+a process of gradual rarefaction is recognizable over the course of art 
+history, from Phidias to Canova, from Classicism to Neoclassicism. The 
+attempt at artistic mimesis has always been an attempt to transform 
+human presence into concept, passion into idea. To sculpt the pure body, 
+at the limit of its unnatural beauty. The perfect blend of gesture and 
+material in Canova inspires the balance of pigment (polvere di colore) and 
+volume in Spalletti, yet it likewise informs the industrial assemblage in 
+The Terminator and the liquification of the character in Total Recall. The 
+subject is always the metaphysical body when the skin is a surface of 
+marble or platinum, an extremely vital body that expropriates life. It is 
+the same duality that one finds in the dialogue between objects of 
+consumption and the minimalist structure in Haim, or in the dialectic 
+between the active, light material (the pigment) and the passive heavy 
+form (the vases and bowls) in Ettore's work. Poetry lies in the double, in 
+the mirror as in the water, in the surface and in the objects to be 
+touched, entities in which our bodies are reflected. 
+
+E. S. I can only say that when I see a body sculpted by Canova I 
+recognize a quality that I had never previously seen, not on the street 
+nor on the beach — nowhere around me, in short. Not a progression, but 
+an invention. It was certainly an intimate nature, a private desire that 
+Canova possessed, an inner vision and image all his own, and he was 
+able to offer it to all, to let everyone see it. In this way, different 
+
+
+
+63 
+
+
+
+expressions of the body always represent different realities. These 
+realities are true constructions. I very much like Paul Valery's saying, 
+"The skin is deepest," because I tend to think — given my physical 
+inactivity, among other things — that the beauty of the body is also 
+achieved from the inside out. Of course the body of a great athlete is 
+also beautiful; these are two different ideas. 
+
+G.C. Do you see your work, in some sense, as figurative sculpture? 
+
+E. S. I try to make color be a figurative imagining; oftentimes I 
+hear my work described with expressions of a figurative nature. I use the 
+color pink with flesh in mind. 
+
+G.C. Is your color a kind of skin? 
+
+E. S. I do not think of color as surface color. A painting painted in 
+oils lacks the ability to absorb; the colored matter can only thicken 
+outwardly. In the end you might also think of overturning the palette 
+onto the surface of the canvas. 
+
+For this exhibition I am thinking of the mirror that Haim uses and 
+I think of it inside the reflection containing the color of the mirror, a 
+color ranging from silver to mercury. That is my vision. Through the 
+mirror, through the reflection of color in the mirror, we should find a 
+different volume. I think of the objects used in physical culture, the 
+chrome weights that will be reflected; perhaps all will become like 
+water. I had considered building a little fountain that would spout a jet 
+of vodka. 
+
+H.S. Speaking of a fountain, you know that water doesn't fall in a 
+lump, but has a different dynamic with respect to gravity from static 
+objects. And the body is some ninety percent water. So I'd like to talk 
+about how gravity relates to the bodies you create. With this sort of 
+sculpture especially there is a play on gravity. If you have a cone that 
+goes up in reverse and is heavier on top than on the bottom, it bears on 
+a certain kind of lifting or coming down, it has to do with the bottom 
+
+
+
+64 
+
+
+
+and the top. It concerns a point of contact with the ground in relation to 
+gravity. Then it brings to mind ideas about weightlessness and 
+movement; you even have a reference to a flying saucer in one of your 
+sculptures. 
+
+The tradition of Italian Mannerism has to do with gravity. In 
+Pontormo's Deposition from the Cross they lower Christ's body and you see 
+and can almost feel how they're holding it. That's about gravity, that's 
+about taking the body down from the cross and the weight of it and how 
+it falls in people's arms. A medicine ball is also about gravity. I'm 
+interested in how these contemporary technological references, like 
+flying saucers and medicine balls, overlap with the tradition of Christian 
+iconography of spiritual transcendence. 
+
+G.C. In your sculpture/paintings the shelf contains and sustains 
+the event. It is like a space that grinds and gives birth, generates and 
+elicits tenderness and cruelty, irony and tragedy, intimacy and 
+impetuosity — a horizontal, pregnant womb engendering the breath of 
+the everyday: the substances and relations between life, both private and 
+social, and things. 
+
+H.S. When I started building these shelves, I was thinking about 
+them in terms of architecture and in terms of objects as being the 
+modifiers, the translators, the mediators by which we understand space 
+socially, institutionally, artistically. Similarly, in my work Untitled 
+(French walnut armoire, Cuban mahogany armoire) an architectural 
+reference is present. These very large armoires from the eighteenth 
+century were made for the big rooms of the chateaus of the aristocracy. 
+They were meant to play with the scale of the rooms. They were about 
+spaces within spaces as well as the affirmation of mass and gravity. And 
+yet they were lightened up by the ornate curves of their fringes. 
+
+Of course, the shelf unit is very different psychologically than the 
+cabinet or the closet. In the cabinet, the situation is always one of 
+
+
+
+65 
+
+
+
+protruding from the wall into one's space. 
+
+G.C. The shelf allows you to move and permute objects, whereas 
+these massive box-like containers imply a different weight in society, an 
+occupational space, a symbolic implication of space. 
+
+H.S. The position of the viewer in his space in relationship to the 
+object. 
+
+G.C. In a certain way the armoire is something that controls you. 
+\bu have to go up to it. \bu cannot bring it with you. 
+
+H.S. Exactly. There's a sociological and psychological language 
+that has to do with one's mobility in space, with the proximity or 
+distance regarding people and objects. 
+
+G.C. It has to do with territory. 
+
+H.S. \es, territory and boundaries regarding self and possessions as 
+well as use of and interaction with objects. 
+
+G.C. Ergonomics — when they study how the configuration of 
+benches at school affects the way children relate to each other and form 
+groups. 
+
+H.S. And it relates to my interests in institutions, in the 
+institutions in which objects exist, or the institutions that make them 
+be what they are or the institutions that they make because of what they 
+have become. 
+
+G.C. Let's discuss the dialogue between this construction — the 
+shelf — and the selection of objects, which is a' different attitude. It's an 
+important point, because in your work and in Ettore's there is a similar 
+system. There is a construction that you control, and a construction that 
+can be touched. For Ettore, there is a form that is a pedestal, a base, on 
+which there is pigment. For you, the shelf is a pedestal to display your 
+sensitivities, a dialogue or analogy of sensitivity. 
+
+H.S. I work with formal, material, and sensory issues, mediums 
+that are used to convey messages conceptually and visually. At a certain 
+
+
+
+66 
+
+
+
+point, I wanted to throw myself into the world, to enter the realm of 
+improbabilities, risk, and insecurity. If my medium is paint and a brush, 
+I have a certain control. But if I throw myself into the world of objects, 
+and say anything is allowed, any arrangement, then it is chaotic and 
+confusing . . . where is my artistic control? So I have to give myself some 
+kind of an anchor, some kind of a set-up. I have to make a structure 
+within which I can introduce, direct, organize the unstable object. I 
+wanted to find a way to employ formal devices in order to elaborate on 
+the social reality inherent in objects. I invented the shelf in the way that 
+someone invented the tuba. The tuba can't play like a violin, but it has 
+certain flexibilities, and within those flexibilities one can make certain 
+emphases to create a sense of time, a sense of empathy. My shelf 
+becomes an instrument that has absolute structural and aesthetic 
+parameters. I use that instrument in order to emphasize and de- 
+emphasize different aspects of the objects. The objects are highlighted; 
+correspondences between elements of their design and shape are 
+underscored. I want to make their surfaces and skins talk, exposing their 
+contents and their relations. 
+
+G.C. How about your selection of objects? Take, for example, the 
+piece with the wooden shoes. Are you satisfied by the way the artisan 
+has done this object for you? Did you commission it or did you find it? 
+
+H.S. I bought them from this guy here in Venice. These wooden 
+boots are not necessarily my ideal standard of beauty nor Ettore's, I 
+assume. These are not two boots carved by Canova, either. This work is 
+about the relativity of desire and standards of beauty other than the 
+artist's. 
+
+G.C. Ettore, if your forms are pedestals for color, where do your 
+choices of color come from? 
+
+E. S. I get up in the morning and go into my studio; I don't know 
+what to do, so I stroll through my work, suddenly stopping in surprise 
+
+
+
+67 
+
+
+
+at the sequentially of forms and colors: "I don't like that pink so close 
+there, so I move it and put a neutral gray in its place, then a cobalt blue, 
+an ultramarine, then a Prussian blue." I am in the studio; only a faint 
+light indicates the outside to me. I don't like the idea of work in art; I 
+prefer the idea of a painting that appears miraculously. When it 
+succeeds. 
+
+For the collaboration, I had the idea of constructing a large tub. I 
+thought of medicinal flasks, and of how to pour water into the tub; I 
+thought of the work in entirely chromatic terms, charcoal black for the 
+tub, leather black for the medicinal flasks; and I thought of these colors 
+in relation to all the others, so as to be able to present a great fresco, and 
+another one on top of this, which would appear frozen in the mirror's 
+reflection. On the real surfaces, the pigments, through abrasion, are 
+fragmented once again. In the apparition there is no notion of soft or 
+hard; one is as though enfolded in an atmosphere of color: chalk white, 
+coal black, earthen brown, sky blue, flesh pink. 
+
+G.C. You describe form as enfolded in color, yet many of the forms 
+themselves resemble containers: vases, pots, bowls. There is thus a 
+dialogue between container and contained, between full and empty. 
+
+H.S. Like Ettore's forms, a mirror may evoke a blue surface that 
+could be empty or full, like an ocean. A black well has the same 
+ambiguity. I see Ettore as filling up minimalist forms with evocative 
+spaces, with sensuality. It could be a response to twentieth-century 
+gridded cities and their highly rationalized forms. 
+
+E.S. I do not complement, as Haim says, minimal forms with 
+sensuality; I fill the surface of the panel with drawing and color, or else I 
+roll the panel until I have a vase or a column. I have always imagined a 
+long wall on which I would place all my work, one piece after another: a 
+great fresco, a great landscape. I think of Minimalist art when I look at 
+photos of my work. A photograph gives me something different; I prefer 
+
+
+
+68 
+
+
+
+black and white. 
+
+H.S. To the extent that we both use primary geometric forms, 
+however, I think it has to do with a response to our high-tech, mass- 
+production, functional era. We have a shared yearning CO engage these 
+forms on our terms. This show is about that sort of criticism. Ettore's and 
+my work have a critical dialectic with reductive and minimalist ideas. 
+Despite talk of objects, there may be no objects, just paradigms of 
+objects. 
+
+G.C. Ettore, do you think of your works as objects? 
+
+E. S. I always refer to my works as paintings or sculptures. The 
+eternal form of the panel encloses, as it always has for me, the inner 
+content. Inside is the figurative imagination that the fragmentation of the 
+pigment produces in the desire for an atmosphere, for an atmospheric 
+image. . . . We're in Venice, I'm thinking of San Marco, an amazing place, 
+or of Piazza dei Miracoli in Pisa, the cathedral square: to look at those 
+"objects" placed on the grass and then to think that de Chirico's little 
+painting with the tower is as big as that piazza. 
+
+(Germano Celant's and Ettore Spalletti's portions were translated, 
+from the Italian, by Stephen Sartarelli. This conversation was edited by 
+Jon Ippolito.) 
+
+
+
+69 
+
+
+
+
+
+
+
+
+
+
+X-3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9^^^^ 
+
+
+
+A e**^-&gt; 
+
+
+
+*► V 
+
+
+
+
+
+
+
+
+
+
+
+
+•* 
+
+
+
+
+
+
+***» 
+
+
+
+*^*» 
+
+
+
+
+
+
+•*,, £ 
+
+
+
+^W\'.*&gt;' 
+
+
+
+&amp;*! 
+
+
+
+
+
+
+*"* 
+
+
+
+
+
+
+[#** 
+
+
+
+%p 
+
+
+
+
+
+
+m-w 
+
+
+
+
+Ul 
+
+
+
+'. : : io-to. 
+
+
+
+&gt;-;:; : :; ;.•:;:•;•;: •;:■:- 
+
+
+
+
+
+
+
+
+
+
+
+a8$$tai 
+
+
+
+
+
+
+Muscle. 
+
+
+
+Beach 
+
+
+
+• ••.•#••* 
+
+
+
+1 ♦••V 
+
+
+
+
+I 
+
+
+
+
+
+
+SUGGESTED READINGS 
+
+
+
+Ettore Spalletti 
+
+Brouwer, Marianne. "Ettore Spalletti." De Appel 2 (1989-90), pp. 8-1 1. 
+
+Celant, Germano. "Ettore Spalletti's Archipelago of Colours." Artforum 25, no. 2 (Oct. 1986), 
+
+pp. 90-92. 
+
+. Ettore Spalletti (exh. cat.). Valencia: IV AM, Institut Valencia d'Art Modern, 1992. 
+
+Ettore Spalletti (exh. cat.). With essays by Bruno Cora and Zdenek Felix. Essen: Museum 
+
+Folkwang; Ghent: Museum Van Hedendaagse Kunst, 1982. 
+Ettore Spalletti (exh. cat.). With essay by Daniel Soutif. Paris: Musee d'art moderne de la ville de 
+
+Paris, 1991. 
+
+Haim Steinbach 
+
+Celant, Germano. "Haim Steinbach's Wild, Wild West." Artforum 26, no. 4 (Dec. 1987), 
+
+PP- 75-79- 
+Decter, Joshua. "Haim Steinbach." Journal of Contemporary Art 5, no. 2 (fall 1992), pp. 114-22. 
+Dubost, Jean-Pierre. "This is not a Readymade." Objectives: The New Sculpture (exh. cat.). 
+
+Newport Harbor: Newport Harbor Art Museum, 1990. 
+Haim Steinbach (exh. cat.). With essays by Germano Celant, Jean-Louis Froment, Elisabeth 
+
+Lebovici, and John Miller. Bordeaux: Musee d'Art Contemporain, 1988-89. 
+Steinbach, Haim. "Joy of Tapping Our Feet." Parkett 14 (Nov. 1987), p. 16. 
+
+
+
+102 
+
+
+
+OSMOSIS 
+
+Ettore Spalletti • Haim Steinbach 
+
+Curator Gennano Celant 
+
+
+
+• The Solomon R Guggenheim 
+Foundation. New York. [993 
+All rights r eset t ed 
+
+-8920--10S-2 
+
+
+
+Managing Editor: Anthony Calnek 
+
+int Ediror: Laura Morns 
+Editorial Assistant: Jennifer Knox 
+Design: Amy Henderson 
+Production: Anne Noonan, S0H0 S^ 
+Prinred in the I'.S.A. by Tabard Copley 
+Graphics. Inc. 
+
+Published by the Guggenheim Museum, 
+lO~l Fifth Avenue. New York. NY 10128 
+
+Distributed by Rizzoli International 
+Publications. Inc.. 100 Park Avenue South, 
+New York. NY 10010 
+
+Published in conjunction with the 
+exhibition Osmos: ;!letti 
+
+mud Haim Steinbach. Solomon R. 
+Guggenheim Museum. New York. 
+March iS-May 9, 1993 
+
+
+
+Translation of Germano CeLant's ( - 
+and introduction C [993 by Joachim 
+NeugroscbeJ 
+
+Jacket and frontispiece: Collaborative 
+project by Ettore Spalletti and Haim 
+Steinbach. Photos by David Heald. Other 
+photos by Giorgio Colombo (pp. 14. 40. 44, 
+
+Gino di Paolo (p. 7), Juan Garcia 
+Rossel (p. $3), David Lubarsky (pp. 4. 16. 
+
+and Attilio Maranzano I pp. 41. 46. 
+4-. 49. 54). Photos provided courtesy of the 
+artists; Sonnabend Gallery. New York: Jay 
+Gorney Modern Art. New York; and 
+Galleria Pieroni. Rome 
+
+
+
+This exhibition is made possible through the 
+generous support of Banco di Napoli and 
+Association Zerynrhia. 
+
+
+
+OSMOSIS 
+
+Ettore Spalletti • H a i m Steinbach 
+
+
+
+IV PREFACE AND ACKNOWLEDGMENTS 
+
+Thomas Krens 
+
+vii osmosis 
+
+Germano Celant 
+
+I THE DUALISM OF THE BANAL AND THE SUBLIME 
+
+Germano Celant 
+
+13 ETTORE SPALLETTI AND HAIM STEINBACH: 
+TRANSCENDENTAL EQUATIONS 
+
+Nancy Spector 
+
+25 ARTISTS' PROJECT 
+
+56 ETTORE SPALLETTI AND HAIM STEINBACH: 
+A CONVERSATION 
+
+Germano Celant 
+
+71 ARTISTS' PROJECT 
+102 SUGGESTED READINGS 
+
+
+
+
+
+
+
+GUGGENHEIM MUSE 
+
+
+
+
+siH.as 
+
+
+
+ISBN 0-89207-105-2 
+
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0049   0.0049      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0070   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0095   0.0025     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0141   0.0046   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0143   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0846   0.0704              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=84;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

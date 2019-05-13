@@ -1,0 +1,2237 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Memorial Exhibition: Wassily Kandinsky (1866-1944)"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/memorialexhibiti00reba">Memorial Exhibition: Wassily Kandinsky (1866-1944)</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/memorialexhibiti00reba">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>r 
+
+
+
+
+
+
+
+WASSILY KANDINSKY 1866-1944 
+
+
+
+Digitized by the Internet Archive 
+
+in 2011 with funding from 
+
+Solomon R. Guggenheim Museum Library and Archives 
+
+
+
+http://www.archive.org/details/memorialexhibitiOOreba 
+
+
+
+PREFACE 
+
+by HILLA REBAY 
+
+
+
+(This article on Kandinsky by Hilla Rebay, Director of the Museum of Non-Objective 
+Painting, New York City, was originally published in Pittsburgh in the May 1946 issue 
+of the "Carnegie Magazine" under the title of "Pioneer in Non-Objective Painting.") 
+
+
+
+Wassily Kandinsky was born in Moscow, December 5, 1 866. As a child, he loved to paint. 
+The effects of colours on him were deeply felt. The beauty of the sunset over the cupolas 
+of Moscow and the intensity of colour in peasant art, contrasting with the grey vastness of 
+his native country, enlightened his vision. After terminating his law studies at the age of 
+thirty, he was offered a professorship. In refusing it, at this turning point of his life, 
+he made the decision to abandon a safe career and to leave for Munich to study painting. 
+He later recalled this decision as "putting a final period to long studies of preceding years." 
+
+After two years of painting in Munich, he was admitted to the Royal Academy where he 
+studied under Franz von Stuck. This instruction, however, did not satisfy him and in 1902 
+he opened his own art school, which closed two years later when he undertook a four-year 
+series of travels to France, Italy, Tunisia, Belgium, and Holland. Upon his return to Munich, 
+there occurred one evening at dusk the magical incident of his seeing merely the form 
+and tone values in one of his paintings. While not recognizing its subject, he was not only 
+struck by its increased beauty but also by the superfluity of the object in painting, in order 
+to feel its spell. It took him fully two years to crystallize this miraculous discovery. Never- 
+theless, he still used objective inspiration in the paintings of this period, but only as a 
+structural element, while the organization of form and colour values, used for the sake 
+of composition, already dominated these abstractions. 
+
+In 1910, Kandinsky wrote his famous book "On the Spiritual in Art" a theoretical treatise, 
+in which he established the philosophical basis of non-objective painting. The following 
+year he finished and exhibited his first entirely non-objective canvases, which attracted 
+world-wide attention and excited controversies of tremendous import. Between 1914 and 
+1921 Kandinsky lived in Russia where he acted in several official artistic capacities. In 
+1919 he became the director of the Museum of Pictorial Culture in Moscow and, as such, 
+founded the Institute of Artistic Culture for which he wrote the recently published Culture 
+Plan. In 1920, he was named professor of art at the University of Moscow. In 1920, 
+also in Moscow, he created the Academy of Artistic Science, of which he became 
+vice-president. 
+
+
+
+Later that year, Kandinsky returned to Berlin where, at the Wallerstein Gallery, he 
+exhibited his first open-spaced canvases, in which one sees his turning from lyrical organ- 
+izations of effervescent colour expressions to a more dramatic clarification of definite form 
+and space precision. With infinite care he studied the dimension of open-space in contrast 
+to colour value and form extension, as well as line direction and the intensity of the point. 
+After 1923, he perfected, with scientific precision, his marvelous presentation of colour 
+technique. He also taught at the well-known Bauhaus, first established in Weimar, later 
+in Dessau, until 1933, when prejudiced authorities ordered its closing. Kandinsky then left 
+for Berlin, but finally, the next year, settled in Paris, where he continued his work until 
+his death, December 13, 1944. 
+
+As his last paintings prove, with intense concentrations, Kandinsky increasingly refined the 
+precision of balance in the given space of the painting, as the innermost powerful essence 
+of its rhythmic tension. Like every creative painter of our day, he ceased to be satisfied 
+with representation, however artistic, but felt more and more the desire to express his 
+inner life in a cosmic organization. He was, however, the first to proclaim this principle; 
+and when he realized that the musician's incorporeal freedom from earthly inspiration 
+for his art was also privilege of the painter, he became one of the most violently attacked 
+pioneers. He courageously maintained this conviction, in spite of the all-powerful objective 
+tradition and mass belief. With his God-given freedom in the artistic, esthetic creation of 
+rhythm, he invented the first painting for painting's sake, and not for the sake of informa- 
+tive make-believe, as had been the ideal of the past. He found that a non-objective 
+painting's rhythmic life, expressing creative invention, can be profound if done by a 
+visionary master. It can also have a strong ordering influence on the observer. This, he 
+found, was denied to representative painting, through its imitative, lifeless limitation. Yet 
+this is equally denied to those schematic, mediocre, condensed patterns by most so-called 
+abstract painters, whose decorations are as far removed from being art as the organ- 
+grinder is from musicianship, or as the scale is from the sonata. 
+
+The rhythmic law of constructive counterpoint, contained in a creative masterpiece, sets into 
+motion life itself, through a rhythm displayed between harmonies and the contrasts of 
+colour and form, with which the given space is beautified. In order to clarify, for the 
+serious student of painting, the existing counterpoint in the law of correlation, Kandinsky, 
+through intense concentration on these esthetic problems, undertook profound studies, 
+outlined by him in his treatises, as well as in his culture programs. He wrote extensively 
+about the theoretical and technical elements of his art. These writings offer valuable tools 
+to those who are endowed and eager to express their creative urge. At the same time, 
+such knowledge of counterpoint and technical elements is not at all needed by the 
+layman in order to enjoy this art. Without professional knowledge, all he is expected 
+to do is either to like or dislike the painting, as he would a melody or a flower, which, 
+
+
+
+like all other God-given creations, are equally beyond understanding and which, like art, 
+are simply there to be enjoyed. 
+
+Because the non-objective painter reacts intuitively to a superior influence and realization 
+of the universal law, he is enabled to give his message. The sensitive and prophetic 
+artist of our day has refined his senses to receivership of those invisible, spiritual forces 
+which he intuitively expresses. He derives with subtle sensibility his visionary inspiration 
+from the spiritual domain which is indestructible and his very own to whatever degree he 
+has developed his faculty to receive. Thereafter, his creations develop with a wealth of 
+variated beauty, controlled by laws of counterpoint, which make his artistic message as 
+endlessly alive and original as nature itself. 
+
+The artistic expression of our day no longer responds to materialistic objectives; it has 
+advanced to become spiritually creative. No longer must the painter display a lemon to 
+paint the beauty of an intense yellow; or search the sky to contrast it with a lovely 
+blue; nor must he anywhere at all hunt for earthly motives before he is permitted to 
+paint. At will, he can now organize forms and colours into the virgin-white of his canvas 
+and the esthetic purity of a given space, which is his canvas; so as to enrich its beauty 
+without disturbing its loveliness, he is now free to follow a higher evolution beyond the 
+pretense of make-believe. Unknown to some painters who have missed their epoch and are 
+still shackled by the caveman's out-dated urge for reproduction, the freedom of art has 
+become infinite, through the painter's vision of new possibilities and esthetic expressions 
+which are spiritually conceived and of superior value. The eyes of the painter have been 
+liberated to vision, freed from the bonds of imitation and the pretense of a perspective make 
+believe. A faked third dimension is exchanged for a visionary reality. The non-objective 
+artist is a practical educator, the bearer of joy and a creator who deals with eternity. 
+His painting gradually elevates the onlooker, through pleasurable realization of esthetic 
+refinement, to harmony containing order, which proves satisfying to the soul's need for 
+perfect peace. 
+
+The prophetic, immaterialistic ideal of the modern painter proclaims the coming era of 
+spirituality. His reaching into the absolute emphasized the subconscious desire of all men 
+to such advance. The increase in material ease of life, which man has accomplished by 
+harnessing invisible forces of electrical waves, rays, or atoms has freed him now and has 
+given him time with which to direct his aims, to increase his cultural and esthetic expres- 
+sion, and to contact the eternal realities of permanence, so close to all and yet so 
+utterly ignored by most. 
+
+Non-objective painting helps to free the human soul from materialistic contemplation and 
+brings joy through the perfection of esthetic enlightenment. Therefore, Kandinsky was not 
+only a painter and scientist, but also a prophet of almost religious significance. The ideal 
+
+
+
+of his art was conceived even before the utter illusion of the density of matter had been 
+proved by science, and before the reality of frequencies and invisible forces had opened 
+the imagination of man to unlimited expectations. The profound truth of Kandinsky's 
+theories at once impressed those who were equally capable of feeling esthetic enjoyment 
+through his paintings and of realizing the importance of Kandinsky's mission at its advent. 
+
+Since photography and motion pictures today record all events, situations, or persons for 
+practical or sentimental need, the skill of modern man has been freed from reproduction 
+by hand, thus enabling him to cultivate a higher stage in art expression by following his 
+creative esthetic urge. His eyes have become sensitized to realize the rhythmic life in the 
+span of the in-between — the life that is the essence of a non-objective masterpiece. Such a 
+masterpiece, due to those spiritual qualities, becomes everlastingly appealing in its endless 
+combinations of colours, forms and contrasts, in their relationship to each other or to space. 
+It can be easily observed that each colour and design motive is organized in itself, while 
+constantly reacting and playing with its form or colour opponent. Thus it brings restful en- 
+joyment, which is as peacefully uplifting as the observance of the infinity of the starlit sky. 
+Out of such pleasures emerges the realization of the rhythm which lies in the in-between, 
+realized by following the motives and discovering the meeting points of lines and forms, 
+in contrast to a calm harmonious unit. 
+
+Contrary to the static form-ideal of painting which prevailed in the past millennium, where 
+the subjective object was immediately perceived as a whole and graphically recorded by 
+the intellect, always directed objectively earthward, the moving form-ideal of today sets 
+into motion the eye in any desired direction of the rhythmic non-objective creation. This 
+cannot be mentally recorded or memorized like objective impressions because it points 
+heavenward, as an expression of infinity. If to some the harmony of order and beauty of 
+these non-objective creative paintings is not immediately obvious or appealing, it gradually 
+becomes evident to anyone permanently exposed to their increasingly realized influence. 
+Through this, the onlooker subconsciously enfolds his personal advance towards exactitude 
+and sense for esthetic beauty, finding it immensely enjoyable and useful. Because the ob- 
+jective painting contacts earthly matter only, it cannot cause such spiritual evolution. 
+
+To unfold the human soul and lead it into receptivity of cosmic power and joy is the tre- 
+mendous benefit derived from the non-objective masterpiece, so intensely useful and con- 
+ceived from the primary essence of creation. In loving Kandinsky's paintings, we assimilate 
+ourselves with expressions of beauty with which he links us to a higher world. Kandinsky's 
+message of non-objectivity is the message of Eternity. 
+
+
+
+NOTES ON THE LIFE, DEVELOPMENT 
+AND LAST YEARS OF KANDINSKY 
+
+
+
+Wassily Kandinsky, painter, designer, etcher and writer, the first artist, who eliminated 
+objects from the contents of his paintings, was born in Moscow, December 5th, 1866. He 
+studied National Economy and Statistics at the University of Moscow, to which for six years 
+he was attached to specialize in National Economy. In 1 897 Kandinsky refused an assistant 
+professorship at the University of Dorpat. His belief in the healing power of Social Science 
+and in the absolute correctness of positive methods had waned. He realized, that he had 
+wasted his time; only later was he grateful for the experience. Since the wages of work- 
+men had been his special field of research, he thought it most essential to get direct 
+practical information. So he accepted a position in one of the foremost printing estab- 
+lishments of Moscow, as its director. 
+
+This new field of activity concerned printing through the phototypic process, which con- 
+sequently brought him in contact with art, as well as to close association with workmen. 
+One year later, when he was 30 years of age, he left Moscow to follow his life-long 
+urge to become a painter and in 1 897 went to Munich to study. For two years (1 901 -03) 
+he studied at the Azbe School. From 1903 to 1908 he travelled in Italy, France, Tunisia, 
+Belgium and Holland. Finally in 1908 he worked for one year at the Munich Academy 
+under Franz Stuck. 
+
+Before long, he took part in exhibitions, but was condemned by critics for his "slovenly, 
+crying colors" and "exaggerated design." While the Munich Secession declined his 
+paintings several times, nevertheless he became a member of the "Berliner Secession," of 
+the "Deutscher Kuenstlerbund" and of the "Salon d'Automne" in Paris. He worked hard 
+to study the intricacies in the technique of oil with tempera and varnishing colours. He also 
+created a number of black, white and coloured woodcuts. Consciously, Kandinsky pro- 
+ceeded along the path to creative painting, gradually eliminating the objects from his pic- 
+tures. Some non-objective paintings reproduced in his first Autobiography (written 1 91 in 
+German, published 1912) he called "Gegenstandslos" or literally translated "object 
+without" while in the second Autobiography written in Russian he called them "Non- 
+objective" in precise translation. 
+
+In the year 1908-1911 he was nearly deserted: surrounded with mockery, hatred and 
+distrust, branded as clumsy, a cheat and even a lunatic, or "Hottentot in evening cloth." 
+
+The first who gave him a hand was Franz Marc, the famous cubist and animal painter, who 
+also provided for Kandinsky's book an editor and a business manager. Thereafter Alfred 
+
+
+
+Kubin and Arnold Schoenberg spoke up for him. In Berlin, Herwarth Walden offered 
+to take care of his exhibitions and sales, and opened court proceedings against slandering 
+of Kandinsky by the press. 
+
+In 1911 he painted his first abstract painting and in 1 91 2 a set of Non-objective etchings. 
+His book, "On the Spiritual in Art" (Piper edition) was written in 1910 and saw three 
+editions during the year of 1912-1913. The sensational Sonderbund Exhibition of 1912 
+in Cologne, where under tents hundreds of Van Goghs and of Gauguins were assembled 
+for the very first showing, as well as that of 62 outstanding Cezannes, Munch and Hodler 
+collections and Lehmbruck's "Kneeling Woman" which "disgraced" the entrance, some 
+abstract Improvisations by Kandinsky startled the unprepared and outraged public. A 
+nucleus of this extraordinary show was brought to New York by Marie Sterner presented 
+in the sensational Armory Show, repeated in Chicago and in London's Albert Hall, also 
+introducing Kandinsky. Alfred Stieglitz was the first in the U.S.A. to acquire one of 
+Kandinsky's great paintings. During the first German Autumn Salon, which was arranged 
+by Herwath Walden in 1913 and framed by the art-collector Bernhard Koehler in Berlin who 
+gave Walden 100,000 gold-mark for this enterprise, Kandinsky's work attracted much 
+attention. After this, the collectors of Germany, Austria, Holland, England and America 
+began to show a keen interest in Kandinsky and his paintings. In the same year appeared 
+"Der blaue Reiter" ("The Blue Rider") edited by Kandinsky and Franz Marc in the Piper 
+publication. Also a "Kandinsky Album" appeared in a "Der Sturm" ("The Tempest") 
+publication with his first autobiography written in 1912 and edited by Herwath Walden 
+in 1913. In 1914, the editor, R. Piper, published his "Klaenge" ("Sounds"), a one-time 
+deluxe edition of small poems in prose and 56 woodcuts by the artist. 
+
+His book "On the Spiritual In Art" was translated into English and appeared in London 
+and in the United States in 1914. It was expected to appear in Dutch, French and Russian but 
+the first World War interfered with these plans as well as with the staging of his play "The 
+Yellow Sound" ("Der Gelbe Klang") which had been first published in "The Blue Rider." 
+In 1914 Kandinsky returned to Russia and in the subsequent years worked theoretically 
+and in practice on abstract and non-objective painting and the proclamation of cultural 
+progress. In 1916 he published in Stockholm a second set of etchings. 
+
+In 1918 the Commissariat for Public Education in Moscow published his revised auto- 
+biography of 1917 with reproductions of his works from 1902-1918 and a text by the 
+artist. In 1920 Kandinsky was made Professor of Science Aesthetique at the University of 
+Moscow and teacher at the Academy of Fine Art in Moscow. Also in 1 920 Kandinsky pro- 
+posed the Schematic Plan of Studies and Work of the Institute of Art Culture. This plan, 
+which proclaims the artistic ideal of Kandinsky, is published by the S. R. Guggenheim 
+Foundation; it has been translated from the Russian in honor of the Kandinsky Memorial 
+Show. In 1921 Kandinsky was nominated to the All-Russian Academy of Art. 
+
+
+
+At the end of 1921 Kandinsky returned to Berlin. The paintings which he brought from 
+Russia were shown and the new light background was much admired. In July, 1922, he 
+concluded the work on a mural for the Reception Hall of a projected museum, in tempera 
+on black canvas, at the request of the independent artist group called "Juryfreie" in 
+Berlin. Since July, 1922, he was active as one of the teachers of the Weimar Bauhaus. In 
+1923 there appeared in the Propylaen publication his "Small Worlds" ("Kleine Welten") 
+— 1 2 original woodcuts, etchings and lithographs. Also he prepared at that time illustrations 
+in pen to Romisow's "Dreams," to appear in print, as a Orchis Publication in Munich. 
+
+Also in 1923, the Society Anonyme in New York, founded by Katherine Dreier, made 
+Kandinsky Honorary Vice President. 
+
+In 1926 he transferred with the "Bauhaus" from Weimar to Dessau. Around 1928, his 
+book "Point, Line and Plane" ("Punkt, Linie Zur Flaeche") appeared as a Bauhaus publi- 
+cation. Also in preparation was a play "Violett," written as far back as 1914. Other 
+deeds, as Kandinsky puts it in one of his letters, included stage decorations, used in 1928 
+for the Friedrich Theater in Dessau's performance of "Pictures on Exhibit" by Mussorsky, 
+whereby it was officially announced that the scenery and stage management had been 
+handled by Kandinsky. Later on, these decorations were intended to be used by Stokowski 
+in a Philadelphia performance of Mussorsky's work, yet this plan was discarded. A 
+ceramic wall painting for a music room, shown in the Architectural Exhibition of 1931 in 
+Berlin, was Kandinsky's next deed. In 1934 when the Bauhaus was closed, he first 
+moved to Berlin, then to Paris. About this time Kandinsky spoke in letters to Hilla Rebay, 
+some excerpts of which follow: 
+
+1934 Neuilly sur Seine — Boulevard de la Seine 135. 
+
+"Above you will see the address of our new apartment. After lengthy consideration I 
+decided to move to Paris for some time. We will not remain here less than a year. What 
+will happen after that, we cannot say, in view of the present unstable conditions. 
+
+"My situation in Germany became very unfavorable because I have three full 'minuses' — 
+(1) I am not a born German (even a 'former Russian'), (2) a former Bauhaus teacher 
+(something that today, it is queer to say, is almost equal to being a Marxist), (3) an 
+abstract painter. I have, so to speak, three vulnerable spots. In accordance therewith I was 
+attacked, or to make it plainer, I was 'given the cold shoulder'. The artist groups to which 
+I have belonged for years, passed me over in their exhibits. The museums have placed 
+my paintings in storage. My contract with Dessau, according to which I am still entitled to 
+half of my salary until April 1st, 1933, was forcefully dissolved. Exhibitions, even in 
+private galleries, became impossible for me. Therefore, also, the art dealers were no 
+longer able to represent me energetically. In one word my hands were tied. I left v/ith 
+a heavy heart, as I had lived in Germany since 1897 and had gained a great footing 
+there . . ." 
+
+
+
+And again in 1935 he wrote to her: "The main thing here in Paris is, that I can work so 
+very well. I spent time painting large canvasses. These I like, as I had to relinquish them 
+for years, because I had only three full days to paint during my time at the Bauhaus, 
+the other days were filled with teaching, meetings and preparation to teach . . . 
+
+"You know what it means when one is well in form to create, and yet, as of command, 
+has to put down the brush. Besides the spiritual side, how often is it technically impossible 
+to break up suddenly such work. And besides loss of time, how much loss of strength, of 
+nerves, the Bauhaus has cost me. This waste of energy lasted twelve years. Very much 
+though I enjoyed working with youth, and I was happy to give them something, though 
+I was no more 30 or 40 years old — Sad — Sad." . . . 
+
+And again to Hilla Rebay on April 21st, 1936. 
+
+"My exhibitions, our course, are no excursions. Of my own accord I make no detours to the 
+side or the front. That is, the detours are made for me. The detours are arranged for me 
+in the shape of exhibitions. That is, my 'one man exhibitions' have been arranged for me 
+constantly since my return from Moscow in 1921, in various countries — in Europe and 
+America. I would not mention anything about this, if you had not mentioned such exhibi- 
+tions in connection with others. 
+
+"Praise: That you have made me twenty years younger, is very flattering. Sorry, sorry and 
+again sorry, I was not born in 1886 but in 1866 into this bad world. But do not, by all 
+means, believe that I feel that old. No, at times I even believe that my age is only a 
+mathematical error. And then I take a piece of paper and write: 1936 less 1866 — 70! 
+The only consolation is that I still have seven months to go to 70. However, I have another. 
+
+"I feel this way: At the beginning of the war, I was 48. However, from the beginning of 
+the war on, the tempo of life constantly increased and today continues to increase; so I 
+count every year as an average of 15 years. Thus 22 years have not passed since the 
+beginning of the war, but 330— therefore I am today 48 plus 330 or 378 years old 
+or young which sounds better. But where is the consolation? Here it is. A young man who 
+was only 20 at the beginning of the war is today 20 plus 330, or 350 years old. The 
+difference of age between him and me is therefore very small. 
+
+"However, as my calculation is only my personal method, people are beginning to speak 
+of my anniversary. I sometimes hear that a large anniversary exhibition should be held 
+for me in Paris. Of course, I would not have anything against this. However, I ask v/ho 
+does it and where does the necessary money come from. For I have no art dealer in 
+Paris. (When I became 60, several German art dealers arranged a large exhibition, 
+which they also sent on as a traveling show.) The answer is suggested: Someone can 
+surely be found to take over the necessary worries (renting a hall, catalogue, publicity, 
+invitations, etc.). However, it is hard to find money in Paris. 'Don't you have a maecenas 
+who has the necessary 15-20,000 francs,' I am asked. Experts claim that with 15,000 
+
+
+
+Francs the matter could be handled very nicely, and very swanky with 20. Aside of my 
+'subjective' side the matter also has an 'objective' one. Here constantly this or that is 
+done against 'non-figurative' painting, which has various different reasons. It is also bad 
+that in this aggression the 'constructivists' are always mentioned; and it is therefore 
+claimed: these non-figurative artists (the non-objective artists) are pure headaches, who 
+deny the intuitive element and want to make something mechanical out of art. As you 
+see a pell-mell and confusion. 
+
+"I therefore thought, that if my anniversary would be utilized and an imposing exhibit 
+would be held, which would be followed by a large exhibition of Bauer's work, our art 
+would receive the proper light. The slanderers can only and exclusively be disarmed 
+by facts. 
+
+"I have friends here who are trying to get money for the exhibition. On the other hand I must 
+say that a number of local art dealers have also 'caught a little fire' and though still 
+hesitatingly, still they show some interest for the non-figurative and try to undertake this 
+or that. They are always afraid that this art would be difficult (or impossible) to sell. 
+However, since I sell here and at proper prices, which they first considered crazy and to 
+which they now say 'You did well by not giving in,' I received several offers here and 
+that almost immediately after I moved here. That is, an effort was made to barter and 
+get me to reduce my prices. I said: 'No! I still have my bread and do not have to hurry 
+with sales.' — 'Yes, but prices have been reduced in the entire world.' And I: 'Mine 
+have also been reduced by 50%, that is, I have reduced my prices by 50%.' Many 
+smiled at my tenacity, but now say, I was right. Of course, I would sell much more if I 
+would give my works away 'for 1 5 or 1/10 of their prices.' 
+
+"You will remember how cheaply you bought some works of well known artists from 
+dealers. That is not only due to the fact that some art dealers are forced to sell the 
+paintings so cheaply from their stock, but also that many artists themselves sell their 
+works for a buttered sandwich (or, as the French say, 'for bread without butter'). In the 
+case of some, I am very sorry to find that it is not a question of lack of character, but an 
+actual lack of a piece of bread. It is bad, that here in Paris this really terrible situation 
+is taken advantage of, by very wealthy people in the most ruthless manner. I know 
+examples which cannot be considered anything but hair-raising. 
+
+"On the other hand, there are also quite different facts, if they are facts. A short time 
+ago there was a large exhibition of the newest paintings by Picasso, held by P. Rosenberg 
+and I was informed from a good source that P. R. supposedly was forced to buy the 
+entire collection, as otherwise Picasso would not give any paintings for an exhibition. 
+And this good source claims that P. R. had placed roughly 1,000,000 Frs. on the table 
+for this collection. Maybe the 'good source' had its legs pulled; so that such rumors would 
+spread and the Picasso prices, which went down considerably, would go up again. I 
+do not know. 
+
+
+
+"I just see from my house catalogue that from the period 1916-20 I have only the one 
+painting, 'In Grey.' That was the time of the war and the first years of the revolution, 
+which I spent in Moscow. I would not want to experience such years again. 
+
+"Aside of 'moral' shocks, I also experienced considerable financial shocks. Just before 
+the revolution I was able to provide for myself financially, for the rest of my life. I was 
+not rich, but had money enough to work without worrying, without having to think of 
+earning money. This condition lasted only a few months. Later on, I even had to teach for 
+14 years; something which I did not dislike doing, but which was very disadvantageous 
+to my own work. You know as an artist, that for us only that is advantageous which allows 
+us to think only of painting, think with head, soul and all other senses. However, I am 
+happy that all these difficult conditions in the end did not keep me from making very 
+important paintings. Self-praise!" 
+
+
+
+Kandinsky to Hilla Rebay Paris, April 21, 1936 
+
+"To my great pleasure the catalogue of the S. R. Guggenheim collection has finally arrived. 
+I wish to thank you very much. Now, it is certain that the first copy sent by you has gotten 
+lost. I am sorry that you had the trouble of again sending a new one — otherwise it 
+would not be so bad now. 
+
+"The catalogue is very beautifully done — my compliments! The reproductions are very 
+well spread and well executed. The colored ones, as almost always, are a bit too 'bright,' 
+'Almost always' means 'always' unless you spend an awful lot of money. The black and 
+white ones could not have been better. And the pages with the little pictures look 'appe- 
+tizing.' Typographically the catalogue as a whole looks serious and at the same time 
+inviting. I like your text very much. The beginning with Copernicus and Galileo grasps the 
+matter by its head. The example with the 'keyboard' is humiliating for the stupid ones 
+but for 'head owners' or 'brain owners' (as Beethoven used to say) fully enlightening. I 
+am sure that your text will make many a sceptic into an apostle. It is altogether simple, 
+clear (without a 'painting kitchen') easily 'digestible' for the layman. In such cases so many 
+'philosophical' expressions are used that the poor reader stands as though hit on the 
+head (such hitting on the head is shown wonderfully in American films). Sometimes I really 
+think that the philosophical art writer does not quite understand himself what he has 
+written. Not alone the reader, but the art writer himself confronts the reader, both with 
+open mouth, no longer knowing what is top or bottom. Do you know that the printer of 
+the catalogue in one instance also did not know, what was top and what was bottom? 
+Happy to say, only in one single case — that is the reproduction of 'For and Against,' 
+catalogue number 90. Did you notice it afterwards?" 
+
+
+
+Nuelly s. Seine, (Seine) October 16, 1936. 
+
+135 Bd de la Seine, France 
+
+
+
+Kandinsky to H. R. 
+
+"You probably have been home for a long time now and, as usual, are working with full 
+energy. 1 have been back from Italy only four weeks, where it was wonderful and where 
+I have appparently collected enough strength for the coming winter. I hope that politics 
+will not disturb the necessary inner quietude. 
+
+"I received very interesting news from Germany which, as appears to me, are in certain 
+connection with you. Thus I heard that Rudolf Bauer is on the hunt for 'non-objective 
+paintings' in order, as I am told, to further strengthen the historic fundament of the 
+Guggenheim collection. It would be wonderful! I presume this is in connection with the 
+plans of which you have told me and which, of course, 'I shall keep to myself,' that is, I 
+will not tell them to anyone. Here too 1 was asked for information in this connection, but 
+said that I knew nothing of this. Here greatest care is essential. 
+
+"Now I was also told from Germany that the Folkwang Museum (Essen) had sold a 
+pre-war painting (Improvisation No. 8) to a Berlin art dealer, who had purchased the 
+painting for a collector. Maybe I am all wrong if here too I think of the Guggenheim 
+collection. At any rate, it would be hard to believe that the collector is a German. 
+
+"In connection with this information I also thought of Otto Nebel, who, according to my 
+idea, at least 'historically' belongs in the collection. Don't you believe so? I know that 
+Bauer has a large water colour of his (bought it from him) and is therefore truly interested 
+in his painting. In connection with the depreciations (of the French and Swiss Franc) I 
+had some losses, but poor Nebel much more, something that took an almost catastrophical 
+turn with him. Therefore, also from this angle, purchases from him would appear advis- 
+able. I am saying this to you personally. 
+
+"Don'tyou share my opinion? It would interest me very much to hear your opinion on this. 
+
+"I do not need to tell you how much I am interested in the museum plans. Do you and 
+Mr. G. have the intention to show the collection in New York (that is to the greater public) 
+as it looks today, or do you want to wait until the Museum can become an actuality. The 
+latter would bring about a nice 'explosion'! Did you receive our card from Forte dei 
+Marmi? We often thought of you there. Your descriptions were more than confirmed. We 
+lived there wonderfully in every respect in the Hotel Franceschi, which is now facing 
+Viareggio and close to the sea. There were no foreigners, but everything was taken, so 
+that we did not get the room we wanted from the start until we had moved four times. 
+We tried to guess where the house is in which you lived with your friends. 
+
+
+
+"Now comes the already well known request from me for photos of the latest paintings 
+acquired and also the water colours which you bought from Neumann from my water 
+colour exhibit as well as the three v/ater colours which you bought from me three years ago. 
+It would be very important for me to have these photographs and I would appreciate 
+them very much." 
+
+
+
+Again to Hilla Rebay, January 16th, 1937: 
+
+"According to your terminology, 'abstract' art operates with elements which were 'ab- 
+stracted' from some object while 'non-objective' art creates its own elements without 
+making use of any objects whatsoever. As that is the case, I do not understand why you 
+term my painting 'abstract,' as the Guggenheim collection already has many of my 
+paintings (even from the time before the war) which have nothing whatsoever to do with 
+an object. How am I to understand that? . . . 
+
+"in the letter which was lost I also mentioned that I could not immediately come to 'pure 
+abstraction' because at that time I was all alone in the world. In spite of that, I had 
+painted my first non-objective painting already in 1911, ('Peoples Museum' in Moscow). The 
+Guggenheim Collection has non-objective paintings from me, painted in 1913 — 'Light 
+Picture' (No. 68 of your catalogue) and 'Black Lines' (No. 69); also from the years 
+1918, 1922, 1923, 1924, 1925, etc. Perhaps you consider all these remarks 'small.' It 
+may be. These, however, are my achievements which are of importance when a charac- 
+terization of my work is attempted. 
+
+"You write (and not for the first time) that the spiritual is the important part, i believe 
+that here we understand each other well; I had already written a book about this in 1910. 
+I was particularly happy to find 'Fuge' (1914) among the photographs you sent. I con- 
+sidered the painting completely lost." 
+
+
+
+To Hilla Rebay in 1937: 
+
+"I particularly draw the people's attention to your 'paper plastics' because I like them 
+very much. I also suggested that they look at your portfolio and that of Bauer because 
+the portfolios are beautifully done, and one could, at an advantageous price, buy works 
+from both of you. It was quite often made clear to me (and I know this myself) that through 
+such cooperation as a colleague, I spoil my 'reputation as an artist;' the artist should 
+stand 'above everything' and should worry only and exclusively about himself. That 
+is the way all the 'great' Parisians act. According to my opinion, however, there are 
+also exceptions among real great people, which, however, are some of the greatest 
+rarities. I actually have profited well — particularly morally, because many of my paint- 
+
+
+
+ings are in a very valuable collection. Also from a monetary point of view, but perhaps 
+somewhat less than you think because several (or many) of my paintings did not enter 
+the G. collection through me but from other points and people. Excuse these perhaps small 
+remarks. However, let us have confidence in each other. It is just this confidence that the 
+world of today lacks so badly. Let us try as artists, to also in this direction, form an 
+'island' in the terrible atmosphere of today. It wcjld be 'objectively' well, and not too 
+bad 'subjectively' as it is easier to breathe in an air of confidence." 
+
+
+
+To Solomon R. Guggenheim Paris 18.4.38 
+
+"A few days ago I received the newest catalogue of the Sol. R. Guggenheim collection, 
+now called foundation. I want to use this occasion to send you my congratulations upon 
+your grandiose Resolution — Already it was such a precious deed when you as the very 
+first, started a collection of almost entirely 'non-figurative' paintings and for years 
+enlarged it consequently. While now in New York exists a public institution for this Art 
+which in so innumerous creations has, now, been made accessible to the public in such 
+a way. Incredible how slowly humanity converts to the new. In first declining energetically 
+(by jove, the scolding one had to hear). They then slowly prick up the ears, until at last 
+(yet it still takes its time) comes the insight. To this enlightenment your foundation now 
+paves the way." 
+
+Since 1934 Kandinsky lived in Paris, with the exception of a few trips to Italy, Egypt, 
+Greece, Turkey or to the South of France; December 1 3th, 1 944, he died there after grave 
+illness, very likely due to the privations of war conditions. Yet even bitter cold did not 
+prevent him from painting, until death stopped him serving human ideals by bringing joy 
+and ecstasy to a steadily growing number of people. Those, able to feel the beauty of 
+Kandinsky's exquisite colours and the carefully organized perfection of counter point in 
+his form and space solutions, the tender warmth of lyrical charm, contrasting the crystal 
+clarity which prove his brilliant mastery. 
+
+Kandinsky, the daring inventor of a new moving form ideal with which he so prophetically 
+has lead into that future of a spirituality where past and present unite the everlasting 
+future of eternity — In the last years of Kandinsky's life, his paintings became enormously 
+sought after in Paris— His death occurred, as his wife cabled, during his last exhibition 
+which, due to its "enormous success," had to be prolonged. 
+
+Kandinsky had one man exhibitions in Paris, Berlin, Vienna, Copenhagen, Stockholm, 
+Brussels, Dessau, Dresden, Cologne, Brunswick, New York, Zurich. His work is owned by 
+museums and collections of Paris, Amsterdam, Erfurt, Chicago, Christiania, Kioto, London, 
+Moscow, Stockholm, Solothurn, Vienna, Zurich, Basle, Brussels, Halle, The Hague, Cologne, 
+Milan, Oslo, Copenhagen, Essen, Berlin, Dresden, Saarbruecken, Hamburg, Hanover, 
+
+
+
+Wiesbaden, New York, Goeteborg, Philadelphia, New Haven, Los Angeles and many 
+others — Museum directors of some of the aforementioned German cities under political pres- 
+sure had been forced to sell priceless Kandinskys to Switzerland, which then were acquired 
+for the Solomon R. Guggenheim collection, enriching it with historically priceless additions 
+and so bringing to New York a complete survey of Kandinsky's remarkable achievement. 
+
+This unique collection will be made accessible in its full entirety when the Solomon R. 
+Guggenheim Foundation will have its collection permanently housed in the Gallery now 
+planned by Frank Lloyd Wright, to be built after the war on Fifth Avenue and 89th Street. 
+With this, a dream of Kandinsky is to come true; though he did not live to see it, he knew 
+of it before he died. 
+
+Not anything has been said of Kandinsky which is more fitting than that which Diego 
+Rivera wrote in 1 933: "I know of nothing more real than the painting of Kandinsky — nor 
+anything more true and nothing more beautiful. A painting of Kandinsky gives no image of 
+earthly life — it is life itself. If one painter deserves the name 'creator,' it is he. He organizes 
+matter as matter was organized, otherwise the Universe would not exist. He opened a 
+new window to look inside of the All. Some day Kandinsky will be the best known and 
+the best loved by men." 
+
+
+
+
+LISTING OF PAINTINGS ON VIEW IN THE MUSEUM 
+OF NON-OBJECTIVE PAINTINGS • 24 EAST 54TH STREET 
+NEW YORK CITY AT THE OCCASION OF THE KANDINSKY 
+MEMORIAL EXHIBITION • MARCH 15TH-MAY 15TH, 1945 
+
+LIST OF WORKS EXHIBITED: 
+
+WHERE LENDER IS NOT MENTIONED THE PAINTING IS OWNED BY THE SOLOMON R. GUGGENHEIM FOUNDATION 
+
+
+
+BLUE MOUNTAIN 
+oil 41 x37'/ 2 
+
+
+
+1908) 
+
+
+
+2 CHURCH IN MUNICH (1908) 
+oil 26Vi x 39 
+
+3 LANDSCAPE WITH TOWER (1909) 
+oil 12V 2 x 17 
+
+4 CRINOLINES (1909) 
+oil 37x58% 
+
+5 LANDSCAPE (1909) 
+oil 
+
+6 IMPROVISATION No. 7 (1910) 
+oil 29 x 20Vi 
+
+7 COMPOSITION No. 2 (1910) 
+oil 38x51% 
+
+8 ABSTRACTION-WINTER (1911) 
+oil38V 2 x27 
+
+9 ABSTRACTION-AUTUMN (1911) 
+oil 38x27 
+
+10 WINTER STUDY WITH CHURCH (1911) 
+oil 17y 4 x 12y 2 
+
+11 LANDSCAPE (1911) 
+oil 1 2y 2 x 17 
+
+12 PASTORALE (1911) 
+oil 41 
+
+13 COMPOSITION No. 7, FRAGMENT No. 1 
+oil 34% x 39y 8 (1911) 
+
+14 COMPOSITION, FRAGMENT (1911) 
+watercolor with gold 9'/i x 1 1 % 
+
+
+
+Lent by Miss Katherine Kuh, Chicago 
+
+
+
+Lent by Mr. James F. Eppenstein, Chicago 
+Lent by Yale University Art Gallery, New Haven, Conn. 
+
+Lent by Mrs. Stanley Resor, Greenwich, Conn. 
+Lent by Mr. Van der Rohe, Chicago 
+
+
+
+Lent by Museum of Modern Art, New York 
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+15 SKY (1911) 
+watercolor 13x17 
+
+16 IMPROVISATION (1912) 
+
+
+
+17 LANDSCAPE WITH TWO POPLARS (1912) 
+oil 
+
+18 IMPROVISATION (1912) 
+oil 45 x62'/ 2 
+
+19 LIGHT FORM (1912) 
+oil 47 x 54y 2 
+
+20 ABSTRACTION-AUTUMN (1912) 
+oil 24x32 
+
+21 LITTLE PLEASURES (1913) 
+oil 43x47 
+
+22 RAIN (1913) 
+oil 27V 2 x 3oy 2 
+
+23 IMPROVISATION No. 30 (1913) 
+oil43y 2 x43 3 / 4 
+
+24 THE WHITE EDGE (1913) 
+oil 55 x75'/ 2 
+
+25 GREAT FUGUE (1913) 
+oil 50y 2 x 50y 2 
+
+26 PICTURE WITH THREE SPOTS (1913) 
+oil 47x43 
+
+27 BLACK LINES (1913) 
+oil 50'/ 2 x 50V 2 
+
+28 LIGHT PICTURE (1913) 
+oil 30% x 39y 4 
+
+
+
+29 
+
+
+IMPROVISATION (1914) 
+
+
+
+
+watercolor 1 2V 2 x 9'/ 4 
+
+
+30 
+
+
+CARNEVAL (1914) 
+
+
+
+
+oil 47x63 
+
+
+31 
+
+
+SOUVENIR (1914) 
+
+
+
+
+oil 47x63 
+
+
+32 
+
+
+IMPROVISATION (1914) 
+
+
+
+
+oil 33 x 42 
+
+
+33 
+
+
+IMPROVISATION (1915) 
+
+
+
+
+watercolor 1 3V 4 x 9 
+
+
+34 
+
+
+1915 
+
+
+
+
+watercolor 1 3V 2 x 8% 
+
+
+
+35 SEDATE (1917) 
+watercolor 10x11 
+
+36 LYRICAL INVENTION (1918) 
+tempera and chinese ink 1 O'/s x 1 3y 2 
+
+
+
+Lent by Lt. I. Usiskin, Lawrence, L. I. 
+
+Lent by Mr. and Mrs. Walter C. Arensberg 
+Hollywood, Calif. 
+
+Lent by the Art Institute of Chicago 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by the Art Institute of Chicago 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Mr. and Mrs. Walter C. Arensberg 
+Hollywood, Calif. 
+
+Lent by the Museum of Modern Art, New York 
+
+
+
+Lent by Mr. and Mrs. William Dieterle 
+Los Angeles, Calif. 
+
+
+
+37 LIGHT TOP HEAVY (No. 22, 1918) 
+watercolor 1 2Vi x 8 
+
+38 1918 
+watercolor 7Vi x 1 8 
+
+39 1918 
+
+watercolor 9 3 /s x 1 3V2 
+
+40 No. 311 (1918) 
+watercolor 1 1 % x 8 'A 
+
+41 LYRICAL No. 4 (1919) 
+pen drawing 13x9 
+
+42 WHITE OVAL (1921) 
+oil 41 x 39V 2 
+
+43 WHITE CENTER (1921) 
+oil47x53y 2 
+
+44 RUSSIAN CARNEVAL (1921) 
+oil 54x47 
+
+45 MULTICOLOR CIRCLE (1921) 
+oil 54 3 / 8 x 70% 
+
+46 SOLIDITY (1922) 
+watercolor 17^4 x 1 5% 
+
+47 BLUE CIRCLE (1922) 
+oil 43x39 
+
+48 1923 
+watercolor 13x1 3Vi 
+
+49 OPEN GREEN (No. 263, 1923) 
+oil 38V2 x 38Vi 
+
+50 RED IN BLUE (No. 100, 1923) 
+watercolor 16x12 
+
+51 EMPHASIZED CORNERS (No. 247, 1923) 
+oil 50% x 50% 
+
+52 TRAMONTA (No. 61, 1923) 
+watercolor 18x1 5V2 
+
+53 GAY SOUND (No. 50, 1923) 
+watercolor 14'/2 x 10 
+
+54 1923 
+
+watercolor and ink 16x12 
+
+55 WHITE POINT (No. 248, 1923) 
+oil 36x28 
+
+56 1923 
+
+watercolor and Chinese ink 1 4'/s x 9% 
+
+57 COMPOSITION No. 8 (No. 260, 1923) 
+oil 541/2 x78V 2 
+
+58 CIRCLES IN CIRCLE (1923) 
+oil 38V 2 x 37V2 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Miss Katherine S. Dreier, New York 
+
+Lent by Societe Anonyme, Yale University 
+Art Gallery, New Haven 
+
+Lent by Miss Katherine S. Dreier, New York 
+
+Lent by Mr. and Mrs. William Dieterle 
+Los Angeles 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Mr. and Mrs. Walter C. Arensberg 
+Hollywood, Calif. 
+
+
+
+59 WITHOUT SUPPORT (1923) 
+oil 38!/ 2 x32'/ 2 
+
+60 SERENE (1924) 
+oil 25V4 x 27Va 
+
+61 1924 
+watercolor 9x12 
+
+62 ONE CENTER (1924) 
+oil54y 2 x38'/2 
+
+63 YELLOW SURROUNDING (No. 269, 1924) 
+oil 39x38 
+
+64 LIGHT CLARITY (No. 1 48, 1 924) 
+watercolor 20 x 1 4Vi 
+
+65 No. 141 (1924) 
+watercolor 1 4V2 x 9Vi 
+
+66 1924 
+
+watercolor and Chinese ink 1 3'/ 2 x 9% 
+
+67 LIGHTER (No. 272, 1924) 
+oil 27x23 
+
+68 BEIGE GRAY (No. 165, 1924) 
+watercolor 1 3 5 /s x 9 
+
+69 MUFFLED (No. 183, 1924) 
+watercolor 1 3y 2 x 9 
+
+70 ON VIOLET (No. 149, 1924) 
+watercolor 1 3V2 x 9 
+
+71 No. 278 (1924) 
+oil21V 2 x 19 
+
+72 TENDER (No. 167, 1924) 
+watercolor 1 1 V2 x 1 
+
+73 BLACK CIRCLE (No. 161, 1924) 
+watercolor 1 8I/4 x 13 
+
+74 STIFF POINTED ROUND (1924) 
+watercolor 14x1 4y 2 
+
+75 LANDSCAPE (1924) 
+watercolor 21 x 30 
+
+76 QUIET (283, 1924) 
+oil 21 x3iy 2 
+
+77 GREEN SOUND (1924) 
+oil 27 x 19V 2 
+
+78 DEEP BROWN (1924) 
+oil 33x29 
+
+79 ABOVE AND LEFT (1925) 
+
+oil 27y 4 x i9y 2 
+
+80 ZIGZAG (1925) 
+watercolor 12% x 1 8% 
+
+
+
+Lent by Mr. and Mrs. William Dieterle 
+Los Angeles, Calif. 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Mr. and Mrs. Walter C. Arensberg 
+Hollywood, Calif. 
+
+Lent by Nierendorf Gallery, New York 
+Lent by Nierendorf Gallery, New York 
+Lent by Nierendorf Gallery, New York 
+
+Lent by The Miller Company, Meriden, Conn. 
+
+
+
+81 BLACK TRIANGLE (No. 320, 1925) 
+oil30y 2 x21 
+
+82 ORANGE STREAK (1926) 
+hand colored lithograph 18x14 
+
+83 GREEN SPLIT (No. 302, 1925) 
+oil 27V 2 x 191/2 
+
+84 ABSTRACT VARIATIONS (1925) 
+oil 19y 2 x 13% 
+
+85 STABIL (1925) 
+watercolor 14x1 9'/ 2 
+
+86 SMALL SIGNS (No. 303, 1925) 
+oil 26V2 x 1 9 
+
+87 LIGHT UNITY (No. 308, 1925) 
+oil27y 2 x 19% 
+
+88 SMALL YELLOW (1925) 
+oil 16y 4 x 12 s /s 
+
+89 ROUND (No. 368, 1926) 
+oil 20 x 18y 2 
+
+90 EXTENDED (No. 333, 1926) 
+oil37xl7'/ 2 
+
+91 MODERATE (1925) 
+oil 27 x 19 
+
+92 CONFIRMING (No. 355, 1926) 
+oil 17%x21 
+
+93 ROSE IN GREY (No. 107, 1926) 
+oil 16x20 
+
+94 POINTED ACCENTS (No. 342, 1926) 
+oil 30% x 49 
+
+95 POINTED (1926) 
+oil 24 x 19 
+
+96 SOUNDS (No. 343, 1926) 
+oil 23y 8 x 23y s 
+
+97 SOME CIRCLES (1926) 
+oil55y 8 x55y 8 
+
+98 CALM (No. 357, 1926) 
+oil 19y 8 x 18y 8 
+
+99 GREEN CONNECTION (1926) 
+oil33y 4 x22y 2 
+
+100 YELLOW CIRCLE (No. 335, 1926) 
+oil 27 x 19 
+
+101 COUNTERWEIGHTS (1926) 
+oil 19'/ 2 x 19y 2 
+
+102 TENSION IN RED (1926) 
+watercolor 25% x 20V 2 
+
+
+
+Lent by Societe Anonyme, Yale University 
+Art Gallery, New Haven, Conn. 
+
+Lent by Hi I la Rebay, Greens Farms, Conn. 
+Lent by Nierendorf Galery, New York 
+
+
+
+Lent by Yale University Art Gallery 
+New Haven, Conn. 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+103 RIPPED (1926) 
+oil3iy 2 x39 
+
+104 COUNTERWEIGHTS (1926) 
+oil 19'/ 2 x 19V 4 
+
+105 DELICATE JOY (1927) 
+watercolor 8 x 7^U 
+
+106 FLOATING (No. 595, 1927) 
+oil 153/4 x 18% 
+
+107 RISING HEAT (No. 212, 1927) 
+watercolor 10x14 
+
+108 GREEN SIGH (No. 207, 1927) 
+watercolor 19x1 2V 2 
+
+109 SIGN WITH ACCOMPANIMENT (1927) 
+oil 31 x20y 2 
+
+110 HARD BUT SOFT (No. 220, 1927) 
+watercolor 17 x 12'/2 
+
+111 MILD HEART (1927) 
+oil 19'/ 2 x I41/2 
+
+112 No. 225 (1927) 
+watercolor 1 9 x 121/2 
+
+113 1927 
+
+ink drawing 14 x 9% 
+
+114 COMPOSITION (No. 223, 1927) 
+watercolor 1 5'/ 2 x 2 1 
+
+1 15 SCHERZO (No. 213, 1927) 
+watercolor 1 3V 2 x 9y 2 
+
+1 16 DULL VIOLET (1927) 
+watercolor 19x1 2% 
+
+117 GEOMETRICAL FORMS (1927) 
+watercolor 29 x 23 
+
+1 18 ABSTRACTION (1927) 
+watercolor 1 8V 2 x 12V 2 
+
+119 LUMINOSITY (1927) 
+oil 20 x 19 
+
+120 SMALL SQUARE (No. 250, 1928) 
+watercolor 1 2V 2 x 19 
+
+121 GLOWING UP (No. 327, 1928) 
+watercolor and chinese ink 18x1 9Vi 
+
+122 DELICACY IN GREEN (No. 295, 1928) 
+watercolor 20V 2 x 1 1 
+
+123 QUIET (No. 417, 1928) 
+oil 20x30% 
+
+124 ECHO (No. 296, 1928) 
+watercolor 18'/ 2 x 9V 2 
+
+
+
+Lent by Nierendorf Gallery, New York 
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Mr. and Mrs. Walter C. Arensberg 
+Hollywood, Calif. 
+
+Lent by Mr. and Mrs. Romie Shapiro 
+New York 
+
+Lent by Mr. and Mrs. Harry L. Winston 
+Birmingham, Mich. 
+
+
+
+125 INTO THE DARK (1928) 
+watercolor 1 4'/2 x 22 
+
+126 TOPPING (1928) 
+watercolor 1 9% x 1 2 5 /s 
+
+127 RED STAFF (No. 121, 1928) 
+oil 36x20 
+
+128 RIPPED (No. 262, 1928) 
+oil 19 x 12V 2 
+
+129 VERTICAL ACCENT (No. 325, 1928) 
+
+watercolor 1 3'/2 x 9% 
+
+130 TRIANGLE (No. 162, 1928) 
+watercolor 13x19 
+
+131 COLORED STICKS (1928) 
+watercolor 16x12 
+
+132 GONE (1928) 
+watercolor 18x15 
+
+133 FLOATING (No. 290, 1928) 
+watercolor 1 9 x 1 2/2 
+
+134 FISH FORMS (1928) 
+watercolor 23 x 29 
+
+135 No. 456 (1928) 
+oil 1314x9% 
+
+136 1928 
+
+watercolor 1 5% x 23'/i 
+
+137 INCLINED HALF CIRCLE (1928) 
+watercolor I8V2X 12'/ 4 
+
+138 TWO SIDES OF RED (No. 437, 1928) 
+oil 
+
+139 BLUE (1929) 
+
+oil on board 9/2 x 1 3V 2 
+
+140 LIGHT AND HEAVY (No. 457, 1929) 
+oil 19y 4 x 14V 2 
+
+141 DECIDED POINTS (1929) 
+oil 27 x 13 
+
+142 HORIZONTAL BLUE (No. 369, 1929) 
+watercolor 9% x 1 2'/2 
+
+143 COLD SPEED (No. 349, 1929) 
+watercolor 20 x 9Vi 
+
+144 EVASIVE (341, 1929) 
+watercolor 2 1 % x 1 3% 
+
+145 OPPRESSED (No. 471, 1929) 
+oil 27 x 19 
+
+146 YELLOW CENTER (1929) 
+oil 18 x 15 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Mr. and Mrs. Walter C. Arensberg 
+Hollywood, Calif. 
+
+
+
+Lent by Mrs. E. Zalsfem Zalessky 
+
+New Milford, Conn. 
+
+Lent by Mr. J. B. Neumann, New York 
+
+
+
+Lent by Dr. and Mrs. Valentiner, Detroit 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+147 
+
+MS 
+
+149 
+
+150 
+151 
+
+152 
+153 
+
+154 
+
+155 
+156 
+157 
+158 
+159 
+' iC 
+161 
+162 
+163 
+
+164 
+
+165 
+
+166 
+167 
+168 
+
+
+
+LIGHT BLUE (No. 443, 1929) 
+oi IT 3 , x26"^ 
+
+CIRCLES IN BROWN (No. 477 1929) 
+oil 19 x 19 
+
+ONE -TWO (1929) 
+oil 6 x 1 3 
+
+CARRYING ROUND (No. 346, 1929) 
+wafercolor 19x17 
+
+ROCK TROUGHOUT (1929) 
+
+wcrercolo- 1 - x ' - 
+
+
+
+FOR AND AGAINST (No. 461 
+ci 13 ; ,x 19 - , 
+
+
+
+■c;c 
+
+
+
+WORKING TOGETHER (No. 487, 1929) 
+oill0xl6fc 
+
+STRANGE (1929) 
+wafercolor 13x13 
+
+HARD SOFT [No. 474, 1929) 
+
+:' 17 x 1 8 ; , 
+
+PINK SWEET (No. 481, 1929, 
+oil27 3 z x 19' : 
+
+COMPOSITION (1929) 
+•■■ ; - e r co z- " 3" ± .- ' z ' ; 
+
+SOMEWHAT RED (No. 441, 1929) 
+
+oil 12x15'; 
+
+YELLOW MARGIN (No. 497, 1930) 
+oil 18 2 zx 1S : , 
+
+HEATED (No. 375. 193: 
+wafercolor 1 0% x 20% 
+
+HARD SOFT (No. 390, 1930) 
+- ;="color 1 9-2 x 1 6V2 
+
+ALMOST DISAPPEARING (No. 363. 1930 
+tempera 15x10 
+
+FLYING AROUND (No. 399, 1930) 
+wotercolor 1 6 x 9'/s 
+
+a- te s:- 5 n: ;:: 193; 
+
+oi 27x 19 
+
+
+
+SCHERZO (1930) 
+wafercolor 8'j x 6 
+
+HARDLY (No. 492, 1930) 
+tempera on plaster 1 3 x 6/4 
+
+FAR AWAY (No. 533, 1930) 
+oil 1 3% x 9% 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Mr. Werner Drewes, New York 
+
+
+
+Lent by Mr. Karl Nierendorf, New York 
+
+
+
+LONG STRIPE (1930) 
+
+wa'e-co or 20 x 15'"; 
+
+
+
+169 THICK HEAVY (No. 385, 1930) 
+watercolor 18x12 
+
+170 WONDER-VEIL (1930) 
+watercolor 22x121/4 
+
+171 WHITE (No. 512, 1930) 
+oil 19'/ 4 x 13% 
+
+172 MOODY (1930) 
+oil 16x22 
+
+173 THREE ARROWS (1931) 
+watercolor 18% x 1 3Vi 
+
+174 FLICKERING (No. 435, 1931) 
+watercolor 1 3Vi x 1 3% 
+
+175 No. 2 (1931) 
+watercolor 19x10 
+
+176 LIGHT BLUE (1931) 
+watercolor 1 2 x 1 8V2 
+
+177 NOW UPWARD (No. 417, 1931) 
+watercolor 1 9 x 24 
+
+178 WEIGHTED (No. 439, 1931) 
+watercolor 20 x 22 
+
+179 SOFT PRESSURE (No. 549, 1931) 
+oil 39'/ 2 x 39V 2 
+
+180 FLOATING PRESSURE (1931) 
+oil 30% x 26 3 / 4 
+
+181 CROISSANCE (No. 410, 1931) 
+watercolor 1 8 'A x 13 
+
+182 HOT (No. 429, 1931) 
+watercolor 11x19 
+
+183 SWEETLY (1932) 
+watercolor 20 x 9Vi 
+
+184 FROM ROUND TO POINTED (1932) 
+watercolor 19x14 
+
+185 DREAMLIKE (1932) 
+watercolor 20% x 1 2 V2 
+
+186 NINE STRIPES (No. 465, 1932) 
+watercolor 19 x 9Vi 
+
+187 GREEN ON GREEN (1932) 
+watercolor 20V2 x 1 2V2 
+
+188 No. 266 (1932) 
+watercolor 25 x 29 
+
+189 SOUND OF SPOTS (No. 456, 1932) 
+
+watercolor 1 3Vi x 7Vi 
+
+190 SOFT WHITE AND HARD (1932) 
+oil 35x42 
+
+
+
+Lent by Mrs. E. Zalstem Zalessky 
+New Milford, Conn. 
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Mrs. E. Zalstem Zalessky, 
+New Milford, Conn. 
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Mr. Karl Nierendorf, New York 
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Mr. and Mrs. Robert S. Munger 
+Lexington, Va. 
+
+Lent by Nierendorf Gallery, New York 
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Mr. and Mrs. Leslie Maitland 
+Pasadena, Calif. 
+
+
+
+191 
+192 
+193 
+194 
+195 
+196 
+197 
+198 
+199 
+200 
+201 
+202 
+203 
+204 
+205 
+206 
+207 
+
+208 
+209 
+210 
+211 
+212 
+
+
+
+1932 
+
+wafercolor 13x1 9% 
+
+ENTENTE (1932) 
+oil 31 x 25 
+
+No. A75 (1932) 
+watercolor 19 ; 2 x 24'A 
+
+SIMILAR AND DIFFERENT (No. 500, 1933) 
+watercolor 10x1 4V2 
+
+LEFT-MEDIUM-RIGHT(No.513, 1933) 
+wafercolor 1 5!i x 22 1 2 
+
+
+
+TUNE IN GREY 
+oil 19x27! 2 
+
+
+
+1933) 
+
+
+
+COMPLEX OF ROUND (No. 519, 1933) 
+watercolor 15x12 
+
+DOUBLE AFFIRMATION (1934) 
+watercolor 1 5 1 2 x 22 3 ^ 
+
+WHITE MOVING (1934) 
+oil 24 x 29 
+
+STRIPES VARIED (No. 510, 1933) 
+watercolor 1 3'/2 x9% 
+
+DEVELOPMENT IN HEIGHT [1934] 
+oil 3 1 x 31 
+
+DISTRIBUTION (1934) 
+watercolor 21% x 1 4^2 
+
+IMPRESSIONS (604, 1934) 
+
+oil and sand on canvas 1 1 5 cm x 88 cm 
+
+SUCCESSION (1935) 
+oil 26 x 36 
+
+POINTED AND ROUND (No. 293, 1935) 
+oil 27'/ 2 x19% 
+
+VIOLET AND ORANGE (1935) 
+oil 35x46 
+
+LITTLE BALLS (No. 555, 1935) 
+watercolor 18x9 
+
+TWO FIGURES (No. 550, 1935) 
+watercolor 15x1 2% 
+
+GRILL (1935) 
+tempera 20 x 1 2'A 
+
+ACCOMPANIED CONTRASTS (No. 613, 1935) 
+oil with sand on canvas 38! J x 64 
+
+
+
+TWO CIRCLES 
+oil 28 1 2 x35 
+
+
+
+1935) 
+
+
+
+Lent by Mrs. E. Zalstem Zalessky 
+New Milford, Conn. 
+
+Lent by Mr. and Mrs. Leslie Maitland 
+Pasadena, Calif. 
+
+Lent by Hi I la Rebay, Greens Farms, Conn. 
+
+
+
+Lent by Nierendorf Gallery, New York 
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Nierendorf Gallery, New York 
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Nierendorf Gallery, New York 
+
+Lent by Hilla Rebay, Greens Farms, Conn. 
+
+Lent by Mrs. E. Zalstem Zalessky 
+
+Lent by Mr. and Mrs. Duncan Phillips 
+Washington, D. C. 
+
+
+
+Lent by Nierendorf Gallery, New York 
+
+
+
+GREEN ACCENT (No. 623, 1935) 
+oil32x39'/ 2 
+
+
+
+213 VOLTIGE (No. 612, 1935) 
+oil with sand on canvas 32 x 39 
+
+214 SUPPLEMENTED BROWN (1935) 
+oil31%x45y 2 
+
+215 HORIZONTAL VARIATIONS (No. 567, 1936) 
+watercolor 1 1 V 2 x 19'A 
+
+216 SURROUNDINGS (1936) 
+oil3iy 4 x39'/4 
+
+217 BAGATELLE (No. 139, 1936) Lent by Nierendorf Gallery, New York 
+watercolor 1 9/2 x 7/2 
+
+218 RIGID AND BENT (1936) 
+
+oil with sand on canvas 45 x 64 
+
+219 No. 561 (1936) Lent by Hilla Rebay, Greens Farms, Conn, 
+watercolor 12'/ 2 x 19 3 / 4 
+
+220 TENSIONS RELAXED (1937) 
+oil 35 x 451/ 2 
+
+221 ANIMATED STABILIZATION (1937) Lent by The Miller Company, Meriden, Conn, 
+oil 35x34% 
+
+222 CAPRICIOUS FORMS (1937) 
+oil 
+
+223 COMPOSITION (No. 649, 1938) 
+oil 35x45/2 
+
+224 YELLOW (No. 653, 1938) 
+oil45'/ 2 x35 
+
+225 LE BON CONTACTE (1938) 
+oil 35 x 45V 2 
+
+226 MONDE BLEU (1938) 
+oil 42% x46 
+
+227 FORM ROUGE (No. 652, 1938) Lent by Nierendorf Gallery, New York 
+oil3iy 2 x23y 2 
+
+
+
+ETCHINGS'LITHOGRAPHS'WOODCUTS'REPRODUCTIONS 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0041   0.0041      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0058   0.0017      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0076   0.0017     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0108   0.0032   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0110   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.1005   0.0895              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=100;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+

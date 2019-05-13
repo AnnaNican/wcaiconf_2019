@@ -1,0 +1,6063 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+<head>
+<title>Full text of "Kandinsky watercolors : a selection from the Solomon R. Guggenheim Museum and the Hilla von Rebay Foundation"</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Q2YSouphkkgHkFNP7FgAkc4TmBs1Gmag3uGNndb53B8" name="google-site-verification"/>
+<meta content="bpjKvUvsX0lxfmjg19TLblckWkDpnptZEYsBntApxUk" name="google-site-verification"/>
+<script>window.archive_setup=[]</script>
+<meta charset="utf-8"/> <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+<script src="//archive.org/includes/analytics.js?v=e13087b" type="text/javascript"></script>
+<script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+
+        archive_analytics.process_url_events(window.location);
+      }
+    </script>
+<script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/polyfill.min.js?v=e13087b" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+<script src="//archive.org/includes/build/js/archive.min.js?v=e13087b" type="text/javascript"></script>
+<link href="//archive.org/includes/build/css/archive.min.css?v=e13087b" rel="stylesheet" type="text/css"/>
+<link href="https://archive.org/images/glogo.jpg" rel="SHORTCUT ICON"/>
+</head>
+<body class="navia ">
+<a class="hidden-for-screen-readers" href="#maincontent">Skip to main content</a>
+<!-- Wraps all page content -->
+<div id="wrap">
+<div id="navwrap1">
+<div id="navwrap2">
+<div class="collapse" id="nav-tophat">
+<div class="row toprow web" style="max-width:1000px;margin:auto;">
+<div class="col-xs-12">
+<div class="wayback-txt">
+                        Search the history of over 357 billion                        <a data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/" style="display:inline">web pages</a> on the Internet.
+                      </div>
+<div class="roundbox7 wayback-main">
+<div class="row">
+<div class="col-sm-6" style="padding-left:0; padding-right:0;">
+<a data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/" style="padding-bottom:0"><img alt="Wayback Machine" src="https://archive.org/images/WaybackLogoSmall.png"/></a>
+</div>
+<div class="col-sm-6" style="padding-top:13px;">
+<form style="position:relative;">
+<span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span> <label class="sr-only" for="nav-wb-url">Search the Wayback Machine</label>
+<input autocomplete="off" class="form-control input-sm roundbox20" id="nav-wb-url" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" placeholder="enter URL or keywords" type="text"/>
+</form>
+</div>
+</div><!--/.row-->
+</div><!--/.wayback-main-->
+</div>
+</div><!--./row-->
+<div class="row toprow fivecolumns texts">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllTexts" href="https://archive.org/details/texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span> All Texts</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts" href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries" href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a> <a data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS" href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a> <a data-event-click-tracking="TopNav|FeaturedLink-Genealogy" href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a> <a data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection" href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a> <a data-event-click-tracking="TopNav|FeaturedLink-AdditionalCollections" href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AmericanLibraries" href="https://archive.org/details/americana" title="American Libraries">American Libraries</a> <a data-event-click-tracking="TopNav|TopLink-CanadianLibraries" href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a> <a data-event-click-tracking="TopNav|TopLink-UniversalLibrary" href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a> <a data-event-click-tracking="TopNav|TopLink-CommunityTexts" href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a> <a data-event-click-tracking="TopNav|TopLink-ProjectGutenberg" href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a> <a data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary" href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a> <a data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary" href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list">
+<div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+</center>
+</div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-BooksByLanguage" href="https://archive.org/details/booksbylanguage" title="Books by Language">Books by Language</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns movies">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllVideo" href="https://archive.org/details/movies"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span> All Video</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo" href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives" href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a> <a data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow" href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet" href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a> <a data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary" href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AnimationCartoons" href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation &amp; Cartoons</a> <a data-event-click-tracking="TopNav|TopLink-ArtsMusic" href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts &amp; Music</a> <a data-event-click-tracking="TopNav|TopLink-CommunityVideo" href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms" href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural &amp; Academic Films</a> <a data-event-click-tracking="TopNav|TopLink-EphemeralFilms" href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a> <a data-event-click-tracking="TopNav|TopLink-Movies" href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-SportsVideos" href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a> <a data-event-click-tracking="TopNav|TopLink-Television" href="https://archive.org/details/television" title="Television">Television</a> <a data-event-click-tracking="TopNav|TopLink-VideogameVideos" href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a> <a data-event-click-tracking="TopNav|TopLink-Vlogs" href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a> <a data-event-click-tracking="TopNav|TopLink-YouthMedia" href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns audio">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllAudio" href="https://archive.org/details/audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span> All Audio</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio" href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-GratefulDead" href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a> <a data-event-click-tracking="TopNav|FeaturedLink-Netlabels" href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a> <a data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio" href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a> <a data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings" href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry" href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books &amp; Poetry</a> <a data-event-click-tracking="TopNav|TopLink-CommunityAudio" href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a> <a data-event-click-tracking="TopNav|TopLink-ComputersTechnology" href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers &amp; Technology</a> <a data-event-click-tracking="TopNav|TopLink-MusicArtsCulture" href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts &amp; Culture</a> <a data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs" href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News &amp; Public Affairs</a> <a data-event-click-tracking="TopNav|TopLink-NonEnglishAudio" href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a> <a data-event-click-tracking="TopNav|TopLink-RadioPrograms" href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SpiritualityReligion" href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality &amp; Religion</a> <a data-event-click-tracking="TopNav|TopLink-Podcasts" href="https://archive.org/details/podcasts" title="Podcasts">Podcasts</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns software">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllSoftware" href="https://archive.org/details/software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span> All Software</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware" href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation" href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a> <a data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames" href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware" href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a> <a data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames" href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a> <a data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary" href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-CommunitySoftware" href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a> <a data-event-click-tracking="TopNav|TopLink-MSDOS" href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a> <a data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile" href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftware" href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a> <a data-event-click-tracking="TopNav|TopLink-APK" href="https://archive.org/details/apkarchive" title="APK">APK</a> <a data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary" href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a> <a data-event-click-tracking="TopNav|TopLink-VintageSoftware" href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+<a data-event-click-tracking="TopNav|TopLink-SoftwareSites" href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a> <a data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary" href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a> <a data-event-click-tracking="TopNav|TopLink-SharewareCDROMs" href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrum" href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a> <a data-event-click-tracking="TopNav|TopLink-DOOMLevelCD" href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a> <a data-event-click-tracking="TopNav|TopLink-ZXSpectrumLibraryGames" href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a> <a data-event-click-tracking="TopNav|TopLink-CDROMImages" href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a> </div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+<div class="row toprow fivecolumns image">
+<div class="col-sm-2 col-xs-7 col-sm-push-4">
+<div class="linx">
+<h5>Featured</h5>
+<a data-event-click-tracking="TopNav|FeaturedLink-AllImage" href="https://archive.org/details/image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span> All Image</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage" href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate"><span aria-hidden="true" class="iconochive-latest"></span><span class="sr-only">latest</span> This Just In</a>
+<a data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons" href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a> <a data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr" href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a> <a data-event-click-tracking="TopNav|FeaturedLink-CoverArt" href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a> <a data-event-click-tracking="TopNav|FeaturedLink-USGSMaps" href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-2">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7 col-sm-push-2">
+<div class="linx ">
+<h5>Top</h5>
+<a data-event-click-tracking="TopNav|TopLink-NASAImages" href="https://archive.org/details/nasa">NASA Images</a> <a data-event-click-tracking="TopNav|TopLink-SolarSystemCollection" href="https://archive.org/details/solarsystemcollection">Solar System Collection</a> <a data-event-click-tracking="TopNav|TopLink-AmesResearchCenter" href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a> </div>
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-5 col-sm-pull-4">
+<div class="widgets">
+<center class="items_list"> <div class="items_list_img">
+<a aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');"></a>
+</div>
+<a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center> </div><!--/.widgets-->
+</div><!--/.col-sm-2-->
+<div class="col-sm-2 col-xs-7">
+<div class="linx linx-topped">
+</div>
+</div><!--/.col-sm-2-->
+</div><!--/.row-->
+</div><!--/#nav-tophat-->
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="hidden-xs" id="nav-tophat-helper"></div>
+<ul class="nav navbar-nav navbar-main">
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link web" data-placement="bottom" data-toggle="tooltip" data-top-kind="web" href="https://archive.org/web/" target="_top" title="Web"><span aria-hidden="true" class="iconochive-web"></span><span class="sr-only">web</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link texts" data-placement="bottom" data-toggle="tooltip" data-top-kind="texts" href="https://archive.org/details/texts" target="_top" title="Texts"><span aria-hidden="true" class="iconochive-texts"></span><span class="sr-only">texts</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link movies" data-placement="bottom" data-toggle="tooltip" data-top-kind="movies" href="https://archive.org/details/movies" target="_top" title="Video"><span aria-hidden="true" class="iconochive-movies"></span><span class="sr-only">movies</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link audio" data-placement="bottom" data-toggle="tooltip" data-top-kind="audio" href="https://archive.org/details/audio" target="_top" title="Audio"><span aria-hidden="true" class="iconochive-audio"></span><span class="sr-only">audio</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left">
+<a class="navia-link software" data-placement="bottom" data-toggle="tooltip" data-top-kind="software" href="https://archive.org/details/software" target="_top" title="Software"><span aria-hidden="true" class="iconochive-software"></span><span class="sr-only">software</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-left rightmost">
+<a class="navia-link image" data-placement="bottom" data-toggle="tooltip" data-top-kind="image" href="https://archive.org/details/image" target="_top" title="Image"><span aria-hidden="true" class="iconochive-image"></span><span class="sr-only">image</span></a>
+</li>
+<li class="navbar-brand-li"><a class="navbar-brand" data-event-click-tracking="TopNav|HomeIcon" href="https://archive.org/" target="_top"><span aria-hidden="true" class="iconochive-logo"></span><span class="sr-only">logo</span></a></li>
+<li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#nav-hamburger-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div aria-expanded="false" class="navbar-collapse collapse" id="nav-hamburger-menu">
+<ul class="nav navbar-nav" id="">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!-- /.navbar-collapse -->
+</div>
+</div><!-- /.container-fluid -->
+</li>
+<li class="dropdown dropdown-ia pull-right" id="nav-search">
+<a aria-hidden="true" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span aria-hidden="true" class="iconochive-search"></span><span class="sr-only">search</span></a>
+<div class="searchbar">
+<form action="https://archive.org/searchresults.php" class="search-form js-search-form" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/" method="get" role="search" target="_top">
+<input aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below." class="js-search-bar" id="search-bar-2" name="search" placeholder="Search" type="text" value=""/>
+<div aria-expanded="false" aria-label="Search Options" class="search-options js-search-options" data-keep-open-when-changed="false" id="navbar_search_options">
+<fieldset>
+<label>
+<input checked="" name="sin" type="radio" value=""/>
+<span>Search metadata</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TXT"/>
+<span>Search text contents</span>
+</label>
+<label>
+<input name="sin" type="radio" value="TV"/>
+<span>Search TV news captions</span>
+</label>
+<label>
+<input name="sin" type="radio" value="WEB"/>
+<span>Search archived web sites</span>
+</label>
+</fieldset>
+<a class="search-options__advanced-search-link" href="https://archive.org/advancedsearch.php" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+</div>
+<script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"04/21/2019"}</script>
+<input type="submit" value="Search">
+</input></form>
+</div><!--/.searchbar -->
+</li>
+<li class="dropdown dropdown-ia pull-right">
+<a _target="top" data-event-click-tracking="TopNav|UploadIcon" data-placement="bottom" data-toggle="tooltip" href="https://archive.org/create" title="Upload"><span aria-hidden="true" class="iconochive-upload"></span><span class="sr-only">upload</span></a>
+</li>
+<li class="dropdown dropdown-ia pull-right leftmost">
+<a _target="top" data-event-click-tracking="TopNav|LoginIcon" href="https://archive.org/account/login" style="padding-right:0"><span aria-hidden="true" class="iconochive-person"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+</li>
+</ul>
+<ul class="" id="nav-abouts">
+<li><a data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/" target="_top">ABOUT</a></li>
+<li><a data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php" target="_top">CONTACT</a></li>
+<li><a data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org" target="_top">BLOG</a></li>
+<li><a data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects" target="_top">PROJECTS</a></li>
+<li><a data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php" target="_top">HELP</a></li>
+<li><a data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate" target="_top">DONATE</a></li>
+<li><a data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php" target="_top">JOBS</a></li>
+<li><a data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php" target="_top">VOLUNTEER</a></li>
+<li><a data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php" target="_top">PEOPLE</a></li>
+</ul>
+</div><!--/.navbar-->
+</div><!--#navwrap1-->
+</div><!--#navwrap2-->
+<!-- Begin page content -->
+<main id="maincontent">
+<div class="container container-ia">
+<h1>
+          Full text of "<a href="/details/waterco00solo">Kandinsky watercolors : a selection from the Solomon R. Guggenheim Museum and the Hilla von Rebay Foundation</a>"
+        </h1>
+<h2 class="pull-right">
+<small><a href="/details/waterco00solo">See other formats</a></small>
+</h2>
+<br class="clearfix" clear="right"/>
+<pre>
+
+
+
+KANDINSKY WATERCOLORS 
+
+
+
+A Selection from The Solomon R.Guggenheim Museum and The Hilla von Rebay Foundation 
+
+
+
+KANDINSKY WATERCOLORS 
+
+A Selection from The Solomon R.Guggenheim Museum and The Hilla von Rebay Foundation 
+
+
+
+This project is supported by a grant from the National Endowment for the Arts 
+
+
+
+THE SOLOMON R. GUGGENHEIM FOUNDATION 
+
+President Peter O. Lawson-Johnston 
+
+Vice-President The Right Honorable Earl Castle Stewart 
+
+trustees Anne L. Armstrong, Joseph W. Donner, Robin Chandler Duke, 
+
+John Hilson, Harold W. McGraw, Jr., Wendy McNeil, Thomas M. 
+Messer, Frank R. Milliken, A. Chauncey Newlin, Lewis T. Preston, 
+Seymour Slive, Albert E. Thiele, Michael F. Wettach, William T. 
+Ylvisaker 
+
+Director Thomas M. Messer 
+
+THE HILLA VON REBAY FOUNDATION 
+
+Chairman Francis P. Schiaroli 
+
+advisory trustees Melvin M. Dichter, John Ripley Forbes, Leo C. O'Loughlin, 
+
+Walter T. Sullivan 
+
+
+
+Published by The Solomon R. Guggenheim Foundation, New York, 1980 
+
+ISBN: 0-89207-OZ7-7 
+
+I ibrary of Congress Card Catalog Number: 80-541 As 
+
+c The Solomon R. Guggenheim Foundation, New York, 1980 
+
+
+
+PREFACE AND ACKNOWLEDGEMENTS 
+
+
+
+
+Vasily Kandinsky is a central figure in the development of twentieth- 
+century art. More than any other painter, with the possible ex- 
+ception of Piet Mondrian, he is identified with the transition from 
+representational to abstract art. Kandinsky, who was born in Russia 
+in 1866, did not begin his career as a painter until the first decade of 
+our own century. He made his most original and important contri- 
+butions to modern painting and aesthetic ideas in Munich between 
+1908 and 1914. After his return to Russia upon the outbreak of 
+World War I, the artist worked for the revolutionary government, 
+organizing cultural institutions based upon modern ideas. When 
+the new Soviet government became hostile to avant-garde art, Kan- 
+dinsky left his homeland once more for Germany and accepted a 
+teaching position at the Weimar Bauhaus. He was forced to leave 
+Germany again in 1933, when the Nazis closed the Bauhaus. This 
+time the artist found refuge in Paris, where he spent the last eleven 
+fruitful years of a creative and influential life. 
+
+The sequential progression of Kandinsky's revolutionary oeuvre 
+is exceptionally clear and illuminating. His early work is rep- 
+resentational and shows affinities with inherited Post-Impression- 
+ist modes. Gradually and to a certain degree echoing the innova- 
+tions of the contemporary French Fauves, Kandinsky attenuated the 
+forms in his paintings and prints for decorative and expressive pur- 
+poses. These forms, still rooted in the art of the Jugendstil movement 
+and popular paintings on glass, ultimately lost their identity as rep- 
+resentational images in the most radical departure in the history of 
+twentieth-century art. Kandinsky proclaimed the independence of 
+form and color from recognizable subject matter in his art and in 
+his writings early in the second decade of our era, when others like 
+Mondrian, Malevich, Kupka and Delaunay were moving towards 
+similar conclusions. Thus, Kandinsky was not alone in achieving 
+this revolutionary formulation, but the inventiveness and original- 
+ity, the authority and strength of his work made him a leader in the 
+development of a new artistic style. The same intellectual integrity 
+and courage that assured this position of leadership before World 
+War I later enabled him to invent new modes and exert a decisive 
+influence during his years at the Bauhaus. During this Bauhaus 
+period the expressiveness of the earlier work gave way to an em- 
+phasis upon geometric structure, as painterly intuition was con- 
+trolled by carefully established systems. The emotional detachment 
+and the freedom from dogmatic attitudes which mark the works of 
+the last years in Paris make these paintings and watercolors par- 
+ticularly moving. 
+
+
+
+The intimate medium of watercolor reveals to an extraordinary 
+degree the evolution of Kandinsky's significant artistic accomplish- 
+ments. This exhibition of fifty watercolors has been selected from 
+the extensive holdings of The Solomon R. Guggenheim Museum 
+and The Hilla von Rebay Foundation. "With the cooperation of the 
+Rebay Foundation, whose collection has been on deposit at the 
+Museum since i&lt;-;~o, it has been possible to represent the range of the 
+artist's development from 191 1 to 1940. We are pleased to share the 
+treasures of the Museum and the Rebay Foundation with the fol- 
+lowing institutions which are participating in our traveling exhibi- 
+tion: The Baltimore Museum of Art; the High Museum in Atlanta; 
+The Cleveland Museum of Art; the David and Alfred Smart Gallery 
+of the University of Chicago; the Honolulu Academy of Arts; the 
+Portland Art Museum in Oregon; the University Gallery of the Uni- 
+versity of Florida in Gainesville; and the Ackland Art Center of the 
+University of North Carolina in Chapel Hill. 
+
+We are grateful to Louise Averill Svendsen, Senior Curator at the 
+Guggenheim Museum, and Vivian Endicott Barnett, Associate Cur- 
+ator, who organized and selected the exhibition. Their sensitivity to 
+Kandinsky's work is apparent in the choices they have made as well 
+as in the essays they have contributed to this catalogue: Mrs. Svend- 
+sen's knowledgeable historical account and Mrs. Barnett's scholarly 
+and perceptive analysis of Kandinsky's watercolor techniques, the 
+first essay published on this subject. We are most indebted to Hans 
+Konrad Roethel who graciously provided information and Kenneth 
+C. Lindsay who generously made his material accessible. Armin 
+Zweite, Rosel Gollek and Jelena Hahl-Koch at the Stadtische Gal- 
+erie im Lenbachhaus in Munich assisted immeasurably by making 
+works available to Mrs. Barnett for study, as did Christian Derouet 
+at the Centre National d'Art ct de Culture Georges Pompidou in 
+Pans. The expertise of Marjorie B. Cohn, Conservator of Works on 
+Paper at The Fogg Art Museum, was essential to Mrs. Barnett's dis- 
+cussion of the artist's techniques. Also extremely helpful were John 
+E. Bowlt, Charles W. Haxthausen, Axel Janeek, Rose-Carol Wash- 
+ton Long, Clark Poling and Peg Weiss. The artist's widow, the late- 
+Nina Kandinsky, kindly gave Mrs. Barnett permission to study the 
+Handlists. Joan M. Lukach and Robert Grele of The Hilla von 
+Rebay Foundation provided Mrs. Svendsen with much information. 
+Within the Museum the following staff members deserve particular 
+thanks: Angelica Zander Rudenstine, Research Curator, for her im- 
+
+
+
+portant research on Kandinsky's oils in the Guggenheim's collec- 
+tion; Dana Cranmer, Assistant Conservator, for answers to many 
+technical questions; Carol Fuerstein, Editor, who intelligently edited 
+the catalogue and handled its production; Susan B. Hirschfeld, Cur- 
+atorial Coordinator, for her able assistance in seeing the publication 
+through the presses; and Christine Poggi, Curatorial Fellow, and 
+Susan Alyson Stein, Hilla Rebay Fellow, for their research. 
+
+Finally, our very special thanks are reserved for the National 
+Endowment for the Arts, which generously provided funds for this 
+exhibition. The continuing and vital support of the Guggenheim 
+Museum's projects by the National Endowment for the Arts is 
+hereby gratefully acknowledged. 
+
+thomas M. messer, Director 
+
+The Solomon R. Guggenheim Foundation 
+
+
+
+KANDINSKY, HILLA REBAY AND 
+THE GUGGENHEIM MUSEUM 
+
+
+
+by Louise Averill Svendsen 
+
+
+
+The richness of the two sources from which this exhibition is de- 
+rived—the collections of The Solomon R. Guggenheim Museum and 
+The Hilla von Rebay Foundation— is no historical accident. For it 
+was Hilla Rebay who first introduced Solomon Guggenheim to 
+Kandinsky and it was Miss Rebay who helped guide the formation 
+of the collection which evolved into The Solomon R. Guggenheim 
+Museum. 
+
+Solomon R. Guggenheim (1861-1949) was the fourth of seven 
+remarkable Guggenheim brothers who created a financial empire 
+in mining. Both he and his wife, Irene Rothschild, were interested 
+in art. They, like so many American millionaires, had amassed a 
+collection of Old Masters, rather minor masters, to be sure, as the 
+Guggenheims had begun collecting later than their great contem- 
+poraries, the Morgans, Wideners and Fricks. They decorated their 
+homes with paintings by Bernardino Luini, Joos van Cleef, Bern- 
+hard Strigel and Hans Maler zu Schwaz. They also bought fashion- 
+able French Barbizon landscapes, prints by Whistler and Audubon, 
+Chinese paintings on glass and Persian miniatures. Their taste was 
+conventional, eclectic and without strong personal direction. 
+
+In the late twenties circumstances radically changed the course 
+of Mr. Guggenheim's collecting. In the fall of 19Z7 Irene Guggen- 
+heim was introduced to a young German artist, Baroness Hilla Re- 
+bay von Ehrenwiesen, who had recently arrived in New York. 1 By 
+the end of the year their acquaintance had ripened into friendship, 
+and Mrs. Guggenheim helped her young protegee obtain portrait 
+commissions. In 1928 Solomon Guggenheim himself sat for his 
+portrait. Then began the long association which ended only with 
+his death. 
+
+Hilla Rebay was the daughter of a German military officer who 
+had early begun to study art. Talented, attractive and dynamic, she 
+had exhibited with avant-garde groups in Germany, particularly the 
+Secession in Munich (1913-15) and Berlin (1916). She also had 
+entree into the Parisian art world through her friendship with Felix 
+Feneon. In 1917 she was included in an exhibition at the gallery 
+of Der Sturm in Berlin and in 1919 participated in a two-man 
+show there. Her close friend Hans Arp had introduced her to 
+Herwarth Walden, and probably through him she came to know 
+the work of other artists who exhibited at Der Sturm: Delaunay, 
+
+
+
+1. I am deeply indebted to Dr. Joan M. Lukach for this account of Miss Rebay's 
+meeting with the Guggenheims and her early contacts with Kandinsky, Arp 
+and Feneon. Dr. Lukach's book on Hilla Rebay and the Museum of Non- 
+Objective Painting is in preparation. 
+
+
+
+Chagall, Leger, Glcizes, Bauer and Kandinsky. Among the artists 
+of the avant-garde, her major hero was Kandinsky. 
+
+Vasily Kandinsky was one of the most important and influential 
+painters in Germany in the decade before World War I. Born in 
+Russia in 1866, he left a career in law at the age of thirty to study 
+painting in Munich. He soon became a leader of modernist painters 
+in Munich, founding the Phalanx group in 1901, the Nate Kiinstler- 
+vereinigung Miinchen in 1909 and, with his friend Franz Marc, the 
+Blaue Reiter in 191 1. The following year he published Concerning 
+the Spiritual in Art, the first of his major writings on art, edited 
+with Marc the Almanach der Blaue Reiter and was given his first 
+one-man show at the gallery of Der Sturm in Berlin. During the 
+years before the outbreak of hostilities in 1 9 14, he moved gradually 
+away from representational painting to abstraction. 
+
+In 1914 Kandinsky went to Russia and subsequently was active in 
+the cultural affairs of the revolutionary government. By 192 1, how- 
+ever, the Soviet government had become extremely hostile to mod- 
+ern art. Kandinsky left Russia for Germany and in 1922 accepted 
+a post at the newly established Bauhaus at Weimar. 
+
+Kandinsky and Miss Rebay did not meet until 1929. Rebay 
+could, however, have seen his work as early as 191 1 when she 
+studied painting in Munich and later at Der Sturm after she moved 
+to Berlin in 191 3. Certainly her own painting at this time was 
+completely abstract, or what she termed "non-objective," reflecting 
+the strong influence of both Kandinsky and Franz Marc. She pas- 
+sionately embraced the cause of "non-objectivity," inspired in part 
+by the spiritual emphasis of Kandinsky's writings and also by her 
+intimacy with Rudolf Bauer, who himself painted in the style of 
+Kandinsky. 
+
+The Guggenheims were caught up in Rebay's enthusiasm for 
+modern art and were persuaded that they should form an important 
+collection. In the summer of 1929 Miss Rebay brought them to 
+Kandinsky's studio at the Bauhaus. The visit was a success. They 
+purchased Composition 8, 1923, a major oil, and went to Klee*s 
+studio next door. On subsequent trips to Furope, Miss Rebay intro- 
+duced them to other major avant-garde painters. The Guggenheims 
+enjoyed meeting the artists and preferred buying directly from them: 
+at many of these studio visits paintings were selected for the 
+collection. 
+
+During the thirties Mr. Guggenheim continued to buy, steadily 
+and in increasing quantities. Inevitably the idea of establishing a 
+museum took shape, and in 1937 The Solomon R. Guggenheim 
+
+
+
+Foundation was incorporated "to encourage the development of 
+the aesthetic sense of our people." 2 He endowed the Museum 
+with three million dollars and the gift of one hundred and forty- 
+five paintings. Among these were works by Chagall, Delaunay, 
+Feininger, Gleizes, Leger and Klee, but the largest group by a 
+single artist other than Bauer consisted of twenty-seven oils and 
+six watercolors by Kandinsky. 
+
+The relationship between Kandinsky and Miss Rebay, after the 
+brief visit to Dessau in 1929, developed into a warm friendship. 
+Kandinsky, Guggenheim and the Baroness wrote to one another 
+from 1930 to 1938; many of their letters are on file in The Hilla 
+von Rebay Foundation Archive. There are occasional rather formal 
+letters from Kandinsky to Mr. Guggenheim, but correspondence 
+from the artist to Rebay becomes increasingly personal. Kandin- 
+sky worries about the arrival of his paintings in New York, 
+describes his travels, discusses exhibitions. He bitterly describes the 
+closing of the Bauhaus by the Nazis and the difficulties he faced 
+establishing himself in the art world in Paris where he moved in 
+1933. He chides her when she subjects him to a diatribe about 
+some suspected slight. They quarrel over his prices. But she con- 
+tinues to buy his work, even when she professes that Mr. Guggen- 
+heim has no money. 
+
+Rudolf Bauer not only sold Mr. Guggenheim quantities of his 
+own paintings, but purchased a large number of Kandinskys for 
+the Foundation. In 1939 alone, he acquired more than two dozen 
+Kandinskys, none of them, as far as we know, obtained directly 
+from the artist. 
+
+Another important group came to the collection through the 
+Swiss painter Otto Nebel. The Nazi government sold at a series of 
+auctions in Switzerland a large quantity of what they designated 
+Entartete Kt/nst (degenerate art), modern works confiscated from 
+German museums and private collections. In June 1938, one of 
+these auctions, the sale of the collection of Heinrich Stinnes, was 
+held at Gutekunst und Klipstein in Bern. Miss Rebay commissioned 
+Nebel to bid for the Foundation, and nine Kandinskys were pur- 
+chased. The following year Mr. Guggenheim bought six more 
+Kandinskys at Gutekunst und Klipstein, including the outstanding 
+early oil Blue Mountain, 1908-9, which had formerly belonged to 
+the Staatliche Gemaldegalerie in Dresden. 
+
+
+
+By far the largest number of Kandinskys, however, came into the 
+collection through the Nierendorf Gallery in New York. A German 
+art dealer who fled Nazi Germany in 1936, Karl Nierendorf showed 
+the work of exiled German Expressionists in his gallery on Fifty- 
+Seventh Street. Beginning in 1937 Nierendorf became Kandinsky's 
+dealer, giving him many one-man shows and frequently including 
+his work in group exhibitions. Of the fifty watercolors in this ex- 
+hibition, twenty-six were purchased directly from Nierendorf. 
+
+It is unfortunate that there is little evidence of the circumstances 
+surrounding the acquisition of so many works, despite the relation- 
+ship which existed between Nierendorf and Miss Rebay. This re- 
+lationship appears to date from 1937 and was cordial, perhaps even 
+close/ In the archives of the Rebay Foundation there are letters 
+from Nierendorf to the Baroness written in 1946-47 in which he de- 
+scribes a six-month trip to Paris, Switzerland and Germany, and 
+reports on visits to mutual friends, artists and exhibitions. He rec- 
+ommends acquisitions for the Foundation and accepts 10,000 dol- 
+lars for making purchases. 
+
+When Nierendorf died intestate in October 1947, the Founda- 
+tion acquired his entire estate. Although the largest group consisted 
+of Klees, there were eleven Kandinsky oils and watercolors and 
+more than one hundred of his prints. For reasons which are unclear, 
+almost none of Nierendorf's records— his correspondence, receipts 
+of purchase and sales— came to the Museum with the estate. We 
+have only three small notebooks and a receipt book. Of these only 
+one is of importance: a listing dated 1942 of works of art in stock, 
+recorded by inventory number. It is possible to determine which 
+Guggenheim and Rebay Kandinskys were in Nierendorf's possession 
+by 1942 by matching the inventory numbers with labels or numbers 
+on the backs of the works. There are ninety-seven Kandinskys re- 
+corded in this inventory, excluding prints; of these, seventeen can 
+be positively identified as works in the current exhibition. 
+
+The second notebook is a day-by-day account book of expenses 
+from April 1944 through December 1945. Written in miniscule, 
+abbreviated script, often in shorthand, it is irritatingly difficult to 
+decipher, but occasionally offers collaborative information. In the 
+entry for January 5, 1945, f° r example, he notes "130/K/ w.c. mil 
+GoLi v.R 9°/22j," surely in reference to the Untitled watercolor, ca. 
+191 1 -1 2 (cat. no. 2), which we know the Baroness purchased from 
+
+
+
+;.. Letter from Mr. Guggenheim to the Board of Trustees of the Foundation, 
+June 12, 1937. 
+
+
+
+3. When Nierendorf died without any close relatives in this country, Miss Rebay 
+arranged to have him buried in her plot at Greens Farms, Connecticut. 
+
+
+
+Nierendorf in January 1945. The notebook also reveals that two 
+days later eight paintings by Kandinsky were sold to the Guggen- 
+heim Foundation. On February 4, 1945, Nierendorf sold eight Kan- 
+dinsky watercolors and two oils to Miss Rebay. We have the in- 
+voice for this transaction in the Rebay archives. One of the last 
+entries reads "2/xi r [r94$j Kandinsky w.c. [from] Jeanne Bncher 
+(sold: Baroness)." This confirms the fact that the watercolor Sup- 
+ports, 1939 (cat. no. 47), recorded in Kandinsky's Handlist as 
+bought by the Parisian dealer Jeanne Bucher in 1944, was subse- 
+quently sold by Bucher to Nierendorf, who then sold it to the 
+Baroness. 1 
+
+The Solomon R. Guggenheim Collection of Non-Objective Paint- 
+ings opened in rented quarters on East Fifty-Fourth Street in 1939, 
+two years after the Guggenheim Foundation had been incorporated 
+and endowed with the first gift. Soon it was known as the Museum 
+of Non-Objective Painting. Miss Rebay, who was appointed Di- 
+rector, mounted exhibitions and continued to enlarge the institu- 
+tion's holdings. Mr. Guggenheim made additional large gifts from 
+his collection in 1940 and 1941. In the 1941 gift were twenty-one 
+Kandinskys. At Solomon Guggenheim's death in 1949, the remain- 
+ing paintings in his private collection, which included two more 
+Kandinskys, came to the Foundation. This gift brought the total 
+Kandinsky holdings of the Museum to more than one hundred and 
+eighty. 
+
+In 1952 Miss Rebay resigned from the Museum and withdrew 
+her personal collection to her estate at Greens Farms, Connecticut. 
+This same year, after James Johnson Sweeney became Director, the 
+name of the institution was changed to The Solomon R. Guggen- 
+heim Museum. The Museum's exclusive preoccupation with non- 
+objective painting was replaced by a concern with the whole spec- 
+trum of twentieth-century art. The Frank Lloyd Wright building, 
+which Mr. Guggenheim and Miss Rebay had commissioned in 1943, 
+was finally completed and opened in 1959. When the present Di- 
+rector, Thomas M. Messer, was appointed in 1961, he began to 
+reassess the collection. The number of Kandinsky's works was 
+judged to be disproportionate to the Museum's other holdings. 
+Thus, in 1964 the Trustees of the Foundation ordered an auction of 
+fifty oils by the artist. Beginning in 1970 a large number of dupli- 
+cate impressions of Kandinsky prints from the Nierendorf Estate 
+
+4. A letter to Vivian Barnett from the Galerie Jeanne Bucher, April 2.3, 1980, 
+states that the watercolor was brought by Jeanne Bucher to New York in 
+1945- 
+
+
+
+were sold. Several other Kandinsky graphics, a medium crucial to 
+the understanding of the artist's early development, were bought. 
+Five rare color woodcuts dating from 1903 to 1907 as well as four 
+color lithographs and etchings from the Bauhaus and Paris years 
+were purchased to fill gaps in the collection. The Museum hopes to 
+make further acquisitions in the area of graphics. 
+
+The most recent major group of Kandinskys entered the collec- 
+tion after the death of Hilla Rebay in 196-. The Baroness, a woman 
+of strong will and dedication to principles, could never forgive the 
+Foundation for deviating from the dogma of non-objectivity. In her 
+will she established The Hilla von Rebay Foundation to "foster, 
+promote and encourage the interest of the public in non-objective 
+art," and bequeathed to her Foundation her collection of over four 
+hundred and fifty works. In 1971 the Guggenheim Foundation 
+reached a settlement with the Rebay Estate by which the Museum 
+acquired two hundred and forty-eight paintings, sculptures and 
+works on paper. By far the most important among them were thirty- 
+two Kandinsky oils, watercolors and prints. This acquisition led to 
+a new assessment and a further reduction of the Museum's Kan- 
+dinsky holdings. In 197] forty-six oils and watercolors were sold 
+at auction. The Kandinsky collection at the Museum now numbers 
+one hundred and forty paintings and works on paper. 
+
+Since the settlement with the Rebay Estate relations between the 
+Guggenheim Foundation and The Hilla von Rebay Foundation 
+have been close and harmonious. In i9 _ 4 an agreement was reached 
+to deposit the Rebay collection with the Museum for an indefinite 
+period. The Rebay library was brought to the Museum library the 
+following year, and a Rebay archive was established at the Museum. 
+
+In the spring of 19- — the Museum collaborated with the Rebay 
+Foundation on a project which led to the present exhibition. Sets of 
+color slides of twenty-five Kandinsky watercolors from the Rebay 
+Foundation were distributed to museums and galleries in this coun- 
+try and abroad, together with the announcement that the works 
+would be available for loan. The response was immediate and many 
+institutions requested a loan exhibition of Kandinsky watercolors. 
+With the consent of the Trustees of the Rebay and Guggenheim 
+Foundations, this selection of fifty watercolors drawn from both 
+collections will now be shown in nine states across the length and 
+breadth of the country. 
+
+
+
+KANDINSKY WATERCOLORS 
+
+
+
+by Vivian Endicott Barnett 
+
+
+
+Kandinsky painted with oil on canvas or cardboard or wood, with 
+tempera on colored paper, gouache and oil on board, oil and sand 
+on canvas and oil on glass. And throughout his career he painted 
+watercolors: crisp, bold brushstrokes of translucent color over 
+pencil or ink, or flowing wet washes, or fine particles of sprayed 
+pigment obscuring the paper. Kandinsky's watercolors reveal an 
+extraordinary technical expertise. He often exploited the abstract 
+qualities unique to the medium. Errors and reworkings are absent 
+from his watercolors. Except in a few early and late examples, 
+Kandinsky employed high quality paper for his watercolors. Surely 
+he was cognizant of works in the medium by Eugene Delacroix, 
+Paul Cezanne, the Nabis, J.M.W. Turner and English watercolor- 
+ists. Moreover, during the first fourteen years of this century, fel- 
+low Munich artists such as Franz Marc, August Macke, Gabriele 
+Miinter and Paul Klee also worked in watercolor. 
+
+Kandinsky's watercolors incorporate the precision of line char- 
+acteristic of his early graphic work with the complexity of forms 
+found in his oil paintings. Although Will Grohmann, Erika Hanf- 
+staengl, Hans Konrad Roethel and Angelica Rudenstine have con- 
+tributed significantly to our knowledge of specific watercolors, 
+the literature on Kandinsky lacks adequate information on the 
+artist's techniques and careful analysis of the relationship between 
+watercolors and oils. This essay will examine Kandinsky's water- 
+colors from different periods in relation to one another and in re- 
+lation to his contemporary oil paintings. Questions concerning 
+the mutuality and interdependence of watercolors and oils will be 
+investigated. Since Kandinsky systematically recorded the oils he 
+painted in his Hanskataloge (or Handlists) and since he also cata- 
+logued his watercolors after 1922, the correlation between oils and 
+watercolors can be studied closely. Such analysis brings to light 
+changes in their relationship which are usually corroborated by 
+the visual evidence. The structure of this essay is determined pri- 
+marily by the fifty watercolors from The Solomon R. Guggenheim 
+Museum and The Hilla von Rebay Foundation which comprise the 
+present exhibition. Discussion of the artist's techniques, which 
+focuses upon the same fifty examples, has benefited from the 
+knowledge of Marjorie B. Cohn, Conservator of Works on Paper 
+at The Fogg Art Museum of Harvard University, as well as from 
+the advice of the Guggenheim Museum's Conservation Department. 
+While this text does not presume to be definitive, it presents new 
+information and perspectives and raises questions requiring further 
+study with regard to other Kandinsky watercolors. 
+
+
+
+Kandinsky's watercolors date from 1900 to 1944, virtually his 
+entire artistic career. The earliest extant body of work in this me- 
+dium belongs to the Stadtische Galerie im Lenbachhaus in Munich. 
+However, Kandinsky painted watercolors long before he went to 
+Munich to study art in 1896. The artist remembered that as a child, 
+under the guidance of his aunt, Elizaveta Tikheeva, he once painted 
+a horse in watercolor which was complete except for the hoofs. "I 
+thought if I made the hoofs very black they would certainly be 
+completely true to nature. I put as much black on the brush as 
+I could. One instant— and I saw four black, disgusting, ugly spots, 
+utterly foreign to the paper, on the horse's feet." ("Reminiscences," 
+in Modern Artists on Art, trans. E. W. Herbert, p. 28) 
+
+During the first decade of this century when Kandinsky lived 
+principally in Munich and traveled frequently, figure studies, land- 
+scapes, knights, riders and Russian scenes dominated his water- 
+colors and temperas. His prints parallel and often anticipate stylisti- 
+cally his accomplishments in other works on paper. Kandinsky's 
+distinctive group of paintings in tempera on dark paper (which he 
+called "farbige Zeichnungen" or colored drawings) date from 1901 
+to 1908 and are clearly related to the contemporary black and white 
+woodcuts. Against a dark ground he placed well-defined areas of 
+color and applied white highlights. The dark support functions 
+both negatively as a field and positively as the shadowed parts of 
+forms, or sometimes as a distinct entity. The compositional and spa- 
+tial possibilities inherent in this technique are explored in Tunisian 
+Sheep Festival of 1905 (Collection The Solomon R. Guggenheim 
+Museum). In The Night of 190- (fig. 1) dots of pigment and blobs 
+of color as well as black and dark green areas have been applied to 
+the dark gray support. The same pastel colors that indicate stars in 
+the sky also define flowers in the foreground and the woman's long 
+dress. The bodies of the lovely young woman combing her hair and 
+the beckoning witch (presumably Babba Yaga) seem dematerial- 
+ized; their clothing can be read as dots of color. The forms exist as 
+decorative surface patterns and, for the most part, the figure-ground 
+relationship is obliterated. The dabs of paint are applied quite 
+sparsely in The Night: in particular, the middle zone between the 
+two figures consists of colored shapes which are already remark- 
+ably abstract. 
+
+The earliest Kandinsky watercolors in the Guggenheim Museum 
+Collection date from about 19 11. In the Untitled watercolor with 
+bronze powder paint (cat. no. 2), the colored areas appear as ab- 
+stract forms. The dark border painted with India ink frames the 
+
+
+
+
+
+
+
+p** jm ,i r j 
+
+
+- M 
+
+
+T^m^mf^^ 
+
+
+
+
+
+fig.l 
+
+The Night. 1907 
+
+Collection Stadtische Galerie im Lenbachhaus, Munich 
+
+
+
+central oval and contrasts with the bronze. Jugendstil artists fre- 
+quently employed gold and bronze accents: for example, Carl 
+Strathmann juxtaposed watercolor, India ink and gold in several 
+works from about 1900. In the Guggenheim's print The Golden Sail 
+of 1903, Kandinsky printed gold ink on a color woodcut. It is pos- 
+sible to identify oars, a boat and waves at the right side of our 
+watercolor, especially when it is compared with a similar work on 
+paper, The Boat, or even the canvas Improvisation 26 (Oars) both 
+of 1912 (Collection Stadtische Galerie im Lenbachhaus, Munich, 
+GMS 615 and 65 respectively). 
+
+In another Untitled watercolor from about 191 1 (cat. no. 1), 
+traces of oars and a boat are visible near the bottom edge and 
+the enclosing perimeter of a hortns conclusus together with a re- 
+clining pair of lovers can be discerned above. These are recurrent 
+motifs in Kandinsky's work around 19 12 which emerge promi- 
+nently in his oil paintings Improvisations zj, 26 and 27. While it is 
+obvious that this watercolor has faded, the extent to which the 
+colored areas have vanished becomes apparent only when the origi- 
+nal is compared with a reproduction from the catalogue of the 
+second Blane Reiter exhibition of February-April 1912. In its pres- 
+ent state, the contour lines are accentuated and scant hints of color 
+remain. The red dots are mere clues to the perhaps carmine areas 
+of wash that once were there. It is possible to reconstruct a red 
+sunburst in the center and a substantial amount of yellow at the 
+upper right. Recently, when this watercolor was examined under 
+raking light, clearly defined areas where binder coated the paper 
+were visible. The patterns of residue coincide with the distinct areas 
+of watercolor in the early reproduction, especially in the entire 
+upper left and right corners and in details at the center. Stylisti- 
+cally, this watercolor is related to others Kandinsky exhibited in 
+1912 with the Blaue Reiter (GMS 130, 147, 148: see Hanfstaengl, 
+pp. 80-81, and Gollek, pp. 277, 299). 
+
+
+
+Most of Kandinsky's watcrcolors from 1910 to 1914 can be 
+related to coeval oil paintings and some are direct preparatory 
+sketches for canvases. A watercolor (not in this exhibition) in The 
+Hilla von Rebay Foundation collection bears a strikingly close re- 
+semblance to the large oil, No. 160b of 1912, which was acquired 
+by Solomon R. Guggenheim in 1936. The watercolor displays a 
+greater profusion and clarity of details— such as the mountain and 
+cannon at the upper left and the citadel at the upper right. For 
+another painting from 19 12, Improvisation 27 {Garden of Love) 
+(Collection The Metropolitan Museum of Art, New York), there- 
+is an earlier watercolor study in the Stadtsiche Galerie im Lenbach- 
+haus, Munich (GMS 148). Kandinsky made watercolor studies for 
+several of the canvases from 1913 in the Guggenheim Museum Col- 
+lection: Painting with White Form, Pai7iting with White Border, 
+Small Pleasures and Light Picture. 
+
+Study for "Improvisation 33" (cat. no. 3) is one of three water- 
+color studies for the canvas Improvisation 33 (Sketch for Orient) 
+from 19 1 3 in the Stedelijk Museum, Amsterdam. The same overall 
+composition, color scheme and motifs are common to all four: 
+specifically, diagonal bands of color at the upper left, the adjacent 
+spear-like shape, the blue arch and red circle farther to the right in 
+the background, a female form reclining across the foreground and, 
+below this figure, blue, yellow and rose dabs of paint. Within the 
+group, the Rebay watercolor (cat. no. 3) bears a greater resemblance 
+to the work identified by Hanfstaengl as Aquarell 1 zu Thema 
+"Orient" (no. 223, color pi. XIV, GMS 359) than to Aquarell 2 zu 
+Thema "Orient" (Hanfstaengl no. 224, GMS 138) or to the final 
+canvas. Since the images are more precise and legible in Aquarell t 
+(Collection Stadtische Galerie im Lenbachhaus. Munich), they can 
+be used as points of reference in deciphering the Rebay watercolor. 
+Both works are similar in size and paper supports; neither is close, 
+in these respects, to Aquarell 2. The female figure in the Rebay 
+watercolor lacks the rounded breasts and clearly defined shape of 
+the nude in the oil painting. 
+
+Study for "Improvisation ]i" gives the impression of being ex- 
+traordinarily free, abstract and expressionistic. Without knowing 
+the related works, it would be difficult to interpret the images. In the 
+Rebay watercolor Kandinsky first sketched in the main composi- 
+tional elements with pencil and India ink and then defined the forms 
+with brilliant red, blue, green and yellow areas of color. At the 
+upper right and in central portions, he painted overlapping layers 
+of translucent color. In the pink and red areas of wash in the middle 
+
+
+
+
+fig. 2 
+
+Painting with White Border. 1913 
+
+Collection The Solomon R. Guggenheim Museum, New York 
+
+
+
+and the gray and ran washes at the lower left, diluted pigment has 
+been applied to wet paper so that it becomes increasingly fluid and 
+transparent and the support remains visible. The bare white paper 
+near the bottom serves both as the background and as the female 
+form. Thus, by nature of its medium, the watercolor differs sig- 
+nificantly from the final oil painting Improvisation 33 (Sketch for 
+Orient). 
+
+In his essay "Das Bild mit weissem Rand" or "Painting with 
+White Border," which was published with "Riickblicke" ("Reminis- 
+cences") in 1913, Kandinsky related how he made many studies, 
+sketches and drawings for the oil painting of that title (fig. 2). Rang- 
+ing in date from December 1912 to May 1913, the preparatory 
+studies provide insights into the artist's working methods. Kan- 
+dinsky acknowledged the unusual difficulties he experienced in 
+resolving the composition. He abandoned the vertical format of 
+preliminary watercolors and an oil in favor of the horizontal one 
+encountered in the Study for "Painting with White Border" in 
+the collection of The Hilla von Rebay Foundation (cat. no. 4) 
+and in the final canvas. As the painting evolved, Kandinsky for- 
+mulated several expressive pencil sketches as well as schematic 
+drawings in which only essential lines and directional arrows are 
+indicated. The right side of the Rebay watercolor differs markedly 
+from the Guggenheim painting. The lance, which is red rather than 
+white in the work on paper, occupies a more prominent, diagonal 
+
+
+
+position and extends well across the small page. At the right edge 
+of the watercolor there are fish shapes and vague linear patterns: 
+these are omitted entirely from the painting and replaced by the 
+white border which firmly defines the perimeter of the canvas. Over 
+a faint pencil underdrawing Kandinsky delineated the forms with 
+India ink. The colors are vivid and clear, and stand out against the 
+plain paper support. 
+
+Several months after completing Painting with White Border 
+Kandinsky painted Light Picture (fig. 3) which is nearly identi- 
+cal to but three times larger than the watercolor study (Collec- 
+tion Germanisches Nationalmuseum, Niirnberg, HZ 352.9 Kapsel 
+1548a; 10 x 13%", 2.5.4 x 34.5 cm.). Compositional structure, linear 
+configurations, color areas and most peculiarities of detail corre- 
+spond in the canvas and watercolor. In each, a dark red spot is 
+located at the center below a lavender diagonal; farther to the left, 
+yellow surrounds bold zigzag lines, and at the lower left and lower 
+right there is green-blue. The oil pigments have been applied thinly 
+and blended delicately into the white and yellow paint of the back- 
+ground. In the Guggenheim picture the scratchy black lines have not 
+been made with India ink and a pen: rather, they are translations of 
+ink into oil paint. The blotted and smeared "ink" at the lower left 
+is actually oil on canvas. The stippled effect associated with a pen 
+point or etching needle has been meticulously painted with a fine 
+brush. In the watercolor, ink lines as well as blots and washes of 
+
+
+
+10 
+
+
+
+
+fig. 3 
+
+Light Picture. 1913 
+
+Collection The Solomon R. Guggenheim Museum, New York 
+
+
+
+
+fig. 4 
+
+Study for "Black Lines." 1913 
+
+Collection Stadtische Galerie im Lenbachh.ms, Munich 
+
+
+
+color were applied to the white paper over a thinly-washed ground 
+tone. Even without prior knowledge of the Niirnberg study, one 
+realizes that Light Picture captures the feeling of a watercolor. 
+Comparison of the oil painting and watercolor leads one to con- 
+sider the hypothesis that Kandinsky wished to approximate in oil 
+the multiplicity of ink lines, the brilliant, translucent colors and 
+pale, luminous ground of the watercolor. 
+
+Light Picture and Black Lines, both completed in December 19 13 
+and now in the collection of the Guggenheim Museum, were singled 
+out by the artist as non-objective pictures: not abstractions from 
+objects but essentially and totally abstract works. Both paintings 
+resemble watercolors in ways indicative of the abstract tendencies 
+of that medium: the touches of paint, the puddling of colored water 
+that is absorbed into the paper, its translucence and clarity, the 
+exploitation of the paper support and the resultant closeness of 
+figure and ground that it is possible to achieve with thin wash over 
+white paper. In Light Picture and Black Lines Kandinsky painted a 
+yellow-white ground with oils, he accentuated the jagged, blurred 
+and stippled patterns of black lines and allowed amorphous, float- 
+ing areas of effulgent color to dominate the canvas. 
+
+While there are no watercolors identical to Black Lines, two pre- 
+paratory drawings belong to the Stadtische Galerie im Lenbachhaus 
+in Munich (GMS 394 and 428). The latter (fig. 4) contains abbrevi- 
+ated color notes which correspond for the most part with the hues 
+
+
+
+in the painting. Kandinsky began to annotate colors in this manner 
+at least as early as 1905, when he indicated colors in sketchbooks 
+which he took along on trips. Color notes appear frequently in 
+schematic drawings, occasionally in watercolors and in a rare in- 
+stance in an oil painting, Sketch for "Composition II" from 1909-10 
+(Collection The Solomon R. Guggenheim Museum), where they 
+are visible with the naked eye. Such shorthand notes seem to be an 
+integral part of Kandinsky's working method from the first years 
+of the century through 1914. 
+
+
+
+In August 1914 Kandinsky left Munich and went first to Switzer- 
+land and then to Russia. World War I forced him to leave Germany, 
+where he had lived for most of the time between 1896 and 1914, 
+and resulted in his separation from Gabriele Miinter, his com- 
+panion for over a decade. He did not execute any oils in 191 5 and 
+he painted only a limited number of canvases for the next six years. 
+Kandinsky did, however, continue to produce watercolors, draw- 
+ings, etchings and paintings on glass between 1915 and 1919. From 
+Christmas 1915 until mid-March 1916 he was in Stockholm to see 
+Miinter and to prepare for an exhibition of his work which opened 
+in February at Carl Gummeson's gallery. A curious group of about 
+fourteen watercolors (for example, Picnic, cat. no. 5), which he 
+called "bagatelles" or "trifles," dates from this time. Related to 
+
+
+
+11 
+
+
+
+
+fig. 5 
+
+Composition 8. 1923 
+
+Collection The Solomon R. Guggenheim Museum, New York 
+
+
+
+coeval drypoints and slightly later glass paintings, they are fanciful, 
+amusing, representational and reminiscent of his early Biedermeier 
+drawings and certain paintings from 1909. Picnic shares with a 
+small pencil sketch dated January 12, 1916 (Stadtische Galerie im 
+Lenbachhaus, Munich, GMS 509) such motifs as the lady with lorg- 
+nette, twisting forms of tree branches, city towers and the triangu- 
+lar area of the picnic scene. As Hans Konrad Roethel has observed, 
+Kandinsky's sketch in the Handlist proves that he intended the 
+work to be seen as a square, rather than as a lozenge. The water- 
+color which is filled with details— a swan, fish, apples, wine glass 
+and carafe— was precisely painted with a brush over ink. 
+
+Kandinsky has abandoned the retrogressive style of the 1916 
+watercolor in two examples dated 1918 (cat. nos. 6 and 7). In the 
+former, which is predominantly pale blue and yellow, the oval orbit 
+frees the composition from traditional constraints and permits the 
+citadel to be suspended in air. The abstract forms contain vestiges 
+of mountains, cities, ships, masses of people and even explosions. 
+Many of the minute, seemingly free spatters of ink around the 
+perimeter did not occur accidentally or spontaneously but were 
+carefully drawn by the artist. In the other work from 1918 in this 
+exhibition (cat. no. 7), Kandinsky first put down all the ink lines, 
+then added the red-orange, green, yellow and blue accents with 
+watercolor and painted in the highlights with opaque white. The 
+watercolor so accurately replicates an ink drawing of virtually iden- 
+
+
+
+tical size (io'/s x 13V2", 2.5.6 x 34.3 cm.) dated 1918 in the Tretiakov 
+Gallery in Moscow that it must be a copy (reproduced in Grohmann, 
+1958, p. 167, and Volboudt, pi. 39). Since the support of the Gug- 
+genheim watercolor is tracing paper which Kandinsky mounted on 
+cardboard, he undoubtedly traced the lines in the watercolor from 
+the drawing. Kandinsky wrote in Russian on the reverse of the 
+cardboard mount: "Sketch for Composition N° 8." At first this in- 
+scription appears puzzling, since the watercolor antedates by five 
+years Composition 8 (fig. 5) and does not resemble the final version. 
+However, in the Handlist of oil paintings under the year 1920, 
+Kandinsky recorded Composition 8 (Sketch) as number 228; he 
+later named the painting Spitzes Schweben or Pointed Suspension 
+(U.S.S.R.; present location unknown). This canvas was included 
+in an exhibition of Russian art at the Galerie van Diemen in Berlin 
+in 1922 and was reproduced in the catalogue as Kompositio&gt;i. Pho- 
+tographs reveal that it shares several motifs with the drawing and 
+watercolor. One can conclude that Kandinsky painted both our 
+1918 watercolor and the 1920 oil while formulating a Composition 
+which was never realized in its final state. 
+
+
+
+Late in 1921 Kandinsky left Russia for Berlin and by the middle 
+of 1922 he was living in Weimar and teaching at the Bauhaus. A 
+watercolor dated 1922 from the Guggenheim Museum Collection 
+
+
+
+12 
+
+
+
+(cat. no. 9) belongs to a transitional moment in Kandinsky's devel- 
+opment. The forms are geometric and do not allude to recognizable 
+objects: they are quite similar to those in the painting Variegated 
+Circle (Banter Kreis) from 192.1. The watercolor retains the oval 
+structural organization and, at the corners, traces of the border 
+prevalent in so many earlier works (cat. nos. 2, 6-8). Although most 
+of the circles are painted freehand, three have been drawn with a 
+compass. In a 1922 watercolor from The Hilla von Rebay Founda- 
+tion (cat. no. 10), the geometric structure not only determines the 
+major motifs but also the composition: the large translucent tri- 
+angle and the diagonal wedge-shape superimposed over a rhom- 
+boid. Kandinsky drew all but one of the circles with a compass. The 
+largest one, whose circumference is emphasized by five concentric 
+bands, brings to mind the circle in a 1924 watercolor, Unstable (cat. 
+no. 17). By 1923 circles figured prominently in Kandinsky's work. 
+With his association with the Bauhaus, Kandinsky's manner of 
+organizing pictorial elements changed. In Free Relationship (Freie 
+Beziebung, cat. no. 12) much of the paper support remains bare and 
+geometric shapes are strewn about the page. Moreover, there is a 
+new rigidity in the ink lines and precision in the grid and checker- 
+board patterns that testify to reliance upon ruler and compass. A 
+purity and spareness of elements becomes characteristic of many 
+Bauhaus works. 
+
+In 1922 Kandinsky began to catalogue his watercolors in a Hand- 
+list. He recorded seventeen watercolors during that year, sixty-five 
+the following year, seventy-six in 1924, twenty-two in 1925 but only 
+three in 1926. For the first year or two he did not always specify 
+titles for the watercolors, nor did he list all the works produced 
+in 1922 (for example, cat. no. 9). By 1924 each entry provides a 
+title, date, dimensions, a small sketch of the work as well as a record 
+of its whereabouts. The Handlists are numbered consecutively and, 
+in most cases, roman numerals indicate the month or months in 
+which a work was executed. From the artist's catalogues we know 
+that Free Relationship dates from July 1923, as does Composi- 
+tion 8, an untitled study for it, and the painting Circles in a Circle. 
+Comparison of the painting catalogue and the watercolor catalogue 
+for the year 1923 proves enlightening. There are at least ten water- 
+colors that are remarkably closely related to oils: for example, an 
+untitled watercolor from 1922 (HL 32) is strikingly similar in com- 
+position and color areas to Accentuated Corners, the first 1923 oil 
+listed (Betonte Ecken, HL 247). Kandinsky catalogued as Study for 
+"On White" [Entwurf zu Auf Weiss) a 1923 watercolor (HL 42) 
+
+
+
+that is virtually identical with the oil On White which was painted 
+in February to April that year (HL 253). And he listed a watercolor 
+(HL 65) done in March as Entwurf zu Bild No 255 or Study for 
+"Throughgoing Fine" (Durchgehender Strich, HL 255), which was 
+also painted in the same month. By and large, the watercolors follow 
+the same sequence as the oils with the exception of Circles in a Cir- 
+cle [Kreise im Kreis, HL 261), which was painted in July although 
+the watercolor Study for "Circles in a Circle" (HL 52) dates from 
+the first quarter of the year. Composition 8 (HL 260; fig. 5) and the 
+untitled watercolor for the right half of the painting (HL 81) were 
+both executed in July 1923. However, the Guggenheim's canvas In 
+the Black Square [Im schwarzem Viereck, HL 259) dates from June, 
+although Kandinsky places the corresponding untitled watercolor 
+(HL 84) in July. Thus, the question arises whether the watercolor 
+was done after the oil or if there was an error in recording the 
+month. Close analysis of the two Handlists reveals that the oil Ani- 
+mated Repose (Bewegte Ruhe, HL 262), was painted in October 
+but the watercolor (HL 105) belongs with works from the follow- 
+ing month. However, in all other cases, watercolors precede cor- 
+responding oil paintings. Among the works studied, watercolors 
+and oils are extraordinarily close in overall composition, details and 
+specific color areas for Accentuated Corners, On White, In the Black 
+Square, Circles in a Circle and Black Accompaniment. The degrees 
+of elaboration and explicitness found in the 1923 studies separate 
+them from the majority of sketches Kandinsky executed between 
+1910 and 1914. Moreover, in 1923 there is a single extremely de- 
+tailed watercolor for each oil rather than the many preliminary 
+studies he customarily executed during the Munich years. 
+
+Through 1923 the artist's titles and annotations in the watercolor 
+Handlist refer to studies for paintings. But from 1924 until 1934 
+Kandinsky never wrote "Entwurf zu" or "Projet pour" in the water- 
+color catalogue. Instead, he assigned each watercolor its individual 
+title. They assume a more important role in his oeuvre and are not 
+regarded as preliminary or supplementary to paintings but as inde- 
+pendent works of art. During this period, when he was at the Bau- 
+haus, Kandinsky produced many more watercolors than in previ- 
+ous years and he dramatically expanded their technical range and 
+complexity. 
+
+There are six watercolors from 1924 included in this exhibition. 
+Bright Lucidity (Helle Klarheit, cat. no. 13) which was painted in 
+May, displays flat, bright red, blue, yellow, green and purple shapes 
+silhouetted against a white background. Similarly clear-cut angular 
+
+
+
+13 
+
+
+
+forms occur in contemporary works such as Joyous Structure (Frdh- 
+lich Aufbau, HL 148) and Sharp-Calm Pink (Das scharfruhige Rosa, 
+HL 273). By contrast, in On Violet (Auf Violett, cat. no. 14) 
+Kandinsky first washed the entire sheet with purple and sponged 
+the paper so that the slight uneveness of the violet ground preserves 
+the texture of the support. The images are dispersed over the violet 
+ground, thus emphasizing the constituent shapes. The substantial 
+pyramidal form is dark green at the top and cadmium orange be- 
+low; the bridge and adjacent areas are comprised of multicolored 
+pointillist dots. In Gray (Gran, cat. no. 15) the large central shape 
+has a mottled, coagulated surface texture achieved by adding a 
+substance such as soap or alcohol to the medium. The composition 
+and dark, subdued colors of this work, which was painted in 
+October, persist in Daybreak (Morgengrauen, cat. no. 16) from 
+November 1924 and in Stable Forms (Stabiles, cat. no. 20), from 
+December 1925. Daybreak and Unstable (Haltlos, cat. no. 17) are 
+two of eleven watercolors Kandinsky executed in November. The 
+animated interplay of circles, semicircles, rectangles and rhomboids 
+in Daybreak stands in sharp contrast to the highly simplified circles 
+and straight lines of Unstable. For the latter Kandinsky selected an 
+unusual support where the texture was pressed onto the paper. Here 
+red pigment bled upward from the bottom edge. By wetting the 
+paper, he created nebulous blue circles in the middle and faintly 
+tinted blue and yellow washes. The large yellow-orange circle 
+whose circumference is repeated by four black lines has a blurred 
+yellow corona. Two small circles are divided into variously colored 
+quarters: an early instance of a favorite motif. 
+
+In Brown Double Sound (Brauner Doppelklang, cat. no. 18), 
+which is dated November-December 1924, Kandinsky experiments 
+with combining triangles, circles and squares. The triangle super- 
+imposed on a circle occurs also in a contemporary oil (Ruhiges, HL 
+283). Brown Double Sound is apparently the first instance of the 
+arrow in Kandinsky's work. The arrow, already a familiar and 
+meaningful motif in the work of Paul Klee, recurs in similar form 
+in a watercolor from December (Behauptung, HL 178) and several 
+oils from March 1925 (HL 292, 293, 294). The genesis of the arrow 
+from a square and a triangle is clear in the top center arrow in 
+Brown Double Sound, which consists of a brown square and yel- 
+low triangle, as it is in Kandinsky's sketch of the work in the Hand- 
+list. In the watercolor Kandinsky seems to have erased the pencil 
+underdrawing and to have laid down light brown lines with a brush. 
+
+
+
+The color is pale, dull, thinly painted brown with the exception 
+of the lavender rectangle, which appears to be a painting within a 
+painting. The composition and the use of a framing device recall 
+Brigbt Lucidity (cat. no. 13), although the colors of the two works 
+differ radically. 
+
+The title Brown Double Sound incorporates a term (doppel- 
+klang) from Kandinsky's theoretical writings, specifically Point and 
+Line to Plane which was published in 1926. Likewise, the title of a 
+1925 watercolor, Inner Simmering (cat. no. 19) refers to "das in- 
+nere Kocben," a concept Kandinsky wrote about in his essay, "Paint- 
+ing with White Border," published in 1913. Before discussing Inner 
+Simmering, which dates from November 1925, it should be men- 
+tioned that Kandinsky had moved to Dessau in June with the trans- 
+ferral of the Bauhaus from Weimar to Dessau. Correspondingly, 
+the Handlist does not record any watercolors from April until 
+November 1925 nor any oils from July through the end of the year. 
+Kandinsky's monumental canvas Yellow-Red-Blue (Gelb-Rot-Blau, 
+HL 314), is dated March-May 1925 and was preceded by a draw- 
+ing and a watercolor (Grohmann, 1958, pp. 198, 409, cc 719, repr.). 
+Inexplicably, the existing watercolor was not catalogued in the 
+Handlist. 
+
+A resplendent red wash fills the center of Inner Simmering and 
+imparts the sense of free, rapid application of paint. However, 
+Kandinsky first used a compass and ruler to draw all the forms 
+in India ink. He then established the background tones before 
+painting the principal forms. By sponging off the excess, he con- 
+trolled the density and fluidity of the wash and kept it from obscur- 
+ing the colors in the overlapping circles. The horn forms, common 
+motifs around 1925-27, are found also in Hard in Slack (cat. no. 
+23). Like Inner Simmering, Rising Warmth (Aufsteigende Wiirme, 
+cat. no. 21) has an area of glowing red wash which provides a cen- 
+tral focus and contrasts here with dark blue, purple and brown tri- 
+angles. Rising Warmth recalls a watercolor Kandinsky executed in 
+1925 (Nach oben, HL 20~) and also brings to mind watercolors by 
+his friends and Bauhaus colleagues Lyonel Feininger and Paul Klee. 
+
+By the autumn of 1927 Kandinsky's virtuoso techniques and his 
+diversity of styles in the watercolors are astonishing. Hard in Slack 
+(Hart im Locker) contrasts precise zones of intensely bright hues 
+with surrounding blotches of brown wash. In the exactly contem- 
+porary Hard but Soft (Hart, aber weich, cat. no. 22) Kandinsky 
+applied colored washes over finely spattered ink. Used in conjunc- 
+
+
+
+14 
+
+
+
+tion with wash, the spatter technique expanded the range of light 
+and shadow and enhanced the density and texture of the medium. 
+By 192S spattered or sprayed watercolor appears frequently in 
+Kandinsky's work (cat. nos. Z4-28), and it becomes increasingly 
+prevalent in subsequent years. Although he painted fewer oils in 
+1928, his production of watercolors was prolific and reached a 
+total of ninety-one. Within the month of May Kandinsky completed 
+twenty-one watercolors. One of them, To a Point (Zn einem Punkt, 
+HL 263) is obviously a study for the 1928 oil On Points (Auf Spit- 
+zen, HL 433), although the Handlist entry gives no indication that 
+the watercolor is related to the oil and their German titles are quite 
+different. Moreover, in the oil, the brushwork— the way pale yellows 
+and lavenders are blended into the white background— suggests a 
+conscious re-creation of the effect of watercolor. 
+
+Into the Dark {Ins Dunkel, cat. no. 24), also from May 1928, was 
+done entirely by spraying watercolor with an atomizer or a blow 
+pipe. Kandinsky used both the positive and negative shapes of a 
+stencil to create the background forms and the three sets of ascend- 
+ing triangles. As he changed and removed the stencil shapes, Kan- 
+dinsky repeated spray applications of diluted watercolor. The 
+sequence of triangles in Into the Dark anticipates later watercolors 
+such as Almost Submerged from March 1930 (Fast Versnnken, HL 
+383) and De Profitndis from August 1932 (Aus der Tiefe, HL 
+490). While Into the Dark contains no drawn lines, Kandinsky 
+chose in other sprayed watercolors to emphasize linear elements: 
+for example, Two Complexes and Vertical Accent which date from 
+the autumn of 1928 (cat. nos. 25 and 26). In the former he covered 
+the paper with yellow wash and sprayed rose and brownish-black 
+watercolor around the perimeter. He established a subtle counter- 
+point between the spattered rose and red circles at the left and the 
+washed rose and red semi-circles at the right. In Aglow of Novem- 
+ber 1928 (Aufgliihen, cat. no. 27) the artist combines wash, spatter 
+and India ink to hold together otherwise disparate compositional 
+elements. 
+
+The spray process was employed by Klee and others at the Bau- 
+haus, especially after 1925. Kandinsky and Klee had known each 
+other since 191 1 in Munich. From 1926 to 1932 they shared a 
+double house in Dessau. Undoubtedly, Klee's innovative use of the 
+spray technique stimulated Kandinsky's work with the process. 
+Moreover, Klee's stylistic influence can be perceived in several 
+watercolors in this exhibition and others in the Guggenheim Mu- 
+
+
+
+seum Collection: Little Came of 1928 (Kleines Spiel, HL 2K2 , 
+Evasive of 1929 (cat. no. 30), an Untitled watercolor from 1930 
+(cat. no. 33) and Now Upwards! from 193 1 (cat. no. 36). 
+
+In the late 1920s Kandinsky's titles acquire their own distinctive 
+vocabulary and often exemplify concepts developed in his theo- 
+retical writings. In addition to the 1927 watercolor Hart, aber weich 
+(cat. no. 22), there are coeval oils, Hart im Weich and Welches 
+Hart as well as a 1930 watercolor, Hartweich. Red is featured in 
+many titles in 1928 and is, as here, descriptive of the vivid colora- 
+tion of the works: not only Im schweren Rot (In the Heavy Red, 
+cat. no. 28) and Zwei Seiten Rot from December but also an earlier 
+oil Schweres Rot. Likewise, Kandinsky's pictorial vocabulary re- 
+mains self-contained and assumes structure and meaning through 
+cross-references within his oeuvre: for example, the images in In the 
+Heavy Red occur earlier in a 1926 oil (Verbindencs Criin, HL 332) 
+and a watercolor from June 1928 (Rosa, HL 280). 
+
+Both Unshakeable (Wackelfest, cat. no. 31) and Horizontal Blue 
+(Wagerecht-Blatt, cat. no. 32) date from December 1929. In the 
+latter the paper was washed with pale green watercolor, then 
+sprayed with successive layers of green, two shades of blue, and 
+rose. The horizontal element, red square and blue-green rectangle 
+were added last. Fine particles of sprayed watercolor cover the en- 
+tire sheet. In Unshakeable dark gray paper has been painted all over 
+with brownish-rust color gouache. Red, orange, yellow, blue and 
+green linear patterns— similar to those in Kandinsky's drawings- 
+articulate the flat surface. The painted background in Unshakeable 
+has depth and luminosity of tone but lacks the translucent atmo- 
+spheric color of Horizontal Blue. In a little Untitled watercolor 
+from 1930 (cat. no. 33), the effect of watercolor bleeding on wet 
+paper belies the manner in which it was actually painted: on dry- 
+paper which had been washed with pink, Kandinsky put an orange 
+moon and purple structure with curved blue banners. The feathery, 
+blurred edges of "bleeding watercolor" were simulated just as the 
+"brown support" was fabricated in Unshakeable. 
+
+The delicacy and precision of style in Now Upwards! from June 
+193 1 (Jetzt Aaf!, cat. no. 36) is consistent with Kandinsky's tech- 
+nique. Every line and brushstroke is perceptible although any trace 
+of pencil has apparently been erased. Contrary to his usual practice 
+at this time, Kandinsky made two preparatory drawings for Now 
+Upwards! (Volboudt, pis. 68, 69). A thin green wash colors the 
+support; alternating bands of yellow and pink form a horizontal 
+
+
+
+15 
+
+
+
+screen; lavender and green-blue complete the pale color-harmony. 
+Now Upwards! is completely different in style, coloration and tech- 
+nique from another watercolor, Reaching Upwards {Hinragend, 
+cat. no. 35), executed during the same month. In the latter Kandin- 
+sky mixed oil paint with watercolor. He followed his customary 
+method of first drawing in India ink, next applying monochromatic 
+washes, then bright hues of watercolor but he added oil pigment in 
+most of the circular areas. For example, at the top, the yellow circle 
+as well as its surrounding yellow halo was painted in oil, as were 
+the heavily scrubbed, orange, purple and blue circles below. Stylis- 
+tically and chronologically Hot {Heiss, cat. no. 37) stands in close 
+proximity to Reaching Upwards 1 . In Hot intense shades of blue, 
+purple and red confined to geometric zones in the center are juxta- 
+posed with dense black ink wash around the margins. At the left 
+India ink has bled into the wet paper to create plume-like, billow- 
+ing black forms. The rippling and flowing patterns and variations 
+in the intensity of black wash in these and earlier watercolors are 
+approximated in the black background of Kandinsky's oil painting 
+Several Circles from 1926 (Collection The Solomon R. Guggenheim 
+Museum). 
+
+The multiplicity of Kandinsky's watercolor techniques around 
+193 1 is suggested in this exhibition by the three works discussed 
+above, by the monochromatic sprayed watercolor Taut Line (cat. 
+no. 38) and by the soft, rosy spatter and wash tones of Three Ar- 
+rows (cat. no. 39). Spot Sounds {Flecken Klange, cat. no. 40) is an 
+unusual instance of Kandinsky's experimentation with the mono- 
+type technique. Evidently, the blue pigment at the very top and in 
+the smudged areas below as well as the smaller green blotches of 
+paint along the edges were first placed on another piece of paper 
+or glass and then, while still wet, were transferred to this sheet by 
+rubbing or pressing. When this transfer process was completed the 
+artist filled in the rest with watercolor. The conspicuous messiness 
+of Spot Sounds contrasts with the rigidity of Sweetish (Siisslich, cat. 
+no. 41). However, the apparent simplicity of the forms in Sweetish 
+—all of which were drawn with ruler or compass— obscures the com- 
+plexity of the technique: the support is opaque white over black 
+paper. Thus, while Sweetish is reminiscent of Vertical Accent (cat. 
+no. 26) or Unshakeable (cat. no. 31), it presages Kandinsky's work 
+with gouache on black paper from 1935 to 1941 in Paris. Dreamy 
+{Vertrdumt, cat. no. 42) which is virtually contemporary with 
+Sweetish, exemplifies the layered complexity that Kandinsky 
+achieved in his watercolors. By spraying watercolor in many stages 
+
+
+
+as he rearranged positive and negative stencils, Kandinsky created 
+secondary patterns and arrived at a preconceived composition. In 
+Dreamy he has increased the degree of stratification but has re- 
+stricted the colors to a more subtle and close-valued harmony than 
+he had three years earlier in Evasive (cat. no. 30), which has vibrant 
+green, blue and rose hues. 
+
+
+
+From 1924 until 1934 Kandinsky did not record any watercolors 
+as studies for oils in the Handlist. There are, however, at least two 
+existing uncatalogued watercolor sketches for paintings from this 
+decade: Study for "Yellow-Red-Blue" of 1925 and Study for "De- 
+velopment in Brown" of 1933 (Grohmann, 1958, p. 409, cc 719, 
+repr., p. 410, cc 735, repr.). After completing Development in 
+Brown {Entwicklung in Braun, HL 594) in August, Kandinsky 
+did not paint another canvas until six months later, after he had 
+moved to Paris and established his home there in Neuilly-sur-Seine. 
+Likewise, there is a hiatus in the watercolor Handlist from Septem- 
+ber 1933 until April 1934. The first watercolors catalogued in the 
+spring of 1934 bear titles of colors in French: Brun, Sur vert, Rose, 
+Vert-noir and Bleu-noir. Stylistically, the watercolors proceed from 
+the last Bauhaus work: for example, elements of the composition 
+and the motif of Dark Situation from July 1933 {Trube Lage, HL 
+517, Collection The Solomon R. Guggenheim Museum) are dis- 
+cernible in the Parisian oils, Yellow Center of 1934 and Two Green 
+Points of 1935. A watercolor from July 193 1, Spotted {Fleckig, HL 
+432), and a 1935 oil painting, Accompanied Contrast (fig. 6, Con- 
+traste accompagne, HL 613), provide an exceptional instance of the 
+link between Dessau and Paris. In the Handlist Kandinsky assigned 
+the title Fleckig to the watercolor without any reference to an oil. In 
+March 1935 he transformed this composition and color scheme 
+into an intriguingly similar painting. The differentiation of the rec- 
+tangular background wash zones and the spotted patches in the 
+upper portion of the watercolor have been translated into subtle, 
+slightly raised areas of fine sand in Accompanied Contrast. Further- 
+more, in the Handlist Kandinsky titled a watercolor from August 
+1934 Surface reunis and later amended it to read "Projet pour toile 
+N" 616, 2 Points verts, 191s" (HL 535). However, in this case, he 
+simplified and somewhat adapted the watercolor in the painting 
+Two Green Points {Deux pointes vertes, HL 616) from April 1935 
+which also combines oil and sand. 
+
+
+
+16 
+
+
+
+
+
+fig. 6 
+
+Accompanied Contrast. 1935 
+
+Collection The Solomon R. Guggenheim Museum, New York 
+
+
+
+fig- 7 
+
+Study for Untitled (No. 639). 1939 
+
+Collection The Solomon R. Guggenheim Museum, 
+
+New York 
+
+
+
+Between 1934 and 1941 the artist produced two hundred and 
+eight watercolors and gouaches. Increasingly, he combined medi- 
+ums. Since 1931 he had used tempera with oil and from 1934 he 
+applied both watercolor and oil to the same canvas more often than 
+earlier. According to the Handlist the first oils painted in Paris in- 
+cluded watercolor with the medium: for example, Start (HL 595). 
+Moreover, his work with sand and oil coincided with the move to 
+Paris. In similar fashion, from 1933 Kandinsky noted in the water- 
+color Handlist when he combined oil with watercolor or gouache 
+with watercolor, primarily during 1934-35, in works considered to 
+be watercolors. Thus, the categorization by medium was no longer 
+exclusive and distinctions between them broke down. Kandinsky 
+commonly used translucent watercolors together with gouache, that 
+is, opaque colors mixed with gum preparation in water. 
+
+Both Floating {Volant, cat. no. 45) and Varied Horizontals (Hor- 
+izontals variees, cat. no. 46) were painted in gouache on black 
+paper and both date from June 19 }6. The violet and blue floating 
+shape of the former resembles that in the painting Dominant 
+Curve from April 1936 (Collection The Solomon R. Guggenheim 
+Museum) and generally shares an affinity with the curving, bio- 
+morphic forms dominant in Kandinsky's Paris work. The compo- 
+sition of Varied Horizontals consists of smaller elements quite sys- 
+tematically organized around a central turquoise form. The colors 
+appear to emanate from the black background: non-objective 
+shapes seem detached, as if suspended in a void. 
+
+In these late examples Kandinsky did not paint the supports as 
+he had in works executed at the Bauhaus; instead, he selected black 
+paper. Kenneth C. Lindsay (1951, pp. 157-159) was first to point 
+
+
+
+out the importance of the black background in Kandinsky's early 
+Jugendstil-inspired works and relate them to his late gouaches. 
+Comparison of Supports from 1939 [Les Appuis, cat. no. 47) with 
+The Night of 1907 (fig. 1) reveals striking similarities in color and 
+technique which raise the possibility of an intentional return to an 
+early technique. The artist obtained blotchy and dribbled effects 
+with gouache in Supports. The opacity of the pigment suggests 
+chalk, and the slight roughness of surface contributes to the abstract 
+patterning of color zones. Stylistically, however, Supports remains 
+consistent with Kandinsky's Bauhaus work (for example, cat. nos. 
+17 and 31). 
+
+Through 1939 Kandinsky assigned a title to each watercolor in 
+the Handlist. However, he abandoned this practice in 1940 and the 
+entries, which continue through number 730, are no longer so 
+filled with information. Although no titles or months are indicated 
+for the watercolors in the Handlist after 1940, Kandinsky methodi- 
+cally noted the color of the supports: aq. s. noir, aq. s. creme fonce, 
+aq. s. rouge-brun. He listed the first watercolor for 1940 (HL 634) 
+as "Projet du No Gjj." In fact, not only this watercolor but also a 
+detailed ink drawing are explicit studies for L'Ensemble (HL 671). 
+
+There is a preparatory ink drawing from 1939 (fig. 7) for one of 
+the Untitled gouaches from 1940 in this exhibition (cat. no. 48, HL 
+639). What is positive (black) in the drawing is negative in the 
+gouache. The reversal of black and white emphasizes the spatial 
+and coloristic possibilities inherent in the medium with black back- 
+ground. In this gouache the artist drew most of the imagina- 
+tive, rounded forms freehand, using a compass only for the circles. 
+However, restraint and decorative intricacy remain dominant. In 
+
+
+
+17 
+
+
+
+EXPLANATORY NOTES 
+
+
+
+1939-40 Kandinsky executed a significant number of extremely 
+detailed ink studies for such 1940 oil paintings as Little Accents 
+(HL 670), L'Ensemble (HL 671) and Sky Blue (HL 673). Similar 
+instances where watercolors and oils follow precise drawings occur 
+from 194 1 to 1944. In addition, Kandinsky painted several water- 
+color studies for oils: for example, Moderation (HL 678, Collection 
+The Solomon R. Guggenheim Museum) corresponds to an untitled 
+1940 watercolor (HL 651) and Reduced Contrasts (HL 681) ap- 
+proximates an untitled 1941 watercolor (HL 721). 
+
+While the frequency of preliminary studies for oils around 1940 
+makes one think of the watercolors which closely resembled paint- 
+ings in 1923, their relationship differs and the circumstances sur- 
+rounding their creation are dissimilar. The 1923 watercolors ini- 
+tiated a period of innovation and stylistic development. In the 
+early watercolors Kandinsky experimented with style as well as 
+technique. The late gouaches and watercolors are the work of an 
+experienced master in his early seventies who had conquered the 
+challenges of the medium. They reflect a simplification of tech- 
+niques and consolidation of stylistic tendencies. Within the con- 
+fines of the late work, Kandinsky elaborated upon diverse images. 
+
+Undeniably, after 1934 the watercolors are no longer as inde- 
+pendent of the oils as they were during the preceding decade. The 
+more direct relationship between watercolors and oils suggests a 
+parallel to the work from 191 1 to 1914. During this period water- 
+colors were frequently preparatory studies for paintings and, in 
+general, they can be clustered around specific pictures. As has been 
+demonstrated, these correspondences change in subsequent years, 
+and the greatest discrepancies occur between 1924 and 1933 when 
+the artist was at the Bauhaus. Despite fluctuations, however, Kan- 
+dinsky's oeuvre possesses a continuity of style irrespective of 
+medium. Moreover, there are recurring instances where oils ap- 
+proximate watercolors: Light Picture of 191 3, On White of 1923, 
+On Points of 1928, Accompanied Contrast of 1935 and Moderation 
+of 1940. Throughout Kandinsky's career there are moments when 
+the distance between watercolor and oil disappears and when the 
+innovations in watercolor provide the initial impetus for major 
+paintings. 
+
+
+
+Titles: 
+
+Kandinsky's Handlist assigns titles to most of his 
+works. When no artist's title is provided and when 
+the watercolor is not specifically related to an oil, 
+it is called Untitled. All of Kandinsky's titles have 
+been translated into English in this catalogue; how- 
+ever, the titles are usually cited in their original 
+language as well. 
+
+Measurements: 
+
+Dimensions are given in inches followed by centi- 
+meters. Height precedes width; measurements are 
+taken at left and bottom edges of watercolor sheets. 
+
+Abbreviations: 
+
+HL Handlist {HiinsLitiilog) in which Kandin- 
+
+sky catalogued his work 
+
+GMS Gabriele Miinter Stiftung, Stadtische 
+Galerie im Lenbachhaus, Munich 
+
+MNOP Museum of Non-Objective Painting which 
+in 1952 was renamed The Solomon R. 
+Guggenheim Museum 
+
+SRGM The Solomon R. Guggenheim Museum, 
+New York 
+
+
+
+Exhibitions and publications are cited in abbreviated 
+form in the following catalogue entries; complete 
+references are found in the Selected Exhibitions and 
+Selected Bibliography list on pp. 73-76. 
+
+
+
+18 
+
+
+
+I Untitled, ca. i 9 i i 
+
+Not in Handlist 
+
+The Solomon R. Guggenheim Museum, 1 [ilia Rebay 
+
+Collection 
+
+71.1936 R74 
+
+Watercolor, India ink and pencil on paper, 
+ii'/hX 10' s " (18.3xz5.8cm.) 
+Signed 1.1. : K. Not dated. 
+
+PROVENANCE: 
+
+Hilla Rebay; Estate of Hilla Rebay, 1967-71. 
+
+EXHIBITIONS: 
+
+New York, SRGM, 1972, repr. 
+
+Munich, is) 11, no. 6 1 , repr. 
+
+REFERENCE: 
+
+Gollek, 1974, P- 2 79&gt; repr. 
+
+
+
+
+19 
+
+
+
+2 Untitled, ca. 1911-12 
+
+Not in Handlist 
+
+The Solomon R. Guggenheim Museum, Hilla Reb.u 
+
+Collection 
+
+71.1936 R57 
+
+Watercolor, bronze powder paint, India ink and 
+pencil on paper, 9^/2 x 12" (24 x 30.5 cm.) 
+
+Signed I.I.: K. Not dated. 
+
+I'KOVl NAM 1 : 
+
+Purchased from Nierendorf Gallery, New York, by 
+Hilla Rebay, Greens Farms, Conn., Jan. 1945; Fstate 
+of Hilla Rebay, 19(17-71. 
+
+EXHIBITIONS: 
+
+New York, MNOP, 1945, no - r 4 
+Bridgeport, 1972, no. 11 
+New York, SRGM, 1972, repr. 
+Munich, 1976, no. 118, repr. 
+
+
+
+
+
+
+
+20 
+
+
+
+3 Study for "Improvisation 33" (Sketch for 
+Orient). 1913 
+
+Not in Handlist 
+
+The Hilla von Rebay Foundation 
+
+1970.10 
+
+Watercolor, India ink and pencil on paper, 
+
+9% x i2'/ 2 " (2-3-9 x 31.6 cm.) 
+
+Inscribed on reverse by Hilla Rebay: 19 /a / Line I 
+
+Carnevale. 
+
+Not signed or dated. 
+
+PROVENANCE: 
+
+Hilla Rebay; The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Bridgeport, 1972, no. 2.3 
+Waltham, 1974, no. 10 
+Munich, 1976, no. 132, repr. 
+Greenwich, 1977, no. 11 
+
+
+
+
+ZI 
+
+
+
+4 Study for "Painting with White Border." 1913 
+
+Not in Handlist 
+
+The Hilla von Rebay Foundation 
+
+1970.37 
+
+Watcrcolor, wash, India ink and pencil on paper, 
+
+5 x 1 }' ," (12.8 x 33.6 cm.) 
+
+Inscribed on reverse, not by the artist: N" 1 1 /&lt;;/&lt;;. 
+
+Not signed or dated. 
+
+PKOVI NAM 1 : 
+
+Probably gift of Camilla Stienen to Hilla Rebay, 
+ca. 194""; Hilla Rebay, Greens Farms, Conn.; The 
+1 lilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Bridgeport, 1972, no. 27, color repr. 
+Waltham, 1974,110. 18 
+Munich, 1976, no. 135, repr. 
+Greenwich, 1977, no. 12 
+
+R.E1 I RENCE: 
+
+Rudenstine, 1976, pp. 259-261 , repr. 
+
+
+
+
+2.2. 
+
+
+
+5 Picnic. February 19 16 
+(Piknik) 
+
+Handlist (Bagatelle): it iyi6, 4, Piknik. 
+
+The Solomon R. Guggenheim Museum 
+47.1058 
+
+Watercolor, India ink and pencil on paper, 
+13I/2 x 13V2" (34.4 x 34.1cm.) 
+Signed and dated 1.1. : K/16. 
+
+PROVENANCE: 
+
+Willem Bcffic, Amsterdam (HI.); purchased from 
+Hildegarde Prytek, New York, Jan. 1947. 
+
+EXHIBITIONS: 
+
+Stockholm, 1916, no. 13 (HI.) 
+
+New York, SRGM, 1963, no. 5 
+
+New York, SRGM, 1971, repr. 
+
+Munich, 1976, no. 151, repr. 
+
+London, Tate Gallery, Abstraction: Towards a New 
+
+Art, Painting 7910-1920, Feb. 6-Apr. 13, 1980, 
+
+no. 200, repr. 
+
+
+
+
+2-3 
+
+
+
+6 Untitled. January 1 918 
+
+Not in Handlist 
+
+The Solomon R. Guggenheim Museum 
+41.250 
+
+Watercolor, India ink and pencil on paper, 
+
+10% x 15" (27.4 x 38 cm.) 
+
+Signed and dated 1.1. : Kl 1 18; inscribed on reverse: 
+
+191.SVN" 7 ;. 
+
+PROVENANCE: 
+
+Hilla Rebay; Solomon R. Guggenheim, 1938; Gift, 
+Solomon R. Guggenheim, 1941. 
+
+EXHIBITIONS: 
+
+Charleston, 1936, no. 72, repr. 
+
+New York, MNOP, 1939, no. 250, repr. 
+
+New York, MNOP, 1945, no. 39, repr. 
+
+Pittsburgh, 1946, no. 24 
+
+Boston, 1952, no. 30 
+
+Pasadena, 1963, no. 5 
+
+New York, SRGM, 1972, repr. 
+
+
+
+
+2-4 
+
+
+
+7 Untitled. March C918 
+
+Not in Handlist 
+
+The Solomon R.Guggenheim Museum 
+41.247 
+
+Watercolor, opaque white and India ink on tracing 
+paper mounted on cardboard, toV&amp;x 13 1 /:" 
+(25.7 \ ',4.4 cm.) 
+
+Signed and dated I.L K/i8; inscribed on reverse: 
+Eskk Kompozitsii N° 8. (111 1918) [Sketch for 
+Composition N°8]. 
+
+PROVEN \\i I : 
+
+Hill.i Rebay; Solomon R. Guggenheim, 1938; Gift, 
+
+Solomon R. Guggenheim, 1941. 
+
+
+
+EXHIBITIONS: 
+
+( harleston, [936, no. 7i,repr. 
+
+New York, MNOP, 1939, no. --\~, repr. 
+
+New York, MNOP, 1945, no. 36 
+
+( 'hicago, 1 v 4 s , no. y 1 
+
+Pittsburgh, 194'', no. 6 
+
+New York, SRGM, 1972, color repr. 
+
+
+
+
+2-5 
+
+
+
+8 Untitled. 1920 
+
+Not in 1 landlist 
+
+The Solomon R. Guggenheim Museum, Hilla Rebay 
+
+Collection 
+
+-1.1936 R45 
+
+Watercolor, India ink and pencil on paper, 9 x ri%" 
+
+(22.9 \ 29 cm.) 
+
+Signed and dated 1.1. : K/20. 
+
+PROVENANC 1 ■: 
+
+1 lilla Rebaj ; Estate of Hilla Rebay, 1967-71. 
+
+EXHIBITIONS: 
+
+Bridgeport, 1972, no. 28 
+New York, SRGM, 1972, repr. 
+
+
+
+
+26 
+
+
+
+9 Untitled. [922 
+
+Not in 1 (andlist 
+
+The Solomon R. Guggenheim Museum 
+50.129(5 
+
+Watercolor, Iiuli.i ink and pencil on paper, 
+11% x 18%" (32.8x47.8 cm.) 
+
+Signed and dated I.I.: K/iz\ inscribed on reverse: 
+K/N° 28/1922. 
+
+PROVENANCE: 
+
+Purchased from the artist by Rudolf [bach, Barmen, 
+Germany; purchased from [bach by his son-in-law 
+OttoStangI, Munich; purchased from Stangl, 1950. 
+
+
+
+1 XH1BITIONS: 
+
+Munich, Hans der Kunst, Die Malei .'»i Bauhaus, 
+
+May June 1950, no. 9S 
+
+Brussels, 19S-, repr. 
+
+Toronto, 1959 
+
+Pasadena, 1963, no. 8 
+
+New York.SRGM, 1972, repr. 
+
+RE1 I RENCE: 
+
+Grohmann, 1958, p. 408, repr., cc 710 
+
+
+
+
+17 
+
+
+
+10 Untitled. 1922 
+
+Handlist: 7922,44. 
+
+The Hilla von Rebay Foundation 
+
+1970.48 
+
+Watercolor, wash, India ink and pencil on paper, 
+
+x 1 4 Yh" (26.9x36.6 cm.) 
+Signed and dated c.l.: K/22; inscribed on reverse, 
+not by the artist: N°44. 
+
+PROV£NAN&lt; 1 . 
+
+Hilla Rebay; The Hilla von Rebay Foundation. 
+
+1 XH1B1TIONS: 
+
+Bridgeport, t972.no. 3i,repr. 
+
+W.iltham, 1974, no. 19 
+
+
+
+
+28 
+
+
+
+11 Bright Sound. 1923 
+(Heiterer Klang) 
+
+\ landlist: 191 ;, fo, Heiterer KLnig. 
+
+The Hilla von Rcb.iv Foundation 
+1970.34 
+
+Watercolor, wash, gouache and India ink on paper, 
+t4%x 10" (36. &lt;; x 25.5 cm.) 
+
+Signed and dated 1.1. : K/ 2 ;; inscribed on reverse: 
+N° so/1923. 
+
+PROVI \'\\( 1 : 
+
+J. B. Neumann, New York, by Sept. [936 (HL); 
+
+Nierendorf Gallery, New York, by 1942; Hilla 
+
+Rcbay, Greens Farms, Conn.; The Hilla von Rebay 
+
+Foundation. 
+
+EXHIBITIONS: 
+
+Berlin, Nierendorf, Feb. 1923 (HL) 
+Darmstadt, 192? (HL) 
+New York, MNOI\ 194s, no. 53 
+Bridgeport, 1971, no. 33 
+Waltham, 19-4, no. 28 
+Greenwich, 1977, no. 24 
+
+
+
+
+2-9 
+
+
+
+12 Free Relationship. July 192.3 
+/ reie Beziehung) 
+
+Handlist: vii 192 ,\ 87, Vreie Beziehung. 
+
+The Hilla von Rebay Foundation 
+
+1 970. 1 2.0 
+
+Watercolor, India ink and pencil on paper, 
+14X4 x 14%" (37.3 x 36.5 cm.) 
+Signed and dated LI.: K/23; inscribed on reverse: 
+N° 8y I 192} I ,,Freie Beziehung." 
+
+PROVENANCE: 
+
+Gift from Alois and Mary Schardt to Mr. and Mrs. 
+William Dieterle, Los Angeles, Dec. 1943; purchased 
+from Nierendorf Gallery, New York, by Hilla Rebay, 
+1947; The Hilla von Rebay Foundation. 
+
+
+
+1 XHIBITIONS: 
+
+Vienna, Feb. 1914 (HL) 
+
+New York, MNOP, 1945, no. 48 
+
+Waltham, 1974,110. 31 
+
+Munich, 1976,110. 160 
+
+Greenwich, 1977, no. 25 
+
+
+
+
+30 
+
+
+
+13 Bright Lucidity. May 1924 
+(HelleKlarheit) 
+
+Handlist: v i')i4, 1 ;«&gt;. Helle Klarheit ( Luciditi). 
+
+The Hill.i von Rcb.iy Foundation 
+
+1970-77 
+
+Watercolor, wash, gouache and India ink on paper, 
+
+10 x 14%" (S0.7X 36.5 cm.) 
+
+Signed and dated 1.1. : K/24; inscribed on reverse: 
+
+N" 139/1924/ „Helle Klarheit" 
+
+PROVENANCE: 
+
+J. B. Neumann (HI); Nierendorf Gallery, New York, 
+by 1942; purchased from Nierendorf by Hilla Rcbay, 
+Nov. 1944: The 1 [ilia von Rcbay Foundation. 
+
+EXHIBITIONS: 
+
+Dresden, Secession, June-Sept. 1924 (HL) 
+
+Wiesbaden, 1925, no. 33 
+
+Barmen, Mar. 1925 (HL) 
+
+Dresden, 1926, no. 68 
+
+Berlin, 1926, no. 68 
+
+Mannheim, 1927, no. 105 
+
+Berlin, 193T, no. 1 
+
+Milan, 1934, no. 1 39 
+
+New York, MNOP, 1945, no. 64 
+
+Bridgeport, 1972, no. 40 
+
+Waltham, 19^4, no. 36 
+
+Greenwich, 1977, no. -%i repr. 
+
+
+
+
+3' 
+
+
+
+14 On Violet. July 1914 
+
+I W Violet 7) 
+
+Handlist: vii 1724, 14'), Auf Violett. 
+
+The Hilla von Rebay Foundation 
+
+i97°- 157 
+
+Watercolor, opaque white and India ink on paper, 
+
+k8%" (34.5x22.6 cm.) 
+Signed and dated 1.1.: K/ 24; inscribed on reverse: 
+X" r'49/1'924/ .. A«/ Violett." 
+
+PRO VI NANCE: 
+
+Purchased from the artist through Kandinsky- 
+Gescllschaft by Heinrich Stinnes, Cologne, Dec. 1925 
+(HL); purchased at auction (Bern, Gutekunst und 
+Klipstein, Moderne Graphik tier Sammlung Heinrich 
+
+Stinnes, June 21, 1938, no. 420) by Hilla Rebay; The 
+Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Dresden, Oct. 1924 (HL) 
+Wiesbaden, 192s, no. 40 
+Barmen, Mar. 1925 (HL) 
+New York, MNOP, 1939, no. 269, repr. 
+New York, MNOP, 1945, no. 70 
+Bridgeport, 1972, no. 41, color repr. 
+Waltham, 1974, no. 40 
+Greenwich, 19 — . no. 27 
+
+
+
+
+e&gt;. 
+
+
+
+32. 
+
+
+
+15 Gray. October 192.4 
+
+(Gran) 
+
+Handlist: x 1914, i6i,Grau. 
+
+The Solomon R. Guggenheim Museum 
+38.171 
+
+Watercolor, India ink and pencil on paper, 
+i9'/i x 1314" (48-9 x 33.8 cm.) 
+Signed and dated I.I.: K I 14; inscribed on reverse: 
+N" i6i/ 1924; inscribed on reverse, not by the artist: 
+Vom Kiinstler I dutch Otto Rjlfs / 19. XII. 1925 I 
+Kandinsky 1914 I Gran I Aquarell I N° 161 192;. 
+
+PROVEN AM I : 
+
+Purchased from the artist through Kandinsky- 
+Gesellschaft by Heinrich Stinnes, Cologne, Dec. 
+1925; purchased at auction (Bern, Gutekunst und 
+Klipstein, Moderne Graphik tier Sammlung Heinrich 
+Stinnes, June 11, 1938, no. 411, repr.) by Otto Nebel 
+for Solomon R. Guggenheim. 
+
+EXHIBITIONS: 
+
+Wiesbaden, 191s, no. 3i(?) 
+
+Barmen, Mar. 1915 (HL) 
+
+New York, MNOP, 1939, no. 171, repr. 
+
+New York, MNOP, 194s, no. 73 
+
+Bridgeport, 1971, no. 37 
+
+New York,SRGM, 1971, repr. 
+
+
+
+
+33 
+
+
+
+16 Daybreak. November 1924 
+\ lorgengrauen) 
+
+Handlist: xi 192.4, 165, Morgengrauen. 
+
+1 he H1II.1 von Reb.n Foundation 
+
+IT I.I58 
+
+Watercolor ami India ink on paper, 13% x 8%" 
+(34.6 x 22.6 cm.) 
+
+Signed and dated 1.1.: K/24; inscribed on reverse: 
+N° 165/1924/ Morgengrauen. 
+
+PROVENANCE: 
+
+Purchased from the artist through Kandinsky- 
+Gesellschaft by Heinrich Stinnes, Cologne, 1916; pur- 
+chased at auction (Bern, Gutekunst und Klipstein, 
+Moderne Graphik der Sammlung Heinrich Stinnes, 
+
+June ii, 1938,110. 412.) by Otto Nebel; Hilla Rebay; 
+The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Berlin, Nierendorf, Nov. 24 (HL) 
+New York, MNOP, 1939, no. 26S, repr. 
+New York, MNOP, 1945, no. 68, repr. 
+Bridgeport, 1972, no. 42 
+Waltham, 1974, no. 41 
+Greenwich, 1977, no - 2 9 
+
+
+
+
+
+
+
+34 
+
+
+
+17 Unstable. November 192.4 
+(Haltlos) 
+
+Handlist: xi 1924, 167, Haltlos. 
+
+1 he Hill.i von Reba) Foundation 
+
+1970. 1 2.8 
+
+Watercolor, gouache, wash, India ink and pencil on 
+paper, 1 1 ' ; x io'/s" (i9-i x is. 7 cm.) 
+Signed and dated 1. 1.: K/ 24; inscribed on reverse, 
+probably not by the artist: N° 1(17 1 Weiss. 
+
+PROVF.NANCE: 
+
+G. E. Scheycr, 1918 (HL); J. B. Neumann, New York, 
+Sept. 19 U&gt; (HL); Nierendorf Gallery, New York, by 
+1942; purchased from Nierendorf by Hilla Rebay, 
+May 1947; The Hilla von Rebay Foundation. 
+
+
+
+I XHIBITIONS: 
+
+Oakland, 1919, no. \ 
+
+New York, Nierendorf, 1941, no. 4S 
+
+New York, MNOP, 194s, no. 71 
+
+Waltham, 1974, no. 59 
+
+Munich, 197C), no. [63, repr. 
+
+Greenwich, 1977, no. }i 
+
+
+
+
+35 
+
+
+
+IS Brown DoubleSound. November-December 1924 
+(Brauncr Doppelklang) 
+
+Handlist: xi-xii 1924, 176, Brauner Doppelklang. 
+
+The 1 lilla von Rebay Foundation 
+
+1970. 1 1 3 
+
+Watercolor, wash, India ink and pencil on paper, 
+[9V6 x 1 ?' s " (48.5x33.3 cm.) 
+Signed and dated 1.1.: K I 24; inscribed on reverse: 
+V" 176 / 192.4. 
+
+PROVI NANCE: 
+
+J. B. Neumann, New York (HL); Nierendorf Gal- 
+lery, New York, by 1942; Hilla Rebay, Greens Harms, 
+Conn., by 1946; The Hilla von Rebay Foundation. 
+
+I XHIBITIONS: 
+Erfurt, 1925 (HL) 
+Dresden, 1926, no. 79 
+Berlin, 1926, no. 79 
+Mannheim, 1927,110. 119 
+Milan, 1 9^4, no. 1-6 
+
+The Art Institute of Chicago, The Fifteenth Inter- 
+national Exhibition of Water Colors, Pastels, Draw- 
+ings and Monotypes, Mar. T2-May 10, 1936, no. 119 
+Waltham, 1974, no - 3^ 
+Greenwich, 1977, no. 31, repr. 
+
+
+
+
+36 
+
+
+
+19 Inner Simmering. November 1925 
+(lnneres Kochen) 
+
+1 landlist: xi 1925, i&lt;&gt;4. lnneres Kochen (rot). 
+
+The 1 lilla von Rcba] Foundation 
+
+1 970.1 19 
+
+Watercolor, wash, India ink and pencil on paper, 
+
+• X i:\" (48.4 \ U.i cm.) 
+Signed and dated I.I.: K/2j\ inscribed on reverse: 
+N" 194 I 1925 I lnneres Kochen. 
+
+PROVl NAM I : 
+
+J. B. Neumann, New York, Sept. 1936 (HI); Nieren- 
+dorf Gallery, New York, In 194-; Hilla Rebay, 
+Greens Farms, Conn.; The Hilla von Rebay 
+Foundation. 
+
+EXHIBITIONS: 
+
+Dresden, 1916, no. 85 
+Berlin, 1916, no. 8^ 
+Mannheim, 1917, no. 1 14 
+Paris, 1919, no. 1 
+Zurich, 193 1, no. 62. 
+Bridgeport, 1971, no. 44 
+Waltham, 1974, no. 43 
+Greenwich, 1977,110. 34 
+
+
+
+
+37 
+
+
+
+20 Stable Forms. December 1925 
+
+(Stabiles) 
+
+Handlist: xii 1925, 204, Stabiles. 
+
+I he Hilla von Rebay Foundation 
+1970.78 
+
+Watercolor, gouache, India ink and pencil on paper, 
+19V&amp; x n\" 148.5 x 32.3 cm.) 
+Signed and dated 1.1.: K/zy, inscribed on reverse: 
+N° 204/192 j/ ..Stabiles." 
+
+PROVl NANCE: 
+
+J. B. Neumann, New York, Sept. 1936 (HI.); Nieren- 
+dorf Gallery, New York, by 1942; purchased from 
+Nierendorf by Hilla Rebay, Nov. 1944; The Hilla 
+von Rebay Foundation. 
+
+I XHIB1TIONS: 
+
+Dresden, 1916, no. 89 
+Berlin, 1926, no. 89 
+Mannheim, 1927,110. 116 
+Milan, 1934, no. 204 
+New York, MNOP, 1945, no. 85 
+Bridgeport, 1972, no. 43 
+Waltham, 1974, no. 42 
+Greenwich, 1977, no. 33 
+
+
+
+
+38 
+
+
+
+21 Rising Warmth. September 192.7 
+(Aufsteigende Warme) 
+
+I I.iiuIIim: ix 1917, m. Aufsteigende Warme. 
+
+The Hilla von Rebay Foundation 
+
+1970.41 
+
+Watercolor, wash, India ink and pencil on paper, 
+
+10 x 14%" (Z5.3 x 36 cm.) 
+
+Signed and dated I.I : K/zy, inscribed on reverse: 
+
+N° lii I J927. 
+
+PROVENANCE: 
+
+J.B. Neumann, New York, Sept. 1936 (HI.) ; gift of 
+Nina Kaiuiinsky to Solomon R. Guggenheim, 194s 
+(HI.); Hilla Rebay, Greens Farms, Conn.; The 1 lilla 
+von Rebay Foundation. 
+
+
+
+I XHIBITIONS: 
+
+Stockholm, 19U (HI ) 
+Milan, [934, no. n i 
+New York, MNOP, 194s, n&lt; 
+Bridgeport, [972, no. 4 s; 
+
+Waltham, 19-4, no. 4s 
+
+
+
+107 
+
+
+
+
+39 
+
+
+
+22 Hard but Soft. October 1927 
+(Hart, aber iveich) 
+
+Handlist: x 1927, 220, Hart, aber weich. 
+
+The Solomon R. Guggenheim Museum 
+38.191 
+
+Watercolor, opaque white and India ink on paper, 
+19.V 11 V (48.3 x 31.2cm.) 
+
+Signed and dated 1.1.: K/27; inscribed on reverse: 
+N°220 1 1927 I „ Hart , aber iveich." 
+
+PROVl \ \\( 1 : 
+
+Purchased from the artist through Kandinsky- 
+Gesellschaft by Hcinrich Stinnes, Cologne, 1917-18; 
+purchased at auction (Bern, Gutekunst und Klipstein, 
+Woderne Grapbik der Sammlung He'mrich Stinnes, 
+June 21, 1938, no. 414, repr.) by Otto Nebel for 
+Solomon R. Guggenheim. 
+
+I XHIBITIONS: 
+
+New York, MNOP, 1939, no. 291, repr. 
+
+New York, MNOP, 1945, no. no 
+
+Chicago, 1945, no. 31 
+
+New York, SRGM, 1972, repr. 
+
+New York, Pace, 1973 
+
+Munich, 1976, no. 167, repr. 
+
+REFERENCE: 
+
+Roethel and Benjamin, r979, p. 14, repr. 
+
+
+
+
+40 
+
+
+
+23 Hard in Slack. October 19Z7 
+(ILnt im Locker) 
+
+I I.iikIIisI: v 1917, 11 1. Hart im locker. 
+
+The 1 [ilia von Rebay Foundation 
+
+1970- ' J5 
+
+Watercolor, gouache, India ink and pencil on paper, 
+19 x 12%" (48.3 x 32.3 cm.) 
+
+Signed and dated 1.1. : K/27; inscribed on reverse: 
+N" 11 i I U)i~ I .Mart im I ocker." 
+
+PROVENANl I : 
+
+J. B. Neumann, New York; Nierendorf Gallery, New 
+
+York, by 1942; purchased from Nierendorf by Hilla 
+Rebay, Nov. 1944; The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Paris, 1929, no. 10 
+
+Berlin, [931, no. 3 
+
+Zurich, 1931, no. 63 
+
+New York, MNOP, 1945, »°- "4 
+
+Bridgeport, 1971, no. 46 
+
+Waltham, 19-4, no. 46 
+
+
+
+
+41 
+
+
+
+24 Into the Dark. May 192.8 
+(Ins Dunkel) 
+
+Handlist: x &lt; V2.S', 266, fits Dunkel. 
+
+The Hilla von Rebay Foundation 
+1970.90 
+
+Watercoloron paper, 18% \ 12' j" (48 x 31.8 cm.) 
+Signed and dated I.I.: K/28; inscribed on reverse: 
+
+.V" 2 66 / J928. 
+
+PROVENANCE: 
+
+G. E. Scheyer, 1928 (HL); J. B. Neumann, New York, 
+Sept. 1936 (HL); Nicrcndorf Gallery, New York, by 
+1942; purchased from Nierendorf by Hilla Rebay, 
+Nov. 1944; The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Oakland, 1929, no. 17 
+New York, MNOP, 194^, no. 1 is 
+Bridgeport, 1972,^0.47 
+Waltham, 1974, no. 49 
+
+Atlanta, The High Museum of Art, Bauhaus Co/or, 
+Jan. 3 1 Mar. 14, 1976, color repr., traveled to Hous- 
+ton, Museum of Fine Arts, Apr. 8-May 30; Fine Arts 
+Gallery of San Diego, Aug. i-Sept. 21 
+Greenwich, 1977, no. 37 
+
+
+
+
+42. 
+
+
+
+25 Two Complexes. October iyi8 
+(Zwei Komplexe) 
+
+Handlist: x 1928, 109, Zwei Komplexe. 
+
+The Hilla von Rebay Foundation 
+
+1970.164 
+
+Watercolor, wash, India ink and pencil on paper, 
+[5I/2* iS"iw.m 45.6cm.) 
+
+Signed and dated I.I.: K/28; inscribed on reverse: 
+N" 509. 
+
+PROVENANCE: 
+
+Museum, Halle, Dec. 1919 (HL); Hilla Rebay; The 
+
+I [ilia vim Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Paris, 1919, no. 52 
+Walrham, 1974, no. ^2. 
+Greenwich, 1977, no. 38 
+
+
+
+
+43 
+
+
+
+26 Vertical Accent. November 1928 
+(Vertikalakzent) 
+
+Handlist: xi 1928, J2j, Vertikalakzent. 
+I he Hilla von Rebay Foundation 
+
+1970.44 
+
+Watercolor, wash and India ink on paper, 1^/2x9%" 
+(4.2 \ 24.6 cm.) 
+Signed and dated 1.1.: K/2S; inscribed on reverse: 
+
+N° J2J. 
+PROVEN AN ( 1 : 
+
+Purchased through Galerie Zak, Paris, by Andre 
+1 evel, Jan. 1929 (HL) ; Nierendorf Gallery, New 
+York, by 1941 ; Hilla Rebay, after Mar. 1945; The 
+Hilla von Rebay Foundation. 
+
+I XHIBl RONS: 
+
+Paris, 19^9, no. 62 
+
+New York, Nierendorf, 1941, no. 28 
+New York, M NOP, 194s, no. 119 
+Waltham, 1974, no. 47 
+Greenwich, 1977, no. 39 
+
+
+
+
+*-•'„ 
+
+
+
+
+
+
+44 
+
+
+
+27 Aglow. November 1 9 2.8 
+(Aufgliibcn) 
+
+Handlist: xi 1928, 527, Aufgluhen. 
+
+The Solomon R. Guggenheim Museum 
+
+37-197 
+
+Watercolor, India ink and pencil on paper, 18 x 
+1$ \s" (45.6 x 49.1 cm.) 
+
+Signed and dated 1.1.: K/iS; inscribed on reverse 
+mount: N" 327 I h)iS I ..Aufgluhen." 
+
+PROVENANCE: 
+
+Karl Nierendorf (HL); Rudolf Bauer for Solomon R. 
+Guggenheim by 1950; Gift, Solomon R.Guggenheim, 
+
+
+
+I \IIIHITIONS: 
+
+Charleston, 1936, no. 85, repr. 
+
+New York, MNOP, 1939, no. 297, repr. 
+
+New York, MNOP, 194s, no. m, repr. 
+
+Pasadena, 1963, no. 19 
+
+New York.SRGM, 1972, repr. 
+
+ki FERENCE: 
+
+Grohmann, 1958, p. 410, repr., cc 727 
+
+
+
+
+45 
+
+
+
+28 In the Heavy Red. December 1 928 
+(Ini schweren Rot) 
+
+I landlist: xii 1928, ; ; j, //;; schweren Rot. 
+The f lilla von Rebay Foundation 
+
+I 9"0.(3 2. 
+
+Watercolor, Iiuli.t ink and pencil on paper, 1 9V&amp; x 20" 
+(48.5 x 50.8 cm.) 
+
+Signed and dated 1.1.: K/28; inscribed on reverse, 
+probably not by the artist: N" 3 ; ;. 
+
+PROVFNANCE: 
+
+Galerie Arnold, Dresden (Gutbier; HL); acquired 
+from Karl Niercndorf by Hilla Rebay by 1947; The 
+Hilla von Rebav Foundation. 
+
+
+
+! MUNITIONS: 
+
+Washington, D.C., The Washington Gallery of Mod- 
+ern Art, 20th Century Painting and Sculpture, Sept. 
+17-Oct. 24, 1965, no. 30, traveled to Hartford, Wads- 
+worth Atheneum, Oct. 28-Dec. 6 
+Bridgeport, 1972, no. 29 
+Waltham, 1974, no - 4^ 
+Munich, 1976, no. 169, repr. 
+Greenwich, 1977, no. 36 
+
+
+
+
+% 
+
+
+
+46 
+
+
+
+29 Unshaken. February 1929 
+(Unerschiittert) 
+
+1 [andlist: ii (929, ; ;6, Unerschiittert. 
+
+The Hill.i von Rebay Foundation 
+
+1970-94 
+
+Watercolor, wash and India ink 
+(35.4x49.1 cm.) 
+Signed and dated 1.1. : K/i&lt;)\ inscribed on reverse: 
+N" u6. 
+
+PROVENANCE: 
+
+Purchased from the artist by (Catherine S. Dreier, 
+New York, by May 1919 (HI.); Hilla Rebay since 
+1945-47; The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+New York, MNOP, 1945, no. 157 (?) 
+Bridgeport, 1971.no. 53 
+Waltham, 1974,110. 58 
+Greenwich, 1977, no. 43 
+
+
+
+
+47 
+
+
+
+30 Evasive. April 1929 
+(Ausweichend) 
+
+Handlist: iv 192.9, ;a'. Ausweichend (Evasif). 
+
+The H1II.1 von Rebay Foundation 
+t97 (.137 
+
+Watercoloron paper, 2.2 1 , \ 14" s&lt;&gt;-4 x ?s.&gt; cm.) 
+Signed and dated 1.1. : K/29; inscribed on reverse, 
+probably not by the artist: N° 141. 
+
+PROVENANCE: 
+
+Probst (HL); J. B. Neumann, New York; Nierendorf 
+Gallery, New York, by 1942; purchased from Nier- 
+endorf by Hilla Rebay, Feb. 194s; The Hilla von 
+Rebay Foundation. 
+
+1 MUNITIONS: 
+
+Berlin, 1931, no. 9 
+Zurich, 1931, no. 70 
+
+Milan, 1934, no. 341 
+New York, Neumann, 1936, no. 4 
+The Art Institute of Chicago, The Twentieth Inter- 
+national Exhibition of W'atercolors, July i--Oct. s, 
+1 941, no. 140 
+
+New York, MNOP, 1945, no. 144 
+Bridgeport, 1972, no. 54 
+Waltham, 1974, no - 59 
+Greenwich, 1977^0.40 
+
+
+
+
+
+
+
+
+
+48 
+
+
+
+31 Unshakeable. December 192.9 
+(Wackelfest) 
+
+Handlist: XlV 7929, 567, Wackelfest. 
+
+The Hilla von Rebay Foundation 
+
+1970. id 
+
+Gouache on paper, 14 1 , x 1 _j ' « " (36.1 x 36 cm.) 
+
+Signet) and dated 1. 1.: Kl 29. 
+
+PROVENANCE: 
+
+Nierendorf Gallery, New York, by 1941; purchased 
+from Nierendorf by Hilla Rebay, Feb. 194s"; The 
+Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Berlin, 1931, no. 16 
+New York, Nierendorf, 1937, no. 35 
+Bridgeport, 1971, no. 5 1 
+Waltham, 1974, no - SS 
+Greenwich, 1977, no. 44 
+
+
+
+
+49 
+
+
+
+32 Horizontal Blue. December 1929 
+(Wagerecbt-BLm) 
+
+Handlist: xii /9-9. ;6y, Wagerecht-BLm. 
+
+The Hilla von Rebay Foundation 
+1970.13 
+
+Watercolor, gouache and blue ink on paper, 
+
+9V2 x 12V2" (24.2 x 31.7 cm.) 
+
+Signed and dated 1.1.: K/29; inscribed on reverse, not 
+
+by the artist: 369. 
+
+PROVENANCE: 
+
+Probst (HL); Nierendorf Gallery, New York, by 
+1942; purchased from Nierendorf by Hilla Rebay 
+between 1945-48; The Hilla von Rebay Foundation. 
+
+
+
+exhibitions: 
+Berlin, 1931, no. 18 
+Zurich, 193 1, no. 73 
+New York, Neumann, 1936, no. 6 
+New York, Nierendorf, 1941, no. 49 
+New York, MNOP, 1945, no - *4 2 
+Waltham, 1974, no. 53 
+Greenwich, 1977, no. 42 
+
+
+
+
+JO 
+
+
+
+33 Untitled. 1930 
+
+
+
+Not in Handlist 
+
+The Solomon R. Guggenheim Museum 
+38.324 
+
+Watercolor, India ink and pencil on paper, 
+8'/ 2 x6i/,"(zi.6x 15.9 cm.) 
+
+Signed and dated 1.1.: K/ 30; inscribed on mount l.r.: 
+Dcm schr verebrter Hcrr Dr. II. Stinnes I mil besten 
+Neujahrsuntnschen I Kandinsky; inscribed on re- 
+verse, not by the artist: „ Kompositiott." 
+
+PROVENANCE: 
+
+Gift of the artist to Heinrich Stinnes, Cologne, 
+1930-3 1 ; purchased at auction (Rem, Gutekunst und 
+Klipstein, MoJcrne Graphik der Sammlung Heinrich 
+Stinnes. June 21, 1938, no. 433) by Solomon R. 
+Guggenheim. 
+
+EXHIBITIONS: 
+
+New York, MNOP, 1939, no. 324; repr. 
+New York, MNOP, 1945, no. 165 
+New York,SRGM, 196}, no. ir 
+New York, SRGM, 1971, repr. 
+
+
+
+
+J 
+
+
+
+
+
+
+
+
+m 
+
+
+m 
+
+
+
+
+
+
+... 
+
+
+fj^ 
+
+
+
+
+
+
+
+
+
+
+
+
+T 
+
+
+
+
+
+
+
+
+
+
+\ 
+
+
+
+51 
+
+
+
+34 Untitled. 19^0 
+
+
+
+Not in Handlist 
+
+The Solomon R. Guggenheim Museum, Hilla Rebay 
+
+Collection 
+
+71.1936 Ri j 
+
+Watercolor, brown and India inks and pencil on 
+paper, 8% x 6%" (2.2.3 x r ^- x cm -) 
+Signed and dated 1.1.: K/30; inscribed on reverse by 
+Hilla Rebay: ..Staccato" I 19 ?o / Gift by Kandinsky, 
+
+PROVENANCE: 
+
+Gift of the artist to Hilla Rebay, 1930; Estate of Hilla 
+Rebay, 1967-71. 
+
+EXHIBITIONS: 
+
+Bridgeport, 1972, no. 56 
+
+New York, SRGM, 1971, color repr. 
+
+Munich, 1976, no. 172, repr. 
+
+
+
+
+52. 
+
+
+
+35 Reaching Upwards. June 1931 
+(Hinragend) 
+
+Handlist: vi 1931,410, Hinragend (Croissance). 
+
+The Hilla von Rebay Foundation 
+
+1970.57 
+
+Oil, watercolor, wash, gouache and India ink on 
+
+paper, 18V2 x 11%" (46.8 x 31.5 cm.) 
+
+Signed and dated 1.1.: K/u; inscribed on reverse, not 
+
+by the artist: jio. 
+
+PROVENANCE: 
+
+|. R. Neumann, New York; Nierendorf Gallery, New 
+York, by 1941; purchased from Nierendorf by Hilla 
+Rebay, Feb. 1945; The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Milan, 1934, no. 4'° 
+New York, Neumann, 1936, no. 7 
+The Art Institute of Chicago, The Sixteenth Interna- 
+tional Exhibition of Water Colors, Pastels, Drawings 
+and Monotypes, Mar. 18-May 16, 1937, no. 108 
+New York, Nierendorf, 1941, no. 1 8 
+New York, MNOP, 1945, no. 181 
+Bridgeport, 1971, no. 60 
+Waltham, 1974, no. 64 
+
+
+
+
+53 
+
+
+
+36 Now Upwards! June 193 1 
+(Jetzt Atif!) 
+
+Handlist: vi 1931, 417, Jetzt auf! (En avant). 
+
+The Hilla von Rebay Foundation 
+
+1970.46 
+
+Watercolor, wash and ink on paper, 19 x 24" 
+
+(48.1 x 61 cm.) 
+
+Signed and dated 1.1. : Kh 1 ; inscribed on reverse, not 
+
+by the artist: 417. 
+
+PROVENANCE: 
+
+J. B. Neumann, New York; Nierendorf Gallery, New 
+York, by 1941; purchased from Nierendorf by Hilla 
+Rebay, May 1947; The Hilla von Rebay Foundation. 
+
+
+
+EXHIBITIONS: 
+
+Zurich, 1931.no. 80 
+
+Berlin, 1932.^0.65 (?) 
+
+Milan, 1934.no. 417 
+
+New York, Nierendorf, 1937, no. 29 
+
+New York, MNOP, 1945, no. 177 
+
+Bridgeport, 1972, no. 58 
+
+Waltham, 1974, no. 62 
+
+Munich, 1976, no. 174 
+
+Greenwich, 1977.no. 46 
+
+
+
+
+54 
+
+
+
+37 Hot. July 1931 
+(Heiss) 
+
+Handlist: vti 1931,429, Ilciss (Chaud). 
+
+The Hilla von Rebay Foundation 
+
+1 970. s 4 
+
+Watcrcolor, wash, gouache, India ink and pencil on 
+
+paper, ii'/h x 19V&amp;" (2-8.3 x 4 8 - 6 cm ) 
+
+Signed and dated 1.1.: K/31; inscribed on reverse, not 
+
+by the artist: 429. 
+
+PROVENANCE: 
+
+J. B. Neumann, New York, Sept. 1936 (HL); Nieren- 
+dorf Gallery, New York, by 1942; purchased from 
+Nierendorf by Hilla Rebay, May 1947; The 1 [ilia 
+von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Berlin, 1932, no. 72 (?) 
+
+Milan, 1934, no. 429 
+
+New York, MNOP, 1945, no. 182 
+
+Bridgeport, 1972, no. 59 
+
+Waltham, 1974, no - &lt;\3 
+
+
+
+
+55 
+
+
+
+38 Taut Line. July 1931 
+(Gespannte Linie) 
+
+Handlist: vii 1931, 437, Gespannte Linie. 
+The Solomon R. Guggenheim Museum 
+38..n9 
+
+Watercolor and India ink on paper, 18% x ioV4" 
+(48 x 15.9 cm.) 
+
+Signed and dated 1.1. : Kl 31; inscribed on reverse 
+mount: N° 437 I iyy I „Gespannte Linie." 
+
+PROVENANCE: 
+
+Purchased through Karl Nierendorf by Rudolf 
+Probst (HL); purchased through Rudolf Bauer by 
+Solomon R. Guggenheim, 1938. 
+
+EXHIBITIONS: 
+
+Vienna, Oct. 1933 (HL) 
+New York, MNOP, 1939, no. 319, repr. 
+New York, MNOP, 1945, no. 175 
+New York, SRGM, 1971, repr. 
+
+
+
+
+56 
+
+
+
+
+
+
+39 Three Arrows. August 1931 
+(Drei Pfeile) 
+
+Handlist: viii 79 jz. 44 u Drei Pfeile (trois (leches). 
+
+The Hilla von Rebay Foundation 
+
+1970.72 
+
+Watercolor, wash and ink on paper, 18% x 12.V2" 
+(47.3 x 3 1.6 cm.) 
+
+Signed and dated 1.1. : K/31; inscribed on reverse, not 
+by the artist: 44s. 
+
+PROVENANCE: 
+
+Probably purchased from the artist through J. B. Neu- 
+mann, New York, by Hilla Rebay, May 1936 (HL); 
+The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+Berlin, 1932., no. 83 (?) 
+
+Milan, 1934, no. 44°; 
+
+New York, Neumann, 1936, no. 10 
+
+Philadelphia, 1937, no. 107, repr. 
+
+New York, MNOP, 1939, no. 328 
+
+New York, MNOP, 1945, no. 173 
+
+
+
+
+57 
+
+
+
+40 Spot Sounds. February 1932 
+(Flecken Kldnge) 
+
+\ l.indlist: it 1932, 4)6, Flecken Kldnge. 
+
+The Hilla von Rebay Foundation 
+1970.143 
+
+Watercolor, opaque w hite and ink over monotype 
+on paper, 13 x 7%" (33.1 x 18.6 cm.) 
+Signed and dated 1.1.: Kl 32. 
+
+PROVENANCE: 
+
+G. E. Scheyer, 1933 (HL); Nierendorf Gallery, New 
+York, by 1942; purchased from Nierendorf by Hilla 
+Rebay, Nov. T944; The Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+San Francisco, T935 
+New York, MNOP, 1945, no. 189 
+Bridgeport, 1972, no. 64 
+Waltham, 1974, no. 69 
+
+
+
+
+58 
+
+
+
+41 Sweetish. June 1932 
+
+(Siisslich) 
+
+Handlist: ri 19 11, 46 ;, Siisslich. 
+
+The Hilla von Rebay Foundation 
+1 970.4s 
+
+Watcrcolor, opaque white and wash on black paper, 
+10 x 9Vh" (50.7 x 24.5 cm.) 
+
+Signed and dated 1. 1.: K/ 52; inscribed on reverse, not 
+by the artist: 46?. 
+
+PROVENANCE: 
+
+G. E. Scheycr (HL); Niercndorf Gallery, New York, 
+by 1942; Hilla Rebay, Nov. 1944; The Hilla von 
+Rebay Foundation. 
+
+EXHIBITIONS: 
+
+San Francisco, 1935 
+New York, Nierendorf, 1942 
+New York, MNOP, 1945, no. 183 
+Bridgeport, 1972, no. 63 
+Waltham, 1974, no. 68 
+Greenwich, 1977, no. 50 
+
+
+
+
+59 
+
+
+
+42 Dreamy. July 1932 
+(Vertriinmt) 
+
+Handlist: rii 79 ;i, 4S0, Vertraumt. 
+
+The Hilla von Rebay Foundation 
+1970.160 
+
+Watercolor on paper, i^Vi x 22%" (39.5 x 57.5 cm.) 
+Signed and dated 1.1.: K/32; inscribed on reverse, not 
+by the artist: 480. 
+
+PROVENANCE: 
+
+G. E. Scheyer, 1933 (HI); Hilla Rebay by 1945; The 
+Hilla von Rebay Foundation. 
+
+EXHIBITIONS: 
+
+San Francisco, 1935 
+New York, MNOP, 1945, no. 185 
+Bridgeport, 1972, no. 65 
+Waltham, 1974, no. 70 
+Greenwich, 1977, no - S 1 
+
+
+
+
+60 
+
+
+
+43 Left-Center-Right. June 1933 
+(Links-Mitte-Rechts) 
+
+Handlist: vi i&gt;)\',, &gt;-' ;. Links-Mitte-Rechts. 
+
+The Hilla von Rebay Foundation 
+
+1970.1(51 
+
+Watercolor, opaque white, wash and India ink on 
+paper, is\ kiz%" (39.8x57.8 cm.) 
+Signed and dated I.I.: K/ J J; inscribed on reverse, not 
+by the artist: J13. 
+
+PROVENANCE: 
+
+J. B. Neumann, New York (HL); Nicrendorf Gal- 
+lerv, New York, by 1942; purchased from Nicren- 
+dorf by Hilla Rebay, Nov. 1944; The Hilla von 
+Rebay Foundation. 
+
+
+
+EXHIBITIONS: 
+
+New York, Nicrendorf, 1937, no. 30 
+New York, MNOP, 194";, no. [95 
+Bridgeport, 1971, no. 67 
+Waltham, 1974, no - 73 
+Munich, 1976, no. 178, repr. 
+Greenwich, 1977, no - 5 Z &gt; repr. 
+
+
+
+
+61 
+
+
+
+44 Anchored Weights. May 1936 
+(Poids fixes) 
+
+Handlist: v 1936, j6i, Poids fixes. 
+
+The Hilla von Rebay Foundation 
+
+1970.35 
+
+Watercolor, wash and gouache on paper, 
+
+12% x 19%" (32.4 x 50 cm.) 
+
+Signed and dated 1.1.: K/ 36; inscribed on reverse: 
+
+N° 561. 
+
+PROVENANCE: 
+
+J. B. Neumann, New York, Sept. 1936 (HL); Nieren- 
+dorf Gallery, New York, by 1942; purchased from 
+Nierendorf by Hilla Rebay, Feb. 1945; The Hilla von 
+Rebay Foundation. 
+
+
+
+EXHIBITIONS: 
+
+The Art Institute of Chicago, The Twentieth Inter- 
+national Exhibition of Watercolors, July 17-Oct. 5, 
+1941, no. 138 
+
+New York, MNOP, 1945, no. 219 
+Bridgeport, 1972, no. 69 
+Waltham, 1974, n0 - 74 
+Munich, 1976, no. 182 
+Greenwich, 1977, no. 52 
+
+
+
+
+
+
+
+
+
+
+6l 
+
+
+
+45 floating. June 1936 
+(Volant) 
+
+Handlist: vi 1936, j66, Volant. 
+
+The Solomon R. Guggenheim Museum 
+
+45.984 
+
+Gouache and pencil on black paper, iz'/i x 19 Xi" 
+
+(31 x 50.2 cm.) 
+
+Signed and dated I.I.: K/ 36; inscribed on reverse 
+
+mount: N" $66 I /y \6 I ..Volant" I 50 x 3/ / A mon 
+
+cher M. Andre Breton I tres amicalement I Kandin- 
+
+sky I Paris I le 11 Sept. 7938. 
+
+PROVENANCE: 
+
+Gift from the artist to Andre Breton, Paris, Sept. 1938 
+(HL); Nierendorf Gallery, New York, 1945. 
+
+
+
+EXHIBITIONS: 
+
+Paris, Galerie Jeanne Buchcr, Dec. 1936 111 
+Bern, 1937, ,U) - 83 
+
+The Art Institute of Chicago, The Twentieth Inter 
+national Exhibition 0/ Watercolors, July 17 Oct. 5, 
+1 94 1, no. 141 
+Pasadena, 19M, no. 24 
+New York, SRGM, 1971, repr. 
+Munich, 1976,110. 184, repr. 
+
+
+
+
+63 
+
+
+
+46 Varied Horizontals. June 1936 
+(Horizontales variees) 
+
+Handlist: vi 1936, j6y, Horizontals variees. 
+
+The Solomon R. Guggenheim Museum 
+38.34] 
+
+Gouache on black paper, n^x 19 '■&gt;" 
+(19.6 x 49.3 cm.) 
+
+Signed and dated 1.1.: Kl }6\ inscribed on reverse- 
+mount: N° 567 1 1916 I .Horizontales variees." 
+
+PROVEN AN ( 1 : 
+
+Gift of the artist to A.T. Jawlensky, Mar. 193"; pur- 
+chased through Rudolf Bauer by Solomon R. Gugg- 
+enheim, Dec. 1938. 
+
+
+
+EXHIBITIONS: 
+
+Bern, 1937, no. 84 
+
+New York, MNOP, 1939, no. 341, repr. 
+New York, MNOP, 1945, no - iI 5&gt; repr. 
+New York, SRGM, 1963, no. 2.6 
+New York, SRGM, 1971, repr. 
+
+
+
+
+64 
+
+
+
+47 Supports. February 1939 
+
+(I.es Appuis) 
+
+Handlist: it 1939, 6ij, Lesappuis. 
+
+The Solomon R. Guggenheim Museum 
+46.1033 
+
+Gouache on black paper, 19% x 10 1 '," (49.8 x 16 cm.) 
+Signed and dated 1.1. : K/ ;v; inscribed on reverse 
+mount: N" 6ij 1 1939 I .&lt;/ cs Ap^nis." 
+
+PROVENANCE: 
+
+Jeanne Bucher, Paris, 1944 (HI.); purchased from 
+Bucher by Nicrendorf Gallery, New York, Dec. 
+194s; purchased from Nierendorf, Nov. 1946. 
+
+EXHIBITION: 
+
+New York, SRGM, 1971, repr. 
+
+
+
+
+65 
+
+
+
+48 Untitled (No. 639). 1940 
+
+Handlist: 1940, 639. 
+
+The Solomon R. Guggenheim Museum, Hilla Rebay 
+
+Collection 
+
+-1.1 936 R87 
+
+Gouache on black paper, 19% x 13 ) '," 
+
+(49.8 x 35 cm.) 
+
+Signed and dated I.I.: K/ 40; inscribed on reverse 
+
+mount: N° 6)9 1 1940. 
+
+PROVENANCE: 
+
+Nierendorf Gallery, New York; Hilla Rebay, Greens 
+Farms, Conn.; Estate of Hilla Rebay, 1967-71. 
+
+exhibitions: 
+Bridgeport, 1971, no. 70 
+New York, 1973, repr. 
+
+
+
+
+
+^ 
+
+
+; « 
+
+
+&lt;■•••■ •• $ * 
+® ■■■.''■ Jr ^ : v 
+
+
+
+
+@ 
+
+
+gf 
+
+
+••6 -v v® 
+
+
+&amp; 
+
+
+n 
+
+
+ilfP 
+
+
+my^m 
+
+• -.\ 7X ySy * Xo / -■- 
+
+&gt;x®&gt;^ ^&lt;: o 
+
+
+
+
+■ 
+\ 
+
+
+:.:;: 
+
+
+V .&lt;%, jag 
+7. / #*#? 
+
+
+°-&gt; 
+
+
+****&gt; 
+
+
+' "7 ". "■ 
+
+
+X7# @ x 
+
+
+
+
+■"••■ 1... 
+
+
+- 1&gt;* 
+
+
+(g§t £§/ '/. © 
+
+W ,77* .• 
+
+/ 7/ ■ - _ /• 
+
+"=-— : - - '■ 
+
+; N mmm •.-■;© 
+
+
+||||| 
+
+
+
+
+a 
+
+
+
+
+(y 
+
+
+/ $ 
+
+
+1 
+
+7 
+
+/I 
+
+
+/ * | ?? : f 
+
+I / ^ ■ 
+
+y k ■'■- ° 
+
+Vv, " :vv -^- 
+c^f0¥l^y&gt;y 
+
+W^tSv J © 
+1*1 
+
+
+
+66 
+
+
+
+49 Untitled (No. 652). 1940 
+Handlist: 7940, 6fl. 
+
+The Solomon R. Guggenheim Museum, I [ilia Rebay 
+
+Collection 
+71.1936 R117 
+
+Gouache and India ink on paper, ig'/s x 10%" 
+(48.5 x 17 cm.) 
+
+Signed and dated 1.1.: K/40; inscribed on reverse 
+mount: N" 6si I ''940 I 17 x 49. 
+
+PROVENANCE: 
+
+Nina Kandinsky, Paris; Galerie Rene Drouin, Paris; 
+purchased from Sidney Janis Gallery, New York, by 
+Hilla Rebay, 1950; Hilla Rebay, Greens Farms, 
+Conn., 1950-67; Estate of Hilla Rebay, 1967-71. 
+
+EXHIBITIONS: 
+
+New York, Janis, 1949 
+Bridgeport, 1972., no. 73 
+New York, SRGM, 1971, repr. 
+
+
+
+
+
+
+
+
+
+
+• 
+
+
+
+67 
+
+
+
+50 Untitled (No. 653). 1940 
+
+Handlist: 7940,653. 
+
+The Solomon R. Guggenheim Museum, Hilla Rebay 
+
+Collection 
+
+-1.1936 R103 
+
+Gouache on black paper, 19% x iz\" [49.2 x ucm.) 
+Signed and dated 1.1.: K/40; inscribed on reverse 
+mount: \'° 6j3 I 1940 I GOUACHE. 
+
+PROVENANCE: 
+
+Nierendorf Gallery, New York, June 1943 (HL); 
+Hilla Rebay, Greens Farms, Conn.; Estate of Hilla 
+Reb.iv. 1967-71. 
+
+EXHIBITIONS: 
+
+Bridgeport, 1972, no. 74 
+New York, SRGM, 1972, repr. 
+
+
+
+
+68 
+
+
+
+CHRONOLOGY 
+
+
+
+1866 
+
+December 4 
+
+Vasilii Vasilievich Kandinsky born in Moscow to 
+
+Vasilii, a tea merchant, and Lidia Tikheeva 
+
+Kandinsky. 
+
+1869 
+
+Travels to Italy with parents. 
+
+1871 
+
+Family moves to Odessa. Parents are divorced. 
+
+1876 
+
+Attends Gymnasium where he learns to play piano 
+and cello. First of yearly trips, made until 1885, to 
+Moscow with father. 
+
+1886 
+
+Studies economics and law at University of Moscow. 
+
+1889 
+
+May 28-June 30 
+
+Makes expedition to Vologda province sponsored 
+
+by Society of Natural Science and Anthropology. 
+
+Subsequently publishes two articles on tribal 
+
+religion and peasant law. 
+
+Visits Hermitage in St. Petersburg where he is most 
+
+impressed by Rembrandt's work. 
+
+Travels to Paris to see World's Fair. 
+
+1891 
+
+Sees one of Monet's Haystacks at French Industrial 
+
+and Art Exhibition in Moscow. 
+
+1892 
+
+Completes university studies and passes law 
+
+examination. 
+
+Marries cousin Ania Shemiakina. 
+
+Second trip to Paris. 
+
+1893 
+
+Writes dissertation "On the Legality of Laborer's 
+
+Wages." 
+
+Appointed teaching assistant at Faculty of Law, 
+
+University of Moscow. 
+
+1895 
+
+Becomes artistic director of Kusnerev printing firm 
+
+in Moscow. Designs covers for chocolate boxes. 
+
+1896 
+
+Declines teaching position at University of Dorpat; 
+instead moves to Munich to study painting. Lives 
+at Friedrichstrasse 1 until September 30, 1904. 
+
+1897 
+
+Studies with Anton Azbc for two years. Meets 
+
+Alexej Jawlensky and Marianne von Werefkin. 
+
+1900 
+
+Student of Franz von Stuck at Academy in Munich. 
+Meets Ernst Stern, Alexander von Salzmann, Albert 
+Weisgerber and Hans Purrmann. 
+
+
+
+Participates in Moscow Association of Artists 
+annual; shows with them yearly until 1908. 
+
+1901 
+
+April 
+
+His "Kritka kritikov" ("A Criticism of Critics") 
+
+published in Novosti dnia, Moscow. 
+
+Co-founds Phalanx exhibition society in Munich; 
+
+becomes its president later this year. 
+
+August 15-November 
+
+First Phalanx exhibition. Eleven more are held until 
+
+1904. 
+
+Phalanx art school established; Kandinsky teaches 
+
+drawing and painting there. 
+
+1902 
+
+Meets Gabriele Miinter, a student in his painting 
+
+class. 
+
+Reviews contemporary art scene in Munich, "Kor- 
+
+respondentsiia iz Miunkhena" ("Correspondence 
+
+from Munich"), for periodical Mir Iskusstra, St. 
+
+Petersburg. 
+
+Spring 
+
+First participation in Berlin Secession. 
+
+Summer 
+
+Friendship with Hermann Obrist. 
+
+1903 
+
+April-June 
+
+Visits Vienna, Ansbach and Niirnberg with Miinter. 
+
+Stops teaching; Phalanx school closes. 
+
+September-October 
+
+Travels to Venice and Vienna en route to Odessa 
+
+and Moscow. Returns to Germany at end of month. 
+
+1904 
+
+January 
+
+Friendship with Alfred Kubin. 
+
+Works on theory of colors. 
+
+May-June 
+
+Visits The Netherlands with Miinter. 
+
+Participates in Munich Kunstverein exhibition. 
+
+Makes craft designs for the Vereinigung fiir ange- 
+
+ivandte Ktinst (Society for Applied Art), Munich. 
+
+Late August 
+
+Bicycle trip to Partenkirchen through Murnau and 
+
+Oberammergau. 
+
+September 
+
+Separates from wife. 
+
+October-November 
+
+Visits Frankfurt, Kreuznach and Miinster with 
+
+Miinter. Stops in Berlin on way to and from Odessa, 
+
+where he spends one month. 
+
+Participates in Salon d'Automne, Paris; exhibits 
+
+there yearly until 1910. 
+
+
+
+November 27-December 2 
+Travels to Paris, visits Cologne and Bonn. 
+Participates in inaugural exhibition of Les 
+Tendances Nouvelles, Paris: beginning of associa- 
+tion with this group. 
+
+Last Phalanx exhibition; by year's end association 
+dissolves. 
+
+Kandinsky's Stikhi bez slov (Poetry without Words) 
+woodcuts, published in Moscow. 
+
+Participates in first exhibition of New Society of 
+Artists, St. Petersburg, and Association of South 
+Russian Artists exhibition, Odessa; shows with 
+latter five times, until 1909. 
+
+December 1904-April 1905 
+Travels in Tunisia with Miinter. 
+
+1905 
+
+April-May 
+
+Travels through Italy on return trip to Munich. 
+
+Participates in Salon des Independents, Paris. 
+
+Joins Deutscher Kiinstlerbund. 
+
+Elected to jury of Salon d'Automne, Paris. 
+
+Awarded medal by XII C Exposition du Travail, 
+
+Paris. 
+
+November 
+
+Travels through Vienna, Budapest and Lemberg en 
+
+route to Odessa. Also visits Cologne, Diisseldorf, 
+
+Bonn, Liege and Brussels. 
+
+December 9-22 
+
+Travels in Italy. 
+
+December 23, 1905-April 1906 
+
+Lives at 24 via Montebello, Rapallo. 
+
+1906 
+
+May 
+
+Travels through Italy and Switzerland en route 
+
+to Paris. 
+
+June 
+
+Lives at 12, rue des Ursulines, Paris. At end of month 
+
+moves to 4, petite rue des Binelles, Sevres, where 
+
+he lives for one year. 
+
+Joins Union Internationale des Beaux- Arts et des 
+
+Lettres, Paris. 
+
+Fall 
+
+Sees major Gauguin retrospective at Grand Palais, 
+
+Paris. 
+
+Awarded Grand Prix of U Exposition Internationale 
+
+de Paris. 
+
+Participates in Galerie Wertheim, Berlin, and Berlin 
+
+Secession exhibitions and Exhibition of Signs and 
+
+Posters, Moscow. 
+
+1 906- 1 907 
+
+Winter 
+
+Participates in Briicke exhibition, Dresden. 
+
+
+
+69 
+
+
+
+1907 
+
+Spring 
+
+Large one-man exhibition at Pes Tendances 
+
+Nouvelles, Angers. 
+
+June 
+
+Returns to Munich. 
+
+Late June-July 
+
+Rest cure at Bad Reichenhall. 
+
+August 
+
+Spends three weeks in Switzerland with Miinter. 
+
+September 1907-April 1908 
+
+Lives in Berlin. 
+
+1908 
+May 
+Hikes in South Tyrol, stays in Lana. 
+
+June 
+
+Returns to Munich. Visits Starnberger See and 
+
+Staffelsee. 
+
+Summer 
+
+First sojourn in Murnau: spends summer with 
+
+Miinter, Jawlensky and Werefkin at Griesbrau Inn. 
+
+Fall 
+
+Moves to Ainmillerstrasse 36 in Schwabing district 
+
+of Munich. 
+
+Meets Thomas von Hartmann in Munich. 
+
+Begins Klange prose poems, which he continues to 
+
+write until 1913. 
+
+Buys two Henri Rousseau paintings. 
+
+1909 
+
+January 
+
+He co-founds Nene Kiinstlervereinigung Munch en 
+
+(NKVM) in Munich and is elected its president. 
+
+First Improvisations. 
+
+Miinter acquires house in Murnau; she and 
+
+Kandinsky often stay here until outbreak of World 
+
+War I. 
+
+Summer 
+
+In Murnau. 
+
+His Xylographies, woodcuts, published in Paris by 
+
+Les Tendances Nouvelles. 
+
+October 
+
+His reviews, "Pisino iz Miunkhena" ("Letter from 
+
+Munich"), published in periodical Apollon, St. 
+
+Petersburg; these continue to appear for one year. 
+
+Begins writing abstract stage compositions Der gelbe 
+
+Klang, Griiner Klang and Schwarz tmd Weiss (The 
+
+Yellow Sound, Green Sound and Black and White). 
+
+Meets Arnold Schonberg at Tegernsee. 
+
+Participates in Second All-Russian Congress of 
+
+Artists and Sergei Makovsky's Salon, both in St. 
+
+Petersburg. 
+
+
+
+December 1-15 
+
+First NKVM exhibition, Thannhauser's Moderne 
+
+Galerie, Munich. 
+
+December 17, 1909-February 6, 1910 
+
+Participates in Vladimir Izdebsky's Salon, Odessa, 
+
+which travels to Kiev, St. Petersburg and Riga 
+
+during 1910. 
+
+1910 
+
+First Compositions. 
+
+Completes manuscript of Uber das Geistige in der 
+Kunst (Concerning the Spiritual in Art). 
+Meets Franz Marc and August Macke at Thann- 
+hauser's gallery. Invites David and Vladimir Burliuk 
+to participate in second NKVM exhibition, Munich. 
+Spring and Summer 
+Sojourns in Murnau. 
+October-December 
+
+Visits Weimar and Berlin en route to Russia where 
+he spends time in St. Petersburg, Moscow and 
+Odessa. Returns to Munich at end of year. 
+Winter 1910-1911 
+
+Participates in Jack of Diamonds exhibition, 
+Moscow. 
+
+1911 
+
+January 
+
+Shows fifty-two works at Izdebsky's second Salon, 
+Odessa. Catalogue includes his essay "Soderzhanie 
+i forma" ("Content and Form"). 
+
+Resigns NKVM presidency. 
+
+February 9 
+
+His essay "Kuda idet 'novoe' iskusstvo" ("Whither 
+
+the New Art") published in periodical Odesskie 
+
+novosti. 
+
+May 17-19 
+
+Visits Marc in Sindelsdorf; returns in October. 
+
+Summer 
+
+In Murnau. 
+
+Begins plans with Marc for Blaue Reiter almanac. 
+
+Divorce from Ania Shemiakina finalized. 
+
+Fall 
+
+Meets Paul Klee and Robert Delaunay. Friendships 
+
+with Hans Arp, Heinrich Campendonk and Karl 
+
+Wolfskehl. 
+
+December 2. 
+
+Kandinsky, Marc, Miinter and Kubin leave NKVM 
+
+after jury rejects Kandinsky 's Composition V. 
+
+December 18 
+
+First Blaue Reiter exhibition opens at Thannhauser's 
+
+Moderne Galerie, Munich. 
+
+December 
+
+Uber das Geistige in der Kunst published in Munich. 
+
+Russian version of text presented as lecture on 
+
+Kandinsky's behalf by Nikolai Kulbin at All- 
+
+
+
+Russian Congress of Artists, St. Petersburg, at end 
+of month. 
+
+Writes abstract stage composition Violett and essay 
+"Uber Biihnenkomposition" ("On Stage Com- 
+position"). 
+
+1912. 
+
+February 
+
+Second Blaue Reiter exhibition opens at Galerie 
+
+Hans Goltz, Munich. 
+
+Spring 
+
+Blaue Reiter almanac and second edition of Uber 
+
+das Geistige in der Kunst published in Munich. 
+
+Late June-July 
+
+Stays in Murnau. 
+
+July 7-31 
+
+Participates in Moderner Bund exhibition, Zurich. 
+
+August 16-17 
+
+Michael Sadler visits Kandinsky in Murnau. 
+
+October 2.-30 
+
+First one-man exhibition in Berlin at Galerie Der 
+
+Sturm. 
+
+Fall 
+
+Meets Hugo Ball in Munich. 
+
+Third edition of Uber das Geistige in der Kunst 
+
+published. 
+
+October 16-December 13 
+
+Travels in Russia, stays in Odessa and Moscow. On 
+
+return stops in Berlin. 
+
+December 10 
+
+Kurdibowsky presents Kandinsky's art theories in 
+
+lecture at meeting of Society of Painters, St. 
+
+Petersburg. 
+
+1913 
+
+February 17-March 15 
+
+Shows one work, Improvisation 17 (Garden of Love), 
+
+at Armory Show, New York, which travels to 
+
+Chicago and Boston. Alfred Stieglitz purchases the 
+
+painting. 
+
+Kandinsky, Erich Heckel, Klee, Oskar Kokoschka, 
+
+Kubin and Marc plan to collaborate on Bible 
+
+illustrations. 
+
+July 7-September 6 
+
+Trip to Moscow via Berlin. 
+
+Fall 
+
+Kandinsky's Kliinge, prose poems and woodcuts, 
+
+and "Riickblicke," autobiographical essay published 
+
+in Munich. 
+
+September 20-December 1 
+
+Participates in Herwarth Walden's Erster Dentscher 
+
+Herbstsalou at Galerie Der Sturm, Berlin. 
+
+1914 
+
+January 
+
+Invited to lecture at opening of one-man exhibition 
+
+
+
+70 
+
+
+
+at Kreis fiir Kimst, Cologne. Submits manuscript 
+but docs not deliver lecture. 
+April 9-20 
+
+Visits his mother in Merano, Italy. 
+April 23 
+
+English edition of Uber das Geistige in der Kunst 
+published in London and Boston; Russian edition 
+published in Petrograd. 
+
+Kandinsky's letters to Arthur Jerome Eddy pub- 
+lished in Eddy's book Cubists and Post Impression- 
+ists in Chicago. 
+
+For Edwin A. Campbell, New York, executes four 
+
+mural panels, two of which are now in Guggenheim 
+
+Museum Collection. 
+
+Second edition of Blaue Reitcr almanac published 
+
+in Munich. 
+
+August 3 
+
+After outbreak of World War 1 leaves Murnau with 
+
+Miinter for Switzerland. 
+
+August 6-November 16 
+
+Stays in Mariahalde near Boldach on Lake 
+
+Constance, Switzerland. 
+
+Begins work on manuscript Punkt nnd Linie zn 
+
+Flache (Point and Line to Plane). 
+
+December 
+
+Returns to Russia, traveling through Ziirich and 
+
+across Balkans. 
+
+1915 
+
+January-April 
+
+Lives in Moscow after one-week stay in Odessa. 
+
+Executes no oil paintings this year. 
+
+April 
+
+Participates in Exhibition of Painting, 1915, 
+
+Moscow; also shows in Petrograd. 
+
+May 
+
+Spends three weeks in Odessa. 
+
+August 19-September 7 
+
+Visits Crimea. 
+
+December 23, 1915-March 1916 
+
+To Stockholm, where he meets Miinter for the last 
+
+time for Christmas; he remains there until March. 
+
+1916 
+
+Kandinsky publishes "Konsten utan amne" 
+
+("Non-representational Art") in Konst f and Om 
+
+Konstndren (On the Artist) as pamphlet in 
+
+Stockholm. 
+
+March 17 
+
+Galerie Dada (formerly Galerie Corray), Zurich, 
+
+opens with exhibition of works by Kandinsky and 
+
+others. 
+
+Leaves Stockholm for Moscow via Petrograd. 
+
+June 
+
+His poems published in Cabaret Voltaire, Zurich. 
+
+
+
+Summer 
+
+Remains in Moscow with visits to Odessa and Kiev. 
+
+Meets Nina von Andreewsky late in year. 
+
+1917 
+
+February n 
+
+Marries Nina von Andreewsky. Until December 
+
+1921 they live at 1 Dolgy Street, Moscow. 
+
+Trip to Finland. 
+
+April 14, 17 
+
+Hugo Ball reads three poems by Kandinsky and 
+
+lectures on the artist at Galerie Dada, Ziirich. 
+
+1918 
+
+Named member of Visual Arts Section (IZO) 
+of Commissariat for Cultural Progress 
+(NARKOMPROS) in Moscow. 
+
+July 
+
+Becomes director of theater and film sections of 
+
+Commissariat and the editor of Moscow journal 
+
+Izobrazitelnoe iskusstvo. 
+
+Executes designs for porcelain manufacture in 
+
+Leningrad. 
+
+October 
+
+Becomes head of a studio at Moscow Svomas (Free 
+
+State Art Studios), an innovative school where 
+
+Antoine Pevsner and Kazimir Malevich are teaching. 
+
+Helps organize twenty-two provincial museums. 
+
+Meets Vladimir Tatlin and sees his work. 
+
+Russian edition of "Riickblicke," Tekst khudozh- 
+
+nika, published in Moscow. 
+
+1919 
+
+Helps establish Institute of Artistic Culture (Inkhuk) 
+and Museum of Pictorial Culture in Moscow. 
+Kandinsky's "O stsenicheskoi kompo zitsii" (On 
+Stage Composition) published in Izobrazitelnoe 
+iskusstvo, "O velikoi utopii" ("On the Great 
+Utopia") in Khudozhestvennaiazhizn and "Selbst- 
+charakteristik" (Self-Characterization") in Das 
+Kunstblatt. 
+
+1920 
+
+Meets Naum Gabo and Marc Chagall. 
+
+Named Honorary Professor at University of 
+
+Moscow. 
+
+One-man exhibition, organized by state, in Moscow. 
+Participates in Societe Anonyme exhibition, New 
+York. 
+
+1921 
+
+September 
+
+Founds Russian Academy of Artistic Sciences 
+
+(RAKhN), Moscow, and becomes its vice-president. 
+
+Exhibits in Hannover, Cologne and, for the last 
+
+time, in Moscow. 
+
+
+
+Late December 
+
+To Berlin where he meets Lyoncl Feiningcr. 
+
+1922 
+
+Paints murals for Jnryfreie exhibition in Berlin. 
+
+March 
+
+Walter Gropius offers Kandinsky professorship at 
+
+Weimar Bauhaus. 
+
+June 
+
+Moves to Weimar. First teaches life class, subse- 
+quently becomes deputy director of mural painting 
+workshop at Bauhaus. 
+September 
+
+Vacations with Feininger at Gropius' mother's house 
+in Timmcndorfer Strand on Baltic Sea. 
+Kleine Welten (Small Worlds), portfolio of graphic 
+works, published in Berlin. 
+
+1923 
+
+March 23-May 4 
+
+First one-man exhibition in New York at Societe 
+
+Anonyme, of which he becomes vice-president; he 
+
+forms close association with Katherine Dreier. 
+
+Fall 
+
+Lives in Siidstrasse, Weimar. 
+
+1924 
+
+March 
+
+Blaue Vier (Blue Four) — Feininger, Jawlensky, 
+
+Kandinsky and Klee — is formed by Galka Scheyer 
+
+who becomes Kandinsky's representative in United 
+
+States. 
+
+Vacations in Wennigstedt on North Sea. 
+
+1925 
+
+April 1 
+
+Bauhaus at Weimar closes. 
+
+June 
+
+Moves to Dessau where Bauhaus is relocated. 
+
+Summer 
+
+Vacations in Binz auf Riigen. 
+
+Otto Ralfs forms Kandinsky Gesellschaft of German 
+
+art collectors. 
+
+November 
+
+Completes Punkt und Linie zu Flache. "Abstrakte 
+
+Kunst" published in Der Cicerone. 
+
+1926 
+
+Punkt und Linie zu Flache published in Munich. 
+
+Klee and Kandinsky occupy double house at 
+
+Moltkestrasse 6 and 7, Dessau. Father dies in 
+
+Odessa. 
+
+May 
+
+Kandinsky's sixtieth birthday exhibition opens in 
+
+Braunschweig, travels to Berlin, Dresden, Dessau 
+
+and other European cities. 
+
+Summer 
+
+Vacations in Bad Miiritz on Baltic Sea. 
+
+
+
+71 
+
+
+
+November 
+
+Participates in An International Exhibition of 
+
+Modern Art organized by Societe Anonyme at The 
+
+Brooklyn Museum. 
+
+December 
+
+Bauhaus periodical Bauhaus Zeitscbrift fiir Gestal- 
+
+tung established; Kandinsky is co-editor until 1931. 
+
+[927 
+
+Summer 
+
+Vacations in Austria and Switzerland, visiting with 
+
+Schonbergs at Worthersee. 
+
+Max Bill visits Bauhaus. 
+
+1928 
+
+March 
+
+Kandinskys become German citizens. 
+
+April 
+
+Designs sets for and directs Mussorgsky's Pictures 
+
+at an Exhibition, performed at Friedrich-Theater, 
+
+Dessau. 
+
+Kandinsky's "Kunstpadagogik" ("Teaching of Art") 
+
+published in Bauhaus magazine. Meets Rudolf 
+
+Bauer in Berlin. 
+
+Cesar Domela visits Kandinsky at Bauhaus. 
+
+Summer 
+
+Vacations on French Riviera. 
+
+1929 
+
+January 
+
+First one-man exhibition in Paris at Galerie Zak. 
+
+Meets Hilla Rebay in Dessau. 
+
+Marcel Duchamp visits Kandinsky in Dessau. 
+
+Summer 
+
+Vacations in Belgium and visits James Ensor in 
+
+Ostend. 
+
+1930 
+
+January-April 
+
+Invited to collaborate on Cercle et Carre periodical; 
+
+participates in group's exhibition in Paris. 
+
+Meets Jean Helion and San I.azzaro. 
+
+Summer 
+
+Visits Paris, Cattolica, Verona, Bologna, Urbino, 
+
+Ravenna and Venice; is particularly impressed by 
+
+mosaics in Ravenna. 
+
+One-man exhibitions in Paris, Saarbriicken, Krefeld, 
+
+Dusseldorf and Kiel. 
+
+1931 
+
+Designs ceramic tiles for Mies van der Rohe music 
+
+room in architectural exhibition, Berlin. 
+
+Offered teaching position at Art Students League, 
+
+New York. 
+
+May 26 
+
+Visits Klee in Worlitz. 
+
+
+
+Summer 
+
+Visits Egypt, Syria, Turkey, Greece and Italy on 
+
+Mediterranean cruise. 
+
+Fall 
+
+"Reflexions sur l'art abstrait" published in Cahiers 
+
+d'Art, his first contribution to this magazine. 
+
+His "Paul Klee" published in Bauhaus magazine on 
+
+occasion of Klee's resignation from faculty. 
+
+1932 
+
+August 22 
+
+National Socialist Party decrees dissolution of 
+
+Dessau Bauhaus, effective October 1. 
+
+October 
+
+Bauhaus moves to outskirts of Berlin and operates 
+
+as a private institute. 
+
+December 10 
+
+Moves to Bahnstrasse 19, Berlin-Siidende, where he 
+
+lives for the next year. 
+
+1933 
+
+July 20 
+
+Bauhaus finally closes. 
+
+Summer 
+
+Vacations at Les Sablettes, near Toulon, France. 
+
+September 
+
+Moves to Hotel des Saints-Peres, Paris. Visits 
+
+Georges Braque's studio. 
+
+He is guest of honor in Surrealist group exhibition 
+
+at Salon des Surindependants, Paris. 
+
+October-November 
+
+Two brief visits to Berlin. 
+
+December 
+
+Moves to sixth-floor apartment at 135 boulevard de 
+
+la Seine (now General Koenig), Neuilly-sur-Seine. 
+
+1934 
+
+Meets Piet Mondrian and Joan Miro. Friendships 
+
+with Pevsner, Arp and Alberto Magnelli. 
+
+June 
+
+Visits Man Ray and Constantin Brancusi. Max Ernst 
+
+visits him. 
+
+Participates in Abstraction-Creation, Paris, and 
+
+Minotaur, Brussels, exhibitions. 
+
+1935 
+
+February-March 
+
+Participates in These-Antithese-Synthese exhibition, 
+Lucerne. 
+Summer 
+
+Vacations in Italy. 
+
+Exhibits with Max Weber and Klee at J. B. 
+Neumann's New Art Circle, New York. First 
+exhibition with Neumann who becomes his rep- 
+resentative in eastern United States in July. 
+August 
+Vacations in Normandy and on French Riviera. 
+
+
+
+1936 
+
+Participates in Abstract and Concrete, Lefevre 
+Gallery, London, and Cubism and Abstract Art, The 
+Museum of Modern Art, New York. 
+
+Kandinsky's memoir on Marc published in Cahiers 
+d'Art. 
+
+Vacations in Italy. 
+
+Summer 
+
+Kandinsky's works designated Entartete Kunst 
+
+(degenerate art) and many are confiscated by Nazis. 
+
+Included in Entartete Kunst exhibition, Munich. 
+
+Vacations in Switzerland, visits Klee in Bern. Goes 
+
+to Brittany. 
+
+1938 
+
+Kandinsky's "L'Art Concret," published in first 
+
+issue of XX e Steele. 
+
+Summer 
+
+Vacations on French Riviera. 
+
+1939 
+
+Kandinskys become French citizens. 
+
+Discusses proposed multi-media ballet with Leonide 
+
+Massine. 
+
+1940 
+
+Summer 
+
+Spends two months in Pyrennees after German 
+
+invasion of France. 
+
+On return to Neuilly visits with Fernand Leger in 
+
+Vichy. 
+
+1941 
+
+Declines two invitations to come to United States. 
+
+1944 
+
+Plans a film comedy and a ballet, for which he 
+
+would design sets and von Hartmann would 
+
+compose music. 
+
+Becomes ill but continues to work until June. 
+
+November 7 
+
+Last one-man exhibition during his lifetime opens 
+
+at Galerie Esquisse, Paris. 
+
+December 13 
+
+Dies in Neuilly from a sclerosis in cerebellum. 
+
+Susan Alvson Stein 
+
+
+
+71 
+
+
+
+SELECTED EXHIBITIONS 
+
+
+
+Munich, Modernc Galerie (Thannhauser), Die erste 
+Ausstellung der Redaktion der Blaue Reiter, Dec. iS, 
+19 1 1 -Jan. i , 191- 
+
+Munich, Galerie Hans Goltz, Die zweite Ausstellung 
+
+der Redaktion der Blaue Reiter, Feb. 12-Apr. 1912 
+
+Berlin, Der Sturm, Kandinsky. Kollektiv-Ausstellung 
+1902-1912, Oct. 2.-30, 1912 
+
+Munich, Moderne Galerie (Thannhauser), Kan- 
+dinsky, Jan. 1 9 r 4 
+
+Cologne, Kreis fur Kunst Koln im Dcutschen 
+Theater, Kandinsky, Jan. 30-Feb. 15, 1914 
+
+Stockholm, Gummesons Konsthandel, Kandinsky, 
+Feb. 1916 
+
+Berlin, Der Sturm, Kandinsky, Sept. 1916 
+
+Berlin, Galerie Goldschmidt-Wallerstein, Kandinsky, 
+Apr. ^o-June 5, 1922 
+
+Munich, Moderne Galerie (Thannhauser), W. 
+Kandinsky, July 1-14, 1922 
+
+Berlin, Galerie van Diemen, Erste russische Kitnst- 
+ausstellung, summer 1921 
+
+Stockholm, Gummesons Konsthandel, Kandinsky, 
+Sept. i-Oct. 15, 1922 
+
+New York, Societe Anonyme, Kandinsky: First 
+One-Ma?! Exhibition, Mar. 23-May 4, 1923 
+
+Vienna, Neue Galerie (Grunangergasse), Russische 
+Kunstaitsstellung, Feb. 1924 
+
+Erfurt, Kunstverein, Wassily Kandinsky, Jan. 1925 
+
+Wiesbaden, Neues Museum, Nassauischer Kunst- 
+verein, Wassili Kandinsky, Jan.-Feb. 1925 
+
+Dresden, Galerie Arnold, Kandinsky Jubilaums- 
+Ausstelhtng zum 60. Gebartstage, Oct.-Nov. 1926 
+
+Berlin, Galerie Neumann &amp;C Nierendorf, Kandinsky: 
+Jubilaums- Ausstellung zum 60. Geburtstage, Nov. 
+14-Dec. 15, 1926 
+
+Stadtische Kunsthalle Mannheim, Wege und 
+Richtungen der Abstrakten Malerei in Europa, 
+Jan. 30-Mar. 27, 1927 
+
+Kunsthaus Ziirich, Ausstellung, Oct. 30-Nov. 27, 
+1927 
+
+Berlin, Galerie Ferdinand Moller, Wassily Kan- 
+dinsky: Aquarelle, Oct. 1928 
+
+Dresden, Neue Kunst Fides, Kandinsky, Oct.-Nov. 
+1928 
+
+Paris, Galerie Zak, Exposition d' Aquarelles de 
+Wassily Kandinsky, Jan. 15-31, 1929 
+
+Brussels, Galerie le Centaure, Kandinsky, May 1929 
+
+Oakland (Cal.) Art Gallery, Kandinsky, closed May 
+io, 1929 
+
+
+
+Paris, Galerie de France, Kandinsky, Mar. 14-31, 
+1930 
+
+Berlin, Galerie Alfred Flechtheim, Kandinsky, 
+Feb. 1931 
+
+Kunsthaus Ziirich, Ausstellung, Nov. 12-Dec. 9, 
+193' 
+
+Berlin, Galerie Ferdinand Moller, Wassily Kan- 
+dinsky: Aquarelle, Zeichnungen, Graphik, Feb. 1932 
+
+New York, Valentine Gallery, An Exhibition of 
+Paintings by Kandinsky, Nov. 1932 
+
+Milan, Galleria del Milione, Kandinsky, Apr. 24- 
+May 9, 1934 
+
+Paris, Galerie Cahiers d'Art, Kandinsky, May 1934 
+
+San Francisco Museum of Art, Kandinsky. May 5- 
+June9, 1935 
+
+Paris, Galerie Cahiers d'Art, Kandinsky, June 21- 
+Sept. 10, 1935 
+
+New York, J. B. Neumann's New Art Circle, 
+Vasily Kandinsky, Feb. 1-29, 1936 
+
+Los Angeles, Stendahl Art Galleries, Kandinsky, 
+Feb. 24, 1936 
+
+Charleston, S.C., Carolina Art Association, Gibbes 
+Memorial Art Gallery, Solomon R. Guggenheim 
+Collection of Non-Objective Paintings, Mar. 1- 
+Apr. 12, 1936 
+
+Paris, Galerie Jeanne Bucher, Kandinsky, Dec. 3- 
+19, 1936 
+
+Kunsthalle Bern, Wassily Kandinsky: Franzosische 
+Meister der Gegemvart, Feb. 21-Mar. 29, 1937 
+
+New York, Nierendorf Gallery, Kandinsky (or- 
+ganized by College Art Association), Mar. 12-28, 
+[937, traveled to Cleveland Museum of Art, 
+Cambridge, Mass., Germanic Museum, Harvard 
+University and elsewhere in United States 
+
+London, Guggenheim Jeune, Wassily Kandinsky, 
+Mar. 1938 
+
+New York, Nierendorf Gallery, Kandinsky, Feb. 1- 
+Mar. 18, 1939 
+
+New York, Museum of Non-Objective Painting, 
+Art of Tomorrow, opened June 1, 1939 
+
+Paris, Galerie Jeanne Bucher, Kandinsky, June 
+
+i-i7i 1939 
+
+New York, Nierendorf Gallery, Kandinsky, Mar. 
+
+1941 
+
+New York, Nierendorf Gallery, Kandinsky Retro- 
+spective, Dec. 1942-Feb. 1943 
+
+Paris, Galerie de L'Esquisse, Etapes de I'oeuvre de 
+Wassily Kandinsky, Nov. 7-Dec. 7, 1944 
+
+
+
+Kunsthalle Basel, Wassily Kandinsky: Gedacht- 
+nisausstellung. Mar. 10-Apr. 8, 1945 
+
+New York, Museum of N'on-Objectivc Painting, /;; 
+Memory of Wassily Kandinsky, Mar. is -Apr. 29, 
+1945 
+
+Chicago, The Arts Club, Wassily Kandinsky 
+Memorial Exhibition, Nov. 1945 
+
+Pittsburgh, Department of Fine Arts, Carnegie 
+Institute, Memorial Exhibition of Paintings by 
+Wassily Kandinsky, Apr. n-May 12, 1946 
+
+Kunsthaus Zurich, Georges Braque, Wassily Kan- 
+dinsky, Pablo Picasso, Sept. 21 -Oct. 20, 1946 
+
+Pans. Galerie Rene Drouin, Kandinsky, Feb. 1947 
+
+Amsterdam, Stedelijk Museum, Kandinsky, Dec. 8, 
+1947-end Jan. 1948, traveled to The Hague, 
+Gemeentemuseum, Feb. 13-Mar. 14 
+
+Munich, Moderne Galerie (Otto Stangl), Kandinsky, 
+Sept. -Oct. 1948 
+
+New York, Sidney Janis Gallery, Kandinsky, Nov. 
+9-27, 1948 
+
+Paris, Galerie Rene Drouin, Kandinsky: epoque 
+parisienne, June 1— July 2, 1949 
+
+New York, Sidney Janis Gallery, Kandinsky, Nov. 
+21-Dec. 24, 1949 
+
+Paris, Galerie Maeght, Kandinsky 1900-1910, Nov.- 
+Dec. 1951 
+
+Boston, Institute of Contemporary Art, Kandinsky, 
+Mar. 25-Apr. 18, 1952, traveled to New York, M. 
+Knoedler Sc Co., Inc., May 10-June 6; San Francisco 
+Museum of Art, July 20-Aug. 26; Minneapolis, 
+Walker Art Center, Sept. 14-Oct. 26; Cleveland 
+Museum of Art, Nov. 6-Dec. 7 
+
+Paris, Galerie Maeght, Kandinsky, Oct.-Nov. 19S3 
+
+Paris, Galerie Maeght, Kandinsky: periode drama- 
+tique 1910-1920, July-Aug. 1955 
+
+Brussels, Palais des Beaux-Arts, 4J Oeuvres de 
+Kandinsky Provenant du Solomon R. Guggenheim 
+Museum, New York, May i--June 30, 1957, 
+traveled to Paris, Musee National d'Art Moderne, 
+Nov. 15, 1957-Jan. 5, 1958; London, Tate Gallery, 
+Jan. 15-Feb. 28; Lyon, Musee des Beaux-Arts, Mar. 
+8-Apr. 6; Oslo, Kunstnernes Hus, Apr. 18-May 4; 
+Rome, Galleria Nazionale d'Arte Moderna, May 
+15-June 30 
+
+Paris, Berggruen &amp; Cie., Klee &amp; Kandinsky, Mar. 
+1959 
+
+The Art Gallery of Toronto, Paintings by Kandinsky 
+from the Collection of The Solomon R. Guggenheim 
+Museum, Apr. 24-May 24, 1959 
+
+
+
+73 
+
+
+
+London, Marlborough Gallery, Ltd., Kandinsky: the 
+Road to Abstraction, Apr.-May 1961 
+
+Pasadena Art Museum, Vastly Kandinsky, 1866- 
+1944: A Retrospective Exhibition (organized by The 
+Solomon R. Guggenheim Museum, New York), 
+Jan. 15-Feb. 15, 1963, traveled to San Francisco 
+Museum of Art, Mar. i-Apr. 1; Portland (Ore.) Art 
+Museum, Apr. 15-May 15; San Antonio, Marion 
+Koogler McNay Art Institute, June i-July 1; Colo- 
+rado Springs Fine Arts Center, July 15-Aug. 25; The 
+Baltimore Museum of Art, Sept. 19-Oct. 20; The 
+Columbus Gallery of Fine Arts, Nov. 5-Dec. 5; St. 
+Louis, Washington University Art Gallery, Dec. zz, 
+1963-Jan. 6, 1964; Montreal Museum of Fine Arts, 
+Feb. 5-Mar. 5; Worcester Art Museum, Mar. zo- 
+Apr. zo 
+
+New York, The Solomon R. Guggenheim Museum, 
+Vasily Kandinsky, 1866-1944: A Retrospective 
+Exhibition, Jan. zs-Apr. 7, 1963, traveled to Paris, 
+Musee National d'Art Moderne, Apr. Z9-June 24; 
+The Hague, Gemeentemuseum, July i-Aug. 30; 
+Kunsthalle Basel, Sept. 7-Nov. 7 
+
+Stockholm, Moderna Museet, Kandinsky, Apr. 10- 
+May 2.3, 1965 
+
+New York, Marlborough-Gerson Gallery, Inc., 
+Kandinsky: The Bauhaits Years, Apr.-May 1966 
+
+St. Paul de Vence, France, Fondation Maeght, 
+Kandinsky Centenaire, July 23-Sept. 30, 1966 
+
+London, Marlborough Gallery, Ltd., Kandinsky and 
+His Friends, Nov.-Dec. 1966 
+
+New York, The Solomon R. Guggenheim Museum, 
+Vasily Kandinsky: Painting on Glass, Dec. 4, 1966- 
+Feb. 1967 
+
+New York, The Museum of Modern Art, Kandinsky 
+Watercolors, Apr. z-May 11, 1969, traveled to Fort 
+Worth Art Center, July 13-Aug. 17; Richmond, 
+Virginia Museum of Fine Arts, Sept. i-Oct. iz; 
+Ithaca, White Museum of Art, Cornell University, 
+Nov. 3-Dec. 14; Louisville, J. B. Speed Art Museum, 
+Jan. n-Feb. zz, 1970; Manchester, N.H., Currier 
+Gallery of Art, Mar. 16-Apr. 27; Toronto, Art 
+Gallery of Ontario, May 18-June Z9; Pasadena Art 
+Museum, July zo-Aug. 31; San Francisco Museum 
+of Art, Sept. zi-Nov. z; Milwaukee Art Center, Jan. 
+zi-Feb. 18, 1971; Minneapolis Institute of Arts, 
+Mar. 17-Apr. Z5; Kunstmuseum Bern, May 27- 
+July 18 
+
+New York, M. Knoedler &amp; Co., Inc., Kandinsky: 
+Parisian Period 1934-1944, Oct. 21-Nov. 22, 1969 
+
+Staatliche Kunsthalle Baden-Baden, Wassily Kan- 
+dinsky: Gemalde 1900-1944, July 10-Sept. 27, 1970 
+
+
+
+Kunstmuseum Bern, Wassily Kandinsky: Aquarelle 
+and Gouachen, May 27-July 18, 1971 
+
+Bridgeport, Conn., Carlson Gallery, University of 
+Bridgeport, Homage to Hilla Rebay, Apr. 8-May 
+10, 197Z 
+
+New York, The Solomon R. Guggenheim Museum, 
+Kandinsky at the Guggenheim Museum, May 12- 
+Sept. 5, 197Z, traveled to Los Angeles County 
+Museum of Art, Oct. 3-Nov. 19; Minneapolis, 
+Walker Art Center, May 5-July 15, 1973 
+
+Basel, Galerie Beyeler, Kandinsky: Aquarelle und 
+Zeichnungen, June-July 197Z 
+
+Paris, Berggruen &amp;C Cie., Kandinsky aquarelles et 
+dessins, Oct. 1972 
+
+Paris, Galerie Karl Flinker, Kandinsky, Oct. 28- 
+Dec. 9, 1972 
+
+New York, The Pace Gallery, Kandinsky: Water- 
+colors and Drawings 1911-1943, Mar. 10-Apr. 
+4, 1973 
+
+London, The Lefevre Gallery, Oil Paintings and 
+Watercolours by Wassily Kandinsky, Apr. 12-May 
+19, 1973 
+
+New York, The Solomon R. Guggenheim Museum, 
+The Graphic Work of Kandinsky, Jan. 17-Feb. 24, 
+1974, traveled under the auspices of the Inter- 
+national Exhibitions Foundation to Cincinnati Art 
+Museum, Apr. 1-30; Little Rock, Arkansas Arts 
+Center, May 15-June 15; San Antonio, Marion 
+Koogler McNay Art Institute, July 1-3 1; Houston, 
+The Museum of Fine Arts, Aug. 15-Sept. 15; Fort 
+Worth Art Center, Oct. 1-3 1; Kansas City, William 
+Rockhill Nelson Gallery and Atkins Museum of 
+Fine Arts, Nov. 15-Dec. 15; Davenport (la.), Munic- 
+ipal Art Gallery, Jan. 4-Feb. z, 1975; The Detroit 
+Institute of Arts, Feb. 15-Mar. 16; Worcester Art 
+Museum, Apr. 1-30; Washington, D.C., The Phillips 
+Collection, May 15-June 15 
+
+Waltham, Mass., The Rose Art Museum, Brandeis 
+University, Kandinsky: Prints, Drawings and Water- 
+colors from The Hilla von Rebay Foundation, May 
+
+1-2-9. 1974 
+
+Paris, Galerie Dina Viemy, Kandinsky: retrospective 
+des dessins de 1886 a 1944, Oct. 1975 
+
+Edinburgh, Scottish National Gallery of Modern 
+Art, Wassily Kandinsky, Aug. 15-Sept. 15, 1975 
+
+Munich, Haus der Kunst, Wassily Kandinsky 1866- 
+1944, Nov. 13, 1976-Jan. 30, 1977 
+
+Paris, Galerie Karl Flinker, Kandinsky, May Z5- 
+July z, 1977 
+
+
+
+Greenwich (Conn.) Library, Kandinsky: A Selection 
+
+from the Hilla von Rebay Collection, June 3-30, 
+
+1977 
+
+Paris, Centre National d'Art et de Culture Georges 
+
+Pompidou, Kandinsky, trente peintures de musees 
+
+sovietiques, Feb. i-Mar. 26, 1979 
+
+Staatsgalerie Stuttgart, Klee und Kandinsky, May 6- 
+July 29, 1979 
+
+Edinburgh, The Scottish Arts Council Gallery, 
+Kandinsky: The Munich Years 1900-14, Aug. 18- 
+Sept. 16, 1979, traveled to Oxford, Museum of 
+Modern Art, Sept. 30-Oct. 28 
+
+Vivian Barnett 
+
+
+
+74 
+
+
+
+SELECTED BIBLIOGRAPHY 
+
+
+
+i. By Kandinsky 
+
+Uber das Geistige in der Kunst. Insbesondere in der 
+Malerei, Munich, Jan. 191 2. Second edition Apr. 
+191 2. Third edition 1911. Preferred English trans- 
+lation: Concerning the Spiritual in Art and Painting 
+in Particular, New York, Wittenbom, Schultz, 1947. 
+Includes the artist's 1914 additions 
+
+Der Plane Reiter, edited by Kandinsky and Fran/ 
+Marc, Munich, Piper, 1912. Second edition 1914. 
+Documentary edition in English translation by Klaus 
+Lankheit: The Blaue Reiter Almanac, New York, 
+Viking, 1974. Kandinsky's contributions include: 
+"Eugen Kahler," "On the Question of Form," "On 
+Stage Composition" and "The Yellow Sound, A 
+Stage Composition" 
+
+Kldiigc, Munich, Piper, 1913. A selection of these 
+prose poems and woodcuts is included in the 
+Wittenbom edition of Concerning the Spiritual 
+in Art 
+
+"Riickblicke," Kandinsky, 1901-191 ?, Berlin, Der 
+Sturm, 1 9 1 3 . Preferred English translation: "Rem- 
+iniscences" in Modern Artists on Art, edited by 
+Robert L. Herbert, Fnglewood Cliffs, New Jersey, 
+Prentice Hall, 1964 
+
+Oin Konstnaren, Stockholm, Konsthandels, T916. 
+English translation: "On the Artist," Artforum, 
+vol. XI, Mar. 19-3, pp. -6-78 
+
+Tekst Khudozhnika, Moscow, 1918. Second version 
+of "Riickblicke." English translation: "Text 
+Artista," In Memory of Wassily Kandinsky, edited 
+by Hilla Rebay, New York, Museum of Non- 
+Objective Painting, 1 945 
+
+Pnnkt und l.inie z« Fldche: Beitrag zur Analyse der 
+malerischen Elemente, Munich, Laugen, 1926. En- 
+glish translation: Point and Line to Plane: Contribu- 
+tion to the Analysis of the Pictorial FJements, New 
+York, Museum of Non-Objective Painting, 194-. 
+Reprinted by Dover Publications, New York, 1979 
+
+For Kandinsky's collected writings see: 
+
+Essays iiber Kunst und Kunstler, edited by Max Bill, 
+Stuttgart, 1955. Contains most of Kandinsky's 
+articles published between 1912 and 1943 
+
+Kandinsky: Ecrits complets, edited by Philippe Sers, 
+Paris, Denoel-Gonthier, vol. 2, 1970; vol. 3, 1975; 
+vol. 1 in preparation 
+
+Wassily Kandinsky: Tutti gli scritti, edited by 
+
+Philippe Sers, Milan, Feltrinelli, vol. 1, 1973; vo '- 
+
+-. 1974 
+
+Wassily Kandinsky: The Complete Writings, edited 
+
+by Kenneth C. Lindsay and Peter Vergo, in 
+
+preparation 
+
+
+
+2. On Kandinsky 
+
+"Fur Kandinsky," Der Sturm, vol. Ill, Mar. 19 13, pp. 
+277-279, 288; vol. IV, Nov. 1913, pp. 3, 5-6 
+
+Franz Marc, "Kandinsky," Der Sturm, vol. IV, Nov. 
+1913, p. 130 
+
+Edward Wadsworth, "Inner necessity," Blast, no. 1, 
+June 20, 1914, pp. 119-125 
+
+Paul Fechter, Der Expressionismus, Munich, 1914 
+
+Herbert Kuhn, "Kandinsky: I. Fur," Das Kunstblatt, 
+vol. Ill, 1919, p. 178; Willi Wolfradt, "II. Wider. (Die 
+Kunst und das Absolut)," pp. 180-183 
+
+Konstantin Umanskij, "Russland IV: Kandinskij's 
+Rolle im russischen Kunstleben," Der Ararat, Jg. II, 
+May-June 1920 (Sonderheft), pp. 28-30 
+
+Hugo Zehder, Wassily Kandinsky: Unter autorisier- 
+
+ter Benutzung der russischen Selbstbiographie, Dres- 
+den, 1920 
+
+Will Grohmann, "Wassily Kandinsky," Der Cice- 
+rone, Jg. XVI, Sept. 1924, pp. 887-898 
+
+Theo Schneider, "Die Kunstlehre Kandinskys," 
+Kunstblatt, jg. XI, 1927, pp. 198-200 
+
+[E.] Teriade, "Kandinsky," Le Centaure, annee 3, 
+May 1929, pp. 220-223 
+
+Will Grohmann, "Wassily Kandinsky," Cahiers 
+d'Art, annee 4, 1929, pp. 322-329 
+
+Will Grohmann, Wassily Kandinsky, Paris, 1930 
+
+Christian Zervos, "Notes sur Kandinsky," Cahiers 
+d'Art, vol. 9, 1934, pp. 149-157 
+
+Meyer Schapiro, "Nature of Abstract Art," Marxist 
+Quarterly, vol. 1, Jan. -Mar. 1937, pp. 77-98 
+
+Hilla Rebay, ed., In Memory of Wassily Kandinsky, 
+
+Museum of Non-Objective Painting, New York, 
+
+1945, exn - cat - 
+
+Max Bill, "Die mathematische Denkweise in der 
+
+Kunst unserer Zeit," Werk, Jg. 36, Mar. 1949, pp. 
+
+86-91 
+
+Carola Giedion-Welcker, "Kandinskys Malerei als 
+Ausdruck eines geistigen Universalismus," Werk, Jg. 
+37, Apr. 1950, pp. 1 19-123 
+
+I.udwig Grote, "Der Blaue Reiter," Die Kunst, Jg. 
+48, 1950, pp. 4-1 1 
+
+Max Bill, ed., Wassily Kandinsky, Boston, 1951 
+
+Kenneth C. Lindsay, An Examination of the Funda- 
+mental Theories of Wassily Kandinsky, Ph.D. disser- 
+tation. University of Wisconsin, 195 1 
+
+Kenneth C. Lindsay, "Genesis and Meaning of the 
+Cover Design for the First Blaue Reiter Exhibition 
+Catalogue," Art Bulletin, vol. XXXV, Mar. 1953, 
+
+pp. 47-52 
+
+
+
+Will Grohmann, "I.c Cavalier Bleu," L'Oeil, no. 9, 
+Sept. 1955, pp. 4-13 
+
+Marcel Brion, "Tournant Spirituel," / 4 Soli, vol. 2, 
+Nov.-Dec. 1955, pp. 4-1 1 
+
+Klaus Brisch, Wassily Kandinsky, Untersuchung zur 
+Entstehung tier gegenstandslosen Malerei, Ph.D. dis- 
+sertation, University of Bonn, 1955 
+
+Werner Hofmann, "Studien zur Kunsttheoric des 20. 
+Jahrhundcrts," Zeitschrift fiir Kunstgeschichte, Jan. 
+
+1956, pp. 136-150 
+
+Herbert Read, "An Art of Internal Necessity," 
+Quadrum, no. 1, May 1956, pp. 7-22 
+
+Paul Volboudt, "Wassily Kandinsky," Cahiers d'Art, 
+annees 31-32, 1956-57, pp. 177-215 
+
+Lorenz Eitner, "Kandinsky in Munich," The Burling- 
+ton Magazine, vol. XCIX, June 195-, pp. 192-197 ff 
+
+Peter Selz, "The Aesthetic Theories of Wassily Kan- 
+dinsky and their Relationship to the Origin of Non- 
+objective Painting," Art Bulletin, vol. XXXIX, June 
+
+1957, PP- 127-136 
+
+Johannes Eichner, Kandinsky und Gabriele Miinter, 
+Munich, 1957 
+
+Will Grohmann, Wassily Kandinsky, Fife and Work, 
+New York, 1958 
+
+Kenneth C. Lindsay, "Wassily Kandinsky, life and 
+work, by Will Grohmann," Art Bulletin, vol. XI I. 
+Dec. I9S9, PP- 34 8 -35° 
+Herbert Read, Kandinsky 1866-1944, London, 1959 
+
+Jean Cassou, Interferences: Aquarelles et dessins de 
+Wassily Kandinsky, Cologne, i960 
+
+Marcel Brion, Kandinsky, London, 1961 
+
+L. D. Ettlinger, "Kandinsky's 'At Rest,'" in Charlton 
+Lectures on Art at King's College, London, 1961, 
+
+pp. 3-21 
+
+Peter Fingesten, "Spirituality, Mysticism and Non- 
+objective Art," Art Journal, vol. XXI, Fall 1961, 
+pp. 2-6 
+
+Clement Greenberg, "Kandinsky," in Art and Cul- 
+ture, Boston, 1961 
+
+Will Grohmann, "Art into Architecture: The Bau- 
+haus Ethos," Apollo, no. 76, Mar. 1962, pp. 3 -—4 1 
+
+Daniel Robbins, "Vasily Kandinsky: Abstraction and 
+Image," Art Journal, vol. XXII, Spring 1963, pp. 
+M^-147 
+
+Paul Overy, "The Later Painting of Wassily Kan- 
+dinsky," Apollo, no. 78, Aug. 1963, pp. 1 17-123 
+
+Eberhard Roters, "Wassily Kandinsky und die Ges- 
+talt des Blauen Reiters," Jahrbuch der Berliner Mu- 
+seen, Band V, 1963, pp. 201-226 
+
+
+
+75 
+
+
+
+PHOTOGRAPHIC CREDITS 
+
+
+
+L. D. Ettlinger, "Kandinsky," L'Oeil, no. 114, June 
+1964, pp. 10-17 ff 
+
+Jacques Lassaigne, Kandinsky — Bibliographical and 
+
+Critical Study, Geneva, 1964 
+
+Troels Andersen, "Some Unpublished Letters by 
+Kandinsky," Artes, vol. II, Oct. 1966, pp. 90-110 
+
+XX" Steele, no. XXVII, Dec. 1966. Kandinsky cen- 
+tenary issue 
+
+Sixten Ringbom, "Art in 'The Epoch of the Great 
+Spiritual': Occult Elements in the Early Theory of 
+Abstract Painting," Journal of the Warburg and 
+Courtauld Institutes, vol. XXIX, 1966, pp. 386-418 
+
+Marisa Volpi Orlandini, Kandinsky: Dall'art nou- 
+veatt alia psicologia delta forma, Rome, 1968 
+
+Rose-Carol Washton, Vasily Kandinsky, 1909-13: 
+Painting and Theory, Ph.D. dissertation, Yale Uni- 
+versity, 1968 
+
+Paul Overy, Kandinsky: The Language of the Eye, 
+New York, 1969 
+
+Donald B. Kuspit, "Utopian Protest in Early Abstract 
+Art," Art Journal, vol. XXIX, Summer 1970, pp. 
+430-437 
+
+Sixten Ringbom, The Sounding Cosmos: A Study in 
+the Spiritualism of Kandinsky and the Genesis of 
+Abstract Painting, Helsinki, 1970 
+
+Hans K. Roethel, Kandinsky: Das Graphische Werk, 
+Cologne, 1970 
+
+Robert Welsh, "Abstraction and the Bauhaus," Art- 
+forum, vol. VIII, Mar. 1970, pp. 46-51 
+
+Rose-Carol Washton Long, "Kandinsky and Abstrac- 
+tion: The Role of the Hidden Image," Artforum, vol. 
+X, June 1972, pp. 42-49 
+
+Rosel Gollek, Der Blaue Reiter in der Stddtischen 
+Galerie, Miinchen, Munich, 1974 
+
+Erika Hanfstaengl, Wassily Kandinsky, Zeichnun- 
+gen und Aquarelle. Katalog der Sammlung in der 
+Stddtischen Galerie im Lenbachhaus Miinchen, Mu- 
+nich, 1974 
+
+Pierre Volboudt, Die Zeichnungen Wassily Kandin- 
+skys, Cologne, 1974 
+
+Jonathan Fineberg, Kandinsky in Paris 1906-7, Ph.D. 
+dissertation, Harvard University, May 1975 
+
+Rose-Carol Washton Long, "Kandinsky's Abstract 
+Style: The Veiling of Apocalyptic Folk Imagery," 
+Art Journal, vol. XXXIV, Spring 1975, pp. 217-118 
+
+Clark V. Poling, Bauhaus Color, The High Museum 
+of Art, Atlanta, 1975, exn - cat - 
+
+Clark V. Poling, "Kandinsky au Bauhaus," Change, 
+no. 26-27, F erj - 1976, pp. 194-208 
+
+
+
+Jelena Hahl, "Abstraction et musique atonale: 
+Kandinsky et Schonberg," L'Oeil, no. 250, May 
+1976, pp. 24-27 ff 
+
+Nina Kandinsky, Kandinsky und ich, Munich, 1976 
+
+Angelica Zander Rudenstine, The Guggenheim 
+Museum Collection: Paintings 1880-1945, New 
+York, 1976, vol. 1, pp. 204-391 
+
+Wassily Kandinsky d Munich: Collection Stdd- 
+tische Galerie im Lenbachhaus, Bordeaux, 1976, 
+exh. cat. Essays by A. Zweite, R. Gollek, H. K. 
+Roethel, J. Hahl-Koch, M. Hoog 
+
+Hans K. Roethel and Jean K. Benjamin, "A New 
+Light on Kandinsky's First Abstract Painting," The 
+Burlington Magazine, vol. CXIX, Nov. 1977, p. 772 
+
+Hans K. Roethel, Kandinsky, Paris, 1977 
+
+Paul Vogt, Der Blaue Reiter, Cologne, 1977 
+
+Rosel Gollek, Wassily Kandinsky: Friihe Land- 
+schaften, Munich, 1978 
+
+Kandinsky: Trente Peintures des Musees Sovietiques, 
+Centre Georges Pompidou, Musee National d'Art 
+Moderne, Paris, 1979, exh. cat. 
+
+Michel Conil Lacoste, Kandinsky, New York, 1979 
+
+Hans K. Roethel in collaboration with Jean K. 
+Benjamin, Kandinsky, New York, 1979 
+
+Peg Weiss, Kandinsky in Munich: The Formative 
+Jugendstil Years, Princeton, 1979 
+
+John E. Bowlt and Rose-Carol Washton Long, 
+eds., The Life of Vasitii Kandinsky in Russian Art: 
+A Study of "On the Spiritual in Art," Newtonville, 
+Mass., 1980 
+
+Rose-Carol Washton Long, Kandinsky: The De- 
+velopment of an Abstract Style, New York, 1980 
+
+Christine Poggi 
+
+
+
+Black and white photographs and ektachromes were 
+taken by Robert E. Mates, Mary Donlon, Susan 
+Lazarus or Paul Katz with the exception of cat. nos. 
+10-12, 17, 20, 21, 23, 25, 26, 28, 30, 39-41, 43, 44, 
+which were made by Joseph Szaszfai, Branford, 
+Connecticut, and the portrait of Kandinsky, p. 3, 
+by Hope Associates, New York. 
+
+
+
+5000 copies of this catalogue, 
+designed by Malcolm Grear Designers, 
+typeset by Dumar Typesetting, Inc., 
+have been printed by The Falcon Press 
+in December 1980 for the Trustees of 
+The Solomon R. Guggenheim Foundation. 
+
+
+
+76 
+
+
+
+
+
+
+THE SOLOMON R. GUGGENHEIM MUSEUM 1071 FIFTH AVENUE NEW YORK CITY 
+
+
+
+</pre> </div><!--/.container-->
+</main>
+</div><!--/#wrap-->
+<!-- Timing ...
+     rendered on: www18.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:66:require_once
+                                             |setup.php:414:log
+  0.0054   0.0054      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2332:log
+  0.0074   0.0020      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0093   0.0019     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:474:get_json_obj
+                                             |Metadata.inc:2171:direct
+                                             |Caching/AbstractReactiveCache.inc:283:do_recompute
+                                             |AbstractReactiveCache.inc:394:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:2210:_get_json_obj
+                                             |Metadata.inc:2386:fetch
+                                             |Metadata/RecordServer.inc:141:execute
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0137   0.0044   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:56:log
+  0.0139   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:979:head
+                                             |common/Nav.inc:119:__construct
+                                             |Nav.inc:188:session_start
+                                             |Cookies.inc:62:log
+  0.0863   0.0725              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1010:footer
+                                             |common/setup.php:182:footer
+                                             |Nav.inc:1508:dump
+                                             |Bug.inc:114:log
+    -->
+<script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=86;
+    vs[i]['server_name']="www18.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+</body></html>
+
+
