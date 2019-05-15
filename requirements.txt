@@ -1,0 +1,10 @@
+gensim
+pandas
+spacy
+nltk
+pyteaser
+jieba
+gensim==3.4.0
+sumy
+graphlab-create
+pyLDAvis
